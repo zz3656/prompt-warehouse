@@ -1,0 +1,60 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://prompt-warehouse.dev/schema/project.json",
+  "title": "PWS Project Config",
+  "description": "Per-project configuration referencing keywords and templates from the warehouse",
+  "type": "object",
+  "required": ["id", "name"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z][a-z0-9_-]*$" },
+    "name": { "type": "string", "minLength": 1, "maxLength": 200 },
+    "version": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$" },
+    "description": { "type": "string", "maxLength": 1000 },
+    "project_type": {
+      "type": "string",
+      "enum": ["comic", "video", "game", "web", "text", "music", "general"]
+    },
+    "prompt_warehouse_version": {
+      "type": "string",
+      "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"
+    },
+    "keywords": {
+      "type": "object",
+      "properties": {
+        "enabled_categories": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["quality", "composition", "lighting", "character", "clothing", "styles", "negative", "scene", "panel"]
+          }
+        },
+        "excluded_categories": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "custom_categories": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "custom_keywords_path": { "type": "string" }
+      }
+    },
+    "templates": {
+      "type": "object",
+      "properties": {
+        "enabled": { "type": "array", "items": { "type": "string" } },
+        "custom": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "settings": {
+      "type": "object",
+      "properties": {
+        "default_api": { "type": "string" },
+        "default_style": { "type": "string" },
+        "max_prompt_length": { "type": "integer", "minimum": 100, "maximum": 10000 },
+        "default_negative": { "type": "string" }
+      }
+    }
+  },
+  "additionalProperties": false
+}

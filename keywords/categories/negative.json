@@ -1,0 +1,2371 @@
+[
+  {
+    "id": "negative_quality_low_quality",
+    "term": "low quality",
+    "category": "negative",
+    "subcategory": "quality",
+    "labels": [
+      "quality",
+      "low"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_quality_worst_quality",
+    "term": "worst quality",
+    "category": "negative",
+    "subcategory": "quality",
+    "labels": [
+      "quality",
+      "worst"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_quality_bad_quality",
+    "term": "bad quality",
+    "category": "negative",
+    "subcategory": "quality",
+    "labels": [
+      "quality",
+      "bad"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_quality_low_resolution",
+    "term": "low resolution",
+    "category": "negative",
+    "subcategory": "quality",
+    "labels": [
+      "quality",
+      "low"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_quality_blurry",
+    "term": "blurry",
+    "category": "negative",
+    "subcategory": "quality",
+    "labels": [
+      "quality",
+      "blurry"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_quality_blurry_background",
+    "term": "blurry background",
+    "category": "negative",
+    "subcategory": "quality",
+    "labels": [
+      "quality",
+      "blurry"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_quality_out_of_focus",
+    "term": "out of focus",
+    "category": "negative",
+    "subcategory": "quality",
+    "labels": [
+      "quality",
+      "out"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_quality_dithering",
+    "term": "dithering",
+    "category": "negative",
+    "subcategory": "quality",
+    "labels": [
+      "quality",
+      "dithering"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_quality_jpeg_artifacts",
+    "term": "jpeg artifacts",
+    "category": "negative",
+    "subcategory": "quality",
+    "labels": [
+      "quality",
+      "jpeg"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_quality_pixelated",
+    "term": "pixelated",
+    "category": "negative",
+    "subcategory": "quality",
+    "labels": [
+      "quality",
+      "pixelated"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_anatomy_deformed",
+    "term": "deformed",
+    "category": "negative",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "deformed"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_anatomy_distorted",
+    "term": "distorted",
+    "category": "negative",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "distorted"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_anatomy_disfigured",
+    "term": "disfigured",
+    "category": "negative",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "disfigured"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_anatomy_bad_anatomy",
+    "term": "bad anatomy",
+    "category": "negative",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "bad"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_anatomy_wrong_anatomy",
+    "term": "wrong anatomy",
+    "category": "negative",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "wrong"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_anatomy_extra_limbs",
+    "term": "extra limbs",
+    "category": "negative",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "extra"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_anatomy_extra_arms",
+    "term": "extra arms",
+    "category": "negative",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "extra"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_anatomy_extra_legs",
+    "term": "extra legs",
+    "category": "negative",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "extra"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_anatomy_missing_limbs",
+    "term": "missing limbs",
+    "category": "negative",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "missing"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_anatomy_missing_fingers",
+    "term": "missing fingers",
+    "category": "negative",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "missing"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_anatomy_extra_digits",
+    "term": "extra digits",
+    "category": "negative",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "extra"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_anatomy_fewer_digits",
+    "term": "fewer digits",
+    "category": "negative",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "fewer"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_anatomy_wrong_fingers",
+    "term": "wrong fingers",
+    "category": "negative",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "wrong"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_anatomy_bad_hands",
+    "term": "bad hands",
+    "category": "negative",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "bad"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_anatomy_poorly_drawn_hands",
+    "term": "poorly drawn hands",
+    "category": "negative",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "poorly"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_anatomy_mutation",
+    "term": "mutation",
+    "category": "negative",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "mutation"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_anatomy_mutated_hands",
+    "term": "mutated hands",
+    "category": "negative",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "mutated"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_anatomy_fused_fingers",
+    "term": "fused fingers",
+    "category": "negative",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "fused"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_anatomy_too_many_fingers",
+    "term": "too many fingers",
+    "category": "negative",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "too"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_anatomy_long_neck",
+    "term": "long neck",
+    "category": "negative",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "long"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_anatomy_conjoined_fingers",
+    "term": "conjoined fingers",
+    "category": "negative",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "conjoined"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_anatomy_extra_toe",
+    "term": "extra toe",
+    "category": "negative",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "extra"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_anatomy_wrong_feet",
+    "term": "wrong feet",
+    "category": "negative",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "wrong"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_face_ugly",
+    "term": "ugly",
+    "category": "negative",
+    "subcategory": "face",
+    "labels": [
+      "face",
+      "ugly"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_face_duplicate",
+    "term": "duplicate",
+    "category": "negative",
+    "subcategory": "face",
+    "labels": [
+      "face",
+      "duplicate"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_face_morbid",
+    "term": "morbid",
+    "category": "negative",
+    "subcategory": "face",
+    "labels": [
+      "face",
+      "morbid"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_face_mutilated",
+    "term": "mutilated",
+    "category": "negative",
+    "subcategory": "face",
+    "labels": [
+      "face",
+      "mutilated"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_face_plastic_skin",
+    "term": "plastic skin",
+    "category": "negative",
+    "subcategory": "face",
+    "labels": [
+      "face",
+      "plastic"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_face_bad_face",
+    "term": "bad face",
+    "category": "negative",
+    "subcategory": "face",
+    "labels": [
+      "face",
+      "bad"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_face_deformed_face",
+    "term": "deformed face",
+    "category": "negative",
+    "subcategory": "face",
+    "labels": [
+      "face",
+      "deformed"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_face_ugly_face",
+    "term": "ugly face",
+    "category": "negative",
+    "subcategory": "face",
+    "labels": [
+      "face",
+      "ugly"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_face_poorly_drawn_face",
+    "term": "poorly drawn face",
+    "category": "negative",
+    "subcategory": "face",
+    "labels": [
+      "face",
+      "poorly"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_face_bad_proportions",
+    "term": "bad proportions",
+    "category": "negative",
+    "subcategory": "face",
+    "labels": [
+      "face",
+      "bad"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_face_gross_proportions",
+    "term": "gross proportions",
+    "category": "negative",
+    "subcategory": "face",
+    "labels": [
+      "face",
+      "gross"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_face_malformed_limbs",
+    "term": "malformed limbs",
+    "category": "negative",
+    "subcategory": "face",
+    "labels": [
+      "face",
+      "malformed"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_face_extra_arms_and_legs",
+    "term": "extra arms and legs",
+    "category": "negative",
+    "subcategory": "face",
+    "labels": [
+      "face",
+      "extra"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_face_asymmetrical_eyes",
+    "term": "asymmetrical eyes",
+    "category": "negative",
+    "subcategory": "face",
+    "labels": [
+      "face",
+      "asymmetrical"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_face_crossed_eyes",
+    "term": "crossed eyes",
+    "category": "negative",
+    "subcategory": "face",
+    "labels": [
+      "face",
+      "crossed"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_face_strabismus",
+    "term": "strabismus",
+    "category": "negative",
+    "subcategory": "face",
+    "labels": [
+      "face",
+      "strabismus"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_face_uneven_eyes",
+    "term": "uneven eyes",
+    "category": "negative",
+    "subcategory": "face",
+    "labels": [
+      "face",
+      "uneven"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_face_extra_eye",
+    "term": "extra eye",
+    "category": "negative",
+    "subcategory": "face",
+    "labels": [
+      "face",
+      "extra"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_face_missing_eye",
+    "term": "missing eye",
+    "category": "negative",
+    "subcategory": "face",
+    "labels": [
+      "face",
+      "missing"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_composition_watermark",
+    "term": "watermark",
+    "category": "negative",
+    "subcategory": "composition",
+    "labels": [
+      "composition",
+      "watermark"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_composition_text",
+    "term": "text",
+    "category": "negative",
+    "subcategory": "composition",
+    "labels": [
+      "composition",
+      "text"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_composition_username",
+    "term": "username",
+    "category": "negative",
+    "subcategory": "composition",
+    "labels": [
+      "composition",
+      "username"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_composition_error",
+    "term": "error",
+    "category": "negative",
+    "subcategory": "composition",
+    "labels": [
+      "composition",
+      "error"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_composition_crop",
+    "term": "crop",
+    "category": "negative",
+    "subcategory": "composition",
+    "labels": [
+      "composition",
+      "crop"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_composition_out_of_frame",
+    "term": "out of frame",
+    "category": "negative",
+    "subcategory": "composition",
+    "labels": [
+      "composition",
+      "out"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_composition_cut_off",
+    "term": "cut off",
+    "category": "negative",
+    "subcategory": "composition",
+    "labels": [
+      "composition",
+      "cut"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_composition_lowres",
+    "term": "lowres",
+    "category": "negative",
+    "subcategory": "composition",
+    "labels": [
+      "composition",
+      "lowres"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_composition_signature",
+    "term": "signature",
+    "category": "negative",
+    "subcategory": "composition",
+    "labels": [
+      "composition",
+      "signature"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_composition_extra_limbs",
+    "term": "extra limbs",
+    "category": "negative",
+    "subcategory": "composition",
+    "labels": [
+      "composition",
+      "extra"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_composition_bad_hands",
+    "term": "bad hands",
+    "category": "negative",
+    "subcategory": "composition",
+    "labels": [
+      "composition",
+      "bad"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_composition_wrong_size",
+    "term": "wrong size",
+    "category": "negative",
+    "subcategory": "composition",
+    "labels": [
+      "composition",
+      "wrong"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_composition_border",
+    "term": "border",
+    "category": "negative",
+    "subcategory": "composition",
+    "labels": [
+      "composition",
+      "border"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_composition_frame",
+    "term": "frame",
+    "category": "negative",
+    "subcategory": "composition",
+    "labels": [
+      "composition",
+      "frame"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_composition_multiple_panels",
+    "term": "multiple panels",
+    "category": "negative",
+    "subcategory": "composition",
+    "labels": [
+      "composition",
+      "multiple"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_style_3d",
+    "term": "3d",
+    "category": "negative",
+    "subcategory": "style",
+    "labels": [
+      "style",
+      "3d"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_style_realistic",
+    "term": "realistic",
+    "category": "negative",
+    "subcategory": "style",
+    "labels": [
+      "style",
+      "realistic"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_style_photorealistic",
+    "term": "photorealistic",
+    "category": "negative",
+    "subcategory": "style",
+    "labels": [
+      "style",
+      "photorealistic"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_style_photograph",
+    "term": "photograph",
+    "category": "negative",
+    "subcategory": "style",
+    "labels": [
+      "style",
+      "photograph"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_style_realistic_noise",
+    "term": "realistic noise",
+    "category": "negative",
+    "subcategory": "style",
+    "labels": [
+      "style",
+      "realistic"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_style_realistic_camera",
+    "term": "realistic camera",
+    "category": "negative",
+    "subcategory": "style",
+    "labels": [
+      "style",
+      "realistic"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_style_out_of_focus",
+    "term": "out of focus",
+    "category": "negative",
+    "subcategory": "style",
+    "labels": [
+      "style",
+      "out"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_style_oil_painting",
+    "term": "oil painting",
+    "category": "negative",
+    "subcategory": "style",
+    "labels": [
+      "style",
+      "oil"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_textrelated_watermark",
+    "term": "watermark",
+    "category": "negative",
+    "subcategory": "textRelated",
+    "labels": [
+      "textRelated",
+      "watermark"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_textrelated_username",
+    "term": "username",
+    "category": "negative",
+    "subcategory": "textRelated",
+    "labels": [
+      "textRelated",
+      "username"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_textrelated_signature",
+    "term": "signature",
+    "category": "negative",
+    "subcategory": "textRelated",
+    "labels": [
+      "textRelated",
+      "signature"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_textrelated_logo",
+    "term": "logo",
+    "category": "negative",
+    "subcategory": "textRelated",
+    "labels": [
+      "textRelated",
+      "logo"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_textrelated_text",
+    "term": "text",
+    "category": "negative",
+    "subcategory": "textRelated",
+    "labels": [
+      "textRelated",
+      "text"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_textrelated_lettering",
+    "term": "lettering",
+    "category": "negative",
+    "subcategory": "textRelated",
+    "labels": [
+      "textRelated",
+      "lettering"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_textrelated_subtitle",
+    "term": "subtitle",
+    "category": "negative",
+    "subcategory": "textRelated",
+    "labels": [
+      "textRelated",
+      "subtitle"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_textrelated_chapter_number",
+    "term": "chapter number",
+    "category": "negative",
+    "subcategory": "textRelated",
+    "labels": [
+      "textRelated",
+      "chapter"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_textrelated_comic_title",
+    "term": "comic title",
+    "category": "negative",
+    "subcategory": "textRelated",
+    "labels": [
+      "textRelated",
+      "comic"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_textrelated_series_name",
+    "term": "series name",
+    "category": "negative",
+    "subcategory": "textRelated",
+    "labels": [
+      "textRelated",
+      "series"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_commondefects_skin_marks",
+    "term": "skin marks",
+    "category": "negative",
+    "subcategory": "commonDefects",
+    "labels": [
+      "commonDefects",
+      "skin"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_commondefects_fat_rolls",
+    "term": "fat rolls",
+    "category": "negative",
+    "subcategory": "commonDefects",
+    "labels": [
+      "commonDefects",
+      "fat"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_commondefects_stray_hair",
+    "term": "stray hair",
+    "category": "negative",
+    "subcategory": "commonDefects",
+    "labels": [
+      "commonDefects",
+      "stray"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_commondefects_cropped_head",
+    "term": "cropped head",
+    "category": "negative",
+    "subcategory": "commonDefects",
+    "labels": [
+      "commonDefects",
+      "cropped"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_commondefects_bad_feet",
+    "term": "bad feet",
+    "category": "negative",
+    "subcategory": "commonDefects",
+    "labels": [
+      "commonDefects",
+      "bad"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_commondefects_deformed_feet",
+    "term": "deformed feet",
+    "category": "negative",
+    "subcategory": "commonDefects",
+    "labels": [
+      "commonDefects",
+      "deformed"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_commondefects_extra_toe",
+    "term": "extra toe",
+    "category": "negative",
+    "subcategory": "commonDefects",
+    "labels": [
+      "commonDefects",
+      "extra"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_commondefects_wrong_feet",
+    "term": "wrong feet",
+    "category": "negative",
+    "subcategory": "commonDefects",
+    "labels": [
+      "commonDefects",
+      "wrong"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_commondefects_toes_merging",
+    "term": "toes merging",
+    "category": "negative",
+    "subcategory": "commonDefects",
+    "labels": [
+      "commonDefects",
+      "toes"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_commondefects_muscle_lump",
+    "term": "muscle lump",
+    "category": "negative",
+    "subcategory": "commonDefects",
+    "labels": [
+      "commonDefects",
+      "muscle"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_commondefects_dimpled_skin",
+    "term": "dimpled skin",
+    "category": "negative",
+    "subcategory": "commonDefects",
+    "labels": [
+      "commonDefects",
+      "dimpled"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_commondefects_patchy_skin",
+    "term": "patchy skin",
+    "category": "negative",
+    "subcategory": "commonDefects",
+    "labels": [
+      "commonDefects",
+      "patchy"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_commondefects_visible_tattoo",
+    "term": "visible tattoo",
+    "category": "negative",
+    "subcategory": "commonDefects",
+    "labels": [
+      "commonDefects",
+      "visible"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_commondefects_shoulder_bumps",
+    "term": "shoulder bumps",
+    "category": "negative",
+    "subcategory": "commonDefects",
+    "labels": [
+      "commonDefects",
+      "shoulder"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_commondefects_extra_nipple",
+    "term": "extra nipple",
+    "category": "negative",
+    "subcategory": "commonDefects",
+    "labels": [
+      "commonDefects",
+      "extra"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_commondefects_pubic_hair",
+    "term": "pubic hair",
+    "category": "negative",
+    "subcategory": "commonDefects",
+    "labels": [
+      "commonDefects",
+      "pubic"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_commondefects_breast_sagging",
+    "term": "breast sagging",
+    "category": "negative",
+    "subcategory": "commonDefects",
+    "labels": [
+      "commonDefects",
+      "breast"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "negative_commondefects_misaligned_hips",
+    "term": "misaligned hips",
+    "category": "negative",
+    "subcategory": "commonDefects",
+    "labels": [
+      "commonDefects",
+      "misaligned"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "negative"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  }
+]

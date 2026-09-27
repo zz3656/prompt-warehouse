@@ -1,0 +1,37 @@
+{
+  "id": "h3-comic-builder",
+  "name": "H3 Comic Builder",
+  "version": "1.0.0",
+  "description": "AI comic/manga prompt generation tool with browser UI and server backend",
+  "project_type": "comic",
+  "prompt_warehouse_version": "1.0.0",
+  "keywords": {
+    "enabled_categories": ["quality", "composition", "lighting", "character", "clothing", "styles", "negative", "scene", "panel"],
+    "excluded_categories": [],
+    "custom_categories": [],
+    "custom_keywords_path": "keywords/custom"
+  },
+  "templates": {
+    "enabled": [
+      "character.reference_description_default",
+      "character.outfit_description",
+      "character.expression_description",
+      "character.angle_prompt",
+      "panel.panel_positive_prompt",
+      "panel.panel_negative_prompt",
+      "panel.character_context",
+      "panel.location_context",
+      "character_sheet.full_sheet",
+      "character_sheet.consistency_reference"
+    ],
+    "custom": []
+  },
+  "settings": {
+    "default_api": "SDXL",
+    "default_style": "anime",
+    "max_prompt_length": 1500,
+    "default_negative": "standard"
+  },
+  "created_at": "2025-09-28T00:00:00Z",
+  "updated_at": "2025-09-28T00:00:00Z"
+}

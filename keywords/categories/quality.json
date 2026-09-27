@@ -1,0 +1,692 @@
+[
+  {
+    "id": "quality_basic_masterpiece",
+    "term": "masterpiece",
+    "category": "quality",
+    "subcategory": "basic",
+    "labels": [
+      "basic",
+      "masterpiece"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.751Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_basic_best_quality",
+    "term": "best quality",
+    "category": "quality",
+    "subcategory": "basic",
+    "labels": [
+      "basic",
+      "best"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_basic_high_quality",
+    "term": "high quality",
+    "category": "quality",
+    "subcategory": "basic",
+    "labels": [
+      "basic",
+      "high"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_basic_high_resolution",
+    "term": "high resolution",
+    "category": "quality",
+    "subcategory": "basic",
+    "labels": [
+      "basic",
+      "high"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_basic_detailed",
+    "term": "detailed",
+    "category": "quality",
+    "subcategory": "basic",
+    "labels": [
+      "basic",
+      "detailed"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_basic_highly_detailed",
+    "term": "highly detailed",
+    "category": "quality",
+    "subcategory": "basic",
+    "labels": [
+      "basic",
+      "highly"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_basic_sharp_focus",
+    "term": "sharp focus",
+    "category": "quality",
+    "subcategory": "basic",
+    "labels": [
+      "basic",
+      "sharp"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_basic_crisp",
+    "term": "crisp",
+    "category": "quality",
+    "subcategory": "basic",
+    "labels": [
+      "basic",
+      "crisp"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_basic_clear",
+    "term": "clear",
+    "category": "quality",
+    "subcategory": "basic",
+    "labels": [
+      "basic",
+      "clear"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_basic_clean",
+    "term": "clean",
+    "category": "quality",
+    "subcategory": "basic",
+    "labels": [
+      "basic",
+      "clean"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_advanced_professional",
+    "term": "professional",
+    "category": "quality",
+    "subcategory": "advanced",
+    "labels": [
+      "advanced",
+      "professional"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_advanced_professional_grade",
+    "term": "professional grade",
+    "category": "quality",
+    "subcategory": "advanced",
+    "labels": [
+      "advanced",
+      "professional"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_advanced_award_winning",
+    "term": "award winning",
+    "category": "quality",
+    "subcategory": "advanced",
+    "labels": [
+      "advanced",
+      "award"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_advanced_trending_on_artstation",
+    "term": "trending on artstation",
+    "category": "quality",
+    "subcategory": "advanced",
+    "labels": [
+      "advanced",
+      "trending"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_advanced_finely_detailed",
+    "term": "finely detailed",
+    "category": "quality",
+    "subcategory": "advanced",
+    "labels": [
+      "advanced",
+      "finely"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_advanced_intricate_details",
+    "term": "intricate details",
+    "category": "quality",
+    "subcategory": "advanced",
+    "labels": [
+      "advanced",
+      "intricate"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_advanced_ultra_detailed",
+    "term": "ultra-detailed",
+    "category": "quality",
+    "subcategory": "advanced",
+    "labels": [
+      "advanced",
+      "ultra-detailed"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_advanced_8k_uhd",
+    "term": "8k uhd",
+    "category": "quality",
+    "subcategory": "advanced",
+    "labels": [
+      "advanced",
+      "8k"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_advanced_photorealistic_rendering",
+    "term": "photorealistic rendering",
+    "category": "quality",
+    "subcategory": "advanced",
+    "labels": [
+      "advanced",
+      "photorealistic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_advanced_premium_quality",
+    "term": "premium quality",
+    "category": "quality",
+    "subcategory": "advanced",
+    "labels": [
+      "advanced",
+      "premium"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_animespecific_vivid_colors",
+    "term": "vivid colors",
+    "category": "quality",
+    "subcategory": "animeSpecific",
+    "labels": [
+      "animeSpecific",
+      "vivid"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_animespecific_colorful",
+    "term": "colorful",
+    "category": "quality",
+    "subcategory": "animeSpecific",
+    "labels": [
+      "animeSpecific",
+      "colorful"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_animespecific_beautiful_lighting",
+    "term": "beautiful lighting",
+    "category": "quality",
+    "subcategory": "animeSpecific",
+    "labels": [
+      "animeSpecific",
+      "beautiful"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_animespecific_official_art",
+    "term": "official art",
+    "category": "quality",
+    "subcategory": "animeSpecific",
+    "labels": [
+      "animeSpecific",
+      "official"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_animespecific_key_visual",
+    "term": "key visual",
+    "category": "quality",
+    "subcategory": "animeSpecific",
+    "labels": [
+      "animeSpecific",
+      "key"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_animespecific_anime_screencap",
+    "term": "anime screencap",
+    "category": "quality",
+    "subcategory": "animeSpecific",
+    "labels": [
+      "animeSpecific",
+      "anime"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_animespecific_anime_still",
+    "term": "anime still",
+    "category": "quality",
+    "subcategory": "animeSpecific",
+    "labels": [
+      "animeSpecific",
+      "anime"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_animespecific_clean_lineart",
+    "term": "clean lineart",
+    "category": "quality",
+    "subcategory": "animeSpecific",
+    "labels": [
+      "animeSpecific",
+      "clean"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_animespecific_smooth_coloring",
+    "term": "smooth coloring",
+    "category": "quality",
+    "subcategory": "animeSpecific",
+    "labels": [
+      "animeSpecific",
+      "smooth"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "quality_animespecific_detailed_cel_shading",
+    "term": "detailed cel shading",
+    "category": "quality",
+    "subcategory": "animeSpecific",
+    "labels": [
+      "animeSpecific",
+      "detailed"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "quality"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  }
+]

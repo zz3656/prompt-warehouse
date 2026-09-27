@@ -1,0 +1,2256 @@
+[
+  {
+    "id": "styles_animemanga_anime_style",
+    "term": "anime style",
+    "category": "styles",
+    "subcategory": "animeManga",
+    "labels": [
+      "animeManga",
+      "anime"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_animemanga_manga_style",
+    "term": "manga style",
+    "category": "styles",
+    "subcategory": "animeManga",
+    "labels": [
+      "animeManga",
+      "manga"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_animemanga_anime_screencap",
+    "term": "anime screencap",
+    "category": "styles",
+    "subcategory": "animeManga",
+    "labels": [
+      "animeManga",
+      "anime"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_animemanga_anime_still",
+    "term": "anime still",
+    "category": "styles",
+    "subcategory": "animeManga",
+    "labels": [
+      "animeManga",
+      "anime"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_animemanga_cel_shading",
+    "term": "cel shading",
+    "category": "styles",
+    "subcategory": "animeManga",
+    "labels": [
+      "animeManga",
+      "cel"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_animemanga_anime_coloring",
+    "term": "anime coloring",
+    "category": "styles",
+    "subcategory": "animeManga",
+    "labels": [
+      "animeManga",
+      "anime"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_animemanga_comic_art",
+    "term": "comic art",
+    "category": "styles",
+    "subcategory": "animeManga",
+    "labels": [
+      "animeManga",
+      "comic"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_animemanga_comic_style",
+    "term": "comic style",
+    "category": "styles",
+    "subcategory": "animeManga",
+    "labels": [
+      "animeManga",
+      "comic"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_animemanga_manga_art",
+    "term": "manga art",
+    "category": "styles",
+    "subcategory": "animeManga",
+    "labels": [
+      "animeManga",
+      "manga"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_animemanga_manga_page",
+    "term": "manga page",
+    "category": "styles",
+    "subcategory": "animeManga",
+    "labels": [
+      "animeManga",
+      "manga"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_animemanga_webtoon_style",
+    "term": "webtoon style",
+    "category": "styles",
+    "subcategory": "animeManga",
+    "labels": [
+      "animeManga",
+      "webtoon"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_animemanga_manhwa_style",
+    "term": "manhwa style",
+    "category": "styles",
+    "subcategory": "animeManga",
+    "labels": [
+      "animeManga",
+      "manhwa"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_animemanga_manhwa_art",
+    "term": "manhwa art",
+    "category": "styles",
+    "subcategory": "animeManga",
+    "labels": [
+      "animeManga",
+      "manhwa"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_animemanga_webtoon_art",
+    "term": "webtoon art",
+    "category": "styles",
+    "subcategory": "animeManga",
+    "labels": [
+      "animeManga",
+      "webtoon"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_animemanga_detailed_anime_style",
+    "term": "detailed anime style",
+    "category": "styles",
+    "subcategory": "animeManga",
+    "labels": [
+      "animeManga",
+      "detailed"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_animemanga_modern_anime",
+    "term": "modern anime",
+    "category": "styles",
+    "subcategory": "animeManga",
+    "labels": [
+      "animeManga",
+      "modern"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_animemanga_classic_anime_style",
+    "term": "classic anime style",
+    "category": "styles",
+    "subcategory": "animeManga",
+    "labels": [
+      "animeManga",
+      "classic"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_animemanga_90s_anime_style",
+    "term": "90s anime style",
+    "category": "styles",
+    "subcategory": "animeManga",
+    "labels": [
+      "animeManga",
+      "90s"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_animemanga_90s_aesthetic",
+    "term": "90s aesthetic",
+    "category": "styles",
+    "subcategory": "animeManga",
+    "labels": [
+      "animeManga",
+      "90s"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_animemanga_retro_anime",
+    "term": "retro anime",
+    "category": "styles",
+    "subcategory": "animeManga",
+    "labels": [
+      "animeManga",
+      "retro"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_animemanga_light_novel_illustration",
+    "term": "light novel illustration",
+    "category": "styles",
+    "subcategory": "animeManga",
+    "labels": [
+      "animeManga",
+      "light"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artstyles_illustration",
+    "term": "illustration",
+    "category": "styles",
+    "subcategory": "artStyles",
+    "labels": [
+      "artStyles",
+      "illustration"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artstyles_digital_art",
+    "term": "digital art",
+    "category": "styles",
+    "subcategory": "artStyles",
+    "labels": [
+      "artStyles",
+      "digital"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artstyles_digital_illustration",
+    "term": "digital illustration",
+    "category": "styles",
+    "subcategory": "artStyles",
+    "labels": [
+      "artStyles",
+      "digital"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artstyles_concept_art",
+    "term": "concept art",
+    "category": "styles",
+    "subcategory": "artStyles",
+    "labels": [
+      "artStyles",
+      "concept"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artstyles_character_design",
+    "term": "character design",
+    "category": "styles",
+    "subcategory": "artStyles",
+    "labels": [
+      "artStyles",
+      "character"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artstyles_character_design_sheet",
+    "term": "character design sheet",
+    "category": "styles",
+    "subcategory": "artStyles",
+    "labels": [
+      "artStyles",
+      "character"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artstyles_fan_art",
+    "term": "fan art",
+    "category": "styles",
+    "subcategory": "artStyles",
+    "labels": [
+      "artStyles",
+      "fan"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artstyles_original_character",
+    "term": "original character",
+    "category": "styles",
+    "subcategory": "artStyles",
+    "labels": [
+      "artStyles",
+      "original"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artstyles_portrait",
+    "term": "portrait",
+    "category": "styles",
+    "subcategory": "artStyles",
+    "labels": [
+      "artStyles",
+      "portrait"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artstyles_illustrated",
+    "term": "illustrated",
+    "category": "styles",
+    "subcategory": "artStyles",
+    "labels": [
+      "artStyles",
+      "illustrated"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artstyles_drawn_by",
+    "term": "drawn by",
+    "category": "styles",
+    "subcategory": "artStyles",
+    "labels": [
+      "artStyles",
+      "drawn"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artstyles_in_the_style_of",
+    "term": "in the style of",
+    "category": "styles",
+    "subcategory": "artStyles",
+    "labels": [
+      "artStyles",
+      "in"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_realism_photorealistic",
+    "term": "photorealistic",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "realism",
+      "photorealistic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_realism_realistic",
+    "term": "realistic",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "realism",
+      "realistic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_realism_hyperrealistic",
+    "term": "hyperrealistic",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "realism",
+      "hyperrealistic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_realism_realistic_lighting",
+    "term": "realistic lighting",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "realism",
+      "realistic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_realism_realistic_shadows",
+    "term": "realistic shadows",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "realism",
+      "realistic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_realism_photograph",
+    "term": "photograph",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "realism",
+      "photograph"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_realism_photo",
+    "term": "photo",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "realism",
+      "photo"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_realism_film_photography",
+    "term": "film photography",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "realism",
+      "film"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_realism_analog_photo",
+    "term": "analog photo",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "realism",
+      "analog"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_realism_35mm_film",
+    "term": "35mm film",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "realism",
+      "35mm"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_realism_film_grain",
+    "term": "film grain",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "realism",
+      "film"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_realism_film_photo",
+    "term": "film photo",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "realism",
+      "film"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_realism_cinematic",
+    "term": "cinematic",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "realism",
+      "cinematic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_realism_cinematic_still",
+    "term": "cinematic still",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "realism",
+      "cinematic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_specialty_watercolor",
+    "term": "watercolor",
+    "category": "styles",
+    "subcategory": "specialty",
+    "labels": [
+      "specialty",
+      "watercolor"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_specialty_oil_painting",
+    "term": "oil painting",
+    "category": "styles",
+    "subcategory": "specialty",
+    "labels": [
+      "specialty",
+      "oil"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_specialty_acrylic_painting",
+    "term": "acrylic painting",
+    "category": "styles",
+    "subcategory": "specialty",
+    "labels": [
+      "specialty",
+      "acrylic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_specialty_pencil_sketch",
+    "term": "pencil sketch",
+    "category": "styles",
+    "subcategory": "specialty",
+    "labels": [
+      "specialty",
+      "pencil"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_specialty_charcoal_drawing",
+    "term": "charcoal drawing",
+    "category": "styles",
+    "subcategory": "specialty",
+    "labels": [
+      "specialty",
+      "charcoal"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_specialty_ink_drawing",
+    "term": "ink drawing",
+    "category": "styles",
+    "subcategory": "specialty",
+    "labels": [
+      "specialty",
+      "ink"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_specialty_line_art",
+    "term": "line art",
+    "category": "styles",
+    "subcategory": "specialty",
+    "labels": [
+      "specialty",
+      "line"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_specialty_black_and_white",
+    "term": "black and white",
+    "category": "styles",
+    "subcategory": "specialty",
+    "labels": [
+      "specialty",
+      "black"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_specialty_monochrome",
+    "term": "monochrome",
+    "category": "styles",
+    "subcategory": "specialty",
+    "labels": [
+      "specialty",
+      "monochrome"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_specialty_pastel",
+    "term": "pastel",
+    "category": "styles",
+    "subcategory": "specialty",
+    "labels": [
+      "specialty",
+      "pastel"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_specialty_pixel_art",
+    "term": "pixel art",
+    "category": "styles",
+    "subcategory": "specialty",
+    "labels": [
+      "specialty",
+      "pixel"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_specialty_chibi",
+    "term": "chibi",
+    "category": "styles",
+    "subcategory": "specialty",
+    "labels": [
+      "specialty",
+      "chibi"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_specialty_super_deformed",
+    "term": "super deformed",
+    "category": "styles",
+    "subcategory": "specialty",
+    "labels": [
+      "specialty",
+      "super"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_specialty_flat_color",
+    "term": "flat color",
+    "category": "styles",
+    "subcategory": "specialty",
+    "labels": [
+      "specialty",
+      "flat"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_specialty_flat_shading",
+    "term": "flat shading",
+    "category": "styles",
+    "subcategory": "specialty",
+    "labels": [
+      "specialty",
+      "flat"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_specialty_cel_shaded",
+    "term": "cel shaded",
+    "category": "styles",
+    "subcategory": "specialty",
+    "labels": [
+      "specialty",
+      "cel"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_specialty_vector_art",
+    "term": "vector art",
+    "category": "styles",
+    "subcategory": "specialty",
+    "labels": [
+      "specialty",
+      "vector"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_specialty_pop_art",
+    "term": "pop art",
+    "category": "styles",
+    "subcategory": "specialty",
+    "labels": [
+      "specialty",
+      "pop"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_specialty_gothic_art",
+    "term": "gothic art",
+    "category": "styles",
+    "subcategory": "specialty",
+    "labels": [
+      "specialty",
+      "gothic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_specialty_watercolor_painting",
+    "term": "watercolor painting",
+    "category": "styles",
+    "subcategory": "specialty",
+    "labels": [
+      "specialty",
+      "watercolor"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_specialty_ink_wash",
+    "term": "ink wash",
+    "category": "styles",
+    "subcategory": "specialty",
+    "labels": [
+      "specialty",
+      "ink"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_makoto_shinkai",
+    "term": "by makoto shinkai",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_hayao_miyazaki",
+    "term": "by hayao miyazaki",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_hideaki_anno",
+    "term": "by hideaki anno",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_yoshitaka_amano",
+    "term": "by yoshitaka amano",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_clamp",
+    "term": "by CLAMP",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_rumiko_takahashi",
+    "term": "by rumiko takahashi",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_tetsuya_aramaki",
+    "term": "by tetsuya aramaki",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_kentaro_miura",
+    "term": "by kentaro miura",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_taichi_yabuki",
+    "term": "by taichi yabuki",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_kale_evans",
+    "term": "by kale evans",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_rossdraws",
+    "term": "by rossdraws",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_sakuya_haru",
+    "term": "by sakuya haru",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_hiroyuki_takeuchi",
+    "term": "by hiroyuki TAKEUCHI",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_koge_donbo",
+    "term": "by koge-donbo",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_rgba",
+    "term": "by rgba",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_yuuto_saito",
+    "term": "by yuuto Saito",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_nanashi",
+    "term": "by nanashi",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_yua_tc",
+    "term": "by yua TC",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_tamako",
+    "term": "by tamako",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_rei_hijikita",
+    "term": "by rei HIJIKITA",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_zekawa",
+    "term": "by zekawa",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_tamayui",
+    "term": "by tamaYUI",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_bubble_break",
+    "term": "by bubble break",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_exusive",
+    "term": "by exusive",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_raw_s",
+    "term": "by RAW-S",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_sumi",
+    "term": "by sumi",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_tinkle",
+    "term": "by tinkle",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_yukinobu_tatsu",
+    "term": "by Yukinobu Tatsu",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_shintaro_kago",
+    "term": "by Shintaro Kago",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "styles_artiststyle_by_inio_asano",
+    "term": "by Inio Asano",
+    "category": "styles",
+    "subcategory": "artistStyle",
+    "labels": [
+      "artistStyle",
+      "by"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "styles"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  }
+]

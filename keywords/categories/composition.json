@@ -1,0 +1,1083 @@
+[
+  {
+    "id": "composition_framing_extreme_close_up",
+    "term": "extreme close-up",
+    "category": "composition",
+    "subcategory": "framing",
+    "labels": [
+      "framing",
+      "extreme"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_framing_close_up_portrait",
+    "term": "close-up portrait",
+    "category": "composition",
+    "subcategory": "framing",
+    "labels": [
+      "framing",
+      "close-up"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_framing_head_and_shoulders",
+    "term": "head and shoulders",
+    "category": "composition",
+    "subcategory": "framing",
+    "labels": [
+      "framing",
+      "head"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_framing_cowboy_shot",
+    "term": "cowboy shot",
+    "category": "composition",
+    "subcategory": "framing",
+    "labels": [
+      "framing",
+      "cowboy"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_framing_from_thighs_up",
+    "term": "from thighs up",
+    "category": "composition",
+    "subcategory": "framing",
+    "labels": [
+      "framing",
+      "from"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_framing_medium_shot",
+    "term": "medium shot",
+    "category": "composition",
+    "subcategory": "framing",
+    "labels": [
+      "framing",
+      "medium"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_framing_full_body_shot",
+    "term": "full body shot",
+    "category": "composition",
+    "subcategory": "framing",
+    "labels": [
+      "framing",
+      "full"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_framing_wide_shot",
+    "term": "wide shot",
+    "category": "composition",
+    "subcategory": "framing",
+    "labels": [
+      "framing",
+      "wide"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_framing_establishing_shot",
+    "term": "establishing shot",
+    "category": "composition",
+    "subcategory": "framing",
+    "labels": [
+      "framing",
+      "establishing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_framing_extreme_wide_shot",
+    "term": "extreme wide shot",
+    "category": "composition",
+    "subcategory": "framing",
+    "labels": [
+      "framing",
+      "extreme"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_angles_front_view",
+    "term": "front view",
+    "category": "composition",
+    "subcategory": "angles",
+    "labels": [
+      "angles",
+      "front"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_angles_side_profile",
+    "term": "side profile",
+    "category": "composition",
+    "subcategory": "angles",
+    "labels": [
+      "angles",
+      "side"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_angles_back_view",
+    "term": "back view",
+    "category": "composition",
+    "subcategory": "angles",
+    "labels": [
+      "angles",
+      "back"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_angles_three_quarter_view",
+    "term": "three-quarter view",
+    "category": "composition",
+    "subcategory": "angles",
+    "labels": [
+      "angles",
+      "three-quarter"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_angles_fourth_view",
+    "term": "fourth view",
+    "category": "composition",
+    "subcategory": "angles",
+    "labels": [
+      "angles",
+      "fourth"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_angles_viewed_from_above",
+    "term": "viewed from above",
+    "category": "composition",
+    "subcategory": "angles",
+    "labels": [
+      "angles",
+      "viewed"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_angles_looking_down",
+    "term": "looking down",
+    "category": "composition",
+    "subcategory": "angles",
+    "labels": [
+      "angles",
+      "looking"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_angles_top_down_angle",
+    "term": "top-down angle",
+    "category": "composition",
+    "subcategory": "angles",
+    "labels": [
+      "angles",
+      "top-down"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_angles_low_angle_view",
+    "term": "low angle view",
+    "category": "composition",
+    "subcategory": "angles",
+    "labels": [
+      "angles",
+      "low"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_angles_looking_up",
+    "term": "looking up",
+    "category": "composition",
+    "subcategory": "angles",
+    "labels": [
+      "angles",
+      "looking"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_angles_hero_shot",
+    "term": "hero shot",
+    "category": "composition",
+    "subcategory": "angles",
+    "labels": [
+      "angles",
+      "hero"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_angles_dutch_angle",
+    "term": "dutch angle",
+    "category": "composition",
+    "subcategory": "angles",
+    "labels": [
+      "angles",
+      "dutch"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_angles_bird_s_eye_view",
+    "term": "bird's-eye view",
+    "category": "composition",
+    "subcategory": "angles",
+    "labels": [
+      "angles",
+      "bird's-eye"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_angles_worm_s_eye_view",
+    "term": "worm's-eye view",
+    "category": "composition",
+    "subcategory": "angles",
+    "labels": [
+      "angles",
+      "worm's-eye"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_lens_shot_on_35mm_lens",
+    "term": "shot on 35mm lens",
+    "category": "composition",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "shot"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_lens_shot_on_50mm_lens",
+    "term": "shot on 50mm lens",
+    "category": "composition",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "shot"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_lens_shot_on_85mm_lens",
+    "term": "shot on 85mm lens",
+    "category": "composition",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "shot"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_lens_shot_on_135mm_lens",
+    "term": "shot on 135mm lens",
+    "category": "composition",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "shot"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_lens_macro_shot",
+    "term": "macro shot",
+    "category": "composition",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "macro"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_lens_tilt_shift",
+    "term": "tilt-shift",
+    "category": "composition",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "tilt-shift"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_lens_fisheye_lens",
+    "term": "fisheye lens",
+    "category": "composition",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "fisheye"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_lens_anamorphic_lens",
+    "term": "anamorphic lens",
+    "category": "composition",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "anamorphic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_lens_shallow_depth_of_field",
+    "term": "shallow depth of field",
+    "category": "composition",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "shallow"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_lens_creamy_bokeh",
+    "term": "creamy bokeh",
+    "category": "composition",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "creamy"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_lens_blurred_background",
+    "term": "blurred background",
+    "category": "composition",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "blurred"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_lens_background_blur",
+    "term": "background blur",
+    "category": "composition",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "background"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_lens_bokeh",
+    "term": "bokeh",
+    "category": "composition",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "bokeh"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_lens_depth_of_field",
+    "term": "depth of field",
+    "category": "composition",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "depth"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_rules_rule_of_thirds",
+    "term": "rule of thirds",
+    "category": "composition",
+    "subcategory": "rules",
+    "labels": [
+      "rules",
+      "rule"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_rules_centered_composition",
+    "term": "centered composition",
+    "category": "composition",
+    "subcategory": "rules",
+    "labels": [
+      "rules",
+      "centered"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_rules_leading_lines",
+    "term": "leading lines",
+    "category": "composition",
+    "subcategory": "rules",
+    "labels": [
+      "rules",
+      "leading"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_rules_golden_ratio",
+    "term": "golden ratio",
+    "category": "composition",
+    "subcategory": "rules",
+    "labels": [
+      "rules",
+      "golden"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_rules_symmetrical_composition",
+    "term": "symmetrical composition",
+    "category": "composition",
+    "subcategory": "rules",
+    "labels": [
+      "rules",
+      "symmetrical"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_rules_dynamic_composition",
+    "term": "dynamic composition",
+    "category": "composition",
+    "subcategory": "rules",
+    "labels": [
+      "rules",
+      "dynamic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_rules_asymmetrical_balance",
+    "term": "asymmetrical balance",
+    "category": "composition",
+    "subcategory": "rules",
+    "labels": [
+      "rules",
+      "asymmetrical"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_rules_filling_the_frame",
+    "term": "filling the frame",
+    "category": "composition",
+    "subcategory": "rules",
+    "labels": [
+      "rules",
+      "filling"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_rules_negative_space",
+    "term": "negative space",
+    "category": "composition",
+    "subcategory": "rules",
+    "labels": [
+      "rules",
+      "negative"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  }
+]

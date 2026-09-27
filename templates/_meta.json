@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "schema_version": "pws-1.0",
+  "total_templates": 24,
+  "updated_at": "2025-09-28T00:00:00Z",
+  "updated_by": "migration-script",
+  "source_projects": ["h3-comic-builder"],
+  "description": "24 prompt templates migrated from h3-comic-builder data/prompts_templates.js. Full raw data in _all_templates.json."
+}

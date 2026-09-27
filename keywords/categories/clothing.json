@@ -1,0 +1,2440 @@
+[
+  {
+    "id": "clothing_tops_wearing_shirt",
+    "term": "wearing shirt",
+    "category": "clothing",
+    "subcategory": "tops",
+    "labels": [
+      "tops",
+      "wearing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_tops_wearing_blouse",
+    "term": "wearing blouse",
+    "category": "clothing",
+    "subcategory": "tops",
+    "labels": [
+      "tops",
+      "wearing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_tops_wearing_t_shirt",
+    "term": "wearing t-shirt",
+    "category": "clothing",
+    "subcategory": "tops",
+    "labels": [
+      "tops",
+      "wearing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_tops_wearing_hoodie",
+    "term": "wearing hoodie",
+    "category": "clothing",
+    "subcategory": "tops",
+    "labels": [
+      "tops",
+      "wearing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_tops_wearing_jacket",
+    "term": "wearing jacket",
+    "category": "clothing",
+    "subcategory": "tops",
+    "labels": [
+      "tops",
+      "wearing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_tops_wearing_coat",
+    "term": "wearing coat",
+    "category": "clothing",
+    "subcategory": "tops",
+    "labels": [
+      "tops",
+      "wearing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_tops_wearing_blazer",
+    "term": "wearing blazer",
+    "category": "clothing",
+    "subcategory": "tops",
+    "labels": [
+      "tops",
+      "wearing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_tops_wearing_vest",
+    "term": "wearing vest",
+    "category": "clothing",
+    "subcategory": "tops",
+    "labels": [
+      "tops",
+      "wearing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_tops_wearing_sweater",
+    "term": "wearing sweater",
+    "category": "clothing",
+    "subcategory": "tops",
+    "labels": [
+      "tops",
+      "wearing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_tops_wearing_crop_top",
+    "term": "wearing crop top",
+    "category": "clothing",
+    "subcategory": "tops",
+    "labels": [
+      "tops",
+      "wearing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_tops_wearing_tank_top",
+    "term": "wearing tank top",
+    "category": "clothing",
+    "subcategory": "tops",
+    "labels": [
+      "tops",
+      "wearing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_tops_wearing_sleeveless_top",
+    "term": "wearing sleeveless top",
+    "category": "clothing",
+    "subcategory": "tops",
+    "labels": [
+      "tops",
+      "wearing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_tops_wearing_dress",
+    "term": "wearing dress",
+    "category": "clothing",
+    "subcategory": "tops",
+    "labels": [
+      "tops",
+      "wearing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_bottoms_wearing_pants",
+    "term": "wearing pants",
+    "category": "clothing",
+    "subcategory": "bottoms",
+    "labels": [
+      "bottoms",
+      "wearing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_bottoms_wearing_jeans",
+    "term": "wearing jeans",
+    "category": "clothing",
+    "subcategory": "bottoms",
+    "labels": [
+      "bottoms",
+      "wearing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_bottoms_wearing_shorts",
+    "term": "wearing shorts",
+    "category": "clothing",
+    "subcategory": "bottoms",
+    "labels": [
+      "bottoms",
+      "wearing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_bottoms_wearing_skirt",
+    "term": "wearing skirt",
+    "category": "clothing",
+    "subcategory": "bottoms",
+    "labels": [
+      "bottoms",
+      "wearing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_bottoms_wearing_pleated_skirt",
+    "term": "wearing pleated skirt",
+    "category": "clothing",
+    "subcategory": "bottoms",
+    "labels": [
+      "bottoms",
+      "wearing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_bottoms_wearing_miniskirt",
+    "term": "wearing miniskirt",
+    "category": "clothing",
+    "subcategory": "bottoms",
+    "labels": [
+      "bottoms",
+      "wearing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_bottoms_wearing_long_skirt",
+    "term": "wearing long skirt",
+    "category": "clothing",
+    "subcategory": "bottoms",
+    "labels": [
+      "bottoms",
+      "wearing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_bottoms_wearing_leggings",
+    "term": "wearing leggings",
+    "category": "clothing",
+    "subcategory": "bottoms",
+    "labels": [
+      "bottoms",
+      "wearing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_bottoms_wearing_trousers",
+    "term": "wearing trousers",
+    "category": "clothing",
+    "subcategory": "bottoms",
+    "labels": [
+      "bottoms",
+      "wearing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_school_uniform",
+    "term": "school uniform",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "school"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_sailor_uniform",
+    "term": "sailor uniform",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "sailor"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_military_uniform",
+    "term": "military uniform",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "military"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_lab_coat",
+    "term": "lab coat",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "lab"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_business_suit",
+    "term": "business suit",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "business"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_casual_clothing",
+    "term": "casual clothing",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "casual"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_athletic_wear",
+    "term": "athletic wear",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "athletic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_sports_uniform",
+    "term": "sports uniform",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "sports"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_armor",
+    "term": "armor",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "armor"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_battle_armor",
+    "term": "battle armor",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "battle"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_fantasy_armor",
+    "term": "fantasy armor",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "fantasy"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_robe",
+    "term": "robe",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "robe"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_traditional_clothing",
+    "term": "traditional clothing",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "traditional"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_kimono",
+    "term": "kimono",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "kimono"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_hanbok",
+    "term": "hanbok",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "hanbok"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_cheongsam",
+    "term": "cheongsam",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "cheongsam"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_witch_hat",
+    "term": "witch hat",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "witch"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_cape",
+    "term": "cape",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "cape"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_cloak",
+    "term": "cloak",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "cloak"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_trench_coat",
+    "term": "trench coat",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "trench"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_overalls",
+    "term": "overalls",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "overalls"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_pajamas",
+    "term": "pajamas",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "pajamas"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_swimsuit",
+    "term": "swimsuit",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "swimsuit"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_evening_gown",
+    "term": "evening gown",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "evening"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_wedding_dress",
+    "term": "wedding dress",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "wedding"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_mecha_suit",
+    "term": "mecha suit",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "mecha"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_cyberpunk_outfit",
+    "term": "cyberpunk outfit",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "cyberpunk"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_steampunk_outfit",
+    "term": "steampunk outfit",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "steampunk"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_maid_outfit",
+    "term": "maid outfit",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "maid"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_nurse_outfit",
+    "term": "nurse outfit",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "nurse"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_hunter_outfit",
+    "term": "hunter outfit",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "hunter"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_pirate_outfit",
+    "term": "pirate outfit",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "pirate"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_knight_armor",
+    "term": "knight armor",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "knight"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_outfits_samurai_armor",
+    "term": "samurai armor",
+    "category": "clothing",
+    "subcategory": "outfits",
+    "labels": [
+      "outfits",
+      "samurai"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_wearing_glasses",
+    "term": "wearing glasses",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "wearing"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_sunglasses",
+    "term": "sunglasses",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "sunglasses"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_headband",
+    "term": "headband",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "headband"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_hair_ornament",
+    "term": "hair ornament",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "hair"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_necklace",
+    "term": "necklace",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "necklace"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_choker",
+    "term": "choker",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "choker"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_earrings",
+    "term": "earrings",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "earrings"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_ring",
+    "term": "ring",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "ring"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_bracelet",
+    "term": "bracelet",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "bracelet"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_watch",
+    "term": "watch",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "watch"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_mask",
+    "term": "mask",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "mask"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_face_paint",
+    "term": "face paint",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "face"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_scar",
+    "term": "scar",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "scar"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_tattoo",
+    "term": "tattoo",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "tattoo"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_body_paint",
+    "term": "body paint",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "body"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_jewelry",
+    "term": "jewelry",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "jewelry"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_belt",
+    "term": "belt",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "belt"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_gloves",
+    "term": "gloves",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "gloves"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_boots",
+    "term": "boots",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "boots"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_high_heels",
+    "term": "high heels",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "high"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_sandals",
+    "term": "sandals",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "sandals"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_hats",
+    "term": "hats",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "hats"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_cap",
+    "term": "cap",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "cap"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_beret",
+    "term": "beret",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "beret"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_bow",
+    "term": "bow",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "bow"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_ribbon",
+    "term": "ribbon",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "ribbon"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_scarf",
+    "term": "scarf",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "scarf"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_earphones",
+    "term": "earphones",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "earphones"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_headphones",
+    "term": "headphones",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "headphones"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_bag",
+    "term": "bag",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "bag"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_backpack",
+    "term": "backpack",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "backpack"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_wings",
+    "term": "wings",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "wings"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_halo",
+    "term": "halo",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "halo"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_halo_floating_above",
+    "term": "halo floating above",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "halo"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_animal_ears",
+    "term": "animal ears",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "animal"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_cat_ears",
+    "term": "cat ears",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "cat"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_dog_ears",
+    "term": "dog ears",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "dog"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_fox_ears",
+    "term": "fox ears",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "fox"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_tail",
+    "term": "tail",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "tail"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_cat_tail",
+    "term": "cat tail",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "cat"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_fox_tail",
+    "term": "fox tail",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "fox"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_angel_wings",
+    "term": "angel wings",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "angel"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_demon_wings",
+    "term": "demon wings",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "demon"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_multiple_tails",
+    "term": "multiple tails",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "multiple"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_tail_ribbon",
+    "term": "tail ribbon",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "tail"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_leg_warmers",
+    "term": "leg warmers",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "leg"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_thigh_high_socks",
+    "term": "thigh high socks",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "thigh"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_fishnet_stockings",
+    "term": "fishnet stockings",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "fishnet"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_ankle_boots",
+    "term": "ankle boots",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "ankle"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_accessories_combat_boots",
+    "term": "combat boots",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "combat"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "clothing"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  }
+]

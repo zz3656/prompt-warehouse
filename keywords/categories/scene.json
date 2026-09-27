@@ -1,0 +1,2831 @@
+[
+  {
+    "id": "scene_relationship_friends",
+    "term": "friends",
+    "category": "scene",
+    "subcategory": "relationship",
+    "labels": [
+      "relationship",
+      "friends"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_relationship_best_friends",
+    "term": "best friends",
+    "category": "scene",
+    "subcategory": "relationship",
+    "labels": [
+      "relationship",
+      "best"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_relationship_enemies",
+    "term": "enemies",
+    "category": "scene",
+    "subcategory": "relationship",
+    "labels": [
+      "relationship",
+      "enemies"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_relationship_rivals",
+    "term": "rivals",
+    "category": "scene",
+    "subcategory": "relationship",
+    "labels": [
+      "relationship",
+      "rivals"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_relationship_lovers",
+    "term": "lovers",
+    "category": "scene",
+    "subcategory": "relationship",
+    "labels": [
+      "relationship",
+      "lovers"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_relationship_romantic_partners",
+    "term": "romantic partners",
+    "category": "scene",
+    "subcategory": "relationship",
+    "labels": [
+      "relationship",
+      "romantic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_relationship_sibling",
+    "term": "sibling",
+    "category": "scene",
+    "subcategory": "relationship",
+    "labels": [
+      "relationship",
+      "sibling"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_relationship_twin_siblings",
+    "term": "twin siblings",
+    "category": "scene",
+    "subcategory": "relationship",
+    "labels": [
+      "relationship",
+      "twin"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_relationship_parent_and_child",
+    "term": "parent and child",
+    "category": "scene",
+    "subcategory": "relationship",
+    "labels": [
+      "relationship",
+      "parent"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_relationship_mentor_and_student",
+    "term": "mentor and student",
+    "category": "scene",
+    "subcategory": "relationship",
+    "labels": [
+      "relationship",
+      "mentor"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_relationship_teacher_and_student",
+    "term": "teacher and student",
+    "category": "scene",
+    "subcategory": "relationship",
+    "labels": [
+      "relationship",
+      "teacher"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_relationship_childhood_friends",
+    "term": "childhood friends",
+    "category": "scene",
+    "subcategory": "relationship",
+    "labels": [
+      "relationship",
+      "childhood"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_relationship_rivals_to_lovers",
+    "term": "rivals to lovers",
+    "category": "scene",
+    "subcategory": "relationship",
+    "labels": [
+      "relationship",
+      "rivals"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_relationship_buddy_dynamic",
+    "term": "buddy dynamic",
+    "category": "scene",
+    "subcategory": "relationship",
+    "labels": [
+      "relationship",
+      "buddy"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_relationship_team_member",
+    "term": "team member",
+    "category": "scene",
+    "subcategory": "relationship",
+    "labels": [
+      "relationship",
+      "team"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_relationship_master_and_servant",
+    "term": "master and servant",
+    "category": "scene",
+    "subcategory": "relationship",
+    "labels": [
+      "relationship",
+      "master"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_relationship_captain_and_subordinate",
+    "term": "captain and subordinate",
+    "category": "scene",
+    "subcategory": "relationship",
+    "labels": [
+      "relationship",
+      "captain"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_relationship_protector_and_protected",
+    "term": "protector and protected",
+    "category": "scene",
+    "subcategory": "relationship",
+    "labels": [
+      "relationship",
+      "protector"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_relationship_unrequited_love",
+    "term": "unrequited love",
+    "category": "scene",
+    "subcategory": "relationship",
+    "labels": [
+      "relationship",
+      "unrequited"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_relationship_sword_brothers",
+    "term": "sword brothers",
+    "category": "scene",
+    "subcategory": "relationship",
+    "labels": [
+      "relationship",
+      "sword"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_relationship_sworn_enemies",
+    "term": "sworn enemies",
+    "category": "scene",
+    "subcategory": "relationship",
+    "labels": [
+      "relationship",
+      "sworn"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_relationship_allies",
+    "term": "allies",
+    "category": "scene",
+    "subcategory": "relationship",
+    "labels": [
+      "relationship",
+      "allies"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_two_people",
+    "term": "two people",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "two"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_character_interacting",
+    "term": "character interacting",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "character"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_conversation",
+    "term": "conversation",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "conversation"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_argument",
+    "term": "argument",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "argument"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_fighting",
+    "term": "fighting",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "fighting"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_hugging",
+    "term": "hugging",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "hugging"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_holding_hands",
+    "term": "holding hands",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "holding"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_dancing",
+    "term": "dancing",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "dancing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_eating",
+    "term": "eating",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "eating"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_drinking",
+    "term": "drinking",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "drinking"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_reading",
+    "term": "reading",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "reading"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_working",
+    "term": "working",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "working"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_studying",
+    "term": "studying",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "studying"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_sleeping",
+    "term": "sleeping",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "sleeping"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_waking_up",
+    "term": "waking up",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "waking"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_running_away",
+    "term": "running away",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "running"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_chasing",
+    "term": "chasing",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "chasing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_fighting_together",
+    "term": "fighting together",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "fighting"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_team",
+    "term": "team",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "team"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_group_scene",
+    "term": "group scene",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "group"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_touching_face",
+    "term": "touching face",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "touching"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_sitting_together",
+    "term": "sitting together",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "sitting"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_standing_together",
+    "term": "standing together",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "standing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_walking_together",
+    "term": "walking together",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "walking"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_reconciling",
+    "term": "reconciling",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "reconciling"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_whispering",
+    "term": "whispering",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "whispering"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_laughing_together",
+    "term": "laughing together",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "laughing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_fighting_back_to_back",
+    "term": "fighting back to back",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "fighting"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_embracing",
+    "term": "embracing",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "embracing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_confronting",
+    "term": "confronting",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "confronting"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_caring_for",
+    "term": "caring for",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "caring"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_teasing",
+    "term": "teasing",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "teasing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_protecting",
+    "term": "protecting",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "protecting"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_training_together",
+    "term": "training together",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "training"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_cooking_together",
+    "term": "cooking together",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "cooking"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_sharing_umbrella",
+    "term": "sharing umbrella",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "sharing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_playing_games",
+    "term": "playing games",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "playing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_practicing_martial_arts",
+    "term": "practicing martial arts",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "practicing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_holding_swords",
+    "term": "holding swords",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "holding"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_casting_spells_together",
+    "term": "casting spells together",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "casting"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_examining_map",
+    "term": "examining map",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "examining"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_bandaging_wounds",
+    "term": "bandaging wounds",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "bandaging"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_giving_gift",
+    "term": "giving gift",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "giving"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_bowing",
+    "term": "bowing",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "bowing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_saluting",
+    "term": "saluting",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "saluting"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_arguing_passionately",
+    "term": "arguing passionately",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "arguing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_making_peace",
+    "term": "making peace",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "making"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_group_hug",
+    "term": "group hug",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "group"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_pulling_trigger",
+    "term": "pulling trigger",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "pulling"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_aiming_weapon",
+    "term": "aiming weapon",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "aiming"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_reading_letter",
+    "term": "reading letter",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "reading"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_drinking_tea_together",
+    "term": "drinking tea together",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "drinking"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_singing",
+    "term": "singing",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "singing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_playing_instrument",
+    "term": "playing instrument",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "playing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_adopting_pet",
+    "term": "adopting pet",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "adopting"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_reading_book_together",
+    "term": "reading book together",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "reading"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_interaction_watching_sunset_together",
+    "term": "watching sunset together",
+    "category": "scene",
+    "subcategory": "interaction",
+    "labels": [
+      "interaction",
+      "watching"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_rain",
+    "term": "rain",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "rain"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_heavy_rain",
+    "term": "heavy rain",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "heavy"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_raindrops",
+    "term": "raindrops",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "raindrops"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_umbrella",
+    "term": "umbrella",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "umbrella"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_snow",
+    "term": "snow",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "snow"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_snowfall",
+    "term": "snowfall",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "snowfall"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_blizzard",
+    "term": "blizzard",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "blizzard"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_windy",
+    "term": "windy",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "windy"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_blowing_hair",
+    "term": "blowing hair",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "blowing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_blowing_clothes",
+    "term": "blowing clothes",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "blowing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_cloudy_sky",
+    "term": "cloudy sky",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "cloudy"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_partly_cloudy",
+    "term": "partly cloudy",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "partly"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_clear_sky",
+    "term": "clear sky",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "clear"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_starry_sky",
+    "term": "starry sky",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "starry"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_night_sky",
+    "term": "night sky",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "night"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_moon",
+    "term": "moon",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "moon"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_full_moon",
+    "term": "full moon",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "full"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_sunset",
+    "term": "sunset",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "sunset"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_sunrise",
+    "term": "sunrise",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "sunrise"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_rainbow",
+    "term": "rainbow",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "rainbow"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_fog",
+    "term": "fog",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "fog"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_mist",
+    "term": "mist",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "mist"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_thunderstorm",
+    "term": "thunderstorm",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "thunderstorm"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_lightning",
+    "term": "lightning",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "lightning"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_aurora",
+    "term": "aurora",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "aurora"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_meteor_shower",
+    "term": "meteor shower",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "meteor"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_heat_haze",
+    "term": "heat haze",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "heat"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_weather_snow_globe_effect",
+    "term": "snow globe effect",
+    "category": "scene",
+    "subcategory": "weather",
+    "labels": [
+      "weather",
+      "snow"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_time_daytime",
+    "term": "daytime",
+    "category": "scene",
+    "subcategory": "time",
+    "labels": [
+      "time",
+      "daytime"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_time_morning",
+    "term": "morning",
+    "category": "scene",
+    "subcategory": "time",
+    "labels": [
+      "time",
+      "morning"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_time_noon",
+    "term": "noon",
+    "category": "scene",
+    "subcategory": "time",
+    "labels": [
+      "time",
+      "noon"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_time_afternoon",
+    "term": "afternoon",
+    "category": "scene",
+    "subcategory": "time",
+    "labels": [
+      "time",
+      "afternoon"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_time_evening",
+    "term": "evening",
+    "category": "scene",
+    "subcategory": "time",
+    "labels": [
+      "time",
+      "evening"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_time_night",
+    "term": "night",
+    "category": "scene",
+    "subcategory": "time",
+    "labels": [
+      "time",
+      "night"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_time_midnight",
+    "term": "midnight",
+    "category": "scene",
+    "subcategory": "time",
+    "labels": [
+      "time",
+      "midnight"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_time_dusk",
+    "term": "dusk",
+    "category": "scene",
+    "subcategory": "time",
+    "labels": [
+      "time",
+      "dusk"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_time_dawn",
+    "term": "dawn",
+    "category": "scene",
+    "subcategory": "time",
+    "labels": [
+      "time",
+      "dawn"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_time_twilight",
+    "term": "twilight",
+    "category": "scene",
+    "subcategory": "time",
+    "labels": [
+      "time",
+      "twilight"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_time_golden_hour",
+    "term": "golden hour",
+    "category": "scene",
+    "subcategory": "time",
+    "labels": [
+      "time",
+      "golden"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_time_blue_hour",
+    "term": "blue hour",
+    "category": "scene",
+    "subcategory": "time",
+    "labels": [
+      "time",
+      "blue"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_time_late_night",
+    "term": "late night",
+    "category": "scene",
+    "subcategory": "time",
+    "labels": [
+      "time",
+      "late"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_time_early_morning",
+    "term": "early morning",
+    "category": "scene",
+    "subcategory": "time",
+    "labels": [
+      "time",
+      "early"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_time_candlelight",
+    "term": "candlelight",
+    "category": "scene",
+    "subcategory": "time",
+    "labels": [
+      "time",
+      "candlelight"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "scene_time_lantern_light",
+    "term": "lantern light",
+    "category": "scene",
+    "subcategory": "time",
+    "labels": [
+      "time",
+      "lantern"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "scene"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  }
+]

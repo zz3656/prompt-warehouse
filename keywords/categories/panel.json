@@ -1,0 +1,1589 @@
+[
+  {
+    "id": "panel_panellayout_single_panel",
+    "term": "single panel",
+    "category": "panel",
+    "subcategory": "panelLayout",
+    "labels": [
+      "panelLayout",
+      "single"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panellayout_close_up_shot",
+    "term": "close-up shot",
+    "category": "panel",
+    "subcategory": "panelLayout",
+    "labels": [
+      "panelLayout",
+      "close-up"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panellayout_wide_establishing_shot",
+    "term": "wide establishing shot",
+    "category": "panel",
+    "subcategory": "panelLayout",
+    "labels": [
+      "panelLayout",
+      "wide"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panellayout_medium_shot",
+    "term": "medium shot",
+    "category": "panel",
+    "subcategory": "panelLayout",
+    "labels": [
+      "panelLayout",
+      "medium"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panellayout_reaction_shot",
+    "term": "reaction shot",
+    "category": "panel",
+    "subcategory": "panelLayout",
+    "labels": [
+      "panelLayout",
+      "reaction"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panellayout_two_shot",
+    "term": "two-shot",
+    "category": "panel",
+    "subcategory": "panelLayout",
+    "labels": [
+      "panelLayout",
+      "two-shot"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panellayout_over_the_shoulder_shot",
+    "term": "over the shoulder shot",
+    "category": "panel",
+    "subcategory": "panelLayout",
+    "labels": [
+      "panelLayout",
+      "over"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panellayout_point_of_view_shot",
+    "term": "point of view shot",
+    "category": "panel",
+    "subcategory": "panelLayout",
+    "labels": [
+      "panelLayout",
+      "point"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panellayout_pov_shot",
+    "term": "POV shot",
+    "category": "panel",
+    "subcategory": "panelLayout",
+    "labels": [
+      "panelLayout",
+      "POV"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panellayout_dutch_angle",
+    "term": "dutch angle",
+    "category": "panel",
+    "subcategory": "panelLayout",
+    "labels": [
+      "panelLayout",
+      "dutch"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panellayout_dynamic_angle",
+    "term": "dynamic angle",
+    "category": "panel",
+    "subcategory": "panelLayout",
+    "labels": [
+      "panelLayout",
+      "dynamic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panellayout_dramatic_angle",
+    "term": "dramatic angle",
+    "category": "panel",
+    "subcategory": "panelLayout",
+    "labels": [
+      "panelLayout",
+      "dramatic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panellayout_split_screen",
+    "term": "split screen",
+    "category": "panel",
+    "subcategory": "panelLayout",
+    "labels": [
+      "panelLayout",
+      "split"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panellayout_double_page_spread",
+    "term": "double page spread",
+    "category": "panel",
+    "subcategory": "panelLayout",
+    "labels": [
+      "panelLayout",
+      "double"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panellayout_splash_page",
+    "term": "splash page",
+    "category": "panel",
+    "subcategory": "panelLayout",
+    "labels": [
+      "panelLayout",
+      "splash"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_comiceffects_speed_lines",
+    "term": "speed lines",
+    "category": "panel",
+    "subcategory": "comicEffects",
+    "labels": [
+      "comicEffects",
+      "speed"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_comiceffects_action_lines",
+    "term": "action lines",
+    "category": "panel",
+    "subcategory": "comicEffects",
+    "labels": [
+      "comicEffects",
+      "action"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_comiceffects_impact_lines",
+    "term": "impact lines",
+    "category": "panel",
+    "subcategory": "comicEffects",
+    "labels": [
+      "comicEffects",
+      "impact"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_comiceffects_concentric_lines",
+    "term": "concentric lines",
+    "category": "panel",
+    "subcategory": "comicEffects",
+    "labels": [
+      "comicEffects",
+      "concentric"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_comiceffects_emphasis_lines",
+    "term": "emphasis lines",
+    "category": "panel",
+    "subcategory": "comicEffects",
+    "labels": [
+      "comicEffects",
+      "emphasis"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_comiceffects_screentone",
+    "term": "screentone",
+    "category": "panel",
+    "subcategory": "comicEffects",
+    "labels": [
+      "comicEffects",
+      "screentone"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_comiceffects_halftone",
+    "term": "halftone",
+    "category": "panel",
+    "subcategory": "comicEffects",
+    "labels": [
+      "comicEffects",
+      "halftone"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_comiceffects_stippling",
+    "term": "stippling",
+    "category": "panel",
+    "subcategory": "comicEffects",
+    "labels": [
+      "comicEffects",
+      "stippling"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_comiceffects_comic_effect",
+    "term": "comic effect",
+    "category": "panel",
+    "subcategory": "comicEffects",
+    "labels": [
+      "comicEffects",
+      "comic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_comiceffects_visual_effect",
+    "term": "visual effect",
+    "category": "panel",
+    "subcategory": "comicEffects",
+    "labels": [
+      "comicEffects",
+      "visual"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_comiceffects_sound_effect_text",
+    "term": "sound effect text",
+    "category": "panel",
+    "subcategory": "comicEffects",
+    "labels": [
+      "comicEffects",
+      "sound"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_comiceffects_onomatopoeia",
+    "term": "onomatopoeia",
+    "category": "panel",
+    "subcategory": "comicEffects",
+    "labels": [
+      "comicEffects",
+      "onomatopoeia"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_comiceffects_thought_bubble",
+    "term": "thought bubble",
+    "category": "panel",
+    "subcategory": "comicEffects",
+    "labels": [
+      "comicEffects",
+      "thought"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_comiceffects_speech_balloon",
+    "term": "speech balloon",
+    "category": "panel",
+    "subcategory": "comicEffects",
+    "labels": [
+      "comicEffects",
+      "speech"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_comiceffects_manga_panel_border",
+    "term": "manga panel border",
+    "category": "panel",
+    "subcategory": "comicEffects",
+    "labels": [
+      "comicEffects",
+      "manga"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_comiceffects_manga_panel",
+    "term": "manga panel",
+    "category": "panel",
+    "subcategory": "comicEffects",
+    "labels": [
+      "comicEffects",
+      "manga"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_comiceffects_focus_line",
+    "term": "focus line",
+    "category": "panel",
+    "subcategory": "comicEffects",
+    "labels": [
+      "comicEffects",
+      "focus"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_comiceffects_radial_lines",
+    "term": "radial lines",
+    "category": "panel",
+    "subcategory": "comicEffects",
+    "labels": [
+      "comicEffects",
+      "radial"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_comiceffects_flash_background",
+    "term": "flash background",
+    "category": "panel",
+    "subcategory": "comicEffects",
+    "labels": [
+      "comicEffects",
+      "flash"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_comiceffects_abstract_background",
+    "term": "abstract background",
+    "category": "panel",
+    "subcategory": "comicEffects",
+    "labels": [
+      "comicEffects",
+      "abstract"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_comiceffects_narration_box",
+    "term": "narration box",
+    "category": "panel",
+    "subcategory": "comicEffects",
+    "labels": [
+      "comicEffects",
+      "narration"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_comiceffects_chapter_title",
+    "term": "chapter title",
+    "category": "panel",
+    "subcategory": "comicEffects",
+    "labels": [
+      "comicEffects",
+      "chapter"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_animation_key_frame",
+    "term": "key frame",
+    "category": "panel",
+    "subcategory": "animation",
+    "labels": [
+      "animation",
+      "key"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_animation_animation_cel",
+    "term": "animation cel",
+    "category": "panel",
+    "subcategory": "animation",
+    "labels": [
+      "animation",
+      "animation"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_animation_animation_test",
+    "term": "animation test",
+    "category": "panel",
+    "subcategory": "animation",
+    "labels": [
+      "animation",
+      "animation"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_animation_in_between_frame",
+    "term": "in-between frame",
+    "category": "panel",
+    "subcategory": "animation",
+    "labels": [
+      "animation",
+      "in-between"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_animation_smear_frame",
+    "term": "smear frame",
+    "category": "panel",
+    "subcategory": "animation",
+    "labels": [
+      "animation",
+      "smear"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_animation_motion_blur",
+    "term": "motion blur",
+    "category": "panel",
+    "subcategory": "animation",
+    "labels": [
+      "animation",
+      "motion"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_animation_squash_and_stretch",
+    "term": "squash and stretch",
+    "category": "panel",
+    "subcategory": "animation",
+    "labels": [
+      "animation",
+      "squash"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_animation_follow_through",
+    "term": "follow through",
+    "category": "panel",
+    "subcategory": "animation",
+    "labels": [
+      "animation",
+      "follow"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_animation_overlap",
+    "term": "overlap",
+    "category": "panel",
+    "subcategory": "animation",
+    "labels": [
+      "animation",
+      "overlap"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_animation_anticipation_pose",
+    "term": "anticipation pose",
+    "category": "panel",
+    "subcategory": "animation",
+    "labels": [
+      "animation",
+      "anticipation"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_animation_breakdown_pose",
+    "term": "breakdown pose",
+    "category": "panel",
+    "subcategory": "animation",
+    "labels": [
+      "animation",
+      "breakdown"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_animation_hold_frame",
+    "term": "hold frame",
+    "category": "panel",
+    "subcategory": "animation",
+    "labels": [
+      "animation",
+      "hold"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_animation_tween_frame",
+    "term": "tween frame",
+    "category": "panel",
+    "subcategory": "animation",
+    "labels": [
+      "animation",
+      "tween"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_animation_animated_pose",
+    "term": "animated pose",
+    "category": "panel",
+    "subcategory": "animation",
+    "labels": [
+      "animation",
+      "animated"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_animation_limited_animation",
+    "term": "limited animation",
+    "category": "panel",
+    "subcategory": "animation",
+    "labels": [
+      "animation",
+      "limited"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_animation_full_animation",
+    "term": "full animation",
+    "category": "panel",
+    "subcategory": "animation",
+    "labels": [
+      "animation",
+      "full"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_animation_center_of_gravity_shift",
+    "term": "center of gravity shift",
+    "category": "panel",
+    "subcategory": "animation",
+    "labels": [
+      "animation",
+      "center"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_animation_weight_shift_pose",
+    "term": "weight shift pose",
+    "category": "panel",
+    "subcategory": "animation",
+    "labels": [
+      "animation",
+      "weight"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_animation_secondary_action",
+    "term": "secondary action",
+    "category": "panel",
+    "subcategory": "animation",
+    "labels": [
+      "animation",
+      "secondary"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panelmood_dramatic_panel",
+    "term": "dramatic panel",
+    "category": "panel",
+    "subcategory": "panelMood",
+    "labels": [
+      "panelMood",
+      "dramatic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panelmood_tension_panel",
+    "term": "tension panel",
+    "category": "panel",
+    "subcategory": "panelMood",
+    "labels": [
+      "panelMood",
+      "tension"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panelmood_romantic_panel",
+    "term": "romantic panel",
+    "category": "panel",
+    "subcategory": "panelMood",
+    "labels": [
+      "panelMood",
+      "romantic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panelmood_comedic_panel",
+    "term": "comedic panel",
+    "category": "panel",
+    "subcategory": "panelMood",
+    "labels": [
+      "panelMood",
+      "comedic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panelmood_sad_panel",
+    "term": "sad panel",
+    "category": "panel",
+    "subcategory": "panelMood",
+    "labels": [
+      "panelMood",
+      "sad"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panelmood_epic_panel",
+    "term": "epic panel",
+    "category": "panel",
+    "subcategory": "panelMood",
+    "labels": [
+      "panelMood",
+      "epic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panelmood_quiet_moment",
+    "term": "quiet moment",
+    "category": "panel",
+    "subcategory": "panelMood",
+    "labels": [
+      "panelMood",
+      "quiet"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panelmood_punchline_panel",
+    "term": "punchline panel",
+    "category": "panel",
+    "subcategory": "panelMood",
+    "labels": [
+      "panelMood",
+      "punchline"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panelmood_reveal_panel",
+    "term": "reveal panel",
+    "category": "panel",
+    "subcategory": "panelMood",
+    "labels": [
+      "panelMood",
+      "reveal"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panelmood_cliffhanger_panel",
+    "term": "cliffhanger panel",
+    "category": "panel",
+    "subcategory": "panelMood",
+    "labels": [
+      "panelMood",
+      "cliffhanger"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panelmood_emotional_climax",
+    "term": "emotional climax",
+    "category": "panel",
+    "subcategory": "panelMood",
+    "labels": [
+      "panelMood",
+      "emotional"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panelmood_establishing_panel",
+    "term": "establishing panel",
+    "category": "panel",
+    "subcategory": "panelMood",
+    "labels": [
+      "panelMood",
+      "establishing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "panel_panelmood_transition_panel",
+    "term": "transition panel",
+    "category": "panel",
+    "subcategory": "panelMood",
+    "labels": [
+      "panelMood",
+      "transition"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "panel"
+    ],
+    "created_at": "2026-09-27T17:25:55.754Z",
+    "updated_at": "2026-09-27T17:25:55.754Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  }
+]

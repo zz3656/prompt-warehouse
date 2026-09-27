@@ -1,0 +1,4625 @@
+[
+  {
+    "id": "character_hair_flowing_hair",
+    "term": "flowing hair",
+    "category": "character",
+    "subcategory": "hair",
+    "labels": [
+      "hair",
+      "flowing"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_hair_wind_blown_hair",
+    "term": "wind-blown hair",
+    "category": "character",
+    "subcategory": "hair",
+    "labels": [
+      "hair",
+      "wind-blown"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_hair_long_hair",
+    "term": "long hair",
+    "category": "character",
+    "subcategory": "hair",
+    "labels": [
+      "hair",
+      "long"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_hair_short_hair",
+    "term": "short hair",
+    "category": "character",
+    "subcategory": "hair",
+    "labels": [
+      "hair",
+      "short"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_hair_curly_hair",
+    "term": "curly hair",
+    "category": "character",
+    "subcategory": "hair",
+    "labels": [
+      "hair",
+      "curly"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_hair_wavy_hair",
+    "term": "wavy hair",
+    "category": "character",
+    "subcategory": "hair",
+    "labels": [
+      "hair",
+      "wavy"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_hair_straight_hair",
+    "term": "straight hair",
+    "category": "character",
+    "subcategory": "hair",
+    "labels": [
+      "hair",
+      "straight"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_hair_spiky_hair",
+    "term": "spiky hair",
+    "category": "character",
+    "subcategory": "hair",
+    "labels": [
+      "hair",
+      "spiky"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_hair_messy_hair",
+    "term": "messy hair",
+    "category": "character",
+    "subcategory": "hair",
+    "labels": [
+      "hair",
+      "messy"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_hair_neatly_styled_hair",
+    "term": "neatly styled hair",
+    "category": "character",
+    "subcategory": "hair",
+    "labels": [
+      "hair",
+      "neatly"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_hair_hair_over_shoulder",
+    "term": "hair over shoulder",
+    "category": "character",
+    "subcategory": "hair",
+    "labels": [
+      "hair",
+      "hair"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_hair_hair_pulled_back",
+    "term": "hair pulled back",
+    "category": "character",
+    "subcategory": "hair",
+    "labels": [
+      "hair",
+      "hair"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_hair_twintails",
+    "term": "twintails",
+    "category": "character",
+    "subcategory": "hair",
+    "labels": [
+      "hair",
+      "twintails"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_hair_side_ponytail",
+    "term": "side ponytail",
+    "category": "character",
+    "subcategory": "hair",
+    "labels": [
+      "hair",
+      "side"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_hair_braided_hair",
+    "term": "braided hair",
+    "category": "character",
+    "subcategory": "hair",
+    "labels": [
+      "hair",
+      "braided"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_hair_butterfly_hair_clip",
+    "term": "butterfly hair clip",
+    "category": "character",
+    "subcategory": "hair",
+    "labels": [
+      "hair",
+      "butterfly"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_hair_hair_ribbon",
+    "term": "hair ribbon",
+    "category": "character",
+    "subcategory": "hair",
+    "labels": [
+      "hair",
+      "hair"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_hair_gradient_hair",
+    "term": "gradient hair",
+    "category": "character",
+    "subcategory": "hair",
+    "labels": [
+      "hair",
+      "gradient"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_hair_two_tone_hair",
+    "term": "two-tone hair",
+    "category": "character",
+    "subcategory": "hair",
+    "labels": [
+      "hair",
+      "two-tone"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_hair_highlighted_hair",
+    "term": "highlighted hair",
+    "category": "character",
+    "subcategory": "hair",
+    "labels": [
+      "hair",
+      "highlighted"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_hair_fluffy_hair",
+    "term": "fluffy hair",
+    "category": "character",
+    "subcategory": "hair",
+    "labels": [
+      "hair",
+      "fluffy"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_hair_hair_covering_one_eye",
+    "term": "hair covering one eye",
+    "category": "character",
+    "subcategory": "hair",
+    "labels": [
+      "hair",
+      "hair"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_hair_hair_between_eyes",
+    "term": "hair between eyes",
+    "category": "character",
+    "subcategory": "hair",
+    "labels": [
+      "hair",
+      "hair"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyes_detailed_eyes",
+    "term": "detailed eyes",
+    "category": "character",
+    "subcategory": "eyes",
+    "labels": [
+      "eyes",
+      "detailed"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyes_expressive_eyes",
+    "term": "expressive eyes",
+    "category": "character",
+    "subcategory": "eyes",
+    "labels": [
+      "eyes",
+      "expressive"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyes_sparkling_eyes",
+    "term": "sparkling eyes",
+    "category": "character",
+    "subcategory": "eyes",
+    "labels": [
+      "eyes",
+      "sparkling"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyes_gleaming_eyes",
+    "term": "gleaming eyes",
+    "category": "character",
+    "subcategory": "eyes",
+    "labels": [
+      "eyes",
+      "gleaming"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyes_sharp_gaze",
+    "term": "sharp gaze",
+    "category": "character",
+    "subcategory": "eyes",
+    "labels": [
+      "eyes",
+      "sharp"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyes_soft_eyes",
+    "term": "soft eyes",
+    "category": "character",
+    "subcategory": "eyes",
+    "labels": [
+      "eyes",
+      "soft"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyes_determined_eyes",
+    "term": "determined eyes",
+    "category": "character",
+    "subcategory": "eyes",
+    "labels": [
+      "eyes",
+      "determined"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyes_looking_at_viewer",
+    "term": "looking at viewer",
+    "category": "character",
+    "subcategory": "eyes",
+    "labels": [
+      "eyes",
+      "looking"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyes_looking_away",
+    "term": "looking away",
+    "category": "character",
+    "subcategory": "eyes",
+    "labels": [
+      "eyes",
+      "looking"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyes_looking_to_the_side",
+    "term": "looking to the side",
+    "category": "character",
+    "subcategory": "eyes",
+    "labels": [
+      "eyes",
+      "looking"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyes_looking_up",
+    "term": "looking up",
+    "category": "character",
+    "subcategory": "eyes",
+    "labels": [
+      "eyes",
+      "looking"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyes_looking_down",
+    "term": "looking down",
+    "category": "character",
+    "subcategory": "eyes",
+    "labels": [
+      "eyes",
+      "looking"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyes_eye_contact",
+    "term": "eye contact",
+    "category": "character",
+    "subcategory": "eyes",
+    "labels": [
+      "eyes",
+      "eye"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyes_half_closed_eyes",
+    "term": "half-closed eyes",
+    "category": "character",
+    "subcategory": "eyes",
+    "labels": [
+      "eyes",
+      "half-closed"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyes_wide_eyed",
+    "term": "wide-eyed",
+    "category": "character",
+    "subcategory": "eyes",
+    "labels": [
+      "eyes",
+      "wide-eyed"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyes_twitching_eye",
+    "term": "twitching eye",
+    "category": "character",
+    "subcategory": "eyes",
+    "labels": [
+      "eyes",
+      "twitching"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyes_head_tilt",
+    "term": "head tilt",
+    "category": "character",
+    "subcategory": "eyes",
+    "labels": [
+      "eyes",
+      "head"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyes_glowing_eyes",
+    "term": "glowing eyes",
+    "category": "character",
+    "subcategory": "eyes",
+    "labels": [
+      "eyes",
+      "glowing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyes_teary_eyes",
+    "term": "teary eyes",
+    "category": "character",
+    "subcategory": "eyes",
+    "labels": [
+      "eyes",
+      "teary"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyes_sleepy_eyes",
+    "term": "sleepy eyes",
+    "category": "character",
+    "subcategory": "eyes",
+    "labels": [
+      "eyes",
+      "sleepy"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyes_dilated_pupils",
+    "term": "dilated pupils",
+    "category": "character",
+    "subcategory": "eyes",
+    "labels": [
+      "eyes",
+      "dilated"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyes_glowing_pupils",
+    "term": "glowing pupils",
+    "category": "character",
+    "subcategory": "eyes",
+    "labels": [
+      "eyes",
+      "glowing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_smiling",
+    "term": "smiling",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "smiling"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_smirk",
+    "term": "smirk",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "smirk"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_fierce_expression",
+    "term": "fierce expression",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "fierce"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_determined_look",
+    "term": "determined look",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "determined"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_surprised_expression",
+    "term": "surprised expression",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "surprised"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_shocked_expression",
+    "term": "shocked expression",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "shocked"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_angry_expression",
+    "term": "angry expression",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "angry"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_angry_eyes",
+    "term": "angry eyes",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "angry"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_blushing",
+    "term": "blushing",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "blushing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_embarrassed",
+    "term": "embarrassed",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "embarrassed"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_crying",
+    "term": "crying",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "crying"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_tears",
+    "term": "tears",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "tears"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_smug_expression",
+    "term": "smug expression",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "smug"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_serene_expression",
+    "term": "serene expression",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "serene"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_serious_expression",
+    "term": "serious expression",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "serious"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_skeptical_look",
+    "term": "skeptical look",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "skeptical"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_confident_smile",
+    "term": "confident smile",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "confident"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_nervous_expression",
+    "term": "nervous expression",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "nervous"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_tired_look",
+    "term": "tired look",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "tired"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_yawning",
+    "term": "yawning",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "yawning"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_talking",
+    "term": "talking",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "talking"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_open_mouth",
+    "term": "open mouth",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "open"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_closed_mouth",
+    "term": "closed mouth",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "closed"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_frown",
+    "term": "frown",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "frown"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_grin",
+    "term": "grin",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "grin"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_laughing",
+    "term": "laughing",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "laughing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_winking",
+    "term": "winking",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "winking"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_scared_expression",
+    "term": "scared expression",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "scared"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_worried_expression",
+    "term": "worried expression",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "worried"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_derpy_expression",
+    "term": "derpy expression",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "derpy"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_speechless",
+    "term": "speechless",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "speechless"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_narrowed_eyes",
+    "term": "narrowed eyes",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "narrowed"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_expression_raised_eyebrows",
+    "term": "raised eyebrows",
+    "category": "character",
+    "subcategory": "expression",
+    "labels": [
+      "expression",
+      "raised"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_dynamic_pose",
+    "term": "dynamic pose",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "dynamic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_action_pose",
+    "term": "action pose",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "action"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_powerful_stance",
+    "term": "powerful stance",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "powerful"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_confident_pose",
+    "term": "confident pose",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "confident"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_relaxed_pose",
+    "term": "relaxed pose",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "relaxed"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_casual_stance",
+    "term": "casual stance",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "casual"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_walking",
+    "term": "walking",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "walking"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_mid_stride",
+    "term": "mid-stride",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "mid-stride"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_running",
+    "term": "running",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "running"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_sitting",
+    "term": "sitting",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "sitting"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_standing",
+    "term": "standing",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "standing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_crouching",
+    "term": "crouching",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "crouching"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_jumping",
+    "term": "jumping",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "jumping"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_leaning",
+    "term": "leaning",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "leaning"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_reaching_out",
+    "term": "reaching out",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "reaching"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_pointing",
+    "term": "pointing",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "pointing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_arms_crossed",
+    "term": "arms crossed",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "arms"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_hands_on_hips",
+    "term": "hands on hips",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "hands"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_hands_in_pockets",
+    "term": "hands in pockets",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "hands"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_hands_behind_back",
+    "term": "hands behind back",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "hands"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_holding_weapon",
+    "term": "holding weapon",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "holding"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_holding_object",
+    "term": "holding object",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "holding"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_holding_item",
+    "term": "holding item",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "holding"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_sitting_on_ground",
+    "term": "sitting on ground",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "sitting"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_lying_down",
+    "term": "lying down",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "lying"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_floating",
+    "term": "floating",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "floating"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_flying",
+    "term": "flying",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "flying"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_flying_hair",
+    "term": "flying hair",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "flying"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_dynamic_angle",
+    "term": "dynamic angle",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "dynamic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_looking_back_over_shoulder",
+    "term": "looking back over shoulder",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "looking"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_kneeling",
+    "term": "kneeling",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "kneeling"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_standing_on_one_leg",
+    "term": "standing on one leg",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "standing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_arms_raised",
+    "term": "arms raised",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "arms"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_back_turned",
+    "term": "back turned",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "back"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_pose_from_behind",
+    "term": "from behind",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pose",
+      "from"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_anatomy_detailed_hands",
+    "term": "detailed hands",
+    "category": "character",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "detailed"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_anatomy_fingers",
+    "term": "fingers",
+    "category": "character",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "fingers"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_anatomy_well_proportioned",
+    "term": "well-proportioned",
+    "category": "character",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "well-proportioned"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_anatomy_perfect_anatomy",
+    "term": "perfect anatomy",
+    "category": "character",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "perfect"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_anatomy_beautiful_face",
+    "term": "beautiful face",
+    "category": "character",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "beautiful"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_anatomy_perfect_facial_symmetry",
+    "term": "perfect facial symmetry",
+    "category": "character",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "perfect"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_anatomy_clean_anatomy",
+    "term": "clean anatomy",
+    "category": "character",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "clean"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_anatomy_no_extra_fingers",
+    "term": "no extra fingers",
+    "category": "character",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "no"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_anatomy_accurate_proportions",
+    "term": "accurate proportions",
+    "category": "character",
+    "subcategory": "anatomy",
+    "labels": [
+      "anatomy",
+      "accurate"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_bodytype_slim_body",
+    "term": "slim body",
+    "category": "character",
+    "subcategory": "bodyType",
+    "labels": [
+      "bodyType",
+      "slim"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_bodytype_athletic_build",
+    "term": "athletic build",
+    "category": "character",
+    "subcategory": "bodyType",
+    "labels": [
+      "bodyType",
+      "athletic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_bodytype_muscular_build",
+    "term": "muscular build",
+    "category": "character",
+    "subcategory": "bodyType",
+    "labels": [
+      "bodyType",
+      "muscular"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_bodytype_curvy_body",
+    "term": "curvy body",
+    "category": "character",
+    "subcategory": "bodyType",
+    "labels": [
+      "bodyType",
+      "curvy"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_bodytype_petite_frame",
+    "term": "petite frame",
+    "category": "character",
+    "subcategory": "bodyType",
+    "labels": [
+      "bodyType",
+      "petite"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_bodytype_tall_and_slender",
+    "term": "tall and slender",
+    "category": "character",
+    "subcategory": "bodyType",
+    "labels": [
+      "bodyType",
+      "tall"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_bodytype_stocky_build",
+    "term": "stocky build",
+    "category": "character",
+    "subcategory": "bodyType",
+    "labels": [
+      "bodyType",
+      "stocky"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_bodytype_lean_physique",
+    "term": "lean physique",
+    "category": "character",
+    "subcategory": "bodyType",
+    "labels": [
+      "bodyType",
+      "lean"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_bodytype_heavyset",
+    "term": "heavyset",
+    "category": "character",
+    "subcategory": "bodyType",
+    "labels": [
+      "bodyType",
+      "heavyset"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_bodytype_toned_body",
+    "term": "toned body",
+    "category": "character",
+    "subcategory": "bodyType",
+    "labels": [
+      "bodyType",
+      "toned"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_bodytype_athletic_physique",
+    "term": "athletic physique",
+    "category": "character",
+    "subcategory": "bodyType",
+    "labels": [
+      "bodyType",
+      "athletic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_skin_pale_skin",
+    "term": "pale skin",
+    "category": "character",
+    "subcategory": "skin",
+    "labels": [
+      "skin",
+      "pale"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_skin_fair_skin",
+    "term": "fair skin",
+    "category": "character",
+    "subcategory": "skin",
+    "labels": [
+      "skin",
+      "fair"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_skin_olive_skin",
+    "term": "olive skin",
+    "category": "character",
+    "subcategory": "skin",
+    "labels": [
+      "skin",
+      "olive"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_skin_tan_skin",
+    "term": "tan skin",
+    "category": "character",
+    "subcategory": "skin",
+    "labels": [
+      "skin",
+      "tan"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_skin_dark_skin",
+    "term": "dark skin",
+    "category": "character",
+    "subcategory": "skin",
+    "labels": [
+      "skin",
+      "dark"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_skin_ebony_skin",
+    "term": "ebony skin",
+    "category": "character",
+    "subcategory": "skin",
+    "labels": [
+      "skin",
+      "ebony"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_skin_warm_skin_tone",
+    "term": "warm skin tone",
+    "category": "character",
+    "subcategory": "skin",
+    "labels": [
+      "skin",
+      "warm"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_skin_cool_skin_tone",
+    "term": "cool skin tone",
+    "category": "character",
+    "subcategory": "skin",
+    "labels": [
+      "skin",
+      "cool"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_age_child",
+    "term": "child",
+    "category": "character",
+    "subcategory": "age",
+    "labels": [
+      "age",
+      "child"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_age_young_child",
+    "term": "young child",
+    "category": "character",
+    "subcategory": "age",
+    "labels": [
+      "age",
+      "young"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_age_pre_teen",
+    "term": "pre-teen",
+    "category": "character",
+    "subcategory": "age",
+    "labels": [
+      "age",
+      "pre-teen"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_age_teenager",
+    "term": "teenager",
+    "category": "character",
+    "subcategory": "age",
+    "labels": [
+      "age",
+      "teenager"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_age_young_adult",
+    "term": "young adult",
+    "category": "character",
+    "subcategory": "age",
+    "labels": [
+      "age",
+      "young"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_age_adult",
+    "term": "adult",
+    "category": "character",
+    "subcategory": "age",
+    "labels": [
+      "age",
+      "adult"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_age_middle_aged",
+    "term": "middle-aged",
+    "category": "character",
+    "subcategory": "age",
+    "labels": [
+      "age",
+      "middle-aged"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_age_elderly",
+    "term": "elderly",
+    "category": "character",
+    "subcategory": "age",
+    "labels": [
+      "age",
+      "elderly"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_age_ancient",
+    "term": "ancient",
+    "category": "character",
+    "subcategory": "age",
+    "labels": [
+      "age",
+      "ancient"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_age_immortal_looking",
+    "term": "immortal looking",
+    "category": "character",
+    "subcategory": "age",
+    "labels": [
+      "age",
+      "immortal"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_age_ageless",
+    "term": "ageless",
+    "category": "character",
+    "subcategory": "age",
+    "labels": [
+      "age",
+      "ageless"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_age_baby",
+    "term": "baby",
+    "category": "character",
+    "subcategory": "age",
+    "labels": [
+      "age",
+      "baby"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_age_toddler",
+    "term": "toddler",
+    "category": "character",
+    "subcategory": "age",
+    "labels": [
+      "age",
+      "toddler"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_haircolors_black_hair",
+    "term": "black hair",
+    "category": "character",
+    "subcategory": "hairColors",
+    "labels": [
+      "hairColors",
+      "black"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_haircolors_jet_black_hair",
+    "term": "jet black hair",
+    "category": "character",
+    "subcategory": "hairColors",
+    "labels": [
+      "hairColors",
+      "jet"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_haircolors_white_hair",
+    "term": "white hair",
+    "category": "character",
+    "subcategory": "hairColors",
+    "labels": [
+      "hairColors",
+      "white"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_haircolors_silver_hair",
+    "term": "silver hair",
+    "category": "character",
+    "subcategory": "hairColors",
+    "labels": [
+      "hairColors",
+      "silver"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_haircolors_blonde_hair",
+    "term": "blonde hair",
+    "category": "character",
+    "subcategory": "hairColors",
+    "labels": [
+      "hairColors",
+      "blonde"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_haircolors_platinum_blonde_hair",
+    "term": "platinum blonde hair",
+    "category": "character",
+    "subcategory": "hairColors",
+    "labels": [
+      "hairColors",
+      "platinum"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_haircolors_strawberry_blonde_hair",
+    "term": "strawberry blonde hair",
+    "category": "character",
+    "subcategory": "hairColors",
+    "labels": [
+      "hairColors",
+      "strawberry"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_haircolors_brown_hair",
+    "term": "brown hair",
+    "category": "character",
+    "subcategory": "hairColors",
+    "labels": [
+      "hairColors",
+      "brown"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_haircolors_red_hair",
+    "term": "red hair",
+    "category": "character",
+    "subcategory": "hairColors",
+    "labels": [
+      "hairColors",
+      "red"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_haircolors_auburn_hair",
+    "term": "auburn hair",
+    "category": "character",
+    "subcategory": "hairColors",
+    "labels": [
+      "hairColors",
+      "auburn"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_haircolors_blue_hair",
+    "term": "blue hair",
+    "category": "character",
+    "subcategory": "hairColors",
+    "labels": [
+      "hairColors",
+      "blue"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_haircolors_pink_hair",
+    "term": "pink hair",
+    "category": "character",
+    "subcategory": "hairColors",
+    "labels": [
+      "hairColors",
+      "pink"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_haircolors_green_hair",
+    "term": "green hair",
+    "category": "character",
+    "subcategory": "hairColors",
+    "labels": [
+      "hairColors",
+      "green"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_haircolors_purple_hair",
+    "term": "purple hair",
+    "category": "character",
+    "subcategory": "hairColors",
+    "labels": [
+      "hairColors",
+      "purple"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_haircolors_orange_hair",
+    "term": "orange hair",
+    "category": "character",
+    "subcategory": "hairColors",
+    "labels": [
+      "hairColors",
+      "orange"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_haircolors_yellow_hair",
+    "term": "yellow hair",
+    "category": "character",
+    "subcategory": "hairColors",
+    "labels": [
+      "hairColors",
+      "yellow"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_haircolors_gray_hair",
+    "term": "gray hair",
+    "category": "character",
+    "subcategory": "hairColors",
+    "labels": [
+      "hairColors",
+      "gray"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_haircolors_rainbow_hair",
+    "term": "rainbow hair",
+    "category": "character",
+    "subcategory": "hairColors",
+    "labels": [
+      "hairColors",
+      "rainbow"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_haircolors_multicolored_hair",
+    "term": "multicolored hair",
+    "category": "character",
+    "subcategory": "hairColors",
+    "labels": [
+      "hairColors",
+      "multicolored"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_haircolors_black_hair_with_pink_tips",
+    "term": "black hair with pink tips",
+    "category": "character",
+    "subcategory": "hairColors",
+    "labels": [
+      "hairColors",
+      "black"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_haircolors_white_hair_with_blue_streaks",
+    "term": "white hair with blue streaks",
+    "category": "character",
+    "subcategory": "hairColors",
+    "labels": [
+      "hairColors",
+      "white"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_haircolors_dark_brown_hair",
+    "term": "dark brown hair",
+    "category": "character",
+    "subcategory": "hairColors",
+    "labels": [
+      "hairColors",
+      "dark"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_haircolors_light_brown_hair",
+    "term": "light brown hair",
+    "category": "character",
+    "subcategory": "hairColors",
+    "labels": [
+      "hairColors",
+      "light"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_haircolors_dark_blonde_hair",
+    "term": "dark blonde hair",
+    "category": "character",
+    "subcategory": "hairColors",
+    "labels": [
+      "hairColors",
+      "dark"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyecolors_red_eyes",
+    "term": "red eyes",
+    "category": "character",
+    "subcategory": "eyeColors",
+    "labels": [
+      "eyeColors",
+      "red"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyecolors_blue_eyes",
+    "term": "blue eyes",
+    "category": "character",
+    "subcategory": "eyeColors",
+    "labels": [
+      "eyeColors",
+      "blue"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyecolors_green_eyes",
+    "term": "green eyes",
+    "category": "character",
+    "subcategory": "eyeColors",
+    "labels": [
+      "eyeColors",
+      "green"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyecolors_brown_eyes",
+    "term": "brown eyes",
+    "category": "character",
+    "subcategory": "eyeColors",
+    "labels": [
+      "eyeColors",
+      "brown"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyecolors_golden_eyes",
+    "term": "golden eyes",
+    "category": "character",
+    "subcategory": "eyeColors",
+    "labels": [
+      "eyeColors",
+      "golden"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyecolors_amber_eyes",
+    "term": "amber eyes",
+    "category": "character",
+    "subcategory": "eyeColors",
+    "labels": [
+      "eyeColors",
+      "amber"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyecolors_purple_eyes",
+    "term": "purple eyes",
+    "category": "character",
+    "subcategory": "eyeColors",
+    "labels": [
+      "eyeColors",
+      "purple"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyecolors_silver_eyes",
+    "term": "silver eyes",
+    "category": "character",
+    "subcategory": "eyeColors",
+    "labels": [
+      "eyeColors",
+      "silver"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyecolors_gray_eyes",
+    "term": "gray eyes",
+    "category": "character",
+    "subcategory": "eyeColors",
+    "labels": [
+      "eyeColors",
+      "gray"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyecolors_black_eyes",
+    "term": "black eyes",
+    "category": "character",
+    "subcategory": "eyeColors",
+    "labels": [
+      "eyeColors",
+      "black"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyecolors_pink_eyes",
+    "term": "pink eyes",
+    "category": "character",
+    "subcategory": "eyeColors",
+    "labels": [
+      "eyeColors",
+      "pink"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyecolors_orange_eyes",
+    "term": "orange eyes",
+    "category": "character",
+    "subcategory": "eyeColors",
+    "labels": [
+      "eyeColors",
+      "orange"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyecolors_heterochromia",
+    "term": "heterochromia",
+    "category": "character",
+    "subcategory": "eyeColors",
+    "labels": [
+      "eyeColors",
+      "heterochromia"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyecolors_multicolored_eyes",
+    "term": "multicolored eyes",
+    "category": "character",
+    "subcategory": "eyeColors",
+    "labels": [
+      "eyeColors",
+      "multicolored"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyecolors_crystal_clear_eyes",
+    "term": "crystal clear eyes",
+    "category": "character",
+    "subcategory": "eyeColors",
+    "labels": [
+      "eyeColors",
+      "crystal"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyecolors_ruby_eyes",
+    "term": "ruby eyes",
+    "category": "character",
+    "subcategory": "eyeColors",
+    "labels": [
+      "eyeColors",
+      "ruby"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyecolors_sapphire_eyes",
+    "term": "sapphire eyes",
+    "category": "character",
+    "subcategory": "eyeColors",
+    "labels": [
+      "eyeColors",
+      "sapphire"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyecolors_emerald_green_eyes",
+    "term": "emerald green eyes",
+    "category": "character",
+    "subcategory": "eyeColors",
+    "labels": [
+      "eyeColors",
+      "emerald"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyecolors_violet_eyes",
+    "term": "violet eyes",
+    "category": "character",
+    "subcategory": "eyeColors",
+    "labels": [
+      "eyeColors",
+      "violet"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyecolors_metallic_eyes",
+    "term": "metallic eyes",
+    "category": "character",
+    "subcategory": "eyeColors",
+    "labels": [
+      "eyeColors",
+      "metallic"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyecolors_glowing_red_eyes",
+    "term": "glowing red eyes",
+    "category": "character",
+    "subcategory": "eyeColors",
+    "labels": [
+      "eyeColors",
+      "glowing"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyecolors_glowing_blue_eyes",
+    "term": "glowing blue eyes",
+    "category": "character",
+    "subcategory": "eyeColors",
+    "labels": [
+      "eyeColors",
+      "glowing"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "character_eyecolors_cat_like_pupils",
+    "term": "cat-like pupils",
+    "category": "character",
+    "subcategory": "eyeColors",
+    "labels": [
+      "eyeColors",
+      "cat-like"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "character"
+    ],
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  }
+]

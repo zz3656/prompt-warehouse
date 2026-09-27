@@ -1,0 +1,1888 @@
+[
+  {
+    "id": "lighting_natural_natural_daylight",
+    "term": "natural daylight",
+    "category": "lighting",
+    "subcategory": "natural",
+    "labels": [
+      "natural",
+      "natural"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_natural_soft_lighting",
+    "term": "soft lighting",
+    "category": "lighting",
+    "subcategory": "natural",
+    "labels": [
+      "natural",
+      "soft"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_natural_even_lighting",
+    "term": "even lighting",
+    "category": "lighting",
+    "subcategory": "natural",
+    "labels": [
+      "natural",
+      "even"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_natural_diffused_light",
+    "term": "diffused light",
+    "category": "lighting",
+    "subcategory": "natural",
+    "labels": [
+      "natural",
+      "diffused"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_natural_overcast_lighting",
+    "term": "overcast lighting",
+    "category": "lighting",
+    "subcategory": "natural",
+    "labels": [
+      "natural",
+      "overcast"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_natural_golden_hour",
+    "term": "golden hour",
+    "category": "lighting",
+    "subcategory": "natural",
+    "labels": [
+      "natural",
+      "golden"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_natural_warm_sunset_glow",
+    "term": "warm sunset glow",
+    "category": "lighting",
+    "subcategory": "natural",
+    "labels": [
+      "natural",
+      "warm"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_natural_backlit",
+    "term": "backlit",
+    "category": "lighting",
+    "subcategory": "natural",
+    "labels": [
+      "natural",
+      "backlit"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_natural_rim_light",
+    "term": "rim light",
+    "category": "lighting",
+    "subcategory": "natural",
+    "labels": [
+      "natural",
+      "rim"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_natural_long_shadows",
+    "term": "long shadows",
+    "category": "lighting",
+    "subcategory": "natural",
+    "labels": [
+      "natural",
+      "long"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_natural_warm_amber_tones",
+    "term": "warm amber tones",
+    "category": "lighting",
+    "subcategory": "natural",
+    "labels": [
+      "natural",
+      "warm"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_natural_dappled_sunlight",
+    "term": "dappled sunlight",
+    "category": "lighting",
+    "subcategory": "natural",
+    "labels": [
+      "natural",
+      "dappled"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_natural_sun_rays",
+    "term": "sun rays",
+    "category": "lighting",
+    "subcategory": "natural",
+    "labels": [
+      "natural",
+      "sun"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_natural_god_rays",
+    "term": "god rays",
+    "category": "lighting",
+    "subcategory": "natural",
+    "labels": [
+      "natural",
+      "god"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_natural_lens_flare",
+    "term": "lens flare",
+    "category": "lighting",
+    "subcategory": "natural",
+    "labels": [
+      "natural",
+      "lens"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_natural_sun_flare",
+    "term": "sun flare",
+    "category": "lighting",
+    "subcategory": "natural",
+    "labels": [
+      "natural",
+      "sun"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_natural_ray_of_light",
+    "term": "ray of light",
+    "category": "lighting",
+    "subcategory": "natural",
+    "labels": [
+      "natural",
+      "ray"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dramatic_dramatic_lighting",
+    "term": "dramatic lighting",
+    "category": "lighting",
+    "subcategory": "dramatic",
+    "labels": [
+      "dramatic",
+      "dramatic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dramatic_chiaroscuro",
+    "term": "chiaroscuro",
+    "category": "lighting",
+    "subcategory": "dramatic",
+    "labels": [
+      "dramatic",
+      "chiaroscuro"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dramatic_side_lighting",
+    "term": "side lighting",
+    "category": "lighting",
+    "subcategory": "dramatic",
+    "labels": [
+      "dramatic",
+      "side"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dramatic_hard_lighting",
+    "term": "hard lighting",
+    "category": "lighting",
+    "subcategory": "dramatic",
+    "labels": [
+      "dramatic",
+      "hard"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dramatic_high_contrast",
+    "term": "high contrast",
+    "category": "lighting",
+    "subcategory": "dramatic",
+    "labels": [
+      "dramatic",
+      "high"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dramatic_half_in_shadow",
+    "term": "half in shadow",
+    "category": "lighting",
+    "subcategory": "dramatic",
+    "labels": [
+      "dramatic",
+      "half"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dramatic_theatrical_lighting",
+    "term": "theatrical lighting",
+    "category": "lighting",
+    "subcategory": "dramatic",
+    "labels": [
+      "dramatic",
+      "theatrical"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dramatic_spotlight",
+    "term": "spotlight",
+    "category": "lighting",
+    "subcategory": "dramatic",
+    "labels": [
+      "dramatic",
+      "spotlight"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dramatic_volumetric_lighting",
+    "term": "volumetric lighting",
+    "category": "lighting",
+    "subcategory": "dramatic",
+    "labels": [
+      "dramatic",
+      "volumetric"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dramatic_ray_tracing",
+    "term": "ray tracing",
+    "category": "lighting",
+    "subcategory": "dramatic",
+    "labels": [
+      "dramatic",
+      "ray"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dramatic_god_rays_through_window",
+    "term": "god rays through window",
+    "category": "lighting",
+    "subcategory": "dramatic",
+    "labels": [
+      "dramatic",
+      "god"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dramatic_cinematic_lighting",
+    "term": "cinematic lighting",
+    "category": "lighting",
+    "subcategory": "dramatic",
+    "labels": [
+      "dramatic",
+      "cinematic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_mood_cool_blue_lighting",
+    "term": "cool blue lighting",
+    "category": "lighting",
+    "subcategory": "mood",
+    "labels": [
+      "mood",
+      "cool"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_mood_cold_atmosphere",
+    "term": "cold atmosphere",
+    "category": "lighting",
+    "subcategory": "mood",
+    "labels": [
+      "mood",
+      "cold"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_mood_moody_atmosphere",
+    "term": "moody atmosphere",
+    "category": "lighting",
+    "subcategory": "mood",
+    "labels": [
+      "mood",
+      "moody"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_mood_dark_atmosphere",
+    "term": "dark atmosphere",
+    "category": "lighting",
+    "subcategory": "mood",
+    "labels": [
+      "mood",
+      "dark"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_mood_low_key_lighting",
+    "term": "low key lighting",
+    "category": "lighting",
+    "subcategory": "mood",
+    "labels": [
+      "mood",
+      "low"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_mood_high_key_lighting",
+    "term": "high key lighting",
+    "category": "lighting",
+    "subcategory": "mood",
+    "labels": [
+      "mood",
+      "high"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_mood_neon_lighting",
+    "term": "neon lighting",
+    "category": "lighting",
+    "subcategory": "mood",
+    "labels": [
+      "mood",
+      "neon"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_mood_neon_glow",
+    "term": "neon glow",
+    "category": "lighting",
+    "subcategory": "mood",
+    "labels": [
+      "mood",
+      "neon"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_mood_neon_rim_light",
+    "term": "neon rim light",
+    "category": "lighting",
+    "subcategory": "mood",
+    "labels": [
+      "mood",
+      "neon"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_mood_cyberpunk_lighting",
+    "term": "cyberpunk lighting",
+    "category": "lighting",
+    "subcategory": "mood",
+    "labels": [
+      "mood",
+      "cyberpunk"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_mood_magical_glow",
+    "term": "magical glow",
+    "category": "lighting",
+    "subcategory": "mood",
+    "labels": [
+      "mood",
+      "magical"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_mood_ethereal_glow",
+    "term": "ethereal glow",
+    "category": "lighting",
+    "subcategory": "mood",
+    "labels": [
+      "mood",
+      "ethereal"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_mood_soft_ambient_light",
+    "term": "soft ambient light",
+    "category": "lighting",
+    "subcategory": "mood",
+    "labels": [
+      "mood",
+      "soft"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_mood_flat_even_light",
+    "term": "flat even light",
+    "category": "lighting",
+    "subcategory": "mood",
+    "labels": [
+      "mood",
+      "flat"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_mood_studio_lighting",
+    "term": "studio lighting",
+    "category": "lighting",
+    "subcategory": "mood",
+    "labels": [
+      "mood",
+      "studio"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_mood_ring_light",
+    "term": "ring light",
+    "category": "lighting",
+    "subcategory": "mood",
+    "labels": [
+      "mood",
+      "ring"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_mood_moonlight",
+    "term": "moonlight",
+    "category": "lighting",
+    "subcategory": "mood",
+    "labels": [
+      "mood",
+      "moonlight"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_mood_cool_moonlit_atmosphere",
+    "term": "cool moonlit atmosphere",
+    "category": "lighting",
+    "subcategory": "mood",
+    "labels": [
+      "mood",
+      "cool"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_mood_twilight",
+    "term": "twilight",
+    "category": "lighting",
+    "subcategory": "mood",
+    "labels": [
+      "mood",
+      "twilight"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_mood_blue_hour",
+    "term": "blue hour",
+    "category": "lighting",
+    "subcategory": "mood",
+    "labels": [
+      "mood",
+      "blue"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dynamic_flying_petals",
+    "term": "flying petals",
+    "category": "lighting",
+    "subcategory": "dynamic",
+    "labels": [
+      "dynamic",
+      "flying"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dynamic_cherry_blossoms_falling",
+    "term": "cherry blossoms falling",
+    "category": "lighting",
+    "subcategory": "dynamic",
+    "labels": [
+      "dynamic",
+      "cherry"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dynamic_leaves_blowing_in_wind",
+    "term": "leaves blowing in wind",
+    "category": "lighting",
+    "subcategory": "dynamic",
+    "labels": [
+      "dynamic",
+      "leaves"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dynamic_rain_splashes",
+    "term": "rain splashes",
+    "category": "lighting",
+    "subcategory": "dynamic",
+    "labels": [
+      "dynamic",
+      "rain"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dynamic_dust_particles_in_air",
+    "term": "dust particles in air",
+    "category": "lighting",
+    "subcategory": "dynamic",
+    "labels": [
+      "dynamic",
+      "dust"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dynamic_electric_sparks",
+    "term": "electric sparks",
+    "category": "lighting",
+    "subcategory": "dynamic",
+    "labels": [
+      "dynamic",
+      "electric"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dynamic_magical_aura",
+    "term": "magical aura",
+    "category": "lighting",
+    "subcategory": "dynamic",
+    "labels": [
+      "dynamic",
+      "magical"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dynamic_power_aura",
+    "term": "power aura",
+    "category": "lighting",
+    "subcategory": "dynamic",
+    "labels": [
+      "dynamic",
+      "power"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dynamic_energy_glow",
+    "term": "energy glow",
+    "category": "lighting",
+    "subcategory": "dynamic",
+    "labels": [
+      "dynamic",
+      "energy"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dynamic_motion_trails",
+    "term": "motion trails",
+    "category": "lighting",
+    "subcategory": "dynamic",
+    "labels": [
+      "dynamic",
+      "motion"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dynamic_trail_particles",
+    "term": "trail particles",
+    "category": "lighting",
+    "subcategory": "dynamic",
+    "labels": [
+      "dynamic",
+      "trail"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dynamic_spark_trail",
+    "term": "spark trail",
+    "category": "lighting",
+    "subcategory": "dynamic",
+    "labels": [
+      "dynamic",
+      "spark"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dynamic_crackle_effect",
+    "term": "crackle effect",
+    "category": "lighting",
+    "subcategory": "dynamic",
+    "labels": [
+      "dynamic",
+      "crackle"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dynamic_ice_crystals",
+    "term": "ice crystals",
+    "category": "lighting",
+    "subcategory": "dynamic",
+    "labels": [
+      "dynamic",
+      "ice"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dynamic_snowflakes_falling",
+    "term": "snowflakes falling",
+    "category": "lighting",
+    "subcategory": "dynamic",
+    "labels": [
+      "dynamic",
+      "snowflakes"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dynamic_floating_embers",
+    "term": "floating embers",
+    "category": "lighting",
+    "subcategory": "dynamic",
+    "labels": [
+      "dynamic",
+      "floating"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dynamic_glowing_runes",
+    "term": "glowing runes",
+    "category": "lighting",
+    "subcategory": "dynamic",
+    "labels": [
+      "dynamic",
+      "glowing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dynamic_spirit_particles",
+    "term": "spirit particles",
+    "category": "lighting",
+    "subcategory": "dynamic",
+    "labels": [
+      "dynamic",
+      "spirit"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dynamic_aura_effect",
+    "term": "aura effect",
+    "category": "lighting",
+    "subcategory": "dynamic",
+    "labels": [
+      "dynamic",
+      "aura"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dynamic_flames",
+    "term": "flames",
+    "category": "lighting",
+    "subcategory": "dynamic",
+    "labels": [
+      "dynamic",
+      "flames"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_dynamic_fire_particles",
+    "term": "fire particles",
+    "category": "lighting",
+    "subcategory": "dynamic",
+    "labels": [
+      "dynamic",
+      "fire"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_special_bioluminescent_glow",
+    "term": "bioluminescent glow",
+    "category": "lighting",
+    "subcategory": "special",
+    "labels": [
+      "special",
+      "bioluminescent"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_special_particles_floating",
+    "term": "particles floating",
+    "category": "lighting",
+    "subcategory": "special",
+    "labels": [
+      "special",
+      "particles"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_special_light_rays",
+    "term": "light rays",
+    "category": "lighting",
+    "subcategory": "special",
+    "labels": [
+      "special",
+      "light"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_special_light_shafts",
+    "term": "light shafts",
+    "category": "lighting",
+    "subcategory": "special",
+    "labels": [
+      "special",
+      "light"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_special_fog",
+    "term": "fog",
+    "category": "lighting",
+    "subcategory": "special",
+    "labels": [
+      "special",
+      "fog"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_special_mist",
+    "term": "mist",
+    "category": "lighting",
+    "subcategory": "special",
+    "labels": [
+      "special",
+      "mist"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_special_atmospheric_haze",
+    "term": "atmospheric haze",
+    "category": "lighting",
+    "subcategory": "special",
+    "labels": [
+      "special",
+      "atmospheric"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_special_volumetric_fog",
+    "term": "volumetric fog",
+    "category": "lighting",
+    "subcategory": "special",
+    "labels": [
+      "special",
+      "volumetric"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_special_glowing",
+    "term": "glowing",
+    "category": "lighting",
+    "subcategory": "special",
+    "labels": [
+      "special",
+      "glowing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_special_luminescent",
+    "term": "luminescent",
+    "category": "lighting",
+    "subcategory": "special",
+    "labels": [
+      "special",
+      "luminescent"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_special_sparkling",
+    "term": "sparkling",
+    "category": "lighting",
+    "subcategory": "special",
+    "labels": [
+      "special",
+      "sparkling"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_special_glittering",
+    "term": "glittering",
+    "category": "lighting",
+    "subcategory": "special",
+    "labels": [
+      "special",
+      "glittering"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "lighting"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  }
+]
