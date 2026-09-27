@@ -1,10 +1,20 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "schema_version": "pws-1.0",
-  "total_keywords": 859,
+  "total_keywords": 1975,
   "total_categories": 9,
-  "updated_at": "2025-09-28T00:00:00Z",
-  "updated_by": "migration-script",
-  "source_projects": ["h3-comic-builder"],
-  "description": "Prompt warehouse — auto-generated from h3-comic-builder. Contains 859 structured keywords across 9 categories and 24 prompt templates."
+  "updated_at": "2026-09-28T02:00:00Z",
+  "updated_by": "integration-script",
+  "source_projects": ["h3-comic-builder", "MidJourney-Styles-and-Keywords-Reference"],
+  "changelog": [
+    {
+      "version": "1.0.1",
+      "date": "2026-09-28",
+      "changes": ["Added 1116 keywords from willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)", "Fixed term formatting (underscore to space)", "Added mj_* subcategories for MJ-specific keywords"],
+      "added": 1116,
+      "before": 859,
+      "after": 1975
+    }
+  ],
+  "description": "1975 structured keywords across 9 categories. Migrated from h3-comic-builder (859) + MidJourney Styles and Keywords Reference by willwulfken (1116)."
 }

@@ -1,12 +1,2662 @@
 [
   {
-    "id": "composition_framing_extreme_close_up",
-    "term": "extreme close-up",
+    "id": "mj_mj_camera_cinematic_haze",
+    "term": "Cinematic Haze",
     "category": "composition",
-    "subcategory": "framing",
+    "subcategory": "mj_camera",
     "labels": [
-      "framing",
-      "extreme"
+      "mj_camera",
+      "cinematic_haze"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128329+00:00",
+    "updated_at": "2026-09-27T18:19:35.128330+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_portrait",
+    "term": "Portrait",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "portrait"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128605+00:00",
+    "updated_at": "2026-09-27T18:19:35.128606+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_100mm_lens",
+    "term": "100mm Lens",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "100mm_lens"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128267+00:00",
+    "updated_at": "2026-09-27T18:19:35.128268+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_100x_magnification",
+    "term": "100x Magnification",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "100x_magnification"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128273+00:00",
+    "updated_at": "2026-09-27T18:19:35.128274+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_10_megapixels",
+    "term": "10 Megapixels",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "10_megapixels"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128261+00:00",
+    "updated_at": "2026-09-27T18:19:35.128262+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_15mm_lens",
+    "term": "15mm Lens",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "15mm_lens"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128279+00:00",
+    "updated_at": "2026-09-27T18:19:35.128280+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_20_megapixels",
+    "term": "20 Megapixels",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "20_megapixels"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128285+00:00",
+    "updated_at": "2026-09-27T18:19:35.128286+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_500x_magnification",
+    "term": "500x Magnification",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "500x_magnification"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128291+00:00",
+    "updated_at": "2026-09-27T18:19:35.128292+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_action_scene",
+    "term": "Action Scene",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "action_scene"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128297+00:00",
+    "updated_at": "2026-09-27T18:19:35.128298+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_perspective_anamorphosis",
+    "term": "Anamorphosis",
+    "category": "composition",
+    "subcategory": "mj_perspective",
+    "labels": [
+      "mj_perspective",
+      "anamorphosis"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.130581+00:00",
+    "updated_at": "2026-09-27T18:19:35.130582+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/perspective.md"
+  },
+  {
+    "id": "mj_mj_camera_aperture",
+    "term": "Aperture",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "aperture"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128302+00:00",
+    "updated_at": "2026-09-27T18:19:35.128303+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_astronomical_filter",
+    "term": "Astronomical Filter",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "astronomical"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128309+00:00",
+    "updated_at": "2026-09-27T18:19:35.128310+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_award_winning_photography",
+    "term": "Award Winning Photography",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "award_winning_photography"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128316+00:00",
+    "updated_at": "2026-09-27T18:19:35.128317+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_perspective_axonometric",
+    "term": "Axonometric",
+    "category": "composition",
+    "subcategory": "mj_perspective",
+    "labels": [
+      "mj_perspective",
+      "axonometric"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.130589+00:00",
+    "updated_at": "2026-09-27T18:19:35.130590+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/perspective.md"
+  },
+  {
+    "id": "mj_mj_camera_camcorder_effect",
+    "term": "Camcorder Effect",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "camcorder_effect"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128322+00:00",
+    "updated_at": "2026-09-27T18:19:35.128323+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_cinerama",
+    "term": "Cinerama",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "cinerama"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128335+00:00",
+    "updated_at": "2026-09-27T18:19:35.128336+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_claymation",
+    "term": "Claymation",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "claymation"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128341+00:00",
+    "updated_at": "2026-09-27T18:19:35.128342+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_closed_composition",
+    "term": "Closed Composition",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "closed_composition"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128347+00:00",
+    "updated_at": "2026-09-27T18:19:35.128348+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_perspective_closeup",
+    "term": "Closeup",
+    "category": "composition",
+    "subcategory": "mj_perspective",
+    "labels": [
+      "mj_perspective",
+      "closeup"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.130594+00:00",
+    "updated_at": "2026-09-27T18:19:35.130595+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/perspective.md"
+  },
+  {
+    "id": "mj_mj_camera_color_gel",
+    "term": "Color Gel",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "color"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128359+00:00",
+    "updated_at": "2026-09-27T18:19:35.128360+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_color_grading",
+    "term": "Color Grading",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "color_grading"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128353+00:00",
+    "updated_at": "2026-09-27T18:19:35.128354+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_perspective_cross_section",
+    "term": "Cross Section",
+    "category": "composition",
+    "subcategory": "mj_perspective",
+    "labels": [
+      "mj_perspective",
+      "cross"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.130600+00:00",
+    "updated_at": "2026-09-27T18:19:35.130601+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/perspective.md"
+  },
+  {
+    "id": "mj_mj_perspective_curvilinear_perspective",
+    "term": "Curvilinear Perspective",
+    "category": "composition",
+    "subcategory": "mj_perspective",
+    "labels": [
+      "mj_perspective",
+      "curvilinear_perspective"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.130607+00:00",
+    "updated_at": "2026-09-27T18:19:35.130608+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/perspective.md"
+  },
+  {
+    "id": "mj_mj_perspective_cutaway",
+    "term": "Cutaway",
+    "category": "composition",
+    "subcategory": "mj_perspective",
+    "labels": [
+      "mj_perspective",
+      "cutaway"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.130612+00:00",
+    "updated_at": "2026-09-27T18:19:35.130613+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/perspective.md"
+  },
+  {
+    "id": "mj_mj_perspective_cylindrical_perspective",
+    "term": "Cylindrical Perspective",
+    "category": "composition",
+    "subcategory": "mj_perspective",
+    "labels": [
+      "mj_perspective",
+      "cylindrical_perspective"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.130618+00:00",
+    "updated_at": "2026-09-27T18:19:35.130619+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/perspective.md"
+  },
+  {
+    "id": "mj_mj_camera_daguerrotype",
+    "term": "Daguerrotype",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "daguerrotype"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128365+00:00",
+    "updated_at": "2026-09-27T18:19:35.128366+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_dashcam_footage",
+    "term": "Dashcam Footage",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "dashcam"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128375+00:00",
+    "updated_at": "2026-09-27T18:19:35.128376+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_defocused",
+    "term": "Defocused",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "defocused"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128382+00:00",
+    "updated_at": "2026-09-27T18:19:35.128383+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_depth",
+    "term": "Depth",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "depth"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128388+00:00",
+    "updated_at": "2026-09-27T18:19:35.128389+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_dichroic_filter",
+    "term": "Dichroic Filter",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "dichroic"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128394+00:00",
+    "updated_at": "2026-09-27T18:19:35.128396+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_perspective_dimetric_projection",
+    "term": "Dimetric Projection",
+    "category": "composition",
+    "subcategory": "mj_perspective",
+    "labels": [
+      "mj_perspective",
+      "dimetric_projection"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.130624+00:00",
+    "updated_at": "2026-09-27T18:19:35.130625+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/perspective.md"
+  },
+  {
+    "id": "mj_mj_camera_disposable_camera",
+    "term": "Disposable Camera",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "disposable_camera"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128401+00:00",
+    "updated_at": "2026-09-27T18:19:35.128402+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_perspective_divergent_perspective",
+    "term": "Divergent Perspective",
+    "category": "composition",
+    "subcategory": "mj_perspective",
+    "labels": [
+      "mj_perspective",
+      "divergent_perspective"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.130631+00:00",
+    "updated_at": "2026-09-27T18:19:35.130631+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/perspective.md"
+  },
+  {
+    "id": "mj_mj_camera_double_exposure",
+    "term": "Double Exposure",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "double"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128408+00:00",
+    "updated_at": "2026-09-27T18:19:35.128409+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_dramatic",
+    "term": "Dramatic",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "dramatic"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128414+00:00",
+    "updated_at": "2026-09-27T18:19:35.128414+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_drone_photography",
+    "term": "Drone Photography",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "drone_photography"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128420+00:00",
+    "updated_at": "2026-09-27T18:19:35.128421+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_editorial_photography",
+    "term": "Editorial Photography",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "editorial_photography"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128427+00:00",
+    "updated_at": "2026-09-27T18:19:35.128428+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_ektachrome",
+    "term": "Ektachrome",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "ektachrome"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128432+00:00",
+    "updated_at": "2026-09-27T18:19:35.128433+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_perspective_exploded_view",
+    "term": "Exploded View",
+    "category": "composition",
+    "subcategory": "mj_perspective",
+    "labels": [
+      "mj_perspective",
+      "exploded"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.130637+00:00",
+    "updated_at": "2026-09-27T18:19:35.130638+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/perspective.md"
+  },
+  {
+    "id": "mj_mj_camera_exposure",
+    "term": "Exposure",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "exposure"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128438+00:00",
+    "updated_at": "2026-09-27T18:19:35.128439+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_filmic",
+    "term": "Filmic",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "filmic"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128443+00:00",
+    "updated_at": "2026-09-27T18:19:35.128444+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_perspective_first_person",
+    "term": "First Person",
+    "category": "composition",
+    "subcategory": "mj_perspective",
+    "labels": [
+      "mj_perspective",
+      "first"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.130643+00:00",
+    "updated_at": "2026-09-27T18:19:35.130644+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/perspective.md"
+  },
+  {
+    "id": "mj_mj_camera_fisheye_lens",
+    "term": "Fisheye Lens",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "fisheye_lens"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128449+00:00",
+    "updated_at": "2026-09-27T18:19:35.128450+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_focal_point",
+    "term": "Focal Point",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "focal_point"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128455+00:00",
+    "updated_at": "2026-09-27T18:19:35.128456+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_perspective_forced_perspective",
+    "term": "Forced Perspective",
+    "category": "composition",
+    "subcategory": "mj_perspective",
+    "labels": [
+      "mj_perspective",
+      "forced_perspective"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.130649+00:00",
+    "updated_at": "2026-09-27T18:19:35.130650+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/perspective.md"
+  },
+  {
+    "id": "mj_mj_camera_full_frame",
+    "term": "Full Frame",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "full_frame"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128463+00:00",
+    "updated_at": "2026-09-27T18:19:35.128464+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_gamma",
+    "term": "Gamma",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "gamma"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128468+00:00",
+    "updated_at": "2026-09-27T18:19:35.128469+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_golden_hour",
+    "term": "Golden Hour",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "golden_hour"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128474+00:00",
+    "updated_at": "2026-09-27T18:19:35.128475+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_graduated_neutral_density_filter",
+    "term": "Graduated Neutral Density Filter",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "graduated"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128482+00:00",
+    "updated_at": "2026-09-27T18:19:35.128483+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_high_speed_photograph",
+    "term": "High Speed_Photograph",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "high"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128489+00:00",
+    "updated_at": "2026-09-27T18:19:35.128490+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_horizon_line",
+    "term": "Horizon Line",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "horizon_line"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128495+00:00",
+    "updated_at": "2026-09-27T18:19:35.128496+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_hyperspectral_imaging",
+    "term": "Hyperspectral Imaging",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "hyperspectral_imaging"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128501+00:00",
+    "updated_at": "2026-09-27T18:19:35.128502+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_infrared_filter",
+    "term": "Infrared Filter",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "infrared"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128508+00:00",
+    "updated_at": "2026-09-27T18:19:35.128509+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_perspective_isometric",
+    "term": "Isometric",
+    "category": "composition",
+    "subcategory": "mj_perspective",
+    "labels": [
+      "mj_perspective",
+      "isometric"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.130654+00:00",
+    "updated_at": "2026-09-27T18:19:35.130655+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/perspective.md"
+  },
+  {
+    "id": "mj_mj_camera_kodak_ektar",
+    "term": "Kodak Ektar",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "kodak_ektar"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128514+00:00",
+    "updated_at": "2026-09-27T18:19:35.128515+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_lens_flare",
+    "term": "Lens Flare",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "lens_flare"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128519+00:00",
+    "updated_at": "2026-09-27T18:19:35.128520+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_lomo",
+    "term": "Lomo",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "lomo"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128525+00:00",
+    "updated_at": "2026-09-27T18:19:35.128526+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_perspective_low_angle",
+    "term": "Low Angle",
+    "category": "composition",
+    "subcategory": "mj_perspective",
+    "labels": [
+      "mj_perspective",
+      "low_angle"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.130660+00:00",
+    "updated_at": "2026-09-27T18:19:35.130661+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/perspective.md"
+  },
+  {
+    "id": "mj_mj_camera_macro",
+    "term": "Macro",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "macro"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128530+00:00",
+    "updated_at": "2026-09-27T18:19:35.128531+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_megapixel",
+    "term": "Megapixel",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "megapixel"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128536+00:00",
+    "updated_at": "2026-09-27T18:19:35.128537+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_microscopic",
+    "term": "Microscopic",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "microscopic"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128542+00:00",
+    "updated_at": "2026-09-27T18:19:35.128542+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_perspective_miniature_faking",
+    "term": "Miniature Faking",
+    "category": "composition",
+    "subcategory": "mj_perspective",
+    "labels": [
+      "mj_perspective",
+      "miniature_faking"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.130666+00:00",
+    "updated_at": "2026-09-27T18:19:35.130667+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/perspective.md"
+  },
+  {
+    "id": "mj_mj_camera_neutral_density_filter",
+    "term": "Neutral Density Filter",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "neutral"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128548+00:00",
+    "updated_at": "2026-09-27T18:19:35.128549+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_nikon_d750",
+    "term": "Nikon D750",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "nikon_d750"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128556+00:00",
+    "updated_at": "2026-09-27T18:19:35.128557+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_perspective_one_point_perspective",
+    "term": "One Point_Perspective",
+    "category": "composition",
+    "subcategory": "mj_perspective",
+    "labels": [
+      "mj_perspective",
+      "one"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.130672+00:00",
+    "updated_at": "2026-09-27T18:19:35.130673+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/perspective.md"
+  },
+  {
+    "id": "mj_mj_perspective_orthographic",
+    "term": "Orthographic",
+    "category": "composition",
+    "subcategory": "mj_perspective",
+    "labels": [
+      "mj_perspective",
+      "orthographic"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.130678+00:00",
+    "updated_at": "2026-09-27T18:19:35.130679+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/perspective.md"
+  },
+  {
+    "id": "mj_mj_camera_pan",
+    "term": "Pan",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "pan"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128561+00:00",
+    "updated_at": "2026-09-27T18:19:35.128562+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_panavision",
+    "term": "Panavision",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "panavision"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128567+00:00",
+    "updated_at": "2026-09-27T18:19:35.128568+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_perspective_parallel_projection",
+    "term": "Parallel Projection",
+    "category": "composition",
+    "subcategory": "mj_perspective",
+    "labels": [
+      "mj_perspective",
+      "parallel_projection"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.130684+00:00",
+    "updated_at": "2026-09-27T18:19:35.130685+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/perspective.md"
+  },
+  {
+    "id": "mj_mj_perspective_perspective",
+    "term": "Perspective",
+    "category": "composition",
+    "subcategory": "mj_perspective",
+    "labels": [
+      "mj_perspective",
+      "perspective"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.130690+00:00",
+    "updated_at": "2026-09-27T18:19:35.130691+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/perspective.md"
+  },
+  {
+    "id": "mj_mj_camera_photographic_filter",
+    "term": "Photographic Filter",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "photographic"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128574+00:00",
+    "updated_at": "2026-09-27T18:19:35.128575+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_photography",
+    "term": "Photography",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "photography"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128580+00:00",
+    "updated_at": "2026-09-27T18:19:35.128580+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_photoshoot",
+    "term": "Photoshoot",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "photoshoot"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128585+00:00",
+    "updated_at": "2026-09-27T18:19:35.128586+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_polarization_filter",
+    "term": "Polarization Filter",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "polarization"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128593+00:00",
+    "updated_at": "2026-09-27T18:19:35.128594+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_polaroid",
+    "term": "Polaroid",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "polaroid"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128599+00:00",
+    "updated_at": "2026-09-27T18:19:35.128600+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_pose",
+    "term": "Pose",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "pose"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128610+00:00",
+    "updated_at": "2026-09-27T18:19:35.128611+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_rack_focus",
+    "term": "Rack Focus",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "rack_focus"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128616+00:00",
+    "updated_at": "2026-09-27T18:19:35.128617+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_rephotography",
+    "term": "Rephotography",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "rephotography"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128622+00:00",
+    "updated_at": "2026-09-27T18:19:35.128623+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_perspective_reverse_perspective",
+    "term": "Reverse Perspective",
+    "category": "composition",
+    "subcategory": "mj_perspective",
+    "labels": [
+      "mj_perspective",
+      "reverse_perspective"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.130696+00:00",
+    "updated_at": "2026-09-27T18:19:35.130697+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/perspective.md"
+  },
+  {
+    "id": "mj_mj_camera_rule_of_thirds",
+    "term": "Rule Of Thirds",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "rule_of_thirds"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128628+00:00",
+    "updated_at": "2026-09-27T18:19:35.128629+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_scene",
+    "term": "Scene",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "scene"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128634+00:00",
+    "updated_at": "2026-09-27T18:19:35.128635+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_security_footage",
+    "term": "Security Footage",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "security_footage"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128640+00:00",
+    "updated_at": "2026-09-27T18:19:35.128641+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_perspective_selfie",
+    "term": "Selfie",
+    "category": "composition",
+    "subcategory": "mj_perspective",
+    "labels": [
+      "mj_perspective",
+      "selfie"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.130703+00:00",
+    "updated_at": "2026-09-27T18:19:35.130704+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/perspective.md"
+  },
+  {
+    "id": "mj_mj_camera_shallow_focus",
+    "term": "Shallow Focus",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "shallow_focus"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128646+00:00",
+    "updated_at": "2026-09-27T18:19:35.128647+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_shot_on_16mm",
+    "term": "Shot On 16Mm",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "shot_on_16mm"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128652+00:00",
+    "updated_at": "2026-09-27T18:19:35.128653+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_shot_on_35mm",
+    "term": "Shot On 35Mm",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "shot_on_35mm"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128658+00:00",
+    "updated_at": "2026-09-27T18:19:35.128659+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_shot_on_65mm",
+    "term": "Shot On 65Mm",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "shot_on_65mm"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128665+00:00",
+    "updated_at": "2026-09-27T18:19:35.128666+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_shot_on_70mm",
+    "term": "Shot On 70Mm",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "shot_on_70mm"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128671+00:00",
+    "updated_at": "2026-09-27T18:19:35.128672+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_shot_on_8mm",
+    "term": "Shot On 8Mm",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "shot_on_8mm"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128676+00:00",
+    "updated_at": "2026-09-27T18:19:35.128677+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_stop_motion",
+    "term": "Stop Motion",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "stop_motion"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128682+00:00",
+    "updated_at": "2026-09-27T18:19:35.128683+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_subject",
+    "term": "Subject",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "subject"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128688+00:00",
+    "updated_at": "2026-09-27T18:19:35.128689+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_surveillance",
+    "term": "Surveillance",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "surveillance"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128694+00:00",
+    "updated_at": "2026-09-27T18:19:35.128695+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_techniscope",
+    "term": "Techniscope",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "techniscope"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128701+00:00",
+    "updated_at": "2026-09-27T18:19:35.128702+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_telephoto",
+    "term": "Telephoto",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "telephoto"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128707+00:00",
+    "updated_at": "2026-09-27T18:19:35.128708+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_telescope",
+    "term": "Telescope",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "telescope"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128712+00:00",
+    "updated_at": "2026-09-27T18:19:35.128713+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_perspective_third_person",
+    "term": "Third Person",
+    "category": "composition",
+    "subcategory": "mj_perspective",
+    "labels": [
+      "mj_perspective",
+      "third"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.130709+00:00",
+    "updated_at": "2026-09-27T18:19:35.130710+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/perspective.md"
+  },
+  {
+    "id": "mj_mj_camera_tiltshift",
+    "term": "Tiltshift",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "tiltshift"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128718+00:00",
+    "updated_at": "2026-09-27T18:19:35.128719+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_tintype",
+    "term": "Tintype",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "tintype"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128725+00:00",
+    "updated_at": "2026-09-27T18:19:35.128726+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_perspective_top_view",
+    "term": "Top View",
+    "category": "composition",
+    "subcategory": "mj_perspective",
+    "labels": [
+      "mj_perspective",
+      "top"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.130714+00:00",
+    "updated_at": "2026-09-27T18:19:35.130715+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/perspective.md"
+  },
+  {
+    "id": "mj_mj_camera_tri_x_400_tx",
+    "term": "Tri X_400_Tx",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "tri"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128732+00:00",
+    "updated_at": "2026-09-27T18:19:35.128733+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_underwater_photography",
+    "term": "Underwater Photography",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "underwater_photography"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128739+00:00",
+    "updated_at": "2026-09-27T18:19:35.128739+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_vistavision",
+    "term": "Vistavision",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "vistavision"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128744+00:00",
+    "updated_at": "2026-09-27T18:19:35.128745+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_camera_wide_angle",
+    "term": "Wide Angle",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "wide_angle"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128750+00:00",
+    "updated_at": "2026-09-27T18:19:35.128751+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "mj_mj_perspective_wide_shot",
+    "term": "Wide Shot",
+    "category": "composition",
+    "subcategory": "mj_perspective",
+    "labels": [
+      "mj_perspective",
+      "wide_shot"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.130720+00:00",
+    "updated_at": "2026-09-27T18:19:35.130721+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/perspective.md"
+  },
+  {
+    "id": "mj_mj_perspective_worms_eye_view",
+    "term": "Worms Eye_View",
+    "category": "composition",
+    "subcategory": "mj_perspective",
+    "labels": [
+      "mj_perspective",
+      "worms"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.130727+00:00",
+    "updated_at": "2026-09-27T18:19:35.130728+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/perspective.md"
+  },
+  {
+    "id": "mj_mj_camera_zoom",
+    "term": "Zoom",
+    "category": "composition",
+    "subcategory": "mj_camera",
+    "labels": [
+      "mj_camera",
+      "zoom"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "composition"
+    ],
+    "created_at": "2026-09-27T18:19:35.128755+00:00",
+    "updated_at": "2026-09-27T18:19:35.128756+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source file: Pages/MJ_V5/Style_Pages/Just_The_Style/camera_lens.md"
+  },
+  {
+    "id": "composition_lens_anamorphic_lens",
+    "term": "anamorphic lens",
+    "category": "composition",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "anamorphic"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -23,243 +2673,13 @@
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
   },
   {
-    "id": "composition_framing_close_up_portrait",
-    "term": "close-up portrait",
+    "id": "composition_rules_asymmetrical_balance",
+    "term": "asymmetrical balance",
     "category": "composition",
-    "subcategory": "framing",
+    "subcategory": "rules",
     "labels": [
-      "framing",
-      "close-up"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_framing_head_and_shoulders",
-    "term": "head and shoulders",
-    "category": "composition",
-    "subcategory": "framing",
-    "labels": [
-      "framing",
-      "head"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_framing_cowboy_shot",
-    "term": "cowboy shot",
-    "category": "composition",
-    "subcategory": "framing",
-    "labels": [
-      "framing",
-      "cowboy"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_framing_from_thighs_up",
-    "term": "from thighs up",
-    "category": "composition",
-    "subcategory": "framing",
-    "labels": [
-      "framing",
-      "from"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_framing_medium_shot",
-    "term": "medium shot",
-    "category": "composition",
-    "subcategory": "framing",
-    "labels": [
-      "framing",
-      "medium"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_framing_full_body_shot",
-    "term": "full body shot",
-    "category": "composition",
-    "subcategory": "framing",
-    "labels": [
-      "framing",
-      "full"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_framing_wide_shot",
-    "term": "wide shot",
-    "category": "composition",
-    "subcategory": "framing",
-    "labels": [
-      "framing",
-      "wide"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_framing_establishing_shot",
-    "term": "establishing shot",
-    "category": "composition",
-    "subcategory": "framing",
-    "labels": [
-      "framing",
-      "establishing"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_framing_extreme_wide_shot",
-    "term": "extreme wide shot",
-    "category": "composition",
-    "subcategory": "framing",
-    "labels": [
-      "framing",
-      "extreme"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_angles_front_view",
-    "term": "front view",
-    "category": "composition",
-    "subcategory": "angles",
-    "labels": [
-      "angles",
-      "front"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_angles_side_profile",
-    "term": "side profile",
-    "category": "composition",
-    "subcategory": "angles",
-    "labels": [
-      "angles",
-      "side"
+      "rules",
+      "asymmetrical"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -299,197 +2719,13 @@
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
   },
   {
-    "id": "composition_angles_three_quarter_view",
-    "term": "three-quarter view",
+    "id": "composition_lens_background_blur",
+    "term": "background blur",
     "category": "composition",
-    "subcategory": "angles",
+    "subcategory": "lens",
     "labels": [
-      "angles",
-      "three-quarter"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_angles_fourth_view",
-    "term": "fourth view",
-    "category": "composition",
-    "subcategory": "angles",
-    "labels": [
-      "angles",
-      "fourth"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_angles_viewed_from_above",
-    "term": "viewed from above",
-    "category": "composition",
-    "subcategory": "angles",
-    "labels": [
-      "angles",
-      "viewed"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_angles_looking_down",
-    "term": "looking down",
-    "category": "composition",
-    "subcategory": "angles",
-    "labels": [
-      "angles",
-      "looking"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_angles_top_down_angle",
-    "term": "top-down angle",
-    "category": "composition",
-    "subcategory": "angles",
-    "labels": [
-      "angles",
-      "top-down"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_angles_low_angle_view",
-    "term": "low angle view",
-    "category": "composition",
-    "subcategory": "angles",
-    "labels": [
-      "angles",
-      "low"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_angles_looking_up",
-    "term": "looking up",
-    "category": "composition",
-    "subcategory": "angles",
-    "labels": [
-      "angles",
-      "looking"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_angles_hero_shot",
-    "term": "hero shot",
-    "category": "composition",
-    "subcategory": "angles",
-    "labels": [
-      "angles",
-      "hero"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_angles_dutch_angle",
-    "term": "dutch angle",
-    "category": "composition",
-    "subcategory": "angles",
-    "labels": [
-      "angles",
-      "dutch"
+      "lens",
+      "background"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -529,13 +2765,703 @@
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
   },
   {
-    "id": "composition_angles_worm_s_eye_view",
-    "term": "worm's-eye view",
+    "id": "composition_lens_blurred_background",
+    "term": "blurred background",
+    "category": "composition",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "blurred"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_lens_bokeh",
+    "term": "bokeh",
+    "category": "composition",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "bokeh"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_rules_centered_composition",
+    "term": "centered composition",
+    "category": "composition",
+    "subcategory": "rules",
+    "labels": [
+      "rules",
+      "centered"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_framing_close_up_portrait",
+    "term": "close-up portrait",
+    "category": "composition",
+    "subcategory": "framing",
+    "labels": [
+      "framing",
+      "close-up"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_framing_cowboy_shot",
+    "term": "cowboy shot",
+    "category": "composition",
+    "subcategory": "framing",
+    "labels": [
+      "framing",
+      "cowboy"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_lens_creamy_bokeh",
+    "term": "creamy bokeh",
+    "category": "composition",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "creamy"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_lens_depth_of_field",
+    "term": "depth of field",
+    "category": "composition",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "depth"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_angles_dutch_angle",
+    "term": "dutch angle",
     "category": "composition",
     "subcategory": "angles",
     "labels": [
       "angles",
-      "worm's-eye"
+      "dutch"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_rules_dynamic_composition",
+    "term": "dynamic composition",
+    "category": "composition",
+    "subcategory": "rules",
+    "labels": [
+      "rules",
+      "dynamic"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_framing_establishing_shot",
+    "term": "establishing shot",
+    "category": "composition",
+    "subcategory": "framing",
+    "labels": [
+      "framing",
+      "establishing"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_framing_extreme_close_up",
+    "term": "extreme close-up",
+    "category": "composition",
+    "subcategory": "framing",
+    "labels": [
+      "framing",
+      "extreme"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_framing_extreme_wide_shot",
+    "term": "extreme wide shot",
+    "category": "composition",
+    "subcategory": "framing",
+    "labels": [
+      "framing",
+      "extreme"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_rules_filling_the_frame",
+    "term": "filling the frame",
+    "category": "composition",
+    "subcategory": "rules",
+    "labels": [
+      "rules",
+      "filling"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_lens_fisheye_lens",
+    "term": "fisheye lens",
+    "category": "composition",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "fisheye"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_angles_fourth_view",
+    "term": "fourth view",
+    "category": "composition",
+    "subcategory": "angles",
+    "labels": [
+      "angles",
+      "fourth"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_framing_from_thighs_up",
+    "term": "from thighs up",
+    "category": "composition",
+    "subcategory": "framing",
+    "labels": [
+      "framing",
+      "from"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_angles_front_view",
+    "term": "front view",
+    "category": "composition",
+    "subcategory": "angles",
+    "labels": [
+      "angles",
+      "front"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_framing_full_body_shot",
+    "term": "full body shot",
+    "category": "composition",
+    "subcategory": "framing",
+    "labels": [
+      "framing",
+      "full"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_rules_golden_ratio",
+    "term": "golden ratio",
+    "category": "composition",
+    "subcategory": "rules",
+    "labels": [
+      "rules",
+      "golden"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_framing_head_and_shoulders",
+    "term": "head and shoulders",
+    "category": "composition",
+    "subcategory": "framing",
+    "labels": [
+      "framing",
+      "head"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_angles_hero_shot",
+    "term": "hero shot",
+    "category": "composition",
+    "subcategory": "angles",
+    "labels": [
+      "angles",
+      "hero"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_rules_leading_lines",
+    "term": "leading lines",
+    "category": "composition",
+    "subcategory": "rules",
+    "labels": [
+      "rules",
+      "leading"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_angles_looking_down",
+    "term": "looking down",
+    "category": "composition",
+    "subcategory": "angles",
+    "labels": [
+      "angles",
+      "looking"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_angles_looking_up",
+    "term": "looking up",
+    "category": "composition",
+    "subcategory": "angles",
+    "labels": [
+      "angles",
+      "looking"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_angles_low_angle_view",
+    "term": "low angle view",
+    "category": "composition",
+    "subcategory": "angles",
+    "labels": [
+      "angles",
+      "low"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_lens_macro_shot",
+    "term": "macro shot",
+    "category": "composition",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "macro"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_framing_medium_shot",
+    "term": "medium shot",
+    "category": "composition",
+    "subcategory": "framing",
+    "labels": [
+      "framing",
+      "medium"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_rules_negative_space",
+    "term": "negative space",
+    "category": "composition",
+    "subcategory": "rules",
+    "labels": [
+      "rules",
+      "negative"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_rules_rule_of_thirds",
+    "term": "rule of thirds",
+    "category": "composition",
+    "subcategory": "rules",
+    "labels": [
+      "rules",
+      "rule"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_lens_shallow_depth_of_field",
+    "term": "shallow depth of field",
+    "category": "composition",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "shallow"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_lens_shot_on_135mm_lens",
+    "term": "shot on 135mm lens",
+    "category": "composition",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "shot"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -621,335 +3547,13 @@
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
   },
   {
-    "id": "composition_lens_shot_on_135mm_lens",
-    "term": "shot on 135mm lens",
+    "id": "composition_angles_side_profile",
+    "term": "side profile",
     "category": "composition",
-    "subcategory": "lens",
+    "subcategory": "angles",
     "labels": [
-      "lens",
-      "shot"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_lens_macro_shot",
-    "term": "macro shot",
-    "category": "composition",
-    "subcategory": "lens",
-    "labels": [
-      "lens",
-      "macro"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_lens_tilt_shift",
-    "term": "tilt-shift",
-    "category": "composition",
-    "subcategory": "lens",
-    "labels": [
-      "lens",
-      "tilt-shift"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_lens_fisheye_lens",
-    "term": "fisheye lens",
-    "category": "composition",
-    "subcategory": "lens",
-    "labels": [
-      "lens",
-      "fisheye"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_lens_anamorphic_lens",
-    "term": "anamorphic lens",
-    "category": "composition",
-    "subcategory": "lens",
-    "labels": [
-      "lens",
-      "anamorphic"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_lens_shallow_depth_of_field",
-    "term": "shallow depth of field",
-    "category": "composition",
-    "subcategory": "lens",
-    "labels": [
-      "lens",
-      "shallow"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_lens_creamy_bokeh",
-    "term": "creamy bokeh",
-    "category": "composition",
-    "subcategory": "lens",
-    "labels": [
-      "lens",
-      "creamy"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_lens_blurred_background",
-    "term": "blurred background",
-    "category": "composition",
-    "subcategory": "lens",
-    "labels": [
-      "lens",
-      "blurred"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_lens_background_blur",
-    "term": "background blur",
-    "category": "composition",
-    "subcategory": "lens",
-    "labels": [
-      "lens",
-      "background"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_lens_bokeh",
-    "term": "bokeh",
-    "category": "composition",
-    "subcategory": "lens",
-    "labels": [
-      "lens",
-      "bokeh"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_lens_depth_of_field",
-    "term": "depth of field",
-    "category": "composition",
-    "subcategory": "lens",
-    "labels": [
-      "lens",
-      "depth"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_rules_rule_of_thirds",
-    "term": "rule of thirds",
-    "category": "composition",
-    "subcategory": "rules",
-    "labels": [
-      "rules",
-      "rule"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_rules_centered_composition",
-    "term": "centered composition",
-    "category": "composition",
-    "subcategory": "rules",
-    "labels": [
-      "rules",
-      "centered"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_rules_leading_lines",
-    "term": "leading lines",
-    "category": "composition",
-    "subcategory": "rules",
-    "labels": [
-      "rules",
-      "leading"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "composition"
-    ],
-    "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
-    "source": "h3-comic-builder-migration",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "composition_rules_golden_ratio",
-    "term": "golden ratio",
-    "category": "composition",
-    "subcategory": "rules",
-    "labels": [
-      "rules",
-      "golden"
+      "angles",
+      "side"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -989,13 +3593,13 @@
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
   },
   {
-    "id": "composition_rules_dynamic_composition",
-    "term": "dynamic composition",
+    "id": "composition_angles_three_quarter_view",
+    "term": "three-quarter view",
     "category": "composition",
-    "subcategory": "rules",
+    "subcategory": "angles",
     "labels": [
-      "rules",
-      "dynamic"
+      "angles",
+      "three-quarter"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1012,13 +3616,13 @@
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
   },
   {
-    "id": "composition_rules_asymmetrical_balance",
-    "term": "asymmetrical balance",
+    "id": "composition_lens_tilt_shift",
+    "term": "tilt-shift",
     "category": "composition",
-    "subcategory": "rules",
+    "subcategory": "lens",
     "labels": [
-      "rules",
-      "asymmetrical"
+      "lens",
+      "tilt-shift"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1035,13 +3639,13 @@
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
   },
   {
-    "id": "composition_rules_filling_the_frame",
-    "term": "filling the frame",
+    "id": "composition_angles_top_down_angle",
+    "term": "top-down angle",
     "category": "composition",
-    "subcategory": "rules",
+    "subcategory": "angles",
     "labels": [
-      "rules",
-      "filling"
+      "angles",
+      "top-down"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1058,13 +3662,59 @@
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
   },
   {
-    "id": "composition_rules_negative_space",
-    "term": "negative space",
+    "id": "composition_angles_viewed_from_above",
+    "term": "viewed from above",
     "category": "composition",
-    "subcategory": "rules",
+    "subcategory": "angles",
     "labels": [
-      "rules",
-      "negative"
+      "angles",
+      "viewed"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_framing_wide_shot",
+    "term": "wide shot",
+    "category": "composition",
+    "subcategory": "framing",
+    "labels": [
+      "framing",
+      "wide"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "migrated",
+      "composition"
+    ],
+    "created_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-27T17:25:55.752Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "composition_angles_worm_s_eye_view",
+    "term": "worm's-eye view",
+    "category": "composition",
+    "subcategory": "angles",
+    "labels": [
+      "angles",
+      "worm's-eye"
     ],
     "score": 0.7,
     "priority": "medium",
