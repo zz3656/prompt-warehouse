@@ -1,7 +1,6 @@
 # 提示词仓库标准规范
 
 > **pws v1.0** — 提示词仓库标准
-> **简体中文** | [English](STANDARD_en.md)
 >
 > 一个统一的、与语言无关的标准，用于跨项目组织、版本控制和共享 AI 生成提示词。为漫画/手绘提示词生成而设计，适用于任何 AI 创意工具（图像、视频、文本、音乐）。
 >
@@ -71,7 +70,7 @@ prompt-warehouse/
 │   └── h3-comic-builder.json
 ├── snapshots/                  # 导出快照
 │   └── YYYY/MM/
-└── README.md                   # 本文件
+└── README_zh.md                # 本文件
 ```
 
 ---
@@ -640,6 +639,4 @@ var QUALITY = {
 
 ---
 
-> 💡 点击上面的链接查看详细文档。中文默认展示，也可切换到英文版本。
-
-*← [English](STANDARD_en.md)*
+*← [English version](STANDARD_en.md)*
