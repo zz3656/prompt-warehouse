@@ -163,7 +163,7 @@ Every keyword is a structured JSON object with rich metadata:
 | `subcategory` | string | ✅ | Sub-category |
 | `score` | number | | Quality score 0–1 (default: 0.5) |
 | `priority` | enum | | `high` / `medium` / `low` / `experimental` |
-| `lifecycle` | enum | | `draft` → `review` → `approved` → `archived` |
+| `lifecycle` | enum | | `draft` → `review` → `approved` → `deprecated` → `archived` |
 
 ### Category Taxonomy
 
@@ -182,33 +182,45 @@ Every keyword is a structured JSON object with rich metadata:
 ### Subcategory Highlights
 
 **Quality** — `basic` · `advanced` · `anime`
-> masterpiece, best quality, ultra-detailed, 8k resolution, ...
+> masterpiece, best quality, ultra-detailed, 8k resolution
 
-**Character** — `hair` · `hairColors` · `eyes` · `eyeColors` · `expression` · `pose` · `anatomy` · `bodyType` · `skin`
-> white long hair, blue eyes, fair skin, determined expression, ...
+**Character** — `hair` · `hairColors` · `eyes` · `eyeColors` · `expression` · `pose` · `anatomy` · `bodyType` · `skin` · `age`
+> white long hair, blue eyes, fair skin, determined expression
 
-**Clothing** — `tops` · `bottoms` · `outfits` · `accessories`
-> school uniform, white blouse, pleated skirt, red ribbon, ...
+**Clothing** — `tops` · `bottoms` · `outfits` · `accessories` · `mj_v5_materials` · `mj_v5_matprops`
+> school uniform, white blouse, pleated skirt, red ribbon
 
-**Styles** — `anime` · `art` · `realism` · `specialty` · `artist`
-> anime style, cel shading, manga comic style, ...
+**Styles** — `anime` · `art` · `realism` · `specialty` · `artist` · `mj_v5_colors` · `mj_v5_colors2` · `mj_v5_design` · `mj_v5_digital` · `mj_v5_dimension` · `mj_v5_intangibles` · `mj_v5_mediums` · `mj_v5_themes` · `mj_v5_artists`
+> anime style, cel shading, manga comic style
 
-**Negative** — `quality` · `anatomy` · `face` · `composition` · `style` · `text` · `defects`
-> low quality, worst quality, bad anatomy, extra limbs, ...
+**Negative** — `quality` · `anatomy` · `face` · `composition` · `style` · `text` · `commonDefects`
+> low quality, worst quality, bad anatomy, extra limbs
 
-**Lighting** — `natural` · `dramatic` · `mood` · `dynamic` · `special`
-> golden hour, cinematic lighting, volumetric rays, ...
+**Lighting** — `natural` · `dramatic` · `mood` · `dynamic` · `special` · `mj_v5_lighting` · `mj_v5_sfx`
+> golden hour, cinematic lighting, volumetric rays
+
+**Composition** — `framing` · `angles` · `lens` · `rules` · `mj_v5_camera` · `mj_v5_geometry` · `mj_v5_perspective` · `mj_v5_structure`
+> close-up, wide shot, eye level, Dutch angle
+
+**Scene** — `relationship` · `interaction` · `weather` · `time` · `mj_v5_geo` · `mj_v5_nature` · `mj_v5_objects` · `mj_v5_space`
+> school rooftop, cozy bedroom, battlefield, urban street
+
+**Panel** — `panelLayout` · `comicEffects` · `animation` · `panelMood`
+> speed lines, motion blur, impact frames, screen tone
 
 ### Lifecycle States
 
 ```
 draft → review → approved → archived
+              ↕           ↕
+          (rejected)  (deprecated) ↗
 ```
 
 - **draft**: Newly added, not yet validated
 - **review**: Submitted for review, awaiting approval
 - **approved**: Verified, ready for production use
 - **archived**: No longer used, kept for reference
+- **deprecated**: Being phased out, replaced by newer alternatives
 
 ---
 
@@ -315,7 +327,7 @@ The warehouse follows semantic versioning:
 
 Each `_meta.json` tracks version, schema version, and changelog entries.
 
-Current version: **v1.0.2** — 4,429 keywords across 9 categories.
+Current version: **v1.0.3** — 5,545 keywords across 9 categories.
 
 ---
 
@@ -392,7 +404,7 @@ MIT License — see [STANDARD_en.md](STANDARD_en.md) for full details.
 - **Template Schema**: [schema/template.schema.json](schema/template.schema.json)
 - **Project Schema**: [schema/project.schema.json](schema/project.schema.json)
 - **Metadata**: [keywords/_meta.json](keywords/_meta.json)
-- **Current Stats**: 4,429 keywords · 9 categories · 24 templates
+- **Current Stats**: 5,545 keywords · 9 categories · 24 templates
 
 ---
 

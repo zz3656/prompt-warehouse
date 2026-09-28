@@ -27,7 +27,7 @@ This standard solves these problems by providing:
 2. A **file format** (JSON) that's human-readable and machine-parseable
 3. A **versioning system** for tracking changes
 4. A **tagging taxonomy** for cross-project discovery
-5. A **lifecycle management** system (draft → review → approved → archived)
+5. A **lifecycle management** system (draft → review → approved → archived, including deprecated)
 
 ### 1.2 Scope
 
@@ -135,13 +135,15 @@ Every keyword (tag) is a structured object:
 ```
 draft → review → approved → archived
               ↕           ↕
-          (rejected)  (re-review)
+          (rejected)  (deprecated) ↗
+          deprecated ↗
 ```
 
 - **draft**: Newly added, not yet validated
 - **review**: Submitted for review, awaiting approval
 - **approved**: Verified, ready for production use
 - **archived**: No longer relevant, kept for historical reference
+- **deprecated**: Being phased out, replaced by newer alternatives
 
 ---
 

@@ -155,7 +155,7 @@ cat projects/h3-comic-builder.json
 | `subcategory` | string | ✅ | 子分类 |
 | `score` | number | | 质量评分 0–1（默认：0.5） |
 | `priority` | enum | | `high` / `medium` / `low` / `experimental` |
-| `lifecycle` | enum | | `draft` → `review` → `approved` → `archived` |
+| `lifecycle` | enum | | `draft` → `review` → `approved` → `deprecated` → `archived` |
 
 ### 分类体系
 
@@ -174,28 +174,40 @@ cat projects/h3-comic-builder.json
 ### 子分类亮点
 
 **质量** — `basic` · `advanced` · `anime`
-> 杰作 · 最高质量 · 超细节
+> masterpiece, best quality, ultra-detailed, 8k resolution · 杰作 · 最高质量 · 超细节
 
-**角色** — `hair` · `hairColors` · `eyes` · `eyeColors` · `expression` · `pose` · `anatomy` · `bodyType` · `skin`
-> 白色长发 · 蓝眼睛 · 白皙皮肤 · 坚定的表情
+**角色** — `hair` · `hairColors` · `eyes` · `eyeColors` · `expression` · `pose` · `anatomy` · `bodyType` · `skin` · `age`
+> white long hair, blue eyes, fair skin, determined expression · 白色长发 · 蓝眼睛 · 白皙皮肤 · 坚定的表情
 
-**服装** — `tops` · `bottoms` · `outfits` · `accessories`
-> 校服 · 白衬衫 · 百褶裙 · 红丝带
+**服装** — `tops` · `bottoms` · `outfits` · `accessories` · `mj_v5_materials` · `mj_v5_matprops`
+> school uniform, white blouse, pleated skirt, red ribbon · 校服 · 白衬衫 · 百褶裙 · 红丝带
 
-**风格** — `anime` · `art` · `realism` · `specialty` · `artist`
-> 动漫风格 · 赛璐珞上色 · 漫画风格
+**风格** — `anime` · `art` · `realism` · `specialty` · `artist` · `mj_v5_colors` · `mj_v5_colors2` · `mj_v5_design` · `mj_v5_digital` · `mj_v5_dimension` · `mj_v5_intangibles` · `mj_v5_mediums` · `mj_v5_themes` · `mj_v5_artists`
+> anime style, cel shading, manga comic style · 动漫风格 · 赛璐珞上色 · 漫画风格
 
-**负面** — `quality` · `anatomy` · `face` · `composition` · `style` · `text` · `defects`
-> 低质量 · 最差质量 · 畸形解剖 · 多余肢体
+**负面** — `quality` · `anatomy` · `face` · `composition` · `style` · `text` · `commonDefects`
+> low quality, worst quality, bad anatomy, extra limbs · 低质量 · 最差质量 · 畸形解剖 · 多余肢体
 
-**灯光** — `natural` · `dramatic` · `mood` · `dynamic` · `special`
-> 黄金时段 · 电影灯光 · 体积光
+**灯光** — `natural` · `dramatic` · `mood` · `dynamic` · `special` · `mj_v5_lighting` · `mj_v5_sfx`
+> golden hour, cinematic lighting, volumetric rays · 黄金时段 · 电影灯光 · 体积光
+
+**构图** — `framing` · `angles` · `lens` · `rules` · `mj_v5_camera` · `mj_v5_geometry` · `mj_v5_perspective` · `mj_v5_structure`
+> close-up, wide shot, eye level, Dutch angle · 特写 · 广角 · 平视 · 荷兰角
+
+**场景** — `relationship` · `interaction` · `weather` · `time` · `mj_v5_geo` · `mj_v5_nature` · `mj_v5_objects` · `mj_v5_space`
+> school rooftop, cozy bedroom, battlefield, urban street · 学校屋顶 · 温馨卧室 · 战场 · 城市街道
+
+**分镜** — `panelLayout` · `comicEffects` · `animation` · `panelMood`
+> speed lines, motion blur, impact frames, screen tone · 速度线 · 动态模糊 · 冲击帧 · 网点纸
 
 ### 生命周期状态
 
 ```
 草稿 → 审核 → 批准 → 归档
 draft → review → approved → archived
+              ↕           ↕
+          (被拒绝)   (被弃用)
+deprecated ↗
 ```
 
 - **草稿 (draft)**：新添加，尚未验证
@@ -296,7 +308,7 @@ girl 16 years old white long twin tails hair blue almond eyes fair skin, red rib
 
 每个 `_meta.json` 都跟踪版本、结构版本和变更日志。
 
-当前版本：**v1.0.2** — 9 个分类共 4,429 个关键词。
+当前版本：**v1.0.3** — 9 个分类共 5,545 个关键词。
 
 ---
 
@@ -371,10 +383,10 @@ MIT 许可证 — 详见 [STANDARD_zh.md](STANDARD_zh.md)。
 - **模板结构**: [schema/template.schema.json](schema/template.schema.json)
 - **项目结构**: [schema/project.schema.json](schema/project.schema.json)
 - **元数据**: [keywords/_meta.json](keywords/_meta.json)
-- **当前统计**: 4,429 个关键词 · 9 个分类 · 24 个模板
+- **当前统计**: 5,545 个关键词 · 9 个分类 · 24 个模板
 
 ---
 
 *提示词仓库标准 v1.0 · 为漫画/手绘提示词生成而设计，适用于任何 AI 创意工具。*
 
-*← [Back to English README](README_en.md)*
+*← [English](README_en.md)*
