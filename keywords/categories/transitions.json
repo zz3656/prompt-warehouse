@@ -1,0 +1,1703 @@
+[
+  {
+    "id": "transitions_standard_none",
+    "term": "hard cut",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "standard",
+    "labels": [
+      "none"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Instantaneous switch, no transition. Prompt hint: no transition, hard cut, instantaneous switch from first shot to second shot"
+  },
+  {
+    "id": "transitions_standard_cross_dissolve",
+    "term": "smooth cross-dissolve transition where the first shot gradua",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "standard",
+    "labels": [
+      "cross-dissolve"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Gradual blend between shots. Prompt hint: smooth cross-dissolve transition where the first shot gradually fades out as the second shot fades in"
+  },
+  {
+    "id": "transitions_standard_fade_to_black",
+    "term": "fade to black: the first shot gradually darkens to full blac",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "standard",
+    "labels": [
+      "fade-to-black"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Darkens to black, second emerges. Prompt hint: fade to black: the first shot gradually darkens to full black, holds briefly, then the second shot fades up from black"
+  },
+  {
+    "id": "transitions_standard_fade_to_white",
+    "term": "fade to white: the first shot brightens until the frame is p",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "standard",
+    "labels": [
+      "fade-to-white"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Blooms to white, second emerges. Prompt hint: fade to white: the first shot brightens until the frame is pure white, then the second shot resolves out of the white"
+  },
+  {
+    "id": "transitions_standard_snap_to_black",
+    "term": "snap to black",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "standard",
+    "labels": [
+      "snap-to-black"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Instant cut to full black for a beat, then the next shot. Prompt hint: snap to black: the first shot cuts instantly to full black with no fade, the frame holds pure black for a single beat, then the second shot cuts in at full brightness"
+  },
+  {
+    "id": "transitions_standard_match_cut",
+    "term": "match cut: the final composition of the first shot matches t",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "standard",
+    "labels": [
+      "match-cut"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Shape or motion match across shots. Prompt hint: match cut: the final composition of the first shot matches the opening composition of the second shot in shape, color, and motion, so the cut feels like a visual rhyme"
+  },
+  {
+    "id": "transitions_standard_smash_cut",
+    "term": "smash cut: an abrupt jarring transition between two visually",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "standard",
+    "labels": [
+      "smash-cut"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Jarring abrupt cut between contrasting shots. Prompt hint: smash cut: an abrupt jarring transition between two visually or tonally contrasting shots with no fade, on a beat"
+  },
+  {
+    "id": "transitions_standard_iris",
+    "term": "iris wipe",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "standard",
+    "labels": [
+      "iris"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Circular iris closes, then opens on second. Prompt hint: iris transition: a circular vignette closes inward over the first shot until the frame is black, then opens outward to reveal the second shot"
+  },
+  {
+    "id": "transitions_standard_wipe",
+    "term": "linear wipe",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "standard",
+    "labels": [
+      "wipe"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Linear wipe replaces first shot. Prompt hint: linear wipe transition: a clean diagonal line sweeps across the frame, revealing the second shot behind it"
+  },
+  {
+    "id": "transitions_standard_roll_transition",
+    "term": "camera roll transition",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "standard",
+    "labels": [
+      "roll-transition"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Frame rolls 90-180°, second shot upright on landing. Prompt hint: the frame rolls along the camera axis with a smooth 90 to 180 degree rotation, motion-blurred during the roll, and as the rotation completes the new shot is upright and stable in frame"
+  },
+  {
+    "id": "transitions_standard_seamless_match",
+    "term": "invisible cut",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "standard",
+    "labels": [
+      "seamless-match"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hidden cut disguised by matched motion and color. Prompt hint: hidden seamless transition: the camera motion, color palette, and on-screen motion at the end of the first shot continue exactly across the cut into the second shot, so the boundary is invisible and the two shots feel like one unbroken take"
+  },
+  {
+    "id": "transitions_standard_whip_pan",
+    "term": "whip pan",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "standard",
+    "labels": [
+      "whip-pan"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Camera whips sideways into blur, next shot rides the same direction. Prompt hint: whip pan transition: the camera whips sideways at high speed, smearing the frame into heavy horizontal motion blur, and the second shot enters already travelling in the same direction before it settles into its framing"
+  },
+  {
+    "id": "transitions_standard_jump_cut",
+    "term": "jump cut",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "standard",
+    "labels": [
+      "jump-cut"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Same framing, time skips forward. Prompt hint: jump cut: the framing, lens, and camera position stay identical across the cut while time skips abruptly forward, so the subject snaps to a new position inside what still reads as one continuous shot"
+  },
+  {
+    "id": "transitions_time_fast_forward_day_night",
+    "term": "day-to-night time-lapse",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "time",
+    "labels": [
+      "fast-forward-day-night"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Time-lapse day to night same scene. Prompt hint: fast-forward time-lapse transition: the sun visibly arcs across the sky, shadows sweep, clouds streak, sky shifts from daylight blue through golden hour to deep night, stars emerge, all while framing and camera position remain locked on the same scene"
+  },
+  {
+    "id": "transitions_time_fast_forward_night_day",
+    "term": "night-to-day time-lapse",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "time",
+    "labels": [
+      "fast-forward-night-day"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Time-lapse night to dawn same scene. Prompt hint: fast-forward time-lapse transition: stars fade, the sky shifts from deep night through pre-dawn blue to golden sunrise, shadows sweep in reverse, all while framing and camera position remain locked on the same scene"
+  },
+  {
+    "id": "transitions_time_seasonal_shift",
+    "term": "seasonal time-lapse",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "time",
+    "labels": [
+      "seasonal-shift"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Same scene through changing seasons. Prompt hint: accelerated seasonal time-lapse: foliage transitions from spring green to summer lushness to autumn red-gold to winter bare, leaves fall and regrow, snow accumulates and melts, all within the same locked framing"
+  },
+  {
+    "id": "transitions_time_aging",
+    "term": "accelerated aging",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "time",
+    "labels": [
+      "aging"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject visibly ages forward in time. Prompt hint: accelerated aging transition: the subject visibly ages forward - fine lines deepen into wrinkles, hair greys to silver, posture settles - while the framing stays unchanged"
+  },
+  {
+    "id": "transitions_time_rewind",
+    "term": "reverse-motion rewind",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "time",
+    "labels": [
+      "rewind"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Time reverses, motion plays backward. Prompt hint: rewind transition: reverse motion: the actions just seen are undone exactly as they happened, in reverse order and at the same pace, the subject retracing each step to where it began, ending on the end frame"
+  },
+  {
+    "id": "transitions_time_freeze_frame_jump",
+    "term": "freeze-frame time jump",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "time",
+    "labels": [
+      "freeze-frame-jump"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Action freezes, jumps forward in time. Prompt hint: freeze-frame transition: all motion stops mid-action and the picture holds still for a beat; only then does it jump to the same view hours or days later, everything in new positions, and motion resumes"
+  },
+  {
+    "id": "transitions_time_weather_shift",
+    "term": "weather time-lapse",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "time",
+    "labels": [
+      "weather-shift"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Same scene through changing weather. Prompt hint: accelerated weather transition: same scene, framing locked — clear sky darkens to storm clouds, rain begins and intensifies then clears, sun returns through breaking clouds"
+  },
+  {
+    "id": "transitions_time_flashback",
+    "term": "brief flashback transition: the frame washes with a soft war",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "time",
+    "labels": [
+      "flashback"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Memory-flashback into a past moment of the subject. Prompt hint: brief flashback transition: the frame washes with a soft warm or desaturated tint, faint ripple distortion crosses the image as the present scene fades, and a remembered earlier moment resolves into focus on the same subject"
+  },
+  {
+    "id": "transitions_element_dissolve_to_mist",
+    "term": "the first subject loses its solid form and turns into a soft",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "element",
+    "labels": [
+      "dissolve-to-mist"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject turns to mist, drifts, reforms. Prompt hint: the first subject loses its solid form and turns into a soft cloud of fine mist, starting at its edges and working inward. The camera stays where it is and the framing does not change. The mist drifts through the frame and thins until the first shot is gone, then gathers again at the same place in the frame and condenses into the second subject as the second shot appears behind it. The shot ends on the second subject, solid and fully resolved, with no mist left. The second subject forms only out of the gathered mist"
+  },
+  {
+    "id": "transitions_element_water_splash",
+    "term": "the first subject turns to water and collapses into a splash",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "element",
+    "labels": [
+      "water-splash"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject becomes water, splashes, reforms. Prompt hint: the first subject turns to water and collapses into a splashing cascade that spreads across the lower part of the frame. The camera stays where it is and the framing does not change. The water surges upward at the same place in the frame and takes the shape of the second subject, while the second shot appears behind it as the spray falls away. The shot ends on the second subject, solid and fully resolved, with no water left on it. The second subject forms only out of the rising water"
+  },
+  {
+    "id": "transitions_element_sand_scatter",
+    "term": "the subject crumbles into fine sand that is swept away by a ",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "element",
+    "labels": [
+      "sand-scatter"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject becomes sand, blown away, reforms. Prompt hint: the subject crumbles into fine sand that is swept away by a gust of wind in a swirling vortex, then the sand particles converge and re-form into the new subject"
+  },
+  {
+    "id": "transitions_element_fire_burnup",
+    "term": "burn to embers and reform",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "element",
+    "labels": [
+      "fire-burnup"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject burns to embers, embers reform. Prompt hint: the subject ignites and burns from edges inward into glowing embers and ash, the embers swirl through the frame and re-ignite into the new subject"
+  },
+  {
+    "id": "transitions_element_smoke_puff",
+    "term": "the subject vanishes in a soft puff of smoke that billows ou",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "element",
+    "labels": [
+      "smoke-puff"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject vanishes in smoke, reappears. Prompt hint: the subject vanishes in a soft puff of smoke that billows outward and fills the frame, the smoke then clears to reveal the new subject in the new scene"
+  },
+  {
+    "id": "transitions_element_magic_sparkles",
+    "term": "the subject disintegrates into a cloud of glowing golden spa",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "element",
+    "labels": [
+      "magic-sparkles"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Particle dissolve à la Avengers / apparition. Prompt hint: the subject disintegrates into a cloud of glowing golden sparkles that scatter outward, then the sparkles converge from across the frame and re-coalesce into the new subject"
+  },
+  {
+    "id": "transitions_element_lightning_flash",
+    "term": "a brilliant jagged bolt of lightning cracks across the frame",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "element",
+    "labels": [
+      "lightning-flash"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Lightning strikes, scene changes in flash. Prompt hint: a brilliant jagged bolt of lightning cracks across the frame and its flash turns the whole picture white. The camera stays where it is and the framing does not change. As the flash dies away, the second shot is revealed in its place. The shot ends on the second shot, fully resolved, with no bolt or flash left. The change happens inside the flash, and the second shot appears only as the white fades"
+  },
+  {
+    "id": "transitions_element_ink_splash",
+    "term": "black ink splashes across the frame in expanding tendrils th",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "element",
+    "labels": [
+      "ink-splash"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Ink splashes across, scene changes. Prompt hint: black ink splashes across the frame in expanding tendrils that fully cover the image, then the ink retracts inward and pulls back to reveal the new scene"
+  },
+  {
+    "id": "transitions_element_sand_storm",
+    "term": "a wall of opaque",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "element",
+    "labels": [
+      "sand-storm"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Sand storm engulfs the frame, scene changes inside. Prompt hint: a wall of opaque, swirling ochre sand sweeps in from one side of the frame and surges across it until the whole picture is hidden in dust. The camera stays where it is and the framing does not change. The dust then thins and sinks away toward the lower edge of the frame, revealing the second shot behind it. The shot ends on the second shot, clear and fully resolved, with no dust left. The first shot stays as it is until the sand covers it completely, and the second shot appears only as the dust clears"
+  },
+  {
+    "id": "transitions_element_paint_splash",
+    "term": "vivid splashes of coloured paint fly across the frame in arc",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "element",
+    "labels": [
+      "paint-splash"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Vivid paint splash covers, retracts into new scene. Prompt hint: vivid splashes of coloured paint fly across the frame in arcing streaks and pile over one another until the whole picture is covered in wet paint. The camera stays where it is and the framing does not change. The paint then gathers toward the centre of the frame and shrinks to nothing, uncovering the second shot from the edges inward. The shot ends on the second shot, clean and fully resolved, with no paint left. The paint lies on the surface of the picture itself, and the second shot appears only where the paint has gone"
+  },
+  {
+    "id": "transitions_element_aurora_sweep",
+    "term": "a luminous curtain of green and violet aurora light ripples ",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "element",
+    "labels": [
+      "aurora-sweep"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Aurora curtain sweeps across, scene changes behind. Prompt hint: a luminous curtain of green and violet aurora light ripples across the whole frame, and its bright bands veil the first shot. The camera stays where it is and the framing does not change. As the bands fade, the second shot is revealed behind them. The shot ends on the second shot, clear and fully resolved, with no aurora light left. The aurora glows over the front of the picture, and the second shot appears only as it fades"
+  },
+  {
+    "id": "transitions_element_sakura_petals",
+    "term": "cherry blossom petal storm",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "element",
+    "labels": [
+      "sakura-petals"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cherry blossom petals storm across the frame. Prompt hint: a dense storm of cherry blossom petals swirls in from one side and fills the frame in soft pink motion, the petals cluster to fully veil the image, then drift past to reveal the new scene"
+  },
+  {
+    "id": "transitions_element_garden_bloom",
+    "term": "lush flowers and vines rapidly grow and bloom outward from t",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "element",
+    "labels": [
+      "garden-bloom"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Flowers bloom outward, parting to reveal new scene. Prompt hint: lush flowers and vines rapidly grow and bloom outward from the edges of the frame, the foliage spreads to overtake the entire image, then parts open like curtains to reveal the new scene behind"
+  },
+  {
+    "id": "transitions_element_powder_burst",
+    "term": "a burst of vivid colored powder explodes from the center of ",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "element",
+    "labels": [
+      "powder-burst"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Colored powder bursts across frame and clears. Prompt hint: a burst of vivid colored powder explodes from the center of the frame in slow motion, the cloud of pigment expands to fill the image, then drifts apart and settles to reveal the second scene"
+  },
+  {
+    "id": "transitions_morph_liquid_morph",
+    "term": "smooth liquid morph: the first subject's surface becomes flu",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "morph",
+    "labels": [
+      "liquid-morph"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject melts and reforms as new subject. Prompt hint: smooth liquid morph: the first subject's surface becomes fluid and continuously deforms, flowing without breaks into the silhouette and details of the second subject"
+  },
+  {
+    "id": "transitions_morph_pixelate_reform",
+    "term": "pixelate and reform",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "morph",
+    "labels": [
+      "pixelate-reform"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Pixelates, scatters, reforms as new. Prompt hint: the first subject breaks into large square mosaic blocks, and the blocks scatter outward across the frame. The camera stays where it is and the framing does not change. The blocks fly back, lock together at the same place in the frame and sharpen into the second subject, while the second shot appears behind them. The shot ends on the second subject, fully sharp, with no blocks left. Only the subject turns into blocks; the surroundings change as the blocks clear"
+  },
+  {
+    "id": "transitions_morph_shatter_glass",
+    "term": "shatter like glass and reform",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "morph",
+    "labels": [
+      "shatter-glass"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject shatters like glass, reforms. Prompt hint: the first subject shatters like glass into hundreds of shards that fly outward, then the shards reverse direction in reverse time and reassemble into the new subject"
+  },
+  {
+    "id": "transitions_morph_origami_fold",
+    "term": "the first subject creases and folds like sheets of origami p",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "morph",
+    "labels": [
+      "origami-fold"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject folds like paper into new subject. Prompt hint: the first subject creases and folds like sheets of origami paper, the folds rotate and re-arrange in elegant geometric steps, and the final fold reveals the new subject"
+  },
+  {
+    "id": "transitions_morph_vortex_swirl",
+    "term": "only the first subject twists",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "morph",
+    "labels": [
+      "vortex-swirl"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject swirls into vortex, unwinds as new. Prompt hint: only the first subject twists, winding around its own centre like wrung cloth into a tight narrow column at the same place in the frame, turning faster as it narrows, while the surroundings stay upright and still. the camera is locked on a tripod head planted in one spot, holding the frame level from start to finish. the column then unwinds in the same direction and opens into the shape of the second subject, while the second shot appears around it. the shot ends on the second subject, solid and fully resolved, with nothing left turning. the twist stays inside the outline of the subject, and the edges of the frame stay square and still"
+  },
+  {
+    "id": "transitions_morph_dream_ripple",
+    "term": "a circular ripple radiates outward across the frame as if th",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "morph",
+    "labels": [
+      "dream-ripple"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Surface ripple wave reveals new scene. Prompt hint: a circular ripple radiates outward across the frame as if the image were the surface of water, and where the ripple passes the first scene is replaced by the second scene"
+  },
+  {
+    "id": "transitions_morph_wireframe_morph",
+    "term": "the first subject's surface peels away to reveal a glowing g",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "morph",
+    "labels": [
+      "wireframe-morph"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject reduces to wireframe, reforms as new subject. Prompt hint: the first subject's surface peels away to reveal a glowing geometric wireframe of polygons and edges, the wireframe flexes and re-tessellates into the topology of the new subject, then the new surface skins over the wireframe"
+  },
+  {
+    "id": "transitions_morph_polygon_shatter",
+    "term": "the first subject fractures into large opaque flat-shaded ch",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "morph",
+    "labels": [
+      "polygon-shatter"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject fragments into low-poly chunks, reassembles. Prompt hint: the first subject fractures into large opaque flat-shaded chunks, like the facets of a low-polygon model, and the chunks burst outward in slow motion. The camera stays where it is and the framing does not change. The chunks turn around mid-flight and fly back along clean straight paths, locking together at the same place in the frame into the shape of the second subject, while the second shot appears behind them. The shot ends on the second subject, solid and fully resolved, with no loose chunks left. The chunks stay opaque and matte throughout, like painted blocks"
+  },
+  {
+    "id": "transitions_morph_melt_down",
+    "term": "melt into a puddle and reform",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "morph",
+    "labels": [
+      "melt-down"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject melts into puddle, reforms as new. Prompt hint: the first subject's form softens and melts downward like wax, collapsing into a glossy puddle on the ground, the puddle then surges upward and re-solidifies into the new subject standing in the new scene"
+  },
+  {
+    "id": "transitions_portal_zoom_into_eye",
+    "term": "the camera pushes into a tight macro of the subject's eye",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "portal",
+    "labels": [
+      "zoom-into-eye"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Push into pupil, new world inside. Prompt hint: the camera pushes into a tight macro of the subject's eye, the pupil dilates and fills the frame, and the new scene materialises from within the pupil as if the pupil itself were a portal"
+  },
+  {
+    "id": "transitions_portal_zoom_into_mirror",
+    "term": "the camera pushes toward a mirror in the scene",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "portal",
+    "labels": [
+      "zoom-into-mirror"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Push into mirror, scene inside reflection. Prompt hint: the camera pushes toward a mirror in the scene, the mirror's reflection fills the frame, and the camera passes through the mirror surface into the reflected world which becomes the new scene"
+  },
+  {
+    "id": "transitions_portal_zoom_into_screen",
+    "term": "the camera pushes toward a screen visible in the scene",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "portal",
+    "labels": [
+      "zoom-into-screen"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Push into TV/phone screen. Prompt hint: the camera pushes toward a screen visible in the scene, such as a TV, phone or monitor, the screen's image fills the frame, and the camera passes through into that image which becomes the new scene"
+  },
+  {
+    "id": "transitions_portal_zoom_into_book",
+    "term": "the camera pushes down toward the illustrated page of an ope",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "portal",
+    "labels": [
+      "zoom-into-book"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Push into book page illustration. Prompt hint: the camera pushes down toward the illustrated page of an open book in the frame until the illustration fills the whole picture. The camera travels in one smooth line, without turning or rolling. The drawn picture comes alive, gaining depth, light and movement, and becomes the second shot. The shot ends inside the second shot, real and fully resolved, with no paper, ink lines or page edges left. The camera heads for the page from the start and goes into its illustration"
+  },
+  {
+    "id": "transitions_portal_walk_through_door",
+    "term": "the camera follows the first subject through a doorway in th",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "portal",
+    "labels": [
+      "walk-through-door"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Through doorway into new scene. Prompt hint: the camera follows the first subject through a doorway in the frame, moving forward at the subject's pace. The camera travels straight forward, without turning, tilting or rolling. On the far side of the doorway the space is the second shot, a different place in different light. The shot ends in the second shot, fully resolved, with the doorway behind the camera. The change of place happens at the doorway itself, the moment the camera passes through it"
+  },
+  {
+    "id": "transitions_portal_fall_into_hole",
+    "term": "the floor or ground opens beneath the camera and the camera ",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "portal",
+    "labels": [
+      "fall-into-hole"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Camera falls through opening. Prompt hint: the floor or ground opens beneath the camera and the camera falls downward through the opening, tumbling, and emerges into the new scene below"
+  },
+  {
+    "id": "transitions_portal_pull_out_reveal",
+    "term": "pull-back reveal",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "portal",
+    "labels": [
+      "pull-out-reveal"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Reveals scene was a picture in larger context. Prompt hint: the camera pulls straight back fast, and the whole first shot shrinks until its edges show as the border of a framed picture inside a larger space. The camera travels back in one smooth line, without turning, tilting or rolling. The larger space around the picture is the second shot, and the first shot stays inside the picture. The shot ends on the second shot, with the first shot visible as a picture within it. The first shot's image stays exactly the same as it shrinks, so it reads as the same picture all along"
+  },
+  {
+    "id": "transitions_portal_zoom_into_mouth",
+    "term": "the camera pushes straight into the first subject's open mou",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "portal",
+    "labels": [
+      "zoom-into-mouth"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Push into open mouth, emerges in new world inside. Prompt hint: the camera pushes straight into the first subject's open mouth until the dark interior fills the whole picture. The camera travels forward in one smooth line, without turning, tilting or rolling. It passes through the darkness, and the second shot emerges out of it. The shot ends inside the second shot, still and fully resolved, with no mouth left in view. The dark interior stays a plain darkness the camera passes through"
+  },
+  {
+    "id": "transitions_portal_push_through_glass",
+    "term": "the camera pushes toward a pane of glass in the scene",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "portal",
+    "labels": [
+      "push-through-glass"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Camera pushes through pane of glass into new world. Prompt hint: the camera pushes toward a pane of glass in the scene, the surface ripples like liquid as the camera passes through with a faint refraction, and the space on the other side resolves as the new scene"
+  },
+  {
+    "id": "transitions_portal_soul_jump",
+    "term": "soul leaves body and enters another",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "portal",
+    "labels": [
+      "soul-jump"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Translucent soul leaves body, enters new body. Prompt hint: a translucent luminous form rises out of the first subject's body and shoots forward through the frame as a ghost-like soul, then dives into a new body in the new scene where the second subject animates to life"
+  },
+  {
+    "id": "transitions_portal_mask_transition",
+    "term": "mask transition",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "portal",
+    "labels": [
+      "mask-transition"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Foreground object blacks out the frame, camera pulls through. Prompt hint: a dark foreground shape sweeps across the lens and fills the frame with black. The camera keeps travelling forward through the black in one smooth line. It emerges from the darkness into the second shot. The shot ends in the second shot, fully resolved, with no dark shape left. The dark shape passes close to the lens and is gone once the second shot appears"
+  },
+  {
+    "id": "transitions_portal_zoom_through",
+    "term": "zoom-through transition",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "portal",
+    "labels": [
+      "zoom-through"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Camera magnifies one detail until the new scene unfolds inside it. Prompt hint: zoom-through transition: the camera magnifies one small detail of the frame further and further until the detail loses its texture and fills the image entirely, and the new scene unfolds from within it"
+  },
+  {
+    "id": "transitions_physics_explosion_blast",
+    "term": "an explosion erupts from the center of the frame with a brig",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "physics",
+    "labels": [
+      "explosion-blast"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Explosion wipes frame, new scene emerges. Prompt hint: an explosion erupts from the center of the frame with a bright fireball that expands to fill the frame, and as the fireball dissipates the new scene is revealed"
+  },
+  {
+    "id": "transitions_physics_shockwave",
+    "term": "a flash at the exact centre of the frame bursts into a sharp",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "physics",
+    "labels": [
+      "shockwave"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Shockwave ripples across, scene changes. Prompt hint: a flash at the exact centre of the frame bursts into a sharp, bright ring that races past every edge in a moment, trailing a smear of motion blur behind its rim and warping the picture as it goes. The camera stays where it is and the picture stays level. The second shot shows only inside the ring and the first only outside it, with the bright ring as the one hard border and no blending anywhere"
+  },
+  {
+    "id": "transitions_physics_punch_into_camera",
+    "term": "a fist or object swings rapidly toward the camera and strike",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "physics",
+    "labels": [
+      "punch-into-camera"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Fist strikes camera, scene changes. Prompt hint: a fist or object swings rapidly toward the camera and strikes the lens with motion blur and impact frames, and the moment of impact reveals the new scene"
+  },
+  {
+    "id": "transitions_physics_debris_shower",
+    "term": "a shower of debris — leaves",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "physics",
+    "labels": [
+      "debris-shower"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Debris flies past, scene changes behind. Prompt hint: a shower of debris — leaves, papers, dust — sweeps across the frame in front of the camera, and once the debris clears the scene behind has changed"
+  },
+  {
+    "id": "transitions_physics_gravity_flip",
+    "term": "gravity inverts and the camera rotates a full 180 degrees as",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "physics",
+    "labels": [
+      "gravity-flip"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Gravity inverts, camera rotates 180. Prompt hint: gravity inverts and the camera rotates a full 180 degrees as objects and the subject reorient to the new down, settling into the new scene oriented correctly"
+  },
+  {
+    "id": "transitions_physics_building_explosion",
+    "term": "the largest structure in the frame detonates in a massive fi",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "physics",
+    "labels": [
+      "building-explosion"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Structure detonates, scene shifts through smoke. Prompt hint: the largest structure in the frame detonates in a massive fireball, and debris and dust plume outward until they fill the whole picture. The camera stays where it is and the framing does not change. As the dust cloud clears, the second shot is revealed in its place. The shot ends on the second shot, clear and fully resolved, with no dust or debris left. The blast comes from that structure itself, and the second shot appears only as the dust clears"
+  },
+  {
+    "id": "transitions_physics_vehicle_explosion",
+    "term": "a vehicle in the frame bursts into a violent explosion of fi",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "physics",
+    "labels": [
+      "vehicle-explosion"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Vehicle detonates in foreground, scene changes behind. Prompt hint: a vehicle in the frame bursts into a violent explosion of fire and twisted metal, and the fireball billows toward the lens until orange flame fills the whole picture. The camera stays where it is and the framing does not change. The flame gives way to thick smoke, and as the smoke parts the second shot is revealed. The shot ends on the second shot, clear and fully resolved, with no fire or smoke left. The explosion comes from that vehicle itself, and the second shot appears only as the smoke parts"
+  },
+  {
+    "id": "transitions_physics_jump_match",
+    "term": "match cut on a jump",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "physics",
+    "labels": [
+      "jump-match"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject jumps, landing matches into new scene. Prompt hint: the subject jumps upward and out of frame at the end of the first shot, with matched velocity the camera follows the arc, and on landing the subject is in a new location seamlessly continuing the same jump"
+  },
+  {
+    "id": "transitions_physics_hand_swipe",
+    "term": "a hand sweeps across the camera lens at close range",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "physics",
+    "labels": [
+      "hand-swipe"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hand swipes across lens, scene changes during occlusion. Prompt hint: a hand sweeps across the camera lens at close range, fully occluding the frame in motion blur for a single beat, and as the hand exits the opposite side the scene has changed to the new setting"
+  },
+  {
+    "id": "transitions_physics_action_relay",
+    "term": "match cut on action",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "physics",
+    "labels": [
+      "action-relay"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject exits on an action and lands in the new scene mid-move. Prompt hint: match cut on action: the subject exits the frame on a committed action — a stride, a throw, a turn — and enters the new scene on the same beat continuing that movement at matched speed and direction, so the action carries unbroken across the cut"
+  },
+  {
+    "id": "transitions_light_white_flash",
+    "term": "a bright camera-flash bloom fills the frame with pure white",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "light",
+    "labels": [
+      "white-flash"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Frame blooms to white. Prompt hint: a bright camera-flash bloom fills the frame with pure white, holds for a fraction of a second, then resolves into the new scene"
+  },
+  {
+    "id": "transitions_light_lens_flare_swipe",
+    "term": "a horizontal anamorphic lens flare sweeps across the frame f",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "light",
+    "labels": [
+      "lens-flare-swipe"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Anamorphic lens flare swipes. Prompt hint: a horizontal anamorphic lens flare sweeps across the frame from one side to the other, and as it crosses the frame the scene behind it has changed to the new setting"
+  },
+  {
+    "id": "transitions_light_light_streak",
+    "term": "a bright streak of light races across the frame leaving moti",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "light",
+    "labels": [
+      "light-streak"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Light streak wipes across. Prompt hint: a bright streak of light races across the frame leaving motion-blur trails, and as the streak exits the opposite side the scene is now the new setting"
+  },
+  {
+    "id": "transitions_light_color_invert",
+    "term": "colors invert across the entire frame to their negative for ",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "light",
+    "labels": [
+      "color-invert"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Colors invert briefly. Prompt hint: colors invert across the entire frame to their negative for a single beat, and when the colors snap back the scene has changed to the new setting"
+  },
+  {
+    "id": "transitions_light_sun_glare",
+    "term": "intense warm glare floods the lens from one corner of the fr",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "light",
+    "labels": [
+      "sun-glare"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Sun glare washes frame. Prompt hint: intense warm glare floods the lens from one corner of the frame, blooming and scattering flares until the whole picture is washed out to a bright haze. The camera stays where it is and the framing does not change. As the glare fades, the second shot emerges through the haze. The shot ends on the second shot, clear and fully resolved, with no glare left. The glare comes from the lens itself, and the second shot appears only as the haze clears"
+  },
+  {
+    "id": "transitions_light_lens_crack",
+    "term": "a hairline crack snaps diagonally across the lens and branch",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "light",
+    "labels": [
+      "lens-crack"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Lens cracks, scene through fractured glass. Prompt hint: a hairline crack snaps diagonally across the lens and branches into a web of fracture lines that spreads over the whole picture. The camera stays where it is and the framing does not change. Seen through the cracks, the first shot gives way to the second shot, and then the fracture lines fade away. The shot ends on the second shot, clear and fully resolved, with no cracks left. The cracks form on the lens itself, while everything behind them stays whole"
+  },
+  {
+    "id": "transitions_light_dirty_lens_wipe",
+    "term": "the camera lens is suddenly streaked with dust",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "light",
+    "labels": [
+      "dirty-lens-wipe"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Lens dust/grime wipes clean, scene changes. Prompt hint: the camera lens is suddenly streaked with dust, water beads, and grime that swirl across the front element, a wiping motion sweeps the lens clean from one side to the other, revealing the new scene in crisp focus"
+  },
+  {
+    "id": "transitions_light_eye_light_burst",
+    "term": "the subject's eyes ignite with a brilliant white beam of lig",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "light",
+    "labels": [
+      "eye-light-burst"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Bright beam from subject's eyes whites out frame. Prompt hint: the subject's eyes ignite with a brilliant white beam of light that overpowers the frame in bloom and lens flares, the radiance fills the image entirely, and as the glow recedes the new scene is revealed"
+  },
+  {
+    "id": "transitions_glitch_digital_glitch",
+    "term": "a brief digital glitch corruption — RGB-split",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "glitch",
+    "labels": [
+      "digital-glitch"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: RGB-split + scanline + datamosh glitch. Prompt hint: a brief digital glitch corruption — RGB-split, scanline tearing, pixel-block displacement — overtakes the frame for a fraction of a second, and resolves into the new scene"
+  },
+  {
+    "id": "transitions_glitch_vhs_rewind",
+    "term": "VHS-style tracking distortion and tape-rewind artifacts swee",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "glitch",
+    "labels": [
+      "vhs-rewind"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: VHS tracking distortion. Prompt hint: VHS-style tracking distortion and tape-rewind artifacts sweep the frame with horizontal scanline noise, then resolve into the new scene as if rewinding to a different recording"
+  },
+  {
+    "id": "transitions_glitch_datamosh",
+    "term": "datamosh transition: the motion vectors of the first scene c",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "glitch",
+    "labels": [
+      "datamosh"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Motion-vector smear bleeds scenes. Prompt hint: datamosh transition: the motion vectors of the first scene continue smearing into the pixels of the second scene, creating a fluid pixel-bleed handoff"
+  },
+  {
+    "id": "transitions_glitch_channel_flip",
+    "term": "tv channel flip with static",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "glitch",
+    "labels": [
+      "channel-flip"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: TV channel flip with static. Prompt hint: a brief burst of TV static and channel-flip artifacts sweeps the frame, and the new scene resolves as if changing channels on an old television"
+  },
+  {
+    "id": "transitions_glitch_hologram_flicker",
+    "term": "a hologram-style flicker with horizontal interference bands ",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "glitch",
+    "labels": [
+      "hologram-flicker"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hologram-style flicker materialises new scene. Prompt hint: a hologram-style flicker with horizontal interference bands and chromatic aberration overtakes the frame for a beat, and resolves into the new scene as if it materialised from a projection"
+  },
+  {
+    "id": "transitions_glitch_display_wipe",
+    "term": "compress into a screen and expand out",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "glitch",
+    "labels": [
+      "display-wipe"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Scene compresses into display, expands to new scene. Prompt hint: the first scene compresses into a small floating display screen at the center of the frame with a CRT power-on/off animation and scanline flicker, the display then expands outward and unfolds into the new scene full-frame"
+  },
+  {
+    "id": "transitions_glitch_double_exposure",
+    "term": "the first and second scenes blend as a translucent double ex",
+    "term_zh": "",
+    "category": "transitions",
+    "subcategory": "glitch",
+    "labels": [
+      "double-exposure"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Two scenes overlay translucent, first fades to second. Prompt hint: the first and second scenes blend as a translucent double exposure where both images coexist semi-transparently on the frame, the first image then gradually fades out leaving the second image fully resolved"
+  }
+]

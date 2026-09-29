@@ -1,0 +1,506 @@
+[
+  {
+    "id": "render-quality_engines_unreal_engine_5",
+    "term": "rendered in Unreal Engine 5",
+    "term_zh": "",
+    "category": "render-quality",
+    "subcategory": "engines",
+    "labels": [
+      "unreal-engine-5"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Real-time path-traced UE5 look. Prompt hint: rendered in Unreal Engine 5, real-time path-traced lighting with Lumen reflections, Nanite-grade micro-detail and cinematic post-processing"
+  },
+  {
+    "id": "render-quality_engines_blender_cycles",
+    "term": "rendered in Blender Cycles",
+    "term_zh": "",
+    "category": "render-quality",
+    "subcategory": "engines",
+    "labels": [
+      "blender-cycles"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cycles unbiased path tracing. Prompt hint: rendered in Blender Cycles, unbiased path-traced lighting with physically accurate shadows, soft global illumination and clean denoise"
+  },
+  {
+    "id": "render-quality_engines_octane_render",
+    "term": "rendered in Octane",
+    "term_zh": "",
+    "category": "render-quality",
+    "subcategory": "engines",
+    "labels": [
+      "octane-render"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: GPU spectral path tracing. Prompt hint: rendered in Octane, GPU spectral path tracing with hyper-realistic materials, vivid color response and crisp specular highlights"
+  },
+  {
+    "id": "render-quality_engines_redshift",
+    "term": "redshift render",
+    "term_zh": "",
+    "category": "render-quality",
+    "subcategory": "engines",
+    "labels": [
+      "redshift"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Production GPU biased renderer. Prompt hint: rendered in Redshift, production-quality GPU rendering with rich material response, controlled GI and film-grade depth"
+  },
+  {
+    "id": "render-quality_other_houdini_mantra",
+    "term": "rendered in Houdini Mantra",
+    "term_zh": "",
+    "category": "render-quality",
+    "subcategory": "other",
+    "labels": [
+      "houdini-mantra"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: VFX-grade physical rendering. Prompt hint: rendered in Houdini Mantra, VFX-grade physically-based rendering with subtle volumetric scatter and ultra-clean shading"
+  },
+  {
+    "id": "render-quality_other_arnold_render",
+    "term": "rendered in Solid Angle Arnold",
+    "term_zh": "",
+    "category": "render-quality",
+    "subcategory": "other",
+    "labels": [
+      "arnold-render"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Industry-standard VFX path tracer. Prompt hint: rendered in Solid Angle Arnold, industry-standard VFX path-traced lighting with physically accurate light transport, smooth noise-free shading, and the flagship Pixar / ILM / Sony feature-film polish"
+  },
+  {
+    "id": "render-quality_other_corona_renderer",
+    "term": "rendered in Chaos Corona",
+    "term_zh": "",
+    "category": "render-quality",
+    "subcategory": "other",
+    "labels": [
+      "corona-renderer"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Photorealistic archviz unbiased renderer. Prompt hint: rendered in Chaos Corona, unbiased photorealistic rendering with crisp daylight global illumination, refined material response and the signature architectural-visualization clarity"
+  },
+  {
+    "id": "render-quality_engines_vray",
+    "term": "rendered in Chaos V-Ray",
+    "term_zh": "",
+    "category": "render-quality",
+    "subcategory": "engines",
+    "labels": [
+      "vray"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Industry-standard product / archviz / VFX renderer. Prompt hint: rendered in Chaos V-Ray, industry-standard hybrid path-traced production rendering with razor-sharp detail, accurate reflections and the polished product-viz / archviz / VFX finish"
+  },
+  {
+    "id": "render-quality_other_aces",
+    "term": "aces color space",
+    "term_zh": "",
+    "category": "render-quality",
+    "subcategory": "other",
+    "labels": [
+      "aces"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cinema-grade ACES color management. Prompt hint: graded through the ACES (Academy Color Encoding System) color management workflow, modern cinema-grade tonal response with consistent wide-gamut color rendering, filmic highlight rolloff and reference-quality color fidelity"
+  },
+  {
+    "id": "render-quality_other_raytracing",
+    "term": "ray-traced rendering",
+    "term_zh": "",
+    "category": "render-quality",
+    "subcategory": "other",
+    "labels": [
+      "raytracing"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Accurate reflections + shadows. Prompt hint: ray-traced rendering, physically accurate reflections, refractions and contact shadows with realistic light bounce"
+  },
+  {
+    "id": "render-quality_other_physically_based_rendering",
+    "term": "physically-based rendering",
+    "term_zh": "",
+    "category": "render-quality",
+    "subcategory": "other",
+    "labels": [
+      "physically-based-rendering"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Physically-based materials. Prompt hint: physically-based rendering with energy-conserving materials, accurate metallic/roughness response and realistic Fresnel falloff"
+  },
+  {
+    "id": "render-quality_technical_global_illumination",
+    "term": "global illumination",
+    "term_zh": "",
+    "category": "render-quality",
+    "subcategory": "technical",
+    "labels": [
+      "global-illumination"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Realistic light bounce. Prompt hint: global illumination, realistic indirect light bounce with soft color bleeding between surfaces and naturally lit shadow regions"
+  },
+  {
+    "id": "render-quality_technical_lumen_reflections",
+    "term": "Lumen-style real-time dynamic global illumination with crisp",
+    "term_zh": "",
+    "category": "render-quality",
+    "subcategory": "technical",
+    "labels": [
+      "lumen-reflections"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Real-time dynamic GI. Prompt hint: Lumen-style real-time dynamic global illumination with crisp screen-space reflections, soft contact shadows and beautifully lit indirect bounces"
+  },
+  {
+    "id": "render-quality_resolution_8k_uhd",
+    "term": "8K ultra-high-definition resolution",
+    "term_zh": "",
+    "category": "render-quality",
+    "subcategory": "resolution",
+    "labels": [
+      "8k-uhd"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Ultra-sharp 8K resolution. Prompt hint: 8K ultra-high-definition resolution, ultra-sharp detail with every micro-texture preserved and zero softness"
+  },
+  {
+    "id": "render-quality_resolution_4k_uhd",
+    "term": "4K UHD resolution",
+    "term_zh": "",
+    "category": "render-quality",
+    "subcategory": "resolution",
+    "labels": [
+      "4k-uhd"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Crisp 4K resolution. Prompt hint: 4K UHD resolution, crisp detail with cinema-grade clarity and clean edge definition"
+  },
+  {
+    "id": "render-quality_resolution_16k_megapixel",
+    "term": "16k resolution",
+    "term_zh": "",
+    "category": "render-quality",
+    "subcategory": "resolution",
+    "labels": [
+      "16k-megapixel"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Insanely high-resolution detail. Prompt hint: 16K megapixel-grade resolution, insanely high-resolution detail with surgically clean edges and microscopic surface fidelity"
+  },
+  {
+    "id": "render-quality_resolution_ultra_detailed",
+    "term": "ultra-detailed",
+    "term_zh": "",
+    "category": "render-quality",
+    "subcategory": "resolution",
+    "labels": [
+      "ultra-detailed"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Maximum micro-detail rendering. Prompt hint: ultra-detailed rendering with intricate micro-surface detail, fine pore-level fidelity and meticulously preserved fine structures"
+  },
+  {
+    "id": "render-quality_stamps_raw_photo",
+    "term": "raw photograph aesthetic",
+    "term_zh": "",
+    "category": "render-quality",
+    "subcategory": "stamps",
+    "labels": [
+      "raw-photo"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Unprocessed photographic feel. Prompt hint: raw photograph aesthetic, unprocessed natural color science, authentic photographic detail and untouched documentary realism"
+  },
+  {
+    "id": "render-quality_stamps_masterpiece",
+    "term": "masterpiece-quality rendering",
+    "term_zh": "",
+    "category": "render-quality",
+    "subcategory": "stamps",
+    "labels": [
+      "masterpiece"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hand-of-an-expert quality stamp. Prompt hint: masterpiece-quality rendering, hand-of-an-expert level execution with refined composition, immaculate detail and curated finish"
+  },
+  {
+    "id": "render-quality_stamps_award_winning",
+    "term": "award-winning",
+    "term_zh": "",
+    "category": "render-quality",
+    "subcategory": "stamps",
+    "labels": [
+      "award-winning"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Award-circuit caliber. Prompt hint: award-winning quality, award-circuit caliber image with editorial-grade composition, magazine-cover finish and signature visual authority"
+  },
+  {
+    "id": "render-quality_other_volumetric_lighting",
+    "term": "volumetric lighting with god-ray light shafts cutting throug",
+    "term_zh": "",
+    "category": "render-quality",
+    "subcategory": "other",
+    "labels": [
+      "volumetric-lighting"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: God-ray volumetric light shafts cutting through atmosphere. Prompt hint: volumetric lighting with god-ray light shafts cutting through atmospheric haze, beams of illuminated dust and particulate scattering through the scene"
+  },
+  {
+    "id": "render-quality_other_photon_mapping",
+    "term": "photon-mapped global illumination with caustic-aware light t",
+    "term_zh": "",
+    "category": "render-quality",
+    "subcategory": "other",
+    "labels": [
+      "photon-mapping"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Caustic-aware photon-mapped global illumination renderer. Prompt hint: photon-mapped global illumination with caustic-aware light transport, accurate refractive light patterns through glass and water and physically correct indirect bounces"
+  },
+  {
+    "id": "render-quality_other_ai_upscaled",
+    "term": "neural-network AI-upscaled detail enhancement",
+    "term_zh": "",
+    "category": "render-quality",
+    "subcategory": "other",
+    "labels": [
+      "ai-upscaled"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Neural-network upscaled detail enhancement, sharp super-resolution. Prompt hint: neural-network AI-upscaled detail enhancement, sharp super-resolution clarity with reconstructed micro-detail and surgically clean edge definition"
+  },
+  {
+    "id": "render-quality_technical_denoised",
+    "term": "denoised render",
+    "term_zh": "",
+    "category": "render-quality",
+    "subcategory": "technical",
+    "labels": [
+      "denoised"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Clean noise-removed pristine rendering, no grain or speckle. Prompt hint: clean denoised rendering with noise removed entirely, pristine smooth surfaces and zero grain or speckle across shadows and midtones"
+  }
+]

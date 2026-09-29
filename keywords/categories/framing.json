@@ -1,0 +1,1388 @@
+[
+  {
+    "id": "framing_shot-size_extreme_wide_shot",
+    "term": "extreme wide shot",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "shot-size",
+    "labels": [
+      "extreme-wide-shot"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject tiny in vast environment. Prompt hint: extreme wide shot, subject very small within a vast landscape, environment dominates"
+  },
+  {
+    "id": "framing_shot-size_wide_shot",
+    "term": "wide shot",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "shot-size",
+    "labels": [
+      "wide-shot"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Full body with surroundings. Prompt hint: wide shot, full body of the subject with visible surroundings"
+  },
+  {
+    "id": "framing_shot-size_medium_wide_shot",
+    "term": "medium wide shot",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "shot-size",
+    "labels": [
+      "medium-wide-shot"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject from the knees up. Prompt hint: medium wide shot, subject framed from the knees up"
+  },
+  {
+    "id": "framing_shot-size_medium_shot",
+    "term": "medium shot",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "shot-size",
+    "labels": [
+      "medium-shot"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject from the waist up. Prompt hint: medium shot, subject framed from the waist up"
+  },
+  {
+    "id": "framing_shot-size_medium_close_up",
+    "term": "medium close-up",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "shot-size",
+    "labels": [
+      "medium-close-up"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject from the chest up. Prompt hint: medium close-up, subject framed from the chest up"
+  },
+  {
+    "id": "framing_shot-size_close_up",
+    "term": "close-up shot",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "shot-size",
+    "labels": [
+      "close-up"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject's face filling frame. Prompt hint: close-up shot, the subject's face fills the frame"
+  },
+  {
+    "id": "framing_shot-size_extreme_close_up",
+    "term": "extreme close-up",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "shot-size",
+    "labels": [
+      "extreme-close-up"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Tight detail of face feature. Prompt hint: extreme close-up, tight on a single feature of the face such as the eyes or mouth"
+  },
+  {
+    "id": "framing_shot-size_ecu_eye",
+    "term": "extreme close-up on a single eye",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "shot-size",
+    "labels": [
+      "ecu-eye"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Sergio Leone-style ECU on a single eye. Prompt hint: Sergio Leone-style extreme close-up tight on a single eye, iris filling the frame, every eyelash and reflection visible"
+  },
+  {
+    "id": "framing_shot-size_ecu_mouth",
+    "term": "extreme close-up on the lips and mouth",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "shot-size",
+    "labels": [
+      "ecu-mouth"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: ECU tight on the mouth. Prompt hint: extreme close-up tight on the mouth, lips and teeth filling the frame, breath visible"
+  },
+  {
+    "id": "framing_shot-size_ecu_hands",
+    "term": "extreme close-up on the hands",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "shot-size",
+    "labels": [
+      "ecu-hands"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: ECU tight on the hands. Prompt hint: extreme close-up tight on the hands, every finger and crease visible"
+  },
+  {
+    "id": "framing_shot-size_big_close_up",
+    "term": "big close-up, chin to forehead",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "shot-size",
+    "labels": [
+      "big-close-up"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Tighter than CU: chin to forehead, no headroom. Prompt hint: big close-up, tighter than a standard close-up with just the face from chin to forehead, no headroom"
+  },
+  {
+    "id": "framing_shot-size_choker",
+    "term": "choker shot, head and neck only",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "shot-size",
+    "labels": [
+      "choker"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Head and neck only, intimate intensity. Prompt hint: choker shot, framed at the throat with head and neck only, intimate intensity"
+  },
+  {
+    "id": "framing_shot-size_italian_shot",
+    "term": "extreme close-up cropped at the eyes",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "shot-size",
+    "labels": [
+      "italian-shot"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Sergio Leone Western: ECU at the eyes alone. Prompt hint: Italian shot, Sergio Leone Western trope, extreme close-up cropping at the eyes alone leaving the rest of the face out of frame"
+  },
+  {
+    "id": "framing_shot-size_insert",
+    "term": "insert shot",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "shot-size",
+    "labels": [
+      "insert"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Detail shot of an object. Prompt hint: insert shot, tight on a specific object or detail relevant to the scene"
+  },
+  {
+    "id": "framing_shot-size_macro",
+    "term": "macro shot",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "shot-size",
+    "labels": [
+      "macro"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Extreme close detail of a small subject. Prompt hint: macro shot, extreme close-up of fine detail filling the frame, magnifying small subject features"
+  },
+  {
+    "id": "framing_shot-size_full_shot",
+    "term": "full shot",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "shot-size",
+    "labels": [
+      "full-shot"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Whole body head-to-toe in frame. Prompt hint: full shot, the subject's entire body framed head to toe with minimal headroom and footroom"
+  },
+  {
+    "id": "framing_shot-size_cowboy_shot",
+    "term": "cowboy shot",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "shot-size",
+    "labels": [
+      "cowboy-shot"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Mid-thigh up, classic Western framing. Prompt hint: cowboy shot, subject framed from mid-thigh up, classic Western framing"
+  },
+  {
+    "id": "framing_shot-size_head_to_hip",
+    "term": "head-to-hip framing",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "shot-size",
+    "labels": [
+      "head-to-hip"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: From head down to the hips. Prompt hint: head-to-hip framing, subject visible from the top of the head down to the hipline, slightly tighter than waist-up"
+  },
+  {
+    "id": "framing_shot-size_half_body",
+    "term": "half-body portrait",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "shot-size",
+    "labels": [
+      "half-body"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Clean waist-up portrait. Prompt hint: half body portrait, subject framed from the waist up with clean portrait composition"
+  },
+  {
+    "id": "framing_angle_eye_level",
+    "term": "eye level shot",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "angle",
+    "labels": [
+      "eye-level"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Camera at subject's eye height. Prompt hint: eye level shot, camera at the same height as the subject's eyes, neutral perspective"
+  },
+  {
+    "id": "framing_angle_high_angle",
+    "term": "high angle shot",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "angle",
+    "labels": [
+      "high-angle"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Camera above subject looking down. Prompt hint: high angle shot, camera positioned above the subject looking down at them"
+  },
+  {
+    "id": "framing_angle_low_angle",
+    "term": "low angle shot",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "angle",
+    "labels": [
+      "low-angle"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Camera below subject looking up. Prompt hint: low angle shot, camera positioned below the subject looking up, making them feel powerful"
+  },
+  {
+    "id": "framing_angle_overhead",
+    "term": "overhead shot, looking straight down",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "angle",
+    "labels": [
+      "overhead"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Direct top-down god's eye view. Prompt hint: overhead shot, direct top-down god's eye view looking straight down at the scene"
+  },
+  {
+    "id": "framing_angle_worms_eye_angle",
+    "term": "worm's eye view",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "angle",
+    "labels": [
+      "worms-eye-angle"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Extreme low angle from the ground. Prompt hint: worm's eye view, extreme low angle from ground level looking up"
+  },
+  {
+    "id": "framing_angle_dutch_angle",
+    "term": "Dutch angle shot",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "angle",
+    "labels": [
+      "dutch-angle"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Tilted canted horizon. Prompt hint: Dutch angle shot, the camera rolled so the horizon is canted, conveying tension or unease"
+  },
+  {
+    "id": "framing_angle_birds_eye",
+    "term": "bird's eye view",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "angle",
+    "labels": [
+      "birds-eye"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: High aerial overhead view. Prompt hint: bird's eye view, high aerial perspective looking down on the scene from far above"
+  },
+  {
+    "id": "framing_angle_slightly_downward",
+    "term": "slightly downward angle, just above the eyeline",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "angle",
+    "labels": [
+      "slightly-downward"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Gentle tilt from above, selfie-style. Prompt hint: slightly downward angle, camera tilted gently down toward the subject from just above their eyeline, the natural angle of a held-out phone"
+  },
+  {
+    "id": "framing_coverage_single",
+    "term": "clean single, one subject in frame",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "coverage",
+    "labels": [
+      "single"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Clean shot of one subject. Prompt hint: single shot, clean framing of one subject with nothing else in frame"
+  },
+  {
+    "id": "framing_coverage_two_shot",
+    "term": "two-shot",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "coverage",
+    "labels": [
+      "two-shot"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Both subjects in frame. Prompt hint: two-shot, both subjects in frame at roughly equal prominence"
+  },
+  {
+    "id": "framing_coverage_three_shot",
+    "term": "three-shot",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "coverage",
+    "labels": [
+      "three-shot"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Three subjects in frame. Prompt hint: three-shot, three subjects in the same frame"
+  },
+  {
+    "id": "framing_coverage_over_the_shoulder_framing",
+    "term": "over-the-shoulder shot",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "coverage",
+    "labels": [
+      "over-the-shoulder-framing"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Past one subject's shoulder onto another. Prompt hint: over the shoulder framing, camera looks past one character's shoulder onto the subject opposite them"
+  },
+  {
+    "id": "framing_coverage_reverse_shot",
+    "term": "reverse shot",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "coverage",
+    "labels": [
+      "reverse-shot"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Opposite POV to previous shot. Prompt hint: reverse shot, camera on the opposite side of the conversation from the previous framing"
+  },
+  {
+    "id": "framing_coverage_pov_framing",
+    "term": "pov shot, first-person perspective",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "coverage",
+    "labels": [
+      "pov-framing"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Through subject's eyes. Prompt hint: POV framing, scene viewed through the subject's own eyes, first person perspective"
+  },
+  {
+    "id": "framing_coverage_selfie_framing",
+    "term": "arm's-length selfie framing",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "coverage",
+    "labels": [
+      "selfie-framing"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Arm's-length self-portrait. Prompt hint: selfie framing, subject holding the camera at arm's length to frame themselves, slightly high angle from above, phone-camera perspective with the subject's face and upper body dominant in frame, arm or phone edge sometimes visible"
+  },
+  {
+    "id": "framing_coverage_mirror_selfie",
+    "term": "mirror selfie composition",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "coverage",
+    "labels": [
+      "mirror-selfie"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Phone visible in a mirror reflection. Prompt hint: mirror selfie composition, the subject photographs themselves in a mirror with the phone clearly visible in front of their face or chest, the reflection itself is the photograph, often a slight phone-flash bloom"
+  },
+  {
+    "id": "framing_coverage_gym_mirror_selfie",
+    "term": "gym mirror selfie",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "coverage",
+    "labels": [
+      "gym-mirror-selfie"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: 3/4 side-back angle through a gym mirror. Prompt hint: gym mirror selfie, subject photographed in a full-length gym mirror from a three-quarter side-back angle, phone held near the chest or hip, fluorescent gym lighting and equipment in the background"
+  },
+  {
+    "id": "framing_coverage_through_glass",
+    "term": "shot through a pane of glass",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "coverage",
+    "labels": [
+      "through-glass"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Framed through a foreground glass pane. Prompt hint: shot through a foreground pane of glass, subject seen with subtle optical refraction, reflections, and surface distortions across the image, glass texture frames the composition"
+  },
+  {
+    "id": "framing_coverage_top_down_flat_lay",
+    "term": "top-down flat lay composition",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "coverage",
+    "labels": [
+      "top-down-flat-lay"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Overhead arrangement of items on a surface. Prompt hint: top-down flat lay composition, camera directly overhead looking down at items neatly arranged on a flat surface, every object parallel to the picture plane"
+  },
+  {
+    "id": "framing_coverage_establishing_shot",
+    "term": "establishing shot",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "coverage",
+    "labels": [
+      "establishing-shot"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Wide environmental shot, subject small. Prompt hint: establishing shot, wide environmental framing that prioritizes the location, the subject sits small within the larger scene to set context"
+  },
+  {
+    "id": "framing_coverage_dirty_single",
+    "term": "dirty single, foreground shoulder in frame",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "coverage",
+    "labels": [
+      "dirty-single"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Single with another character at the edge. Prompt hint: dirty single framing, the shot is on one character but a slice of another character — a shoulder, ear, or back of head — intrudes into the foreground edge of frame"
+  },
+  {
+    "id": "framing_composition_rule_of_thirds",
+    "term": "rule of thirds composition",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "composition",
+    "labels": [
+      "rule-of-thirds"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject on a thirds intersection. Prompt hint: rule of thirds composition, subject placed on a thirds intersection for natural balance"
+  },
+  {
+    "id": "framing_composition_centered",
+    "term": "centered composition",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "composition",
+    "labels": [
+      "centered"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject dead center, symmetrical. Prompt hint: centered composition, subject positioned exactly in the middle of the frame, symmetrical"
+  },
+  {
+    "id": "framing_composition_headroom_tight",
+    "term": "tight headroom",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "composition",
+    "labels": [
+      "headroom-tight"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject's head near top of frame. Prompt hint: tight headroom, subject's head positioned near the top of the frame with little space above"
+  },
+  {
+    "id": "framing_composition_negative_space",
+    "term": "negative space composition",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "composition",
+    "labels": [
+      "negative-space"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject offset with empty space. Prompt hint: negative space composition, subject offset to one side with a large area of empty space opposite"
+  },
+  {
+    "id": "framing_composition_leading_lines",
+    "term": "leading lines composition",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "composition",
+    "labels": [
+      "leading-lines"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Lines draw eye to subject. Prompt hint: leading lines composition, environmental lines converge toward the subject to draw the viewer's eye"
+  },
+  {
+    "id": "framing_composition_3x3_grid_collage",
+    "term": "3x3 grid collage, nine equal panels",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "composition",
+    "labels": [
+      "3x3-grid-collage"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject in a 3×3 grid of variations. Prompt hint: 3 by 3 grid collage layout, nine equal-sized panels arranged in a three-by-three grid, each cell shows the same subject in a different pose, expression, or outfit, clean white gutters between panels"
+  },
+  {
+    "id": "framing_composition_diptych",
+    "term": "diptych composition",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "composition",
+    "labels": [
+      "diptych"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Two-frame side-by-side composition. Prompt hint: diptych composition, two equal panels placed side by side as a single image, each panel a separate but related shot of the subject"
+  },
+  {
+    "id": "framing_composition_triptych",
+    "term": "triptych composition",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "composition",
+    "labels": [
+      "triptych"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Three-frame composition. Prompt hint: triptych composition, three equal vertical panels arranged side by side as one image, each panel a related but distinct shot of the subject"
+  },
+  {
+    "id": "framing_composition_multi_frame_mosaic",
+    "term": "photo mosaic built from small image tiles",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "composition",
+    "labels": [
+      "multi-frame-mosaic"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Face built from a mosaic of small tiles. Prompt hint: multi-frame mosaic, the subject's face assembled from many small photographic tiles arranged in a grid, each tile a tiny image that combines from a distance into the larger portrait"
+  },
+  {
+    "id": "framing_composition_contact_sheet",
+    "term": "contact sheet layout",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "composition",
+    "labels": [
+      "contact-sheet"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Photo contact sheet of thumbnails. Prompt hint: contact sheet layout, multiple sequential thumbnail frames arranged in rows on a black or dark grey background, frame numbers along the edge, mimicking a 35mm film proof sheet"
+  },
+  {
+    "id": "framing_composition_magazine_spread",
+    "term": "magazine spread layout",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "composition",
+    "labels": [
+      "magazine-spread"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Two-page magazine layout with typography. Prompt hint: magazine spread layout, two-page editorial composition with a visible page gutter down the middle"
+  },
+  {
+    "id": "framing_composition_cutaway_cross_section",
+    "term": "cutaway cross-section, near surface removed",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "composition",
+    "labels": [
+      "cutaway-cross-section"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Architectural cross-section with walls peeled away. Prompt hint: cutaway cross-section composition, the near surface peeled away to reveal the interior in clean cross-section, the inner layers and hidden structure exposed at once"
+  },
+  {
+    "id": "framing_composition_golden_spiral",
+    "term": "golden spiral composition",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "composition",
+    "labels": [
+      "golden-spiral"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Composition on the Fibonacci spiral. Prompt hint: composed on the golden spiral / Fibonacci ratio, the eye guided through a nested logarithmic curve from the focal subject outward through progressively larger arcs"
+  },
+  {
+    "id": "framing_composition_frame_within_frame",
+    "term": "frame within a frame composition",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "composition",
+    "labels": [
+      "frame-within-frame"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject framed by an interior architectural element. Prompt hint: frame within a frame composition, the subject framed by an interior architectural element such as a doorway, window, or archway that creates a secondary border around the focal point"
+  },
+  {
+    "id": "framing_composition_s_curve",
+    "term": "s-curve composition",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "composition",
+    "labels": [
+      "s-curve"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Sinuous diagonal flow through the frame. Prompt hint: S-curve serpentine composition, a sinuous diagonal flow winds through the frame, the eye guided along the curve from foreground to background"
+  },
+  {
+    "id": "framing_composition_diagonal_composition",
+    "term": "diagonal composition",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "composition",
+    "labels": [
+      "diagonal-composition"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Strong diagonal line cutting across the frame. Prompt hint: diagonal composition, a strong diagonal line cuts across the frame from corner toward corner, generating dynamism and forward momentum"
+  },
+  {
+    "id": "framing_composition_triangular_composition",
+    "term": "triangular composition",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "composition",
+    "labels": [
+      "triangular-composition"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Three-point triangular arrangement. Prompt hint: triangular composition, three-point triangular arrangement of subjects or elements, the implicit triangle anchors the frame and balances visual weight"
+  },
+  {
+    "id": "framing_composition_symmetrical_mirror",
+    "term": "symmetrical mirrored composition",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "composition",
+    "labels": [
+      "symmetrical-mirror"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Exact left-right symmetry. Prompt hint: symmetrical mirror composition, exact left-right symmetry across a central vertical axis, both halves of the frame mirror each other in shape, mass, and tone"
+  },
+  {
+    "id": "framing_composition_vignette_composition",
+    "term": "vignette composition",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "composition",
+    "labels": [
+      "vignette-composition"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Heavy peripheral darkening focuses the center. Prompt hint: vignette composition, heavy peripheral darkening of the frame edges and corners draws attention inward to the centered subject, the falloff is built into the staging and lighting rather than added in post"
+  },
+  {
+    "id": "framing_vantage_front_on",
+    "term": "front-on view, subject facing camera",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "vantage",
+    "labels": [
+      "front-on"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject facing camera. Prompt hint: front-on shot, subject facing the camera directly"
+  },
+  {
+    "id": "framing_vantage_three_quarter_front",
+    "term": "three-quarter front view",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "vantage",
+    "labels": [
+      "three-quarter-front"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Slightly off-axis from front. Prompt hint: three-quarter view of the subject, camera slightly off-axis from the front"
+  },
+  {
+    "id": "framing_vantage_profile_left",
+    "term": "left profile view",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "vantage",
+    "labels": [
+      "profile-left"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Side view, subject's left. Prompt hint: profile shot from the subject's left side"
+  },
+  {
+    "id": "framing_vantage_profile_right",
+    "term": "right profile view",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "vantage",
+    "labels": [
+      "profile-right"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Side view, subject's right. Prompt hint: profile shot from the subject's right side"
+  },
+  {
+    "id": "framing_vantage_three_quarter_back",
+    "term": "three-quarter rear view",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "vantage",
+    "labels": [
+      "three-quarter-back"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Off-axis from behind. Prompt hint: three-quarter view from behind, camera angled off-axis from the rear"
+  },
+  {
+    "id": "framing_vantage_behind",
+    "term": "rear view from behind the subject",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "vantage",
+    "labels": [
+      "behind"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Direct rear view. Prompt hint: shot from directly behind the subject, looking at their back"
+  },
+  {
+    "id": "framing_vantage_side_back_angle",
+    "term": "three-quarter view from behind one shoulder",
+    "term_zh": "",
+    "category": "framing",
+    "subcategory": "vantage",
+    "labels": [
+      "side-back-angle"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: 3/4 view from behind one shoulder. Prompt hint: side-back angle, three-quarter view from behind one shoulder of the subject, partial face visible in profile, the back and shoulder line dominate the framing"
+  }
+]

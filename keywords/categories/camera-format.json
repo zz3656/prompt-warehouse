@@ -1,0 +1,653 @@
+[
+  {
+    "id": "camera-format_35mm_35mm_film",
+    "term": "shot on 35mm film",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "35mm",
+    "labels": [
+      "35mm-film"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Classic cinema film grain. Prompt hint: shot on 35mm film, classic cinematic grain texture and color science"
+  },
+  {
+    "id": "camera-format_16mm_16mm_film",
+    "term": "shot on 16mm film",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "16mm",
+    "labels": [
+      "16mm-film"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Indie / documentary grain. Prompt hint: shot on 16mm film, indie documentary grain with characteristic muted tones"
+  },
+  {
+    "id": "camera-format_super_super_8",
+    "term": "super 8mm film",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "super",
+    "labels": [
+      "super-8"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Vintage 8mm home-movie look. Prompt hint: shot on Super 8 film, soft vintage grain with warm color cast and subtle gate weave"
+  },
+  {
+    "id": "camera-format_imax_imax_70mm",
+    "term": "shot on IMAX 70mm film",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "imax",
+    "labels": [
+      "imax-70mm"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Large-format pristine clarity. Prompt hint: shot on IMAX 70mm film, ultra-high-resolution large-format with pristine clarity and rich tonal depth"
+  },
+  {
+    "id": "camera-format_anamorphic_anamorphic_scope",
+    "term": "shot in anamorphic scope",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "anamorphic",
+    "labels": [
+      "anamorphic-scope"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: 2.39:1 widescreen cinema look. Prompt hint: shot in anamorphic scope, 2.39:1 widescreen aspect ratio with horizontal lens flares and oval bokeh"
+  },
+  {
+    "id": "camera-format_arri_arri_alexa",
+    "term": "shot on Arri Alexa",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "arri",
+    "labels": [
+      "arri-alexa"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Premium digital cinema. Prompt hint: shot on Arri Alexa, premium digital cinema with Arri color science and clean shadows"
+  },
+  {
+    "id": "camera-format_alexa_alexa_65",
+    "term": "shot on an ARRI Alexa 65 large-format cinema camera",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "alexa",
+    "labels": [
+      "alexa-65"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Large-format 65mm IMAX-class cinema. Prompt hint: shot on an ARRI Alexa 65 large-format cinema camera, the IMAX-class 65mm sensor delivering creamy bokeh, immense tonal latitude, and flagship Hollywood-blockbuster image quality"
+  },
+  {
+    "id": "camera-format_sony_sony_venice",
+    "term": "shot on a Sony Venice full-frame cinema camera",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "sony",
+    "labels": [
+      "sony-venice"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Full-frame dual-base-ISO cinema. Prompt hint: shot on a Sony Venice full-frame cinema camera, dual-base-ISO sensor producing clean shadows in low light, refined Sony cinema color science, and the polished premium-streaming-production look"
+  },
+  {
+    "id": "camera-format_blackmagic_blackmagic_pocket_6k",
+    "term": "shot on a Blackmagic Pocket Cinema Camera 6K",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "blackmagic",
+    "labels": [
+      "blackmagic-pocket-6k"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Indie RAW cinema camera. Prompt hint: shot on a Blackmagic Pocket Cinema Camera 6K, indie-filmmaker RAW recording with rich color depth, organic film-like rendering, and the unmistakable Blackmagic gen-5 color science"
+  },
+  {
+    "id": "camera-format_red_red_komodo",
+    "term": "red komodo cinema camera",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "red",
+    "labels": [
+      "red-komodo"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Compact 6K action cinema camera. Prompt hint: shot on a RED Komodo 6K cinema camera, compact-body REDCODE RAW capture with crisp action-grade detail, RED IPP2 color science, and dynamic gimbal- or drone-friendly framing"
+  },
+  {
+    "id": "camera-format_dslr_dslr",
+    "term": "shot on DSLR",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "dslr",
+    "labels": [
+      "dslr"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Crisp video-DSLR look. Prompt hint: shot on DSLR, crisp clean video with shallow depth of field and modern digital color"
+  },
+  {
+    "id": "camera-format_mirrorless_mirrorless_a7iii",
+    "term": "shot on a Sony A7III mirrorless camera",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "mirrorless",
+    "labels": [
+      "mirrorless-a7iii"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Modern hybrid mirrorless. Prompt hint: shot on a Sony A7III mirrorless camera, clean modern hybrid look with fast-AF aesthetic, slightly cool Sony color science, and crisp full-frame sensor rendering"
+  },
+  {
+    "id": "camera-format_canon_canon_r5",
+    "term": "shot on a Canon EOS R5 mirrorless camera",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "canon",
+    "labels": [
+      "canon-r5"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: High-res fashion-editorial mirrorless. Prompt hint: shot on a Canon EOS R5 mirrorless camera, high-resolution full-frame imagery with Canon's signature warm skin tones and clean editorial-fashion clarity"
+  },
+  {
+    "id": "camera-format_hasselblad_hasselblad_medium_format",
+    "term": "shot on a Hasselblad medium-format camera",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "hasselblad",
+    "labels": [
+      "hasselblad-medium-format"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Editorial medium format. Prompt hint: shot on a Hasselblad medium-format camera, ultra-shallow depth of field with painterly tonal rolloff, prestigious editorial color science, and large-sensor microcontrast"
+  },
+  {
+    "id": "camera-format_leica_leica_m_rangefinder",
+    "term": "shot on a Leica M-series rangefinder",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "leica",
+    "labels": [
+      "leica-m-rangefinder"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Classic 35mm rangefinder. Prompt hint: shot on a Leica M-series rangefinder, classic 35mm street-photography aesthetic with gentle bokeh, refined contrast, and signature Leica rendering"
+  },
+  {
+    "id": "camera-format_voigtlander_voigtlander",
+    "term": "voigtlander rangefinder",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "voigtlander",
+    "labels": [
+      "voigtlander"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Boutique rangefinder character. Prompt hint: shot on a Voigtlander rangefinder, distinctive color rendition with subtle vintage character, slightly muted saturation, and unique micro-contrast signature"
+  },
+  {
+    "id": "camera-format_fuji_fuji_xt4",
+    "term": "shot on a Fujifilm X-T4",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "fuji",
+    "labels": [
+      "fuji-xt4"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Film-emulating Fuji color. Prompt hint: shot on a Fujifilm X-T4, film-like Fuji color science with rich greens, warm reds, and the distinctive emulation-style tonal curve Fuji is known for"
+  },
+  {
+    "id": "camera-format_drone_drone_aerial",
+    "term": "aerial drone footage",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "drone",
+    "labels": [
+      "drone-aerial"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Overhead gimbal-stabilized aerial. Prompt hint: overhead drone aerial footage, slight wide-angle distortion with smooth gimbal stabilization, top-down or low-altitude perspective, and atmospheric haze on distant subjects"
+  },
+  {
+    "id": "camera-format_gopro_gopro_action_cam",
+    "term": "shot on a GoPro action camera",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "gopro",
+    "labels": [
+      "gopro-action-cam"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Fisheye-wide action camera. Prompt hint: shot on a GoPro action camera, heavy fisheye-wide distortion with high-contrast saturated color, motion-active framing, and characteristic warped horizon lines"
+  },
+  {
+    "id": "camera-format_webcam_webcam_facetime",
+    "term": "webcam video call footage",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "webcam",
+    "labels": [
+      "webcam-facetime"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Low-res video call. Prompt hint: low-resolution webcam or FaceTime call footage, soft compression artifacts with color-shifted skin tones, low frame-rate ghosting, and slightly laggy motion blur"
+  },
+  {
+    "id": "camera-format_vhs_vhs",
+    "term": "shot on VHS",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "vhs",
+    "labels": [
+      "vhs"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Tape distortion + scanlines. Prompt hint: shot on VHS, analog tape distortion with horizontal scanlines, color bleed, and tracking artifacts"
+  },
+  {
+    "id": "camera-format_camcorder_camcorder",
+    "term": "90s consumer camcorder",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "camcorder",
+    "labels": [
+      "camcorder"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Consumer 90s video. Prompt hint: shot on a 90s consumer camcorder, soft video with low resolution and slight chromatic fringing"
+  },
+  {
+    "id": "camera-format_polaroid_polaroid",
+    "term": "polaroid instant film",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "polaroid",
+    "labels": [
+      "polaroid"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Instant film tonality. Prompt hint: polaroid instant film, square frame with soft tonality, slight color shift, and characteristic white border"
+  },
+  {
+    "id": "camera-format_fuji_fuji_instax",
+    "term": "shot on Fujifilm Instax instant film",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "fuji",
+    "labels": [
+      "fuji-instax"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Modern instant film. Prompt hint: shot on Fujifilm Instax instant film, square frame with soft pastel tones, slight blue cast, gentle highlight rolloff, and the characteristic crisp white instax border"
+  },
+  {
+    "id": "camera-format_disposable_disposable_camera",
+    "term": "shot on a single-use disposable film camera",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "disposable",
+    "labels": [
+      "disposable-camera"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Single-use 90s/2000s film. Prompt hint: shot on a single-use disposable film camera, gritty 90s/2000s aesthetic with harsh on-camera flash, blown highlights, color shift toward magenta, and gritty grain in shadows"
+  },
+  {
+    "id": "camera-format_toy_toy_camera_holga",
+    "term": "holga toy camera",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "toy",
+    "labels": [
+      "toy-camera-holga"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Lo-fi Holga / Lomo plastic-lens. Prompt hint: shot on a toy camera like a Holga or Lomo, heavy vignetting with light leaks, soft plastic-lens focus, lo-fi vintage character, and unpredictable color shifts"
+  },
+  {
+    "id": "camera-format_tintype_tintype_wet_plate",
+    "term": "tintype wet-plate collodion",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "tintype",
+    "labels": [
+      "tintype-wet-plate"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Vintage wet-plate collodion. Prompt hint: vintage tintype wet-plate collodion photograph, silver-mirror tonality with ethereal blur on edges, sepia-leaning monochrome, slow-exposure stillness, and antique surface character"
+  },
+  {
+    "id": "camera-format_daguerreotype_daguerreotype",
+    "term": "1840s daguerreotype photograph",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "daguerreotype",
+    "labels": [
+      "daguerreotype"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: 1840s silver-mirror process. Prompt hint: 1840s daguerreotype photograph, silver-mirror surface with slight ghostly blur from long exposure, hyper-vintage tonality, and the unmistakable reflective polished-plate quality"
+  },
+  {
+    "id": "camera-format_security_security_cam",
+    "term": "cctv security camera footage",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "security",
+    "labels": [
+      "security-cam"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: CCTV fisheye + timestamp overlay. Prompt hint: CCTV security-camera footage, wide-angle fisheye distortion with visible timestamp overlay in the corner, low resolution monochrome or desaturated color, static interference lines, tracking artifacts, and surveillance-grade compression"
+  },
+  {
+    "id": "camera-format_bw_bw_film",
+    "term": "black and white film",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "bw",
+    "labels": [
+      "bw-film"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Black and white film stock. Prompt hint: shot on black and white film, rich grayscale tonality with classic film grain"
+  },
+  {
+    "id": "camera-format_iphone_iphone",
+    "term": "iphone camera footage",
+    "term_zh": "",
+    "category": "camera-format",
+    "subcategory": "iphone",
+    "labels": [
+      "iphone"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Modern phone-camera look. Prompt hint: shot on a modern iPhone, computational image processing with sharp clarity, slight HDR look, and characteristic phone-camera color science"
+  }
+]

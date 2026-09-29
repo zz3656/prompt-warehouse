@@ -1,0 +1,380 @@
+[
+  {
+    "id": "temporal_speed_real_time",
+    "term": "real-time playback",
+    "term_zh": "",
+    "category": "temporal",
+    "subcategory": "speed",
+    "labels": [
+      "real-time"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Normal playback speed. Prompt hint: real-time playback, normal speed"
+  },
+  {
+    "id": "temporal_speed_slow_motion",
+    "term": "slow motion",
+    "term_zh": "",
+    "category": "temporal",
+    "subcategory": "speed",
+    "labels": [
+      "slow-motion"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Moderately slowed footage. Prompt hint: slow motion, footage slowed down with smooth deliberate movement"
+  },
+  {
+    "id": "temporal_speed_super_slow_mo",
+    "term": "super slow motion",
+    "term_zh": "",
+    "category": "temporal",
+    "subcategory": "speed",
+    "labels": [
+      "super-slow-mo"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Extremely slow footage. Prompt hint: super slow motion, extreme high-speed slow-mo capturing motion at a fraction of real time"
+  },
+  {
+    "id": "temporal_speed_time_lapse",
+    "term": "time-lapse",
+    "term_zh": "",
+    "category": "temporal",
+    "subcategory": "speed",
+    "labels": [
+      "time-lapse"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Compressed time, fast passage. Prompt hint: time-lapse, highly compressed time showing hours or days passing in seconds"
+  },
+  {
+    "id": "temporal_speed_hyper_lapse",
+    "term": "hyper-lapse",
+    "term_zh": "",
+    "category": "temporal",
+    "subcategory": "speed",
+    "labels": [
+      "hyper-lapse"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Moving time-lapse. Prompt hint: hyper-lapse, time-lapse combined with forward camera motion, accelerated movement through space"
+  },
+  {
+    "id": "temporal_speed_speed_ramp",
+    "term": "speed ramp",
+    "term_zh": "",
+    "category": "temporal",
+    "subcategory": "speed",
+    "labels": [
+      "speed-ramp"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Dynamic speed change mid-shot. Prompt hint: speed ramp, dynamic speed change within the shot from slow motion to real-time or faster"
+  },
+  {
+    "id": "temporal_freeze_full_freeze",
+    "term": "freeze frame",
+    "term_zh": "",
+    "category": "temporal",
+    "subcategory": "freeze",
+    "labels": [
+      "full-freeze"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: All motion frozen. Prompt hint: full freeze-frame, all motion in the scene completely frozen like a photograph"
+  },
+  {
+    "id": "temporal_freeze_bullet_time",
+    "term": "bullet time effect",
+    "term_zh": "",
+    "category": "temporal",
+    "subcategory": "freeze",
+    "labels": [
+      "bullet-time"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject frozen, camera orbits. Prompt hint: bullet time effect, subject completely frozen mid-motion while camera orbits around them, Matrix-style"
+  },
+  {
+    "id": "temporal_freeze_frozen_subject",
+    "term": "frozen subject, world in motion",
+    "term_zh": "",
+    "category": "temporal",
+    "subcategory": "freeze",
+    "labels": [
+      "frozen-subject"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject frozen, world moves. Prompt hint: frozen subject with moving world, subject remains completely still while the environment continues in motion"
+  },
+  {
+    "id": "temporal_freeze_moving_subject",
+    "term": "moving subject, frozen world",
+    "term_zh": "",
+    "category": "temporal",
+    "subcategory": "freeze",
+    "labels": [
+      "moving-subject"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject moves, world frozen. Prompt hint: moving subject with frozen world, subject continues in motion while everything else in the scene is completely frozen"
+  },
+  {
+    "id": "temporal_direction_forward",
+    "term": "forward playback",
+    "term_zh": "",
+    "category": "temporal",
+    "subcategory": "direction",
+    "labels": [
+      "forward"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Normal forward playback. Prompt hint: forward playback, time moving forward in the natural direction"
+  },
+  {
+    "id": "temporal_direction_reverse",
+    "term": "reverse playback",
+    "term_zh": "",
+    "category": "temporal",
+    "subcategory": "direction",
+    "labels": [
+      "reverse"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Time plays backwards. Prompt hint: reverse playback, time and motion running backwards"
+  },
+  {
+    "id": "temporal_direction_loop_boomerang",
+    "term": "boomerang loop",
+    "term_zh": "",
+    "category": "temporal",
+    "subcategory": "direction",
+    "labels": [
+      "loop-boomerang"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Forward then reverse. Prompt hint: boomerang loop, playing forward then reversing back, creating a looping motion"
+  },
+  {
+    "id": "temporal_shutter_long_exposure",
+    "term": "long exposure effect",
+    "term_zh": "",
+    "category": "temporal",
+    "subcategory": "shutter",
+    "labels": [
+      "long-exposure"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Motion trails and streaks. Prompt hint: long exposure effect, motion trails and light streaks from slow shutter speed"
+  },
+  {
+    "id": "temporal_shutter_crisp_shutter",
+    "term": "fast shutter, sharp motion",
+    "term_zh": "",
+    "category": "temporal",
+    "subcategory": "shutter",
+    "labels": [
+      "crisp-shutter"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Sharp motion, no blur. Prompt hint: crisp shutter, sharp motion captured with fast shutter speed and no motion blur"
+  },
+  {
+    "id": "temporal_shutter_motion_blur",
+    "term": "pronounced motion blur",
+    "term_zh": "",
+    "category": "temporal",
+    "subcategory": "shutter",
+    "labels": [
+      "motion-blur"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Pronounced directional blur. Prompt hint: pronounced motion blur, moving subjects blur directionally from slower-than-normal shutter speed"
+  },
+  {
+    "id": "temporal_shutter_stutter_strobe",
+    "term": "strobe stutter effect",
+    "term_zh": "",
+    "category": "temporal",
+    "subcategory": "shutter",
+    "labels": [
+      "stutter-strobe"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Strobe-effect jerky motion. Prompt hint: stutter or strobe effect, jerky discontinuous motion with visible frame steps"
+  },
+  {
+    "id": "temporal_shutter_stop_motion",
+    "term": "stop-motion animation style",
+    "term_zh": "",
+    "category": "temporal",
+    "subcategory": "shutter",
+    "labels": [
+      "stop-motion"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Stepped frame-by-frame motion. Prompt hint: stop-motion animation style, stepped frame-by-frame motion with characteristic discrete movement"
+  }
+]

@@ -1,19 +1,44 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.6",
   "schema_version": "pws-1.0",
-  "total_keywords": 4810,
-  "total_categories": 9,
+  "total_keywords": 5959,
+  "total_categories": 33,
   "updated_at": "2026-09-29T00:00:00Z",
-  "updated_by": "enhancement-batch",
+  "updated_by": "nodaro-prompts-batch-2",
   "source_summary": {
     "h3-comic-builder (intermediate, not listed as data source)": 859,
     "MidJourney-Reference": 4600,
     "Danbooru-Tags": 167,
     "Danbooru-Booster-Civitai": 101,
     "Web-Scene-Curation": 72,
-    "Web-Style-Curation": 41
+    "Web-Style-Curation": 41,
+    "nodaro-prompts": 1149
   },
   "changelog": [
+    {
+      "version": "1.0.6",
+      "date": "2026-09-29",
+      "changes": [
+        "Added 389 additional keywords from @nodaro/prompts batch 2",
+        "Added categories: backdrop (40), camera-motions (66), photographer (63), setting (51), wardrobe (70), temporal (18), transitions (81)",
+        "Total project keywords now: 5,948 across 34 categories"
+      ],
+      "added": 389,
+      "before": 5570,
+      "after": 5959
+    },
+    {
+      "version": "1.0.5",
+      "date": "2026-09-29",
+      "changes": [
+        "Added 760 keywords from @nodaro/prompts (v1.27.0) — comprehensive prompt engineering catalog",
+        "17 new categories: action-fx, aesthetic, atmosphere, camera-format, character-fx, color-look, era, framing, held-prop, lens, mood, pose, post-process, render-quality, style",
+        "Coverage expanded: environmental effects, character moods, historical eras, material presets, photographic equipment, camera framing, render engines, color grading, and more"
+      ],
+      "added": 760,
+      "before": 4810,
+      "after": 5570
+    },
     {
       "version": "1.0.1",
       "date": "2026-09-28",
@@ -63,7 +88,7 @@
       "after": 4810
     }
   ],
-  "description": "4,810 structured keywords across 9 categories. h3-comic-builder (859) is an intermediate migration layer whose keywords also came from the web. Direct data sources: MidJourney Reference (4,600) + Danbooru Tags (167) + Danbooru Booster/Civitai (101) + Web Research - Scene (72) + Web Research - Styles (41). See data_sources for full provenance.",
+  "description": "5,959 structured keywords across 33 categories. Sources: MidJourney Reference + Danbooru + Danbooru Booster/Civitai + Web Research + @nodaro/prompts (v1.27.0).",
   "data_sources": {
     "note": "h3-comic-builder 是中间件（JS 原始文件已迁移），其 859 个关键词本身也来自网上收集。以下列出所有直接的数据来源。",
     "migration_note": "所有 source 为 h3-comic-builder (original JS migration) 的关键词 859 个是间接来源，不作为独立数据源列出。",
@@ -152,6 +177,69 @@
         "rendering techniques"
       ],
       "note": "所有 source 为 'Art-Style-Reference/Web-Research/Aesthetic-Movement-Guide' 的关键词"
+    },
+    "nodaro_prompts": {
+      "name": "@nodaro/prompts",
+      "url": "https://github.com/nodaroai/app.nodaro.ai",
+      "version": "v1.27.0",
+      "description": "Nodaro AI 的结构化提示词词库，覆盖摄影、角色、环境、特效等 17+ 个维度",
+      "keywords_count": 1149,
+      "import_versions": [
+        "1.0.5 (669 keywords)",
+        "1.0.6 (480 keywords)"
+      ],
+      "categories_added": [
+        "action-fx (72) - 动作特效",
+        "aesthetic (42) - 美学微趋势",
+        "atmosphere (40) - 大气效果",
+        "backdrop (40) - 背景预设",
+        "camera-format (31) - 画幅格式",
+        "camera-motions (66) - 摄影机运动",
+        "character-fx (55) - 角色特效",
+        "color-look (41) - 色彩分级",
+        "era (21) - 历史/科幻时代",
+        "framing (66) - 构图与景别",
+        "held-prop (60) - 手持道具",
+        "lens (18) - 镜头与焦距",
+        "material (67) - 材质预设",
+        "mood (51) - 角色情绪",
+        "photo-genre (24) - 摄影类型",
+        "photographer (63) - 摄影师风格",
+        "pose (81) - 姿态手势",
+        "post-process (18) - 后期特效",
+        "render-quality (24) - 渲染引擎",
+        "setting (51) - 场景环境",
+        "style (49) - 艺术风格",
+        "temporal (18) - 时间效果",
+        "transitions (81) - 转场效果",
+        "wardrobe (70) - 服装搭配"
+      ],
+      "fields_captured": [
+        "action effects (灾害、火焰、电力、战斗、魔法)",
+        "aesthetic microtrends (Y2K, dark academia, cottagecore 等)",
+        "atmospheric effects (雾、雨、粒子、神光)",
+        "studio backdrops (纯色、渐变、纹理背景)",
+        "camera formats (画幅比例、IMAX、电影宽屏)",
+        "camera motions (推拉摇移跟)",
+        "character transformations (狼人、吸血鬼、赛博格等)",
+        "color grading & film emulation (暖色、冷色、胶片模拟)",
+        "historical eras (中世纪、维多利亚、赛博朋克等)",
+        "framing & shot sizes (特写、中景、全景等)",
+        "held props & weapons (武器与道具)",
+        "lens & focal length (14mm-400mm)",
+        "materials (织物、金属、石材、木材)",
+        "character moods (喜怒哀乐等情绪)",
+        "photographic genres (时尚、纪实、证件照等)",
+        "photographer styles (Ansel Adams, Annie Leibovitz 等)",
+        "poses & gestures (站姿、坐姿、行走等)",
+        "post-processing (暗角、胶片颗粒、色散等)",
+        "render engines (Unreal 5, Octane, Cycles 等)",
+        "environment settings (室内、城市、自然、奇幻)",
+        "art styles (3D渲染、动漫、水彩等)",
+        "temporal effects (慢动作、快速、时间冻结)",
+        "transitions (溶解、缩放、滑动)"
+      ],
+      "note": "所有 source 为 '@nodaro/prompts (v1.27.0)' 的关键词"
     }
   }
 }

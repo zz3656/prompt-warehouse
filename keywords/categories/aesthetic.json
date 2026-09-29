@@ -1,0 +1,884 @@
+[
+  {
+    "id": "aesthetic_mainstream_y2k",
+    "term": "in the Y2K aesthetic — low-rise denim",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "mainstream",
+    "labels": [
+      "y2k"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Late-90s / early-2000s pop tech. Prompt hint: in the Y2K aesthetic — low-rise denim, baby tees, butterfly clips and chrome accessories, lit with sharp digicam flash and a faint chromatic gloss"
+  },
+  {
+    "id": "aesthetic_mainstream_cottagecore",
+    "term": "in the cottagecore aesthetic — linen dresses",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "mainstream",
+    "labels": [
+      "cottagecore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Pastoral, hand-baked countryside. Prompt hint: in the cottagecore aesthetic — linen dresses, gingham aprons and woven baskets in a sun-dappled cottage garden, with warm honeyed grading and gentle film grain"
+  },
+  {
+    "id": "aesthetic_mainstream_dark_academia",
+    "term": "in the dark academia aesthetic — tweed blazers",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "mainstream",
+    "labels": [
+      "dark-academia"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Old-world scholarship and tweed. Prompt hint: in the dark academia aesthetic — tweed blazers, oxford shirts and stacks of leather-bound books in candlelit libraries, with a desaturated golden-shadow grade"
+  },
+  {
+    "id": "aesthetic_mainstream_light_academia",
+    "term": "in the light academia aesthetic — cream cardigans",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "mainstream",
+    "labels": [
+      "light-academia"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Sunlit ivy-league scholarship. Prompt hint: in the light academia aesthetic — cream cardigans, pleated skirts and open journals on sunlit terraces, with warm cream-and-honey color and softly washed highlights"
+  },
+  {
+    "id": "aesthetic_mainstream_techwear",
+    "term": "techwear gorpcore",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "mainstream",
+    "labels": [
+      "techwear"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Tactical urban performance gear. Prompt hint: in the techwear-gorpcore aesthetic — black tactical shells, MOLLE webbing, cargo pants and chunky trail runners in a rain-slick neon city, with cold cyan-magenta color"
+  },
+  {
+    "id": "aesthetic_mainstream_old_money",
+    "term": "old money preppy",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "mainstream",
+    "labels": [
+      "old-money"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Quiet-luxury heritage prep. Prompt hint: in the old-money preppy aesthetic — cashmere sweaters, polo shirts, pearl strands and tailored linen on yacht decks and clay courts, with crisp, sun-bleached Mediterranean color"
+  },
+  {
+    "id": "aesthetic_mainstream_streetwear",
+    "term": "in the streetwear aesthetic — graphic hoodies",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "mainstream",
+    "labels": [
+      "streetwear"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Sneaker-and-hoodie urban casual. Prompt hint: in the streetwear aesthetic — graphic hoodies, oversized tees, premium sneakers and beanies on graffitied urban backdrops, with punchy contemporary color"
+  },
+  {
+    "id": "aesthetic_mainstream_coquette",
+    "term": "in the coquette aesthetic — pink ribbons",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "mainstream",
+    "labels": [
+      "coquette"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Bows, lace and balletcore softness. Prompt hint: in the coquette aesthetic — pink ribbons, lace trims, pearls and ballet flats in soft vanilla bedrooms, with rosy-pink grading and warm soft-focus glow"
+  },
+  {
+    "id": "aesthetic_mainstream_fairycore",
+    "term": "in the fairycore aesthetic — flowing tulle",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "mainstream",
+    "labels": [
+      "fairycore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Mossy, mushroom-strewn enchantment. Prompt hint: in the fairycore aesthetic — flowing tulle, flower crowns and embroidered shawls in mossy enchanted forests, with iridescent dappled light and pastel-green color"
+  },
+  {
+    "id": "aesthetic_mainstream_goblincore",
+    "term": "in the goblincore aesthetic — earth-toned knits",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "mainstream",
+    "labels": [
+      "goblincore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Mossy, mud-loving wilderness joy. Prompt hint: in the goblincore aesthetic — earth-toned knits, muddy boots and pockets full of mushrooms and beetles in damp forest undergrowth, with rich green-brown grading"
+  },
+  {
+    "id": "aesthetic_mainstream_normcore",
+    "term": "in the normcore aesthetic — plain jeans",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "mainstream",
+    "labels": [
+      "normcore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Anti-fashion plain basics. Prompt hint: in the normcore aesthetic — plain jeans, white sneakers, gray sweatshirts and bucket hats against banal everyday backdrops, with flat neutral color and even daylight"
+  },
+  {
+    "id": "aesthetic_mainstream_balletcore",
+    "term": "in the balletcore aesthetic — leg warmers",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "mainstream",
+    "labels": [
+      "balletcore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Soft pink ballet-rehearsal grace. Prompt hint: in the balletcore aesthetic — leg warmers, wrap cardigans, ribboned flats and tulle skirts in dust-floating studios, with soft pink-cream color and warm window light"
+  },
+  {
+    "id": "aesthetic_mainstream_e_girl",
+    "term": "in the e-girl aesthetic — heart blush",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "mainstream",
+    "labels": [
+      "e-girl"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Webcore liner-and-blush internet. Prompt hint: in the e-girl aesthetic — heart blush, winged liner, dyed split hair, plaid skirts and chain necklaces in bedroom LED light, with cool magenta-cyan color"
+  },
+  {
+    "id": "aesthetic_mainstream_soft_girl",
+    "term": "in the soft-girl aesthetic — pastel hoodies",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "mainstream",
+    "labels": [
+      "soft-girl"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Pastel, sticker-bright sweetness. Prompt hint: in the soft-girl aesthetic — pastel hoodies, butterfly clips, glossy lip and dainty heart stickers in cotton-candy-toned rooms, with warm peachy grading"
+  },
+  {
+    "id": "aesthetic_mainstream_indie_sleaze",
+    "term": "in the indie sleaze aesthetic — smudged eyeliner",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "mainstream",
+    "labels": [
+      "indie-sleaze"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Tumblr-era flash-blown party. Prompt hint: in the indie sleaze aesthetic — smudged eyeliner, leather jackets and skinny jeans at smoky house parties, lit by harsh on-camera flash with deep blacks and noisy grain"
+  },
+  {
+    "id": "aesthetic_mainstream_baddie",
+    "term": "in the baddie aesthetic — sharp-arched eyebrows",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "mainstream",
+    "labels": [
+      "baddie"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Confident, styled, trend-savvy. Prompt hint: in the baddie aesthetic — sharp-arched eyebrows, glossy lip, hoop earrings, bodycon dresses and bouncy curls in mirror-selfie poses, with high-contrast color and a polished glamorous finish"
+  },
+  {
+    "id": "aesthetic_niche_vacation_dadcore",
+    "term": "in the vacation-dadcore aesthetic — Hawaiian shirts",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "niche",
+    "labels": [
+      "vacation-dadcore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hawaiian-shirt suburban-dad ease. Prompt hint: in the vacation-dadcore aesthetic — Hawaiian shirts, cargo shorts, white socks and visor caps on cul-de-sac driveways, with bright tourist-snapshot color"
+  },
+  {
+    "id": "aesthetic_niche_womancore",
+    "term": "in the womancore aesthetic — tailored slacks",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "niche",
+    "labels": [
+      "womancore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Confident, unfussy adult femininity. Prompt hint: in the womancore aesthetic — tailored slacks, silk blouses and minimal jewelry in airy modern apartments, with soft natural light and a subdued elegant palette"
+  },
+  {
+    "id": "aesthetic_niche_angelcore",
+    "term": "in the angelcore aesthetic — flowing white lace",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "niche",
+    "labels": [
+      "angelcore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cherubic, lace-and-feather softness. Prompt hint: in the angelcore aesthetic — flowing white lace, lace gloves, halo headbands and feathered wings against pale heaven-soft backdrops, with creamy pastel grading"
+  },
+  {
+    "id": "aesthetic_niche_hikecore",
+    "term": "in the hikecore aesthetic — fleece pullovers",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "niche",
+    "labels": [
+      "hikecore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Trail-day mountaineer chic. Prompt hint: in the hikecore aesthetic — fleece pullovers, hiking boots, retro daypacks and topo-print baselayers on alpine trails, with crisp mountain color and high-altitude clarity"
+  },
+  {
+    "id": "aesthetic_niche_mote_kei",
+    "term": "in the mote-kei aesthetic — pleated A-line skirts",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "niche",
+    "labels": [
+      "mote-kei"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Conservative-cute Japanese feminine. Prompt hint: in the mote-kei aesthetic — pleated A-line skirts, soft knits, neat ribbons and pastel cardigans in sun-flooded Tokyo cafes, with delicate creamy color"
+  },
+  {
+    "id": "aesthetic_niche_kombuchapunk",
+    "term": "in the kombuchapunk aesthetic — thrifted graphic tees",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "niche",
+    "labels": [
+      "kombuchapunk"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Fermenting wellness counter-culture. Prompt hint: in the kombuchapunk aesthetic — thrifted graphic tees, layered hemp, tarot decks and home-fermented jars in plant-cluttered shared kitchens, with warm earthy color"
+  },
+  {
+    "id": "aesthetic_niche_chinapunk",
+    "term": "in the chinapunk aesthetic — qipao-cut crop tops",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "niche",
+    "labels": [
+      "chinapunk"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Y2K Hong Kong cyber glam. Prompt hint: in the chinapunk aesthetic — qipao-cut crop tops, mesh sleeves, futuristic shades and chrome charms on neon Hong Kong streets, with electric magenta-cyan grading"
+  },
+  {
+    "id": "aesthetic_niche_karencore",
+    "term": "in the karencore aesthetic — bobbed blonde hair",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "niche",
+    "labels": [
+      "karencore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Suburban-Karen blunt-bob power. Prompt hint: in the karencore aesthetic — bobbed blonde hair, oversized sunglasses, cropped capris and white SUVs in sun-baked suburban parking lots, with bleached overexposed color"
+  },
+  {
+    "id": "aesthetic_niche_candycore",
+    "term": "in the candycore aesthetic — rainbow stripes",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "niche",
+    "labels": [
+      "candycore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Sugar-rush rainbow saturation. Prompt hint: in the candycore aesthetic — rainbow stripes, lollipop accessories, glittery eye shadow and platform sneakers in candy-bright sets, with maximum saturation"
+  },
+  {
+    "id": "aesthetic_niche_babycore",
+    "term": "in the babycore aesthetic — bonnets",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "niche",
+    "labels": [
+      "babycore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Pacifier-soft infantile pastel. Prompt hint: in the babycore aesthetic — bonnets, ruffled rompers, oversized bows and stuffed animals against nursery-pastel backdrops, with milky soft-pink color"
+  },
+  {
+    "id": "aesthetic_niche_catcore",
+    "term": "in the catcore aesthetic — cat-ear hoodies",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "niche",
+    "labels": [
+      "catcore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cat-eared cozy domestic. Prompt hint: in the catcore aesthetic — cat-ear hoodies, paw mittens, knitted cardigans and tabby-print scarves curled up by sun-warmed windows, with soft golden color"
+  },
+  {
+    "id": "aesthetic_niche_weirdcore",
+    "term": "in the weirdcore aesthetic — surreal liminal-space anxiety b",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "niche",
+    "labels": [
+      "weirdcore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Surreal liminal-space unease. Prompt hint: in the weirdcore aesthetic — surreal liminal-space anxiety blending glitch and nostalgia, low-fi muted color and JPEG artefacts, often empty hallways, fluorescent basements or backrooms-style pools rendered with quiet dread"
+  },
+  {
+    "id": "aesthetic_niche_dreamcore",
+    "term": "in the dreamcore aesthetic — dreamlike soft-focus surrealism",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "niche",
+    "labels": [
+      "dreamcore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Soft surreal dreamlike serenity. Prompt hint: in the dreamcore aesthetic — dreamlike soft-focus surrealism with candy pastel palettes and uncanny serenity, often empty rooms, drifting clouds or abandoned playgrounds bathed in hazy diffuse light"
+  },
+  {
+    "id": "aesthetic_niche_traumacore",
+    "term": "in the traumacore aesthetic — distorted nostalgic childhood ",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "niche",
+    "labels": [
+      "traumacore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Distorted nostalgic childhood collage. Prompt hint: in the traumacore aesthetic — distorted nostalgic childhood imagery layered with melancholic captions and unsettling edits, Hello-Kitty stickers cut against scratched found-photo collage, washed-out pinks and faded sadness"
+  },
+  {
+    "id": "aesthetic_niche_alt_girl",
+    "term": "alt-girl",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "niche",
+    "labels": [
+      "alt-girl"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Grunge-meets-emo internet alt. Prompt hint: in the alt-girl aesthetic — alternative subculture mix of grunge, scene, emo and e-girl with dyed split hair, layered chains, fishnets, oversized band tees and smudged dark eyeliner, lit with cool moody color"
+  },
+  {
+    "id": "aesthetic_niche_blokecore",
+    "term": "in the blokecore aesthetic — vintage football jerseys",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "niche",
+    "labels": [
+      "blokecore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Football-jersey dadcore menswear. Prompt hint: in the blokecore aesthetic — vintage football jerseys, Adidas Sambas, straight-leg denim, bucket hats and casual sportswear elevated to a fashion statement, on terraced streets with naturalistic everyday color"
+  },
+  {
+    "id": "aesthetic_niche_y2k_rave",
+    "term": "y2k rave decora club-kid",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "niche",
+    "labels": [
+      "y2k-rave"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Neon Japanese decora rave kid. Prompt hint: in the Y2K-rave decora club-kid aesthetic — fluorescent layered tops, plastic-charm bracelets, kawaii hair clips, leg warmers and platform sneakers under blacklight and neon strobes, with hyper-saturated electric color"
+  },
+  {
+    "id": "aesthetic_era_minimalism",
+    "term": "minimalist fashion",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "era",
+    "labels": [
+      "minimalism"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Pared-down quiet-luxury restraint. Prompt hint: in the minimalist aesthetic — clean monochrome tailoring, structured silhouettes and empty white-stone spaces, with restrained neutral color and even soft light"
+  },
+  {
+    "id": "aesthetic_era_maximalism",
+    "term": "maximalist fashion",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "era",
+    "labels": [
+      "maximalism"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: More-is-more clashing pattern. Prompt hint: in the maximalist aesthetic — clashing prints, layered jewelry, velvet, sequins and floral wallpaper in densely styled rooms, with rich saturated color"
+  },
+  {
+    "id": "aesthetic_era_avant_garde",
+    "term": "avant-garde fashion",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "era",
+    "labels": [
+      "avant-garde"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Conceptual sculptural fashion. Prompt hint: in the avant-garde aesthetic — sculptural deconstructed silhouettes, exaggerated proportions and architectural draping in stark gallery-white spaces, with cold minimal color"
+  },
+  {
+    "id": "aesthetic_era_old_hollywood_glam",
+    "term": "old hollywood glamour",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "era",
+    "labels": [
+      "old-hollywood-glam"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Silver-screen 1940s glamour. Prompt hint: in the old-Hollywood-glam aesthetic — satin gowns, fur stoles, finger waves and red lipstick under sculpted studio key light, with silvery monochrome and high-contrast tonality"
+  },
+  {
+    "id": "aesthetic_mood_main_character_energy",
+    "term": "with main-character energy — unbothered confident posture",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "mood",
+    "labels": [
+      "main-character-energy"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Unbothered cinematic confidence. Prompt hint: with main-character energy — unbothered confident posture, signature outfit and direct gaze, framed cinematically with shallow depth of field and warm filmic grading"
+  },
+  {
+    "id": "aesthetic_mood_soft_easygoing",
+    "term": "soft easygoing mood",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "mood",
+    "labels": [
+      "soft-easygoing"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Gentle, low-effort warm calm. Prompt hint: in a soft easygoing mood — relaxed knits, oversized layers and easy posture in softly lit rooms, with hazy natural light and creamy gentle color"
+  },
+  {
+    "id": "aesthetic_mood_casual_lived_in",
+    "term": "casual lived-in mood",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "mood",
+    "labels": [
+      "casual-lived-in"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Worn-in, unstyled everyday. Prompt hint: in a casual lived-in mood — worn jeans, faded tees and rumpled hair in everyday domestic settings, with flat naturalistic light and unpolished snapshot color"
+  },
+  {
+    "id": "aesthetic_mood_effortless_cool",
+    "term": "in an effortless-cool mood — slouchy knits",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "mood",
+    "labels": [
+      "effortless-cool"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Unstudied off-duty French-girl ease. Prompt hint: in an effortless-cool mood — slouchy knits, slip skirts, messy bangs and minimal makeup on cobbled European streets, with gentle desaturated film color"
+  },
+  {
+    "id": "aesthetic_mood_retro_90s",
+    "term": "in a retro 90s mood — flannel shirts",
+    "term_zh": "",
+    "category": "aesthetic",
+    "subcategory": "mood",
+    "labels": [
+      "retro-90s"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Throwback grunge-meets-mall 90s. Prompt hint: in a retro 90s mood — flannel shirts, slip dresses, chokers and platform boots in mall food courts and bedroom posters, with slight VHS-grain and warm Kodachrome color"
+  }
+]

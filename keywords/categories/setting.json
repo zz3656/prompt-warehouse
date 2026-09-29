@@ -1,0 +1,1073 @@
+[
+  {
+    "id": "setting_indoor_coffee_shop",
+    "term": "set in a cozy coffee shop interior with warm pendant lights",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "indoor",
+    "labels": [
+      "coffee-shop"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cozy café interior. Prompt hint: set in a cozy coffee shop interior with warm pendant lights, exposed brick walls and steam drifting over espresso machines"
+  },
+  {
+    "id": "setting_indoor_library",
+    "term": "set in a grand library interior with tall oak shelves",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "indoor",
+    "labels": [
+      "library"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Grand library with tall shelves. Prompt hint: set in a grand library interior with tall oak shelves, leather-bound books, warm reading lamps and a tall arched window"
+  },
+  {
+    "id": "setting_indoor_office",
+    "term": "set in a bright modern office with floor-to-ceiling windows",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "indoor",
+    "labels": [
+      "office"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Bright glassy modern office. Prompt hint: set in a bright modern office with floor-to-ceiling windows, minimalist desks, potted plants and soft ambient daylight"
+  },
+  {
+    "id": "setting_indoor_home_office",
+    "term": "set in a cozy home office with a wooden desk",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "indoor",
+    "labels": [
+      "home-office"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cozy home workspace. Prompt hint: set in a cozy home office with a wooden desk, laptop and monitor, warm task lamp, bookshelves, houseplants and soft daylight through a nearby window"
+  },
+  {
+    "id": "setting_indoor_bedroom",
+    "term": "set in an intimate bedroom with soft diffused window light",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "indoor",
+    "labels": [
+      "bedroom"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Intimate bedroom. Prompt hint: set in an intimate bedroom with soft diffused window light, rumpled linen bedding and warm wood floors"
+  },
+  {
+    "id": "setting_indoor_living_room",
+    "term": "set in a cozy residential living room with a plush sofa",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "indoor",
+    "labels": [
+      "living-room"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cozy residential living room. Prompt hint: set in a cozy residential living room with a plush sofa, wooden coffee table, soft lamplight, bookshelves and a warm family-home atmosphere"
+  },
+  {
+    "id": "setting_indoor_bathroom",
+    "term": "home bathroom",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "indoor",
+    "labels": [
+      "bathroom"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Bright everyday home bathroom. Prompt hint: set in a bright everyday home bathroom with a tiled wall, a mirror and a towel on a hook"
+  },
+  {
+    "id": "setting_indoor_hotel_room",
+    "term": "set in an elegant hotel room with a neatly made king bed",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "indoor",
+    "labels": [
+      "hotel-room"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Elegant hotel room with city view. Prompt hint: set in an elegant hotel room with a neatly made king bed, heavy drapes, a panoramic city view through the window, minimalist desk and soft warm lamplight"
+  },
+  {
+    "id": "setting_indoor_restaurant",
+    "term": "set in an intimate restaurant interior with candlelit tables",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "indoor",
+    "labels": [
+      "restaurant"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Intimate candlelit restaurant. Prompt hint: set in an intimate restaurant interior with candlelit tables, white linen, leather booths, wine glasses catching warm light and a softly bustling dining room"
+  },
+  {
+    "id": "setting_indoor_nightclub",
+    "term": "set in a dark nightclub interior with a packed dance floor",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "indoor",
+    "labels": [
+      "nightclub"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Dark club with lasers and smoke. Prompt hint: set in a dark nightclub interior with a packed dance floor, laser and strobe lighting, thumping bass energy, silhouetted bodies and hazy atmospheric smoke"
+  },
+  {
+    "id": "setting_indoor_gym",
+    "term": "set in a modern fitness gym with rubber flooring",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "indoor",
+    "labels": [
+      "gym"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Modern fitness gym. Prompt hint: set in a modern fitness gym with rubber flooring, racks of weights, mirrored walls and bright overhead lights on training equipment"
+  },
+  {
+    "id": "setting_indoor_classroom",
+    "term": "set in a bright school classroom with rows of wooden desks",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "indoor",
+    "labels": [
+      "classroom"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Bright school classroom. Prompt hint: set in a bright school classroom with rows of wooden desks, a whiteboard covered in notes, posters on the walls and afternoon sun through tall windows"
+  },
+  {
+    "id": "setting_indoor_laboratory",
+    "term": "set in a modern research laboratory with stainless-steel ben",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "indoor",
+    "labels": [
+      "laboratory"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Research lab with glowing equipment. Prompt hint: set in a modern research laboratory with stainless-steel benches, glowing microscopes, racks of beakers and test tubes, overhead task lights and faint blue ambient glow from monitors"
+  },
+  {
+    "id": "setting_indoor_courtroom",
+    "term": "set in a formal wood-paneled courtroom with rows of oak benc",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "indoor",
+    "labels": [
+      "courtroom"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Wood-paneled courtroom. Prompt hint: set in a formal wood-paneled courtroom with rows of oak benches, a raised judge's bench, a lectern, flags on either side and amber light streaming through tall windows"
+  },
+  {
+    "id": "setting_indoor_warehouse",
+    "term": "set in a cavernous industrial warehouse with steel rafters",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "indoor",
+    "labels": [
+      "warehouse"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cavernous warehouse with skylights. Prompt hint: set in a cavernous industrial warehouse with steel rafters, concrete floors and dust motes in shafts of light from skylights above"
+  },
+  {
+    "id": "setting_indoor_taxi",
+    "term": "set inside the back seat of a city taxi at night with rain-s",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "indoor",
+    "labels": [
+      "taxi"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Back seat of a city taxi at night. Prompt hint: set inside the back seat of a city taxi at night with rain-streaked windows, neon reflections sliding across the dashboard, the driver silhouetted against the windshield and the dim green glow of the fare meter"
+  },
+  {
+    "id": "setting_indoor_car_interior",
+    "term": "parked car interior",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "indoor",
+    "labels": [
+      "car-interior"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Front seat of a parked car. Prompt hint: set in the front seat of a parked car, daylight through the side window"
+  },
+  {
+    "id": "setting_indoor_art_gallery",
+    "term": "set in a minimalist white-cube art gallery with polished con",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "indoor",
+    "labels": [
+      "art-gallery"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Minimalist white-cube gallery. Prompt hint: set in a minimalist white-cube art gallery with polished concrete floor, precision track lighting and framed canvases on bare walls"
+  },
+  {
+    "id": "setting_indoor_attic",
+    "term": "set in a wooden-beam dusty attic with a slanted roof",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "indoor",
+    "labels": [
+      "attic"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Wooden-beam dusty attic. Prompt hint: set in a wooden-beam dusty attic with a slanted roof, exposed rafters, found objects in cardboard boxes, draped sheets over old furniture and a single shaft of light through a small dormer window"
+  },
+  {
+    "id": "setting_indoor_basement",
+    "term": "set in a concrete basement with exposed overhead pipes",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "indoor",
+    "labels": [
+      "basement"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Concrete basement with exposed pipes. Prompt hint: set in a concrete basement with exposed overhead pipes, a bare hanging bulb, dim industrial vibe, water stains on the walls and stacked storage crates in the shadows"
+  },
+  {
+    "id": "setting_indoor_sauna",
+    "term": "set in a wood-paneled sauna with rising steam clouds",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "indoor",
+    "labels": [
+      "sauna"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Wood-paneled sauna with rising steam. Prompt hint: set in a wood-paneled sauna with rising steam clouds, intimate warm sweaty space lit by amber bulbs, condensation on glass and cedar slat benches glistening with moisture"
+  },
+  {
+    "id": "setting_indoor_dorm_room",
+    "term": "set in a cluttered college dorm room with a twin bed",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "indoor",
+    "labels": [
+      "dorm-room"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cluttered college dorm with fairy lights. Prompt hint: set in a cluttered college dorm room with a twin bed, posters taped to the walls, fairy lights strung along the ceiling, a cramped desk piled with books and an intimate lived-in glow"
+  },
+  {
+    "id": "setting_indoor_locker_room",
+    "term": "set in a tiled gym locker room with rows of metal lockers",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "indoor",
+    "labels": [
+      "locker-room"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Tiled gym locker room with benches. Prompt hint: set in a tiled gym locker room with rows of metal lockers, wooden benches down the center, mirrors above the sinks, post-workout steam in the air and the harsh hum of overhead fluorescents"
+  },
+  {
+    "id": "setting_urban_city_street",
+    "term": "set on a bustling city street with pedestrians",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "urban",
+    "labels": [
+      "city-street"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Bustling city street. Prompt hint: set on a bustling city street with pedestrians, traffic, reflections on wet asphalt and mid-rise commercial facades"
+  },
+  {
+    "id": "setting_urban_back_alley",
+    "term": "set in a narrow urban back alley with dumpsters",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "urban",
+    "labels": [
+      "back-alley"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Gritty narrow alley. Prompt hint: set in a narrow urban back alley with dumpsters, fire escapes, overflowing rain gutters and a single flickering wall sconce"
+  },
+  {
+    "id": "setting_urban_park",
+    "term": "set in a leafy urban park with winding footpaths",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "urban",
+    "labels": [
+      "park"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Leafy urban park with paths. Prompt hint: set in a leafy urban park with winding footpaths, wooden benches, tall shade trees, people lounging on grass and sunlight filtering through leaves"
+  },
+  {
+    "id": "setting_urban_backyard",
+    "term": "set in a warm backyard patio with a wooden deck",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "urban",
+    "labels": [
+      "backyard"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Deck patio with string lights. Prompt hint: set in a warm backyard patio with a wooden deck, string lights overhead, lounge chairs, green lawn beyond a low fence and the soft golden light of a late summer afternoon"
+  },
+  {
+    "id": "setting_urban_highway",
+    "term": "set on a sweeping open highway with lane markings stretching",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "urban",
+    "labels": [
+      "highway"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Sweeping highway to horizon. Prompt hint: set on a sweeping open highway with lane markings stretching to the horizon, rolling hills on either side, a single car on the road and a vast cinematic sky"
+  },
+  {
+    "id": "setting_urban_bridge",
+    "term": "set on a long suspension bridge with towering steel cables",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "urban",
+    "labels": [
+      "bridge"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Long suspension bridge over water. Prompt hint: set on a long suspension bridge with towering steel cables, sweeping views over water, evening glow on the railings and a distant city skyline beyond"
+  },
+  {
+    "id": "setting_urban_airport",
+    "term": "set in a vast airport terminal with gleaming polished floors",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "urban",
+    "labels": [
+      "airport"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Vast terminal with curved glass. Prompt hint: set in a vast airport terminal with gleaming polished floors, flight information boards, travelers with rolling luggage, curved glass walls and the soft drone of distant announcements"
+  },
+  {
+    "id": "setting_urban_parking_lot",
+    "term": "set in an empty suburban parking lot at dusk with sodium-vap",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "urban",
+    "labels": [
+      "parking-lot"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Suburban parking lot at dusk. Prompt hint: set in an empty suburban parking lot at dusk with sodium-vapor lamps casting orange pools, scattered shopping carts and painted lane lines"
+  },
+  {
+    "id": "setting_urban_penthouse",
+    "term": "set in a luxury penthouse interior with panoramic skyline vi",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "urban",
+    "labels": [
+      "penthouse"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Luxury penthouse with skyline view. Prompt hint: set in a luxury penthouse interior with panoramic skyline views, marble floors, modernist furniture and low warm ambient light"
+  },
+  {
+    "id": "setting_urban_gas_station",
+    "term": "set at a lonely highway gas station at night with a fluoresc",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "urban",
+    "labels": [
+      "gas-station"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Lonely highway gas station at night. Prompt hint: set at a lonely highway gas station at night with a fluorescent canopy, bug-swarmed sodium lamps and cracked asphalt"
+  },
+  {
+    "id": "setting_nature_forest",
+    "term": "set in a sunlit forest clearing with moss-covered stones",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "nature",
+    "labels": [
+      "forest"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Sunlit mossy clearing. Prompt hint: set in a sunlit forest clearing with moss-covered stones, dappled light through tall trees and a soft carpet of fallen leaves"
+  },
+  {
+    "id": "setting_nature_beach",
+    "term": "set on a wide sandy beach with gentle breaking surf",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "nature",
+    "labels": [
+      "beach"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Wide sandy beach with surf. Prompt hint: set on a wide sandy beach with gentle breaking surf, footprints in wet sand and a pastel horizon"
+  },
+  {
+    "id": "setting_nature_mountain_peak",
+    "term": "set on a dramatic rocky mountain peak above the cloud line w",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "nature",
+    "labels": [
+      "mountain-peak"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Rocky alpine summit. Prompt hint: set on a dramatic rocky mountain peak above the cloud line with a sweeping alpine vista, windblown snow and crisp thin-air light"
+  },
+  {
+    "id": "setting_nature_desert",
+    "term": "set among endless windblown desert dunes with rippled sand p",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "nature",
+    "labels": [
+      "desert"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Windblown desert dunes. Prompt hint: set among endless windblown desert dunes with rippled sand patterns, heat haze on the horizon and a merciless open sky"
+  },
+  {
+    "id": "setting_nature_jungle",
+    "term": "set in a dense humid jungle interior with hanging vines",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "nature",
+    "labels": [
+      "jungle"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Dense humid jungle interior. Prompt hint: set in a dense humid jungle interior with hanging vines, giant ferns, distant birdcalls and emerald light filtering through the canopy"
+  },
+  {
+    "id": "setting_nature_grassland",
+    "term": "set in an open windswept grassland under a huge sky with swa",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "nature",
+    "labels": [
+      "grassland"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Open windswept grassland. Prompt hint: set in an open windswept grassland under a huge sky with swaying tall grass, scattered wildflowers and distant rolling hills"
+  },
+  {
+    "id": "setting_nature_snowy_tundra",
+    "term": "set in a vast frozen tundra with wind-carved snow drifts",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "nature",
+    "labels": [
+      "snowy-tundra"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Frozen wind-carved tundra. Prompt hint: set in a vast frozen tundra with wind-carved snow drifts, low arctic sun, long blue shadows and scattered ice-crusted stones"
+  },
+  {
+    "id": "setting_nature_lake_shore",
+    "term": "set on a still mountain-lake shoreline with mirror reflectio",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "nature",
+    "labels": [
+      "lake-shore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Still mountain lake shoreline. Prompt hint: set on a still mountain-lake shoreline with mirror reflections, smooth pebbles, wispy morning mist and a line of dark conifers"
+  },
+  {
+    "id": "setting_nature_riverbank",
+    "term": "set on a meandering riverbank with slow flowing water",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "nature",
+    "labels": [
+      "riverbank"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Meandering river with willow trees. Prompt hint: set on a meandering riverbank with slow flowing water, smooth pebbles along the shore, willow trees leaning over the banks and dappled sunlight rippling on the current"
+  },
+  {
+    "id": "setting_nature_waterfall",
+    "term": "set at a thundering waterfall cascading over mossy cliffs in",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "nature",
+    "labels": [
+      "waterfall"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cascading falls over mossy cliffs. Prompt hint: set at a thundering waterfall cascading over mossy cliffs into a misty pool, rainbows in the spray, an emerald basin below and lush ferns clinging to wet rocks"
+  },
+  {
+    "id": "setting_nature_cave",
+    "term": "set inside a vast rocky cave with dripping stalactites",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "nature",
+    "labels": [
+      "cave"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Rocky cave with daylight shafts. Prompt hint: set inside a vast rocky cave with dripping stalactites, pools of still water, shafts of daylight piercing the darkness from above and dark mossy walls slick with moisture"
+  },
+  {
+    "id": "setting_fantastical_alien_planet",
+    "term": "set on an otherworldly alien planet landscape with biolumine",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "fantastical",
+    "labels": [
+      "alien-planet"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Otherworldly landscape with twin moons. Prompt hint: set on an otherworldly alien planet landscape with bioluminescent flora, twin moons in a violet sky and iridescent rock formations"
+  },
+  {
+    "id": "setting_fantastical_spaceship_interior",
+    "term": "set inside a sleek spaceship interior with curved corridors",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "fantastical",
+    "labels": [
+      "spaceship-interior"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Sleek starship corridor. Prompt hint: set inside a sleek spaceship interior with curved corridors, illuminated control panels, softly humming machinery and a panoramic view of stars through a reinforced window"
+  },
+  {
+    "id": "setting_fantastical_ancient_ruins",
+    "term": "set among vine-choked ancient stone ruins with toppled pilla",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "fantastical",
+    "labels": [
+      "ancient-ruins"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Vine-choked stone ruins. Prompt hint: set among vine-choked ancient stone ruins with toppled pillars, weathered carvings, shafts of golden light piercing overgrown jungle and the weight of a long-forgotten civilization"
+  },
+  {
+    "id": "setting_fantastical_cyberpunk_city",
+    "term": "set on an elevated walkway over a sprawling cyberpunk megaci",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "fantastical",
+    "labels": [
+      "cyberpunk-city"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Sprawling neon megacity skyline. Prompt hint: set on an elevated walkway over a sprawling cyberpunk megacity skyline at night with towering neon-clad skyscrapers, holographic billboards, flying traffic and a pink haze blanketing the grid"
+  },
+  {
+    "id": "setting_fantastical_haunted_mansion",
+    "term": "set inside a decaying gothic haunted mansion with cobwebbed ",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "fantastical",
+    "labels": [
+      "haunted-mansion"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Decaying gothic manor. Prompt hint: set inside a decaying gothic haunted mansion with cobwebbed chandeliers, warped wooden floors, dust-covered furniture and pale moonlight through cracked windows"
+  },
+  {
+    "id": "setting_fantastical_dreamscape",
+    "term": "set in a surreal dreamscape with floating islands",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "fantastical",
+    "labels": [
+      "dreamscape"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Surreal floating islands. Prompt hint: set in a surreal dreamscape with floating islands, impossible architecture, pastel mist and skies that shift between day and night"
+  },
+  {
+    "id": "setting_fantastical_wasteland",
+    "term": "set in a bleak post-apocalyptic wasteland with rusted vehicl",
+    "term_zh": "",
+    "category": "setting",
+    "subcategory": "fantastical",
+    "labels": [
+      "wasteland"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Rusted overcast wasteland. Prompt hint: set in a bleak post-apocalyptic wasteland with rusted vehicles, broken overpasses, grey ash drifts and a perpetually overcast sky"
+  }
+]

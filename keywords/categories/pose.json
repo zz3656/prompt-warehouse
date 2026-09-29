@@ -1,0 +1,1703 @@
+[
+  {
+    "id": "pose_standing_standing_upright",
+    "term": "standing upright in a relaxed natural posture",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "standing",
+    "labels": [
+      "standing-upright"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Relaxed standing posture. Prompt hint: standing upright in a relaxed natural posture"
+  },
+  {
+    "id": "pose_standing_confident_stance",
+    "term": "standing in a confident stance with feet apart",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "standing",
+    "labels": [
+      "confident-stance"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Feet apart, shoulders back. Prompt hint: standing in a confident stance with feet apart, shoulders back, and head up"
+  },
+  {
+    "id": "pose_standing_hands_on_hips",
+    "term": "standing with hands on hips",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "standing",
+    "labels": [
+      "hands-on-hips"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hands on hips. Prompt hint: standing with hands on hips"
+  },
+  {
+    "id": "pose_standing_arms_crossed",
+    "term": "standing with arms crossed over the chest",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "standing",
+    "labels": [
+      "arms-crossed"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Arms folded across chest. Prompt hint: standing with arms crossed over the chest"
+  },
+  {
+    "id": "pose_standing_leaning",
+    "term": "leaning casually against a surface",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "standing",
+    "labels": [
+      "leaning"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Leaning against something. Prompt hint: leaning casually against a wall or surface"
+  },
+  {
+    "id": "pose_standing_hero_pose",
+    "term": "standing in a dramatic heroic pose",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "standing",
+    "labels": [
+      "hero-pose"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Dramatic heroic stance. Prompt hint: standing in a dramatic heroic pose, chest out, looking forward with purpose"
+  },
+  {
+    "id": "pose_standing_contrapposto",
+    "term": "standing in contrapposto",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "standing",
+    "labels": [
+      "contrapposto"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hip tilted, weight on one leg. Prompt hint: standing in contrapposto, weight shifted to one leg with the opposite hip tilted out"
+  },
+  {
+    "id": "pose_standing_leaning_against_wall",
+    "term": "leaning against a wall",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "standing",
+    "labels": [
+      "leaning-against-wall"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Casually leaning on a wall. Prompt hint: leaning casually against a wall, shoulder or back resting on the surface"
+  },
+  {
+    "id": "pose_standing_hands_behind_head",
+    "term": "hands clasped behind the head",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "standing",
+    "labels": [
+      "hands-behind-head"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Both hands clasped behind head. Prompt hint: standing with both hands clasped behind the head, elbows out"
+  },
+  {
+    "id": "pose_standing_hands_behind_back",
+    "term": "hands clasped behind the back",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "standing",
+    "labels": [
+      "hands-behind-back"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hands clasped behind back. Prompt hint: standing with hands clasped behind the back, posture upright"
+  },
+  {
+    "id": "pose_seated_sitting",
+    "term": "sitting naturally",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "seated",
+    "labels": [
+      "sitting"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Sitting naturally. Prompt hint: sitting naturally"
+  },
+  {
+    "id": "pose_seated_cross_legged",
+    "term": "sitting cross-legged",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "seated",
+    "labels": [
+      "cross-legged"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Seated cross-legged on floor. Prompt hint: sitting cross-legged on the ground"
+  },
+  {
+    "id": "pose_seated_kneeling",
+    "term": "kneeling on one or both knees",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "seated",
+    "labels": [
+      "kneeling"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Kneeling on the ground. Prompt hint: kneeling on one or both knees"
+  },
+  {
+    "id": "pose_seated_crouching",
+    "term": "crouched low with knees bent",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "seated",
+    "labels": [
+      "crouching"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Crouched low. Prompt hint: crouched low with knees bent"
+  },
+  {
+    "id": "pose_seated_lounging",
+    "term": "lounging in a relaxed",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "seated",
+    "labels": [
+      "lounging"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Reclined, relaxed sitting. Prompt hint: lounging in a relaxed, reclined position"
+  },
+  {
+    "id": "pose_seated_sitting_edge_of_bed",
+    "term": "sitting on the edge of a bed",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "seated",
+    "labels": [
+      "sitting-edge-of-bed"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Perched on the edge of a bed. Prompt hint: perched on the edge of a bed, hands resting on the mattress"
+  },
+  {
+    "id": "pose_seated_chair_arm_drape",
+    "term": "legs draped over the chair arm",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "seated",
+    "labels": [
+      "chair-arm-drape"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Legs draped over chair arm. Prompt hint: sitting sideways in a chair with legs draped casually over one arm"
+  },
+  {
+    "id": "pose_seated_elbow_propped",
+    "term": "cheek resting on a propped elbow",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "seated",
+    "labels": [
+      "elbow-propped"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cheek resting on a propped elbow. Prompt hint: seated with cheek resting against a propped-up elbow, contemplative"
+  },
+  {
+    "id": "pose_seated_lying_on_stomach_reading",
+    "term": "lying prone propped on elbows, reading",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "seated",
+    "labels": [
+      "lying-on-stomach-reading"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Lying prone, propped on elbows reading. Prompt hint: lying on the stomach, propped up on elbows while reading"
+  },
+  {
+    "id": "pose_movement_walking",
+    "term": "walking",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "movement",
+    "labels": [
+      "walking"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Mid-stride walking. Prompt hint: walking, caught mid-stride"
+  },
+  {
+    "id": "pose_movement_running",
+    "term": "running",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "movement",
+    "labels": [
+      "running"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Mid-run, in motion. Prompt hint: running, caught mid-stride in motion"
+  },
+  {
+    "id": "pose_movement_jumping",
+    "term": "mid-jump",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "movement",
+    "labels": [
+      "jumping"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Airborne, mid-jump. Prompt hint: mid-jump, suspended in the air"
+  },
+  {
+    "id": "pose_movement_dancing",
+    "term": "dancing",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "movement",
+    "labels": [
+      "dancing"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Caught mid-dance. Prompt hint: dancing, caught in mid-movement with fluid grace"
+  },
+  {
+    "id": "pose_movement_climbing",
+    "term": "climbing with arms extended",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "movement",
+    "labels": [
+      "climbing"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Climbing, gripping upward. Prompt hint: climbing with arms extended, gripping upward"
+  },
+  {
+    "id": "pose_movement_mid_fall",
+    "term": "caught mid-fall through the air",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "movement",
+    "labels": [
+      "mid-fall"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Caught mid-fall through the air. Prompt hint: caught mid-fall through the air, limbs loose, hair and clothing trailing"
+  },
+  {
+    "id": "pose_movement_mid_spin",
+    "term": "twirling mid-spin with hair and clothing fanning outward",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "movement",
+    "labels": [
+      "mid-spin"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Twirling, mid-rotation. Prompt hint: twirling mid-spin with hair and clothing fanning outward"
+  },
+  {
+    "id": "pose_movement_stretching",
+    "term": "in a full-body stretch with both arms reaching overhead",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "movement",
+    "labels": [
+      "stretching"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Full-body stretch, arms overhead. Prompt hint: in a full-body stretch with both arms reaching overhead"
+  },
+  {
+    "id": "pose_movement_reaching_up",
+    "term": "one or both arms extended overhead",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "movement",
+    "labels": [
+      "reaching-up"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Arms extended overhead. Prompt hint: one or both arms extended overhead, reaching upward"
+  },
+  {
+    "id": "pose_movement_kissing",
+    "term": "locked in a kiss",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "movement",
+    "labels": [
+      "kissing"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Locked in a kiss. Prompt hint: locked in a kiss, faces close and eyes closed"
+  },
+  {
+    "id": "pose_movement_riding",
+    "term": "riding astride",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "movement",
+    "labels": [
+      "riding"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Riding a bike, horse, or motorcycle. Prompt hint: riding astride a bike, horse, or motorcycle, hands gripping forward"
+  },
+  {
+    "id": "pose_movement_driving",
+    "term": "driving, hands on the wheel",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "movement",
+    "labels": [
+      "driving"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Behind the wheel of a vehicle. Prompt hint: behind the wheel of a vehicle, hands on the steering wheel, gaze forward"
+  },
+  {
+    "id": "pose_action_fighting_stance",
+    "term": "in a combat-ready fighting stance",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "action",
+    "labels": [
+      "fighting-stance"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Combat-ready stance. Prompt hint: in a combat-ready fighting stance, tensed and focused"
+  },
+  {
+    "id": "pose_action_reaching",
+    "term": "reaching outward, arm extended",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "action",
+    "labels": [
+      "reaching"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Reaching outward. Prompt hint: reaching outward with one arm extended"
+  },
+  {
+    "id": "pose_action_throwing",
+    "term": "caught mid-throw",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "action",
+    "labels": [
+      "throwing"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Mid-throw motion. Prompt hint: caught mid-throw, body coiled and releasing"
+  },
+  {
+    "id": "pose_action_leaping",
+    "term": "leaping forward dynamically with body extended",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "action",
+    "labels": [
+      "leaping"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Leaping forward dynamically. Prompt hint: leaping forward dynamically with body extended"
+  },
+  {
+    "id": "pose_action_dramatic_action",
+    "term": "dramatic exaggerated action pose",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "action",
+    "labels": [
+      "dramatic-action"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Exaggerated action pose. Prompt hint: in a dramatic, exaggerated action pose full of motion"
+  },
+  {
+    "id": "pose_action_biting_lip",
+    "term": "biting lower lip",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "action",
+    "labels": [
+      "biting-lip"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Slight playful lip-bite. Prompt hint: lightly biting the lower lip, a subtle playful expression"
+  },
+  {
+    "id": "pose_action_mid_laugh",
+    "term": "caught mid-laugh with head tipped back",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "action",
+    "labels": [
+      "mid-laugh"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Caught mid-laugh, head back. Prompt hint: caught mid-laugh with head tipped back, eyes crinkled"
+  },
+  {
+    "id": "pose_action_pointing_at_camera",
+    "term": "pointing directly at the camera",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "action",
+    "labels": [
+      "pointing-at-camera"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Pointing directly at camera. Prompt hint: pointing one finger directly at the camera, arm extended"
+  },
+  {
+    "id": "pose_action_tongue_out",
+    "term": "sticking the tongue out playfully",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "action",
+    "labels": [
+      "tongue-out"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Playful tongue-out expression. Prompt hint: sticking the tongue out playfully"
+  },
+  {
+    "id": "pose_action_thinking",
+    "term": "thinking pose, hand on chin",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "action",
+    "labels": [
+      "thinking"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hand on chin, contemplative. Prompt hint: in a thinking pose with hand on chin, gaze contemplative"
+  },
+  {
+    "id": "pose_resting_lying_down",
+    "term": "lying down flat",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "resting",
+    "labels": [
+      "lying-down"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Lying flat. Prompt hint: lying down flat, relaxed"
+  },
+  {
+    "id": "pose_resting_sleeping",
+    "term": "sleeping peacefully with eyes closed",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "resting",
+    "labels": [
+      "sleeping"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Eyes closed, sleeping. Prompt hint: sleeping peacefully with eyes closed"
+  },
+  {
+    "id": "pose_resting_hugging",
+    "term": "hugging or embracing another person",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "resting",
+    "labels": [
+      "hugging"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Embracing another. Prompt hint: hugging or embracing another person"
+  },
+  {
+    "id": "pose_resting_looking_away",
+    "term": "head turned",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "resting",
+    "labels": [
+      "looking-away"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Head turned, looking away. Prompt hint: head turned, looking off away from the camera"
+  },
+  {
+    "id": "pose_resting_looking_up",
+    "term": "gazing upward at the sky or off-camera",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "resting",
+    "labels": [
+      "looking-up"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Gazing up at the sky. Prompt hint: gazing upward at the sky or off-camera, chin slightly raised"
+  },
+  {
+    "id": "pose_resting_looking_down",
+    "term": "eyes downcast",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "resting",
+    "labels": [
+      "looking-down"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Eyes downcast. Prompt hint: eyes downcast, gaze turned softly to the ground"
+  },
+  {
+    "id": "pose_resting_head_over_shoulder",
+    "term": "looking back over the shoulder",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "resting",
+    "labels": [
+      "head-over-shoulder"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Looking back over shoulder. Prompt hint: head turned to look back over one shoulder toward the camera"
+  },
+  {
+    "id": "pose_resting_wading_in_water",
+    "term": "wading mid-thigh deep through water",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "resting",
+    "labels": [
+      "wading-in-water"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Wading mid-thigh deep in water. Prompt hint: wading mid-thigh deep through water, ripples around the legs"
+  },
+  {
+    "id": "pose_hand-position_hands_in_pockets",
+    "term": "with both hands tucked into pockets",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "hand-position",
+    "labels": [
+      "hands-in-pockets"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Both hands tucked in pockets. Prompt hint: with both hands tucked into pockets"
+  },
+  {
+    "id": "pose_hand-position_hand_on_hip",
+    "term": "with one hand resting on the hip",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "hand-position",
+    "labels": [
+      "hand-on-hip"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: One hand on hip. Prompt hint: with one hand resting on the hip"
+  },
+  {
+    "id": "pose_hand-position_hand_position_hands_on_hips",
+    "term": "both hands planted on the hips",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "hand-position",
+    "labels": [
+      "hand-position-hands-on-hips"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Both hands on hips. Prompt hint: with both hands planted on the hips"
+  },
+  {
+    "id": "pose_hand-position_hand_on_chin",
+    "term": "with one hand resting under the chin",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "hand-position",
+    "labels": [
+      "hand-on-chin"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hand resting under the chin. Prompt hint: with one hand resting under the chin, fingers framing the jaw"
+  },
+  {
+    "id": "pose_hand-position_hand_on_collarbone",
+    "term": "with one hand resting lightly across the collarbone",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "hand-position",
+    "labels": [
+      "hand-on-collarbone"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hand resting across collarbone. Prompt hint: with one hand resting lightly across the collarbone"
+  },
+  {
+    "id": "pose_hand-position_hand_brushing_hair",
+    "term": "hand running through the hair",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "hand-position",
+    "labels": [
+      "hand-brushing-hair"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hand running through the hair. Prompt hint: with a hand running through the hair, fingers caught mid-strand"
+  },
+  {
+    "id": "pose_hand-position_finger_to_lip",
+    "term": "fingertip pressed to the lower lip",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "hand-position",
+    "labels": [
+      "finger-to-lip"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Fingertip pressed against lower lip. Prompt hint: with one fingertip pressed gently against the lower lip"
+  },
+  {
+    "id": "pose_hand-position_arms_wrapped_around_self",
+    "term": "arms wrapped around the torso",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "hand-position",
+    "labels": [
+      "arms-wrapped-around-self"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Self-hug, arms around torso. Prompt hint: arms wrapped around the torso in a self-hug"
+  },
+  {
+    "id": "pose_hand-position_hands_clasped",
+    "term": "hands clasped in front",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "hand-position",
+    "labels": [
+      "hands-clasped"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Both hands clasped at the front. Prompt hint: with both hands clasped at the front"
+  },
+  {
+    "id": "pose_body-lean_leaning_back",
+    "term": "torso leaning slightly back",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "body-lean",
+    "labels": [
+      "leaning-back"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Torso leaning back slightly. Prompt hint: with the torso leaning back at a slight backward angle"
+  },
+  {
+    "id": "pose_body-lean_leaning_forward",
+    "term": "torso leaning forward",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "body-lean",
+    "labels": [
+      "leaning-forward"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Torso leaning toward camera. Prompt hint: with the torso leaning forward toward the camera"
+  },
+  {
+    "id": "pose_body-lean_body_lean_contrapposto",
+    "term": "contrapposto, hip pushed out",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "body-lean",
+    "labels": [
+      "body-lean-contrapposto"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Weight on one leg, hip pushed out. Prompt hint: with the weight on one leg and one hip pushed out, classical contrapposto"
+  },
+  {
+    "id": "pose_body-lean_arched_back",
+    "term": "with the back gently arched",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "body-lean",
+    "labels": [
+      "arched-back"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Back gently arched, chest forward. Prompt hint: with the back gently arched, chest forward"
+  },
+  {
+    "id": "pose_body-lean_shoulder_rolled_forward",
+    "term": "one shoulder rolled forward",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "body-lean",
+    "labels": [
+      "shoulder-rolled-forward"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: One shoulder rolled forward. Prompt hint: with one shoulder rolled forward, asymmetric stance"
+  },
+  {
+    "id": "pose_head-tilt_tilted_up",
+    "term": "head tipped slightly up",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "head-tilt",
+    "labels": [
+      "tilted-up"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Head tipped slightly upward. Prompt hint: with the head tipped slightly upward"
+  },
+  {
+    "id": "pose_head-tilt_tilted_down",
+    "term": "head tipped slightly down",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "head-tilt",
+    "labels": [
+      "tilted-down"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Head tipped slightly downward. Prompt hint: with the head tipped slightly downward"
+  },
+  {
+    "id": "pose_head-tilt_tilted_side",
+    "term": "head tilted toward one shoulder",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "head-tilt",
+    "labels": [
+      "tilted-side"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Head tilted toward shoulder. Prompt hint: with the head tilted toward one shoulder"
+  },
+  {
+    "id": "pose_head-tilt_tilted_back",
+    "term": "head tipped fully back",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "head-tilt",
+    "labels": [
+      "tilted-back"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Head fully back, throat exposed. Prompt hint: with the head tipped fully back, exposing the throat"
+  },
+  {
+    "id": "pose_head-tilt_chin_up",
+    "term": "chin lifted",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "head-tilt",
+    "labels": [
+      "chin-up"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Chin lifted, looking down nose. Prompt hint: with the chin lifted, looking down the nose"
+  },
+  {
+    "id": "pose_head-tilt_chin_tucked",
+    "term": "with the chin tucked toward the chest",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "head-tilt",
+    "labels": [
+      "chin-tucked"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Chin tucked toward chest. Prompt hint: with the chin tucked toward the chest"
+  },
+  {
+    "id": "pose_activity_activity_smoking",
+    "term": "smoking a cigarette",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "activity",
+    "labels": [
+      "activity-smoking"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Holding and smoking a cigarette. Prompt hint: holding and smoking a cigarette, smoke curling up from the lit tip"
+  },
+  {
+    "id": "pose_activity_activity_drinking",
+    "term": "drinking from a glass",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "activity",
+    "labels": [
+      "activity-drinking"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Drinking from a glass or cup. Prompt hint: raising a glass or cup to the lips and drinking from it"
+  },
+  {
+    "id": "pose_activity_activity_eating",
+    "term": "caught mid-bite",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "activity",
+    "labels": [
+      "activity-eating"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Caught mid-bite. Prompt hint: caught mid-bite, eating with a piece of food halfway to the mouth"
+  },
+  {
+    "id": "pose_activity_activity_talking_on_phone",
+    "term": "talking on the phone",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "activity",
+    "labels": [
+      "activity-talking-on-phone"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Phone held to ear, speaking. Prompt hint: holding a phone to one ear and speaking into it, eyes focused mid-conversation"
+  },
+  {
+    "id": "pose_activity_activity_texting",
+    "term": "looking down at a phone held in both hands",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "activity",
+    "labels": [
+      "activity-texting"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Looking down at phone, thumbs typing. Prompt hint: looking down at a phone held in both hands, thumbs busy typing a message"
+  },
+  {
+    "id": "pose_activity_activity_typing_laptop",
+    "term": "typing on a laptop",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "activity",
+    "labels": [
+      "activity-typing-laptop"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hands on keyboard, focused on screen. Prompt hint: typing at a laptop with hands on the keyboard, focused on the glowing screen"
+  },
+  {
+    "id": "pose_activity_activity_reading",
+    "term": "holding open a book or magazine in both hands",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "activity",
+    "labels": [
+      "activity-reading"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Holding open a book or magazine. Prompt hint: holding open a book or magazine in both hands, eyes following the page"
+  },
+  {
+    "id": "pose_activity_activity_writing",
+    "term": "writing in a notebook",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "activity",
+    "labels": [
+      "activity-writing"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Writing in a notebook with a pen. Prompt hint: writing in a notebook, pen in hand, head bent slightly over the page"
+  },
+  {
+    "id": "pose_activity_activity_painting",
+    "term": "painting on a canvas",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "activity",
+    "labels": [
+      "activity-painting"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Painting on a canvas with a brush. Prompt hint: painting on a canvas, brush in hand mid-stroke, palette held in the other"
+  },
+  {
+    "id": "pose_activity_activity_playing_instrument",
+    "term": "playing a musical instrument",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "activity",
+    "labels": [
+      "activity-playing-instrument"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Playing a musical instrument. Prompt hint: playing a musical instrument, hands and fingers engaged with strings or keys, fully absorbed in the performance"
+  },
+  {
+    "id": "pose_activity_activity_cooking",
+    "term": "cooking at a kitchen counter or stove",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "activity",
+    "labels": [
+      "activity-cooking"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cooking at a kitchen counter or stove. Prompt hint: cooking at a kitchen counter or stove, hands actively working with food, steam rising from a pan"
+  },
+  {
+    "id": "pose_activity_activity_driving",
+    "term": "behind the wheel of a vehicle",
+    "term_zh": "",
+    "category": "pose",
+    "subcategory": "activity",
+    "labels": [
+      "activity-driving"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Behind the wheel, hands gripping. Prompt hint: behind the wheel of a vehicle, both hands on the steering wheel, gaze fixed on the road ahead"
+  }
+]

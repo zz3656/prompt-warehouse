@@ -1,0 +1,1325 @@
+[
+  {
+    "id": "photographer_editorial_tim_walker",
+    "term": "by tim walker, painterly fairytale fashion",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "tim-walker"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Painterly fairytale fashion. Prompt hint: in the style of Tim Walker, painterly fairytale fashion staging with elaborate hand-built sets and a soft pastel palette"
+  },
+  {
+    "id": "photographer_editorial_paolo_roversi",
+    "term": "by paolo roversi, soft ethereal polaroid glow",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "paolo-roversi"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Soft, ethereal Polaroid glow. Prompt hint: in the style of Paolo Roversi, soft ethereal Polaroid glow with diffused window light and a warm milky bath"
+  },
+  {
+    "id": "photographer_editorial_marta_bevacqua",
+    "term": "by marta bevacqua, dreamy painterly portraiture",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "marta-bevacqua"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Dreamy painterly portraiture. Prompt hint: in the style of Marta Bevacqua, dreamy painterly portraiture with hushed natural light and faintly desaturated skin tones"
+  },
+  {
+    "id": "photographer_editorial_patrick_demarchelier",
+    "term": "by patrick demarchelier, refined classic fashion",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "patrick-demarchelier"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Refined classic fashion portrait. Prompt hint: in the style of Patrick Demarchelier, refined classic fashion portraiture with crisp catchlights and timeless restraint"
+  },
+  {
+    "id": "photographer_editorial_nick_knight",
+    "term": "by nick knight, high-gloss avant-garde fashion",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "nick-knight"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: High-gloss avant-garde fashion. Prompt hint: in the style of Nick Knight, high-gloss avant-garde fashion with saturated color, precision sharpness and surreal staging"
+  },
+  {
+    "id": "photographer_editorial_mario_testino",
+    "term": "by mario testino, glamorous sun-soaked fashion",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "mario-testino"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Glamorous, sun-soaked fashion. Prompt hint: in the style of Mario Testino, glamorous sun-soaked fashion energy with confident posing and bright editorial color"
+  },
+  {
+    "id": "photographer_editorial_steven_meisel",
+    "term": "by steven meisel, polished mid-century editorial",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "steven-meisel"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Polished mid-century editorial. Prompt hint: in the style of Steven Meisel, polished mid-century editorial portraiture with controlled studio light and meticulous styling"
+  },
+  {
+    "id": "photographer_editorial_helmut_newton",
+    "term": "by helmut newton, hard-flash monochrome glamour",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "helmut-newton"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Bold black-and-white provocation. Prompt hint: in the style of Helmut Newton, bold black-and-white provocation with hard flash, deep shadows and architectural composition"
+  },
+  {
+    "id": "photographer_editorial_mario_sorrenti",
+    "term": "by mario sorrenti, intimate grainy fashion",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "mario-sorrenti"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Intimate, grainy fashion. Prompt hint: in the style of Mario Sorrenti, intimate grainy fashion photography with raw natural light and confessional closeness"
+  },
+  {
+    "id": "photographer_editorial_annie_leibovitz",
+    "term": "by annie leibovitz, cinematic celebrity portraiture",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "annie-leibovitz"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cinematic celebrity portrait. Prompt hint: in the style of Annie Leibovitz, cinematic celebrity portraiture with theatrical staging and warm dimensional lighting"
+  },
+  {
+    "id": "photographer_editorial_felicia_simion",
+    "term": "by felicia simion, surreal pastoral fine art",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "felicia-simion"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Surreal pastoral fine art. Prompt hint: in the style of Felicia Simion, surreal pastoral fine-art photography with quiet symbolism and a muted earthy palette"
+  },
+  {
+    "id": "photographer_editorial_oleg_oprisco",
+    "term": "by oleg oprisco, cinematic film-grain storytelling",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "oleg-oprisco"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cinematic film-grain storytelling. Prompt hint: in the style of Oleg Oprisco, cinematic film-grain storytelling with painterly costuming and analogue color casts"
+  },
+  {
+    "id": "photographer_editorial_bella_kotak",
+    "term": "by bella kotak, fantasy-folkloric portraiture",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "bella-kotak"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Magical, fantasy-folkloric portraiture. Prompt hint: in the style of Bella Kotak, magical fantasy-folkloric portraiture with golden light, florals and rich painterly grading"
+  },
+  {
+    "id": "photographer_editorial_yigal_ozeri",
+    "term": "by yigal ozeri, hyperreal painted portraiture",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "yigal-ozeri"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hyperreal painted portrait. Prompt hint: in the style of Yigal Ozeri, hyperreal painted portraiture with luminous skin and dappled forest light"
+  },
+  {
+    "id": "photographer_editorial_jimmy_marble",
+    "term": "by jimmy marble, pastel candy-bright editorial",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "jimmy-marble"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Pastel, candy-bright editorial. Prompt hint: in the style of Jimmy Marble, pastel candy-bright editorial photography with playful color blocking and clean studio shapes"
+  },
+  {
+    "id": "photographer_editorial_rinko_kawauchi",
+    "term": "by rinko kawauchi, quiet light-suffused everyday",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "rinko-kawauchi"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Quiet, light-suffused everyday. Prompt hint: in the style of Rinko Kawauchi, quiet light-suffused everyday photography with a dreamy pastel haze and gentle overexposure"
+  },
+  {
+    "id": "photographer_editorial_ellen_von_unwerth",
+    "term": "by ellen von unwerth, playful retro pin-up",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "ellen-von-unwerth"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Playful retro pin-up energy. Prompt hint: in the style of Ellen von Unwerth, playful retro pin-up energy with monochrome flash and mischievous body language"
+  },
+  {
+    "id": "photographer_editorial_mapplethorpe",
+    "term": "by robert mapplethorpe, formalist studio monochrome",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "mapplethorpe"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Formalist B&W studio nudes and flowers. Prompt hint: in the style of Robert Mapplethorpe, strict formalist black-and-white studio portraiture with dramatic chiaroscuro lighting, sculpted classical nudes and tightly controlled lily and orchid still lifes"
+  },
+  {
+    "id": "photographer_editorial_sherman",
+    "term": "by cindy sherman, staged conceptual film-still portraiture",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "sherman"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Conceptual self-portrait character study. Prompt hint: in the style of Cindy Sherman, staged conceptual self-portraiture with costumed character studies, film-still references and a dispassionate often unsettling gaze"
+  },
+  {
+    "id": "photographer_editorial_crewdson",
+    "term": "by gregory crewdson, cinematic suburban tableau",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "crewdson"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cinematic suburban dread tableau. Prompt hint: in the style of Gregory Crewdson, large-format staged tableau of suburban dread with hyper-cinematic twilight blue-hour lighting and every detail meticulously composed"
+  },
+  {
+    "id": "photographer_editorial_lachapelle",
+    "term": "by david lachapelle, hyper-saturated surrealist camp",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "lachapelle"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Surreal hyper-saturated celebrity camp. Prompt hint: in the style of David LaChapelle, hyper-saturated surrealist celebrity tableau with religious iconography, candy-gloss color and theatrical excess"
+  },
+  {
+    "id": "photographer_editorial_klein",
+    "term": "by steven klein, hard-edged fashion glamour",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "klein"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hard-edged glamour and controlled aggression. Prompt hint: in the style of Steven Klein, hard-edged high-fashion glamour with leather and latex wardrobe, dramatic shadowed lighting and a charge of controlled aggression"
+  },
+  {
+    "id": "photographer_editorial_lindbergh",
+    "term": "by peter lindbergh, minimalist monochrome fashion",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "lindbergh"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Minimalist B&W natural-light fashion. Prompt hint: in the style of Peter Lindbergh, minimalist black-and-white fashion in natural light with bare makeup, supermodel-era documentary feel, windswept beach settings and untouched skin"
+  },
+  {
+    "id": "photographer_editorial_tillmans",
+    "term": "by wolfgang tillmans, candid on-camera-flash snapshot",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "tillmans"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Candid queer intimacy and casual flash. Prompt hint: in the style of Wolfgang Tillmans, democratic mix of intimate snapshot portraiture and abstract still life with casual on-camera flash and party, club and nightlife candor"
+  },
+  {
+    "id": "photographer_editorial_teller",
+    "term": "by juergen teller, deadpan direct-flash snapshot",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "teller"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Anti-glamour direct-flash snapshot. Prompt hint: in the style of Juergen Teller, direct on-camera flash snapshot fashion with deadpan unfiltered models, anti-airbrush rawness and an awkward off-kilter staging"
+  },
+  {
+    "id": "photographer_editorial_penn",
+    "term": "by irving penn, austere mid-century studio portraiture",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "penn"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Austere mid-century studio portrait. Prompt hint: in the style of Irving Penn, austere mid-century studio portraiture against a commanding gray seamless backdrop with controlled grace, sculptural fashion staging and refined still-life precision"
+  },
+  {
+    "id": "photographer_editorial_mcginley",
+    "term": "by ryan mcginley, sun-flared candid youth",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "mcginley"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Naturalistic youth + nudity in landscape, sun-flared candid. Prompt hint: shot in the language of Ryan McGinley, naturalistic youth and nudity roaming through open landscape, sun-flared candid 35mm with euphoric movement and unposed freedom"
+  },
+  {
+    "id": "photographer_editorial_mitchell",
+    "term": "by tyler mitchell, soft-light contemporary portraiture",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "mitchell"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Contemporary Black portraiture, soft natural light, fashion-meets-documentary. Prompt hint: shot in the language of Tyler Mitchell, contemporary Black portraiture in soft natural light with a fashion-meets-documentary tenderness, pastel wardrobe and sun-warmed skin"
+  },
+  {
+    "id": "photographer_editorial_collins",
+    "term": "by petra collins, dreamy pink-saturated 35mm",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "collins"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Pink-saturated dreamy female-gaze fashion, hazy 35mm. Prompt hint: shot in the language of Petra Collins, dreamy pink-saturated female-gaze fashion, hazy 35mm grain, soft window light"
+  },
+  {
+    "id": "photographer_editorial_weston",
+    "term": "by edward weston, modernist monochrome still life",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "weston"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Modernist B&W still life, sculptural nudes, sharp formalism. Prompt hint: in the style of Edward Weston, modernist black-and-white still life and sculptural nudes with sharp formalism, large-format clarity and sensuous tonal gradation"
+  },
+  {
+    "id": "photographer_editorial_beaton",
+    "term": "by cecil beaton, theatrical hollywood-era portraiture",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "editorial",
+    "labels": [
+      "beaton"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Classical Hollywood-era portraiture, theatrical staging, opulent backdrops. Prompt hint: in the style of Cecil Beaton, classical Hollywood-era portraiture with theatrical staging, opulent painted backdrops and elegant silver-screen glamour"
+  },
+  {
+    "id": "photographer_documentary_henri_cartier_bresson",
+    "term": "by henri cartier-bresson, decisive-moment street",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "documentary",
+    "labels": [
+      "henri-cartier-bresson"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Decisive-moment street photography. Prompt hint: in the style of Henri Cartier-Bresson, decisive-moment black-and-white street photography with geometric framing and natural light"
+  },
+  {
+    "id": "photographer_documentary_vivian_maier",
+    "term": "by vivian maier, mid-century american street",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "documentary",
+    "labels": [
+      "vivian-maier"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Mid-century American street. Prompt hint: in the style of Vivian Maier, mid-century American street photography with square format, observed candor and silver-rich blacks"
+  },
+  {
+    "id": "photographer_documentary_saul_leiter",
+    "term": "by saul leiter, painterly color street",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "documentary",
+    "labels": [
+      "saul-leiter"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Painterly color street through glass. Prompt hint: in the style of Saul Leiter, painterly color street photography seen through fogged glass and rain, with abstract layered framing"
+  },
+  {
+    "id": "photographer_documentary_daido_moriyama",
+    "term": "by daido moriyama, grainy high-contrast street",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "documentary",
+    "labels": [
+      "daido-moriyama"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Grainy, high-contrast Tokyo street. Prompt hint: in the style of Daido Moriyama, grainy high-contrast Tokyo street photography with blown highlights and a restless handheld feel"
+  },
+  {
+    "id": "photographer_documentary_robert_capa",
+    "term": "by robert capa, visceral combat photojournalism",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "documentary",
+    "labels": [
+      "robert-capa"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Visceral combat photojournalism. Prompt hint: in the style of Robert Capa, visceral combat photojournalism with motion blur, gritty grain and an immediate handheld viewpoint"
+  },
+  {
+    "id": "photographer_documentary_sebastiao_salgado",
+    "term": "by sebastiao salgado, epic monochrome documentary",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "documentary",
+    "labels": [
+      "sebastiao-salgado"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Epic monochrome social documentary. Prompt hint: in the style of Sebastiao Salgado, epic monochrome social documentary with sweeping landscape scale and chiaroscuro tonality"
+  },
+  {
+    "id": "photographer_documentary_diane_arbus",
+    "term": "by diane arbus, stark confrontational portraiture",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "documentary",
+    "labels": [
+      "diane-arbus"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Stark, confrontational portrait. Prompt hint: in the style of Diane Arbus, stark confrontational portraiture with direct gaze, square format and unflinching daylight"
+  },
+  {
+    "id": "photographer_cinematographer_roger_deakins",
+    "term": "shot by roger deakins, painterly natural light",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "cinematographer",
+    "labels": [
+      "roger-deakins"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Painterly cinematic naturalism. Prompt hint: in the cinematic style of Roger Deakins, painterly natural light with carved silhouettes, deep negative space and restrained color"
+  },
+  {
+    "id": "photographer_cinematographer_emmanuel_lubezki",
+    "term": "shot by emmanuel lubezki, floating natural-light immersion",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "cinematographer",
+    "labels": [
+      "emmanuel-lubezki"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Floating natural-light cinematography. Prompt hint: in the cinematic style of Emmanuel Lubezki, floating handheld natural-light cinematography with golden-hour glow and wide-lens immersion"
+  },
+  {
+    "id": "photographer_cinematographer_greig_fraser",
+    "term": "shot by greig fraser, tactile anamorphic cinematography",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "cinematographer",
+    "labels": [
+      "greig-fraser"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Rich tactile genre cinematography. Prompt hint: in the cinematic style of Greig Fraser, rich tactile genre cinematography with anamorphic flares, deep blacks and atmospheric haze"
+  },
+  {
+    "id": "photographer_cinematographer_christopher_doyle",
+    "term": "shot by christopher doyle, saturated handheld neon",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "cinematographer",
+    "labels": [
+      "christopher-doyle"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Saturated handheld neon mood. Prompt hint: in the cinematic style of Christopher Doyle, saturated handheld neon mood with smeared light trails and dreamy slow-shutter blur"
+  },
+  {
+    "id": "photographer_concept_greg_rutkowski",
+    "term": "by greg rutkowski, epic painterly fantasy concept art",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "concept",
+    "labels": [
+      "greg-rutkowski"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Epic painterly fantasy concept. Prompt hint: in the style of Greg Rutkowski, epic painterly fantasy concept art with sweeping composition, dramatic god-rays and oil-painting brushwork"
+  },
+  {
+    "id": "photographer_concept_magali_villeneuve",
+    "term": "by magali villeneuve, heroic fantasy character art",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "concept",
+    "labels": [
+      "magali-villeneuve"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Heroic fantasy character art. Prompt hint: in the style of Magali Villeneuve, heroic fantasy character art with detailed armor, painterly skin and warm golden lighting"
+  },
+  {
+    "id": "photographer_concept_charlie_bowater",
+    "term": "by charlie bowater, atmospheric digital portraiture",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "concept",
+    "labels": [
+      "charlie-bowater"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Atmospheric digital portraiture. Prompt hint: in the style of Charlie Bowater, atmospheric digital portraiture with painterly textures, moody color and intimate close framing"
+  },
+  {
+    "id": "photographer_concept_sam_spratt",
+    "term": "by sam spratt, allegorical hyperreal portraiture",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "concept",
+    "labels": [
+      "sam-spratt"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Allegorical hyperreal portrait. Prompt hint: in the style of Sam Spratt, allegorical hyperreal portraiture with sculpted lighting, symbolic detail and old-master tonal depth"
+  },
+  {
+    "id": "photographer_concept_ruan_jia",
+    "term": "by ruan jia, lush painterly fantasy portraiture",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "concept",
+    "labels": [
+      "ruan-jia"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Lush painterly fantasy portrait. Prompt hint: in the style of Ruan Jia, lush painterly fantasy portraiture with rich fabrics, gilded accents and warm directional light"
+  },
+  {
+    "id": "photographer_concept_ilya_kuvshinov",
+    "term": "by ilya kuvshinov, anime-inflected stylized portrait",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "concept",
+    "labels": [
+      "ilya-kuvshinov"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Anime-inflected stylized portrait. Prompt hint: in the style of Ilya Kuvshinov, anime-inflected stylized portraiture with soft cell-shading, oversized eyes and pastel rim light"
+  },
+  {
+    "id": "photographer_concept_wlop",
+    "term": "by wlop, ethereal painterly fantasy portraiture",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "concept",
+    "labels": [
+      "wlop"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Ethereal painterly fantasy. Prompt hint: in the style of WLOP, ethereal painterly fantasy portraiture with flowing hair, glowing rim light and a cool monochromatic palette"
+  },
+  {
+    "id": "photographer_concept_artgerm",
+    "term": "by artgerm, polished comic-book pinup illustration",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "concept",
+    "labels": [
+      "artgerm"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Polished comic-book-inspired pinup. Prompt hint: in the style of Artgerm, polished comic-book-inspired pinup illustration with smooth gradients and crisp graphic edge highlights"
+  },
+  {
+    "id": "photographer_illustrator_makoto_shinkai",
+    "term": "by makoto shinkai, luminous cinematic anime skies",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "illustrator",
+    "labels": [
+      "makoto-shinkai"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cinematic anime sky and light. Prompt hint: in the style of Makoto Shinkai, cinematic anime sky and light with luminous clouds, lens-flared sun and saturated dusk gradients"
+  },
+  {
+    "id": "photographer_illustrator_studio_ghibli",
+    "term": "by studio ghibli, hand-painted animation warmth",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "illustrator",
+    "labels": [
+      "studio-ghibli"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hand-painted Ghibli warmth. Prompt hint: in the style of Studio Ghibli, hand-painted animation warmth with soft pastel skies, lush vegetation and gentle character expressions"
+  },
+  {
+    "id": "photographer_illustrator_alphonse_mucha",
+    "term": "by alphonse mucha, art-nouveau decorative panel",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "illustrator",
+    "labels": [
+      "alphonse-mucha"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Art-nouveau decorative panel. Prompt hint: in the style of Alphonse Mucha, art-nouveau decorative panel with ornamental floral borders, flowing hair and warm gilded tones"
+  },
+  {
+    "id": "photographer_illustrator_carne_griffiths",
+    "term": "by carne griffiths, ink-bleed botanical portraiture",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "illustrator",
+    "labels": [
+      "carne-griffiths"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Ink-bleed botanical portrait. Prompt hint: in the style of Carne Griffiths, ink-bleed botanical portraiture with calligraphic linework, splashed tea washes and tangled florals"
+  },
+  {
+    "id": "photographer_illustrator_conrad_roset",
+    "term": "by conrad roset, gentle watercolor figure",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "illustrator",
+    "labels": [
+      "conrad-roset"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Gentle watercolor figure. Prompt hint: in the style of Conrad Roset, gentle watercolor figure illustration with soft graphite line, blooming pigment and pale skin tones"
+  },
+  {
+    "id": "photographer_illustrator_akihito_yoshida",
+    "term": "by akihito yoshida, quiet ink-and-grain monochrome",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "illustrator",
+    "labels": [
+      "akihito-yoshida"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Quiet ink-and-grain monochrome. Prompt hint: in the style of Akihito Yoshida, quiet ink-and-grain monochrome portraiture with sketchy line and contemplative negative space"
+  },
+  {
+    "id": "photographer_illustrator_karol_bak",
+    "term": "by karol bak, symbolist gilded muse",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "illustrator",
+    "labels": [
+      "karol-bak"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Symbolist painted muse. Prompt hint: in the style of Karol Bak, symbolist painted muse with gilded-leaf accents, art-nouveau ornament and warm earthen pigment"
+  },
+  {
+    "id": "photographer_illustrator_ismail_inceoglu",
+    "term": "by ismail inceoglu, mythic painterly landscape",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "illustrator",
+    "labels": [
+      "ismail-inceoglu"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Mythic painterly landscape. Prompt hint: in the style of Ismail Inceoglu, mythic painterly landscape with monumental scale, layered atmospheric haze and storybook lighting"
+  },
+  {
+    "id": "photographer_illustrator_stefan_gesell",
+    "term": "by stefan gesell, dark surreal portraiture",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "illustrator",
+    "labels": [
+      "stefan-gesell"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Dark surreal portraiture. Prompt hint: in the style of Stefan Gesell, dark surreal portraiture with high-contrast monochrome, masked figures and uneasy theatrical lighting"
+  },
+  {
+    "id": "photographer_illustrator_andrew_atroshenko",
+    "term": "by andrew atroshenko, romantic impressionist figure",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "illustrator",
+    "labels": [
+      "andrew-atroshenko"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Romantic impressionist figure. Prompt hint: in the style of Andrew Atroshenko, romantic impressionist figure painting with loose visible brushwork and shimmering candlelight"
+  },
+  {
+    "id": "photographer_illustrator_peter_gric",
+    "term": "by peter gric, architectural surrealist landscape",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "illustrator",
+    "labels": [
+      "peter-gric"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Architectural surrealist landscape. Prompt hint: in the style of Peter Gric, architectural surrealist landscape with crystalline geometric structures and a cool muted palette"
+  },
+  {
+    "id": "photographer_illustrator_ingrid_baars",
+    "term": "by ingrid baars, sculptural fashion-art collage",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "illustrator",
+    "labels": [
+      "ingrid-baars"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Sculptural fashion-art collage. Prompt hint: in the style of Ingrid Baars, sculptural fashion-art collage with elongated forms, smooth painted skin and ornate textile drapery"
+  },
+  {
+    "id": "photographer_illustrator_guido_van_helten",
+    "term": "by guido van helten, monumental muralist portraiture",
+    "term_zh": "",
+    "category": "photographer",
+    "subcategory": "illustrator",
+    "labels": [
+      "guido-van-helten"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Monumental muralist portrait. Prompt hint: in the style of Guido van Helten, monumental muralist portraiture with weathered concrete texture and quiet grayscale tonality"
+  }
+]
