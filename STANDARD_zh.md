@@ -4,7 +4,7 @@
 >
 > 一个统一的、与语言无关的标准，用于跨项目组织、版本控制和共享 AI 生成提示词。为漫画/手绘提示词生成而设计，适用于任何 AI 创意工具（图像、视频、文本、音乐）。
 >
-> **仓库地址**: https://github.com/[org]/prompt-warehouse
+> **仓库地址**: https://github.com/zz3656/prompt-warehouse
 > **许可证**: MIT
 
 ---

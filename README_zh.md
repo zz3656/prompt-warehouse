@@ -4,7 +4,7 @@
 
 > **pws v1.0** | **简体中文** | [English](README_en.md)
 >
-> **仓库地址**: https://github.com/[org]/prompt-warehouse
+> **仓库地址**: https://github.com/zz3656/prompt-warehouse
 > **许可证**: MIT
 
 ---
@@ -383,7 +383,25 @@ MIT 许可证 — 详见 [STANDARD_zh.md](STANDARD_zh.md)。
 - **模板结构**: [schema/template.schema.json](schema/template.schema.json)
 - **项目结构**: [schema/project.schema.json](schema/project.schema.json)
 - **元数据**: [keywords/_meta.json](keywords/_meta.json)
-- **当前统计**: 5,545 个关键词 · 9 个分类 · 24 个模板
+- **数据来源**: 见下文
+- **当前统计**: 4,810 个关键词 · 9 个分类 · 27 个模板
+
+## 📥 数据来源（永久记录）
+
+> **如何快速了解提示词来源**：查看 `keywords/_meta.json` 的 `data_sources` 字段和每个关键词的 `source` 字段，无需重新搜索。
+
+| 来源 | 类型 | 关键词数 | 涵盖分类 |
+|------|------|----------|----------|
+| h3-comic-builder 中间件（JS 原始文件已迁移） | *已迁移* | 859 | 全部 9 类 — 这些关键词本身也来自网上收集，h3-comic-builder 只是中间层，不作为数据来源列出 |
+| [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) (12.3k stars) | GitHub | 4,600 | composition, lighting, clothing, scene, styles |
+| [Danbooru Tag Database](https://danbooru.donmai.us/wiki_pages/tag_groups) | 标签数据库 | 167 | character (发色/眼色/表情/服装/配件/姿势/特效) |
+| Danbooru Booster Tags + [Civitai](https://civitai.com) 社区 | 社区收集 | 101 | quality (质量词/渲染技术/氛围/色彩/纹理) |
+| Web 研究 — 场景与环境 | 手动整理 | 72 | scene (自然/建筑/天气/时间) |
+| Web 研究 — 艺术风格 | 手动整理 | 41 | styles (绘画风格/动漫类型/美学流派/渲染技术) |
+
+**模板来源**：见 `templates/_meta.json` 的 `data_sources` 字段。
+
+**每次数据更新的完整变更日志**：见 `keywords/_meta.json` 和 `templates/_meta.json` 的 `changelog` 字段。
 
 ---
 

@@ -1,0 +1,72 @@
+{
+  "id": "text.negative_keywords",
+  "name": "Text Generation Negative Keywords",
+  "name_zh": "文本生成负面关键词",
+  "description": "Negative keywords and anti-patterns to avoid in LLM text generation, prompt responses, and creative writing. Organized by category of degradation.",
+  "description_zh": "LLM文本生成、提示词回复和创意写作中需要避免的负面关键词和反模式。按退化类别组织。",
+  "category": "text-generation",
+  "subcategories": ["hallucination", "style-degradation", "structure-failure", "safety", "quality"],
+  "language": "en",
+  "api_targets": ["OpenAI", "Claude", "Gemini", "Custom"],
+  "lifecycle": "approved",
+  "score": 0.90,
+  "tags": ["negative", "llm", "text", "safety", "quality-control"],
+  "variables": [],
+  "variants": [
+    {
+      "id": "hallucination",
+      "description": "Negative keywords to prevent AI hallucinations and factual errors",
+      "description_zh": "防止AI幻觉和事实错误的负面关键词",
+      "template": "Avoid making up facts, citations, or details. Do not invent sources, statistics, or historical events. Do not fabricate product names, API endpoints, or documentation references. If uncertain, state 'I don't know' rather than guessing. Do not present speculation as established fact."
+    },
+    {
+      "id": "repetition",
+      "description": "Negative keywords to prevent repetitive output",
+      "description_zh": "防止重复输出的负面关键词",
+      "template": "Avoid repeating the same ideas, phrases, or sentence structures. Do not restate the user's prompt verbatim. Do not use filler phrases like 'it is important to note' or 'as previously mentioned.' Avoid circular reasoning and redundant explanations."
+    },
+    {
+      "id": "verbosity",
+      "description": "Negative keywords to prevent verbose/wordy output",
+      "description_zh": "防止冗长输出的负面关键词",
+      "template": "Avoid unnecessary verbosity and padding. Do not use overly flowery language when simple language suffices. Avoid the 'corporate speak' pattern of restating the question before answering. Do not include hand-holding phrases like 'Great question!' or 'I'd be happy to help!'"
+    },
+    {
+      "id": "conversational-padding",
+      "description": "Remove conversational filler from AI responses",
+      "description_zh": "移除AI回复中的对话性填充词",
+      "template": "Avoid: 'Sure!', 'Of course!', 'Absolutely!', 'Great question!', 'I'd be happy to help!', 'Here's what I found:', 'In today's world,' 'When it comes to,' 'It's important to note that,' 'At the end of the day,' 'In conclusion,' 'To summarize,'"
+    },
+    {
+      "id": "bias",
+      "description": "Negative keywords to prevent bias in output",
+      "description_zh": "防止输出中偏见的负面关键词",
+      "template": "Avoid gendered assumptions, stereotypical characterizations, cultural bias, ableist language, ageist assumptions, and regional bias. Do not assume profession, education level, or background based on names or demographic indicators. Use neutral, inclusive language."
+    },
+    {
+      "id": "structure",
+      "description": "Negative keywords to prevent poor output structure",
+      "description_zh": "防止输出结构不佳的负面关键词",
+      "template": "Avoid: unstructured wall-of-text responses, missing key sections, inconsistent formatting, mixed numbering systems, inconsistent heading levels, missing code block formatting, incomplete sentences, truncated responses, duplicate content blocks."
+    },
+    {
+      "id": "style",
+      "description": "Negative keywords to prevent style degradation",
+      "description_zh": "防止风格退化的负面关键词",
+      "template": "Avoid: generic language, clichés, overused phrases, Markdown header spam (excessive #), bullet point abuse (more than 10 bullets), unnecessary code blocks for non-code content, excessive use of bold/italic for emphasis, response that sounds like a press release, textbook-style writing for casual queries."
+    }
+  ],
+  "examples": [
+    {
+      "input": {"variant": "hallucination"},
+      "output": "Negative constraint for preventing AI hallucination in code/documentation queries."
+    },
+    {
+      "input": {"variant": "conversational-padding"},
+      "output": "List of conversational fillers to strip from AI responses for cleaner output."
+    }
+  ],
+  "created_at": "2026-09-29T00:00:00Z",
+  "updated_at": "2026-09-29T00:00:00Z",
+  "notes": "Negative prompt patterns for LLM output quality control. Source: curated from AI safety research, prompt engineering guides, and community best practices."
+}

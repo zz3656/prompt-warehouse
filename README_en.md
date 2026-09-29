@@ -4,7 +4,7 @@
 
 > **pws v1.0** | [简体中文](README_zh.md) | **English**
 >
-> **Repository**: https://github.com/[org]/prompt-warehouse
+> **Repository**: https://github.com/zz3656/prompt-warehouse
 > **License**: MIT
 
 ---
@@ -327,7 +327,7 @@ The warehouse follows semantic versioning:
 
 Each `_meta.json` tracks version, schema version, and changelog entries.
 
-Current version: **v1.0.3** — 5,545 keywords across 9 categories.
+Current version: **v1.0.4** — 4,810 keywords across 9 categories.
 
 ---
 
@@ -404,7 +404,25 @@ MIT License — see [STANDARD_en.md](STANDARD_en.md) for full details.
 - **Template Schema**: [schema/template.schema.json](schema/template.schema.json)
 - **Project Schema**: [schema/project.schema.json](schema/project.schema.json)
 - **Metadata**: [keywords/_meta.json](keywords/_meta.json)
-- **Current Stats**: 5,545 keywords · 9 categories · 24 templates
+- **Data Sources**: see below
+- **Current Stats**: 4,810 keywords · 9 categories · 27 templates
+
+## 📥 Data Sources (Permanent Record)
+
+> **Quick reference for prompt origins**: Check `keywords/_meta.json` `data_sources` field and each keyword's `source` field — no need to re-search.
+
+| Source | Type | Keywords | Categories |
+|--------|------|----------|------------|
+| h3-comic-builder (intermediate migration layer) | *migrated* | 859 | All 9 — these keywords also came from the web, h3-comic-builder is just an intermediate layer |
+| [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) (12.3k stars) | GitHub | 4,600 | composition, lighting, clothing, scene, styles |
+| [Danbooru Tag Database](https://danbooru.donmai.us/wiki_pages/tag_groups) | Tag database | 167 | character (hair/eye colors, expressions, clothing, accessories, poses, effects) |
+| Danbooru Booster Tags + [Civitai](https://civitai.com) community | Community collected | 101 | quality (boosters, rendering, atmosphere, color, texture) |
+| Web Research — Scene & Environment | Manual curation | 72 | scene (nature, architecture, weather, time-of-day) |
+| Web Research — Art Styles | Manual curation | 41 | styles (painting, anime genres, aesthetics, rendering) |
+
+**Template sources**: see `templates/_meta.json` `data_sources` field.
+
+**Full changelog**: see `changelog` field in `keywords/_meta.json` and `templates/_meta.json`. 
 
 ---
 

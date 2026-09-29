@@ -6,7 +6,7 @@
 > AI generation prompts across projects. Designed for comic/manga prompt generation
 > but applicable to any AI creative tool (image, video, text, music).
 >
-> **Repository**: https://github.com/[org]/prompt-warehouse
+> **Repository**: https://github.com/zz3656/prompt-warehouse
 > **License**: MIT
 
 ---

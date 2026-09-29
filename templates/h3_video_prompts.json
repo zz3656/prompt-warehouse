@@ -1,0 +1,182 @@
+{
+  "id": "h3.video_prompts",
+  "name": "H3 Video Generation Prompts",
+  "name_zh": "H3 视频生成提示词",
+  "description": "Video generation prompt templates and keywords optimized for Minimax H3 model, covering camera movement, scene transitions, character action, and cinematic styles.",
+  "description_zh": "针对 Minimax H3 模型优化的视频生成提示词模板和关键词，涵盖镜头运动、场景转换、角色动作和电影风格。",
+  "category": "video-generation",
+  "subcategories": ["camera-movement", "scene-transition", "character-action", "cinematic-style", "atmosphere"],
+  "language": "en",
+  "api_targets": ["Minimax H3"],
+  "lifecycle": "approved",
+  "score": 0.92,
+  "tags": ["h3", "minimax", "video", "cinematic", "camera", "animation"],
+  "variables": [
+    {"name": "subject", "type": "string", "required": true, "description": "Main subject of the video"},
+    {"name": "action", "type": "string", "required": true, "description": "What the subject is doing"},
+    {"name": "setting", "type": "string", "required": false, "description": "Where the scene takes place"},
+    {"name": "camera_move", "type": "string", "required": false, "default": "static", "description": "Camera movement type"},
+    {"name": "lighting", "type": "string", "required": false, "description": "Lighting style"},
+    {"name": "mood", "type": "string", "required": false, "description": "Emotional tone of the scene"},
+    {"name": "duration", "type": "string", "required": false, "default": "5s", "description": "Video duration"}
+  ],
+  "variants": [
+    {
+      "id": "cinematic_reveal",
+      "description": "Cinematic establishing shot with dramatic camera movement",
+      "description_zh": "具有戏剧性镜头运动的电影开场镜头",
+      "template": "Cinematic wide shot, slow dolly forward through {{setting}}, {{subject}} {{action}}, dramatic lighting with volumetric fog, golden hour sunlight filtering through atmosphere, camera slowly rises to reveal the full scene, cinematic look, film grain, 4K, {{mood}} mood, --motion 7 --stability 3"
+    },
+    {
+      "id": "character_closeup",
+      "description": "Close-up character moment with subtle expressions",
+      "description_zh": "角色表情特写，微妙的面部变化",
+      "template": "Extreme close-up on {{subject}}'s face, {{action}}, shallow depth of field with bokeh background, soft natural lighting from window, subtle eye movement and micro-expressions, camera very slight push-in, skin texture visible, cinematic portrait, {{mood}} atmosphere, --motion 3 --stability 6"
+    },
+    {
+      "id": "dynamic_action",
+      "description": "Fast-paced action sequence with dynamic camera",
+      "description_zh": "快节奏动作场面，动态镜头",
+      "template": "Dynamic tracking shot, {{subject}} {{action}} through {{setting}}, camera follows alongside at running speed, motion blur on background, dramatic side lighting with lens flare, dust particles in air, shaky handheld feel, cinematic action sequence, high energy, {{mood}} intensity, --motion 9 --stability 2"
+    },
+    {
+      "id": "slow_moment",
+      "description": "Slow, emotional moment with gentle camera work",
+      "description_zh": "缓慢的情感时刻，柔和的镜头运动",
+      "template": "Slow motion, {{subject}} {{action}} in {{setting}}, camera slowly orbits around subject 360 degrees, soft diffused lighting, gentle bokeh, floating dust particles, ethereal atmosphere, dreamy color grading, subtle lens breathing, cinematic emotional moment, {{mood}} feeling, --motion 2 --stability 8"
+    },
+    {
+      "id": "reveal_pan",
+      "description": "Pan shot that reveals a scene progressively",
+      "description_zh": "逐步揭示场景的摇镜",
+      "template": "Slow pan from left to right, starting on {{subject}} in {{setting}}, reveals more of the environment as camera moves, {{action}}, natural lighting with long shadows, atmospheric haze, cinematic color palette, steady smooth movement, establishing shot, {{mood}} atmosphere, --motion 4 --stability 6"
+    },
+    {
+      "id": "vertigo_shot",
+      "description": "Dolly zoom effect for dramatic tension",
+      "description_zh": "希区柯克式变焦，营造戏剧张力",
+      "template": "Dolly zoom effect, camera tracks backward while zooming in on {{subject}} in {{setting}}, {{action}}, background distorts and compresses, dramatic chiaroscuro lighting, high contrast, tension in atmosphere, cinematic horror/thriller look, {{mood}} intensity, --motion 5 --stability 4"
+    },
+    {
+      "id": "top_down",
+      "description": "Aerial top-down view with rotation",
+      "description_zh": "高空俯视图，带有旋转效果",
+      "template": "Top-down aerial view, camera rotates slowly above {{subject}} in {{setting}}, {{action}}, overhead lighting creates geometric shadows, wide field of view, cinematic scale, drone shot feel, color graded for mood, {{mood}} atmosphere, --motion 3 --stability 7"
+    },
+    {
+      "id": "push_in_reveal",
+      "description": "Slow push-in revealing character emotion",
+      "description_zh": "缓慢推进揭示角色情绪",
+      "template": "Slow push-in from medium shot to close-up on {{subject}}, {{action}} in {{setting}}, lighting gradually shifts as emotion builds, natural color grading, shallow depth of field increasing as camera approaches, cinematic character moment, {{mood}} atmosphere, --motion 2 --stability 7"
+    },
+    {
+      "id": "timeline_transition",
+      "description": "Time-lapse style scene transition",
+      "description_zh": "延时摄影风格场景转换",
+      "template": "Time-lapse sequence in {{setting}}, {{subject}} {{action}} as light changes throughout the scene, shadows move across ground, sky transitions through colors, volumetric clouds shifting, cinematic time compression,{{mood}} atmosphere building, --motion 6 --stability 5"
+    },
+    {
+      "id": "night_scene",
+      "description": "Nighttime scene with dramatic lighting",
+      "description_zh": "夜间场景，戏剧性灯光",
+      "template": "Night scene, {{subject}} {{action}} in {{setting}}, moonlight creates cool blue tones with warm practical light sources, long dramatic shadows, atmospheric fog, lens flares from streetlights, cinematic noir aesthetic, {{mood}} atmosphere, --motion 4 --stability 5"
+    },
+    {
+      "id": "weather_effect",
+      "description": "Scene with weather effects (rain, snow, wind)",
+      "description_zh": "包含天气效果（雨、雪、风）的场景",
+      "template": "{{subject}} {{action}} in {{setting}}, heavy rain/snow/wind visible, water droplets on camera lens, atmospheric particles, {{lighting}}, dramatic sky with dramatic clouds, cinematic weather scene, {{mood}} atmosphere, --motion 7 --stability 4"
+    },
+    {
+      "id": "two_shot",
+      "description": "Two-character interaction shot",
+      "description_zh": "双角色互动镜头",
+      "template": "Two-shot framing, {{subject}} and another character facing each other in {{setting}}, {{action}}, camera slowly pushes in as interaction intensifies, balanced composition, natural conversational lighting, shallow depth of field on both characters, cinematic dialogue scene, {{mood}} atmosphere, --motion 3 --stability 7"
+    },
+    {
+      "id": "reflection",
+      "description": "Scene using reflection for visual depth",
+      "description_zh": "利用反射创造视觉深度的场景",
+      "template": "Shot through reflection in {{setting}}, {{subject}} {{action}} visible in mirrored surface, creative framing with foreground elements, {{lighting}} creating interesting reflections, shallow depth of field, cinematic visual metaphor, {{mood}} atmosphere, --motion 2 --stability 7"
+    },
+    {
+      "id": "first_person",
+      "description": "First-person perspective shot",
+      "description_zh": "第一人称视角镜头",
+      "template": "First-person perspective, viewer sees through {{subject}}'s eyes as they {{action}} in {{setting}}, natural head movement, hands occasionally visible at bottom of frame, {{lighting}}, immersive POV experience, cinematic first-person view, {{mood}} atmosphere, --motion 5 --stability 5"
+    },
+    {
+      "id": "split_screen",
+      "description": "Split-screen simultaneous action",
+      "description_zh": "分屏同时行动",
+      "template": "Split screen composition, left side shows {{subject}} {{action}} in {{setting}}, right side shows contrasting scene or emotion, synchronized camera movement on both sides, cinematic parallel editing feel, {{mood}} atmosphere building, --motion 4 --stability 6"
+    },
+    {
+      "id": "macro_detail",
+      "description": "Macro close-up of fine details",
+      "description_zh": "精细细节的微距特写",
+      "template": "Macro close-up, extreme detail on {{subject}}, camera slowly pans across surface, {{action}}, shallowest possible depth of field, focused lighting reveals texture, incredible detail visible, artistic detail shot, --motion 2 --stability 8"
+    },
+    {
+      "id": "slow_motion",
+      "description": "Slow motion dramatic moment",
+      "description_zh": "慢动作戏剧性时刻",
+      "template": "Slow motion at 120fps, {{subject}} {{action}} in {{setting}}, every detail of movement visible, particles and debris floating, dramatic lighting catches motion, cinematic slow motion effect, {{mood}} atmosphere, --motion 1 --stability 9"
+    },
+    {
+      "id": "crane_shot",
+      "description": "Crane shot rising dramatically",
+      "description_zh": "吊车镜头 dramatic 上升",
+      "template": "Crane shot, camera starts close on {{subject}} in {{setting}} and rises dramatically to reveal the full scale of the environment, {{action}}, lighting transitions from intimate to epic, cinematic reveal, wide establishing shot at end, {{mood}} atmosphere, --motion 5 --stability 5"
+    },
+    {
+      "id": "rack_focus",
+      "description": "Rack focus between foreground and background",
+      "description_zh": "焦点在前景和背景之间切换",
+      "template": "Rack focus shot, starts focused on foreground {{subject}} in {{setting}}, smoothly shifts focus to background where another subject {{action}}, depth of field creates visual storytelling, cinematic technique, {{mood}} atmosphere, --motion 3 --stability 7"
+    },
+    {
+      "id": "hero_shot",
+      "description": "Low angle hero entrance shot",
+      "description_zh": "低角度英雄入场镜头",
+      "template": "Low angle hero shot, camera looks up at {{subject}} in {{setting}}, {{action}}, dramatic backlighting creates rim light and silhouette effect, sky visible above, powerful composition, cinematic entrance, {{mood}} intensity, --motion 3 --stability 6"
+    }
+  ],
+  "examples": [
+    {
+      "input": {
+        "variant": "cinematic_reveal",
+        "subject": "a lone warrior",
+        "action": "stands atop a cliff overlooking an ancient city",
+        "setting": "a vast desert landscape at sunset",
+        "lighting": "golden hour",
+        "mood": "epic",
+        "duration": "5s"
+      },
+      "output": "Cinematic wide shot, slow dolly forward through a vast desert landscape at sunset, a lone warrior stands atop a cliff overlooking an ancient city, dramatic lighting with volumetric fog, golden hour sunlight filtering through atmosphere, camera slowly rises to reveal the full scene, cinematic look, film grain, 4K, epic mood, --motion 7 --stability 3"
+    },
+    {
+      "input": {
+        "variant": "night_scene",
+        "subject": "a detective",
+        "action": "walks down a rain-soaked alley",
+        "setting": "a 1940s style city street",
+        "mood": "noir"
+      },
+      "output": "Night scene, a detective walks down a rain-soaked alley in a 1940s style city street, moonlight creates cool blue tones with warm practical light sources, long dramatic shadows, atmospheric fog, lens flares from streetlights, cinematic noir aesthetic, noir atmosphere, --motion 4 --stability 5"
+    },
+    {
+      "input": {
+        "variant": "slow_moment",
+        "subject": "a dancer",
+        "action": "spins gracefully in the center of an empty ballroom",
+        "setting": "an ornate abandoned palace",
+        "mood": "melancholy"
+      },
+      "output": "Slow motion, a dancer spins gracefully in the center of an empty ballroom in an ornate abandoned palace, camera slowly orbits around subject 360 degrees, soft diffused lighting, gentle bokeh, floating dust particles, ethereal atmosphere, dreamy color grading, subtle lens breathing, cinematic emotional moment, melancholy feeling, --motion 2 --stability 8"
+    }
+  ],
+  "created_at": "2026-09-29T00:00:00Z",
+  "updated_at": "2026-09-29T00:00:00Z",
+  "notes": "Video prompt templates optimized for Minimax H3. Camera movement syntax uses --motion and --stability parameters. Motion ranges 1-10 (1=static, 10=very dynamic). Stability ranges 1-10 (10=most stable). Source: combined from Minimax documentation, video prompt engineering guides, and community best practices."
+}

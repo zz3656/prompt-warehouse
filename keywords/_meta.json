@@ -1,14 +1,18 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.4",
   "schema_version": "pws-1.0",
-  "total_keywords": 4429,
+  "total_keywords": 4810,
   "total_categories": 9,
-  "updated_at": "2026-09-28T15:15:10Z",
-  "updated_by": "integration-script",
-  "source_projects": [
-    "h3-comic-builder",
-    "MidJourney-Styles-and-Keywords-Reference"
-  ],
+  "updated_at": "2026-09-29T00:00:00Z",
+  "updated_by": "enhancement-batch",
+  "source_summary": {
+    "h3-comic-builder (intermediate, not listed as data source)": 859,
+    "MidJourney-Reference": 4600,
+    "Danbooru-Tags": 167,
+    "Danbooru-Booster-Civitai": 101,
+    "Web-Scene-Curation": 72,
+    "Web-Style-Curation": 41
+  },
   "changelog": [
     {
       "version": "1.0.1",
@@ -27,23 +31,127 @@
       "date": "2026-09-28",
       "changes": [
         "Added 3,494 MJ V5 keywords from 21 pages (willwulfken repo)",
-        "15 new MJ V5 subcategories added"
-      ],
-      "added": 3570,
-      "before": 1975,
-      "after": 5545
-    },
-    {
-      "version": "1.0.2",
-      "date": "2026-09-28",
-      "changes": [
-        "Added 3,494 MJ V5 keywords from 21 pages",
         "17 new MJ V5 subcategories across 5 PWS categories"
       ],
       "added": 3570,
-      "before": 859,
+      "before": 1975,
       "after": 4429
+    },
+    {
+      "version": "1.0.3",
+      "date": "2026-09-29",
+      "changes": [
+        "Added 101 quality keywords (Danbooru-style boosters, rendering techniques, atmosphere, color, texture, composition)",
+        "Added 167 character keywords (Danbooru tags: hair/eye colors, expressions, clothing, accessories, poses, anatomy)",
+        "Added 72 scene keywords (nature, architecture, weather, time-of-day, environments)",
+        "Added 41 style keywords (art styles, anime genres, aesthetic movements, rendering techniques)"
+      ],
+      "added": 381,
+      "before": 4429,
+      "after": 4810
+    },
+    {
+      "version": "1.0.4",
+      "date": "2026-09-29",
+      "changes": [
+        "Added data_sources section to _meta.json - permanent record of all keyword sources",
+        "Updated individual keyword source/notes fields for traceability",
+        "No new keywords added, metadata only"
+      ],
+      "added": 0,
+      "before": 4810,
+      "after": 4810
     }
   ],
-  "description": "1975 structured keywords across 9 categories. Migrated from h3-comic-builder (859) + MidJourney Styles and Keywords Reference by willwulfken (1116)."
+  "description": "4,810 structured keywords across 9 categories. h3-comic-builder (859) is an intermediate migration layer whose keywords also came from the web. Direct data sources: MidJourney Reference (4,600) + Danbooru Tags (167) + Danbooru Booster/Civitai (101) + Web Research - Scene (72) + Web Research - Styles (41). See data_sources for full provenance.",
+  "data_sources": {
+    "note": "h3-comic-builder 是中间件（JS 原始文件已迁移），其 859 个关键词本身也来自网上收集。以下列出所有直接的数据来源。",
+    "migration_note": "所有 source 为 h3-comic-builder (original JS migration) 的关键词 859 个是间接来源，不作为独立数据源列出。",
+    "midjourney_reference": {
+      "name": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
+      "url": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference",
+      "stars": "12.3k",
+      "description": "MidJourney 风格和关键词参考，包含 V4/V5 全面的关键词",
+      "keywords_count": 4600,
+      "import_versions": [
+        "1.0.1 (1116 keywords)",
+        "1.0.2 (3494 keywords)"
+      ],
+      "note": "所有 source 为 'willwulfken/MidJourney-Styles-and-Keywords-Reference' 的关键词"
+    },
+    "danbooru_tags": {
+      "name": "Danbooru Tag Database",
+      "url": "https://danbooru.donmai.us/wiki_pages/tag_groups",
+      "description": "Danbooru 动漫标签数据库，按 tag-group 分类的角色/风格标签",
+      "keywords_count": 167,
+      "import_version": "1.0.3",
+      "categories_enhanced": [
+        "character"
+      ],
+      "fields_captured": [
+        "hair color",
+        "eye color",
+        "expression",
+        "clothing",
+        "accessories",
+        "pose",
+        "gesture",
+        "anatomy",
+        "body type",
+        "effects"
+      ],
+      "note": "所有 source 为 'Danbooru-Tag-Database(tag-groups)/Civitai-Character-Tags' 的关键词"
+    },
+    "danbooru_booster": {
+      "name": "Danbooru Booster Tags + Civitai Community",
+      "url": "https://civitai.com",
+      "description": "Danbooru 质量 booster 标签和 Civitai 社区常用高质量关键词",
+      "keywords_count": 101,
+      "import_version": "1.0.3",
+      "categories_enhanced": [
+        "quality"
+      ],
+      "fields_captured": [
+        "quality boosters",
+        "rendering techniques",
+        "atmosphere",
+        "color",
+        "texture",
+        "composition"
+      ],
+      "note": "所有 source 为 'Danbooru-Booster-Tags/Civitai-Community' 的关键词"
+    },
+    "web_research_scene": {
+      "name": "Scene & Environment Curation (Web Research)",
+      "description": "从网络研究整理的场景和环境关键词，覆盖自然、建筑、天气、时间",
+      "keywords_count": 72,
+      "import_version": "1.0.3",
+      "categories_enhanced": [
+        "scene"
+      ],
+      "fields_captured": [
+        "nature",
+        "architecture",
+        "weather",
+        "time-of-day"
+      ],
+      "note": "所有 source 为 'Scene-Environment-Curation/Web-Research' 的关键词"
+    },
+    "web_research_styles": {
+      "name": "Art Style Reference + Aesthetic Movement Guide (Web Research)",
+      "description": "从网络研究整理的艺术风格、动漫类型、美学流派和渲染技术关键词",
+      "keywords_count": 41,
+      "import_version": "1.0.3",
+      "categories_enhanced": [
+        "styles"
+      ],
+      "fields_captured": [
+        "painting styles",
+        "anime genres",
+        "aesthetic movements",
+        "rendering techniques"
+      ],
+      "note": "所有 source 为 'Art-Style-Reference/Web-Research/Aesthetic-Movement-Guide' 的关键词"
+    }
+  }
 }

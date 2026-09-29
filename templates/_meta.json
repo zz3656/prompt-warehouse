@@ -1,9 +1,90 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.2",
   "schema_version": "pws-1.0",
-  "total_templates": 24,
-  "updated_at": "2025-09-28T00:00:00Z",
-  "updated_by": "migration-script",
-  "source_projects": ["h3-comic-builder"],
-  "description": "24 prompt templates migrated from h3-comic-builder data/prompts_templates.js. Full raw data in _all_templates.json."
+  "total_templates": 27,
+  "updated_at": "2026-09-29T00:00:00Z",
+  "updated_by": "enhancement-batch",
+  "data_sources": {
+    "migration_layer": {
+      "name": "h3-comic-builder",
+      "description": "h3-comic-builder 的 24 个模板本身也来自网上收集，h3-comic-builder 只是中间层，不作为数据来源列出。",
+      "template_count": 24,
+      "note": "templates/ 目录下除 h3_video_prompts.json、llm_system_prompts.json、text_negative_patterns.json 外的所有文件"
+    },
+    "video_templates": {
+      "name": "Minimax H3 Video Prompt Engineering (Web Research)",
+      "description": "Minimax H3 视频生成提示词模板，涵盖镜头运动、场景转换、电影风格",
+      "template_count": 20,
+      "files": ["h3_video_prompts.json"],
+      "fields_covered": ["camera-movement", "scene-transition", "character-action", "cinematic-style", "atmosphere", "weather-effects"],
+      "note": "h3_video_prompts.json — 含 --motion/--stability 参数预设"
+    },
+    "llm_templates": {
+      "name": "LLM System Prompt Best Practices (Web Research)",
+      "description": "LLM 系统提示词模板，来自 OpenAI/Anthropic/Google 指南及 GitHub 社区最佳实践",
+      "template_count": 10,
+      "files": ["llm_system_prompts.json"],
+      "fields_covered": ["code-assistant", "creative-writer", "data-analyst", "research", "role-play", "product-manager", "security", "teacher", "ai-researcher", "minimalist"],
+      "note": "llm_system_prompts.json"
+    },
+    "negative_patterns": {
+      "name": "AI Safety Research + Prompt Engineering Community",
+      "description": "文本生成负面约束模式，用于输出质量控制",
+      "template_count": 7,
+      "files": ["text_negative_patterns.json"],
+      "fields_covered": ["hallucination", "repetition", "verbosity", "conversational-padding", "bias", "structure", "style"],
+      "note": "text_negative_patterns.json"
+    }
+  },
+  "source_summary": {
+    "h3-comic-builder (intermediate, not listed as data source)": 24,
+    "H3-Video-Prompts": 20,
+    "LLM-System-Prompts": 10,
+    "Text-Negative-Patterns": 7
+  },
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2025-09-28",
+      "changes": ["Initial migration from h3-comic-builder data/prompts_templates.js"],
+      "added": 24,
+      "before": 0,
+      "after": 24
+    },
+    {
+      "version": "1.1.0",
+      "date": "2026-09-29",
+      "changes": [
+        "Added LLM system prompt templates (10 variants)",
+        "Added H3 video generation prompt templates (20 variants)",
+        "Added text generation negative keyword patterns (7 variants)"
+      ],
+      "added": 3,
+      "before": 24,
+      "after": 27
+    },
+    {
+      "version": "1.1.1",
+      "date": "2026-09-29",
+      "changes": [
+        "Added data_sources section to _meta.json - permanent record of all template sources",
+        "No new templates added, metadata only"
+      ],
+      "added": 0,
+      "before": 27,
+      "after": 27
+    },
+    {
+      "version": "1.1.2",
+      "date": "2026-09-29",
+      "changes": [
+        "Removed h3-comic-builder as data source - it is an intermediate layer, its keywords also came from the web",
+        "Fixed JSON syntax errors in template_count fields"
+      ],
+      "added": 0,
+      "before": 27,
+      "after": 27
+    }
+  ],
+  "description": "27 prompt templates. h3-comic-builder (24) is an intermediate migration layer whose templates also came from the web. Direct data sources: H3 Video Prompts (20) + LLM System Prompts (10) + Text Negative Patterns (7). See data_sources for full provenance."
 }

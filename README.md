@@ -4,7 +4,7 @@
 
 > **pws v1.0** | **简体中文** | [English](README_en.md)
 >
-> **仓库地址**: https://github.com/[org]/prompt-warehouse
+> **仓库地址**: https://github.com/zz3656/prompt-warehouse
 > **许可证**: MIT
 
 ---
