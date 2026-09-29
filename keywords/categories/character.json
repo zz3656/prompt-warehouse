@@ -1932,29 +1932,6 @@
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
   },
   {
-    "id": "character_pose_walking",
-    "term": "walking",
-    "category": "character",
-    "subcategory": "pose",
-    "labels": [
-      "pose",
-      "walking"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "character"
-    ],
-    "created_at": "2026-09-27T17:25:55.753Z",
-    "updated_at": "2026-09-27T17:25:55.753Z",
-    "source": "h3-comic-builder (original JS migration)",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
     "id": "character_pose_mid_stride",
     "term": "mid-stride",
     "category": "character",
@@ -1962,29 +1939,6 @@
     "labels": [
       "pose",
       "mid-stride"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "character"
-    ],
-    "created_at": "2026-09-27T17:25:55.753Z",
-    "updated_at": "2026-09-27T17:25:55.753Z",
-    "source": "h3-comic-builder (original JS migration)",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
-  },
-  {
-    "id": "character_pose_running",
-    "term": "running",
-    "category": "character",
-    "subcategory": "pose",
-    "labels": [
-      "pose",
-      "running"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -8802,5 +8756,3019 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types."
+  },
+  {
+    "id": "character_mood_happy_expression",
+    "term": "happy expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "happy"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Warm, smiling happiness. Prompt hint: with a warm, happy expression and a genuine smile",
+    "updated_at": "2026-09-29T15:42:24.231208+00:00"
+  },
+  {
+    "id": "character_mood_radiant_joyful_expression",
+    "term": "radiant joyful expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "joyful"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Radiant, unrestrained joy. Prompt hint: with a radiant, joyful expression full of delight, the corners of the mouth rising uncontrollably, steps light",
+    "updated_at": "2026-09-29T15:42:24.231213+00:00"
+  },
+  {
+    "id": "character_mood_relieved_expression",
+    "term": "relieved expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "relieved"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Tension releasing into calm. Prompt hint: with a relieved expression, letting out a long breath, shoulders relaxing completely, a faint long-awaited smile",
+    "updated_at": "2026-09-29T15:42:24.231216+00:00"
+  },
+  {
+    "id": "character_mood_serene_expression",
+    "term": "serene expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "serene"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Calm, peaceful contentment. Prompt hint: with a serene, peaceful expression and relaxed posture",
+    "updated_at": "2026-09-29T15:42:24.231219+00:00"
+  },
+  {
+    "id": "character_mood_playful_expression",
+    "term": "playful expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "playful"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Mischievous, playful energy. Prompt hint: with a playful, mischievous expression and light energy",
+    "updated_at": "2026-09-29T15:42:24.231223+00:00"
+  },
+  {
+    "id": "character_mood_confident_self_assured_demeanor",
+    "term": "confident, self-assured demeanor",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "confident"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Self-assured, confident. Prompt hint: with a confident, self-assured expression and poised demeanor",
+    "updated_at": "2026-09-29T15:42:24.231226+00:00"
+  },
+  {
+    "id": "character_mood_tender_loving_expression",
+    "term": "tender, loving expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "loving"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Tender, affectionate. Prompt hint: with a tender, loving expression",
+    "updated_at": "2026-09-29T15:42:24.231230+00:00"
+  },
+  {
+    "id": "character_mood_faintly_amused_expression",
+    "term": "faintly amused expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "amused"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subtly amused, smirking. Prompt hint: with a subtly amused expression, a faint smirk",
+    "updated_at": "2026-09-29T15:42:24.231233+00:00"
+  },
+  {
+    "id": "character_mood_cocky_smirk",
+    "term": "cocky smirk",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "smirking"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cocky, arrogant amusement. Prompt hint: with a cocky, arrogant smirk and one eyebrow slightly raised",
+    "updated_at": "2026-09-29T15:42:24.231236+00:00"
+  },
+  {
+    "id": "character_mood_quirky_eccentric_energy",
+    "term": "quirky, eccentric energy",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "eccentric"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Quirky, unconventional. Prompt hint: with a quirky, eccentric expression and offbeat playful energy",
+    "updated_at": "2026-09-29T15:42:24.231239+00:00"
+  },
+  {
+    "id": "character_mood_hopeful_expression",
+    "term": "hopeful expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "hopeful"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Bright-eyed, optimistic. Prompt hint: with a hopeful expression, a soft slight smile and bright, expectant eyes",
+    "updated_at": "2026-09-29T15:42:24.231243+00:00"
+  },
+  {
+    "id": "character_mood_sad_downcast_expression",
+    "term": "sad, downcast expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "sad"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Quietly sad, downcast. Prompt hint: with a quietly sad, downcast expression, head lowered, shoulders trembling slightly, eyes reddening",
+    "updated_at": "2026-09-29T15:42:24.231246+00:00"
+  },
+  {
+    "id": "character_mood_angry_expression",
+    "term": "angry expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "angry"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Clear anger, tension. Prompt hint: with an angry expression, furrowed brow and tight jaw, fists clenched, chest heaving",
+    "updated_at": "2026-09-29T15:42:24.231249+00:00"
+  },
+  {
+    "id": "character_mood_fearful_expression",
+    "term": "fearful expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "afraid"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Frightened, wide-eyed. Prompt hint: with a frightened expression, wide eyes and tense posture",
+    "updated_at": "2026-09-29T15:42:24.231252+00:00"
+  },
+  {
+    "id": "character_mood_anxious_nervous_expression",
+    "term": "anxious, nervous expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "anxious"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Nervous, worried. Prompt hint: with an anxious, worried expression and restless tension, fingers tapping, eyes darting, breath quickening",
+    "updated_at": "2026-09-29T15:42:24.231255+00:00"
+  },
+  {
+    "id": "character_mood_melancholic_expression",
+    "term": "melancholic expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "melancholy"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Wistful sadness. Prompt hint: with a melancholy, wistful expression lost in thought",
+    "updated_at": "2026-09-29T15:42:24.231259+00:00"
+  },
+  {
+    "id": "character_mood_devastated_heartbroken_expression",
+    "term": "devastated, heartbroken expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "devastated"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Heartbroken grief. Prompt hint: with a devastated, heartbroken expression",
+    "updated_at": "2026-09-29T15:42:24.231262+00:00"
+  },
+  {
+    "id": "character_mood_grief_stricken_expression",
+    "term": "grief-stricken expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "grieving"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Deep grief, loss. Prompt hint: with a grieving expression of deep loss",
+    "updated_at": "2026-09-29T15:42:24.231265+00:00"
+  },
+  {
+    "id": "character_mood_caught_off_guard_expression",
+    "term": "caught-off-guard expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "caught-off-guard"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Startled mid-reaction. Prompt hint: with a startled, caught-off-guard expression, lips slightly parted mid-reaction",
+    "updated_at": "2026-09-29T15:42:24.231269+00:00"
+  },
+  {
+    "id": "character_mood_aloof_detached_expression",
+    "term": "aloof, detached expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "aloof"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Withdrawn, uninterested. Prompt hint: with an aloof, withdrawn expression and a gaze pointedly elsewhere",
+    "updated_at": "2026-09-29T15:42:24.231272+00:00"
+  },
+  {
+    "id": "character_mood_vulnerable_exposed_expression",
+    "term": "vulnerable, exposed expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "vulnerable"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Exposed, defenseless. Prompt hint: with a vulnerable, exposed expression, eyes faintly tearful and shoulders soft",
+    "updated_at": "2026-09-29T15:42:24.231280+00:00"
+  },
+  {
+    "id": "character_mood_coy_bashful_expression",
+    "term": "coy, bashful expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "coy"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Shy, downcast. Prompt hint: with a coy, shy expression, downcast eyes, a faint blush and lips lightly pressed",
+    "updated_at": "2026-09-29T15:42:24.231283+00:00"
+  },
+  {
+    "id": "character_mood_bored_deadpan_expression",
+    "term": "bored, deadpan expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "bored"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Disinterested, deadpan. Prompt hint: with a bored, disinterested expression and a slack, deadpan stare",
+    "updated_at": "2026-09-29T15:42:24.231287+00:00"
+  },
+  {
+    "id": "character_mood_embarrassed_flushed_expression",
+    "term": "embarrassed, flushed expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "embarrassed"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Blushing, eyes averted. Prompt hint: with an embarrassed expression, flushed red cheeks and eyes averted",
+    "updated_at": "2026-09-29T15:42:24.231290+00:00"
+  },
+  {
+    "id": "character_mood_disgusted_expression",
+    "term": "disgusted expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "disgusted"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Repulsed, recoiling. Prompt hint: with a disgusted expression, lip curled and nose wrinkled in distaste",
+    "updated_at": "2026-09-29T15:42:24.231293+00:00"
+  },
+  {
+    "id": "character_mood_bewildered_expression",
+    "term": "bewildered expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "bewildered"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Confused, lost. Prompt hint: with a bewildered, confused expression, brow furrowed and eyes wide",
+    "updated_at": "2026-09-29T15:42:24.231296+00:00"
+  },
+  {
+    "id": "character_mood_thoughtful_contemplative_expression",
+    "term": "thoughtful, contemplative expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "thoughtful"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Deep in thought. Prompt hint: with a thoughtful, contemplative expression",
+    "updated_at": "2026-09-29T15:42:24.231300+00:00"
+  },
+  {
+    "id": "character_mood_stoic_impassive_expression",
+    "term": "stoic, impassive expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "stoic"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Impassive, unreadable. Prompt hint: with a stoic, impassive expression revealing nothing",
+    "updated_at": "2026-09-29T15:42:24.231303+00:00"
+  },
+  {
+    "id": "character_mood_calm_expression",
+    "term": "calm expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "calm"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Centered, unreactive. Prompt hint: with a calm, centered expression",
+    "updated_at": "2026-09-29T15:42:24.231306+00:00"
+  },
+  {
+    "id": "character_mood_curious_expression",
+    "term": "curious expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "curious"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Intrigued, alert. Prompt hint: with a curious, intrigued expression and alert eyes",
+    "updated_at": "2026-09-29T15:42:24.231310+00:00"
+  },
+  {
+    "id": "character_mood_mysterious_enigmatic_expression",
+    "term": "mysterious, enigmatic expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "mysterious"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Inscrutable, enigmatic. Prompt hint: with a mysterious, enigmatic expression hard to read",
+    "updated_at": "2026-09-29T15:42:24.231313+00:00"
+  },
+  {
+    "id": "character_mood_dazed_dreamy_expression",
+    "term": "dazed, dreamy expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "dazed"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Dreamy, half-present. Prompt hint: with a dazed, dreamy expression, eyes slightly out of focus and only half-present",
+    "updated_at": "2026-09-29T15:42:24.231316+00:00"
+  },
+  {
+    "id": "character_mood_sleepy_expression",
+    "term": "sleepy expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "sleepy"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Drowsy, heavy-lidded. Prompt hint: with a sleepy, drowsy expression, heavy eyelids and a slow, soft blink",
+    "updated_at": "2026-09-29T15:42:24.231319+00:00"
+  },
+  {
+    "id": "character_mood_unbothered_self_possessed_calm",
+    "term": "unbothered, self-possessed calm",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "unbothered"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Calm self-possession. Prompt hint: with an unbothered, self-possessed expression and a confident, detached calm",
+    "updated_at": "2026-09-29T15:42:24.231323+00:00"
+  },
+  {
+    "id": "character_mood_fierce_commanding_intensity",
+    "term": "fierce, commanding intensity",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "fierce"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Fierce, commanding. Prompt hint: with a fierce, commanding expression and blazing intensity",
+    "updated_at": "2026-09-29T15:42:24.231327+00:00"
+  },
+  {
+    "id": "character_mood_determined_resolute_expression",
+    "term": "determined, resolute expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "determined"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Resolute, focused will. Prompt hint: with a determined, resolute expression and iron focus",
+    "updated_at": "2026-09-29T15:42:24.231330+00:00"
+  },
+  {
+    "id": "character_mood_passionate_expression",
+    "term": "passionate expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "passionate"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Burning passion. Prompt hint: with a passionate, burning expression full of conviction",
+    "updated_at": "2026-09-29T15:42:24.231333+00:00"
+  },
+  {
+    "id": "character_mood_brooding_expression",
+    "term": "brooding expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "brooding"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Dark, brooding melancholy. Prompt hint: with a brooding, dark expression and moody introspection",
+    "updated_at": "2026-09-29T15:42:24.231337+00:00"
+  },
+  {
+    "id": "character_mood_seductive_expression",
+    "term": "seductive expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "seductive"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Alluring, seductive. Prompt hint: with a seductive, alluring expression and lidded gaze",
+    "updated_at": "2026-09-29T15:42:24.231341+00:00"
+  },
+  {
+    "id": "character_mood_defiant_expression",
+    "term": "defiant expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "defiant"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Defiant, unyielding. Prompt hint: with a defiant, unyielding expression and challenging stance",
+    "updated_at": "2026-09-29T15:42:24.231344+00:00"
+  },
+  {
+    "id": "character_mood_sultry_expression",
+    "term": "sultry expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "sultry"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Smoldering, heavy-lidded. Prompt hint: with a sultry, smoldering expression, heavy-lidded gaze and lips softly parted",
+    "updated_at": "2026-09-29T15:42:24.231348+00:00"
+  },
+  {
+    "id": "character_mood_smoldering_intensity",
+    "term": "smoldering intensity",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "smoldering"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Coiled, slow-burning intensity. Prompt hint: with a smoldering, coiled expression, slow-burning intensity behind half-closed eyes and a still, predatory calm",
+    "updated_at": "2026-09-29T15:42:24.231351+00:00"
+  },
+  {
+    "id": "character_mood_sinister_expression",
+    "term": "sinister expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "sinister"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Dark, malicious, threatening. Prompt hint: with a sinister expression, a slow crooked smile and eyes glinting with dark malicious intent",
+    "updated_at": "2026-09-29T15:42:24.231354+00:00"
+  },
+  {
+    "id": "character_mood_occult_otherworldly_mystical_expression",
+    "term": "occult, otherworldly mystical expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "wiccan-mystical"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Quietly otherworldly, occult. Prompt hint: with a quietly mystical, otherworldly expression, eyes distant and knowing as if reading something the camera cannot see",
+    "updated_at": "2026-09-29T15:42:24.231357+00:00"
+  },
+  {
+    "id": "character_mood_drowsy_half_shy_expression",
+    "term": "drowsy, half-shy expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "lazy-shy"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Drowsy, soft, half-shy. Prompt hint: with a soft, drowsy half-shy expression, eyes lowered and barely-there smile, languid and unbothered",
+    "updated_at": "2026-09-29T15:42:24.231361+00:00"
+  },
+  {
+    "id": "character_mood_awestruck_wonder",
+    "term": "awestruck wonder",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "awe"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Wonder, reverent. Prompt hint: with an awestruck expression of wonder, mouth slightly agape and wide-eyed",
+    "updated_at": "2026-09-29T15:42:24.231364+00:00"
+  },
+  {
+    "id": "character_mood_shocked_expression",
+    "term": "shocked expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "shocked"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Surprised, mouth open. Prompt hint: with a shocked, surprised expression, eyes wide, brows raised and mouth open",
+    "updated_at": "2026-09-29T15:42:24.231367+00:00"
+  },
+  {
+    "id": "character_mood_flirty_expression",
+    "term": "flirty expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "flirty"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Playful flirtation, lingering smile, sustained eye contact. Prompt hint: with a flirty expression, a lingering playful smile and sustained, knowing eye contact with the camera",
+    "updated_at": "2026-09-29T15:42:24.231370+00:00"
+  },
+  {
+    "id": "character_mood_suspicious_wary_expression",
+    "term": "suspicious, wary expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "suspicious"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Wary distrust, narrowed eyes, side-eye. Prompt hint: with a suspicious, wary expression, eyes narrowed in distrust and a sidelong side-eye glance",
+    "updated_at": "2026-09-29T15:42:24.231373+00:00"
+  },
+  {
+    "id": "character_mood_resigned_expression_of_quiet_acceptance",
+    "term": "resigned expression of quiet acceptance",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "resigned"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Quiet acceptance of an unpleasant situation, sigh. Prompt hint: with a resigned expression of quiet acceptance, shoulders softly dropped mid-sigh and a tired half-closed gaze",
+    "updated_at": "2026-09-29T15:42:24.231377+00:00"
+  },
+  {
+    "id": "character_mood_conflicted_torn_expression",
+    "term": "conflicted, torn expression",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "conflicted"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Visible internal struggle, brow furrowed, gaze unfocused. Prompt hint: with a conflicted expression of visible internal struggle, brow furrowed and gaze unfocused, caught between two impulses",
+    "updated_at": "2026-09-29T15:42:24.231380+00:00"
+  },
+  {
+    "id": "character_pose_standing_upright_in_a_relaxed_natural_po",
+    "term": "standing upright in a relaxed natural posture",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "standing-upright"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Relaxed standing posture. Prompt hint: standing upright in a relaxed natural posture",
+    "updated_at": "2026-09-29T15:42:24.231711+00:00"
+  },
+  {
+    "id": "character_pose_standing_in_a_confident_stance_with_feet",
+    "term": "standing in a confident stance with feet apart",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "confident-stance"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Feet apart, shoulders back. Prompt hint: standing in a confident stance with feet apart, shoulders back, and head up",
+    "updated_at": "2026-09-29T15:42:24.231717+00:00"
+  },
+  {
+    "id": "character_pose_standing_with_hands_on_hips",
+    "term": "standing with hands on hips",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "hands-on-hips"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hands on hips. Prompt hint: standing with hands on hips",
+    "updated_at": "2026-09-29T15:42:24.231721+00:00"
+  },
+  {
+    "id": "character_pose_standing_with_arms_crossed_over_the_ches",
+    "term": "standing with arms crossed over the chest",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "arms-crossed"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Arms folded across chest. Prompt hint: standing with arms crossed over the chest",
+    "updated_at": "2026-09-29T15:42:24.231725+00:00"
+  },
+  {
+    "id": "character_pose_leaning_casually_against_a_surface",
+    "term": "leaning casually against a surface",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "leaning"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Leaning against something. Prompt hint: leaning casually against a wall or surface",
+    "updated_at": "2026-09-29T15:42:24.231729+00:00"
+  },
+  {
+    "id": "character_pose_standing_in_a_dramatic_heroic_pose",
+    "term": "standing in a dramatic heroic pose",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "hero-pose"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Dramatic heroic stance. Prompt hint: standing in a dramatic heroic pose, chest out, looking forward with purpose",
+    "updated_at": "2026-09-29T15:42:24.231733+00:00"
+  },
+  {
+    "id": "character_pose_standing_in_contrapposto",
+    "term": "standing in contrapposto",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "contrapposto"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hip tilted, weight on one leg. Prompt hint: standing in contrapposto, weight shifted to one leg with the opposite hip tilted out",
+    "updated_at": "2026-09-29T15:42:24.231736+00:00"
+  },
+  {
+    "id": "character_pose_leaning_against_a_wall",
+    "term": "leaning against a wall",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "leaning-against-wall"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Casually leaning on a wall. Prompt hint: leaning casually against a wall, shoulder or back resting on the surface",
+    "updated_at": "2026-09-29T15:42:24.231740+00:00"
+  },
+  {
+    "id": "character_pose_hands_clasped_behind_the_head",
+    "term": "hands clasped behind the head",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "hands-behind-head"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Both hands clasped behind head. Prompt hint: standing with both hands clasped behind the head, elbows out",
+    "updated_at": "2026-09-29T15:42:24.231743+00:00"
+  },
+  {
+    "id": "character_pose_hands_clasped_behind_the_back",
+    "term": "hands clasped behind the back",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "hands-behind-back"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hands clasped behind back. Prompt hint: standing with hands clasped behind the back, posture upright",
+    "updated_at": "2026-09-29T15:42:24.231747+00:00"
+  },
+  {
+    "id": "character_pose_sitting_naturally",
+    "term": "sitting naturally",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "sitting"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Sitting naturally. Prompt hint: sitting naturally",
+    "updated_at": "2026-09-29T15:42:24.231750+00:00"
+  },
+  {
+    "id": "character_pose_sitting_cross_legged",
+    "term": "sitting cross-legged",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "cross-legged"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Seated cross-legged on floor. Prompt hint: sitting cross-legged on the ground",
+    "updated_at": "2026-09-29T15:42:24.231754+00:00"
+  },
+  {
+    "id": "character_pose_kneeling_on_one_or_both_knees",
+    "term": "kneeling on one or both knees",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "kneeling"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Kneeling on the ground. Prompt hint: kneeling on one or both knees",
+    "updated_at": "2026-09-29T15:42:24.231757+00:00"
+  },
+  {
+    "id": "character_pose_crouched_low_with_knees_bent",
+    "term": "crouched low with knees bent",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "crouching"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Crouched low. Prompt hint: crouched low with knees bent",
+    "updated_at": "2026-09-29T15:42:24.231760+00:00"
+  },
+  {
+    "id": "character_pose_lounging_in_a_relaxed",
+    "term": "lounging in a relaxed",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "lounging"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Reclined, relaxed sitting. Prompt hint: lounging in a relaxed, reclined position",
+    "updated_at": "2026-09-29T15:42:24.231764+00:00"
+  },
+  {
+    "id": "character_pose_sitting_on_the_edge_of_a_bed",
+    "term": "sitting on the edge of a bed",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "sitting-edge-of-bed"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Perched on the edge of a bed. Prompt hint: perched on the edge of a bed, hands resting on the mattress",
+    "updated_at": "2026-09-29T15:42:24.231767+00:00"
+  },
+  {
+    "id": "character_pose_legs_draped_over_the_chair_arm",
+    "term": "legs draped over the chair arm",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "chair-arm-drape"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Legs draped over chair arm. Prompt hint: sitting sideways in a chair with legs draped casually over one arm",
+    "updated_at": "2026-09-29T15:42:24.231771+00:00"
+  },
+  {
+    "id": "character_pose_cheek_resting_on_a_propped_elbow",
+    "term": "cheek resting on a propped elbow",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "elbow-propped"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cheek resting on a propped elbow. Prompt hint: seated with cheek resting against a propped-up elbow, contemplative",
+    "updated_at": "2026-09-29T15:42:24.231779+00:00"
+  },
+  {
+    "id": "character_pose_lying_prone_propped_on_elbows_reading",
+    "term": "lying prone propped on elbows, reading",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "lying-on-stomach-reading"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Lying prone, propped on elbows reading. Prompt hint: lying on the stomach, propped up on elbows while reading",
+    "updated_at": "2026-09-29T15:42:24.231783+00:00"
+  },
+  {
+    "id": "character_pose_walking_2",
+    "term": "walking",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "walking"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Mid-stride walking. Prompt hint: walking, caught mid-stride",
+    "updated_at": "2026-09-29T15:42:24.231787+00:00"
+  },
+  {
+    "id": "character_pose_running_2",
+    "term": "running",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "running"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Mid-run, in motion. Prompt hint: running, caught mid-stride in motion",
+    "updated_at": "2026-09-29T15:42:24.231791+00:00"
+  },
+  {
+    "id": "character_pose_mid_jump",
+    "term": "mid-jump",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "jumping"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Airborne, mid-jump. Prompt hint: mid-jump, suspended in the air",
+    "updated_at": "2026-09-29T15:42:24.231794+00:00"
+  },
+  {
+    "id": "character_pose_dancing",
+    "term": "dancing",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "dancing"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Caught mid-dance. Prompt hint: dancing, caught in mid-movement with fluid grace",
+    "updated_at": "2026-09-29T15:42:24.231797+00:00"
+  },
+  {
+    "id": "character_pose_climbing_with_arms_extended",
+    "term": "climbing with arms extended",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "climbing"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Climbing, gripping upward. Prompt hint: climbing with arms extended, gripping upward",
+    "updated_at": "2026-09-29T15:42:24.231800+00:00"
+  },
+  {
+    "id": "character_pose_caught_mid_fall_through_the_air",
+    "term": "caught mid-fall through the air",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "mid-fall"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Caught mid-fall through the air. Prompt hint: caught mid-fall through the air, limbs loose, hair and clothing trailing",
+    "updated_at": "2026-09-29T15:42:24.231804+00:00"
+  },
+  {
+    "id": "character_pose_twirling_mid_spin_with_hair_and_clothing",
+    "term": "twirling mid-spin with hair and clothing fanning outward",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "mid-spin"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Twirling, mid-rotation. Prompt hint: twirling mid-spin with hair and clothing fanning outward",
+    "updated_at": "2026-09-29T15:42:24.231807+00:00"
+  },
+  {
+    "id": "character_pose_in_a_full_body_stretch_with_both_arms_re",
+    "term": "in a full-body stretch with both arms reaching overhead",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "stretching"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Full-body stretch, arms overhead. Prompt hint: in a full-body stretch with both arms reaching overhead",
+    "updated_at": "2026-09-29T15:42:24.231812+00:00"
+  },
+  {
+    "id": "character_pose_one_or_both_arms_extended_overhead",
+    "term": "one or both arms extended overhead",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "reaching-up"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Arms extended overhead. Prompt hint: one or both arms extended overhead, reaching upward",
+    "updated_at": "2026-09-29T15:42:24.231816+00:00"
+  },
+  {
+    "id": "character_pose_locked_in_a_kiss",
+    "term": "locked in a kiss",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "kissing"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Locked in a kiss. Prompt hint: locked in a kiss, faces close and eyes closed",
+    "updated_at": "2026-09-29T15:42:24.231820+00:00"
+  },
+  {
+    "id": "character_pose_riding_astride",
+    "term": "riding astride",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "riding"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Riding a bike, horse, or motorcycle. Prompt hint: riding astride a bike, horse, or motorcycle, hands gripping forward",
+    "updated_at": "2026-09-29T15:42:24.231823+00:00"
+  },
+  {
+    "id": "character_pose_driving_hands_on_the_wheel",
+    "term": "driving, hands on the wheel",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "driving"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Behind the wheel of a vehicle. Prompt hint: behind the wheel of a vehicle, hands on the steering wheel, gaze forward",
+    "updated_at": "2026-09-29T15:42:24.231826+00:00"
+  },
+  {
+    "id": "character_pose_in_a_combat_ready_fighting_stance",
+    "term": "in a combat-ready fighting stance",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "fighting-stance"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Combat-ready stance. Prompt hint: in a combat-ready fighting stance, tensed and focused",
+    "updated_at": "2026-09-29T15:42:24.231830+00:00"
+  },
+  {
+    "id": "character_pose_reaching_outward_arm_extended",
+    "term": "reaching outward, arm extended",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "reaching"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Reaching outward. Prompt hint: reaching outward with one arm extended",
+    "updated_at": "2026-09-29T15:42:24.231833+00:00"
+  },
+  {
+    "id": "character_pose_caught_mid_throw",
+    "term": "caught mid-throw",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "throwing"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Mid-throw motion. Prompt hint: caught mid-throw, body coiled and releasing",
+    "updated_at": "2026-09-29T15:42:24.231837+00:00"
+  },
+  {
+    "id": "character_pose_leaping_forward_dynamically_with_body_ex",
+    "term": "leaping forward dynamically with body extended",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "leaping"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Leaping forward dynamically. Prompt hint: leaping forward dynamically with body extended",
+    "updated_at": "2026-09-29T15:42:24.231840+00:00"
+  },
+  {
+    "id": "character_pose_dramatic_exaggerated_action_pose",
+    "term": "dramatic exaggerated action pose",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "dramatic-action"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Exaggerated action pose. Prompt hint: in a dramatic, exaggerated action pose full of motion",
+    "updated_at": "2026-09-29T15:42:24.231844+00:00"
+  },
+  {
+    "id": "character_pose_biting_lower_lip",
+    "term": "biting lower lip",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "biting-lip"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Slight playful lip-bite. Prompt hint: lightly biting the lower lip, a subtle playful expression",
+    "updated_at": "2026-09-29T15:42:24.231847+00:00"
+  },
+  {
+    "id": "character_pose_caught_mid_laugh_with_head_tipped_back",
+    "term": "caught mid-laugh with head tipped back",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "mid-laugh"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Caught mid-laugh, head back. Prompt hint: caught mid-laugh with head tipped back, eyes crinkled",
+    "updated_at": "2026-09-29T15:42:24.231851+00:00"
+  },
+  {
+    "id": "character_pose_pointing_directly_at_the_camera",
+    "term": "pointing directly at the camera",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "pointing-at-camera"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Pointing directly at camera. Prompt hint: pointing one finger directly at the camera, arm extended",
+    "updated_at": "2026-09-29T15:42:24.231855+00:00"
+  },
+  {
+    "id": "character_pose_sticking_the_tongue_out_playfully",
+    "term": "sticking the tongue out playfully",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "tongue-out"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Playful tongue-out expression. Prompt hint: sticking the tongue out playfully",
+    "updated_at": "2026-09-29T15:42:24.231858+00:00"
+  },
+  {
+    "id": "character_pose_thinking_pose_hand_on_chin",
+    "term": "thinking pose, hand on chin",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "thinking"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hand on chin, contemplative. Prompt hint: in a thinking pose with hand on chin, gaze contemplative",
+    "updated_at": "2026-09-29T15:42:24.231862+00:00"
+  },
+  {
+    "id": "character_pose_lying_down_flat",
+    "term": "lying down flat",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "lying-down"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Lying flat. Prompt hint: lying down flat, relaxed",
+    "updated_at": "2026-09-29T15:42:24.231865+00:00"
+  },
+  {
+    "id": "character_pose_sleeping_peacefully_with_eyes_closed",
+    "term": "sleeping peacefully with eyes closed",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "sleeping"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Eyes closed, sleeping. Prompt hint: sleeping peacefully with eyes closed",
+    "updated_at": "2026-09-29T15:42:24.231868+00:00"
+  },
+  {
+    "id": "character_pose_hugging_or_embracing_another_person",
+    "term": "hugging or embracing another person",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "hugging"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Embracing another. Prompt hint: hugging or embracing another person",
+    "updated_at": "2026-09-29T15:42:24.231872+00:00"
+  },
+  {
+    "id": "character_pose_head_turned",
+    "term": "head turned",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "looking-away"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Head turned, looking away. Prompt hint: head turned, looking off away from the camera",
+    "updated_at": "2026-09-29T15:42:24.231876+00:00"
+  },
+  {
+    "id": "character_pose_gazing_upward_at_the_sky_or_off_camera",
+    "term": "gazing upward at the sky or off-camera",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "looking-up"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Gazing up at the sky. Prompt hint: gazing upward at the sky or off-camera, chin slightly raised",
+    "updated_at": "2026-09-29T15:42:24.231879+00:00"
+  },
+  {
+    "id": "character_pose_eyes_downcast",
+    "term": "eyes downcast",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "looking-down"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Eyes downcast. Prompt hint: eyes downcast, gaze turned softly to the ground",
+    "updated_at": "2026-09-29T15:42:24.231883+00:00"
+  },
+  {
+    "id": "character_pose_looking_back_over_the_shoulder",
+    "term": "looking back over the shoulder",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "head-over-shoulder"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Looking back over shoulder. Prompt hint: head turned to look back over one shoulder toward the camera",
+    "updated_at": "2026-09-29T15:42:24.231886+00:00"
+  },
+  {
+    "id": "character_pose_wading_mid_thigh_deep_through_water",
+    "term": "wading mid-thigh deep through water",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "wading-in-water"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Wading mid-thigh deep in water. Prompt hint: wading mid-thigh deep through water, ripples around the legs",
+    "updated_at": "2026-09-29T15:42:24.231890+00:00"
+  },
+  {
+    "id": "character_pose_with_both_hands_tucked_into_pockets",
+    "term": "with both hands tucked into pockets",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "hands-in-pockets"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Both hands tucked in pockets. Prompt hint: with both hands tucked into pockets",
+    "updated_at": "2026-09-29T15:42:24.231893+00:00"
+  },
+  {
+    "id": "character_pose_with_one_hand_resting_on_the_hip",
+    "term": "with one hand resting on the hip",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "hand-on-hip"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: One hand on hip. Prompt hint: with one hand resting on the hip",
+    "updated_at": "2026-09-29T15:42:24.231897+00:00"
+  },
+  {
+    "id": "character_pose_both_hands_planted_on_the_hips",
+    "term": "both hands planted on the hips",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "hand-position-hands-on-hips"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Both hands on hips. Prompt hint: with both hands planted on the hips",
+    "updated_at": "2026-09-29T15:42:24.231901+00:00"
+  },
+  {
+    "id": "character_pose_with_one_hand_resting_under_the_chin",
+    "term": "with one hand resting under the chin",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "hand-on-chin"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hand resting under the chin. Prompt hint: with one hand resting under the chin, fingers framing the jaw",
+    "updated_at": "2026-09-29T15:42:24.231904+00:00"
+  },
+  {
+    "id": "character_pose_with_one_hand_resting_lightly_across_the",
+    "term": "with one hand resting lightly across the collarbone",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "hand-on-collarbone"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hand resting across collarbone. Prompt hint: with one hand resting lightly across the collarbone",
+    "updated_at": "2026-09-29T15:42:24.231908+00:00"
+  },
+  {
+    "id": "character_pose_hand_running_through_the_hair",
+    "term": "hand running through the hair",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "hand-brushing-hair"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hand running through the hair. Prompt hint: with a hand running through the hair, fingers caught mid-strand",
+    "updated_at": "2026-09-29T15:42:24.231912+00:00"
+  },
+  {
+    "id": "character_pose_fingertip_pressed_to_the_lower_lip",
+    "term": "fingertip pressed to the lower lip",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "finger-to-lip"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Fingertip pressed against lower lip. Prompt hint: with one fingertip pressed gently against the lower lip",
+    "updated_at": "2026-09-29T15:42:24.231916+00:00"
+  },
+  {
+    "id": "character_pose_arms_wrapped_around_the_torso",
+    "term": "arms wrapped around the torso",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "arms-wrapped-around-self"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Self-hug, arms around torso. Prompt hint: arms wrapped around the torso in a self-hug",
+    "updated_at": "2026-09-29T15:42:24.231919+00:00"
+  },
+  {
+    "id": "character_pose_hands_clasped_in_front",
+    "term": "hands clasped in front",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "hands-clasped"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Both hands clasped at the front. Prompt hint: with both hands clasped at the front",
+    "updated_at": "2026-09-29T15:42:24.231923+00:00"
+  },
+  {
+    "id": "character_pose_torso_leaning_slightly_back",
+    "term": "torso leaning slightly back",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "leaning-back"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Torso leaning back slightly. Prompt hint: with the torso leaning back at a slight backward angle",
+    "updated_at": "2026-09-29T15:42:24.231926+00:00"
+  },
+  {
+    "id": "character_pose_torso_leaning_forward",
+    "term": "torso leaning forward",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "leaning-forward"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Torso leaning toward camera. Prompt hint: with the torso leaning forward toward the camera",
+    "updated_at": "2026-09-29T15:42:24.231930+00:00"
+  },
+  {
+    "id": "character_pose_contrapposto_hip_pushed_out",
+    "term": "contrapposto, hip pushed out",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "body-lean-contrapposto"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Weight on one leg, hip pushed out. Prompt hint: with the weight on one leg and one hip pushed out, classical contrapposto",
+    "updated_at": "2026-09-29T15:42:24.231933+00:00"
+  },
+  {
+    "id": "character_pose_with_the_back_gently_arched",
+    "term": "with the back gently arched",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "arched-back"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Back gently arched, chest forward. Prompt hint: with the back gently arched, chest forward",
+    "updated_at": "2026-09-29T15:42:24.231936+00:00"
+  },
+  {
+    "id": "character_pose_one_shoulder_rolled_forward",
+    "term": "one shoulder rolled forward",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "shoulder-rolled-forward"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: One shoulder rolled forward. Prompt hint: with one shoulder rolled forward, asymmetric stance",
+    "updated_at": "2026-09-29T15:42:24.231940+00:00"
+  },
+  {
+    "id": "character_pose_head_tipped_slightly_up",
+    "term": "head tipped slightly up",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "tilted-up"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Head tipped slightly upward. Prompt hint: with the head tipped slightly upward",
+    "updated_at": "2026-09-29T15:42:24.231943+00:00"
+  },
+  {
+    "id": "character_pose_head_tipped_slightly_down",
+    "term": "head tipped slightly down",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "tilted-down"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Head tipped slightly downward. Prompt hint: with the head tipped slightly downward",
+    "updated_at": "2026-09-29T15:42:24.231946+00:00"
+  },
+  {
+    "id": "character_pose_head_tilted_toward_one_shoulder",
+    "term": "head tilted toward one shoulder",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "tilted-side"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Head tilted toward shoulder. Prompt hint: with the head tilted toward one shoulder",
+    "updated_at": "2026-09-29T15:42:24.231950+00:00"
+  },
+  {
+    "id": "character_pose_head_tipped_fully_back",
+    "term": "head tipped fully back",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "tilted-back"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Head fully back, throat exposed. Prompt hint: with the head tipped fully back, exposing the throat",
+    "updated_at": "2026-09-29T15:42:24.231953+00:00"
+  },
+  {
+    "id": "character_pose_chin_lifted",
+    "term": "chin lifted",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "chin-up"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Chin lifted, looking down nose. Prompt hint: with the chin lifted, looking down the nose",
+    "updated_at": "2026-09-29T15:42:24.231956+00:00"
+  },
+  {
+    "id": "character_pose_with_the_chin_tucked_toward_the_chest",
+    "term": "with the chin tucked toward the chest",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "chin-tucked"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Chin tucked toward chest. Prompt hint: with the chin tucked toward the chest",
+    "updated_at": "2026-09-29T15:42:24.231960+00:00"
+  },
+  {
+    "id": "character_pose_smoking_a_cigarette",
+    "term": "smoking a cigarette",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "activity-smoking"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Holding and smoking a cigarette. Prompt hint: holding and smoking a cigarette, smoke curling up from the lit tip",
+    "updated_at": "2026-09-29T15:42:24.231963+00:00"
+  },
+  {
+    "id": "character_pose_drinking_from_a_glass",
+    "term": "drinking from a glass",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "activity-drinking"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Drinking from a glass or cup. Prompt hint: raising a glass or cup to the lips and drinking from it",
+    "updated_at": "2026-09-29T15:42:24.231968+00:00"
+  },
+  {
+    "id": "character_pose_caught_mid_bite",
+    "term": "caught mid-bite",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "activity-eating"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Caught mid-bite. Prompt hint: caught mid-bite, eating with a piece of food halfway to the mouth",
+    "updated_at": "2026-09-29T15:42:24.231971+00:00"
+  },
+  {
+    "id": "character_pose_talking_on_the_phone",
+    "term": "talking on the phone",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "activity-talking-on-phone"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Phone held to ear, speaking. Prompt hint: holding a phone to one ear and speaking into it, eyes focused mid-conversation",
+    "updated_at": "2026-09-29T15:42:24.231974+00:00"
+  },
+  {
+    "id": "character_pose_looking_down_at_a_phone_held_in_both_han",
+    "term": "looking down at a phone held in both hands",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "activity-texting"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Looking down at phone, thumbs typing. Prompt hint: looking down at a phone held in both hands, thumbs busy typing a message",
+    "updated_at": "2026-09-29T15:42:24.231978+00:00"
+  },
+  {
+    "id": "character_pose_typing_on_a_laptop",
+    "term": "typing on a laptop",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "activity-typing-laptop"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hands on keyboard, focused on screen. Prompt hint: typing at a laptop with hands on the keyboard, focused on the glowing screen",
+    "updated_at": "2026-09-29T15:42:24.231982+00:00"
+  },
+  {
+    "id": "character_pose_holding_open_a_book_or_magazine_in_both_",
+    "term": "holding open a book or magazine in both hands",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "activity-reading"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Holding open a book or magazine. Prompt hint: holding open a book or magazine in both hands, eyes following the page",
+    "updated_at": "2026-09-29T15:42:24.231985+00:00"
+  },
+  {
+    "id": "character_pose_writing_in_a_notebook",
+    "term": "writing in a notebook",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "activity-writing"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Writing in a notebook with a pen. Prompt hint: writing in a notebook, pen in hand, head bent slightly over the page",
+    "updated_at": "2026-09-29T15:42:24.231989+00:00"
+  },
+  {
+    "id": "character_pose_painting_on_a_canvas",
+    "term": "painting on a canvas",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "activity-painting"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Painting on a canvas with a brush. Prompt hint: painting on a canvas, brush in hand mid-stroke, palette held in the other",
+    "updated_at": "2026-09-29T15:42:24.231993+00:00"
+  },
+  {
+    "id": "character_pose_playing_a_musical_instrument",
+    "term": "playing a musical instrument",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "activity-playing-instrument"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Playing a musical instrument. Prompt hint: playing a musical instrument, hands and fingers engaged with strings or keys, fully absorbed in the performance",
+    "updated_at": "2026-09-29T15:42:24.231996+00:00"
+  },
+  {
+    "id": "character_pose_cooking_at_a_kitchen_counter_or_stove",
+    "term": "cooking at a kitchen counter or stove",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "activity-cooking"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cooking at a kitchen counter or stove. Prompt hint: cooking at a kitchen counter or stove, hands actively working with food, steam rising from a pan",
+    "updated_at": "2026-09-29T15:42:24.231999+00:00"
+  },
+  {
+    "id": "character_pose_behind_the_wheel_of_a_vehicle",
+    "term": "behind the wheel of a vehicle",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "pose",
+    "labels": [
+      "activity-driving"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Behind the wheel, hands gripping. Prompt hint: behind the wheel of a vehicle, both hands on the steering wheel, gaze fixed on the road ahead",
+    "updated_at": "2026-09-29T15:42:24.232003+00:00"
+  },
+  {
+    "id": "character_mood_with_main_character_energy_unbothered_co",
+    "term": "with main-character energy — unbothered confident posture",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "main-character-energy"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Unbothered cinematic confidence. Prompt hint: with main-character energy — unbothered confident posture, signature outfit and direct gaze, framed cinematically with shallow depth of field and warm filmic grading",
+    "updated_at": "2026-09-29T15:44:41.135886+00:00"
+  },
+  {
+    "id": "character_mood_soft_easygoing_mood",
+    "term": "soft easygoing mood",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "soft-easygoing"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Gentle, low-effort warm calm. Prompt hint: in a soft easygoing mood — relaxed knits, oversized layers and easy posture in softly lit rooms, with hazy natural light and creamy gentle color",
+    "updated_at": "2026-09-29T15:44:41.135886+00:00"
+  },
+  {
+    "id": "character_mood_casual_lived_in_mood",
+    "term": "casual lived-in mood",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "casual-lived-in"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Worn-in, unstyled everyday. Prompt hint: in a casual lived-in mood — worn jeans, faded tees and rumpled hair in everyday domestic settings, with flat naturalistic light and unpolished snapshot color",
+    "updated_at": "2026-09-29T15:44:41.135886+00:00"
+  },
+  {
+    "id": "character_mood_in_an_effortless_cool_mood_slouchy_knits",
+    "term": "in an effortless-cool mood — slouchy knits",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "effortless-cool"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Unstudied off-duty French-girl ease. Prompt hint: in an effortless-cool mood — slouchy knits, slip skirts, messy bangs and minimal makeup on cobbled European streets, with gentle desaturated film color",
+    "updated_at": "2026-09-29T15:44:41.135886+00:00"
+  },
+  {
+    "id": "character_mood_in_a_retro_90s_mood_flannel_shirts",
+    "term": "in a retro 90s mood — flannel shirts",
+    "term_zh": "",
+    "category": "character",
+    "subcategory": "mood",
+    "labels": [
+      "retro-90s"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Throwback grunge-meets-mall 90s. Prompt hint: in a retro 90s mood — flannel shirts, slip dresses, chokers and platform boots in mall food courts and bedroom posters, with slight VHS-grain and warm Kodachrome color",
+    "updated_at": "2026-09-29T15:44:41.135886+00:00"
   }
 ]

@@ -1,10 +1,10 @@
 {
-  "version": "1.0.7",
+  "version": "1.1.1",
   "schema_version": "pws-1.0",
-  "total_keywords": 5959,
-  "total_categories": 33,
-  "updated_at": "2026-09-29T09:35:44.656835+00:00",
-  "updated_by": "pws-translate.py",
+  "total_keywords": 5943,
+  "total_categories": 20,
+  "updated_at": "2026-09-29T11:45:00.000000+00:00",
+  "updated_by": "pws-dedup-terms.py",
   "source_summary": {
     "h3-comic-builder (intermediate, not listed as data source)": 859,
     "MidJourney-Reference": 4600,
@@ -98,9 +98,38 @@
       "added": 0,
       "before": 5959,
       "after": 5959
+    },
+    {
+      "version": "1.1.0",
+      "date": "2026-09-29",
+      "changes": [
+        "Category consolidation: 33 → 20 files (see docs/CATEGORY_CONSOLIDATION.md)",
+        "Merged 13 redundant category files: style, aesthetic, atmosphere, mood, pose, wardrobe, setting, backdrop, lens, camera-format, camera-motions, photo-genre, post-process",
+        "Preserved all keywords (5,957 net: 5,948 after merge + 9 restored from aesthetic.json era/mood, -2 dropped as term duplicates with composition/lens)",
+        "Fixed 4 ID duplicates: 3 in styles.json (mj_mj_v5_design_newton_fractal, mj_mj_v5_design_ultra_quality, mj_mj_v5_mediums_says_hello_) + 1 in lighting.json (mj_mj_v5_sfx_post_processing)",
+        "New subcategories: styles/aesthetic (32+), lighting/atmosphere (40), character/mood (56), character/pose (124 total), clothing/wardrobe-* (70), scene/indoor|urban|fantastical|backdrop (80), composition/lens|camera-format|camera-motions (113), photographer/genre (24), color-look/post-process (18)"
+      ],
+      "added": 0,
+      "removed": 13,
+      "before": 5959,
+      "after": 5957
+    },
+    {
+      "version": "1.1.1",
+      "date": "2026-09-29",
+      "changes": [
+        "Removed 14 true-duplicate terms (same term + same category/subcategory)",
+        "Cleanup targets: 9 in composition/camera-motions (camera-motions.json source duplicates), 2 in character/pose (walking/running merged duplicates), 1 in composition/lens (shallow depth of field), 1 in lighting/mj_v5_sfx (Post Processing), 2 in styles/mj_v5_design (Newton Fractal, Ultra Quality)",
+        "Cross-category duplicates are intentionally KEPT (semantically distinct)",
+        "Added tools/pws-dedup-terms.py for future maintenance"
+      ],
+      "added": 0,
+      "removed": 14,
+      "before": 5957,
+      "after": 5943
     }
   ],
-  "description": "5,959 structured keywords across 33 categories. Sources: MidJourney Reference + Danbooru + Danbooru Booster/Civitai + Web Research + @nodaro/prompts (v1.27.0).",
+  "description": "5,943 structured keywords across 20 categories. Sources: MidJourney Reference + Danbooru + Danbooru Booster/Civitai + Web Research + @nodaro/prompts (v1.27.0). v1.1.0 consolidated 33 → 20 categories; v1.1.1 removed 14 true-duplicate terms (see docs/CATEGORY_CONSOLIDATION.md).",
   "data_sources": {
     "note": "h3-comic-builder 是中间件（JS 原始文件已迁移），其 859 个关键词本身也来自网上收集。以下列出所有直接的数据来源。",
     "migration_note": "所有 source 为 h3-comic-builder (original JS migration) 的关键词 859 个是间接来源，不作为独立数据源列出。",

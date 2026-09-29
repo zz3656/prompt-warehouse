@@ -152,67 +152,183 @@ draft → review → approved → archived
 
 ```
 quality           — AI 输出质量提升词
-  ├── basic       — 标准质量标签
-  ├── advanced    — 高端质量标签
-  └── anime       — 动漫专用质量标签
+  ├── basic            — 标准质量标签
+  ├── advanced         — 高端质量标签
+  ├── anime            — 动漫专用质量标签
+  ├── technical        — 技术质量
+  ├── texture          — 质感
+  ├── atmosphere       — 氛围质量
+  ├── color            — 色彩质量
+  └── composition      — 构图质量
 
-composition       — 构图、角度、镜头效果
-  ├── framing     — 镜头尺寸（特写、广角等）
-  ├── angles      — 拍摄角度
-  ├── lens        — 镜头类型和效果
-  └── rules       — 构图规则
+composition       — 构图、角度、镜头、摄影机
+  ├── framing          — 镜头尺寸（特写、广角等）
+  ├── angles           — 拍摄角度
+  ├── lens             — 镜头类型和焦距
+  ├── camera-format    — 摄影机型号与胶片
+  ├── camera-motions   — 摄影机运动（推拉摇移跟）
+  └── rules            — 构图规则
 
 lighting          — 灯光类型与氛围
-  ├── natural     — 自然光（阳光、黄金时段）
-  ├── dramatic    — 戏剧/工作室灯光
-  ├── mood        — 氛围灯光（冷色、霓虹等）
-  ├── dynamic     — 动态大气效果
-  └── special     — 特效（光晕、粒子）
+  ├── natural          — 自然光（阳光、黄金时段）
+  ├── dramatic         — 戏剧/工作室灯光
+  ├── mood             — 氛围灯光（冷色、霓虹等）
+  ├── dynamic          — 动态大气效果
+  ├── special          — 特效（光晕、粒子）
+  └── atmosphere       — 天气与大气（雾、雨、雪等）
 
 character         — 角色外观属性
-  ├── hair        — 发型和描述
-  ├── hairColors  — 发色变体
-  ├── eyes        — 眼睛描述
-  ├── eyeColors   — 眼色变体
-  ├── expression  — 面部表情
-  ├── pose        — 身体姿势
-  ├── anatomy     — 解剖描述
-  ├── bodyType    — 体型
-  └── skin        — 肤色
+  ├── hair             — 发型和描述
+  ├── hairColors       — 发色变体
+  ├── eyes             — 眼睛描述
+  ├── eyeColors        — 眼色变体
+  ├── expression       — 面部表情
+  ├── mood             — 情绪与能量
+  ├── pose             — 身体姿势、手势、动作
+  ├── anatomy          — 解剖描述
+  ├── bodyType         — 体型
+  ├── body             — 身材特征
+  ├── skin             — 肤色
+  ├── age              — 年龄
+  ├── accessories      — 配饰
+  └── effects          — 角色特效
 
-clothing          — 服装与配饰
-  ├── tops        — 上半身服装
-  ├── bottoms     — 下半身服装
-  ├── outfits     — 完整套装
-  └── accessories — 配饰和物品
+clothing          — 服装、材质与配饰
+  ├── tops             — 上半身服装
+  ├── bottoms          — 下半身服装
+  ├── outfits          — 完整套装
+  ├── accessories      — 配饰和物品
+  ├── wardrobe-archetype     — 服装原型（休闲/正装等）
+  ├── wardrobe-top           — 上装单品
+  ├── wardrobe-bottom        — 下装单品
+  ├── wardrobe-outerwear     — 外套
+  ├── wardrobe-footwear      — 鞋类
+  ├── wardrobe-headwear      — 头饰
+  ├── wardrobe-accessories   — 服装配饰
+  ├── wardrobe-color-palette — 服装色彩
+  ├── wardrobe-material      — 服装材质
+  └── wardrobe-era           — 服装时代
 
-styles            — 艺术与渲染风格
-  ├── anime       — 动漫/漫画风格标签
-  ├── art         — 通用艺术风格标签
-  ├── realism     — 照片级真实标签
-  ├── specialty   — 专业/小众风格
-  └── artist      — 艺术家风格参考
+styles            — 艺术、渲染与美学风格
+  ├── animeManga       — 动漫/漫画风格
+  ├── art              — 通用艺术风格
+  ├── artStyles        — MJ 艺术风格集合
+  ├── artistStyle      — 艺术家风格参考
+  ├── realism          — 照片级真实
+  ├── specialty        — 专业/小众风格
+  ├── aesthetic        — 美学微趋势（Y2K、cottagecore 等）
+  └── mj_v5_*          — MidJourney V5 原生子分类
 
 negative          — 负面提示词
-  ├── quality     — 质量负面词
-  ├── anatomy     — 解剖失败
-  ├── face        — 面部失败
-  ├── composition — 构图失败
-  ├── style       — 风格不匹配
-  ├── text        — 文本相关负面
-  └── defects     — 常见生成缺陷
+  ├── quality          — 质量负面词
+  ├── anatomy          — 解剖失败
+  ├── face             — 面部失败
+  ├── composition      — 构图失败
+  ├── style            — 风格不匹配
+  ├── textRelated      — 文本相关负面
+  └── commonDefects    — 常见生成缺陷
 
-scene             — 场景与环境
-  ├── relationship — 角色关系
-  ├── interaction — 角色互动
-  ├── weather     — 天气条件
-  └── time        — 时间段
+scene             — 场景、环境与设定
+  ├── relationship     — 角色关系
+  ├── interaction      — 角色互动
+  ├── weather          — 天气条件
+  ├── time             — 时间段
+  ├── nature           — 自然场景
+  ├── indoor           — 室内场景
+  ├── urban            — 城市场景
+  ├── fantastical      — 奇幻/科幻场景
+  └── backdrop         — 摄影棚背景
 
 panel             — 分镜特效
-  ├── layout      — 分镜布局类型
-  ├── effects     — 漫画/手绘视觉效果
-  ├── animation   — 动画专用术语
-  └── mood        — 分镜情感基调
+  ├── panelLayout      — 分镜布局类型
+  ├── comicEffects     — 漫画/手绘视觉效果
+  ├── animation        — 动画专用术语
+  └── panelMood        — 分镜情感基调
+
+color-look        — 色彩分级与后期处理
+  ├── palette          — 色彩调色板
+  ├── film-emulation   — 胶片模拟
+  ├── social-preset    — 社交媒体预设
+  └── post-process     — 后期处理（暗角、颗粒等）
+
+photographer      — 摄影师风格与流派
+  ├── editorial        — 摄影师参考（Tim Walker 等）
+  ├── illustrator      — 插画师风格
+  ├── concept          — 概念艺术
+  ├── documentary      — 纪实摄影
+  ├── cinematographer  — 电影摄影师
+  └── genre            — 摄影流派（编辑/自拍/纪实等）
+
+material          — 材质与表面
+  ├── fabric           — 织物
+  ├── metal            — 金属
+  ├── stone            — 石材
+  ├── natural          — 自然材质
+  ├── wood             — 木材
+  ├── glass-ceramic    — 玻璃陶瓷
+  └── exotic           — 异国情调材质
+
+render-quality    — 渲染引擎与技术
+  ├── engines          — 渲染引擎（Octane、Unreal 等）
+  ├── resolution       — 分辨率
+  ├── stamps           — 渲染标签
+  ├── technical        — 技术参数
+  └── other            — 其他
+
+action-fx         — 场景动作特效
+  ├── disaster         — 灾害（地震、火山等）
+  ├── fire-blasts      — 爆炸与火焰
+  ├── electric         — 电击
+  ├── combat           — 战斗
+  ├── sci-fi           — 科幻特效
+  ├── magic            — 魔法特效
+  └── misc             — 其他
+
+character-fx      — 角色特效
+  ├── transformation   — 变身/变形
+  ├── power            — 超能力
+  ├── body-mod         — 身体改造
+  ├── face-expression  — 面部特效
+  └── aura-ambient     — 光环氛围
+
+held-prop         — 手持道具与物品
+  ├── occupational     — 职业道具
+  ├── device           — 设备
+  ├── reading-writing  — 读写用品
+  ├── drink            — 饮品
+  ├── bag-accessory    — 包包配饰
+  ├── smoking          — 吸烟用品
+  ├── instrument       — 乐器
+  ├── floral-nature    — 花草自然
+  └── companion        — 伴侣/宠物
+
+era               — 历史/科幻时代
+  ├── pre-modern       — 古代与近代前
+  ├── decade-20c       — 20 世纪各年代
+  └── speculative      — 推测性时代（赛博朋克等）
+
+framing           — 摄影构图（高级）
+  ├── shot-size        — 景别
+  ├── composition      — 构图
+  ├── coverage         — 覆盖范围
+  ├── angle            — 角度
+  └── vantage          — 视角
+
+temporal          — 时间效果（视频）
+  ├── speed            — 速度（慢动作/延时）
+  ├── shutter          — 快门效果
+  ├── freeze           — 冻结效果
+  └── direction        — 时间方向
+
+transitions       — 转场效果（视频）
+  ├── standard         — 标准转场
+  ├── element          — 元素转场
+  ├── portal           — 传送门转场
+  ├── physics          — 物理转场
+  ├── morph            — 变形转场
+  ├── time             — 时间转场
+  ├── light            — 光效转场
+  └── glitch           — 故障转场
 ```
 
 ---
@@ -608,17 +724,30 @@ var QUALITY = {
 
 ## 附录 A：分类参考
 
-| 分类 | Slug | 默认评分 | 生命周期 |
-|------|------|----------|----------|
-| 质量 | `quality` | 0.85 | approved |
-| 构图 | `composition` | 0.75 | approved |
-| 灯光 | `lighting` | 0.80 | approved |
-| 角色 | `character` | 0.70 | approved |
-| 服装 | `clothing` | 0.65 | approved |
-| 风格 | `styles` | 0.75 | approved |
-| 负面 | `negative` | 0.90 | approved |
-| 场景 | `scene` | 0.60 | approved |
-| 分镜 | `panel` | 0.65 | approved |
+> v1.1.0 更新：从 9 个核心分类扩展为 20 个独立分类文件（详情见 docs/CATEGORY_CONSOLIDATION.md）。
+
+| # | 分类 | Slug | 文件 | 默认评分 | 生命周期 |
+|---|------|------|------|----------|----------|
+| 1 | 质量 | `quality` | `quality.json` | 0.85 | approved |
+| 2 | 构图 | `composition` | `composition.json` | 0.75 | approved |
+| 3 | 灯光 | `lighting` | `lighting.json` | 0.80 | approved |
+| 4 | 角色 | `character` | `character.json` | 0.70 | approved |
+| 5 | 服装 | `clothing` | `clothing.json` | 0.65 | approved |
+| 6 | 风格 | `styles` | `styles.json` | 0.75 | approved |
+| 7 | 负面 | `negative` | `negative.json` | 0.90 | approved |
+| 8 | 场景 | `scene` | `scene.json` | 0.60 | approved |
+| 9 | 分镜 | `panel` | `panel.json` | 0.65 | approved |
+| 10 | 色彩 | `color-look` | `color-look.json` | 0.70 | approved |
+| 11 | 摄影师 | `photographer` | `photographer.json` | 0.65 | approved |
+| 12 | 材质 | `material` | `material.json` | 0.60 | approved |
+| 13 | 渲染质量 | `render-quality` | `render-quality.json` | 0.70 | approved |
+| 14 | 动作特效 | `action-fx` | `action-fx.json` | 0.70 | approved |
+| 15 | 角色特效 | `character-fx` | `character-fx.json` | 0.70 | approved |
+| 16 | 手持道具 | `held-prop` | `held-prop.json` | 0.60 | approved |
+| 17 | 时代 | `era` | `era.json` | 0.65 | approved |
+| 18 | 构图（高级） | `framing` | `framing.json` | 0.70 | approved |
+| 19 | 时间效果 | `temporal` | `temporal.json` | 0.65 | approved |
+| 20 | 转场效果 | `transitions` | `transitions.json` | 0.65 | approved |
 
 ## 附录 B：评分解读
 

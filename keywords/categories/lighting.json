@@ -5500,31 +5500,6 @@
     "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_SFX_and_Shaders"
   },
   {
-    "id": "mj_mj_v5_sfx_post_processing",
-    "term": "Post Processing",
-    "category": "lighting",
-    "subcategory": "mj_v5_sfx",
-    "labels": [
-      "mj_v5_sfx",
-      "post"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "midjourney-v5",
-      "migrated",
-      "mj-source",
-      "lighting"
-    ],
-    "created_at": "2026-09-28T15:15:10.023870+00:00",
-    "updated_at": "2026-09-28T15:15:10.023871+00:00",
-    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_SFX_and_Shaders"
-  },
-  {
     "id": "mj_mj_v5_sfx_post_production",
     "term": "Post Production",
     "category": "lighting",
@@ -8409,5 +8384,885 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "lighting_atmosphere_clear_atmosphere",
+    "term": "clear atmosphere",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "clear"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Clean, no atmospheric effect. Prompt hint: clear atmosphere, clean visibility with no fog or particles",
+    "updated_at": "2026-09-29T15:42:24.230833+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_cloudy_sky",
+    "term": "cloudy sky",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "cloudy"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Partial cloud cover, mixed light. Prompt hint: cloudy atmosphere, partial cloud cover with mixed direct and diffused light, soft contrast and intermittent shadows",
+    "updated_at": "2026-09-29T15:42:24.230848+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_overcast_sky",
+    "term": "overcast sky",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "overcast"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Uniform gray cloud cover. Prompt hint: overcast atmosphere, uniform gray cloud cover with diffused flat light",
+    "updated_at": "2026-09-29T15:42:24.230852+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_dense_fog",
+    "term": "dense fog",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "fog"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Dense low-visibility fog. Prompt hint: dense fog atmosphere, thick low-visibility moisture obscuring all but the nearest subject, muted desaturated tones",
+    "updated_at": "2026-09-29T15:42:24.230856+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_light_mist",
+    "term": "light mist",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "mist"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Thin diffusing mist. Prompt hint: light mist atmosphere, thin atmospheric haze gently diffusing distant elements while keeping the subject crisp",
+    "updated_at": "2026-09-29T15:42:24.230859+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_soft_fog_and_mist",
+    "term": "soft fog and mist",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "fog-mist"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Soft diffusing fog. Prompt hint: foggy atmosphere, soft mist reducing visibility and diffusing distant elements",
+    "updated_at": "2026-09-29T15:42:24.230863+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_light_rain_falling_softly",
+    "term": "light rain falling softly",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "light-rain"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Soft falling rain. Prompt hint: light rain falling softly, subtle droplets visible in the air with wet surfaces",
+    "updated_at": "2026-09-29T15:42:24.230867+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_heavy_rainstorm",
+    "term": "heavy rainstorm",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "heavy-rain"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Heavy storm with sheets of rain. Prompt hint: heavy rainstorm, dense sheets of rain with visible droplets and splashing surfaces",
+    "updated_at": "2026-09-29T15:42:24.230870+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_thunderstorm",
+    "term": "thunderstorm",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "storm"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Violent thunderstorm with rain + lightning. Prompt hint: stormy atmosphere, violent thunderstorm with sheeting rain, dramatic dark clouds, flickering lightning illuminating the scene, and wind-driven debris",
+    "updated_at": "2026-09-29T15:42:24.230874+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_falling_snow",
+    "term": "falling snow",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "snow"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Falling snowflakes. Prompt hint: falling snow, snowflakes drifting through the air and accumulating on surfaces",
+    "updated_at": "2026-09-29T15:42:24.230877+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_blizzard_atmosphere",
+    "term": "blizzard atmosphere",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "blizzard"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Violent snowstorm, near whiteout. Prompt hint: blizzard atmosphere, violent snowstorm with horizontal wind-driven snow, near-whiteout visibility, deep accumulation on every surface",
+    "updated_at": "2026-09-29T15:42:24.230881+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_airborne_dust",
+    "term": "airborne dust",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "dust"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Dust particles in air. Prompt hint: dusty atmosphere, visible airborne dust particles catching light and softening distant elements",
+    "updated_at": "2026-09-29T15:42:24.230884+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_visible_volumetric_god_rays",
+    "term": "visible volumetric god rays",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "god-rays"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Sun shafts through haze. Prompt hint: visible volumetric god rays, sun shafts cutting through hazy atmosphere",
+    "updated_at": "2026-09-29T15:42:24.230888+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_drifting_smoke",
+    "term": "drifting smoke",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "smoke"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Drifting smoke. Prompt hint: drifting smoke in the scene, hazy volumetric smoke partially obscuring the subject",
+    "updated_at": "2026-09-29T15:42:24.230891+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_floating_bokeh_particles_in_the_air",
+    "term": "floating bokeh particles in the air",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "bokeh-particles"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Floating out-of-focus specks. Prompt hint: floating bokeh particles in the air, out-of-focus glowing specks adding ambient depth",
+    "updated_at": "2026-09-29T15:42:24.230895+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_soft_chalk_dust_haze_suspended_in_the_ai",
+    "term": "soft chalk dust haze suspended in the air",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "chalk-dust"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Soft chalk dust hanging in the air. Prompt hint: soft chalk dust haze suspended in the air, fine pale powder catching light with a classroom-like quality",
+    "updated_at": "2026-09-29T15:42:24.230899+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_delicate_flower_petals_drifting_through_",
+    "term": "delicate flower petals drifting through the frame",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "falling-petals"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Drifting flower petals. Prompt hint: delicate flower petals drifting through the frame, cherry-blossom or rose petals tumbling slowly on a soft breeze",
+    "updated_at": "2026-09-29T15:42:24.230907+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_colorful_confetti_raining_through_the_fr",
+    "term": "colorful confetti raining through the frame",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "confetti"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Colorful confetti falling. Prompt hint: colorful confetti raining through the frame, bright paper flecks tumbling and twirling against the background",
+    "updated_at": "2026-09-29T15:42:24.230912+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_sparks_and_embers",
+    "term": "sparks and embers",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "sparks-embers"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Glowing embers drifting upward. Prompt hint: glowing sparks and embers drifting upward through the air, hot orange specks trailing faint motion against darker surroundings",
+    "updated_at": "2026-09-29T15:42:24.230916+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_anamorphic_lens_flare",
+    "term": "anamorphic lens flare",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "lens-flare"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Anamorphic flare streak across frame. Prompt hint: anamorphic horizontal lens flare streaking across the frame, cinematic light artifact with subtle ghosting and bloom",
+    "updated_at": "2026-09-29T15:42:24.230919+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_visible_heat_shimmer_rising_in_the_scene",
+    "term": "visible heat shimmer rising in the scene",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "heat-haze"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Visible heat shimmer warping background. Prompt hint: visible heat shimmer rising in the scene, warping and rippling the background with refracted air distortion",
+    "updated_at": "2026-09-29T15:42:24.230924+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_rising_steam",
+    "term": "rising steam",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "steam"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Rising white steam. Prompt hint: soft white steam rising through the frame, warm vapor curling upward from a hot surface and catching ambient light",
+    "updated_at": "2026-09-29T15:42:24.230928+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_streams_of_bubbles_rising_through_water",
+    "term": "streams of bubbles rising through water",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "bubbles-underwater"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Rising bubbles in water. Prompt hint: streams of bubbles rising through water, clear underwater spheres drifting upward with shifting refractive light",
+    "updated_at": "2026-09-29T15:42:24.230931+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_raindrops_beading_and_streaking_down_a_f",
+    "term": "raindrops beading and streaking down a foreground window pan",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "rain-on-glass"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Droplets streaking foreground glass. Prompt hint: raindrops beading and streaking down a foreground window pane, distorting the view behind with soft refracted detail",
+    "updated_at": "2026-09-29T15:42:24.230935+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_sunlit_pollen_motes",
+    "term": "sunlit pollen motes",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "pollen-light"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Warm particles in a sunbeam. Prompt hint: warm pollen and floating particles caught in a beam of sunlight, glowing motes drifting lazily through a shaft of light",
+    "updated_at": "2026-09-29T15:42:24.230940+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_water_droplets_on_skin",
+    "term": "water droplets on skin",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "water-droplets"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Droplets clinging to skin or surface. Prompt hint: fine water droplets clinging to skin and surfaces, fresh post-shower wetness with small beads catching highlights",
+    "updated_at": "2026-09-29T15:42:24.230943+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_fine_grey_ash_drifting_slowly_through_th",
+    "term": "fine grey ash drifting slowly through the air",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "falling-ash"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Fine grey ash drifting through the air. Prompt hint: fine grey ash drifting slowly through the air, weightless flakes settling across the scene with a quiet post-fire mood",
+    "updated_at": "2026-09-29T15:42:24.230946+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_fireflies_drifting_in_soft_warm_pulses_t",
+    "term": "fireflies drifting in soft warm pulses through the scene",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "fireflies"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Drifting bioluminescent specks. Prompt hint: fireflies drifting in soft warm pulses through the scene, summer-night magic glinting in the air with bioluminescent specks",
+    "updated_at": "2026-09-29T15:42:24.230950+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_thick_incense_smoke_rising_slowly_throug",
+    "term": "thick incense smoke rising slowly through the frame",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "incense-smoke"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Slow rising thick incense smoke. Prompt hint: thick incense smoke rising slowly through the frame, spiritual temple atmosphere with dust-lit shafts curling upward",
+    "updated_at": "2026-09-29T15:42:24.230955+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_exhaled_cigarette_smoke_curling_upward_t",
+    "term": "exhaled cigarette smoke curling upward through the frame",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "cigarette-smoke"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Exhaled smoke curling upward. Prompt hint: exhaled cigarette smoke curling upward through the frame, café noir mood with thin pale plumes drifting against ambient light",
+    "updated_at": "2026-09-29T15:42:24.230959+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_candlelight_glow",
+    "term": "candlelight glow",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "candle-glow"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Warm flame light with soft halo. Prompt hint: warm candle flame casting a soft glowing halo across the scene, intimate vigil-like atmosphere with flickering golden light pooling around the source",
+    "updated_at": "2026-09-29T15:42:24.230963+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_floating_glitter_particles",
+    "term": "floating glitter particles",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "glitter-sparkle"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Sparkly particles in air. Prompt hint: sparkly glitter particles suspended in the air, party-disco atmosphere with tiny points of light catching and reflecting across the scene",
+    "updated_at": "2026-09-29T15:42:24.230966+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_visible_starfield",
+    "term": "visible starfield",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "starfield"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Visible night sky with stars. Prompt hint: visible starfield filling the night sky, milky way and countless points of light spread across a vast cosmic backdrop",
+    "updated_at": "2026-09-29T15:42:24.230970+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_drifting_dandelion_seeds",
+    "term": "drifting dandelion seeds",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "dandelion-seeds"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Drifting dandelion fluff. Prompt hint: dandelion seed fluff drifting on a soft summer breeze, ethereal whitish parachutes floating weightlessly through the frame with whimsical magic",
+    "updated_at": "2026-09-29T15:42:24.230973+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_drifting_golden_pollen",
+    "term": "drifting golden pollen",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "pollen-drift"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Fine yellow-gold pollen in golden light. Prompt hint: fine yellow-gold pollen drifting through golden hour light, warm dust motes suspended in slanted sunbeams across the scene",
+    "updated_at": "2026-09-29T15:42:24.230976+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_heavy_thick_snowflakes_filling_the_air_i",
+    "term": "heavy thick snowflakes filling the air in a near-blizzard",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "snowflakes-heavy"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Heavy thick snowflakes filling the air, blizzard. Prompt hint: heavy thick snowflakes filling the air in a near-blizzard, dense flurries blowing across the frame and accumulating rapidly on every surface",
+    "updated_at": "2026-09-29T15:42:24.230979+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_light_drifting_snow",
+    "term": "light drifting snow",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "snowflakes-light"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Sparse drifting snowflakes, calm winter scene. Prompt hint: sparse snowflakes drifting lazily through a calm winter scene, occasional flakes catching ambient light against a quiet hushed atmosphere",
+    "updated_at": "2026-09-29T15:42:24.230984+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_visible_water_droplets_beading_on_skin_a",
+    "term": "visible water droplets beading on skin and hair",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "raindrops-on-skin"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Visible water droplets beading on skin and hair. Prompt hint: visible water droplets beading on skin and hair, fresh rain catching highlights with rivulets tracing down cheeks and damp strands clinging to the face",
+    "updated_at": "2026-09-29T15:42:24.230987+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_glowing_blue_green_bioluminescent_partic",
+    "term": "glowing blue-green bioluminescent particles drifting through",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "bioluminescent-cloud"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Glowing blue-green bioluminescent particles drifting like sea sparkle. Prompt hint: glowing blue-green bioluminescent particles drifting through the air like sea sparkle, ethereal cyan motes pulsing softly with their own light against a darkened backdrop",
+    "updated_at": "2026-09-29T15:42:24.230991+00:00"
+  },
+  {
+    "id": "lighting_atmosphere_motion_blur_streaks",
+    "term": "motion blur streaks",
+    "term_zh": "",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "motion-streaks"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Speed-line motion-blur streaks suggesting fast movement. Prompt hint: speed-line motion-blur streaks slicing across the frame, smeared light trails and directional blur suggesting fast movement through the scene",
+    "updated_at": "2026-09-29T15:42:24.230995+00:00"
   }
 ]

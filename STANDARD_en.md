@@ -604,17 +604,30 @@ var QUALITY = {
 
 ## Appendix A: Category Reference
 
-| Category | Slug | Default Score | Lifecycle |
-|----------|------|---------------|-----------|
-| Quality | `quality` | 0.85 | approved |
-| Composition | `composition` | 0.75 | approved |
-| Lighting | `lighting` | 0.80 | approved |
-| Character | `character` | 0.70 | approved |
-| Clothing | `clothing` | 0.65 | approved |
-| Styles | `styles` | 0.75 | approved |
-| Negative | `negative` | 0.90 | approved |
-| Scene | `scene` | 0.60 | approved |
-| Panel | `panel` | 0.65 | approved |
+> Updated in v1.1.0: Expanded from 9 core categories to 20 independent category files (see docs/CATEGORY_CONSOLIDATION.md for details).
+
+| # | Category | Slug | File | Default Score | Lifecycle |
+|---|----------|------|------|---------------|-----------|
+| 1 | Quality | `quality` | `quality.json` | 0.85 | approved |
+| 2 | Composition | `composition` | `composition.json` | 0.75 | approved |
+| 3 | Lighting | `lighting` | `lighting.json` | 0.80 | approved |
+| 4 | Character | `character` | `character.json` | 0.70 | approved |
+| 5 | Clothing | `clothing` | `clothing.json` | 0.65 | approved |
+| 6 | Styles | `styles` | `styles.json` | 0.75 | approved |
+| 7 | Negative | `negative` | `negative.json` | 0.90 | approved |
+| 8 | Scene | `scene` | `scene.json` | 0.60 | approved |
+| 9 | Panel | `panel` | `panel.json` | 0.65 | approved |
+| 10 | Color & Look | `color-look` | `color-look.json` | 0.70 | approved |
+| 11 | Photographer | `photographer` | `photographer.json` | 0.65 | approved |
+| 12 | Material | `material` | `material.json` | 0.60 | approved |
+| 13 | Render Quality | `render-quality` | `render-quality.json` | 0.70 | approved |
+| 14 | Action FX | `action-fx` | `action-fx.json` | 0.70 | approved |
+| 15 | Character FX | `character-fx` | `character-fx.json` | 0.70 | approved |
+| 16 | Held Prop | `held-prop` | `held-prop.json` | 0.60 | approved |
+| 17 | Era | `era` | `era.json` | 0.65 | approved |
+| 18 | Framing (Advanced) | `framing` | `framing.json` | 0.70 | approved |
+| 19 | Temporal | `temporal` | `temporal.json` | 0.65 | approved |
+| 20 | Transitions | `transitions` | `transitions.json` | 0.65 | approved |
 
 ## Appendix B: Score Interpretation
 

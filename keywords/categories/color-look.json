@@ -859,5 +859,401 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Modern warm editorial grade. Prompt hint: modern lifestyle magazine warm-leaning grade, creamy honeyed highlights, gently warmed skin tones, soft golden mids and clean neutral shadows, contemporary editorial commercial aesthetic for fashion and food photography"
+  },
+  {
+    "id": "color-look_post-process_soft_dark_vignette_gently_darkening_the_",
+    "term": "soft dark vignette gently darkening the corners of the frame",
+    "term_zh": "",
+    "category": "color-look",
+    "subcategory": "post-process",
+    "labels": [
+      "vignette-soft"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Gentle corner darkening. Prompt hint: soft dark vignette gently darkening the corners of the frame, drawing the eye toward the center without calling attention to itself",
+    "updated_at": "2026-09-29T15:42:24.235855+00:00"
+  },
+  {
+    "id": "color-look_post-process_heavy_black_vignette_circumscribing_the_",
+    "term": "heavy black vignette circumscribing the subject in a dramati",
+    "term_zh": "",
+    "category": "color-look",
+    "subcategory": "post-process",
+    "labels": [
+      "vignette-heavy"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Dramatic black corners. Prompt hint: heavy black vignette circumscribing the subject in a dramatic dark oval, deep falloff at the edges that nearly crushes to black",
+    "updated_at": "2026-09-29T15:42:24.235862+00:00"
+  },
+  {
+    "id": "color-look_post-process_dodge_and_burn",
+    "term": "dodge and burn",
+    "term_zh": "",
+    "category": "color-look",
+    "subcategory": "post-process",
+    "labels": [
+      "dodge-and-burn"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Sculpted highlight/shadow. Prompt hint: aggressive dodge-and-burn shaping with sculpted highlight and shadow chiaroscuro, hand-painted-style local contrast carving form into the subject",
+    "updated_at": "2026-09-29T15:42:24.235867+00:00"
+  },
+  {
+    "id": "color-look_post-process_fine_film_grain_overlay_across_the_entir",
+    "term": "fine film grain overlay across the entire image",
+    "term_zh": "",
+    "category": "color-look",
+    "subcategory": "post-process",
+    "labels": [
+      "film-grain-fine"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subtle 35mm-style grain. Prompt hint: fine film grain overlay across the entire image, classic 35mm character with delicate organic noise that softens digital edges",
+    "updated_at": "2026-09-29T15:42:24.235870+00:00"
+  },
+  {
+    "id": "color-look_post-process_heavy_coarse_grain_like_push_processed_h",
+    "term": "heavy coarse grain like push-processed high-ISO film",
+    "term_zh": "",
+    "category": "color-look",
+    "subcategory": "post-process",
+    "labels": [
+      "film-grain-heavy"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Coarse push-processed grain. Prompt hint: heavy coarse grain like push-processed high-ISO film, gritty texture across midtones and dense noise in the shadows",
+    "updated_at": "2026-09-29T15:42:24.235874+00:00"
+  },
+  {
+    "id": "color-look_post-process_warm_halation_glow",
+    "term": "warm halation glow",
+    "term_zh": "",
+    "category": "color-look",
+    "subcategory": "post-process",
+    "labels": [
+      "halation-glow"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cinestill red-halo bloom. Prompt hint: warm halation glow blooming around bright highlights, signature cinestill-style red halo bleeding from light sources and tungsten practicals",
+    "updated_at": "2026-09-29T15:42:24.235893+00:00"
+  },
+  {
+    "id": "color-look_post-process_highlight_bloom",
+    "term": "highlight bloom",
+    "term_zh": "",
+    "category": "color-look",
+    "subcategory": "post-process",
+    "labels": [
+      "bloom-glow"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Romantic dreamy highlight bloom. Prompt hint: dreamy soft-focus bloom on highlights, romantic glow that wraps around bright areas and lifts the overall mood with a hazy halo",
+    "updated_at": "2026-09-29T15:42:24.235897+00:00"
+  },
+  {
+    "id": "color-look_post-process_visible_chromatic_aberration_with_red_an",
+    "term": "visible chromatic aberration with red and cyan fringing on c",
+    "term_zh": "",
+    "category": "color-look",
+    "subcategory": "post-process",
+    "labels": [
+      "chromatic-aberration"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Red/cyan fringe on edges. Prompt hint: visible chromatic aberration with red and cyan fringing on contrast edges, lens-imperfection look that reads as authentic optical character",
+    "updated_at": "2026-09-29T15:42:24.235900+00:00"
+  },
+  {
+    "id": "color-look_post-process_warm_orange_light_leak_streaking_across_",
+    "term": "warm orange light leak streaking across one edge of the fram",
+    "term_zh": "",
+    "category": "color-look",
+    "subcategory": "post-process",
+    "labels": [
+      "light-leak"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Warm streak across the frame. Prompt hint: warm orange light leak streaking across one edge of the frame, fogged film aesthetic with a soft amber wash bleeding into the image",
+    "updated_at": "2026-09-29T15:42:24.235906+00:00"
+  },
+  {
+    "id": "color-look_post-process_film_burn_flare_in_the_corner_with_a_vin",
+    "term": "film burn flare in the corner with a vintage Super-8 aesthet",
+    "term_zh": "",
+    "category": "color-look",
+    "subcategory": "post-process",
+    "labels": [
+      "film-burn"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Vintage Super-8 corner flare. Prompt hint: film burn flare in the corner with a vintage Super-8 aesthetic, charred edge bleeding orange and white light into the frame",
+    "updated_at": "2026-09-29T15:42:24.235911+00:00"
+  },
+  {
+    "id": "color-look_post-process_scratched_dusty_film_emulsion",
+    "term": "scratched, dusty film emulsion",
+    "term_zh": "",
+    "category": "color-look",
+    "subcategory": "post-process",
+    "labels": [
+      "scratched-emulsion"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Aged film scratches + dust. Prompt hint: vertical scratches and dust marks like aged film emulsion, hairline streaks running through the frame and scattered dust specks across the image",
+    "updated_at": "2026-09-29T15:42:24.235918+00:00"
+  },
+  {
+    "id": "color-look_post-process_subtle_color_fringing",
+    "term": "subtle color fringing",
+    "term_zh": "",
+    "category": "color-look",
+    "subcategory": "post-process",
+    "labels": [
+      "color-fringe"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subtle high-contrast fringing. Prompt hint: subtle color fringing on high-contrast edges, gentle prismatic shimmer that adds optical authenticity without overwhelming the image",
+    "updated_at": "2026-09-29T15:42:24.235921+00:00"
+  },
+  {
+    "id": "color-look_post-process_soft_focus_diffusion_filter_slightly_haz",
+    "term": "soft-focus diffusion filter — slightly hazy dreamy bloom on ",
+    "term_zh": "",
+    "category": "color-look",
+    "subcategory": "post-process",
+    "labels": [
+      "soft-focus-diffusion"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hazy dreamy highlight bloom. Prompt hint: soft-focus diffusion filter — slightly hazy dreamy bloom on highlights, glowing skin tones and a romantic veil across the entire image",
+    "updated_at": "2026-09-29T15:42:24.235926+00:00"
+  },
+  {
+    "id": "color-look_post-process_aggressive_contrast_boost",
+    "term": "aggressive contrast boost",
+    "term_zh": "",
+    "category": "color-look",
+    "subcategory": "post-process",
+    "labels": [
+      "contrast-boost"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Crushed shadows + pushed highlights. Prompt hint: aggressive contrast boost, deepened shadows crushing toward black and pushed highlights, punchy editorial-grade tonal separation",
+    "updated_at": "2026-09-29T15:42:24.235932+00:00"
+  },
+  {
+    "id": "color-look_post-process_aggressive_edge_sharpening_pass_with_cri",
+    "term": "aggressive edge-sharpening pass with crisp micro-detail emph",
+    "term_zh": "",
+    "category": "color-look",
+    "subcategory": "post-process",
+    "labels": [
+      "sharpening"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Aggressive edge-sharpening pass, crisp micro-detail. Prompt hint: aggressive edge-sharpening pass with crisp micro-detail emphasized, hardened edges and pronounced texture acutance across the entire image",
+    "updated_at": "2026-09-29T15:42:24.235935+00:00"
+  },
+  {
+    "id": "color-look_post-process_mid_tone_clarity_enhancement_with_increa",
+    "term": "mid-tone clarity enhancement with increased local contrast",
+    "term_zh": "",
+    "category": "color-look",
+    "subcategory": "post-process",
+    "labels": [
+      "clarity-boost"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Mid-tone clarity enhancement, increased local contrast. Prompt hint: mid-tone clarity enhancement with increased local contrast, deepened textural definition and punchy structural detail without crushing shadows or highlights",
+    "updated_at": "2026-09-29T15:42:24.235940+00:00"
+  },
+  {
+    "id": "color-look_post-process_atmospheric_dehaze",
+    "term": "atmospheric dehaze",
+    "term_zh": "",
+    "category": "color-look",
+    "subcategory": "post-process",
+    "labels": [
+      "dehaze"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Atmospheric dehaze applied, removing softness and lifting contrast through fog. Prompt hint: atmospheric dehaze applied across the frame, removing veiling softness and lifting contrast through haze and fog with restored color saturation in distant tones",
+    "updated_at": "2026-09-29T15:42:24.235944+00:00"
+  },
+  {
+    "id": "color-look_post-process_three_way_lift_gamma_gain_grade",
+    "term": "three-way lift gamma gain grade",
+    "term_zh": "",
+    "category": "color-look",
+    "subcategory": "post-process",
+    "labels": [
+      "lift-gamma-gain"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Three-way color grading wheels — shadow lift, midtone gamma, highlight gain. Prompt hint: three-way color grading with lift-gamma-gain wheels shaping shadow lift, midtone gamma and highlight gain independently, professional colorist-grade tonal sculpting",
+    "updated_at": "2026-09-29T15:42:24.235948+00:00"
   }
 ]

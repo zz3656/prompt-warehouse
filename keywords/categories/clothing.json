@@ -15211,5 +15211,1545 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+  },
+  {
+    "id": "clothing_wardrobe-archetype_in_casual_everyday_clothing",
+    "term": "in casual everyday clothing",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-archetype",
+    "labels": [
+      "wd-casual"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in casual everyday clothing",
+    "updated_at": "2026-09-29T15:42:24.232261+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-archetype_in_smart_business_attire",
+    "term": "in smart business attire",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-archetype",
+    "labels": [
+      "wd-business"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in smart business attire",
+    "updated_at": "2026-09-29T15:42:24.232266+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-archetype_in_elegant_formal_wear",
+    "term": "in elegant formal wear",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-archetype",
+    "labels": [
+      "wd-formal"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in elegant formal wear",
+    "updated_at": "2026-09-29T15:42:24.232269+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-archetype_in_contemporary_streetwear",
+    "term": "in contemporary streetwear",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-archetype",
+    "labels": [
+      "wd-streetwear"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in contemporary streetwear",
+    "updated_at": "2026-09-29T15:42:24.232273+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-archetype_in_athletic_sportswear",
+    "term": "in athletic sportswear",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-archetype",
+    "labels": [
+      "wd-athletic"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in athletic sportswear",
+    "updated_at": "2026-09-29T15:42:24.232277+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-archetype_in_fantasy_costume",
+    "term": "in fantasy costume",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-archetype",
+    "labels": [
+      "wd-fantasy"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in fantasy costume",
+    "updated_at": "2026-09-29T15:42:24.232280+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-archetype_in_futuristic_sci_fi_attire",
+    "term": "in futuristic sci-fi attire",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-archetype",
+    "labels": [
+      "wd-scifi"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in futuristic sci-fi attire",
+    "updated_at": "2026-09-29T15:42:24.232283+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-archetype_in_period_historical_dress",
+    "term": "in period historical dress",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-archetype",
+    "labels": [
+      "wd-historical"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in period historical dress",
+    "updated_at": "2026-09-29T15:42:24.232287+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-archetype_in_a_uniform",
+    "term": "in a uniform",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-archetype",
+    "labels": [
+      "wd-uniform"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in a uniform",
+    "updated_at": "2026-09-29T15:42:24.232291+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-archetype_in_relaxed_loungewear",
+    "term": "in relaxed loungewear",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-archetype",
+    "labels": [
+      "wd-loungewear"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in relaxed loungewear",
+    "updated_at": "2026-09-29T15:42:24.232294+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-top_wearing_a_t_shirt",
+    "term": "wearing a t-shirt",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-top",
+    "labels": [
+      "wd-tshirt"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing a t-shirt",
+    "updated_at": "2026-09-29T15:42:24.232297+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-top_wearing_a_blouse",
+    "term": "wearing a blouse",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-top",
+    "labels": [
+      "wd-blouse"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing a blouse",
+    "updated_at": "2026-09-29T15:42:24.232301+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-top_wearing_a_hoodie",
+    "term": "wearing a hoodie",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-top",
+    "labels": [
+      "wd-hoodie"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing a hoodie",
+    "updated_at": "2026-09-29T15:42:24.232304+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-top_wearing_a_button_down_shirt",
+    "term": "wearing a button-down shirt",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-top",
+    "labels": [
+      "wd-buttondown"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing a button-down shirt",
+    "updated_at": "2026-09-29T15:42:24.232308+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-top_wearing_a_tank_top",
+    "term": "wearing a tank top",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-top",
+    "labels": [
+      "wd-tank"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing a tank top",
+    "updated_at": "2026-09-29T15:42:24.232311+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-top_wearing_a_sweater",
+    "term": "wearing a sweater",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-top",
+    "labels": [
+      "wd-sweater"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing a sweater",
+    "updated_at": "2026-09-29T15:42:24.232315+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-top_wearing_a_turtleneck",
+    "term": "wearing a turtleneck",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-top",
+    "labels": [
+      "wd-turtleneck"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing a turtleneck",
+    "updated_at": "2026-09-29T15:42:24.232318+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-bottom_wearing_jeans",
+    "term": "wearing jeans",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-bottom",
+    "labels": [
+      "wd-jeans"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing jeans",
+    "updated_at": "2026-09-29T15:42:24.232321+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-bottom_wearing_tailored_trousers",
+    "term": "wearing tailored trousers",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-bottom",
+    "labels": [
+      "wd-trousers"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing tailored trousers",
+    "updated_at": "2026-09-29T15:42:24.232324+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-bottom_wearing_a_skirt",
+    "term": "wearing a skirt",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-bottom",
+    "labels": [
+      "wd-skirt"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing a skirt",
+    "updated_at": "2026-09-29T15:42:24.232328+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-bottom_wearing_shorts",
+    "term": "wearing shorts",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-bottom",
+    "labels": [
+      "wd-shorts"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing shorts",
+    "updated_at": "2026-09-29T15:42:24.232331+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-bottom_wearing_leggings",
+    "term": "wearing leggings",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-bottom",
+    "labels": [
+      "wd-leggings"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing leggings",
+    "updated_at": "2026-09-29T15:42:24.232334+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-bottom_wearing_cargo_pants",
+    "term": "wearing cargo pants",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-bottom",
+    "labels": [
+      "wd-cargo"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing cargo pants",
+    "updated_at": "2026-09-29T15:42:24.232337+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-outerwear_in_a_leather_jacket",
+    "term": "in a leather jacket",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-outerwear",
+    "labels": [
+      "wd-leatherjkt"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in a leather jacket",
+    "updated_at": "2026-09-29T15:42:24.232341+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-outerwear_in_a_blazer",
+    "term": "in a blazer",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-outerwear",
+    "labels": [
+      "wd-blazer"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in a blazer",
+    "updated_at": "2026-09-29T15:42:24.232344+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-outerwear_in_a_trench_coat",
+    "term": "in a trench coat",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-outerwear",
+    "labels": [
+      "wd-trench"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in a trench coat",
+    "updated_at": "2026-09-29T15:42:24.232347+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-outerwear_in_a_parka",
+    "term": "in a parka",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-outerwear",
+    "labels": [
+      "wd-parka"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in a parka",
+    "updated_at": "2026-09-29T15:42:24.232350+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-outerwear_in_a_flowing_cloak",
+    "term": "in a flowing cloak",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-outerwear",
+    "labels": [
+      "wd-cloak"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in a flowing cloak",
+    "updated_at": "2026-09-29T15:42:24.232354+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-outerwear_in_a_denim_jacket",
+    "term": "in a denim jacket",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-outerwear",
+    "labels": [
+      "wd-denimjkt"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in a denim jacket",
+    "updated_at": "2026-09-29T15:42:24.232357+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-outerwear_in_a_cardigan",
+    "term": "in a cardigan",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-outerwear",
+    "labels": [
+      "wd-cardigan"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in a cardigan",
+    "updated_at": "2026-09-29T15:42:24.232360+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-footwear_wearing_sneakers",
+    "term": "wearing sneakers",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-footwear",
+    "labels": [
+      "wd-sneakers"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing sneakers",
+    "updated_at": "2026-09-29T15:42:24.232363+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-footwear_wearing_boots",
+    "term": "wearing boots",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-footwear",
+    "labels": [
+      "wd-boots"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing boots",
+    "updated_at": "2026-09-29T15:42:24.232366+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-footwear_wearing_heels",
+    "term": "wearing heels",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-footwear",
+    "labels": [
+      "wd-heels"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing heels",
+    "updated_at": "2026-09-29T15:42:24.232370+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-footwear_wearing_sandals",
+    "term": "wearing sandals",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-footwear",
+    "labels": [
+      "wd-sandals"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing sandals",
+    "updated_at": "2026-09-29T15:42:24.232373+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-footwear_wearing_dress_shoes",
+    "term": "wearing dress shoes",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-footwear",
+    "labels": [
+      "wd-dressshoe"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing dress shoes",
+    "updated_at": "2026-09-29T15:42:24.232376+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-footwear_barefoot",
+    "term": "barefoot",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-footwear",
+    "labels": [
+      "wd-barefoot"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: barefoot",
+    "updated_at": "2026-09-29T15:42:24.232379+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-headwear_wearing_a_cap",
+    "term": "wearing a cap",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-headwear",
+    "labels": [
+      "wd-cap"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing a cap",
+    "updated_at": "2026-09-29T15:42:24.232382+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-headwear_wearing_a_beanie",
+    "term": "wearing a beanie",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-headwear",
+    "labels": [
+      "wd-beanie"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing a beanie",
+    "updated_at": "2026-09-29T15:42:24.232385+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-headwear_wearing_a_wide_brim_hat",
+    "term": "wearing a wide-brim hat",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-headwear",
+    "labels": [
+      "wd-widehat"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing a wide-brim hat",
+    "updated_at": "2026-09-29T15:42:24.232389+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-headwear_with_the_hood_up",
+    "term": "with the hood up",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-headwear",
+    "labels": [
+      "wd-hood"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: with the hood up",
+    "updated_at": "2026-09-29T15:42:24.232392+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-headwear_wearing_a_crown",
+    "term": "wearing a crown",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-headwear",
+    "labels": [
+      "wd-crown"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing a crown",
+    "updated_at": "2026-09-29T15:42:24.232396+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-headwear_wearing_a_helmet",
+    "term": "wearing a helmet",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-headwear",
+    "labels": [
+      "wd-helmet"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing a helmet",
+    "updated_at": "2026-09-29T15:42:24.232399+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-accessories_wearing_glasses",
+    "term": "wearing glasses",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-accessories",
+    "labels": [
+      "wd-glasses"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing glasses",
+    "updated_at": "2026-09-29T15:42:24.232402+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-accessories_wearing_sunglasses",
+    "term": "wearing sunglasses",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-accessories",
+    "labels": [
+      "wd-sunglasses"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing sunglasses",
+    "updated_at": "2026-09-29T15:42:24.232405+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-accessories_wearing_a_scarf",
+    "term": "wearing a scarf",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-accessories",
+    "labels": [
+      "wd-scarf"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing a scarf",
+    "updated_at": "2026-09-29T15:42:24.232408+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-accessories_wearing_gloves",
+    "term": "wearing gloves",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-accessories",
+    "labels": [
+      "wd-gloves"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing gloves",
+    "updated_at": "2026-09-29T15:42:24.232412+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-accessories_wearing_statement_jewelry",
+    "term": "wearing statement jewelry",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-accessories",
+    "labels": [
+      "wd-jewelry"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing statement jewelry",
+    "updated_at": "2026-09-29T15:42:24.232415+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-accessories_with_a_belt",
+    "term": "with a belt",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-accessories",
+    "labels": [
+      "wd-belt"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: with a belt",
+    "updated_at": "2026-09-29T15:42:24.232418+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-accessories_wearing_a_watch",
+    "term": "wearing a watch",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-accessories",
+    "labels": [
+      "wd-watch"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: wearing a watch",
+    "updated_at": "2026-09-29T15:42:24.232421+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-color-palette_in_a_neutral_color_palette",
+    "term": "in a neutral color palette",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-color-palette",
+    "labels": [
+      "wd-neutral"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in a neutral color palette",
+    "updated_at": "2026-09-29T15:42:24.232425+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-color-palette_in_an_all_black_palette",
+    "term": "in an all-black palette",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-color-palette",
+    "labels": [
+      "wd-all-black"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in an all-black palette",
+    "updated_at": "2026-09-29T15:42:24.232428+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-color-palette_in_earth_tone_colors",
+    "term": "in earth-tone colors",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-color-palette",
+    "labels": [
+      "wd-earth"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in earth-tone colors",
+    "updated_at": "2026-09-29T15:42:24.232432+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-color-palette_in_pastel_colors",
+    "term": "in pastel colors",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-color-palette",
+    "labels": [
+      "wd-pastel"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in pastel colors",
+    "updated_at": "2026-09-29T15:42:24.232435+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-color-palette_in_rich_jewel_tone_colors",
+    "term": "in rich jewel-tone colors",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-color-palette",
+    "labels": [
+      "wd-jewel"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in rich jewel-tone colors",
+    "updated_at": "2026-09-29T15:42:24.232439+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-color-palette_in_vivid_neon_colors",
+    "term": "in vivid neon colors",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-color-palette",
+    "labels": [
+      "wd-neon"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in vivid neon colors",
+    "updated_at": "2026-09-29T15:42:24.232442+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-color-palette_in_an_all_white_palette",
+    "term": "in an all-white palette",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-color-palette",
+    "labels": [
+      "wd-all-white"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in an all-white palette",
+    "updated_at": "2026-09-29T15:42:24.232446+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-material_in_cotton_fabric",
+    "term": "in cotton fabric",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-material",
+    "labels": [
+      "wd-cotton"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in cotton fabric",
+    "updated_at": "2026-09-29T15:42:24.232450+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-material_in_denim",
+    "term": "in denim",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-material",
+    "labels": [
+      "wd-denim"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in denim",
+    "updated_at": "2026-09-29T15:42:24.232453+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-material_in_leather",
+    "term": "in leather",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-material",
+    "labels": [
+      "wd-leather"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in leather",
+    "updated_at": "2026-09-29T15:42:24.232456+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-material_in_silk",
+    "term": "in silk",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-material",
+    "labels": [
+      "wd-silk"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in silk",
+    "updated_at": "2026-09-29T15:42:24.232459+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-material_in_wool",
+    "term": "in wool",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-material",
+    "labels": [
+      "wd-wool"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in wool",
+    "updated_at": "2026-09-29T15:42:24.232462+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-material_in_latex",
+    "term": "in latex",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-material",
+    "labels": [
+      "wd-latex"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in latex",
+    "updated_at": "2026-09-29T15:42:24.232465+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-material_in_linen",
+    "term": "in linen",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-material",
+    "labels": [
+      "wd-linen"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in linen",
+    "updated_at": "2026-09-29T15:42:24.232468+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-era_in_contemporary_fashion",
+    "term": "in contemporary fashion",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-era",
+    "labels": [
+      "wd-contemporary"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in contemporary fashion",
+    "updated_at": "2026-09-29T15:42:24.232471+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-era_in_1920s_fashion",
+    "term": "in 1920s fashion",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-era",
+    "labels": [
+      "wd-1920s"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in 1920s fashion",
+    "updated_at": "2026-09-29T15:42:24.232475+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-era_in_1950s_fashion",
+    "term": "in 1950s fashion",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-era",
+    "labels": [
+      "wd-1950s"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in 1950s fashion",
+    "updated_at": "2026-09-29T15:42:24.232478+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-era_in_1980s_fashion",
+    "term": "in 1980s fashion",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-era",
+    "labels": [
+      "wd-1980s"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in 1980s fashion",
+    "updated_at": "2026-09-29T15:42:24.232481+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-era_in_victorian_era_dress",
+    "term": "in Victorian-era dress",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-era",
+    "labels": [
+      "wd-victorian"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in Victorian-era dress",
+    "updated_at": "2026-09-29T15:42:24.232485+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-era_in_medieval_dress",
+    "term": "in medieval dress",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-era",
+    "labels": [
+      "wd-medieval"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in medieval dress",
+    "updated_at": "2026-09-29T15:42:24.232488+00:00"
+  },
+  {
+    "id": "clothing_wardrobe-era_in_futuristic_clothing",
+    "term": "in futuristic clothing",
+    "term_zh": "",
+    "category": "clothing",
+    "subcategory": "wardrobe-era",
+    "labels": [
+      "wd-futuristic"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Prompt hint: in futuristic clothing",
+    "updated_at": "2026-09-29T15:42:24.232491+00:00"
   }
 ]

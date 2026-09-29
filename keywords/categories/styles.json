@@ -30406,31 +30406,6 @@
     "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Design_Styles"
   },
   {
-    "id": "mj_mj_v5_design_newton_fractal",
-    "term": "Newton Fractal",
-    "category": "styles",
-    "subcategory": "mj_v5_design",
-    "labels": [
-      "mj_v5_design",
-      "newton"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "midjourney-v5",
-      "migrated",
-      "mj-source",
-      "styles"
-    ],
-    "created_at": "2026-09-28T15:15:10.002739+00:00",
-    "updated_at": "2026-09-28T15:15:10.002740+00:00",
-    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Design_Styles"
-  },
-  {
     "id": "mj_mj_v5_digital_nft",
     "term": "Nft",
     "category": "styles",
@@ -36056,7 +36031,7 @@
     "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Drawing_and_Art_Mediums"
   },
   {
-    "id": "mj_mj_v5_mediums_says_hello_",
+    "id": "mj_mj_v5_mediums_says_hello__2",
     "term": "Says 'Hello'",
     "category": "styles",
     "subcategory": "mj_v5_mediums",
@@ -36074,7 +36049,7 @@
       "styles"
     ],
     "created_at": "2026-09-28T15:15:10.009554+00:00",
-    "updated_at": "2026-09-28T15:15:10.009555+00:00",
+    "updated_at": "2026-09-29T15:44:41.135886+00:00",
     "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
     "usage_count": 0,
     "success_rate": null,
@@ -40175,31 +40150,6 @@
     ],
     "created_at": "2026-09-28T15:15:10.003965+00:00",
     "updated_at": "2026-09-28T15:15:10.003966+00:00",
-    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Design_Styles"
-  },
-  {
-    "id": "mj_mj_v5_design_ultra_quality",
-    "term": "Ultra Quality",
-    "category": "styles",
-    "subcategory": "mj_v5_design",
-    "labels": [
-      "mj_v5_design",
-      "ultra"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "midjourney-v5",
-      "migrated",
-      "mj-source",
-      "styles"
-    ],
-    "created_at": "2026-09-28T15:15:10.003973+00:00",
-    "updated_at": "2026-09-28T15:15:10.003974+00:00",
     "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
     "usage_count": 0,
     "success_rate": null,
@@ -45567,5 +45517,1897 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Art styles, anime/manga genres, aesthetic movements, and rendering techniques for comprehensive style prompting."
+  },
+  {
+    "id": "styles_art_3d_rendered_style",
+    "term": "3D rendered style",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "3d-render"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Modern CGI render with clean shading. Prompt hint: 3D rendered style, modern CGI aesthetic with clean shading, subtle ambient occlusion and crisp materials",
+    "updated_at": "2026-09-29T15:42:24.229718+00:00"
+  },
+  {
+    "id": "styles_art_anime_style",
+    "term": "anime style",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "anime"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Japanese animation look. Prompt hint: anime style, Japanese animation aesthetic with bold cel-shaded lines, expressive eyes and saturated colors",
+    "updated_at": "2026-09-29T15:42:24.229742+00:00"
+  },
+  {
+    "id": "styles_art_children_s_book_illustration",
+    "term": "children's book illustration",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "children-book"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Warm illustrated storybook. Prompt hint: children's book illustration style, warm hand-drawn storybook look with soft shapes, friendly characters and inviting colors",
+    "updated_at": "2026-09-29T15:42:24.229747+00:00"
+  },
+  {
+    "id": "styles_art_cinematic_film_style",
+    "term": "cinematic film style",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "cinematic"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Film-grade dramatic image. Prompt hint: cinematic film style, dramatic lighting with cinematic color grading, widescreen aesthetic and film-like depth of field",
+    "updated_at": "2026-09-29T15:42:24.229751+00:00"
+  },
+  {
+    "id": "styles_art_comic_book_art",
+    "term": "comic book art",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "comic-book"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Inked panels with flat color. Prompt hint: comic book style, bold inked outlines, halftone shading and flat saturated comic panel colors",
+    "updated_at": "2026-09-29T15:42:24.229757+00:00"
+  },
+  {
+    "id": "styles_art_digital_art_style",
+    "term": "digital art style",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "digital-art"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Polished digital illustration. Prompt hint: digital art style, polished digital painting with smooth brushwork, vibrant colors and clean rendering",
+    "updated_at": "2026-09-29T15:42:24.229761+00:00"
+  },
+  {
+    "id": "styles_art_fantasy_art",
+    "term": "fantasy art",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "fantasy"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Epic high-fantasy illustration. Prompt hint: fantasy art style, epic high-fantasy illustration with painterly detail, magical atmosphere and rich lore-driven mood",
+    "updated_at": "2026-09-29T15:42:24.229765+00:00"
+  },
+  {
+    "id": "styles_art_minimalist_style",
+    "term": "minimalist style",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "minimalist"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Simple shapes, lots of whitespace. Prompt hint: minimalist style, reduced composition with simple shapes, limited palette and generous negative space",
+    "updated_at": "2026-09-29T15:42:24.229769+00:00"
+  },
+  {
+    "id": "styles_art_film_noir",
+    "term": "film noir",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "noir"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: High-contrast B&W film noir. Prompt hint: film noir style, high-contrast black-and-white imagery, deep shadows, venetian-blind lighting and moody 1940s cinema feel",
+    "updated_at": "2026-09-29T15:42:24.229773+00:00"
+  },
+  {
+    "id": "styles_art_oil_painting_style",
+    "term": "oil painting style",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "oil-painting"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Thick brush strokes, classical canvas. Prompt hint: oil painting style, visible thick brush strokes on canvas with rich pigment, classical painterly texture and warm tonal blending",
+    "updated_at": "2026-09-29T15:42:24.229777+00:00"
+  },
+  {
+    "id": "styles_art_pencil_sketch_style",
+    "term": "pencil sketch style",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "pencil-sketch"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hand-drawn graphite drawing. Prompt hint: pencil sketch style, hand-drawn graphite drawing with visible hatching, soft smudges and raw paper texture",
+    "updated_at": "2026-09-29T15:42:24.229781+00:00"
+  },
+  {
+    "id": "styles_art_photorealistic_style",
+    "term": "photorealistic style",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "photorealistic"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Indistinguishable from a photograph. Prompt hint: photorealistic style, high-fidelity photographic realism with natural lighting, accurate materials and DSLR-grade detail",
+    "updated_at": "2026-09-29T15:42:24.229784+00:00"
+  },
+  {
+    "id": "styles_art_pixel_art_style",
+    "term": "pixel art style",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "pixel-art"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Retro game-style pixel grid. Prompt hint: pixel art style, retro low-resolution pixel grid aesthetic with limited palette and hard-edged chunky sprites",
+    "updated_at": "2026-09-29T15:42:24.229788+00:00"
+  },
+  {
+    "id": "styles_art_pop_art_style",
+    "term": "pop art style",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "pop-art"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Bold colors, Warhol/Lichtenstein. Prompt hint: pop art style, bold saturated colors, Ben-Day dots and high-contrast Warhol/Lichtenstein-inspired graphic look",
+    "updated_at": "2026-09-29T15:42:24.229791+00:00"
+  },
+  {
+    "id": "styles_art_retro_vintage_film_look",
+    "term": "retro vintage film look",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "retro-vintage"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Faded nostalgic film look. Prompt hint: retro vintage style, faded nostalgic film look with muted colors, subtle grain and old-photograph warmth",
+    "updated_at": "2026-09-29T15:42:24.229795+00:00"
+  },
+  {
+    "id": "styles_art_watercolor_style",
+    "term": "watercolor style",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "watercolor"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Soft transparent washes. Prompt hint: watercolor style, soft transparent washes with bleeding edges, paper grain and delicate pigment pooling",
+    "updated_at": "2026-09-29T15:42:24.229799+00:00"
+  },
+  {
+    "id": "styles_art_concept_art_style",
+    "term": "concept art style",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "concept-art"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Film/game pre-production painting. Prompt hint: concept art style, painterly film and game pre-production illustration with dramatic lighting, moody atmosphere and loose brushwork emphasizing scale and storytelling",
+    "updated_at": "2026-09-29T15:42:24.229802+00:00"
+  },
+  {
+    "id": "styles_art_impressionist_painting",
+    "term": "impressionist painting",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "impressionism"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Monet-style dabbed brushwork. Prompt hint: impressionist style, Monet-inspired visible dabbed brush strokes, soft natural light, pastel palette and loose color mixing that captures atmosphere over detail",
+    "updated_at": "2026-09-29T15:42:24.229806+00:00"
+  },
+  {
+    "id": "styles_art_surrealist_painting",
+    "term": "surrealist painting",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "surrealism"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Dreamlike Dalí-inspired. Prompt hint: surrealist style, Dalí-inspired dreamlike imagery with impossible geometry, melting forms, floating elements and uncanny color combinations",
+    "updated_at": "2026-09-29T15:42:24.229809+00:00"
+  },
+  {
+    "id": "styles_art_cyberpunk_style",
+    "term": "cyberpunk style",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "cyberpunk"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Neon-lit dystopian future. Prompt hint: cyberpunk style, neon-lit dystopian future aesthetic with magenta and cyan glow, rain-slick reflections, high-tech low-life mood and dense urban detail",
+    "updated_at": "2026-09-29T15:42:24.229813+00:00"
+  },
+  {
+    "id": "styles_art_steampunk_style",
+    "term": "steampunk style",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "steampunk"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Victorian brass + machinery. Prompt hint: steampunk style, Victorian-era brass and copper machinery, exposed gears and pipes, sepia tones and retrofuturistic mechanical detail",
+    "updated_at": "2026-09-29T15:42:24.229816+00:00"
+  },
+  {
+    "id": "styles_art_vaporwave_style",
+    "term": "vaporwave style",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "vaporwave"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: 80s pastel digital retro. Prompt hint: vaporwave style, 1980s digital retro aesthetic with pastel pink and teal palette, chrome text, glitch artifacts, palm silhouettes and dreamlike sunset grids",
+    "updated_at": "2026-09-29T15:42:24.229820+00:00"
+  },
+  {
+    "id": "styles_art_low_poly_style",
+    "term": "low poly style",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "low-poly"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Faceted geometric 3D. Prompt hint: low poly style, faceted geometric 3D aesthetic with visible flat triangular faces, simplified forms and crisp shadow edges between facets",
+    "updated_at": "2026-09-29T15:42:24.229823+00:00"
+  },
+  {
+    "id": "styles_art_sumi_e_ink_wash_painting",
+    "term": "sumi-e ink wash painting",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "ink-wash"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: East-Asian sumi-e brush. Prompt hint: ink wash sumi-e style, East-Asian brush painting on rice paper with bold gestural black brush strokes, soft ink bleeding and generous negative space",
+    "updated_at": "2026-09-29T15:42:24.229826+00:00"
+  },
+  {
+    "id": "styles_art_isometric_style",
+    "term": "isometric style",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "isometric"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: 3/4 axonometric view. Prompt hint: isometric style, 3/4 axonometric projection with clean geometric forms, bright saturated flat colors and uniform lighting like a tile-based game or architectural diagram",
+    "updated_at": "2026-09-29T15:42:24.229830+00:00"
+  },
+  {
+    "id": "styles_art_flat_vector_illustration",
+    "term": "flat vector illustration",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "flat-vector"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Modern flat illustration. Prompt hint: flat vector illustration style, modern SaaS-style flat shapes with bright solid colors, no gradients or shadows, clean geometry and friendly simplified forms",
+    "updated_at": "2026-09-29T15:42:24.229834+00:00"
+  },
+  {
+    "id": "styles_art_ukiyo_e_style",
+    "term": "ukiyo-e style",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "ukiyo-e"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Japanese woodblock print. Prompt hint: ukiyo-e style, traditional Japanese woodblock print with bold outlined flat color planes, Hokusai-inspired palette and stylized natural elements",
+    "updated_at": "2026-09-29T15:42:24.229837+00:00"
+  },
+  {
+    "id": "styles_art_graffiti_street_art",
+    "term": "graffiti street art",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "graffiti"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Street-art spray paint. Prompt hint: graffiti street art style, vivid urban spray-paint aesthetic with bold tag lettering, drip textures, stencil edges and gritty wall surfaces",
+    "updated_at": "2026-09-29T15:42:24.229841+00:00"
+  },
+  {
+    "id": "styles_art_claymation_stop_motion_style",
+    "term": "claymation stop-motion style",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "claymation"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Tactile stop-motion clay. Prompt hint: claymation stop-motion style, tactile handcrafted clay figures with visible fingerprints, rounded plasticine forms and warm diorama lighting reminiscent of Aardman productions",
+    "updated_at": "2026-09-29T15:42:24.229844+00:00"
+  },
+  {
+    "id": "styles_art_glitch_art_style",
+    "term": "glitch art style",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "glitch-art"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Digital corruption + datamosh. Prompt hint: glitch art style, digital corruption aesthetic with chromatic aberration, RGB channel shifts, horizontal scanline tearing, pixel sorting and datamoshed compression artifacts",
+    "updated_at": "2026-09-29T15:42:24.229848+00:00"
+  },
+  {
+    "id": "styles_art_ascii_art_style",
+    "term": "ASCII art style",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "ascii-art"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Monochrome terminal characters. Prompt hint: ASCII art style, monochrome terminal aesthetic built from text characters (@ # %, . :) forming the image, green-on-black old-computer vibe, monospace typography and character-grid rendering",
+    "updated_at": "2026-09-29T15:42:24.229851+00:00"
+  },
+  {
+    "id": "styles_art_blueprint_technical_drawing",
+    "term": "blueprint technical drawing",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "blueprint"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Technical drawing on blue. Prompt hint: blueprint technical drawing style, white line work on deep cyan-blue paper with dimension lines, annotations, orthographic projections and engineering-schematic precision",
+    "updated_at": "2026-09-29T15:42:24.229855+00:00"
+  },
+  {
+    "id": "styles_art_stained_glass_window_style",
+    "term": "stained glass window style",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "stained-glass"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Leaded colored glass mosaic. Prompt hint: stained glass window style, tessellated colored glass panels separated by thick black lead lines, luminous backlit jewel tones and church-window composition",
+    "updated_at": "2026-09-29T15:42:24.229858+00:00"
+  },
+  {
+    "id": "styles_art_chalk_drawing_on_blackboard",
+    "term": "chalk drawing on blackboard",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "chalkboard"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: White chalk on slate. Prompt hint: chalkboard style, white and pastel chalk on dark slate with smudged edges, visible chalk dust, hand-drawn marks and classroom-lecture feel",
+    "updated_at": "2026-09-29T15:42:24.229862+00:00"
+  },
+  {
+    "id": "styles_art_paper_cutout_papercraft_style",
+    "term": "paper cutout papercraft style",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "paper-cutout"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Layered cut paper + shadows. Prompt hint: paper cutout papercraft style, Matisse-inspired layered cut paper shapes with visible paper texture, clean scissor edges and soft drop shadows between layered planes",
+    "updated_at": "2026-09-29T15:42:24.229866+00:00"
+  },
+  {
+    "id": "styles_art_illuminated_manuscript_style",
+    "term": "illuminated manuscript style",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "illuminated"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Gold leaf + calligraphy. Prompt hint: illuminated manuscript style, medieval parchment with gold leaf accents, ornate decorative borders with vines and creatures, calligraphic script and jewel-toned miniature paintings",
+    "updated_at": "2026-09-29T15:42:24.229869+00:00"
+  },
+  {
+    "id": "styles_art_pixar_style_3d_animation",
+    "term": "pixar-style 3d animation",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "pixar-3d"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Polished character animation CG. Prompt hint: Pixar-style 3D character animation, polished CG with appealing rounded character design, soft subsurface skin shading, cinematic key lighting and expressive animated feature-film quality",
+    "updated_at": "2026-09-29T15:42:24.229873+00:00"
+  },
+  {
+    "id": "styles_art_caricature_illustration_style",
+    "term": "caricature illustration style",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "caricature"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Exaggerated stylized portrait. Prompt hint: caricature illustration style, an exaggerated stylized portrait with a comically oversized head on a small body, amplified signature features — large nose, wide grin, oversized eyes — drawn with confident ink lines and watery color washes in the tradition of street-fair sketch artists",
+    "updated_at": "2026-09-29T15:42:24.229881+00:00"
+  },
+  {
+    "id": "styles_art_rendered_as_a_fresco_painting_in_the_sty",
+    "term": "rendered as a fresco painting in the style of a Renaissance ",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "fresco"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Renaissance plaster wall painting. Prompt hint: rendered as a fresco painting in the style of a Renaissance ceiling, mineral pigments soaked into wet lime plaster with a chalky matte surface, softly weathered tonal range, faint craquelure and warm earthen palette reminiscent of Michelangelo's Sistine Chapel",
+    "updated_at": "2026-09-29T15:42:24.229885+00:00"
+  },
+  {
+    "id": "styles_art_rendered_as_a_mosaic_composed_of_small_h",
+    "term": "rendered as a mosaic composed of small hand-cut tesserae in ",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "mosaic"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Byzantine tessera tile composition. Prompt hint: rendered as a mosaic composed of small hand-cut tesserae in stone, ceramic and gilded glass, visible grout lines between every tile, faceted highlights catching the light and a Byzantine / ancient-Roman aesthetic with stylized figures on a shimmering gold ground",
+    "updated_at": "2026-09-29T15:42:24.229891+00:00"
+  },
+  {
+    "id": "styles_art_rendered_as_a_woodcut_relief_print",
+    "term": "rendered as a woodcut relief print",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "woodcut"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Dürer-era relief print woodblock. Prompt hint: rendered as a woodcut relief print, bold stark black ink on cream paper with assertive carved lines, parallel hatching for tonal shading, high-contrast graphic shapes and the wiry expressive line-work of Dürer-era Northern Renaissance prints",
+    "updated_at": "2026-09-29T15:42:24.229896+00:00"
+  },
+  {
+    "id": "styles_art_rendered_as_an_intaglio_etching",
+    "term": "rendered as an intaglio etching",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "etching"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Rembrandt-style intaglio print. Prompt hint: rendered as an intaglio etching, dense fine cross-hatched lines bitten into a copper plate, rich velvety blacks against warm cream paper, delicate tonal gradations and the introspective chiaroscuro of a Rembrandt print",
+    "updated_at": "2026-09-29T15:42:24.229900+00:00"
+  },
+  {
+    "id": "styles_art_rendered_as_a_stone_lithograph",
+    "term": "rendered as a stone lithograph",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "lithograph"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Toulouse-Lautrec stone-printed poster. Prompt hint: rendered as a stone lithograph, soft graphite-like tonal range with grainy crayon textures, flat areas of limited spot color, slightly off-register edges and the bold poster-art sensibility of a Toulouse-Lautrec belle-époque print",
+    "updated_at": "2026-09-29T15:42:24.229904+00:00"
+  },
+  {
+    "id": "styles_art_rendered_as_a_charcoal_drawing_on_toothy",
+    "term": "rendered as a charcoal drawing on toothy paper",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "charcoal"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Smudgeable black tonal study. Prompt hint: rendered as a charcoal drawing on toothy paper, soft black and grey tonal masses with smudged blended midtones, sharp accented darks, expressive gestural strokes and the raw immediacy of a fine-art figure study",
+    "updated_at": "2026-09-29T15:42:24.229908+00:00"
+  },
+  {
+    "id": "styles_art_soft_pastel_drawing",
+    "term": "soft pastel drawing",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "pastel"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Degas-era soft chalk pastel. Prompt hint: rendered as a soft chalk pastel drawing, dry powdery pigment laid in feathered strokes on tinted paper with luminous dusty colors, gently blended edges and the dreamy Degas-era atmosphere of dancers in stage light",
+    "updated_at": "2026-09-29T15:42:24.229914+00:00"
+  },
+  {
+    "id": "styles_art_acrylic_painting",
+    "term": "acrylic painting",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "acrylic-paint"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Fast-drying opaque acrylic on canvas. Prompt hint: rendered as an acrylic painting on canvas, fast-drying opaque pigment with crisp sharp edges, confident quick brush strokes, high-key saturated color and a flatter more graphic finish than traditional oil paint",
+    "updated_at": "2026-09-29T15:42:24.229918+00:00"
+  },
+  {
+    "id": "styles_art_rendered_as_a_mixed_media_artwork_combin",
+    "term": "rendered as a mixed-media artwork combining torn paper colla",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "mixed-media"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Collage + paint + ink hybrid. Prompt hint: rendered as a mixed-media artwork combining torn paper collage, acrylic paint, ink and graphite on a layered substrate, heterogeneous textures, visible tape and stitching, and an exuberant hand-assembled studio-art quality",
+    "updated_at": "2026-09-29T15:42:24.229921+00:00"
+  },
+  {
+    "id": "styles_art_rendered_as_inked_manga_panel_art",
+    "term": "rendered as inked manga panel art",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "manga"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Inked B&W Japanese comic panel. Prompt hint: rendered as inked manga panel art, crisp black ink on white with confident line weight variation, screen-tone dot patterns for shading, dramatic speed lines and the distinctly Japanese black-and-white comic aesthetic — separate from full-color anime",
+    "updated_at": "2026-09-29T15:42:24.229926+00:00"
+  },
+  {
+    "id": "styles_art_early_autochrome_color_photograph",
+    "term": "early autochrome color photograph",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "art",
+    "labels": [
+      "early-color-photo"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Prokudin-Gorsky / autochrome early-1900s color. Prompt hint: rendered as an early-1900s color photograph in the Prokudin-Gorsky / autochrome tradition — soft three-colour-separation registration, muted dye-toned palette, fine grain and a gentle antique warmth",
+    "updated_at": "2026-09-29T15:42:24.229930+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_y2k_aesthetic_low_rise_denim",
+    "term": "in the Y2K aesthetic — low-rise denim",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "y2k"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Late-90s / early-2000s pop tech. Prompt hint: in the Y2K aesthetic — low-rise denim, baby tees, butterfly clips and chrome accessories, lit with sharp digicam flash and a faint chromatic gloss",
+    "updated_at": "2026-09-29T15:42:24.230352+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_cottagecore_aesthetic_linen_dress",
+    "term": "in the cottagecore aesthetic — linen dresses",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "cottagecore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Pastoral, hand-baked countryside. Prompt hint: in the cottagecore aesthetic — linen dresses, gingham aprons and woven baskets in a sun-dappled cottage garden, with warm honeyed grading and gentle film grain",
+    "updated_at": "2026-09-29T15:42:24.230368+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_dark_academia_aesthetic_tweed_bla",
+    "term": "in the dark academia aesthetic — tweed blazers",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "dark-academia"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Old-world scholarship and tweed. Prompt hint: in the dark academia aesthetic — tweed blazers, oxford shirts and stacks of leather-bound books in candlelit libraries, with a desaturated golden-shadow grade",
+    "updated_at": "2026-09-29T15:42:24.230375+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_light_academia_aesthetic_cream_ca",
+    "term": "in the light academia aesthetic — cream cardigans",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "light-academia"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Sunlit ivy-league scholarship. Prompt hint: in the light academia aesthetic — cream cardigans, pleated skirts and open journals on sunlit terraces, with warm cream-and-honey color and softly washed highlights",
+    "updated_at": "2026-09-29T15:42:24.230381+00:00"
+  },
+  {
+    "id": "styles_aesthetic_techwear_gorpcore",
+    "term": "techwear gorpcore",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "techwear"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Tactical urban performance gear. Prompt hint: in the techwear-gorpcore aesthetic — black tactical shells, MOLLE webbing, cargo pants and chunky trail runners in a rain-slick neon city, with cold cyan-magenta color",
+    "updated_at": "2026-09-29T15:42:24.230387+00:00"
+  },
+  {
+    "id": "styles_aesthetic_old_money_preppy",
+    "term": "old money preppy",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "old-money"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Quiet-luxury heritage prep. Prompt hint: in the old-money preppy aesthetic — cashmere sweaters, polo shirts, pearl strands and tailored linen on yacht decks and clay courts, with crisp, sun-bleached Mediterranean color",
+    "updated_at": "2026-09-29T15:42:24.230391+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_streetwear_aesthetic_graphic_hood",
+    "term": "in the streetwear aesthetic — graphic hoodies",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "streetwear"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Sneaker-and-hoodie urban casual. Prompt hint: in the streetwear aesthetic — graphic hoodies, oversized tees, premium sneakers and beanies on graffitied urban backdrops, with punchy contemporary color",
+    "updated_at": "2026-09-29T15:42:24.230396+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_coquette_aesthetic_pink_ribbons",
+    "term": "in the coquette aesthetic — pink ribbons",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "coquette"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Bows, lace and balletcore softness. Prompt hint: in the coquette aesthetic — pink ribbons, lace trims, pearls and ballet flats in soft vanilla bedrooms, with rosy-pink grading and warm soft-focus glow",
+    "updated_at": "2026-09-29T15:42:24.230401+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_fairycore_aesthetic_flowing_tulle",
+    "term": "in the fairycore aesthetic — flowing tulle",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "fairycore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Mossy, mushroom-strewn enchantment. Prompt hint: in the fairycore aesthetic — flowing tulle, flower crowns and embroidered shawls in mossy enchanted forests, with iridescent dappled light and pastel-green color",
+    "updated_at": "2026-09-29T15:42:24.230405+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_goblincore_aesthetic_earth_toned_",
+    "term": "in the goblincore aesthetic — earth-toned knits",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "goblincore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Mossy, mud-loving wilderness joy. Prompt hint: in the goblincore aesthetic — earth-toned knits, muddy boots and pockets full of mushrooms and beetles in damp forest undergrowth, with rich green-brown grading",
+    "updated_at": "2026-09-29T15:42:24.230410+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_normcore_aesthetic_plain_jeans",
+    "term": "in the normcore aesthetic — plain jeans",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "normcore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Anti-fashion plain basics. Prompt hint: in the normcore aesthetic — plain jeans, white sneakers, gray sweatshirts and bucket hats against banal everyday backdrops, with flat neutral color and even daylight",
+    "updated_at": "2026-09-29T15:42:24.230418+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_balletcore_aesthetic_leg_warmers",
+    "term": "in the balletcore aesthetic — leg warmers",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "balletcore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Soft pink ballet-rehearsal grace. Prompt hint: in the balletcore aesthetic — leg warmers, wrap cardigans, ribboned flats and tulle skirts in dust-floating studios, with soft pink-cream color and warm window light",
+    "updated_at": "2026-09-29T15:42:24.230423+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_e_girl_aesthetic_heart_blush",
+    "term": "in the e-girl aesthetic — heart blush",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "e-girl"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Webcore liner-and-blush internet. Prompt hint: in the e-girl aesthetic — heart blush, winged liner, dyed split hair, plaid skirts and chain necklaces in bedroom LED light, with cool magenta-cyan color",
+    "updated_at": "2026-09-29T15:42:24.230428+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_soft_girl_aesthetic_pastel_hoodie",
+    "term": "in the soft-girl aesthetic — pastel hoodies",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "soft-girl"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Pastel, sticker-bright sweetness. Prompt hint: in the soft-girl aesthetic — pastel hoodies, butterfly clips, glossy lip and dainty heart stickers in cotton-candy-toned rooms, with warm peachy grading",
+    "updated_at": "2026-09-29T15:42:24.230433+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_indie_sleaze_aesthetic_smudged_ey",
+    "term": "in the indie sleaze aesthetic — smudged eyeliner",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "indie-sleaze"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Tumblr-era flash-blown party. Prompt hint: in the indie sleaze aesthetic — smudged eyeliner, leather jackets and skinny jeans at smoky house parties, lit by harsh on-camera flash with deep blacks and noisy grain",
+    "updated_at": "2026-09-29T15:42:24.230437+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_baddie_aesthetic_sharp_arched_eye",
+    "term": "in the baddie aesthetic — sharp-arched eyebrows",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "baddie"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Confident, styled, trend-savvy. Prompt hint: in the baddie aesthetic — sharp-arched eyebrows, glossy lip, hoop earrings, bodycon dresses and bouncy curls in mirror-selfie poses, with high-contrast color and a polished glamorous finish",
+    "updated_at": "2026-09-29T15:42:24.230442+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_vacation_dadcore_aesthetic_hawaii",
+    "term": "in the vacation-dadcore aesthetic — Hawaiian shirts",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "vacation-dadcore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hawaiian-shirt suburban-dad ease. Prompt hint: in the vacation-dadcore aesthetic — Hawaiian shirts, cargo shorts, white socks and visor caps on cul-de-sac driveways, with bright tourist-snapshot color",
+    "updated_at": "2026-09-29T15:42:24.230447+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_womancore_aesthetic_tailored_slac",
+    "term": "in the womancore aesthetic — tailored slacks",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "womancore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Confident, unfussy adult femininity. Prompt hint: in the womancore aesthetic — tailored slacks, silk blouses and minimal jewelry in airy modern apartments, with soft natural light and a subdued elegant palette",
+    "updated_at": "2026-09-29T15:42:24.230452+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_angelcore_aesthetic_flowing_white",
+    "term": "in the angelcore aesthetic — flowing white lace",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "angelcore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cherubic, lace-and-feather softness. Prompt hint: in the angelcore aesthetic — flowing white lace, lace gloves, halo headbands and feathered wings against pale heaven-soft backdrops, with creamy pastel grading",
+    "updated_at": "2026-09-29T15:42:24.230457+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_hikecore_aesthetic_fleece_pullove",
+    "term": "in the hikecore aesthetic — fleece pullovers",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "hikecore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Trail-day mountaineer chic. Prompt hint: in the hikecore aesthetic — fleece pullovers, hiking boots, retro daypacks and topo-print baselayers on alpine trails, with crisp mountain color and high-altitude clarity",
+    "updated_at": "2026-09-29T15:42:24.230462+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_mote_kei_aesthetic_pleated_a_line",
+    "term": "in the mote-kei aesthetic — pleated A-line skirts",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "mote-kei"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Conservative-cute Japanese feminine. Prompt hint: in the mote-kei aesthetic — pleated A-line skirts, soft knits, neat ribbons and pastel cardigans in sun-flooded Tokyo cafes, with delicate creamy color",
+    "updated_at": "2026-09-29T15:42:24.230469+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_kombuchapunk_aesthetic_thrifted_g",
+    "term": "in the kombuchapunk aesthetic — thrifted graphic tees",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "kombuchapunk"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Fermenting wellness counter-culture. Prompt hint: in the kombuchapunk aesthetic — thrifted graphic tees, layered hemp, tarot decks and home-fermented jars in plant-cluttered shared kitchens, with warm earthy color",
+    "updated_at": "2026-09-29T15:42:24.230474+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_chinapunk_aesthetic_qipao_cut_cro",
+    "term": "in the chinapunk aesthetic — qipao-cut crop tops",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "chinapunk"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Y2K Hong Kong cyber glam. Prompt hint: in the chinapunk aesthetic — qipao-cut crop tops, mesh sleeves, futuristic shades and chrome charms on neon Hong Kong streets, with electric magenta-cyan grading",
+    "updated_at": "2026-09-29T15:42:24.230479+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_karencore_aesthetic_bobbed_blonde",
+    "term": "in the karencore aesthetic — bobbed blonde hair",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "karencore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Suburban-Karen blunt-bob power. Prompt hint: in the karencore aesthetic — bobbed blonde hair, oversized sunglasses, cropped capris and white SUVs in sun-baked suburban parking lots, with bleached overexposed color",
+    "updated_at": "2026-09-29T15:42:24.230484+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_candycore_aesthetic_rainbow_strip",
+    "term": "in the candycore aesthetic — rainbow stripes",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "candycore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Sugar-rush rainbow saturation. Prompt hint: in the candycore aesthetic — rainbow stripes, lollipop accessories, glittery eye shadow and platform sneakers in candy-bright sets, with maximum saturation",
+    "updated_at": "2026-09-29T15:42:24.230489+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_babycore_aesthetic_bonnets",
+    "term": "in the babycore aesthetic — bonnets",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "babycore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Pacifier-soft infantile pastel. Prompt hint: in the babycore aesthetic — bonnets, ruffled rompers, oversized bows and stuffed animals against nursery-pastel backdrops, with milky soft-pink color",
+    "updated_at": "2026-09-29T15:42:24.230494+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_catcore_aesthetic_cat_ear_hoodies",
+    "term": "in the catcore aesthetic — cat-ear hoodies",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "catcore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cat-eared cozy domestic. Prompt hint: in the catcore aesthetic — cat-ear hoodies, paw mittens, knitted cardigans and tabby-print scarves curled up by sun-warmed windows, with soft golden color",
+    "updated_at": "2026-09-29T15:42:24.230498+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_weirdcore_aesthetic_surreal_limin",
+    "term": "in the weirdcore aesthetic — surreal liminal-space anxiety b",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "weirdcore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Surreal liminal-space unease. Prompt hint: in the weirdcore aesthetic — surreal liminal-space anxiety blending glitch and nostalgia, low-fi muted color and JPEG artefacts, often empty hallways, fluorescent basements or backrooms-style pools rendered with quiet dread",
+    "updated_at": "2026-09-29T15:42:24.230503+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_dreamcore_aesthetic_dreamlike_sof",
+    "term": "in the dreamcore aesthetic — dreamlike soft-focus surrealism",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "dreamcore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Soft surreal dreamlike serenity. Prompt hint: in the dreamcore aesthetic — dreamlike soft-focus surrealism with candy pastel palettes and uncanny serenity, often empty rooms, drifting clouds or abandoned playgrounds bathed in hazy diffuse light",
+    "updated_at": "2026-09-29T15:42:24.230508+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_traumacore_aesthetic_distorted_no",
+    "term": "in the traumacore aesthetic — distorted nostalgic childhood ",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "traumacore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Distorted nostalgic childhood collage. Prompt hint: in the traumacore aesthetic — distorted nostalgic childhood imagery layered with melancholic captions and unsettling edits, Hello-Kitty stickers cut against scratched found-photo collage, washed-out pinks and faded sadness",
+    "updated_at": "2026-09-29T15:42:24.230514+00:00"
+  },
+  {
+    "id": "styles_aesthetic_alt_girl",
+    "term": "alt-girl",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "alt-girl"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Grunge-meets-emo internet alt. Prompt hint: in the alt-girl aesthetic — alternative subculture mix of grunge, scene, emo and e-girl with dyed split hair, layered chains, fishnets, oversized band tees and smudged dark eyeliner, lit with cool moody color",
+    "updated_at": "2026-09-29T15:42:24.230519+00:00"
+  },
+  {
+    "id": "styles_aesthetic_in_the_blokecore_aesthetic_vintage_footb",
+    "term": "in the blokecore aesthetic — vintage football jerseys",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "blokecore"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Football-jersey dadcore menswear. Prompt hint: in the blokecore aesthetic — vintage football jerseys, Adidas Sambas, straight-leg denim, bucket hats and casual sportswear elevated to a fashion statement, on terraced streets with naturalistic everyday color",
+    "updated_at": "2026-09-29T15:42:24.230523+00:00"
+  },
+  {
+    "id": "styles_aesthetic_y2k_rave_decora_club_kid",
+    "term": "y2k rave decora club-kid",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "y2k-rave"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Neon Japanese decora rave kid. Prompt hint: in the Y2K-rave decora club-kid aesthetic — fluorescent layered tops, plastic-charm bracelets, kawaii hair clips, leg warmers and platform sneakers under blacklight and neon strobes, with hyper-saturated electric color",
+    "updated_at": "2026-09-29T15:42:24.230528+00:00"
+  },
+  {
+    "id": "styles_aesthetic_minimalist_fashion",
+    "term": "minimalist fashion",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "minimalism"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Pared-down quiet-luxury restraint. Prompt hint: in the minimalist aesthetic — clean monochrome tailoring, structured silhouettes and empty white-stone spaces, with restrained neutral color and even soft light",
+    "updated_at": "2026-09-29T15:44:41.135886+00:00"
+  },
+  {
+    "id": "styles_aesthetic_maximalist_fashion",
+    "term": "maximalist fashion",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "maximalism"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: More-is-more clashing pattern. Prompt hint: in the maximalist aesthetic — clashing prints, layered jewelry, velvet, sequins and floral wallpaper in densely styled rooms, with rich saturated color",
+    "updated_at": "2026-09-29T15:44:41.135886+00:00"
+  },
+  {
+    "id": "styles_aesthetic_avant_garde_fashion",
+    "term": "avant-garde fashion",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "avant-garde"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Conceptual sculptural fashion. Prompt hint: in the avant-garde aesthetic — sculptural deconstructed silhouettes, exaggerated proportions and architectural draping in stark gallery-white spaces, with cold minimal color",
+    "updated_at": "2026-09-29T15:44:41.135886+00:00"
+  },
+  {
+    "id": "styles_aesthetic_old_hollywood_glamour",
+    "term": "old hollywood glamour",
+    "term_zh": "",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "old-hollywood-glam"
+    ],
+    "labels_zh": [],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "nodaro-prompts"
+    ],
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Silver-screen 1940s glamour. Prompt hint: in the old-Hollywood-glam aesthetic — satin gowns, fur stoles, finger waves and red lipstick under sculpted studio key light, with silvery monochrome and high-contrast tonality",
+    "updated_at": "2026-09-29T15:44:41.135886+00:00"
   }
 ]
