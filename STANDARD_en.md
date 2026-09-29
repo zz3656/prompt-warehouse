@@ -637,4 +637,4 @@ var QUALITY = {
 
 ---
 
-*← [简体中文](STANDARD_zh.md)*
+*← [简体中文](STANDARD.md)*

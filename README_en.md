@@ -2,7 +2,7 @@
 
 **A unified, language-agnostic standard for organizing, versioning, and sharing AI generation prompts across projects.**
 
-> **pws v1.0** | [简体中文](README_zh.md) | **English**
+> **pws v1.0** | [简体中文](README.md) | **English**
 >
 > **Repository**: https://github.com/zz3656/prompt-warehouse
 > **License**: MIT
@@ -428,4 +428,4 @@ MIT License — see [STANDARD_en.md](STANDARD_en.md) for full details.
 
 *Prompt Warehouse Standard v1.0 · Built for comic/manga prompt generation, applicable to any AI creative tool.*
 
-*← [简体中文](README_zh.md)*
+*← [简体中文](README.md)*

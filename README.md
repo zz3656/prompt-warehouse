@@ -79,7 +79,7 @@ prompt-warehouse/
 │   └── h3-comic-builder.json   # H3 漫画构建器配置
 ├── snapshots/                  # 导出快照
 │   └── YYYY/MM/
-└── STANDARD_zh.md              # 完整标准文档
+└── STANDARD.md                 # 完整标准文档
 ```
 
 ---
@@ -100,7 +100,7 @@ grep -r '"term": "blonde hair"' keywords/categories/character.json
 
 ### 2. 使用模板
 
-模板支持变量替换。`_all_templates.json` 文件包含所有 24 个模板的完整元数据：
+模板支持变量替换。`_all_templates.json` 文件包含所有 27 个模板的完整元数据：
 
 ```json
 // 角色参考描述模板
@@ -148,14 +148,76 @@ cat projects/h3-comic-builder.json
 
 | 字段 | 类型 | 必填 | 说明 |
 |------|------|------|------|
-| `id` | string | ✅ | 唯一标识符。格式：`{category}_{subcategory}_{slug}` |
-| `term` | string | ✅ | 标准提示词（英文） |
-| `term_zh` | string | | 中文翻译 |
-| `category` | string | ✅ | 顶级分类 |
-| `subcategory` | string | ✅ | 子分类 |
-| `score` | number | | 质量评分 0–1（默认：0.5） |
+| `id` | string | ✅ | 唯一标识符，格式：`{category}_{subcategory}_{slug}`，如 `quality_basic_masterpiece` |
+| `term` | string | ✅ | 标准提示词（英文），如 `masterpiece` — 用于 API 检索和模板变量 |
+| `term_zh` | string | ✅ | 中文翻译，如 `杰作` — 其他项目按此字段做中文检索 |
+| `aliases` | string[] | | 英文替代术语，如 `["best work", "top tier"]` |
+| `aliases_zh` | string[] | | 中文替代说法，如 `["最佳作品", "顶级"]` |
+| `category` | string | ✅ | 顶级分类，共 33 类（见下方分类体系） |
+| `subcategory` | string | ✅ | 子分类，如 `basic`, `hair`, `anime` |
+| `labels` | string[] | | 英文扁平搜索标签，如 `["quality", "booster"]` |
+| `labels_zh` | string[] | | 中文扁平搜索标签，如 `["质量", "增强"]` — 中文过滤专用 |
+| `score` | number | | 质量评分 0–1（默认：0.5），0.90+ 为行业验证，0.70–0.89 为可靠常用 |
 | `priority` | enum | | `high` / `medium` / `low` / `experimental` |
-| `lifecycle` | enum | | `draft` → `review` → `approved` → `archived` |
+| `lifecycle` | enum | | `draft` → `review` → `approved` → `deprecated` → `archived` |
+| `tags` | string[] | | 用户自定义标签，跨切面标记 |
+| `source` | string | | 数据来源，如 `willwulfken/MidJourney-Styles-and-Keywords-Reference` |
+| `usage_count` | number | | 使用次数（默认：0），由调用方项目更新 |
+| `success_rate` | number | | 生成成功率 0–1（默认：null），由调用方项目更新 |
+| `created_at` | string | | ISO 8601 创建时间戳 |
+| `updated_at` | string | | ISO 8601 更新时间戳 |
+| `notes` | string | | 备注信息 |
+| `variations` | array | | 上下文相关变体，`[{"term": "platinum blonde", "context": "高价值角色"}]` |
+
+### 模板字段说明
+
+| 字段 | 类型 | 必填 | 说明 |
+|------|------|------|------|
+| `id` | string | ✅ | 模板唯一标识符，如 `h3.video_prompts` |
+| `name` / `name_zh` | string | ✅ | 模板中英文名称 |
+| `description` / `description_zh` | string | | 模板中英文描述 |
+| `category` | string | | 所属分类 |
+| `subcategories` | string[] | | 子分类列表 |
+| `api_targets` | string[] | | 适配的 AI 模型，如 `["SDXL", "Minimax H3"]` |
+| `lifecycle` | enum | | `draft` / `review` / `approved` / `deprecated` / `archived` |
+| `score` | number | | 质量评分 0–1 |
+| `variables` | array | | 模板变量定义，`[{"name": "subject", "type": "string", "required": true}]` |
+| `variants` | array | ✅ | 变体列表，每个含 `id`, `description`, `description_zh`, `template` |
+| `examples` | array | | 使用示例 |
+
+### 项目配置字段说明
+
+| 字段 | 类型 | 说明 |
+|------|------|------|
+| `id` / `name` | string | 项目唯一标识符和名称 |
+| `project_type` | enum | `comic` / `video` / `game` / `web` / `text` / `music` / `general` |
+| `keywords.enabled_categories` | string[] | 启用的关键词分类 |
+| `templates.enabled` | string[] | 启用的模板 ID 列表 |
+| `settings.default_api` | string | 默认 AI 模型 |
+| `settings.max_prompt_length` | integer | 最大提示词长度 |
+
+### 其他项目调用示例
+
+其他项目可以直接读取 `keywords/categories/` 下的 JSON 文件，每个关键词都包含 **中英双语字段**，方便跨语言检索：
+
+```json
+{
+  "id": "quality_basic_masterpiece",
+  "term": "masterpiece",          // 英文检索
+  "term_zh": "杰作",               // 中文检索 ← 中文项目用这个字段
+  "category": "quality",
+  "subcategory": "basic",
+  "labels": ["quality", "booster"],
+  "labels_zh": ["质量", "增强"],   // 中文过滤 ← 中文项目用这个字段
+  "score": 0.95,
+  "priority": "high",
+  "lifecycle": "approved"
+}
+```
+
+**快速浏览所有分类**：`ls keywords/categories/` 列出 33 个分类文件。
+**完整数据模型**：[STANDARD.md](STANDARD.md)
+**JSON Schema**：[schema/keyword.schema.json](schema/keyword.schema.json) · [schema/template.schema.json](schema/template.schema.json)
 
 ### 分类体系
 
@@ -170,32 +232,68 @@ cat projects/h3-comic-builder.json
 | 负面 | `negative` | 负面提示词 |
 | 场景 | `scene` | 场景与环境 |
 | 分镜 | `panel` | 分镜特效 |
+| 动作特效 | `action-fx` | 动作与特效（灾害、火焰、战斗、魔法）— @nodaro/prompts |
+| 美学微趋势 | `aesthetic` | Y2K, dark academia, cottagecore 等 — @nodaro/prompts |
+| 大气效果 | `atmosphere` | 雾、雨、粒子、神光 — @nodaro/prompts |
+| 背景预设 | `backdrop` | 纯色、渐变、纹理背景 — @nodaro/prompts |
+| 画幅格式 | `camera-format` | IMAX、电影宽屏等 — @nodaro/prompts |
+| 镜头运动 | `camera-motions` | 推拉摇移跟 — @nodaro/prompts |
+| 角色特效 | `character-fx` | 狼人、吸血鬼、赛博格等 — @nodaro/prompts |
+| 色彩分级 | `color-look` | 暖色、冷色、胶片模拟 — @nodaro/prompts |
+| 历史时代 | `era` | 中世纪、维多利亚、赛博朋克等 — @nodaro/prompts |
+| 构图与景别 | `framing` | 特写、中景、全景 — @nodaro/prompts |
+| 手持道具 | `held-prop` | 武器与道具 — @nodaro/prompts |
+| 镜头与焦距 | `lens` | 14mm-400mm — @nodaro/prompts |
+| 材质预设 | `material` | 织物、金属、石材、木材 — @nodaro/prompts |
+| 角色情绪 | `mood` | 喜怒哀乐等情绪 — @nodaro/prompts |
+| 摄影类型 | `photo-genre` | 时尚、纪实、证件照等 — @nodaro/prompts |
+| 摄影师风格 | `photographer` | Ansel Adams, Annie Leibovitz 等 — @nodaro/prompts |
+| 姿态手势 | `pose` | 站姿、坐姿、行走等 — @nodaro/prompts |
+| 后期特效 | `post-process` | 暗角、胶片颗粒、色散等 — @nodaro/prompts |
+| 渲染引擎 | `render-quality` | Unreal 5, Octane, Cycles 等 — @nodaro/prompts |
+| 场景环境 | `setting` | 室内、城市、自然、奇幻 — @nodaro/prompts |
+| 艺术风格 | `style` | 3D 渲染、动漫、水彩等 — @nodaro/prompts |
+| 时间效果 | `temporal` | 慢动作、快速、时间冻结 — @nodaro/prompts |
+| 转场效果 | `transitions` | 溶解、缩放、滑动 — @nodaro/prompts |
+| 服装搭配 | `wardrobe` | 服装搭配方案 — @nodaro/prompts |
 
 ### 子分类亮点
 
 **质量** — `basic` · `advanced` · `anime`
-> 杰作 · 最高质量 · 超细节
+> masterpiece, best quality, ultra-detailed, 8k resolution · 杰作 · 最高质量 · 超细节
 
-**角色** — `hair` · `hairColors` · `eyes` · `eyeColors` · `expression` · `pose` · `anatomy` · `bodyType` · `skin`
-> 白色长发 · 蓝眼睛 · 白皙皮肤 · 坚定的表情
+**角色** — `hair` · `hairColors` · `eyes` · `eyeColors` · `expression` · `pose` · `anatomy` · `bodyType` · `skin` · `age`
+> white long hair, blue eyes, fair skin, determined expression · 白色长发 · 蓝眼睛 · 白皙皮肤 · 坚定的表情
 
-**服装** — `tops` · `bottoms` · `outfits` · `accessories`
-> 校服 · 白衬衫 · 百褶裙 · 红丝带
+**服装** — `tops` · `bottoms` · `outfits` · `accessories` · `mj_v5_materials` · `mj_v5_matprops`
+> school uniform, white blouse, pleated skirt, red ribbon · 校服 · 白衬衫 · 百褶裙 · 红丝带
 
-**风格** — `anime` · `art` · `realism` · `specialty` · `artist`
-> 动漫风格 · 赛璐珞上色 · 漫画风格
+**风格** — `anime` · `art` · `realism` · `specialty` · `artist` · `mj_v5_colors` · `mj_v5_colors2` · `mj_v5_design` · `mj_v5_digital` · `mj_v5_dimension` · `mj_v5_intangibles` · `mj_v5_mediums` · `mj_v5_themes` · `mj_v5_artists`
+> anime style, cel shading, manga comic style · 动漫风格 · 赛璐珞上色 · 漫画风格
 
-**负面** — `quality` · `anatomy` · `face` · `composition` · `style` · `text` · `defects`
-> 低质量 · 最差质量 · 畸形解剖 · 多余肢体
+**负面** — `quality` · `anatomy` · `face` · `composition` · `style` · `text` · `commonDefects`
+> low quality, worst quality, bad anatomy, extra limbs · 低质量 · 最差质量 · 畸形解剖 · 多余肢体
 
-**灯光** — `natural` · `dramatic` · `mood` · `dynamic` · `special`
-> 黄金时段 · 电影灯光 · 体积光
+**灯光** — `natural` · `dramatic` · `mood` · `dynamic` · `special` · `mj_v5_lighting` · `mj_v5_sfx`
+> golden hour, cinematic lighting, volumetric rays · 黄金时段 · 电影灯光 · 体积光
+
+**构图** — `framing` · `angles` · `lens` · `rules` · `mj_v5_camera` · `mj_v5_geometry` · `mj_v5_perspective` · `mj_v5_structure`
+> close-up, wide shot, eye level, Dutch angle · 特写 · 广角 · 平视 · 荷兰角
+
+**场景** — `relationship` · `interaction` · `weather` · `time` · `mj_v5_geo` · `mj_v5_nature` · `mj_v5_objects` · `mj_v5_space`
+> school rooftop, cozy bedroom, battlefield, urban street · 学校屋顶 · 温馨卧室 · 战场 · 城市街道
+
+**分镜** — `panelLayout` · `comicEffects` · `animation` · `panelMood`
+> speed lines, motion blur, impact frames, screen tone · 速度线 · 动态模糊 · 冲击帧 · 网点纸
 
 ### 生命周期状态
 
 ```
 草稿 → 审核 → 批准 → 归档
 draft → review → approved → archived
+              ↕           ↕
+          (被拒绝)   (被弃用)
+deprecated ↗
 ```
 
 - **草稿 (draft)**：新添加，尚未验证
@@ -296,7 +394,7 @@ girl 16 years old white long twin tails hair blue almond eyes fair skin, red rib
 
 每个 `_meta.json` 都跟踪版本、结构版本和变更日志。
 
-当前版本：**v1.0.2** — 9 个分类共 4,429 个关键词。
+当前版本：**v1.0.7** — 33 个分类共 5,959 个关键词。
 
 ---
 
@@ -334,7 +432,7 @@ PWS 设计用于与 REST API 配合使用。h3-comic-builder 服务器已提供�
 | 阶段 | 状态 | 详情 |
 |------|------|------|
 | **阶段一：结构定义** | ✅ 完成 | 定义了 3 个 JSON 结构并验证 |
-| **阶段二：数据迁移** | ✅ 完成 | 从 h3-comic-builder + MJ 参考迁移了 4,429 个关键词 |
+| **阶段二：数据迁移** | ✅ 完成 | 从 h3-comic-builder + MJ 参考迁移了 5,959 个关键词 |
 | **阶段三：工具开发** | 🔄 进行中 | 浏览器界面的关键词管理 |
 | **阶段四：共享发布** | 📋 计划中 | 远程同步、团队协作、模板市场 |
 
@@ -360,18 +458,37 @@ PWS 设计用于与 REST API 配合使用。h3-comic-builder 服务器已提供�
 
 ## 📄 许可证
 
-MIT 许可证 — 详见 [STANDARD_zh.md](STANDARD_zh.md)。
+MIT 许可证 — 详见 [STANDARD.md](STANDARD.md)。
 
 ---
 
 ## 📚 资源
 
-- **完整规范**: [STANDARD_zh.md](STANDARD_zh.md)
+- **完整规范**: [STANDARD.md](STANDARD.md)
 - **关键词结构**: [schema/keyword.schema.json](schema/keyword.schema.json)
 - **模板结构**: [schema/template.schema.json](schema/template.schema.json)
 - **项目结构**: [schema/project.schema.json](schema/project.schema.json)
 - **元数据**: [keywords/_meta.json](keywords/_meta.json)
-- **当前统计**: 4,429 个关键词 · 9 个分类 · 24 个模板
+- **数据来源**: 见下文
+- **当前统计**: 5,959 个关键词 · 33 个分类 · 27 个模板
+
+## 📥 数据来源（永久记录）
+
+> **如何快速了解提示词来源**：查看 `keywords/_meta.json` 的 `data_sources` 字段和每个关键词的 `source` 字段，无需重新搜索。
+
+| 来源 | 类型 | 关键词数 | 涵盖分类 |
+|------|------|----------|----------|
+| h3-comic-builder 中间件（JS 原始文件已迁移） | *已迁移* | 859 | 全部 9 类 — 这些关键词本身也来自网上收集，h3-comic-builder 只是中间层，不作为数据来源列出 |
+| [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) (12.3k stars) | GitHub | 4,600 | composition, lighting, clothing, scene, styles |
+| [Danbooru Tag Database](https://danbooru.donmai.us/wiki_pages/tag_groups) | 标签数据库 | 167 | character (发色/眼色/表情/服装/配件/姿势/特效) |
+| Danbooru Booster Tags + [Civitai](https://civitai.com) 社区 | 社区收集 | 101 | quality (质量词/渲染技术/氛围/色彩/纹理) |
+| Web 研究 — 场景与环境 | 手动整理 | 72 | scene (自然/建筑/天气/时间) |
+| Web 研究 — 艺术风格 | 手动整理 | 41 | styles (绘画风格/动漫类型/美学流派/渲染技术) |
+| [@nodaro/prompts](https://github.com/nodaroai/app.nodaro.ai) (v1.27.0) | GitHub | 1,149 | 23 个新分类 — 动作特效/美学微趋势/大气效果/镜头运动/姿态手势/转场效果等 |
+
+**模板来源**：见 `templates/_meta.json` 的 `data_sources` 字段。
+
+**每次数据更新的完整变更日志**：见 `keywords/_meta.json` 和 `templates/_meta.json` 的 `changelog` 字段。
 
 ---
 

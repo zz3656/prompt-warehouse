@@ -17,10 +17,28 @@
       "maxLength": 200,
       "description": "Canonical prompt term in English"
     },
+    "term_zh": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 200,
+      "description": "中文翻译 — Chinese translation of the canonical prompt term"
+    },
     "aliases": {
       "type": "array",
       "items": { "type": "string", "minLength": 1 },
       "maxItems": 10
+    },
+    "aliases_zh": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "maxItems": 10,
+      "description": "中文替代术语 — Chinese alternative terms / colloquial translations"
+    },
+    "labels_zh": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "maxItems": 20,
+      "description": "中文搜索标签 — Chinese labels for flat search indexing"
     },
     "category": {
       "type": "string",
@@ -38,6 +56,12 @@
       "type": "array",
       "items": { "type": "string", "minLength": 1 },
       "maxItems": 20
+    },
+    "labels_zh": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "maxItems": 20,
+      "description": "中文搜索标签 — Chinese labels for flat search indexing"
     },
     "score": {
       "type": "number",

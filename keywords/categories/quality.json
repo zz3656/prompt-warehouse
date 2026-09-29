@@ -6,7 +6,8 @@
     "subcategory": "basic",
     "labels": [
       "basic",
-      "masterpiece"
+      "masterpiece",
+      "quality"
     ],
     "score": 0.95,
     "priority": "high",
@@ -16,11 +17,16 @@
       "quality"
     ],
     "created_at": "2026-09-27T17:25:55.751Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-29T09:32:45.856496+00:00",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "杰作",
+    "_source_file": "keywords/categories/quality.json",
+    "labels_zh": [
+      "质量"
+    ]
   },
   {
     "id": "quality_basic_best_quality",
@@ -43,7 +49,8 @@
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "最高质量"
   },
   {
     "id": "quality_basic_high_quality",
@@ -66,7 +73,8 @@
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "高质量"
   },
   {
     "id": "quality_basic_high_resolution",
@@ -89,7 +97,8 @@
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "高分辨率"
   },
   {
     "id": "quality_basic_detailed",
@@ -374,6 +383,8 @@
     "subcategory": "advanced",
     "labels": [
       "advanced",
+      "detail",
+      "quality",
       "ultra-detailed"
     ],
     "score": 0.7,
@@ -384,11 +395,17 @@
       "quality"
     ],
     "created_at": "2026-09-27T17:25:55.752Z",
-    "updated_at": "2026-09-27T17:25:55.752Z",
+    "updated_at": "2026-09-29T09:32:45.856337+00:00",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "超精细",
+    "_source_file": "keywords/categories/quality.json",
+    "labels_zh": [
+      "质量",
+      "细节"
+    ]
   },
   {
     "id": "quality_advanced_8k_uhd",
@@ -912,7 +929,8 @@
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage."
+    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
+    "term_zh": "胶片颗粒"
   },
   {
     "id": "quality_basic_hdr",
@@ -937,7 +955,8 @@
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage."
+    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
+    "term_zh": "HDR"
   },
   {
     "id": "quality_advanced_concept_art",
@@ -962,7 +981,8 @@
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage."
+    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
+    "term_zh": "概念艺术"
   },
   {
     "id": "quality_advanced_digital_art",
@@ -1612,7 +1632,8 @@
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage."
+    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
+    "term_zh": "光线追踪"
   },
   {
     "id": "quality_technical_global_illumination",
@@ -1637,7 +1658,8 @@
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage."
+    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
+    "term_zh": "全局光照"
   },
   {
     "id": "quality_technical_ambient_occlusion",
@@ -1687,7 +1709,8 @@
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage."
+    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
+    "term_zh": "景深"
   },
   {
     "id": "quality_technical_chromatic_aberration",
@@ -2212,7 +2235,8 @@
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage."
+    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
+    "term_zh": "三分法"
   },
   {
     "id": "quality_composition_full_shot",
@@ -2537,7 +2561,8 @@
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage."
+    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
+    "term_zh": "哥特"
   },
   {
     "id": "quality_atmosphere_romantic_atmosphere",

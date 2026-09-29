@@ -1,0 +1,13 @@
+{"term": "masterpiece", "term_zh": "杰作", "id": "quality_basic_masterpiece", "category": "quality", "updated_at": "2026-09-29T09:27:56.121737+00:00"}
+{"term": "best quality", "term_zh": "最高质量", "id": "quality_basic_best_quality", "category": "quality", "updated_at": "2026-09-29T09:27:56.121988+00:00"}
+{"term": "high quality", "term_zh": "高质量", "id": "quality_basic_high_quality", "category": "quality", "updated_at": "2026-09-29T09:27:56.121990+00:00"}
+{"term": "high resolution", "term_zh": "高分辨率", "id": "quality_basic_high_resolution", "category": "quality", "updated_at": "2026-09-29T09:27:56.121991+00:00"}
+{"term": "ultra-detailed", "term_zh": "超精细", "id": "quality_advanced_ultra_detailed", "category": "quality", "updated_at": "2026-09-29T09:27:56.121998+00:00"}
+{"term": "film grain", "term_zh": "胶片颗粒", "id": "quality_basic_film_grain", "category": "quality", "updated_at": "2026-09-29T09:27:56.122006+00:00"}
+{"term": "HDR", "term_zh": "HDR", "id": "quality_basic_hdr", "category": "quality", "updated_at": "2026-09-29T09:27:56.122007+00:00"}
+{"term": "concept art", "term_zh": "概念艺术", "id": "quality_advanced_concept_art", "category": "quality", "updated_at": "2026-09-29T09:27:56.122009+00:00"}
+{"term": "ray tracing", "term_zh": "光线追踪", "id": "quality_technical_ray_tracing", "category": "quality", "updated_at": "2026-09-29T09:27:56.122019+00:00"}
+{"term": "global illumination", "term_zh": "全局光照", "id": "quality_technical_global_illumination", "category": "quality", "updated_at": "2026-09-29T09:27:56.122021+00:00"}
+{"term": "depth of field", "term_zh": "景深", "id": "quality_technical_depth_of_field", "category": "quality", "updated_at": "2026-09-29T09:27:56.122022+00:00"}
+{"term": "rule of thirds", "term_zh": "三分法", "id": "quality_composition_rule_of_thirds", "category": "quality", "updated_at": "2026-09-29T09:27:56.122031+00:00"}
+{"term": "gothic", "term_zh": "哥特", "id": "quality_atmosphere_gothic", "category": "quality", "updated_at": "2026-09-29T09:27:56.122036+00:00"}

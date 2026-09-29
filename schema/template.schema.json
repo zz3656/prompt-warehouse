@@ -8,7 +8,9 @@
   "properties": {
     "id": { "type": "string", "pattern": "^[a-z][a-z0-9_]*(\\.[a-z][a-z0-9_]*)*$" },
     "name": { "type": "string", "minLength": 1, "maxLength": 200 },
+    "name_zh": { "type": "string", "minLength": 1, "maxLength": 200, "description": "中文名称 — Chinese name for the template" },
     "description": { "type": "string", "maxLength": 1000 },
+    "description_zh": { "type": "string", "maxLength": 1000, "description": "中文描述 — Chinese description for the template" },
     "category": { "type": "string" },
     "subcategories": { "type": "array", "items": { "type": "string" } },
     "language": { "type": "string", "default": "en" },
@@ -49,6 +51,7 @@
         "properties": {
           "id": { "type": "string", "pattern": "^[a-z_]+$" },
           "description": { "type": "string" },
+          "description_zh": { "type": "string", "description": "中文描述 — Chinese description for this variant" },
           "template": { "type": "string" }
         }
       }

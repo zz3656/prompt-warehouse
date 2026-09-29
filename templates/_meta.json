@@ -1,9 +1,9 @@
 {
-  "version": "1.1.2",
+  "version": "1.2.0",
   "schema_version": "pws-1.0",
   "total_templates": 27,
-  "updated_at": "2026-09-29T00:00:00Z",
-  "updated_by": "enhancement-batch",
+  "updated_at": "2026-09-29T09:35:58.251765+00:00",
+  "updated_by": "chinese-fields-enhancement",
   "data_sources": {
     "migration_layer": {
       "name": "h3-comic-builder",
@@ -15,24 +15,56 @@
       "name": "Minimax H3 Video Prompt Engineering (Web Research)",
       "description": "Minimax H3 视频生成提示词模板，涵盖镜头运动、场景转换、电影风格",
       "template_count": 20,
-      "files": ["h3_video_prompts.json"],
-      "fields_covered": ["camera-movement", "scene-transition", "character-action", "cinematic-style", "atmosphere", "weather-effects"],
+      "files": [
+        "h3_video_prompts.json"
+      ],
+      "fields_covered": [
+        "camera-movement",
+        "scene-transition",
+        "character-action",
+        "cinematic-style",
+        "atmosphere",
+        "weather-effects"
+      ],
       "note": "h3_video_prompts.json — 含 --motion/--stability 参数预设"
     },
     "llm_templates": {
       "name": "LLM System Prompt Best Practices (Web Research)",
       "description": "LLM 系统提示词模板，来自 OpenAI/Anthropic/Google 指南及 GitHub 社区最佳实践",
       "template_count": 10,
-      "files": ["llm_system_prompts.json"],
-      "fields_covered": ["code-assistant", "creative-writer", "data-analyst", "research", "role-play", "product-manager", "security", "teacher", "ai-researcher", "minimalist"],
+      "files": [
+        "llm_system_prompts.json"
+      ],
+      "fields_covered": [
+        "code-assistant",
+        "creative-writer",
+        "data-analyst",
+        "research",
+        "role-play",
+        "product-manager",
+        "security",
+        "teacher",
+        "ai-researcher",
+        "minimalist"
+      ],
       "note": "llm_system_prompts.json"
     },
     "negative_patterns": {
       "name": "AI Safety Research + Prompt Engineering Community",
       "description": "文本生成负面约束模式，用于输出质量控制",
       "template_count": 7,
-      "files": ["text_negative_patterns.json"],
-      "fields_covered": ["hallucination", "repetition", "verbosity", "conversational-padding", "bias", "structure", "style"],
+      "files": [
+        "text_negative_patterns.json"
+      ],
+      "fields_covered": [
+        "hallucination",
+        "repetition",
+        "verbosity",
+        "conversational-padding",
+        "bias",
+        "structure",
+        "style"
+      ],
       "note": "text_negative_patterns.json"
     }
   },
@@ -46,7 +78,9 @@
     {
       "version": "1.0.0",
       "date": "2025-09-28",
-      "changes": ["Initial migration from h3-comic-builder data/prompts_templates.js"],
+      "changes": [
+        "Initial migration from h3-comic-builder data/prompts_templates.js"
+      ],
       "added": 24,
       "before": 0,
       "after": 24
@@ -84,6 +118,14 @@
       "added": 0,
       "before": 27,
       "after": 27
+    },
+    {
+      "version": "1.2.0",
+      "date": "2026-09-29",
+      "changes": [
+        "Added Chinese field support (name_zh, description_zh) to template schema",
+        "Chinese fields already present in existing templates (h3_video, llm_system, text_negative)"
+      ]
     }
   ],
   "description": "27 prompt templates. h3-comic-builder (24) is an intermediate migration layer whose templates also came from the web. Direct data sources: H3 Video Prompts (20) + LLM System Prompts (10) + Text Negative Patterns (7). See data_sources for full provenance."
