@@ -20,7 +20,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "单格分镜",
+    "labels_zh": [
+      "分镜",
+      "分镜布局",
+      "单格分镜"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:53:10.847259+00:00"
   },
   {
     "id": "panel_panellayout_close_up_shot",
@@ -43,7 +51,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "特写镜头",
+    "labels_zh": [
+      "分镜",
+      "分镜布局",
+      "特写镜头"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:53:10.847272+00:00"
   },
   {
     "id": "panel_panellayout_wide_establishing_shot",
@@ -66,7 +82,14 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "全景开场镜头",
+    "labels_zh": [
+      "分镜",
+      "分镜布局"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T07:06:16.323847+00:00"
   },
   {
     "id": "panel_panellayout_medium_shot",
@@ -89,7 +112,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "中景",
+    "labels_zh": [
+      "分镜",
+      "分镜布局",
+      "中景"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T07:06:16.323853+00:00"
   },
   {
     "id": "panel_panellayout_reaction_shot",
@@ -112,7 +143,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "反应镜头",
+    "labels_zh": [
+      "分镜",
+      "分镜布局",
+      "反应镜头"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.964148+00:00"
   },
   {
     "id": "panel_panellayout_two_shot",
@@ -135,7 +174,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "双人镜头",
+    "labels_zh": [
+      "分镜",
+      "分镜布局",
+      "双人镜头"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.964153+00:00"
   },
   {
     "id": "panel_panellayout_over_the_shoulder_shot",
@@ -158,7 +205,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "过肩镜头",
+    "labels_zh": [
+      "分镜",
+      "分镜布局",
+      "过肩镜头"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.964158+00:00"
   },
   {
     "id": "panel_panellayout_point_of_view_shot",
@@ -181,7 +236,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "视角",
+    "labels_zh": [
+      "分镜",
+      "分镜布局",
+      "视角"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:17:00.039399+00:00"
   },
   {
     "id": "panel_panellayout_pov_shot",
@@ -204,7 +267,16 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "POV 镜头",
+    "labels_zh": [
+      "分镜",
+      "分镜布局",
+      "POV",
+      "镜头"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:53:10.847279+00:00"
   },
   {
     "id": "panel_panellayout_dutch_angle",
@@ -227,7 +299,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "荷兰角",
+    "labels_zh": [
+      "分镜",
+      "分镜布局",
+      "荷兰角"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T07:06:16.323858+00:00"
   },
   {
     "id": "panel_panellayout_dynamic_angle",
@@ -250,7 +330,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "动态角度",
+    "labels_zh": [
+      "分镜",
+      "分镜布局",
+      "动态角度"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T07:06:16.323862+00:00"
   },
   {
     "id": "panel_panellayout_dramatic_angle",
@@ -273,7 +361,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "戏剧角度",
+    "labels_zh": [
+      "分镜",
+      "分镜布局",
+      "戏剧角度"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:55:59.127103+00:00"
   },
   {
     "id": "panel_panellayout_split_screen",
@@ -296,7 +392,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "分屏",
+    "labels_zh": [
+      "分镜",
+      "分镜布局",
+      "分屏"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:55:59.127111+00:00"
   },
   {
     "id": "panel_panellayout_double_page_spread",
@@ -319,7 +423,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "跨页",
+    "labels_zh": [
+      "分镜",
+      "分镜布局",
+      "跨页"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:55:59.127115+00:00"
   },
   {
     "id": "panel_panellayout_splash_page",
@@ -342,7 +454,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "整页",
+    "labels_zh": [
+      "分镜",
+      "分镜布局",
+      "整页"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:55:59.127119+00:00"
   },
   {
     "id": "panel_comiceffects_speed_lines",
@@ -365,7 +485,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "速度线",
+    "labels_zh": [
+      "分镜",
+      "漫画特效",
+      "速度线"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T07:06:16.323866+00:00"
   },
   {
     "id": "panel_comiceffects_action_lines",
@@ -388,7 +516,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "动作线",
+    "labels_zh": [
+      "分镜",
+      "漫画特效",
+      "动作线"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:53:10.847284+00:00"
   },
   {
     "id": "panel_comiceffects_impact_lines",
@@ -411,7 +547,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "冲击线",
+    "labels_zh": [
+      "分镜",
+      "漫画特效",
+      "冲击线"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:53:10.847288+00:00"
   },
   {
     "id": "panel_comiceffects_concentric_lines",
@@ -434,7 +578,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "同心线",
+    "labels_zh": [
+      "分镜",
+      "漫画特效",
+      "同心线"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:53:10.847292+00:00"
   },
   {
     "id": "panel_comiceffects_emphasis_lines",
@@ -457,7 +609,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "强调线",
+    "labels_zh": [
+      "分镜",
+      "漫画特效",
+      "强调线"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:55:59.127124+00:00"
   },
   {
     "id": "panel_comiceffects_screentone",
@@ -480,7 +640,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "网点",
+    "labels_zh": [
+      "分镜",
+      "漫画特效",
+      "网点"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:25:58.025810+00:00"
   },
   {
     "id": "panel_comiceffects_halftone",
@@ -503,7 +671,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "半色调",
+    "labels_zh": [
+      "分镜",
+      "漫画特效",
+      "半色调"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:25:58.025816+00:00"
   },
   {
     "id": "panel_comiceffects_stippling",
@@ -526,7 +702,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "点画",
+    "labels_zh": [
+      "分镜",
+      "漫画特效",
+      "点画"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:25:58.025820+00:00"
   },
   {
     "id": "panel_comiceffects_comic_effect",
@@ -549,7 +733,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "漫画效果",
+    "labels_zh": [
+      "分镜",
+      "漫画特效",
+      "漫画效果"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:55:59.127128+00:00"
   },
   {
     "id": "panel_comiceffects_visual_effect",
@@ -572,7 +764,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "视觉效果",
+    "labels_zh": [
+      "分镜",
+      "漫画特效",
+      "视觉效果"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:55:59.127132+00:00"
   },
   {
     "id": "panel_comiceffects_sound_effect_text",
@@ -595,7 +795,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "音效文字",
+    "labels_zh": [
+      "分镜",
+      "漫画特效",
+      "音效文字"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:55:59.127136+00:00"
   },
   {
     "id": "panel_comiceffects_onomatopoeia",
@@ -618,7 +826,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "拟声词",
+    "labels_zh": [
+      "分镜",
+      "漫画特效",
+      "拟声词"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:25:58.025825+00:00"
   },
   {
     "id": "panel_comiceffects_thought_bubble",
@@ -641,7 +857,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "思维气泡",
+    "labels_zh": [
+      "分镜",
+      "漫画特效",
+      "思维气泡"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:55:59.127140+00:00"
   },
   {
     "id": "panel_comiceffects_speech_balloon",
@@ -664,7 +888,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "对话气泡",
+    "labels_zh": [
+      "分镜",
+      "漫画特效",
+      "对话气泡"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.465486+00:00"
   },
   {
     "id": "panel_comiceffects_manga_panel_border",
@@ -687,7 +919,14 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "漫画panel边框",
+    "labels_zh": [
+      "分镜",
+      "漫画特效"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:47:11.408819+00:00"
   },
   {
     "id": "panel_comiceffects_manga_panel",
@@ -710,7 +949,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "漫画页",
+    "labels_zh": [
+      "分镜",
+      "漫画特效",
+      "漫画页"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:25:58.025829+00:00"
   },
   {
     "id": "panel_comiceffects_focus_line",
@@ -733,7 +980,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "聚焦线",
+    "labels_zh": [
+      "分镜",
+      "漫画特效",
+      "聚焦线"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.465494+00:00"
   },
   {
     "id": "panel_comiceffects_radial_lines",
@@ -756,7 +1011,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "放射线",
+    "labels_zh": [
+      "分镜",
+      "漫画特效",
+      "放射线"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.465498+00:00"
   },
   {
     "id": "panel_comiceffects_flash_background",
@@ -779,7 +1042,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "闪光背景",
+    "labels_zh": [
+      "分镜",
+      "漫画特效",
+      "闪光背景"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.465502+00:00"
   },
   {
     "id": "panel_comiceffects_abstract_background",
@@ -802,7 +1073,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "抽象背景",
+    "labels_zh": [
+      "分镜",
+      "漫画特效",
+      "抽象背景"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.465506+00:00"
   },
   {
     "id": "panel_comiceffects_narration_box",
@@ -825,7 +1104,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "叙述框",
+    "labels_zh": [
+      "分镜",
+      "漫画特效",
+      "叙述框"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.465510+00:00"
   },
   {
     "id": "panel_comiceffects_chapter_title",
@@ -848,7 +1135,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "章节标题",
+    "labels_zh": [
+      "分镜",
+      "漫画特效",
+      "章节标题"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.465514+00:00"
   },
   {
     "id": "panel_animation_key_frame",
@@ -871,7 +1166,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "钥匙画框",
+    "labels_zh": [
+      "分镜",
+      "动画",
+      "钥匙画框"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.964165+00:00"
   },
   {
     "id": "panel_animation_animation_cel",
@@ -894,7 +1197,14 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "动画赛璐珞",
+    "labels_zh": [
+      "分镜",
+      "动画"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:53:10.847298+00:00"
   },
   {
     "id": "panel_animation_animation_test",
@@ -917,7 +1227,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "动画测试",
+    "labels_zh": [
+      "分镜",
+      "动画",
+      "动画测试"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:53:10.847302+00:00"
   },
   {
     "id": "panel_animation_in_between_frame",
@@ -940,7 +1258,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "中间帧",
+    "labels_zh": [
+      "分镜",
+      "动画",
+      "中间帧"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:53:10.847306+00:00"
   },
   {
     "id": "panel_animation_smear_frame",
@@ -963,7 +1289,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "拖影帧",
+    "labels_zh": [
+      "分镜",
+      "动画",
+      "拖影帧"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:55:59.127145+00:00"
   },
   {
     "id": "panel_animation_motion_blur",
@@ -986,7 +1320,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "动态模糊",
+    "labels_zh": [
+      "分镜",
+      "动画",
+      "动态模糊"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T07:06:16.323872+00:00"
   },
   {
     "id": "panel_animation_squash_and_stretch",
@@ -1009,7 +1351,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "挤压拉伸",
+    "labels_zh": [
+      "分镜",
+      "动画",
+      "挤压拉伸"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:55:59.127149+00:00"
   },
   {
     "id": "panel_animation_follow_through",
@@ -1032,7 +1382,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "跟随动作",
+    "labels_zh": [
+      "分镜",
+      "动画",
+      "跟随动作"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:55:59.127153+00:00"
   },
   {
     "id": "panel_animation_overlap",
@@ -1055,7 +1413,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "重叠",
+    "labels_zh": [
+      "分镜",
+      "动画",
+      "重叠"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:25:58.025834+00:00"
   },
   {
     "id": "panel_animation_anticipation_pose",
@@ -1078,7 +1444,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "预备姿势",
+    "labels_zh": [
+      "分镜",
+      "动画",
+      "预备姿势"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:55:59.127156+00:00"
   },
   {
     "id": "panel_animation_breakdown_pose",
@@ -1101,7 +1475,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "分解姿势",
+    "labels_zh": [
+      "分镜",
+      "动画",
+      "分解姿势"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:55:59.127160+00:00"
   },
   {
     "id": "panel_animation_hold_frame",
@@ -1124,7 +1506,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "定格帧",
+    "labels_zh": [
+      "分镜",
+      "动画",
+      "定格帧"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.465518+00:00"
   },
   {
     "id": "panel_animation_tween_frame",
@@ -1147,7 +1537,14 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "十来岁画框",
+    "labels_zh": [
+      "分镜",
+      "动画"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:17:00.039410+00:00"
   },
   {
     "id": "panel_animation_animated_pose",
@@ -1170,7 +1567,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "动画姿势",
+    "labels_zh": [
+      "分镜",
+      "动画",
+      "动画姿势"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.465522+00:00"
   },
   {
     "id": "panel_animation_limited_animation",
@@ -1193,7 +1598,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "有限动画",
+    "labels_zh": [
+      "分镜",
+      "动画",
+      "有限动画"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.465525+00:00"
   },
   {
     "id": "panel_animation_full_animation",
@@ -1216,7 +1629,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "全动画",
+    "labels_zh": [
+      "分镜",
+      "动画",
+      "全动画"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.465529+00:00"
   },
   {
     "id": "panel_animation_center_of_gravity_shift",
@@ -1239,7 +1660,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "重心偏移",
+    "labels_zh": [
+      "分镜",
+      "动画",
+      "重心偏移"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.465533+00:00"
   },
   {
     "id": "panel_animation_weight_shift_pose",
@@ -1262,7 +1691,14 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "重心偏移姿势",
+    "labels_zh": [
+      "分镜",
+      "动画"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.465536+00:00"
   },
   {
     "id": "panel_animation_secondary_action",
@@ -1285,7 +1721,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "次要动作",
+    "labels_zh": [
+      "分镜",
+      "动画",
+      "次要动作"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.465540+00:00"
   },
   {
     "id": "panel_panelmood_dramatic_panel",
@@ -1308,7 +1752,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "戏剧分镜",
+    "labels_zh": [
+      "分镜",
+      "分镜氛围",
+      "戏剧分镜"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:53:10.847311+00:00"
   },
   {
     "id": "panel_panelmood_tension_panel",
@@ -1331,7 +1783,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "紧张分镜",
+    "labels_zh": [
+      "分镜",
+      "分镜氛围",
+      "紧张分镜"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:53:10.847315+00:00"
   },
   {
     "id": "panel_panelmood_romantic_panel",
@@ -1354,7 +1814,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "浪漫分镜",
+    "labels_zh": [
+      "分镜",
+      "分镜氛围",
+      "浪漫分镜"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:53:10.847319+00:00"
   },
   {
     "id": "panel_panelmood_comedic_panel",
@@ -1377,7 +1845,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "喜剧分镜",
+    "labels_zh": [
+      "分镜",
+      "分镜氛围",
+      "喜剧分镜"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:55:59.127165+00:00"
   },
   {
     "id": "panel_panelmood_sad_panel",
@@ -1400,7 +1876,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "悲伤分镜",
+    "labels_zh": [
+      "分镜",
+      "分镜氛围",
+      "悲伤分镜"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:55:59.127168+00:00"
   },
   {
     "id": "panel_panelmood_epic_panel",
@@ -1423,7 +1907,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "史诗分镜",
+    "labels_zh": [
+      "分镜",
+      "分镜氛围",
+      "史诗分镜"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:55:59.127172+00:00"
   },
   {
     "id": "panel_panelmood_quiet_moment",
@@ -1446,7 +1938,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "宁静时刻",
+    "labels_zh": [
+      "分镜",
+      "分镜氛围",
+      "宁静时刻"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:55:59.127176+00:00"
   },
   {
     "id": "panel_panelmood_punchline_panel",
@@ -1469,7 +1969,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "包袱分镜",
+    "labels_zh": [
+      "分镜",
+      "分镜氛围",
+      "包袱分镜"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:55:59.127179+00:00"
   },
   {
     "id": "panel_panelmood_reveal_panel",
@@ -1492,7 +2000,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "揭示分镜",
+    "labels_zh": [
+      "分镜",
+      "分镜氛围",
+      "揭示分镜"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.465544+00:00"
   },
   {
     "id": "panel_panelmood_cliffhanger_panel",
@@ -1515,7 +2031,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "悬念分镜",
+    "labels_zh": [
+      "分镜",
+      "分镜氛围",
+      "悬念分镜"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.465548+00:00"
   },
   {
     "id": "panel_panelmood_emotional_climax",
@@ -1538,7 +2062,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "情感高潮",
+    "labels_zh": [
+      "分镜",
+      "分镜氛围",
+      "情感高潮"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.465551+00:00"
   },
   {
     "id": "panel_panelmood_establishing_panel",
@@ -1561,7 +2093,15 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "建立分镜",
+    "labels_zh": [
+      "分镜",
+      "分镜氛围",
+      "建立分镜"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:55:59.127183+00:00"
   },
   {
     "id": "panel_panelmood_transition_panel",
@@ -1584,6 +2124,14 @@
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js"
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "term_zh": "过渡分镜",
+    "labels_zh": [
+      "分镜",
+      "分镜氛围",
+      "过渡分镜"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.465555+00:00"
   }
 ]

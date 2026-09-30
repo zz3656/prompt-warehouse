@@ -1,14 +1,12 @@
 [
   {
-    "id": "era_decade-20c_1920s_flapper",
+    "id": "era_decade_20c_1920s_flapper",
     "term": "set in the 1920s flapper era — beaded drop-waist dresses",
-    "term_zh": "",
     "category": "era",
     "subcategory": "decade-20c",
     "labels": [
       "1920s-flapper"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -18,18 +16,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Jazz-age speakeasy glamour. Prompt hint: set in the 1920s flapper era — beaded drop-waist dresses, finger waves, feathered headbands and long pearl ropes in smoky speakeasies, with sepia-toned silver-rich monochrome and soft halation"
+    "notes": "Description: Jazz-age speakeasy glamour. Prompt hint: set in the 1920s flapper era — beaded drop-waist dresses, finger waves, feathered headbands and long pearl ropes in smoky speakeasies, with sepia-toned silver-rich monochrome and soft halation",
+    "term_zh": "1920年代轻佻女郎时代 — 串珠低腰连衣裙",
+    "labels_zh": [
+      "时代",
+      "二十世纪",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.949608+00:00"
   },
   {
-    "id": "era_decade-20c_1930s_art_deco",
+    "id": "era_decade_20c_1930s_art_deco",
     "term": "set in the 1930s art-deco era — bias-cut satin gowns",
-    "term_zh": "",
     "category": "era",
     "subcategory": "decade-20c",
     "labels": [
       "1930s-art-deco"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -39,18 +43,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Streamlined deco glamour. Prompt hint: set in the 1930s art-deco era — bias-cut satin gowns, wide pinstripe suits and chrome geometric interiors, with dramatic theatrical key light and a polished black-and-white tonality"
+    "notes": "Description: Streamlined deco glamour. Prompt hint: set in the 1930s art-deco era — bias-cut satin gowns, wide pinstripe suits and chrome geometric interiors, with dramatic theatrical key light and a polished black-and-white tonality",
+    "term_zh": "1930年代装饰艺术 — 斜裁缎子礼服",
+    "labels_zh": [
+      "时代",
+      "二十世纪",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.949619+00:00"
   },
   {
-    "id": "era_decade-20c_1940s_wartime",
+    "id": "era_decade_20c_1940s_wartime",
     "term": "set in the 1940s wartime era — utility dresses",
-    "term_zh": "",
     "category": "era",
     "subcategory": "decade-20c",
     "labels": [
       "1940s-wartime"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -60,18 +70,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Wartime utility and victory rolls. Prompt hint: set in the 1940s wartime era — utility dresses, victory rolls, seamed stockings and military uniforms in train stations and home-front kitchens, with warm sepia tones and gentle film grain"
+    "notes": "Description: Wartime utility and victory rolls. Prompt hint: set in the 1940s wartime era — utility dresses, victory rolls, seamed stockings and military uniforms in train stations and home-front kitchens, with warm sepia tones and gentle film grain",
+    "term_zh": "1940年代战时 — 实用连衣裙",
+    "labels_zh": [
+      "时代",
+      "二十世纪",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.949625+00:00"
   },
   {
-    "id": "era_decade-20c_1960s_mod",
+    "id": "era_decade_20c_1960s_mod",
     "term": "set in the 1960s mod era — geometric A-line dresses",
-    "term_zh": "",
     "category": "era",
     "subcategory": "decade-20c",
     "labels": [
       "1960s-mod"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -81,18 +97,27 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Swinging-London mod graphic. Prompt hint: set in the 1960s mod era — geometric A-line dresses, op-art prints, white go-go boots and graphic eyeliner on mini-skirted Carnaby Street, with crisp graphic color and bright daylight"
+    "notes": "Description: Swinging-London mod graphic. Prompt hint: set in the 1960s mod era — geometric A-line dresses, op-art prints, white go-go boots and graphic eyeliner on mini-skirted Carnaby Street, with crisp graphic color and bright daylight",
+    "term_zh": "1960 年代摩登 — 几何 A 字裙",
+    "labels_zh": [
+      "时代",
+      "二十世纪",
+      "1960",
+      "年代摩登",
+      "几何",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.447751+00:00"
   },
   {
-    "id": "era_decade-20c_1970s_disco",
+    "id": "era_decade_20c_1970s_disco",
     "term": "set in the 1970s disco era — sequined jumpsuits",
-    "term_zh": "",
     "category": "era",
     "subcategory": "decade-20c",
     "labels": [
       "1970s-disco"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -102,18 +127,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Studio-54 mirror-ball glitter. Prompt hint: set in the 1970s disco era — sequined jumpsuits, wide-collar shirts, flares and feathered hair in mirror-ball nightclubs, with hot strobe-saturated color and lens-flared neon"
+    "notes": "Description: Studio-54 mirror-ball glitter. Prompt hint: set in the 1970s disco era — sequined jumpsuits, wide-collar shirts, flares and feathered hair in mirror-ball nightclubs, with hot strobe-saturated color and lens-flared neon",
+    "term_zh": "1970年代迪斯科 — 亮片连体衣",
+    "labels_zh": [
+      "时代",
+      "二十世纪",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.949630+00:00"
   },
   {
-    "id": "era_decade-20c_1980s_neon",
+    "id": "era_decade_20c_1980s_neon",
     "term": "set in the 1980s neon era — power-shoulder blazers",
-    "term_zh": "",
     "category": "era",
     "subcategory": "decade-20c",
     "labels": [
       "1980s-neon"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -123,18 +154,26 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Power-suit MTV neon excess. Prompt hint: set in the 1980s neon era — power-shoulder blazers, leg warmers, perms and bright neon eye shadow under hard pink-and-blue gels, with chromatic-aberration neon color and grain"
+    "notes": "Description: Power-suit MTV neon excess. Prompt hint: set in the 1980s neon era — power-shoulder blazers, leg warmers, perms and bright neon eye shadow under hard pink-and-blue gels, with chromatic-aberration neon color and grain",
+    "term_zh": "1980 年代霓虹 — 强肩西装外套",
+    "labels_zh": [
+      "时代",
+      "二十世纪",
+      "1980",
+      "年代霓虹",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.447765+00:00"
   },
   {
-    "id": "era_pre-modern_medieval",
+    "id": "era_pre_modern_medieval",
     "term": "set in the medieval era — heavy linen tunics",
-    "term_zh": "",
     "category": "era",
     "subcategory": "pre-modern",
     "labels": [
       "medieval"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -144,18 +183,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Stone-castle European Middle Ages. Prompt hint: set in the medieval era — heavy linen tunics, woolen cloaks, leather belts and chain-mail in candlelit stone halls and muddy villages, with smoky firelight color and earthen pigment"
+    "notes": "Description: Stone-castle European Middle Ages. Prompt hint: set in the medieval era — heavy linen tunics, woolen cloaks, leather belts and chain-mail in candlelit stone halls and muddy villages, with smoky firelight color and earthen pigment",
+    "term_zh": "中世纪 — 厚重亚麻束腰外衣",
+    "labels_zh": [
+      "时代",
+      "前现代",
+      "中世纪",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.949636+00:00"
   },
   {
-    "id": "era_pre-modern_renaissance",
+    "id": "era_pre_modern_renaissance",
     "term": "set in the Renaissance era — velvet doublets",
-    "term_zh": "",
     "category": "era",
     "subcategory": "pre-modern",
     "labels": [
       "renaissance"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -165,18 +211,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Florentine velvet-and-fresco grandeur. Prompt hint: set in the Renaissance era — velvet doublets, brocade gowns, pearl headdresses and fresco-painted halls, with chiaroscuro candle light and rich oil-painting color"
+    "notes": "Description: Florentine velvet-and-fresco grandeur. Prompt hint: set in the Renaissance era — velvet doublets, brocade gowns, pearl headdresses and fresco-painted halls, with chiaroscuro candle light and rich oil-painting color",
+    "term_zh": "文艺复兴 — 天鹅绒紧身上衣",
+    "labels_zh": [
+      "时代",
+      "前现代",
+      "文艺复兴",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.447771+00:00"
   },
   {
-    "id": "era_pre-modern_victorian",
+    "id": "era_pre_modern_victorian",
     "term": "set in the Victorian era — corseted bustled gowns",
-    "term_zh": "",
     "category": "era",
     "subcategory": "pre-modern",
     "labels": [
       "victorian"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -186,18 +239,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Gaslit corseted-and-lace 19th-century. Prompt hint: set in the Victorian era — corseted bustled gowns, top hats, lace gloves and pocket watches on cobbled gaslit London streets, with sepia-toned monochrome and dense atmospheric fog"
+    "notes": "Description: Gaslit corseted-and-lace 19th-century. Prompt hint: set in the Victorian era — corseted bustled gowns, top hats, lace gloves and pocket watches on cobbled gaslit London streets, with sepia-toned monochrome and dense atmospheric fog",
+    "term_zh": "维多利亚 — 紧身胸衣撑裙礼服",
+    "labels_zh": [
+      "时代",
+      "前现代",
+      "维多利亚",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.447775+00:00"
   },
   {
-    "id": "era_pre-modern_edwardian",
+    "id": "era_pre_modern_edwardian",
     "term": "set in the Edwardian era — high-collared tea dresses",
-    "term_zh": "",
     "category": "era",
     "subcategory": "pre-modern",
     "labels": [
       "edwardian"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -207,18 +267,26 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Belle-epoque tea-garden refinement. Prompt hint: set in the Edwardian era — high-collared tea dresses, parasols, three-piece suits and pocket squares in manicured tea gardens, with soft warm afternoon light and gentle pastel color"
+    "notes": "Description: Belle-epoque tea-garden refinement. Prompt hint: set in the Edwardian era — high-collared tea dresses, parasols, three-piece suits and pocket squares in manicured tea gardens, with soft warm afternoon light and gentle pastel color",
+    "term_zh": "爱德华 — 高领茶服",
+    "labels_zh": [
+      "时代",
+      "前现代",
+      "爱德华",
+      "高领茶服",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.447780+00:00"
   },
   {
-    "id": "era_pre-modern_wild_west",
+    "id": "era_pre_modern_wild_west",
     "term": "set in the Wild West era — leather dusters",
-    "term_zh": "",
     "category": "era",
     "subcategory": "pre-modern",
     "labels": [
       "wild-west"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -228,18 +296,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Sun-baked frontier-cowboy Americana. Prompt hint: set in the Wild West era — leather dusters, wide-brim hats, prairie dresses and tin-stars on dusty saloon porches and red-rock canyons, with hot orange-and-teal grading and sun-bleached grain"
+    "notes": "Description: Sun-baked frontier-cowboy Americana. Prompt hint: set in the Wild West era — leather dusters, wide-brim hats, prairie dresses and tin-stars on dusty saloon porches and red-rock canyons, with hot orange-and-teal grading and sun-bleached grain",
+    "term_zh": "西部荒野",
+    "labels_zh": [
+      "时代",
+      "前现代",
+      "西部荒野",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:47:11.391390+00:00"
   },
   {
-    "id": "era_pre-modern_ancient_rome",
+    "id": "era_pre_modern_ancient_rome",
     "term": "set in ancient Rome — draped togas",
-    "term_zh": "",
     "category": "era",
     "subcategory": "pre-modern",
     "labels": [
       "ancient-rome"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -249,18 +324,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Marble-columned imperial Rome. Prompt hint: set in ancient Rome — draped togas, leather sandals, gilded laurel wreaths and bronze armor among marble columns and frescoed villas, with warm Mediterranean sun and umber-and-ochre color"
+    "notes": "Description: Marble-columned imperial Rome. Prompt hint: set in ancient Rome — draped togas, leather sandals, gilded laurel wreaths and bronze armor among marble columns and frescoed villas, with warm Mediterranean sun and umber-and-ochre color",
+    "term_zh": "古罗马 — 披挂托加袍",
+    "labels_zh": [
+      "时代",
+      "前现代",
+      "古罗马",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.447785+00:00"
   },
   {
-    "id": "era_pre-modern_ancient_egypt",
+    "id": "era_pre_modern_ancient_egypt",
     "term": "set in ancient Egypt — pleated linen kalasiris",
-    "term_zh": "",
     "category": "era",
     "subcategory": "pre-modern",
     "labels": [
       "ancient-egypt"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -270,18 +352,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Pharaonic gold-and-linen Nile. Prompt hint: set in ancient Egypt — pleated linen kalasiris, gold collars, kohl eyeliner and uraeus crowns beside sandstone temples and Nile reeds, with hot sand-yellow color and crisp midday shadows"
+    "notes": "Description: Pharaonic gold-and-linen Nile. Prompt hint: set in ancient Egypt — pleated linen kalasiris, gold collars, kohl eyeliner and uraeus crowns beside sandstone temples and Nile reeds, with hot sand-yellow color and crisp midday shadows",
+    "term_zh": "古埃及",
+    "labels_zh": [
+      "时代",
+      "前现代",
+      "古埃及",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:47:11.391398+00:00"
   },
   {
-    "id": "era_pre-modern_feudal_japan",
+    "id": "era_pre_modern_feudal_japan",
     "term": "set in feudal Japan — layered kimono",
-    "term_zh": "",
     "category": "era",
     "subcategory": "pre-modern",
     "labels": [
       "feudal-japan"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -291,18 +380,26 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Edo-period samurai-and-geisha. Prompt hint: set in feudal Japan — layered kimono, wooden geta, samurai armor and paper lanterns in shoji-screened tea houses and snowy castle courtyards, with cool ink-wash color and quiet fog"
+    "notes": "Description: Edo-period samurai-and-geisha. Prompt hint: set in feudal Japan — layered kimono, wooden geta, samurai armor and paper lanterns in shoji-screened tea houses and snowy castle courtyards, with cool ink-wash color and quiet fog",
+    "term_zh": "日本封建 — 多层和服",
+    "labels_zh": [
+      "时代",
+      "前现代",
+      "日本封建",
+      "多层和服",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.447789+00:00"
   },
   {
     "id": "era_speculative_near_future",
     "term": "set in a plausible near-future — minimalist technical fabric",
-    "term_zh": "",
     "category": "era",
     "subcategory": "speculative",
     "labels": [
       "near-future"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -312,18 +409,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Plausible 5-to-15-years-ahead. Prompt hint: set in a plausible near-future — minimalist technical fabrics, slim AR earpieces and clean modular interiors with subtle ambient-screen glow, with cool desaturated color and crisp digital clarity"
+    "notes": "Description: Plausible 5-to-15-years-ahead. Prompt hint: set in a plausible near-future — minimalist technical fabrics, slim AR earpieces and clean modular interiors with subtle ambient-screen glow, with cool desaturated color and crisp digital clarity",
+    "term_zh": "近未来 — 极简技术面料",
+    "labels_zh": [
+      "时代",
+      "推测",
+      "近未来",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.949641+00:00"
   },
   {
     "id": "era_speculative_far_future",
     "term": "set in a far-future spacefaring era — sleek bodysuits",
-    "term_zh": "",
     "category": "era",
     "subcategory": "speculative",
     "labels": [
       "far-future"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -333,18 +437,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Centuries-ahead spacefaring. Prompt hint: set in a far-future spacefaring era — sleek bodysuits, exo-skeletons and holographic visors in arcology corridors and starship bridges, with luminous bioplastic color and volumetric LED light"
+    "notes": "Description: Centuries-ahead spacefaring. Prompt hint: set in a far-future spacefaring era — sleek bodysuits, exo-skeletons and holographic visors in arcology corridors and starship bridges, with luminous bioplastic color and volumetric LED light",
+    "term_zh": "远未来星际时代 — 流线连体衣",
+    "labels_zh": [
+      "时代",
+      "推测",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.949646+00:00"
   },
   {
     "id": "era_speculative_dieselpunk",
     "term": "set in a dieselpunk alt-history — riveted leather jackets",
-    "term_zh": "",
     "category": "era",
     "subcategory": "speculative",
     "labels": [
       "dieselpunk"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -354,18 +464,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: 1930s-40s industrial alt-history. Prompt hint: set in a dieselpunk alt-history — riveted leather jackets, brass goggles, military trench coats and oil-stained mechanic boots in soot-blackened industrial cities, with smoky amber-grey color"
+    "notes": "Description: 1930s-40s industrial alt-history. Prompt hint: set in a dieselpunk alt-history — riveted leather jackets, brass goggles, military trench coats and oil-stained mechanic boots in soot-blackened industrial cities, with smoky amber-grey color",
+    "term_zh": "柴油朋克替代历史 — 铆钉皮夹克",
+    "labels_zh": [
+      "时代",
+      "推测",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.949651+00:00"
   },
   {
     "id": "era_speculative_atompunk",
     "term": "set in an atompunk 1950s-future — chrome-finned dresses",
-    "term_zh": "",
     "category": "era",
     "subcategory": "speculative",
     "labels": [
       "atompunk"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -375,18 +491,27 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: 1950s-future space-age optimism. Prompt hint: set in an atompunk 1950s-future — chrome-finned dresses, ray-gun props, mid-century furniture and tail-finned cars under candy-pastel skies, with clean Technicolor saturation"
+    "notes": "Description: 1950s-future space-age optimism. Prompt hint: set in an atompunk 1950s-future — chrome-finned dresses, ray-gun props, mid-century furniture and tail-finned cars under candy-pastel skies, with clean Technicolor saturation",
+    "term_zh": "原子朋克 1950 年代未来 — 铬鳍连衣裙",
+    "labels_zh": [
+      "时代",
+      "推测",
+      "原子朋克",
+      "1950",
+      "年代未来",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.949657+00:00"
   },
   {
     "id": "era_speculative_cyberpunk_future",
     "term": "set in a cyberpunk future — chrome-trimmed jackets",
-    "term_zh": "",
     "category": "era",
     "subcategory": "speculative",
     "labels": [
       "cyberpunk-future"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -396,18 +521,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Neon-megacity high-tech low-life. Prompt hint: set in a cyberpunk future — chrome-trimmed jackets, holographic eyewear, mesh tops and cybernetic implants in neon mega-city alleys, with electric magenta-cyan color and rain-soaked reflections"
+    "notes": "Description: Neon-megacity high-tech low-life. Prompt hint: set in a cyberpunk future — chrome-trimmed jackets, holographic eyewear, mesh tops and cybernetic implants in neon mega-city alleys, with electric magenta-cyan color and rain-soaked reflections",
+    "term_zh": "赛博朋克未来 — 铬饰夹克",
+    "labels_zh": [
+      "时代",
+      "推测",
+      "铬饰夹克",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.949661+00:00"
   },
   {
     "id": "era_speculative_post_apocalyptic",
     "term": "set in a post-apocalyptic wasteland — patched leather",
-    "term_zh": "",
     "category": "era",
     "subcategory": "speculative",
     "labels": [
       "post-apocalyptic"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -417,18 +549,26 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Scavenger wasteland survival. Prompt hint: set in a post-apocalyptic wasteland — patched leather, gas masks, scavenged armor and rust-stained scarves in ruined highways and broken cityscapes, with desaturated dust-orange color and gritty grain"
+    "notes": "Description: Scavenger wasteland survival. Prompt hint: set in a post-apocalyptic wasteland — patched leather, gas masks, scavenged armor and rust-stained scarves in ruined highways and broken cityscapes, with desaturated dust-orange color and gritty grain",
+    "term_zh": "末日废土 — 补丁皮革",
+    "labels_zh": [
+      "时代",
+      "推测",
+      "末日废土",
+      "补丁皮革",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.949666+00:00"
   },
   {
     "id": "era_speculative_retrofuturism",
     "term": "set in a retrofuturist tomorrow — silver lame jumpsuits",
-    "term_zh": "",
     "category": "era",
     "subcategory": "speculative",
     "labels": [
       "retrofuturism"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -438,6 +578,14 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Yesterday's tomorrow nostalgia. Prompt hint: set in a retrofuturist tomorrow — silver lame jumpsuits, bubble helmets, aerodynamic furniture and analog spaceport interiors, with optimistic Technicolor saturation and chrome-bright highlights"
+    "notes": "Description: Yesterday's tomorrow nostalgia. Prompt hint: set in a retrofuturist tomorrow — silver lame jumpsuits, bubble helmets, aerodynamic furniture and analog spaceport interiors, with optimistic Technicolor saturation and chrome-bright highlights",
+    "term_zh": "复古未来明日 — 银色拉梅连体衣",
+    "labels_zh": [
+      "时代",
+      "推测",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.949671+00:00"
   }
 ]

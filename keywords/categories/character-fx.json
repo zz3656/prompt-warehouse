@@ -1,14 +1,12 @@
 [
   {
-    "id": "character-fx_transformation_werewolf",
+    "id": "character_fx_transformation_werewolf",
     "term": "werewolf transformation",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "transformation",
     "labels": [
       "werewolf"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -18,18 +16,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Transforms into a werewolf. Prompt hint: the subject transforms into a werewolf — fur sprouts across the skin, fangs and claws extend, the snout elongates, eyes glow yellow, body re-shapes with visible muscle and bone movement, clothing tears"
+    "notes": "Description: Transforms into a werewolf. Prompt hint: the subject transforms into a werewolf — fur sprouts across the skin, fangs and claws extend, the snout elongates, eyes glow yellow, body re-shapes with visible muscle and bone movement, clothing tears",
+    "term_zh": "狼人变身",
+    "labels_zh": [
+      "角色特效",
+      "变身",
+      "狼人变身",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915491+00:00"
   },
   {
-    "id": "character-fx_transformation_vampire",
+    "id": "character_fx_transformation_vampire",
     "term": "vampire transformation",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "transformation",
     "labels": [
       "vampire"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -39,18 +44,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Transforms into a vampire. Prompt hint: the subject transforms into a vampire — skin pales, fangs extend, eyes shift to crimson, pupils dilate, posture shifts predatory, with a faint mist drifting around the body"
+    "notes": "Description: Transforms into a vampire. Prompt hint: the subject transforms into a vampire — skin pales, fangs extend, eyes shift to crimson, pupils dilate, posture shifts predatory, with a faint mist drifting around the body",
+    "term_zh": "吸血鬼变身",
+    "labels_zh": [
+      "角色特效",
+      "变身",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915499+00:00"
   },
   {
-    "id": "character-fx_transformation_cyborg",
+    "id": "character_fx_transformation_cyborg",
     "term": "the subject's skin peels open along seams to reveal glowing ",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "transformation",
     "labels": [
       "cyborg"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -60,18 +71,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Skin peels back revealing cybernetics. Prompt hint: the subject's skin peels open along seams to reveal glowing cybernetic mechanisms beneath — exposed circuit boards, hydraulic joints, blue LED indicators along the limbs and torso"
+    "notes": "Description: Skin peels back revealing cybernetics. Prompt hint: the subject's skin peels open along seams to reveal glowing cybernetic mechanisms beneath — exposed circuit boards, hydraulic joints, blue LED indicators along the limbs and torso",
+    "term_zh": "主体皮肤沿缝剥开显露发光线路",
+    "labels_zh": [
+      "角色特效",
+      "变身",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.511591+00:00"
   },
   {
-    "id": "character-fx_transformation_ghost_form",
+    "id": "character_fx_transformation_ghost_form",
     "term": "the subject becomes translucent and ethereal",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "transformation",
     "labels": [
       "ghost-form"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -81,18 +98,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Body becomes translucent / ethereal. Prompt hint: the subject becomes translucent and ethereal, body edges feathering into mist, faint inner glow visible through the skin, feet detaching from the ground in slow float"
+    "notes": "Description: Body becomes translucent / ethereal. Prompt hint: the subject becomes translucent and ethereal, body edges feathering into mist, faint inner glow visible through the skin, feet detaching from the ground in slow float",
+    "term_zh": "主体化为半透明虚无",
+    "labels_zh": [
+      "角色特效",
+      "变身",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.404614+00:00"
   },
   {
-    "id": "character-fx_transformation_statue_stone",
+    "id": "character_fx_transformation_statue_stone",
     "term": "stone petrification",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "transformation",
     "labels": [
       "statue-stone"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -102,18 +125,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Body petrifies into stone statue. Prompt hint: the subject's body petrifies into grey weathered stone starting from the extremities and creeping inward, fine cracks forming as the transformation locks the pose into a statue"
+    "notes": "Description: Body petrifies into stone statue. Prompt hint: the subject's body petrifies into grey weathered stone starting from the extremities and creeping inward, fine cracks forming as the transformation locks the pose into a statue",
+    "term_zh": "石化解剖",
+    "labels_zh": [
+      "角色特效",
+      "变身",
+      "石化解剖",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915504+00:00"
   },
   {
-    "id": "character-fx_transformation_liquid_metal",
+    "id": "character_fx_transformation_liquid_metal",
     "term": "liquid metal morph",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "transformation",
     "labels": [
       "liquid-metal"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -123,18 +153,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: T-1000 style liquid metal form. Prompt hint: the subject's body shifts into glossy chrome-silver liquid metal that reflects the environment, surface rippling, features re-forming with mirror-smooth fluid motion (T-1000 style)"
+    "notes": "Description: T-1000 style liquid metal form. Prompt hint: the subject's body shifts into glossy chrome-silver liquid metal that reflects the environment, surface rippling, features re-forming with mirror-smooth fluid motion (T-1000 style)",
+    "term_zh": "液态金属变形",
+    "labels_zh": [
+      "角色特效",
+      "变身",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915508+00:00"
   },
   {
-    "id": "character-fx_transformation_animalization",
+    "id": "character_fx_transformation_animalization",
     "term": "animal transformation",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "transformation",
     "labels": [
       "animalization"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -144,18 +180,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Morphs into an animal. Prompt hint: the subject morphs into a wild animal — body re-shaping, fur or feathers emerging, limbs reconfiguring, the head transforming into the animal's, eyes shifting to the animal's coloration"
+    "notes": "Description: Morphs into an animal. Prompt hint: the subject morphs into a wild animal — body re-shaping, fur or feathers emerging, limbs reconfiguring, the head transforming into the animal's, eyes shifting to the animal's coloration",
+    "term_zh": "动物变身",
+    "labels_zh": [
+      "角色特效",
+      "变身",
+      "动物变身",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915512+00:00"
   },
   {
-    "id": "character-fx_transformation_gorilla_form",
+    "id": "character_fx_transformation_gorilla_form",
     "term": "gorilla transformation",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "transformation",
     "labels": [
       "gorilla-form"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -165,18 +208,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Transforms into a gorilla. Prompt hint: the subject transforms into a massive silverback gorilla — body bulks up dramatically, dark fur sprouts, face re-shapes with a heavy brow, posture shifts to hunched primate stance"
+    "notes": "Description: Transforms into a gorilla. Prompt hint: the subject transforms into a massive silverback gorilla — body bulks up dramatically, dark fur sprouts, face re-shapes with a heavy brow, posture shifts to hunched primate stance",
+    "term_zh": "高猿变身",
+    "labels_zh": [
+      "角色特效",
+      "变身",
+      "高猿变身",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915516+00:00"
   },
   {
-    "id": "character-fx_transformation_mystification",
+    "id": "character_fx_transformation_mystification",
     "term": "magical aura transformation",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "transformation",
     "labels": [
       "mystification"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -186,18 +236,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Magical aura wraps & transforms subject. Prompt hint: the subject is enveloped in swirling magical particles and arcane symbols that orbit the body, the form within visibly shifting until the aura clears revealing the transformed subject"
+    "notes": "Description: Magical aura wraps & transforms subject. Prompt hint: the subject is enveloped in swirling magical particles and arcane symbols that orbit the body, the form within visibly shifting until the aura clears revealing the transformed subject",
+    "term_zh": "魔法光环变身",
+    "labels_zh": [
+      "角色特效",
+      "变身",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915520+00:00"
   },
   {
-    "id": "character-fx_transformation_gas_form",
+    "id": "character_fx_transformation_gas_form",
     "term": "the subject's body dissolves into a swirling cloud of colour",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "transformation",
     "labels": [
       "gas-form"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -207,18 +263,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Body dissipates into gaseous form. Prompt hint: the subject's body dissolves into a swirling cloud of coloured gas that drifts and re-coalesces in the same space, the form re-condensing into a faintly altered version of the subject"
+    "notes": "Description: Body dissipates into gaseous form. Prompt hint: the subject's body dissolves into a swirling cloud of coloured gas that drifts and re-coalesces in the same space, the form re-condensing into a faintly altered version of the subject",
+    "term_zh": "主体化为彩色烟雾漩涡",
+    "labels_zh": [
+      "角色特效",
+      "变身",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.511597+00:00"
   },
   {
-    "id": "character-fx_transformation_diamond_skin",
+    "id": "character_fx_transformation_diamond_skin",
     "term": "skin crystallizing into diamond",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "transformation",
     "labels": [
       "diamond-skin"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -228,18 +290,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Body crystallizes into diamond facets. Prompt hint: the subject's body crystallizes into faceted diamond — skin hardening into reflective gem facets that refract light in rainbow caustics, the silhouette holding the same pose"
+    "notes": "Description: Body crystallizes into diamond facets. Prompt hint: the subject's body crystallizes into faceted diamond — skin hardening into reflective gem facets that refract light in rainbow caustics, the silhouette holding the same pose",
+    "term_zh": "皮肤钻石化",
+    "labels_zh": [
+      "角色特效",
+      "变身",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915524+00:00"
   },
   {
-    "id": "character-fx_transformation_agent_reveal",
+    "id": "character_fx_transformation_agent_reveal",
     "term": "black suit and sunglasses materializing",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "transformation",
     "labels": [
       "agent-reveal"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -249,18 +317,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Suit and shades materialize on subject. Prompt hint: the subject's everyday clothing rapidly morphs into a sharp black suit, tie tightening, dark sunglasses materializing onto the face, posture stiffening into agent stance (Men-in-Black style)"
+    "notes": "Description: Suit and shades materialize on subject. Prompt hint: the subject's everyday clothing rapidly morphs into a sharp black suit, tie tightening, dark sunglasses materializing onto the face, posture stiffening into agent stance (Men-in-Black style)",
+    "term_zh": "黑色西装and太阳镜materializing",
+    "labels_zh": [
+      "角色特效",
+      "变身",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915528+00:00"
   },
   {
-    "id": "character-fx_power_fire_breathe",
+    "id": "character_fx_power_fire_breathe",
     "term": "fire breathing",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "power",
     "labels": [
       "fire-breathe"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -270,18 +344,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Breathes a sustained jet of flame. Prompt hint: the subject opens their mouth and exhales a sustained jet of orange-yellow fire that arcs forward through the frame, with smoke trailing and embers scattering, lighting their face in warm reflected glow"
+    "notes": "Description: Breathes a sustained jet of flame. Prompt hint: the subject opens their mouth and exhales a sustained jet of orange-yellow fire that arcs forward through the frame, with smoke trailing and embers scattering, lighting their face in warm reflected glow",
+    "term_zh": "喷火",
+    "labels_zh": [
+      "角色特效",
+      "力量",
+      "喷火",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915532+00:00"
   },
   {
-    "id": "character-fx_power_ice_breathe",
+    "id": "character_fx_power_ice_breathe",
     "term": "ice breath",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "power",
     "labels": [
       "ice-breathe"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -291,18 +372,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Breathes a stream of freezing air. Prompt hint: the subject exhales a stream of frigid pale-blue air with visible ice crystals forming in the breath, surfaces in front of them rapidly frosting over with creeping ice patterns"
+    "notes": "Description: Breathes a stream of freezing air. Prompt hint: the subject exhales a stream of frigid pale-blue air with visible ice crystals forming in the breath, surfaces in front of them rapidly frosting over with creeping ice patterns",
+    "term_zh": "吐息",
+    "labels_zh": [
+      "角色特效",
+      "力量",
+      "吐息",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915536+00:00"
   },
   {
-    "id": "character-fx_power_air_bending",
+    "id": "character_fx_power_air_bending",
     "term": "the subject's hands trace through the air and a visible swir",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "power",
     "labels": [
       "air-bending"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -312,18 +400,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Manipulates a swirling vortex of air. Prompt hint: the subject's hands trace through the air and a visible swirling vortex of wind follows the gestures, dust and loose objects spiraling along the path of the conjured air currents"
+    "notes": "Description: Manipulates a swirling vortex of air. Prompt hint: the subject's hands trace through the air and a visible swirling vortex of wind follows the gestures, dust and loose objects spiraling along the path of the conjured air currents",
+    "term_zh": "主体手指划出可见魔法符文阵",
+    "labels_zh": [
+      "角色特效",
+      "力量",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.511602+00:00"
   },
   {
-    "id": "character-fx_power_water_bending",
+    "id": "character_fx_power_water_bending",
     "term": "the subject's hand gestures pull a ribbon of water into the ",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "power",
     "labels": [
       "water-bending"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -333,18 +427,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Manipulates flowing water with gestures. Prompt hint: the subject's hand gestures pull a ribbon of water into the air, the water arcing and twisting in fluid sculpted shapes that follow the motion of the fingertips"
+    "notes": "Description: Manipulates flowing water with gestures. Prompt hint: the subject's hand gestures pull a ribbon of water into the air, the water arcing and twisting in fluid sculpted shapes that follow the motion of the fingertips",
+    "term_zh": "主体手势抽水带至空中",
+    "labels_zh": [
+      "角色特效",
+      "力量",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.511606+00:00"
   },
   {
-    "id": "character-fx_power_earth_bending",
+    "id": "character_fx_power_earth_bending",
     "term": "the subject stomps or gestures downward and slabs of stone o",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "power",
     "labels": [
       "earth-bending"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -354,18 +454,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Raises stone slabs from the ground. Prompt hint: the subject stomps or gestures downward and slabs of stone or earth tear upward from the ground around them in geometric shards, dust and debris falling away as the rock rises"
+    "notes": "Description: Raises stone slabs from the ground. Prompt hint: the subject stomps or gestures downward and slabs of stone or earth tear upward from the ground around them in geometric shards, dust and debris falling away as the rock rises",
+    "term_zh": "主体踏石手势成盾环绕",
+    "labels_zh": [
+      "角色特效",
+      "力量",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.511609+00:00"
   },
   {
-    "id": "character-fx_power_lightning_hands",
+    "id": "character_fx_power_lightning_hands",
     "term": "electric arcs from the hands",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "power",
     "labels": [
       "lightning-hands"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -375,18 +481,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Arcs of electricity from hands. Prompt hint: the subject's hands crackle with bright blue-white electric arcs that branch outward in jagged forking patterns, the room flickering with the strobing illumination of the discharge"
+    "notes": "Description: Arcs of electricity from hands. Prompt hint: the subject's hands crackle with bright blue-white electric arcs that branch outward in jagged forking patterns, the room flickering with the strobing illumination of the discharge",
+    "term_zh": "指尖电弧",
+    "labels_zh": [
+      "角色特效",
+      "力量",
+      "指尖电弧",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915540+00:00"
   },
   {
-    "id": "character-fx_power_levitation",
+    "id": "character_fx_power_levitation",
     "term": "the subject rises slowly off the ground in a controlled vert",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "power",
     "labels": [
       "levitation"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -396,18 +509,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Rises off the ground, body horizontal or vertical. Prompt hint: the subject rises slowly off the ground in a controlled vertical lift, hair and loose clothing drifting upward in zero-gravity sway, faint heat-haze air distortion visible below the feet"
+    "notes": "Description: Rises off the ground, body horizontal or vertical. Prompt hint: the subject rises slowly off the ground in a controlled vertical lift, hair and loose clothing drifting upward in zero-gravity sway, faint heat-haze air distortion visible below the feet",
+    "term_zh": "主体缓缓垂直升空悬停",
+    "labels_zh": [
+      "角色特效",
+      "力量",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.511613+00:00"
   },
   {
-    "id": "character-fx_power_telekinesis",
+    "id": "character_fx_power_telekinesis",
     "term": "the subject extends a hand and nearby objects rise into the ",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "power",
     "labels": [
       "telekinesis"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -417,18 +536,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Nearby objects float and orbit. Prompt hint: the subject extends a hand and nearby objects rise into the air around them, slowly rotating and orbiting in unsupported flight, debris and small items drawn into a halo of suspended motion"
+    "notes": "Description: Nearby objects float and orbit. Prompt hint: the subject extends a hand and nearby objects rise into the air around them, slowly rotating and orbiting in unsupported flight, debris and small items drawn into a halo of suspended motion",
+    "term_zh": "主体伸手附近物体念力升起",
+    "labels_zh": [
+      "角色特效",
+      "力量",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.511617+00:00"
   },
   {
-    "id": "character-fx_power_invisibility",
+    "id": "character_fx_power_invisibility",
     "term": "the subject's body fades into transparency with a faint refr",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "power",
     "labels": [
       "invisibility"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -438,18 +563,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Body fades to transparent / refractive. Prompt hint: the subject's body fades into transparency with a faint refractive shimmer at the edges, only a barely-visible heat-haze outline indicating where they stand as they vanish from sight"
+    "notes": "Description: Body fades to transparent / refractive. Prompt hint: the subject's body fades into transparency with a faint refractive shimmer at the edges, only a barely-visible heat-haze outline indicating where they stand as they vanish from sight",
+    "term_zh": "主体身体淡入透仅余折射轮廓",
+    "labels_zh": [
+      "角色特效",
+      "力量",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.511620+00:00"
   },
   {
-    "id": "character-fx_power_hero_flight",
+    "id": "character_fx_power_hero_flight",
     "term": "superhero flight takeoff",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "power",
     "labels": [
       "hero-flight"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -459,18 +590,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Launches into the sky in flight pose. Prompt hint: the subject launches upward into the sky in a heroic superhero flight pose, arms forward, cape or clothing whipping behind, with a sonic-boom shockwave at the launch point"
+    "notes": "Description: Launches into the sky in flight pose. Prompt hint: the subject launches upward into the sky in a heroic superhero flight pose, arms forward, cape or clothing whipping behind, with a sonic-boom shockwave at the launch point",
+    "term_zh": "超级英雄起飞",
+    "labels_zh": [
+      "角色特效",
+      "力量",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.404627+00:00"
   },
   {
-    "id": "character-fx_power_super_speed",
+    "id": "character_fx_power_super_speed",
     "term": "the subject blurs into super-fast motion leaving multiple tr",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "power",
     "labels": [
       "super-speed"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -480,18 +617,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Blurs into super-fast motion. Prompt hint: the subject blurs into super-fast motion leaving multiple trailing afterimages and lightning-streak motion lines, the surrounding scene appearing momentarily frozen against their speed"
+    "notes": "Description: Blurs into super-fast motion. Prompt hint: the subject blurs into super-fast motion leaving multiple trailing afterimages and lightning-streak motion lines, the surrounding scene appearing momentarily frozen against their speed",
+    "term_zh": "主体化为超速残影",
+    "labels_zh": [
+      "角色特效",
+      "力量",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.511624+00:00"
   },
   {
-    "id": "character-fx_power_soul_departure",
+    "id": "character_fx_power_soul_departure",
     "term": "soul leaving the body",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "power",
     "labels": [
       "soul-departure"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -501,18 +644,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Translucent soul rises from body. Prompt hint: a translucent luminous soul rises out of the subject's body, drifting upward as a ghost-like figure while the physical body remains in its pose, a faint silver thread connecting the two"
+    "notes": "Description: Translucent soul rises from body. Prompt hint: a translucent luminous soul rises out of the subject's body, drifting upward as a ghost-like figure while the physical body remains in its pose, a faint silver thread connecting the two",
+    "term_zh": "灵魂出窍",
+    "labels_zh": [
+      "角色特效",
+      "力量",
+      "灵魂出窍",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915545+00:00"
   },
   {
-    "id": "character-fx_body-mod_wings_grow",
+    "id": "character_fx_body_mod_wings_grow",
     "term": "wings unfurling from the back",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "body-mod",
     "labels": [
       "wings-grow"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -522,18 +672,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Wings sprout and unfurl from back. Prompt hint: the subject's back arches and two large wings — feathered angelic or leathery demonic — unfurl outward from the shoulder blades, extending to full span behind them"
+    "notes": "Description: Wings sprout and unfurl from back. Prompt hint: the subject's back arches and two large wings — feathered angelic or leathery demonic — unfurl outward from the shoulder blades, extending to full span behind them",
+    "term_zh": "背后翅膀展开",
+    "labels_zh": [
+      "角色特效",
+      "改造",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915548+00:00"
   },
   {
-    "id": "character-fx_body-mod_horns_grow",
+    "id": "character_fx_body_mod_horns_grow",
     "term": "horns growing from the head",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "body-mod",
     "labels": [
       "horns-grow"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -543,18 +699,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Horns push out from the head. Prompt hint: the subject's forehead furrows as two pointed horns push outward from the skull, growing in a curving arc above the brows with the skin parting cleanly as the bone emerges"
+    "notes": "Description: Horns push out from the head. Prompt hint: the subject's forehead furrows as two pointed horns push outward from the skull, growing in a curving arc above the brows with the skin parting cleanly as the bone emerges",
+    "term_zh": "额生角骨",
+    "labels_zh": [
+      "角色特效",
+      "改造",
+      "额生角骨",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915552+00:00"
   },
   {
-    "id": "character-fx_body-mod_tail_emerge",
+    "id": "character_fx_body_mod_tail_emerge",
     "term": "tail growing from the spine",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "body-mod",
     "labels": [
       "tail-emerge"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -564,18 +727,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Tail extends from base of spine. Prompt hint: a tail — feline, reptilian, or demonic — extends rapidly from the base of the subject's spine, swishing into motion behind them once fully grown"
+    "notes": "Description: Tail extends from base of spine. Prompt hint: a tail — feline, reptilian, or demonic — extends rapidly from the base of the subject's spine, swishing into motion behind them once fully grown",
+    "term_zh": "尾骨生尾",
+    "labels_zh": [
+      "角色特效",
+      "改造",
+      "尾骨生尾",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915556+00:00"
   },
   {
-    "id": "character-fx_body-mod_tentacles_emerge",
+    "id": "character_fx_body_mod_tentacles_emerge",
     "term": "tentacles writhing from the back",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "body-mod",
     "labels": [
       "tentacles-emerge"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -585,18 +755,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Tentacles writhe out from back / body. Prompt hint: long writhing tentacles emerge from the subject's back or torso, slick and dark, snaking outward in undulating motion, the skin parting around the base of each appendage"
+    "notes": "Description: Tentacles writhe out from back / body. Prompt hint: long writhing tentacles emerge from the subject's back or torso, slick and dark, snaking outward in undulating motion, the skin parting around the base of each appendage",
+    "term_zh": "背后触手起躯",
+    "labels_zh": [
+      "角色特效",
+      "改造",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915560+00:00"
   },
   {
-    "id": "character-fx_body-mod_extra_eyes",
+    "id": "character_fx_body_mod_extra_eyes",
     "term": "extra eyes opening on the face",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "body-mod",
     "labels": [
       "extra-eyes"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -606,18 +782,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Additional eyes open across face / body. Prompt hint: additional eyes open across the subject's face, forehead, and body — blinking in sequence and tracking independently, with the skin smoothly accommodating each new aperture"
+    "notes": "Description: Additional eyes open across face / body. Prompt hint: additional eyes open across the subject's face, forehead, and body — blinking in sequence and tracking independently, with the skin smoothly accommodating each new aperture",
+    "term_zh": "多余眼睛睁开",
+    "labels_zh": [
+      "角色特效",
+      "改造",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915564+00:00"
   },
   {
-    "id": "character-fx_body-mod_head_explode",
+    "id": "character_fx_body_mod_head_explode",
     "term": "stylized head explosion",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "body-mod",
     "labels": [
       "head-explode"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -627,18 +809,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Head bursts apart violently (PG-13). Prompt hint: the subject's head bursts apart in a violent explosion of light and abstract particles, the body remaining standing momentarily before the camera cuts away — stylized, non-graphic"
+    "notes": "Description: Head bursts apart violently (PG-13). Prompt hint: the subject's head bursts apart in a violent explosion of light and abstract particles, the body remaining standing momentarily before the camera cuts away — stylized, non-graphic",
+    "term_zh": "风格化头部爆炸",
+    "labels_zh": [
+      "角色特效",
+      "改造",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915567+00:00"
   },
   {
-    "id": "character-fx_body-mod_head_off",
+    "id": "character_fx_body_mod_head_off",
     "term": "stylized head detachment",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "body-mod",
     "labels": [
       "head-off"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -648,18 +836,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Head detaches and floats free (PG-13, stylized). Prompt hint: the subject's head smoothly detaches from the neck and floats free above the body in stylized magical detachment, the body remaining poised and the head rotating to face the camera"
+    "notes": "Description: Head detaches and floats free (PG-13, stylized). Prompt hint: the subject's head smoothly detaches from the neck and floats free above the body in stylized magical detachment, the body remaining poised and the head rotating to face the camera",
+    "term_zh": "风格化头部分离",
+    "labels_zh": [
+      "角色特效",
+      "改造",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915571+00:00"
   },
   {
-    "id": "character-fx_body-mod_spiders_from_mouth",
+    "id": "character_fx_body_mod_spiders_from_mouth",
     "term": "spiders crawling from the mouth",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "body-mod",
     "labels": [
       "spiders-from-mouth"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -669,18 +863,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Spiders crawl out from open mouth (horror). Prompt hint: the subject's mouth opens wide and a stream of dark spiders crawls outward across the lips and cheeks, scattering down the face and body in a horror-genre reveal"
+    "notes": "Description: Spiders crawl out from open mouth (horror). Prompt hint: the subject's mouth opens wide and a stream of dark spiders crawls outward across the lips and cheeks, scattering down the face and body in a horror-genre reveal",
+    "term_zh": "蜘蛛口中出",
+    "labels_zh": [
+      "角色特效",
+      "改造",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915575+00:00"
   },
   {
-    "id": "character-fx_body-mod_skin_surge",
+    "id": "character_fx_body_mod_skin_surge",
     "term": "skin rippling with movement underneath",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "body-mod",
     "labels": [
       "skin-surge"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -690,18 +890,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Skin ripples with under-the-surface motion. Prompt hint: the subject's skin ripples with visible wave-like surges of motion underneath the surface, as if something is shifting through the body, the skin stretching and re-settling in pulsing rhythm"
+    "notes": "Description: Skin ripples with under-the-surface motion. Prompt hint: the subject's skin ripples with visible wave-like surges of motion underneath the surface, as if something is shifting through the body, the skin stretching and re-settling in pulsing rhythm",
+    "term_zh": "皮肤下蠕动",
+    "labels_zh": [
+      "角色特效",
+      "改造",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915578+00:00"
   },
   {
-    "id": "character-fx_face-expression_horror_face",
+    "id": "character_fx_face_expression_horror_face",
     "term": "contorted horror expression",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "face-expression",
     "labels": [
       "horror-face"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -711,18 +917,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Face contorts into horror expression. Prompt hint: the subject's face contorts into a horror expression — eyes widen and bulge, mouth stretches unnaturally wide, skin pales with visible veins emerging, jaw distending in unnatural proportions"
+    "notes": "Description: Face contorts into horror expression. Prompt hint: the subject's face contorts into a horror expression — eyes widen and bulge, mouth stretches unnaturally wide, skin pales with visible veins emerging, jaw distending in unnatural proportions",
+    "term_zh": "恐怖扭曲表情",
+    "labels_zh": [
+      "角色特效",
+      "面部表情",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915582+00:00"
   },
   {
-    "id": "character-fx_face-expression_oni_mask",
+    "id": "character_fx_face_expression_oni_mask",
     "term": "a red and gold oni demon mask materializes and slides into p",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "face-expression",
     "labels": [
       "oni-mask"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -732,18 +944,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Demon mask materializes over face. Prompt hint: a red and gold oni demon mask materializes and slides into place over the subject's face, painted features sharp and menacing, with curling smoke and faint magical glyphs around the edges"
+    "notes": "Description: Demon mask materializes over face. Prompt hint: a red and gold oni demon mask materializes and slides into place over the subject's face, painted features sharp and menacing, with curling smoke and faint magical glyphs around the edges",
+    "term_zh": "红金鬼面具在主体脸上浮现",
+    "labels_zh": [
+      "角色特效",
+      "面部表情",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.511628+00:00"
   },
   {
-    "id": "character-fx_face-expression_glowing_eyes",
+    "id": "character_fx_face_expression_glowing_eyes",
     "term": "the subject's eyes ignite with a brilliant internal glow — w",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "face-expression",
     "labels": [
       "glowing-eyes"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -753,18 +971,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Eyes ignite with internal light. Prompt hint: the subject's eyes ignite with a brilliant internal glow — white, gold, or coloured — casting visible light beams outward and illuminating the bridge of the nose and upper cheeks"
+    "notes": "Description: Eyes ignite with internal light. Prompt hint: the subject's eyes ignite with a brilliant internal glow — white, gold, or coloured — casting visible light beams outward and illuminating the bridge of the nose and upper cheeks",
+    "term_zh": "主体双眼鬼力发光而脸庞如常",
+    "labels_zh": [
+      "角色特效",
+      "面部表情",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.511632+00:00"
   },
   {
-    "id": "character-fx_face-expression_floral_eyes",
+    "id": "character_fx_face_expression_floral_eyes",
     "term": "flowers blooming from the eyes",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "face-expression",
     "labels": [
       "floral-eyes"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -774,18 +998,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Flowers bloom from eye sockets. Prompt hint: delicate flowers bloom outward from the subject's eye sockets, petals unfurling in slow motion to replace the eyes, vines drifting down the cheeks in surreal botanical reveal"
+    "notes": "Description: Flowers bloom from eye sockets. Prompt hint: delicate flowers bloom outward from the subject's eye sockets, petals unfurling in slow motion to replace the eyes, vines drifting down the cheeks in surreal botanical reveal",
+    "term_zh": "眼中花绽放",
+    "labels_zh": [
+      "角色特效",
+      "面部表情",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915586+00:00"
   },
   {
-    "id": "character-fx_face-expression_bloom_mouth",
+    "id": "character_fx_face_expression_bloom_mouth",
     "term": "flowers blooming from the mouth",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "face-expression",
     "labels": [
       "bloom-mouth"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -795,18 +1025,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Flowers bloom from open mouth. Prompt hint: the subject opens their mouth and a cascade of flowers and vines blooms outward from within, unfurling in slow motion across the lower face in a surreal botanical reveal"
+    "notes": "Description: Flowers bloom from open mouth. Prompt hint: the subject opens their mouth and a cascade of flowers and vines blooms outward from within, unfurling in slow motion across the lower face in a surreal botanical reveal",
+    "term_zh": "口中华绽放",
+    "labels_zh": [
+      "角色特效",
+      "面部表情",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915590+00:00"
   },
   {
-    "id": "character-fx_face-expression_x_ray",
+    "id": "character_fx_face_expression_x_ray",
     "term": "the subject's body becomes semi-transparent in X-ray style",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "face-expression",
     "labels": [
       "x-ray"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -816,18 +1052,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Body becomes X-ray visible skeleton. Prompt hint: the subject's body becomes semi-transparent in X-ray style, revealing the skeletal structure beneath with a faint cyan or green glow outlining bones and major internal organs"
+    "notes": "Description: Body becomes X-ray visible skeleton. Prompt hint: the subject's body becomes semi-transparent in X-ray style, revealing the skeletal structure beneath with a faint cyan or green glow outlining bones and major internal organs",
+    "term_zh": "主体身体以 X 光风格半透明",
+    "labels_zh": [
+      "角色特效",
+      "面部表情",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.404635+00:00"
   },
   {
-    "id": "character-fx_face-expression_agent_snap",
+    "id": "character_fx_face_expression_agent_snap",
     "term": "sunglasses snapping onto the face",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "face-expression",
     "labels": [
       "agent-snap"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -837,18 +1079,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Sunglasses materialize over eyes. Prompt hint: dark sunglasses snap into place over the subject's eyes with a sharp visual punctuation — sometimes accompanied by lens flare bloom and a tight zoom on the bridge of the nose"
+    "notes": "Description: Sunglasses materialize over eyes. Prompt hint: dark sunglasses snap into place over the subject's eyes with a sharp visual punctuation — sometimes accompanied by lens flare bloom and a tight zoom on the bridge of the nose",
+    "term_zh": "太阳镜贴面",
+    "labels_zh": [
+      "角色特效",
+      "面部表情",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915593+00:00"
   },
   {
-    "id": "character-fx_face-expression_visor_x",
+    "id": "character_fx_face_expression_visor_x",
     "term": "a futuristic cybernetic visor materializes across the subjec",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "face-expression",
     "labels": [
       "visor-x"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -858,18 +1106,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Sci-fi cyber visor materializes. Prompt hint: a futuristic cybernetic visor materializes across the subject's eyes — sleek, semi-transparent with internal HUD readouts visible, faint scanline shimmer across the surface"
+    "notes": "Description: Sci-fi cyber visor materializes. Prompt hint: a futuristic cybernetic visor materializes across the subject's eyes — sleek, semi-transparent with internal HUD readouts visible, faint scanline shimmer across the surface",
+    "term_zh": "未来赛博视镜浮现于主体眼上",
+    "labels_zh": [
+      "角色特效",
+      "面部表情",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.511635+00:00"
   },
   {
-    "id": "character-fx_aura-ambient_paparazzi",
+    "id": "character_fx_aura_ambient_paparazzi",
     "term": "the subject stands or moves while multiple camera flash burs",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "aura-ambient",
     "labels": [
       "paparazzi"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -879,18 +1133,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Camera flashes pop around the subject. Prompt hint: the subject stands or moves while multiple camera flash bursts pop intermittently around them from off-screen photographers, each flash briefly overexposing the subject's face in white bloom"
+    "notes": "Description: Camera flashes pop around the subject. Prompt hint: the subject stands or moves while multiple camera flash bursts pop intermittently around them from off-screen photographers, each flash briefly overexposing the subject's face in white bloom",
+    "term_zh": "主体站立时多闪光同步闪烁",
+    "labels_zh": [
+      "角色特效",
+      "光环",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.511639+00:00"
   },
   {
-    "id": "character-fx_aura-ambient_money_rain",
+    "id": "character_fx_aura_ambient_money_rain",
     "term": "the subject stands or moves through a slow-motion cascade of",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "aura-ambient",
     "labels": [
       "money-rain"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -900,18 +1160,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Currency rains around subject. Prompt hint: the subject stands or moves through a slow-motion cascade of currency notes raining down from above, bills fluttering and stacking around them, the money filling the air around the body"
+    "notes": "Description: Currency rains around subject. Prompt hint: the subject stands or moves through a slow-motion cascade of currency notes raining down from above, bills fluttering and stacking around them, the money filling the air around the body",
+    "term_zh": "主体慢动作花瓣瀑中穿行",
+    "labels_zh": [
+      "角色特效",
+      "光环",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.511643+00:00"
   },
   {
-    "id": "character-fx_aura-ambient_color_rain",
+    "id": "character_fx_aura_ambient_color_rain",
     "term": "brightly coloured rain",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "aura-ambient",
     "labels": [
       "color-rain"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -921,18 +1187,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Brightly coloured rain around subject. Prompt hint: vivid brightly coloured raindrops or pigment streams fall around the subject from above, splashing on the ground and forming pools of saturated colour, the subject untouched by the cascade"
+    "notes": "Description: Brightly coloured rain around subject. Prompt hint: vivid brightly coloured raindrops or pigment streams fall around the subject from above, splashing on the ground and forming pools of saturated colour, the subject untouched by the cascade",
+    "term_zh": "彩雨",
+    "labels_zh": [
+      "角色特效",
+      "光环",
+      "彩雨",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915598+00:00"
   },
   {
-    "id": "character-fx_aura-ambient_saint_glow",
+    "id": "character_fx_aura_ambient_saint_glow",
     "term": "golden halo and divine glow",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "aura-ambient",
     "labels": [
       "saint-glow"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -942,18 +1215,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Halo and divine glow around subject. Prompt hint: a soft golden halo glows behind the subject's head and warm celestial light radiates outward from the body, with faint dust motes drifting in the beams in a saintly halation"
+    "notes": "Description: Halo and divine glow around subject. Prompt hint: a soft golden halo glows behind the subject's head and warm celestial light radiates outward from the body, with faint dust motes drifting in the beams in a saintly halation",
+    "term_zh": "金圈神光",
+    "labels_zh": [
+      "角色特效",
+      "光环",
+      "金圈神光",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915601+00:00"
   },
   {
-    "id": "character-fx_aura-ambient_fire_aura",
+    "id": "character_fx_aura_ambient_fire_aura",
     "term": "flames lick and curl around the subject's body without burni",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "aura-ambient",
     "labels": [
       "fire-aura"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -963,18 +1243,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Flames lick around subject's body. Prompt hint: flames lick and curl around the subject's body without burning them, the fire wrapping the silhouette in a halo of orange and yellow tongues with heat-haze distortion in the air around"
+    "notes": "Description: Flames lick around subject's body. Prompt hint: flames lick and curl around the subject's body without burning them, the fire wrapping the silhouette in a halo of orange and yellow tongues with heat-haze distortion in the air around",
+    "term_zh": "未伤主体的火焰环绕",
+    "labels_zh": [
+      "角色特效",
+      "光环",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.511647+00:00"
   },
   {
-    "id": "character-fx_aura-ambient_frost_aura",
+    "id": "character_fx_aura_ambient_frost_aura",
     "term": "frost and ice radiate outward from the subject — surfaces ar",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "aura-ambient",
     "labels": [
       "frost-aura"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -984,18 +1270,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Frost and ice radiate from subject. Prompt hint: frost and ice radiate outward from the subject — surfaces around them rapidly icing over with crystalline patterns, breath visible in the cold air, faint blue-white snowflakes drifting"
+    "notes": "Description: Frost and ice radiate from subject. Prompt hint: frost and ice radiate outward from the subject — surfaces around them rapidly icing over with crystalline patterns, breath visible in the cold air, faint blue-white snowflakes drifting",
+    "term_zh": "主体向外霜冰涟漪",
+    "labels_zh": [
+      "角色特效",
+      "光环",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915605+00:00"
   },
   {
-    "id": "character-fx_aura-ambient_shadow_aura",
+    "id": "character_fx_aura_ambient_shadow_aura",
     "term": "dark shadow tendrils swirl and writhe around the subject's b",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "aura-ambient",
     "labels": [
       "shadow-aura"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1005,18 +1297,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Dark shadow tendrils swirl around subject. Prompt hint: dark shadow tendrils swirl and writhe around the subject's body, the surrounding light dimming as the inky aura coils outward from the silhouette in slow undulating motion"
+    "notes": "Description: Dark shadow tendrils swirl around subject. Prompt hint: dark shadow tendrils swirl and writhe around the subject's body, the surrounding light dimming as the inky aura coils outward from the silhouette in slow undulating motion",
+    "term_zh": "黑暗影鞭环绕主体",
+    "labels_zh": [
+      "角色特效",
+      "光环",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.511650+00:00"
   },
   {
-    "id": "character-fx_aura-ambient_electricity_aura",
+    "id": "character_fx_aura_ambient_electricity_aura",
     "term": "crackling electric aura",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "aura-ambient",
     "labels": [
       "electricity-aura"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1026,18 +1324,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Tesla-coil electric arcs around subject. Prompt hint: bright blue-white electric arcs crackle around the subject's body in branching tesla-coil patterns, jumping between extremities and the surrounding air with rhythmic strobing flashes"
+    "notes": "Description: Tesla-coil electric arcs around subject. Prompt hint: bright blue-white electric arcs crackle around the subject's body in branching tesla-coil patterns, jumping between extremities and the surrounding air with rhythmic strobing flashes",
+    "term_zh": "磁电光环",
+    "labels_zh": [
+      "角色特效",
+      "光环",
+      "磁电光环",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915609+00:00"
   },
   {
-    "id": "character-fx_aura-ambient_sparkles_around",
+    "id": "character_fx_aura_ambient_sparkles_around",
     "term": "delicate magical sparkles and small star-shaped particles or",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "aura-ambient",
     "labels": [
       "sparkles-around"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1047,18 +1352,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Magical sparkles orbit the subject. Prompt hint: delicate magical sparkles and small star-shaped particles orbit and trail around the subject's body in slow-motion arcs, leaving faint light streaks in their path"
+    "notes": "Description: Magical sparkles orbit the subject. Prompt hint: delicate magical sparkles and small star-shaped particles orbit and trail around the subject's body in slow-motion arcs, leaving faint light streaks in their path",
+    "term_zh": "精致魔法星光",
+    "labels_zh": [
+      "角色特效",
+      "光环",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915613+00:00"
   },
   {
-    "id": "character-fx_aura-ambient_fairies_around",
+    "id": "character_fx_aura_ambient_fairies_around",
     "term": "tiny glowing fairies",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "aura-ambient",
     "labels": [
       "fairies-around"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1068,18 +1379,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Tiny glowing fairies flutter around subject. Prompt hint: tiny glowing fairies with translucent wings flutter around the subject in playful loops, each fairy leaving a faint trail of pixie-dust shimmer in their wake"
+    "notes": "Description: Tiny glowing fairies flutter around subject. Prompt hint: tiny glowing fairies with translucent wings flutter around the subject in playful loops, each fairy leaving a faint trail of pixie-dust shimmer in their wake",
+    "term_zh": "微型发光精灵",
+    "labels_zh": [
+      "角色特效",
+      "光环",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.404640+00:00"
   },
   {
-    "id": "character-fx_aura-ambient_objects_orbit",
+    "id": "character_fx_aura_ambient_objects_orbit",
     "term": "objects orbiting in mid-air",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "aura-ambient",
     "labels": [
       "objects-orbit"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1089,18 +1406,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Small objects float and orbit the subject. Prompt hint: small objects relevant to the subject — books, tools, fruits, gemstones — rise from the ground and orbit slowly around them in concentric rings of unsupported flight"
+    "notes": "Description: Small objects float and orbit the subject. Prompt hint: small objects relevant to the subject — books, tools, fruits, gemstones — rise from the ground and orbit slowly around them in concentric rings of unsupported flight",
+    "term_zh": "物件空中环绕",
+    "labels_zh": [
+      "角色特效",
+      "光环",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915616+00:00"
   },
   {
-    "id": "character-fx_aura-ambient_petals_around",
+    "id": "character_fx_aura_ambient_petals_around",
     "term": "cherry blossom petals drifting",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "aura-ambient",
     "labels": [
       "petals-around"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1110,18 +1433,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Cherry blossom petals drift around subject. Prompt hint: soft cherry blossom petals drift gently around the subject from above, the petals catching in their hair and clothing in slow-motion pink-rose flurry"
+    "notes": "Description: Cherry blossom petals drift around subject. Prompt hint: soft cherry blossom petals drift gently around the subject from above, the petals catching in their hair and clothing in slow-motion pink-rose flurry",
+    "term_zh": "樱花漂落",
+    "labels_zh": [
+      "角色特效",
+      "光环",
+      "樱花漂落",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915620+00:00"
   },
   {
-    "id": "character-fx_aura-ambient_glow_trace",
+    "id": "character_fx_aura_ambient_glow_trace",
     "term": "glowing motion trails",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "aura-ambient",
     "labels": [
       "glow-trace"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1131,18 +1461,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Light trails follow subject's motion. Prompt hint: bright luminous trails follow every motion of the subject's body — limbs leaving glowing afterimage streaks that fade slowly behind, creating ribbons of light tracing the choreography"
+    "notes": "Description: Light trails follow subject's motion. Prompt hint: bright luminous trails follow every motion of the subject's body — limbs leaving glowing afterimage streaks that fade slowly behind, creating ribbons of light tracing the choreography",
+    "term_zh": "发光动态拖尾",
+    "labels_zh": [
+      "角色特效",
+      "光环",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.915624+00:00"
   },
   {
-    "id": "character-fx_aura-ambient_tattoo_animation",
+    "id": "character_fx_aura_ambient_tattoo_animation",
     "term": "glowing animated tattoos",
-    "term_zh": "",
     "category": "character-fx",
     "subcategory": "aura-ambient",
     "labels": [
       "tattoo-animation"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1152,6 +1488,14 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Tattoos glow and animate on skin. Prompt hint: tattoos on the subject's skin begin to glow with internal light and the linework animates in slow motion — scenes within the tattoos visibly moving, ink shifting position across the body"
+    "notes": "Description: Tattoos glow and animate on skin. Prompt hint: tattoos on the subject's skin begin to glow with internal light and the linework animates in slow motion — scenes within the tattoos visibly moving, ink shifting position across the body",
+    "term_zh": "发光animated纹身",
+    "labels_zh": [
+      "角色特效",
+      "光环",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:25:57.974065+00:00"
   }
 ]

@@ -1,0 +1,167 @@
+name: Validate PWS Data
+
+on:
+  push:
+    paths:
+      - 'keywords/categories/*.json'
+      - 'templates/*.json'
+      - 'schema/*.json'
+      - 'tools/*.py'
+  pull_request:
+    paths:
+      - 'keywords/categories/*.json'
+      - 'templates/*.json'
+      - 'schema/*.json'
+      - 'tools/*.py'
+
+jobs:
+  validate-json:
+    name: Validate JSON & Schema
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Validate all category files against schema
+        run: |
+          python3 - <<'EOF'
+          import json, glob, sys
+          from jsonschema import validate, ValidationError
+
+          schema = json.load(open("schema/keyword.schema.json"))
+          errors = []
+          valid = 0
+          for fp in sorted(glob.glob("keywords/categories/*.json")):
+              data = json.load(open(fp))
+              if not isinstance(data, list):
+                  data = [data]
+              for item in data:
+                  try:
+                      validate(instance=item, schema=schema)
+                      valid += 1
+                  except ValidationError as e:
+                      errors.append(f"{fp}: id={item.get('id','?')} - {e.message}")
+          print(f"✅ Validated {valid} keywords, {len(errors)} errors")
+          if errors:
+              for e in errors[:20]:
+                  print(f"  ❌ {e}")
+              sys.exit(1)
+          EOF
+
+      - name: Check ID uniqueness
+        run: |
+          python3 - <<'EOF'
+          import json, glob, re, sys
+          pattern = re.compile(r'^[a-z][a-z0-9_]*$')
+          ids = {}
+          dupes = 0
+          invalid = 0
+          for fp in sorted(glob.glob("keywords/categories/*.json")):
+              for item in json.load(open(fp)):
+                  iid = item.get("id", "")
+                  if not pattern.match(iid):
+                      invalid += 1
+                      print(f"  ❌ Invalid ID: {iid} in {fp}")
+                  if iid in ids:
+                      dupes += 1
+                      print(f"  ❌ Duplicate ID: {iid}")
+                  else:
+                      ids[iid] = fp
+          print(f"IDs: {len(ids)} unique, {dupes} duplicates, {invalid} invalid")
+          sys.exit(1 if (dupes or invalid) else 0)
+          EOF
+
+      - name: Check category enum consistency
+        run: |
+          python3 - <<'EOF'
+          import json, glob, sys
+          schema = json.load(open("schema/keyword.schema.json"))
+          valid_cats = set(schema["properties"]["category"]["enum"])
+          violations = []
+          for fp in sorted(glob.glob("keywords/categories/*.json")):
+              file_cat = fp.split("/")[-1].replace(".json", "")
+              if file_cat not in valid_cats:
+                  violations.append(f"{fp}: category '{file_cat}' not in schema enum")
+              for item in json.load(open(fp)):
+                  if item.get("category") not in valid_cats:
+                      violations.append(f"{fp}: id={item.get('id','?')} has invalid category '{item.get('category')}'")
+          if violations:
+              for v in violations[:20]:
+                  print(f"  ❌ {v}")
+              sys.exit(1)
+          print(f"✅ All categories valid")
+          EOF
+
+      - name: Check metadata consistency
+        run: |
+          python3 - <<'EOF'
+          import json, glob, sys
+          meta = json.load(open("keywords/_meta.json"))
+          actual = sum(len(json.load(open(f))) for f in glob.glob("keywords/categories/*.json"))
+          if meta["total_keywords"] != actual:
+              print(f"❌ total_keywords mismatch: meta={meta['total_keywords']}, actual={actual}")
+              sys.exit(1)
+          if meta["total_categories"] != len(glob.glob("keywords/categories/*.json")):
+              print(f"❌ total_categories mismatch")
+              sys.exit(1)
+          print(f"✅ Metadata consistent: {actual} keywords, {meta['total_categories']} categories")
+          EOF
+
+  dedup-check:
+    name: Deduplication Check
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run dedup check
+        run: |
+          python3 tools/pws-dedup.py --scan-all --format-report --quiet || true
+
+  template-validate:
+    name: Validate Templates
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Validate template JSON syntax
+        run: |
+          python3 - <<'EOF'
+          import json, glob, sys, re
+          template_schema = json.load(open("schema/template.schema.json"))
+          errors = 0
+          valid = 0
+          for fp in sorted(glob.glob("templates/*.json")):
+              if "_meta" in fp or "_legacy" in fp:
+                  continue
+              try:
+                  data = json.load(open(fp))
+                  if isinstance(data, list):
+                      for item in data:
+                          if "variants" in item or "id" in item:
+                              valid += 1
+                              if "id" not in item or "variants" not in item:
+                                  print(f"  ❌ Missing required field in {fp}: {item.get('id','?')}")
+                                  errors += 1
+              except Exception as e:
+                  print(f"  ❌ Error reading {fp}: {e}")
+                  errors += 1
+          print(f"✅ Validated {valid} templates, {errors} errors")
+          sys.exit(1 if errors else 0)
+          EOF

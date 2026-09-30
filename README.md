@@ -3,6 +3,7 @@
 **一个统一的、与语言无关的标准，用于跨项目组织、版本控制和共享 AI 生成提示词。**
 
 > **pws v1.0** | **简体中文** | [English](README_en.md)
+> **当前数据版本**: v1.8.0 (5,943 关键词 · 20 分类 · **100% term_zh 覆盖**)
 >
 > **仓库地址**: https://github.com/zz3656/prompt-warehouse
 > **许可证**: MIT
@@ -153,7 +154,7 @@ cat projects/h3-comic-builder.json
 | `term_zh` | string | ✅ | 中文翻译，如 `杰作` — 其他项目按此字段做中文检索 |
 | `aliases` | string[] | | 英文替代术语，如 `["best work", "top tier"]` |
 | `aliases_zh` | string[] | | 中文替代说法，如 `["最佳作品", "顶级"]` |
-| `category` | string | ✅ | 顶级分类，共 33 类（见下方分类体系） |
+| `category` | string | ✅ | 顶级分类，共 20 类（见下方分类体系） |
 | `subcategory` | string | ✅ | 子分类，如 `basic`, `hair`, `anime` |
 | `labels` | string[] | | 英文扁平搜索标签，如 `["quality", "booster"]` |
 | `labels_zh` | string[] | | 中文扁平搜索标签，如 `["质量", "增强"]` — 中文过滤专用 |
@@ -215,7 +216,7 @@ cat projects/h3-comic-builder.json
 }
 ```
 
-**快速浏览所有分类**：`ls keywords/categories/` 列出 33 个分类文件。
+**快速浏览所有分类**：`ls keywords/categories/` 列出 20 个分类文件。
 **完整数据模型**：[STANDARD.md](STANDARD.md)
 **JSON Schema**：[schema/keyword.schema.json](schema/keyword.schema.json) · [schema/template.schema.json](schema/template.schema.json)
 
@@ -394,7 +395,7 @@ girl 16 years old white long twin tails hair blue almond eyes fair skin, red rib
 
 每个 `_meta.json` 都跟踪版本、结构版本和变更日志。
 
-当前版本：**v1.0.7** — 33 个分类共 5,959 个关键词。
+当前版本：**v1.8.0** — 20 个分类共 5,943 个关键词（**全部** 5,943 个有中文翻译，**100%** 覆盖）。
 
 ---
 
@@ -432,7 +433,7 @@ PWS 设计用于与 REST API 配合使用。h3-comic-builder 服务器已提供�
 | 阶段 | 状态 | 详情 |
 |------|------|------|
 | **阶段一：结构定义** | ✅ 完成 | 定义了 3 个 JSON 结构并验证 |
-| **阶段二：数据迁移** | ✅ 完成 | 从 h3-comic-builder + MJ 参考迁移了 5,959 个关键词 |
+| **阶段二：数据迁移** | ✅ 完成 | 从 h3-comic-builder + MJ 参考迁移了 5,943 个关键词 |
 | **阶段三：工具开发** | 🔄 进行中 | 浏览器界面的关键词管理 |
 | **阶段四：共享发布** | 📋 计划中 | 远程同步、团队协作、模板市场 |
 
@@ -470,7 +471,7 @@ MIT 许可证 — 详见 [STANDARD.md](STANDARD.md)。
 - **项目结构**: [schema/project.schema.json](schema/project.schema.json)
 - **元数据**: [keywords/_meta.json](keywords/_meta.json)
 - **数据来源**: 见下文
-- **当前统计**: 5,959 个关键词 · 33 个分类 · 27 个模板
+- **当前统计**: 5,943 个关键词 · 20 个分类 · 27 个模板
 
 ## 📥 数据来源（永久记录）
 
@@ -492,6 +493,6 @@ MIT 许可证 — 详见 [STANDARD.md](STANDARD.md)。
 
 ---
 
-*提示词仓库标准 v1.0 · 为漫画/手绘提示词生成而设计，适用于任何 AI 创意工具。*
+*提示词仓库标准 v1.0 · 数据版本 v1.8.0 · 为漫画/手绘提示词生成而设计，适用于任何 AI 创意工具。*
 
 *← [English](README_en.md)*

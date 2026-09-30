@@ -1,14 +1,12 @@
 [
   {
-    "id": "held-prop_device_smartphone",
+    "id": "held_prop_device_smartphone",
     "term": "holding a smartphone",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "device",
     "labels": [
       "smartphone"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -18,18 +16,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Modern phone in hand. Prompt hint: holding a modern smartphone in one hand, screen lightly catching the ambient light, fingers wrapped naturally around the device"
+    "notes": "Description: Modern phone in hand. Prompt hint: holding a modern smartphone in one hand, screen lightly catching the ambient light, fingers wrapped naturally around the device",
+    "term_zh": "手持智能手机",
+    "labels_zh": [
+      "手持道具",
+      "设备",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951824+00:00"
   },
   {
-    "id": "held-prop_device_smartphone_raised",
+    "id": "held_prop_device_smartphone_raised",
     "term": "holding a smartphone raised at arm's length",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "device",
     "labels": [
       "smartphone-raised"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -39,18 +43,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Phone raised mid-photo. Prompt hint: holding a smartphone raised at arm's length toward the camera as if mid-photo, both the phone and the gesture clearly visible"
+    "notes": "Description: Phone raised mid-photo. Prompt hint: holding a smartphone raised at arm's length toward the camera as if mid-photo, both the phone and the gesture clearly visible",
+    "term_zh": "手持手机举至一臂之远",
+    "labels_zh": [
+      "手持道具",
+      "设备",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951832+00:00"
   },
   {
-    "id": "held-prop_device_polaroid_camera",
+    "id": "held_prop_device_polaroid_camera",
     "term": "cradling a vintage polaroid instant camera",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "device",
     "labels": [
       "polaroid-camera"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -60,18 +70,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Vintage instant camera. Prompt hint: cradling a vintage Polaroid instant camera in both hands at chest height, the boxy white body and rainbow stripe clearly visible"
+    "notes": "Description: Vintage instant camera. Prompt hint: cradling a vintage Polaroid instant camera in both hands at chest height, the boxy white body and rainbow stripe clearly visible",
+    "term_zh": "怀抱复古宝丽来拍立得相机",
+    "labels_zh": [
+      "手持道具",
+      "设备",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951837+00:00"
   },
   {
-    "id": "held-prop_device_vintage_camera",
+    "id": "held_prop_device_vintage_camera",
     "term": "holding a vintage 35mm film camera",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "device",
     "labels": [
       "vintage-camera"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -81,18 +97,27 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Old film camera with strap. Prompt hint: holding a vintage 35mm film camera lifted toward the face with a leather strap looped around the neck, fingers poised over the shutter"
+    "notes": "Description: Old film camera with strap. Prompt hint: holding a vintage 35mm film camera lifted toward the face with a leather strap looped around the neck, fingers poised over the shutter",
+    "term_zh": "手持复古 35mm 胶卷相机",
+    "labels_zh": [
+      "手持道具",
+      "设备",
+      "手持复古",
+      "35mm",
+      "胶卷相机",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951843+00:00"
   },
   {
-    "id": "held-prop_device_dslr_camera",
+    "id": "held_prop_device_dslr_camera",
     "term": "holding a dslr camera to the eye",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "device",
     "labels": [
       "dslr-camera"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -102,18 +127,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Modern DSLR / mirrorless camera. Prompt hint: holding a modern DSLR camera up to the eye with both hands wrapped around the body and lens, mid-composition"
+    "notes": "Description: Modern DSLR / mirrorless camera. Prompt hint: holding a modern DSLR camera up to the eye with both hands wrapped around the body and lens, mid-composition",
+    "term_zh": "手持单反对着眼镜看",
+    "labels_zh": [
+      "手持道具",
+      "设备",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951847+00:00"
   },
   {
-    "id": "held-prop_device_video_camera",
+    "id": "held_prop_device_video_camera",
     "term": "shouldering a video camera",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "device",
     "labels": [
       "video-camera"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -123,18 +154,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Shoulder-mounted video camera. Prompt hint: shouldering a professional video camera with one hand on the side grip and the other steadying the body, eye to the viewfinder"
+    "notes": "Description: Shoulder-mounted video camera. Prompt hint: shouldering a professional video camera with one hand on the side grip and the other steadying the body, eye to the viewfinder",
+    "term_zh": "肩扛摄像机",
+    "labels_zh": [
+      "手持道具",
+      "设备",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951851+00:00"
   },
   {
-    "id": "held-prop_device_microphone",
+    "id": "held_prop_device_microphone",
     "term": "gripping a handheld microphone",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "device",
     "labels": [
       "microphone"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -144,18 +181,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Handheld vocal microphone. Prompt hint: gripping a handheld microphone close to the lips with one hand, the cable looping down from the bottom"
+    "notes": "Description: Handheld vocal microphone. Prompt hint: gripping a handheld microphone close to the lips with one hand, the cable looping down from the bottom",
+    "term_zh": "手持无线话筒",
+    "labels_zh": [
+      "手持道具",
+      "设备",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:12:11.017319+00:00"
   },
   {
-    "id": "held-prop_device_megaphone",
+    "id": "held_prop_device_megaphone",
     "term": "holding a raised megaphone",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "device",
     "labels": [
       "megaphone"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -165,18 +208,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Bullhorn / megaphone. Prompt hint: holding a bullhorn megaphone raised toward the mouth with the trigger pressed, the wide cone aimed forward"
+    "notes": "Description: Bullhorn / megaphone. Prompt hint: holding a bullhorn megaphone raised toward the mouth with the trigger pressed, the wide cone aimed forward",
+    "term_zh": "手持高举扩音器",
+    "labels_zh": [
+      "手持道具",
+      "设备",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:12:11.017333+00:00"
   },
   {
-    "id": "held-prop_device_smartwatch",
+    "id": "held_prop_device_smartwatch",
     "term": "raising a wrist to check a smartwatch",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "device",
     "labels": [
       "smartwatch"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -186,18 +235,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Wrist raised to check watch. Prompt hint: raising one wrist into frame with a sleek smartwatch face glowing on it, the other hand lightly steadying the band"
+    "notes": "Description: Wrist raised to check watch. Prompt hint: raising one wrist into frame with a sleek smartwatch face glowing on it, the other hand lightly steadying the band",
+    "term_zh": "抬手看智能手表",
+    "labels_zh": [
+      "手持道具",
+      "设备",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:12:11.017338+00:00"
   },
   {
-    "id": "held-prop_drink_coffee_cup",
+    "id": "held_prop_drink_coffee_cup",
     "term": "cradling a ceramic coffee cup",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "drink",
     "labels": [
       "coffee-cup"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -207,18 +262,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Ceramic coffee cup. Prompt hint: cradling a warm ceramic coffee cup in both hands at chest height, soft steam rising from the rim"
+    "notes": "Description: Ceramic coffee cup. Prompt hint: cradling a warm ceramic coffee cup in both hands at chest height, soft steam rising from the rim",
+    "term_zh": "怀抱陶瓷咖啡杯",
+    "labels_zh": [
+      "手持道具",
+      "饮品",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951856+00:00"
   },
   {
-    "id": "held-prop_drink_takeaway_coffee",
+    "id": "held_prop_drink_takeaway_coffee",
     "term": "holding a paper takeaway coffee cup",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "drink",
     "labels": [
       "takeaway-coffee"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -228,18 +289,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Paper takeaway coffee cup. Prompt hint: holding a paper takeaway coffee cup with a sleeve and lid in one hand, steam drifting from the small opening"
+    "notes": "Description: Paper takeaway coffee cup. Prompt hint: holding a paper takeaway coffee cup with a sleeve and lid in one hand, steam drifting from the small opening",
+    "term_zh": "手持纸杯外带咖啡",
+    "labels_zh": [
+      "手持道具",
+      "饮品",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951860+00:00"
   },
   {
-    "id": "held-prop_drink_wine_glass",
+    "id": "held_prop_drink_wine_glass",
     "term": "holding a stemmed glass of red wine",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "drink",
     "labels": [
       "wine-glass"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -249,18 +316,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Stemmed glass of red wine. Prompt hint: holding a stemmed wine glass by the bowl, deep red wine catching the warm ambient light"
+    "notes": "Description: Stemmed glass of red wine. Prompt hint: holding a stemmed wine glass by the bowl, deep red wine catching the warm ambient light",
+    "term_zh": "手持高脚杯红酒",
+    "labels_zh": [
+      "手持道具",
+      "饮品",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951863+00:00"
   },
   {
-    "id": "held-prop_drink_champagne_flute",
+    "id": "held_prop_drink_champagne_flute",
     "term": "holding a champagne flute by the stem",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "drink",
     "labels": [
       "champagne-flute"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -270,18 +343,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Tall champagne flute. Prompt hint: holding a tall champagne flute by the stem, bubbles rising in the pale gold liquid"
+    "notes": "Description: Tall champagne flute. Prompt hint: holding a tall champagne flute by the stem, bubbles rising in the pale gold liquid",
+    "term_zh": "手持香槟笛形杯",
+    "labels_zh": [
+      "手持道具",
+      "饮品",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951867+00:00"
   },
   {
-    "id": "held-prop_drink_martini_glass",
+    "id": "held_prop_drink_martini_glass",
     "term": "holding a classic martini glass",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "drink",
     "labels": [
       "martini-glass"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -291,18 +370,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Classic martini glass. Prompt hint: holding a classic conical martini glass by the stem at chest height, a single olive on a pick resting in the clear liquor"
+    "notes": "Description: Classic martini glass. Prompt hint: holding a classic conical martini glass by the stem at chest height, a single olive on a pick resting in the clear liquor",
+    "term_zh": "手持经典马丁尼杯",
+    "labels_zh": [
+      "手持道具",
+      "饮品",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951870+00:00"
   },
   {
-    "id": "held-prop_drink_cocktail_glass",
+    "id": "held_prop_drink_cocktail_glass",
     "term": "holding a rocks glass with an amber cocktail",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "drink",
     "labels": [
       "cocktail-glass"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -312,18 +397,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Short glass with cocktail. Prompt hint: holding a short rocks glass with an amber cocktail and a single ice sphere, two fingers pressed against the chilled side"
+    "notes": "Description: Short glass with cocktail. Prompt hint: holding a short rocks glass with an amber cocktail and a single ice sphere, two fingers pressed against the chilled side",
+    "term_zh": "手持威士忌矮杯琥珀色鸡尾酒",
+    "labels_zh": [
+      "手持道具",
+      "饮品",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951874+00:00"
   },
   {
-    "id": "held-prop_drink_beer_bottle",
+    "id": "held_prop_drink_beer_bottle",
     "term": "holding a brown glass beer bottle",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "drink",
     "labels": [
       "beer-bottle"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -333,18 +424,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Brown bottle of beer. Prompt hint: holding a brown glass beer bottle loosely by the neck, condensation beading on the surface"
+    "notes": "Description: Brown bottle of beer. Prompt hint: holding a brown glass beer bottle loosely by the neck, condensation beading on the surface",
+    "term_zh": "手持棕色玻璃啤酒瓶",
+    "labels_zh": [
+      "手持道具",
+      "饮品",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:12:11.017343+00:00"
   },
   {
-    "id": "held-prop_drink_water_bottle",
+    "id": "held_prop_drink_water_bottle",
     "term": "holding a reusable water bottle",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "drink",
     "labels": [
       "water-bottle"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -354,18 +451,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Reusable water bottle. Prompt hint: holding a tall reusable water bottle in one hand at hip height, condensation beading on its sides"
+    "notes": "Description: Reusable water bottle. Prompt hint: holding a tall reusable water bottle in one hand at hip height, condensation beading on its sides",
+    "term_zh": "手持可重复使用水瓶",
+    "labels_zh": [
+      "手持道具",
+      "饮品",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:12:11.017347+00:00"
   },
   {
-    "id": "held-prop_smoking_cigarette",
+    "id": "held_prop_smoking_cigarette",
     "term": "holding a lit cigarette",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "smoking",
     "labels": [
       "cigarette"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -375,18 +478,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Lit cigarette between fingers. Prompt hint: holding a lit cigarette pinched between two fingers raised near the face, a thin curl of smoke drifting upward"
+    "notes": "Description: Lit cigarette between fingers. Prompt hint: holding a lit cigarette pinched between two fingers raised near the face, a thin curl of smoke drifting upward",
+    "term_zh": "手持点燃香烟",
+    "labels_zh": [
+      "手持道具",
+      "吸烟",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951878+00:00"
   },
   {
-    "id": "held-prop_smoking_cigar",
+    "id": "held_prop_smoking_cigar",
     "term": "holding a lit cigar",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "smoking",
     "labels": [
       "cigar"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -396,18 +505,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Thick lit cigar. Prompt hint: holding a thick lit cigar between two fingers, a slow wisp of smoke rising and an ember glowing at the tip"
+    "notes": "Description: Thick lit cigar. Prompt hint: holding a thick lit cigar between two fingers, a slow wisp of smoke rising and an ember glowing at the tip",
+    "term_zh": "手持点燃雪茄",
+    "labels_zh": [
+      "手持道具",
+      "吸烟",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951881+00:00"
   },
   {
-    "id": "held-prop_smoking_vape_pen",
+    "id": "held_prop_smoking_vape_pen",
     "term": "holding a slim vape pen",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "smoking",
     "labels": [
       "vape-pen"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -417,18 +532,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Slim vape pen. Prompt hint: holding a slim vape pen between two fingers, a soft puff of vapor curling out from a half-parted mouth"
+    "notes": "Description: Slim vape pen. Prompt hint: holding a slim vape pen between two fingers, a soft puff of vapor curling out from a half-parted mouth",
+    "term_zh": "手持细长电子烟",
+    "labels_zh": [
+      "手持道具",
+      "吸烟",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951884+00:00"
   },
   {
-    "id": "held-prop_smoking_joint",
+    "id": "held_prop_smoking_joint",
     "term": "holding a hand-rolled joint",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "smoking",
     "labels": [
       "joint"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -438,18 +559,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Hand-rolled joint. Prompt hint: holding a hand-rolled joint pinched between thumb and forefinger, a thin trail of smoke rising into the frame"
+    "notes": "Description: Hand-rolled joint. Prompt hint: holding a hand-rolled joint pinched between thumb and forefinger, a thin trail of smoke rising into the frame",
+    "term_zh": "手持手卷大麻烟",
+    "labels_zh": [
+      "手持道具",
+      "吸烟",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951888+00:00"
   },
   {
-    "id": "held-prop_smoking_lighter",
+    "id": "held_prop_smoking_lighter",
     "term": "holding a lit chrome lighter",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "smoking",
     "labels": [
       "lighter"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -459,18 +586,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Chrome lighter with thumb on flame. Prompt hint: holding a polished chrome lighter cupped in one hand with the thumb pressed on the wheel, a small warm flame catching across the fingers"
+    "notes": "Description: Chrome lighter with thumb on flame. Prompt hint: holding a polished chrome lighter cupped in one hand with the thumb pressed on the wheel, a small warm flame catching across the fingers",
+    "term_zh": "手持点燃铬制打火机",
+    "labels_zh": [
+      "手持道具",
+      "吸烟",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951891+00:00"
   },
   {
-    "id": "held-prop_reading-writing_book",
+    "id": "held_prop_reading_writing_book",
     "term": "holding an open hardback book",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "reading-writing",
     "labels": [
       "book"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -480,18 +613,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Open hardback book. Prompt hint: holding an open hardback book in both hands at chest height, eyes drifting down toward the page"
+    "notes": "Description: Open hardback book. Prompt hint: holding an open hardback book in both hands at chest height, eyes drifting down toward the page",
+    "term_zh": "手持打开精装书",
+    "labels_zh": [
+      "手持道具",
+      "读写",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951895+00:00"
   },
   {
-    "id": "held-prop_reading-writing_magazine",
+    "id": "held_prop_reading_writing_magazine",
     "term": "holding a folded glossy magazine",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "reading-writing",
     "labels": [
       "magazine"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -501,18 +640,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Glossy folded magazine. Prompt hint: holding a glossy magazine folded back on itself in one hand, the cover partly visible from the side"
+    "notes": "Description: Glossy folded magazine. Prompt hint: holding a glossy magazine folded back on itself in one hand, the cover partly visible from the side",
+    "term_zh": "手持折叠光面杂志",
+    "labels_zh": [
+      "手持道具",
+      "读写",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951898+00:00"
   },
   {
-    "id": "held-prop_reading-writing_newspaper",
+    "id": "held_prop_reading_writing_newspaper",
     "term": "holding a folded broadsheet newspaper",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "reading-writing",
     "labels": [
       "newspaper"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -522,18 +667,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Folded broadsheet newspaper. Prompt hint: holding a folded broadsheet newspaper open between both hands at chest height, masthead lightly visible"
+    "notes": "Description: Folded broadsheet newspaper. Prompt hint: holding a folded broadsheet newspaper open between both hands at chest height, masthead lightly visible",
+    "term_zh": "手持折叠大报新闻纸",
+    "labels_zh": [
+      "手持道具",
+      "读写",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951902+00:00"
   },
   {
-    "id": "held-prop_reading-writing_notebook",
+    "id": "held_prop_reading_writing_notebook",
     "term": "holding an open lined notebook",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "reading-writing",
     "labels": [
       "notebook"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -543,18 +694,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Open lined notebook. Prompt hint: holding an open lined notebook in one hand at chest height with a pen poised above the page in the other"
+    "notes": "Description: Open lined notebook. Prompt hint: holding an open lined notebook in one hand at chest height with a pen poised above the page in the other",
+    "term_zh": "手持打开横线笔记本",
+    "labels_zh": [
+      "手持道具",
+      "读写",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951905+00:00"
   },
   {
-    "id": "held-prop_reading-writing_pen",
+    "id": "held_prop_reading_writing_pen",
     "term": "holding a pen poised mid-write",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "reading-writing",
     "labels": [
       "pen"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -564,18 +721,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Pen poised mid-write. Prompt hint: holding a slender pen between thumb and fingers, the tip poised over an unseen surface as if mid-thought"
+    "notes": "Description: Pen poised mid-write. Prompt hint: holding a slender pen between thumb and fingers, the tip poised over an unseen surface as if mid-thought",
+    "term_zh": "手持笔跃于中写",
+    "labels_zh": [
+      "手持道具",
+      "读写",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951909+00:00"
   },
   {
-    "id": "held-prop_reading-writing_marker",
+    "id": "held_prop_reading_writing_marker",
     "term": "holding a thick permanent marker",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "reading-writing",
     "labels": [
       "marker"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -585,18 +748,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Thick marker mid-stroke. Prompt hint: holding a thick permanent marker in one hand, cap clenched in the teeth and the tip poised mid-stroke"
+    "notes": "Description: Thick marker mid-stroke. Prompt hint: holding a thick permanent marker in one hand, cap clenched in the teeth and the tip poised mid-stroke",
+    "term_zh": "手持粗永久记号笔",
+    "labels_zh": [
+      "手持道具",
+      "读写",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951912+00:00"
   },
   {
-    "id": "held-prop_reading-writing_paintbrush",
+    "id": "held_prop_reading_writing_paintbrush",
     "term": "holding a loaded paintbrush",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "reading-writing",
     "labels": [
       "paintbrush"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -606,18 +775,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Loaded paintbrush. Prompt hint: holding a loaded paintbrush between thumb and fingers, bristles glistening with wet color and the wrist softly turned"
+    "notes": "Description: Loaded paintbrush. Prompt hint: holding a loaded paintbrush between thumb and fingers, bristles glistening with wet color and the wrist softly turned",
+    "term_zh": "手持蘸颜料画笔",
+    "labels_zh": [
+      "手持道具",
+      "读写",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:12:11.017352+00:00"
   },
   {
-    "id": "held-prop_reading-writing_chalk",
+    "id": "held_prop_reading_writing_chalk",
     "term": "holding a stick of white chalk",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "reading-writing",
     "labels": [
       "chalk"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -627,18 +802,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: White stick of chalk. Prompt hint: holding a short stick of white chalk between thumb and forefinger, faint chalk dust drifting from the tip as if mid-stroke"
+    "notes": "Description: White stick of chalk. Prompt hint: holding a short stick of white chalk between thumb and forefinger, faint chalk dust drifting from the tip as if mid-stroke",
+    "term_zh": "手持白色粉笔",
+    "labels_zh": [
+      "手持道具",
+      "读写",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:12:11.017356+00:00"
   },
   {
-    "id": "held-prop_bag-accessory_handbag",
+    "id": "held_prop_bag_accessory_handbag",
     "term": "carrying a structured designer handbag",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "bag-accessory",
     "labels": [
       "handbag"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -648,18 +829,23 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Designer handbag. Prompt hint: carrying a structured designer handbag by the top handles in one hand at hip height, the bag positioned cleanly in frame"
+    "notes": "Description: Designer handbag. Prompt hint: carrying a structured designer handbag by the top handles in one hand at hip height, the bag positioned cleanly in frame",
+    "term_zh": "携带结构化设计师手提包",
+    "labels_zh": [
+      "手持道具",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951916+00:00"
   },
   {
-    "id": "held-prop_bag-accessory_tote_bag",
+    "id": "held_prop_bag_accessory_tote_bag",
     "term": "carrying a canvas tote bag over one shoulder",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "bag-accessory",
     "labels": [
       "tote-bag"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -669,18 +855,23 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Soft canvas tote. Prompt hint: carrying a soft canvas tote bag slung over one shoulder, fabric folding naturally against the side"
+    "notes": "Description: Soft canvas tote. Prompt hint: carrying a soft canvas tote bag slung over one shoulder, fabric folding naturally against the side",
+    "term_zh": "肩携帆布手提袋",
+    "labels_zh": [
+      "手持道具",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951919+00:00"
   },
   {
-    "id": "held-prop_bag-accessory_briefcase",
+    "id": "held_prop_bag_accessory_briefcase",
     "term": "carrying a hard-shell briefcase",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "bag-accessory",
     "labels": [
       "briefcase"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -690,18 +881,23 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Hard-shell briefcase. Prompt hint: carrying a hard-shell briefcase by the top handle in one hand at hip height, the case angled to read clearly in frame"
+    "notes": "Description: Hard-shell briefcase. Prompt hint: carrying a hard-shell briefcase by the top handle in one hand at hip height, the case angled to read clearly in frame",
+    "term_zh": "携带硬壳公文包",
+    "labels_zh": [
+      "手持道具",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951923+00:00"
   },
   {
-    "id": "held-prop_bag-accessory_umbrella",
+    "id": "held_prop_bag_accessory_umbrella",
     "term": "holding an open black umbrella overhead",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "bag-accessory",
     "labels": [
       "umbrella"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -711,18 +907,23 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Open black umbrella. Prompt hint: holding an open black umbrella overhead with one hand, the canopy haloing the head and shadow falling across the face"
+    "notes": "Description: Open black umbrella. Prompt hint: holding an open black umbrella overhead with one hand, the canopy haloing the head and shadow falling across the face",
+    "term_zh": "头顶打开黑色雨伞",
+    "labels_zh": [
+      "手持道具",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951926+00:00"
   },
   {
-    "id": "held-prop_bag-accessory_fan_folding",
+    "id": "held_prop_bag_accessory_fan_folding",
     "term": "holding an open hand-painted folding fan",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "bag-accessory",
     "labels": [
       "fan-folding"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -732,18 +933,23 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Open hand-painted fan. Prompt hint: holding an open hand-painted folding fan raised near the face, fingers fanned along the spine"
+    "notes": "Description: Open hand-painted fan. Prompt hint: holding an open hand-painted folding fan raised near the face, fingers fanned along the spine",
+    "term_zh": "手持手绘折叠扇",
+    "labels_zh": [
+      "手持道具",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951929+00:00"
   },
   {
-    "id": "held-prop_bag-accessory_parasol",
+    "id": "held_prop_bag_accessory_parasol",
     "term": "holding an open decorative parasol",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "bag-accessory",
     "labels": [
       "parasol"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -753,18 +959,23 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Decorative Victorian / Asian parasol. Prompt hint: holding a decorative parasol open above one shoulder, the lace or hand-painted canopy shielding the face from sun and casting a delicate dappled shadow"
+    "notes": "Description: Decorative Victorian / Asian parasol. Prompt hint: holding a decorative parasol open above one shoulder, the lace or hand-painted canopy shielding the face from sun and casting a delicate dappled shadow",
+    "term_zh": "手持装饰阳伞",
+    "labels_zh": [
+      "手持道具",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951933+00:00"
   },
   {
-    "id": "held-prop_bag-accessory_locket",
+    "id": "held_prop_bag_accessory_locket",
     "term": "holding an open vintage locket",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "bag-accessory",
     "labels": [
       "locket"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -774,18 +985,23 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Open vintage locket pendant. Prompt hint: holding an open vintage locket pendant between thumb and forefinger close to the chest, the tiny portrait inside angled gently toward the face"
+    "notes": "Description: Open vintage locket pendant. Prompt hint: holding an open vintage locket pendant between thumb and forefinger close to the chest, the tiny portrait inside angled gently toward the face",
+    "term_zh": "手持打开复古吊坠盒",
+    "labels_zh": [
+      "手持道具",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:12:11.017360+00:00"
   },
   {
-    "id": "held-prop_floral-nature_bouquet",
+    "id": "held_prop_floral_nature_bouquet",
     "term": "cradling a bouquet of fresh flowers",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "floral-nature",
     "labels": [
       "bouquet"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -795,18 +1011,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Mixed bouquet of flowers. Prompt hint: cradling a mixed bouquet of fresh flowers in both arms against the chest, blooms framing the face from below"
+    "notes": "Description: Mixed bouquet of flowers. Prompt hint: cradling a mixed bouquet of fresh flowers in both arms against the chest, blooms framing the face from below",
+    "term_zh": "怀抱鲜花花束",
+    "labels_zh": [
+      "手持道具",
+      "花草自然",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951936+00:00"
   },
   {
-    "id": "held-prop_floral-nature_single_rose",
+    "id": "held_prop_floral_nature_single_rose",
     "term": "holding a long-stem red rose",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "floral-nature",
     "labels": [
       "single-rose"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -816,18 +1038,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Single long-stem rose. Prompt hint: holding a single long-stem red rose loosely between two fingers, the bloom raised softly toward the face"
+    "notes": "Description: Single long-stem rose. Prompt hint: holding a single long-stem red rose loosely between two fingers, the bloom raised softly toward the face",
+    "term_zh": "手持长茎红玫瑰",
+    "labels_zh": [
+      "手持道具",
+      "花草自然",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951940+00:00"
   },
   {
-    "id": "held-prop_floral-nature_sunflower",
+    "id": "held_prop_floral_nature_sunflower",
     "term": "holding a tall sunflower by the stem",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "floral-nature",
     "labels": [
       "sunflower"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -837,18 +1065,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Single tall sunflower. Prompt hint: holding a tall sunflower upright by the stem in one hand, the wide yellow bloom raised slightly above the shoulder"
+    "notes": "Description: Single tall sunflower. Prompt hint: holding a tall sunflower upright by the stem in one hand, the wide yellow bloom raised slightly above the shoulder",
+    "term_zh": "手持高大向日葵",
+    "labels_zh": [
+      "手持道具",
+      "花草自然",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951943+00:00"
   },
   {
-    "id": "held-prop_floral-nature_leaf",
+    "id": "held_prop_floral_nature_leaf",
     "term": "holding a large green leaf",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "floral-nature",
     "labels": [
       "leaf"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -858,18 +1092,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Single large leaf. Prompt hint: holding a single large green leaf by its stem in one hand, the broad surface positioned to one side of the face"
+    "notes": "Description: Single large leaf. Prompt hint: holding a single large green leaf by its stem in one hand, the broad surface positioned to one side of the face",
+    "term_zh": "手持大绿叶",
+    "labels_zh": [
+      "手持道具",
+      "花草自然",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951946+00:00"
   },
   {
-    "id": "held-prop_floral-nature_fruit_apple",
+    "id": "held_prop_floral_nature_fruit_apple",
     "term": "holding a fresh apple in one palm",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "floral-nature",
     "labels": [
       "fruit-apple"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -879,18 +1119,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Single fresh apple. Prompt hint: holding a single fresh apple cradled in one open palm at chest height, the glossy skin catching the light"
+    "notes": "Description: Single fresh apple. Prompt hint: holding a single fresh apple cradled in one open palm at chest height, the glossy skin catching the light",
+    "term_zh": "一手握新鲜苹果",
+    "labels_zh": [
+      "手持道具",
+      "花草自然",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951950+00:00"
   },
   {
-    "id": "held-prop_instrument_guitar",
+    "id": "held_prop_instrument_guitar",
     "term": "holding a guitar slung across the body",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "instrument",
     "labels": [
       "guitar"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -900,18 +1146,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Guitar slung across body. Prompt hint: holding a guitar slung across the body with one hand on the neck and the other resting over the strings near the soundhole"
+    "notes": "Description: Guitar slung across body. Prompt hint: holding a guitar slung across the body with one hand on the neck and the other resting over the strings near the soundhole",
+    "term_zh": "身斜背吉他",
+    "labels_zh": [
+      "手持道具",
+      "乐器",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951953+00:00"
   },
   {
-    "id": "held-prop_instrument_violin",
+    "id": "held_prop_instrument_violin",
     "term": "holding a violin under the chin",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "instrument",
     "labels": [
       "violin"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -921,18 +1173,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Violin under chin. Prompt hint: holding a violin tucked under the chin with one hand fingering the neck and the other drawing a bow across the strings"
+    "notes": "Description: Violin under chin. Prompt hint: holding a violin tucked under the chin with one hand fingering the neck and the other drawing a bow across the strings",
+    "term_zh": "手持小提琴架于颈下",
+    "labels_zh": [
+      "手持道具",
+      "乐器",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951957+00:00"
   },
   {
-    "id": "held-prop_instrument_saxophone",
+    "id": "held_prop_instrument_saxophone",
     "term": "holding a saxophone raised to the lips",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "instrument",
     "labels": [
       "saxophone"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -942,18 +1200,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Saxophone raised to lips. Prompt hint: holding a saxophone raised to the lips with both hands wrapped around the keys, a strap supporting the weight at the neck"
+    "notes": "Description: Saxophone raised to lips. Prompt hint: holding a saxophone raised to the lips with both hands wrapped around the keys, a strap supporting the weight at the neck",
+    "term_zh": "手持萨克斯管至唇边",
+    "labels_zh": [
+      "手持道具",
+      "乐器",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951960+00:00"
   },
   {
-    "id": "held-prop_instrument_drumsticks",
+    "id": "held_prop_instrument_drumsticks",
     "term": "holding a pair of wooden drumsticks",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "instrument",
     "labels": [
       "drumsticks"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -963,18 +1227,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Pair of drumsticks crossed. Prompt hint: holding a pair of drumsticks crossed in front of the chest, fingers wrapped firmly around their grips"
+    "notes": "Description: Pair of drumsticks crossed. Prompt hint: holding a pair of drumsticks crossed in front of the chest, fingers wrapped firmly around their grips",
+    "term_zh": "手持一对木质鼓槌",
+    "labels_zh": [
+      "手持道具",
+      "乐器",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951964+00:00"
   },
   {
-    "id": "held-prop_instrument_sheet_music",
+    "id": "held_prop_instrument_sheet_music",
     "term": "holding folded sheet music",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "instrument",
     "labels": [
       "sheet-music"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -984,18 +1254,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Folded sheet music. Prompt hint: holding a folded sheet of musical notation open between both hands at chest height, eyes lightly scanning the staves"
+    "notes": "Description: Folded sheet music. Prompt hint: holding a folded sheet of musical notation open between both hands at chest height, eyes lightly scanning the staves",
+    "term_zh": "手持折叠乐谱",
+    "labels_zh": [
+      "手持道具",
+      "乐器",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951967+00:00"
   },
   {
-    "id": "held-prop_companion_small_dog",
+    "id": "held_prop_companion_small_dog",
     "term": "cradling a small dog in both arms",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "companion",
     "labels": [
       "small-dog"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1005,18 +1281,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Small dog held in arms. Prompt hint: cradling a small dog in both arms against the chest, the pet's head resting comfortably under the subject's chin"
+    "notes": "Description: Small dog held in arms. Prompt hint: cradling a small dog in both arms against the chest, the pet's head resting comfortably under the subject's chin",
+    "term_zh": "双臂怀抱小狗",
+    "labels_zh": [
+      "手持道具",
+      "伙伴",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951971+00:00"
   },
   {
-    "id": "held-prop_companion_cat",
+    "id": "held_prop_companion_cat",
     "term": "cradling a cat",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "companion",
     "labels": [
       "cat"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1026,18 +1308,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Cat draped over arm. Prompt hint: cradling a cat draped across one arm at chest height, the other hand resting gently along its back"
+    "notes": "Description: Cat draped over arm. Prompt hint: cradling a cat draped across one arm at chest height, the other hand resting gently along its back",
+    "term_zh": "怀抱小猫",
+    "labels_zh": [
+      "手持道具",
+      "伙伴",
+      "怀抱小猫",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951974+00:00"
   },
   {
-    "id": "held-prop_companion_plush_toy",
+    "id": "held_prop_companion_plush_toy",
     "term": "hugging a soft plush toy",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "companion",
     "labels": [
       "plush-toy"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1047,18 +1336,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Soft plush toy hugged. Prompt hint: hugging a soft plush toy against the chest with both arms wrapped around it, head leaning lightly against its top"
+    "notes": "Description: Soft plush toy hugged. Prompt hint: hugging a soft plush toy against the chest with both arms wrapped around it, head leaning lightly against its top",
+    "term_zh": "怀抱柔软毛绒玩具",
+    "labels_zh": [
+      "手持道具",
+      "伙伴",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951978+00:00"
   },
   {
-    "id": "held-prop_occupational_katana",
+    "id": "held_prop_occupational_katana",
     "term": "holding a katana across the body",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "occupational",
     "labels": [
       "katana"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1068,18 +1363,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Single-edged Japanese sword. Prompt hint: holding a katana with one hand on the wrapped grip and the other resting on the long polished edge, blade angled diagonally across the body"
+    "notes": "Description: Single-edged Japanese sword. Prompt hint: holding a katana with one hand on the wrapped grip and the other resting on the long polished edge, blade angled diagonally across the body",
+    "term_zh": "身横持武士刀",
+    "labels_zh": [
+      "手持道具",
+      "职业",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951981+00:00"
   },
   {
-    "id": "held-prop_occupational_pointer_stick",
+    "id": "held_prop_occupational_pointer_stick",
     "term": "holding a telescoping pointer stick",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "occupational",
     "labels": [
       "pointer-stick"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1089,18 +1390,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Telescoping pointer stick. Prompt hint: holding a slender telescoping pointer stick in one hand, the tip raised toward an unseen surface as if mid-explanation"
+    "notes": "Description: Telescoping pointer stick. Prompt hint: holding a slender telescoping pointer stick in one hand, the tip raised toward an unseen surface as if mid-explanation",
+    "term_zh": "手持伸缩指示棒",
+    "labels_zh": [
+      "手持道具",
+      "职业",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951985+00:00"
   },
   {
-    "id": "held-prop_occupational_gavel",
+    "id": "held_prop_occupational_gavel",
     "term": "gripping a wooden gavel mid-strike",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "occupational",
     "labels": [
       "gavel"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1110,18 +1417,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Wooden judicial gavel. Prompt hint: gripping a polished wooden gavel mid-strike with one hand, the head poised above an unseen sound block"
+    "notes": "Description: Wooden judicial gavel. Prompt hint: gripping a polished wooden gavel mid-strike with one hand, the head poised above an unseen sound block",
+    "term_zh": "手握木质法槌即将落下",
+    "labels_zh": [
+      "手持道具",
+      "职业",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951988+00:00"
   },
   {
-    "id": "held-prop_occupational_wine_bottle",
+    "id": "held_prop_occupational_wine_bottle",
     "term": "holding a wine bottle by the neck",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "occupational",
     "labels": [
       "wine-bottle"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1131,18 +1444,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Full bottle with foil seal. Prompt hint: holding a tall wine bottle by the neck with one hand, the labeled body and red foil seal angled clearly toward the camera"
+    "notes": "Description: Full bottle with foil seal. Prompt hint: holding a tall wine bottle by the neck with one hand, the labeled body and red foil seal angled clearly toward the camera",
+    "term_zh": "手持红酒瓶颈部",
+    "labels_zh": [
+      "手持道具",
+      "职业",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951991+00:00"
   },
   {
-    "id": "held-prop_occupational_lantern",
+    "id": "held_prop_occupational_lantern",
     "term": "carrying a vintage handheld lantern",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "occupational",
     "labels": [
       "lantern"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1152,18 +1471,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Vintage handheld lantern with amber glow. Prompt hint: carrying a vintage handheld lantern by its top ring at hip height, warm amber glow casting a soft circular pool of light across the face and surroundings"
+    "notes": "Description: Vintage handheld lantern with amber glow. Prompt hint: carrying a vintage handheld lantern by its top ring at hip height, warm amber glow casting a soft circular pool of light across the face and surroundings",
+    "term_zh": "携带复古手提灯",
+    "labels_zh": [
+      "手持道具",
+      "职业",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951995+00:00"
   },
   {
-    "id": "held-prop_occupational_flashlight",
+    "id": "held_prop_occupational_flashlight",
     "term": "holding a flashlight raised forward",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "occupational",
     "labels": [
       "flashlight"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1173,18 +1498,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Modern flashlight cutting a beam. Prompt hint: holding a modern flashlight raised forward in one hand, a sharp white beam cutting through the darkness ahead and side-lighting the face"
+    "notes": "Description: Modern flashlight cutting a beam. Prompt hint: holding a modern flashlight raised forward in one hand, a sharp white beam cutting through the darkness ahead and side-lighting the face",
+    "term_zh": "手持手电筒前举",
+    "labels_zh": [
+      "手持道具",
+      "职业",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.951998+00:00"
   },
   {
-    "id": "held-prop_occupational_compass",
+    "id": "held_prop_occupational_compass",
     "term": "holding an open brass nautical compass",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "occupational",
     "labels": [
       "compass"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1194,18 +1525,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Vintage handheld nautical compass. Prompt hint: holding a vintage brass nautical compass open in one cupped palm at chest height, the needle clearly visible as the eyes drift down to read the bearing"
+    "notes": "Description: Vintage handheld nautical compass. Prompt hint: holding a vintage brass nautical compass open in one cupped palm at chest height, the needle clearly visible as the eyes drift down to read the bearing",
+    "term_zh": "手持打开黄铜航海罗盘",
+    "labels_zh": [
+      "手持道具",
+      "职业",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:12:11.017365+00:00"
   },
   {
-    "id": "held-prop_occupational_bow_and_arrow",
+    "id": "held_prop_occupational_bow_and_arrow",
     "term": "drawing an archery bow with a nocked arrow",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "occupational",
     "labels": [
       "bow-and-arrow"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1215,18 +1552,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Drawn archery bow with arrow nocked. Prompt hint: holding an archery bow drawn at full tension with one hand on the grip and the other pulling the string back to the cheek, an arrow nocked and aimed forward"
+    "notes": "Description: Drawn archery bow with arrow nocked. Prompt hint: holding an archery bow drawn at full tension with one hand on the grip and the other pulling the string back to the cheek, an arrow nocked and aimed forward",
+    "term_zh": "拉弓搭箭",
+    "labels_zh": [
+      "手持道具",
+      "职业",
+      "拉弓搭箭",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:12:11.017370+00:00"
   },
   {
-    "id": "held-prop_occupational_shield",
+    "id": "held_prop_occupational_shield",
     "term": "holding a raised medieval shield",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "occupational",
     "labels": [
       "shield"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1236,18 +1580,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Handheld medieval shield. Prompt hint: holding a medieval shield raised across the body with one arm strapped through the back, the front face angled forward in a defensive stance"
+    "notes": "Description: Handheld medieval shield. Prompt hint: holding a medieval shield raised across the body with one arm strapped through the back, the front face angled forward in a defensive stance",
+    "term_zh": "手持高举中世纪盾牌",
+    "labels_zh": [
+      "手持道具",
+      "职业",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:12:11.017374+00:00"
   },
   {
-    "id": "held-prop_occupational_work_gloves",
+    "id": "held_prop_occupational_work_gloves",
     "term": "holding a pair of leather work gloves",
-    "term_zh": "",
     "category": "held-prop",
     "subcategory": "occupational",
     "labels": [
       "work-gloves"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1257,6 +1607,14 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Worn leather work gloves held in hand. Prompt hint: holding a worn pair of tan leather work gloves in both hands at waist height, the thick weathered leather clearly visible"
+    "notes": "Description: Worn leather work gloves held in hand. Prompt hint: holding a worn pair of tan leather work gloves in both hands at waist height, the thick weathered leather clearly visible",
+    "term_zh": "手持一对皮革工作手套",
+    "labels_zh": [
+      "手持道具",
+      "职业",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:12:11.017378+00:00"
   }
 ]

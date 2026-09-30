@@ -1,10 +1,10 @@
 {
-  "version": "1.1.1",
+  "version": "1.8.0",
   "schema_version": "pws-1.0",
   "total_keywords": 5943,
   "total_categories": 20,
-  "updated_at": "2026-09-29T11:45:00.000000+00:00",
-  "updated_by": "pws-dedup-terms.py",
+  "updated_at": "2026-09-30T19:30:00.000000+00:00",
+  "updated_by": "extend-translations-13.py",
   "source_summary": {
     "h3-comic-builder (intermediate, not listed as data source)": 859,
     "MidJourney-Reference": 4600,
@@ -127,6 +127,115 @@
       "removed": 14,
       "before": 5957,
       "after": 5943
+    },
+    {
+      "version": "1.2.0",
+      "date": "2026-09-30",
+      "changes": [
+        "Fixed 472 IDs to conform to ^[a-z][a-z0-9_]*$ pattern (lowercase, underscore instead of spaces/special chars)",
+        "Auto-translated 162 keywords (term_zh coverage: 0.2% → 2.9%)",
+        "Bumped version to reflect data quality improvements"
+      ],
+      "added": 0,
+      "removed": 0,
+      "before": 5943,
+      "after": 5943
+    },
+    {
+      "version": "1.3.0",
+      "date": "2026-09-30",
+      "changes": [
+        "Expanded translation dictionary: ~200 → 488 entries, term_zh coverage 5.1% → 8.1% (+176 keywords)",
+        "Generated flat keyword index (data/pws_index.json) with 5,943 entries",
+        "Added pws-index.py tool for building searchable flat indexes",
+        "Added requirements.txt for Python dependencies",
+        "Fixed trailing space in PRE_TRANSLATIONS entry"
+      ]
+    },
+    {
+      "version": "1.4.0",
+      "date": "2026-09-30",
+      "changes": [
+        "Generated labels_zh for all 481 keywords with term_zh (from pws-generate-labels-zh.py)",
+        "Fixed Schema: term_zh/aliases_zh/labels_zh allow null type, notes maxLength 1000→5000",
+        "Fixed 1119 empty string fields converted to removed fields",
+        "Added pws-generate-labels-zh.py tool",
+        "Added pws-index.py flat index generator",
+        "Added GitHub Actions CI validation workflow",
+        "Added pre-commit hook",
+        "Added requirements.txt",
+        "Added CHANGELOG.md",
+        "Added .gitignore",
+        "Cleaned up: archived pws-merge-categories.py, renamed _all_templates.json",
+        "Updated README with correct version/category/keyword counts",
+        "Expanded translation dictionary: ~200 → 488 entries"
+      ]
+    },
+    {
+      "version": "1.5.0",
+      "date": "2026-09-30",
+      "changes": [
+        "Fixed pre-commit hook NameError — renamed ambiguous `existing` and `staged` list variables to `existing_items` and `staged_items`",
+        "Fixed GitHub Actions CI — removed duplicate 'pip install jsonschema' step, switched to 'pip install -r requirements.txt'",
+        "Added template-validate job to GitHub Actions (validates templates/*.json)",
+        "Added pws-audit.py — unified audit tool (schema, IDs, duplicates, scores, lifecycle, artifacts, metadata)",
+        "Added pws-clean-long-terms.py — detects and fixes long/corrupted term values (HTML artifacts, pipe separators, repeated mj_v5_ prefixes)",
+        "Added pws-fix-mj-artifacts.py — focused tool for MidJourney reference HTML/IMG scraping errors",
+        "Cleaned 11 stale terms in styles.json: 1 HTML scraping artifact (Crystalcore Width=256 fix), 4 'rendered as' description strings >40 chars, 6 'in the ... aesthetic — ...' descriptions truncated to canonical form",
+        "term_zh coverage unchanged at 481/5943 (8.1%) — recommend running pws-translate.py --translate-all",
+        "Verbose terms >40 chars from @nodaro/prompts (video generation prompts) are intentionally preserved, not auto-truncated"
+      ]
+    },
+    {
+      "version": "1.6.0",
+      "date": "2026-09-30",
+      "changes": [
+        "Massive PRE_TRANSLATIONS expansion: 488 → 3557 entries (+3069)",
+        "Added 4 batch extend scripts: extend-translations.py, -2.py, -3.py, -4.py",
+        "Improved find_translation() with word-composition and substring matching (handles compound terms like 'red hair blue eyes', 'a major earthquake violently shaking the scene')",
+        "term_zh coverage: 481/5943 (8.1%) → 1756/5943 (29.5%) (+1275 keywords)",
+        "labels_zh coverage: 481 → 1756 (+1275)",
+        "All 9 @nodaro/prompts zero-coverage categories now have 50-100% coverage: photographer (57.5%), transitions (32.1%), action-fx (66.7%), material (85.1%), held-prop (80.0%), color-look (49.2%), character-fx (56.4%), era (57.1%), temporal (100%)",
+        "Added category coverage: clothing, scene, styles, composition, character, lighting — added 100+ common terms each",
+        "Added 50+ MJ V5 color path translations (willwulfken/MidJourney-Styles-and-Keywords-Reference color codes)",
+        "Added negative prompt blocklist translations: bad quality, distorted, disfigured, extra arms/legs, fused fingers, conjoined twins, etc."
+      ]
+    },
+    {
+      "version": "1.7.0",
+      "date": "2026-09-30",
+      "changes": [
+        "Massive PRE_TRANSLATIONS expansion: 3557 → 8117 entries (+4560)",
+        "term_zh coverage: 1756/5943 (29.5%) → 5027/5943 (84.6%) (+3271 keywords)",
+        "labels_zh coverage: 1756 → 5027 (+3271)",
+        "Added 4 batch extend scripts: extend-translations-5.py through -9.py",
+        "extend-translations-5.py: 807 entries (styles MJ V5 design/digital/mediums/themes/colors)",
+        "extend-translations-6.py: 673 entries (scene mj_v5_nature/objects/geo/space)",
+        "extend-translations-7.py: 1871 entries (remaining styles MJ V5 terms)",
+        "extend-translations-8.py: 749 entries (lighting/character/composition panels)",
+        "extend-translations-9.py: 461 entries (clothing materials/props/transitions/panel)",
+        "Category highlights: composition 98.7%, clothing 94.8%, lighting 92.1%, material 89.6%, scene/styles ~84%, transitions 81.5%, panel 73.9%",
+        "Added 200+ Vestibular monad/character core terms (hero shot, contrapposto, smoldering intensity, etc.)",
+        "Added 100+ MJ V5 materials (rocks, metals, gems, fibers, papers)",
+        "Added 100+ MJ V5 material properties (bioluminescence, anisotropic, opalescent, etc.)"
+      ]
+    },
+    {
+      "version": "1.8.0",
+      "date": "2026-09-30",
+      "changes": [
+        "**REACHED 100% term_zh COVERAGE**: 5027/5943 (84.6%) → 5943/5943 (100.0%)",
+        "**REACHED 100% labels_zh COVERAGE**: 5027 → 5943 (+916)",
+        "PRE_TRANSLATIONS expanded: 8117 → 9122 unique entries (+1005)",
+        "All 20 categories reached 99%+ coverage; 16/20 categories at 100%",
+        "Added 4 extend scripts: extend-translations-10.py through -13.py",
+        "extend-translations-10.py (318): photographer editorial/genre, color-look film/post, character-fx power/aura, framing shot/composition, character expressions/clothing, quality advanced/texture",
+        "extend-translations-11.py (572): scene interaction (51) / relationship (20) / nature (31) / backdrop (21) / indoor (19) / urban/fantastical, styles mj_v5_design (122) / mj_v5_themes (85) / mj_v5_dimension (26) / artistStyle / art / artStyles / aesthetic, negative / held-prop / character-fx / material / composition / clothing materials / lighting",
+        "extend-translations-12.py (57): remaining truncated compound terms (most terms were truncated to 60 chars in source data)",
+        "extend-translations-13.py (58): final round of truncated 60-char terms + 2 manual fixes for URL-encoded data",
+        "Manually fixed last 2 items: 'Decor%20(2)' → '装饰 (2)' and glamour portrait phrase",
+        "Final audit: 0 errors, 0 warnings, 0 info"
+      ]
     }
   ],
   "description": "5,943 structured keywords across 20 categories. Sources: MidJourney Reference + Danbooru + Danbooru Booster/Civitai + Web Research + @nodaro/prompts (v1.27.0). v1.1.0 consolidated 33 → 20 categories; v1.1.1 removed 14 true-duplicate terms (see docs/CATEGORY_CONSOLIDATION.md).",

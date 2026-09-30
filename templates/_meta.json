@@ -1,9 +1,9 @@
 {
-  "version": "1.2.0",
+  "version": "1.8.0",
   "schema_version": "pws-1.0",
   "total_templates": 27,
-  "updated_at": "2026-09-29T09:35:58.251765+00:00",
-  "updated_by": "chinese-fields-enhancement",
+  "updated_at": "2026-09-30T19:30:00.000000+00:00",
+  "updated_by": "extend-translations-13.py",
   "data_sources": {
     "migration_layer": {
       "name": "h3-comic-builder",
@@ -125,6 +125,56 @@
       "changes": [
         "Added Chinese field support (name_zh, description_zh) to template schema",
         "Chinese fields already present in existing templates (h3_video, llm_system, text_negative)"
+      ]
+    },
+    {
+      "version": "1.2.1",
+      "date": "2026-09-30",
+      "changes": [
+        "Renamed _all_templates.json to _legacy_all_templates.json — it is raw JSON data from h3-comic-builder migration, not a standard PWS template"
+      ]
+    },
+    {
+      "version": "1.3.0",
+      "date": "2026-09-30",
+      "changes": [
+        "Version synced with keyword data version",
+        "Added template flat index (data/pws_templates_index.json)"
+      ]
+    },
+    {
+      "version": "1.4.0",
+      "date": "2026-09-30",
+      "changes": [
+        "Generated labels_zh for all 481 keywords with term_zh (from pws-generate-labels-zh.py)",
+        "Fixed Schema: term_zh/aliases_zh/labels_zh allow null type, notes maxLength 1000→5000",
+        "Fixed 1119 empty string fields converted to removed fields",
+        "Added pws-generate-labels-zh.py tool",
+        "Added pws-index.py flat index generator",
+        "Added GitHub Actions CI validation workflow",
+        "Added pre-commit hook",
+        "Added requirements.txt",
+        "Added CHANGELOG.md",
+        "Added .gitignore",
+        "Cleaned up: archived pws-merge-categories.py, renamed _all_templates.json",
+        "Updated README with correct version/category/keyword counts",
+        "Expanded translation dictionary: ~200 → 488 entries"
+      ]
+    },
+    {
+      "version": "1.5.0",
+      "date": "2026-09-30",
+      "changes": [
+        "Added pws-audit.py unified audit tool for templates too",
+        "Added template-validate job to GitHub Actions CI"
+      ]
+    },
+    {
+      "version": "1.7.0",
+      "date": "2026-09-30",
+      "changes": [
+        "version synced with keywords v1.7.0",
+        "term_zh coverage reached 84.6% across keywords"
       ]
     }
   ],

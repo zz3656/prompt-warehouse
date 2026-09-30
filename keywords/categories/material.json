@@ -2,13 +2,11 @@
   {
     "id": "material_fabric_silk",
     "term": "made of silk",
-    "term_zh": "",
     "category": "material",
     "subcategory": "fabric",
     "labels": [
       "silk"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -18,18 +16,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Smooth glossy silk. Prompt hint: made of smooth glossy silk with a subtle natural sheen and delicate fluid drape"
+    "notes": "Description: Smooth glossy silk. Prompt hint: made of smooth glossy silk with a subtle natural sheen and delicate fluid drape",
+    "term_zh": "丝绸制",
+    "labels_zh": [
+      "材质",
+      "织物",
+      "丝绸制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960416+00:00"
   },
   {
     "id": "material_fabric_cotton",
     "term": "made of cotton",
-    "term_zh": "",
     "category": "material",
     "subcategory": "fabric",
     "labels": [
       "cotton"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -39,18 +44,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Soft matte cotton. Prompt hint: made of soft matte cotton fabric with a natural woven texture and subtle wrinkles"
+    "notes": "Description: Soft matte cotton. Prompt hint: made of soft matte cotton fabric with a natural woven texture and subtle wrinkles",
+    "term_zh": "棉制",
+    "labels_zh": [
+      "材质",
+      "织物",
+      "棉制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960422+00:00"
   },
   {
     "id": "material_fabric_denim",
     "term": "made of heavy indigo denim",
-    "term_zh": "",
     "category": "material",
     "subcategory": "fabric",
     "labels": [
       "denim"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -60,18 +72,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Heavy indigo denim. Prompt hint: made of heavy indigo denim with visible diagonal weave, worn edges and subtle fading"
+    "notes": "Description: Heavy indigo denim. Prompt hint: made of heavy indigo denim with visible diagonal weave, worn edges and subtle fading",
+    "term_zh": "厚重蓙青牛仔制",
+    "labels_zh": [
+      "材质",
+      "织物",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960426+00:00"
   },
   {
     "id": "material_fabric_leather",
     "term": "made of leather",
-    "term_zh": "",
     "category": "material",
     "subcategory": "fabric",
     "labels": [
       "leather"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -81,18 +99,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Rich supple leather. Prompt hint: made of rich supple leather with a soft satin sheen, natural grain and warm brown tones"
+    "notes": "Description: Rich supple leather. Prompt hint: made of rich supple leather with a soft satin sheen, natural grain and warm brown tones",
+    "term_zh": "皮革制",
+    "labels_zh": [
+      "材质",
+      "织物",
+      "皮革制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960430+00:00"
   },
   {
     "id": "material_fabric_velvet",
     "term": "made of velvet",
-    "term_zh": "",
     "category": "material",
     "subcategory": "fabric",
     "labels": [
       "velvet"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -102,18 +127,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Plush velvet. Prompt hint: made of plush velvet with a deep soft nap, rich saturated color and directional sheen"
+    "notes": "Description: Plush velvet. Prompt hint: made of plush velvet with a deep soft nap, rich saturated color and directional sheen",
+    "term_zh": "天鹅绒制",
+    "labels_zh": [
+      "材质",
+      "织物",
+      "天鹅绒制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960434+00:00"
   },
   {
     "id": "material_fabric_satin",
     "term": "made of satin",
-    "term_zh": "",
     "category": "material",
     "subcategory": "fabric",
     "labels": [
       "satin"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -123,18 +155,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Glossy satin. Prompt hint: made of glossy satin with a lustrous mirror-like surface and fluid draping folds"
+    "notes": "Description: Glossy satin. Prompt hint: made of glossy satin with a lustrous mirror-like surface and fluid draping folds",
+    "term_zh": "缎制",
+    "labels_zh": [
+      "材质",
+      "织物",
+      "缎制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960438+00:00"
   },
   {
     "id": "material_fabric_lace",
     "term": "made of lace",
-    "term_zh": "",
     "category": "material",
     "subcategory": "fabric",
     "labels": [
       "lace"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -144,18 +183,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Delicate patterned lace. Prompt hint: made of delicate patterned lace with intricate floral openwork and a fine translucent texture"
+    "notes": "Description: Delicate patterned lace. Prompt hint: made of delicate patterned lace with intricate floral openwork and a fine translucent texture",
+    "term_zh": "蕾丝制",
+    "labels_zh": [
+      "材质",
+      "织物",
+      "蕾丝制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960441+00:00"
   },
   {
     "id": "material_fabric_wool",
     "term": "made of wool",
-    "term_zh": "",
     "category": "material",
     "subcategory": "fabric",
     "labels": [
       "wool"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -165,18 +211,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Warm woven wool. Prompt hint: made of warm woven wool with a soft matte surface, visible fibers and a cozy textured feel"
+    "notes": "Description: Warm woven wool. Prompt hint: made of warm woven wool with a soft matte surface, visible fibers and a cozy textured feel",
+    "term_zh": "羊毛制",
+    "labels_zh": [
+      "材质",
+      "织物",
+      "羊毛制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960445+00:00"
   },
   {
     "id": "material_fabric_linen",
     "term": "made of linen",
-    "term_zh": "",
     "category": "material",
     "subcategory": "fabric",
     "labels": [
       "linen"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -186,18 +239,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Natural textured linen. Prompt hint: made of natural linen with a loose open weave, slight slubs and a slightly wrinkled airy drape"
+    "notes": "Description: Natural textured linen. Prompt hint: made of natural linen with a loose open weave, slight slubs and a slightly wrinkled airy drape",
+    "term_zh": "亚麻制",
+    "labels_zh": [
+      "材质",
+      "织物",
+      "亚麻制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960449+00:00"
   },
   {
     "id": "material_fabric_tweed",
     "term": "made of tweed",
-    "term_zh": "",
     "category": "material",
     "subcategory": "fabric",
     "labels": [
       "tweed"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -207,18 +267,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Rustic woven tweed. Prompt hint: made of rustic tweed with a flecked multi-color woven texture and a rough heritage feel"
+    "notes": "Description: Rustic woven tweed. Prompt hint: made of rustic tweed with a flecked multi-color woven texture and a rough heritage feel",
+    "term_zh": "粗花呢制",
+    "labels_zh": [
+      "材质",
+      "织物",
+      "粗花呢制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:12:11.029012+00:00"
   },
   {
     "id": "material_fabric_cashmere",
     "term": "made of cashmere",
-    "term_zh": "",
     "category": "material",
     "subcategory": "fabric",
     "labels": [
       "cashmere"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -228,18 +295,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Luxurious soft cashmere. Prompt hint: made of luxurious cashmere with an ultra-soft matte texture and a fine dense weave"
+    "notes": "Description: Luxurious soft cashmere. Prompt hint: made of luxurious cashmere with an ultra-soft matte texture and a fine dense weave",
+    "term_zh": "羊绒制",
+    "labels_zh": [
+      "材质",
+      "织物",
+      "羊绒制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960452+00:00"
   },
   {
     "id": "material_fabric_chiffon",
     "term": "made of chiffon",
-    "term_zh": "",
     "category": "material",
     "subcategory": "fabric",
     "labels": [
       "chiffon"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -249,18 +323,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Sheer flowing chiffon. Prompt hint: made of sheer chiffon with a lightweight floating drape, soft translucent layers and a gentle shimmer"
+    "notes": "Description: Sheer flowing chiffon. Prompt hint: made of sheer chiffon with a lightweight floating drape, soft translucent layers and a gentle shimmer",
+    "term_zh": "雪纺制",
+    "labels_zh": [
+      "材质",
+      "织物",
+      "雪纺制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960456+00:00"
   },
   {
     "id": "material_fabric_fur",
     "term": "made of fur",
-    "term_zh": "",
     "category": "material",
     "subcategory": "fabric",
     "labels": [
       "fur"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -270,18 +351,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Thick plush fur. Prompt hint: made of thick plush fur with long dense strands, natural variation and a soft directional flow"
+    "notes": "Description: Thick plush fur. Prompt hint: made of thick plush fur with long dense strands, natural variation and a soft directional flow",
+    "term_zh": "毛皮制",
+    "labels_zh": [
+      "材质",
+      "织物",
+      "毛皮制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960460+00:00"
   },
   {
     "id": "material_fabric_suede",
     "term": "made of suede",
-    "term_zh": "",
     "category": "material",
     "subcategory": "fabric",
     "labels": [
       "suede"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -291,18 +379,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Soft napped suede. Prompt hint: made of soft napped suede with a matte velvety surface, fine fuzzy texture and a warm leather feel"
+    "notes": "Description: Soft napped suede. Prompt hint: made of soft napped suede with a matte velvety surface, fine fuzzy texture and a warm leather feel",
+    "term_zh": "麂皮制",
+    "labels_zh": [
+      "材质",
+      "织物",
+      "麂皮制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:12:11.029025+00:00"
   },
   {
     "id": "material_fabric_mesh",
     "term": "made of sheer mesh fabric",
-    "term_zh": "",
     "category": "material",
     "subcategory": "fabric",
     "labels": [
       "mesh"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -312,18 +407,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: See-through net mesh. Prompt hint: made of see-through net mesh with an open woven grid, sheer transparency and an athletic technical feel"
+    "notes": "Description: See-through net mesh. Prompt hint: made of see-through net mesh with an open woven grid, sheer transparency and an athletic technical feel",
+    "term_zh": "薄纱制",
+    "labels_zh": [
+      "材质",
+      "织物",
+      "薄纱制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:12:11.029030+00:00"
   },
   {
     "id": "material_fabric_patent_leather",
     "term": "made of patent leather",
-    "term_zh": "",
     "category": "material",
     "subcategory": "fabric",
     "labels": [
       "patent-leather"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -333,18 +435,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: High-gloss patent leather. Prompt hint: made of high-gloss patent leather with a mirror-bright reflective surface, deep saturated color and a slick lacquered finish"
+    "notes": "Description: High-gloss patent leather. Prompt hint: made of high-gloss patent leather with a mirror-bright reflective surface, deep saturated color and a slick lacquered finish",
+    "term_zh": "漆皮制",
+    "labels_zh": [
+      "材质",
+      "织物",
+      "漆皮制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:12:11.029035+00:00"
   },
   {
     "id": "material_metal_gold",
     "term": "made of polished gold",
-    "term_zh": "",
     "category": "material",
     "subcategory": "metal",
     "labels": [
       "gold"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -354,18 +463,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Polished gold. Prompt hint: made of polished gold with a warm yellow metallic sheen and rich mirror-like reflections"
+    "notes": "Description: Polished gold. Prompt hint: made of polished gold with a warm yellow metallic sheen and rich mirror-like reflections",
+    "term_zh": "魔光金制",
+    "labels_zh": [
+      "材质",
+      "金属",
+      "魔光金制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960463+00:00"
   },
   {
     "id": "material_metal_silver",
     "term": "made of polished silver",
-    "term_zh": "",
     "category": "material",
     "subcategory": "metal",
     "labels": [
       "silver"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -375,18 +491,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Polished silver. Prompt hint: made of polished silver with a cool bright metallic sheen and clean mirror-like reflections"
+    "notes": "Description: Polished silver. Prompt hint: made of polished silver with a cool bright metallic sheen and clean mirror-like reflections",
+    "term_zh": "魔光银制",
+    "labels_zh": [
+      "材质",
+      "金属",
+      "魔光银制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960467+00:00"
   },
   {
     "id": "material_metal_bronze",
     "term": "made of patinated cast bronze",
-    "term_zh": "",
     "category": "material",
     "subcategory": "metal",
     "labels": [
       "bronze"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -396,18 +519,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Patinaed cast bronze. Prompt hint: made of cast bronze with a warm brown-gold metallic surface and a mottled greenish patina in the recesses"
+    "notes": "Description: Patinaed cast bronze. Prompt hint: made of cast bronze with a warm brown-gold metallic surface and a mottled greenish patina in the recesses",
+    "term_zh": "铜绿青铜制",
+    "labels_zh": [
+      "材质",
+      "金属",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960471+00:00"
   },
   {
     "id": "material_metal_chrome",
     "term": "made of polished chrome",
-    "term_zh": "",
     "category": "material",
     "subcategory": "metal",
     "labels": [
       "chrome"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -417,18 +546,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Hyper-reflective chrome. Prompt hint: made of hyper-reflective polished chrome with liquid mirror surfaces and sharp environmental reflections"
+    "notes": "Description: Hyper-reflective chrome. Prompt hint: made of hyper-reflective polished chrome with liquid mirror surfaces and sharp environmental reflections",
+    "term_zh": "魔光铬制",
+    "labels_zh": [
+      "材质",
+      "金属",
+      "魔光铬制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960474+00:00"
   },
   {
     "id": "material_metal_copper",
     "term": "made of patinated copper",
-    "term_zh": "",
     "category": "material",
     "subcategory": "metal",
     "labels": [
       "copper"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -438,18 +574,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Warm copper with patina. Prompt hint: made of warm copper with a rich rose-orange metallic gleam and touches of blue-green oxidation"
+    "notes": "Description: Warm copper with patina. Prompt hint: made of warm copper with a rich rose-orange metallic gleam and touches of blue-green oxidation",
+    "term_zh": "铜绿紫铜制",
+    "labels_zh": [
+      "材质",
+      "金属",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960478+00:00"
   },
   {
     "id": "material_metal_brass",
     "term": "made of antique brass",
-    "term_zh": "",
     "category": "material",
     "subcategory": "metal",
     "labels": [
       "brass"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -459,18 +601,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Antique brass. Prompt hint: made of antique brass with a warm yellow-gold hue, brushed texture and slight tarnish in the crevices"
+    "notes": "Description: Antique brass. Prompt hint: made of antique brass with a warm yellow-gold hue, brushed texture and slight tarnish in the crevices",
+    "term_zh": "古黄铜制",
+    "labels_zh": [
+      "材质",
+      "金属",
+      "古黄铜制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960481+00:00"
   },
   {
     "id": "material_metal_steel",
     "term": "made of brushed stainless steel",
-    "term_zh": "",
     "category": "material",
     "subcategory": "metal",
     "labels": [
       "steel"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -480,18 +629,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Brushed stainless steel. Prompt hint: made of brushed stainless steel with fine directional grain and cool soft reflections"
+    "notes": "Description: Brushed stainless steel. Prompt hint: made of brushed stainless steel with fine directional grain and cool soft reflections",
+    "term_zh": "魔拉丝不锈钢制",
+    "labels_zh": [
+      "材质",
+      "金属",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960485+00:00"
   },
   {
     "id": "material_metal_iron",
     "term": "made of wrought iron",
-    "term_zh": "",
     "category": "material",
     "subcategory": "metal",
     "labels": [
       "iron"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -501,18 +656,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Rough wrought iron. Prompt hint: made of rough wrought iron with a dark matte surface, hammered texture and traces of rust"
+    "notes": "Description: Rough wrought iron. Prompt hint: made of rough wrought iron with a dark matte surface, hammered texture and traces of rust",
+    "term_zh": "熟铁",
+    "labels_zh": [
+      "材质",
+      "金属",
+      "熟铁",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:55:59.123065+00:00"
   },
   {
     "id": "material_metal_platinum",
     "term": "made of polished platinum",
-    "term_zh": "",
     "category": "material",
     "subcategory": "metal",
     "labels": [
       "platinum"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -522,18 +684,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Lustrous platinum. Prompt hint: made of lustrous platinum with a cool white-grey metallic sheen and premium polished finish"
+    "notes": "Description: Lustrous platinum. Prompt hint: made of lustrous platinum with a cool white-grey metallic sheen and premium polished finish",
+    "term_zh": "魔光铂金制",
+    "labels_zh": [
+      "材质",
+      "金属",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:12:11.029040+00:00"
   },
   {
     "id": "material_metal_titanium",
     "term": "made of matte titanium",
-    "term_zh": "",
     "category": "material",
     "subcategory": "metal",
     "labels": [
       "titanium"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -543,18 +711,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Matte industrial titanium. Prompt hint: made of matte titanium with a cool silvery-grey surface, subtle anodized tints and an industrial precision finish"
+    "notes": "Description: Matte industrial titanium. Prompt hint: made of matte titanium with a cool silvery-grey surface, subtle anodized tints and an industrial precision finish",
+    "term_zh": "哑光钛制",
+    "labels_zh": [
+      "材质",
+      "金属",
+      "哑光钛制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:12:11.029044+00:00"
   },
   {
     "id": "material_stone_marble",
     "term": "made of polished marble",
-    "term_zh": "",
     "category": "material",
     "subcategory": "stone",
     "labels": [
       "marble"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -564,18 +739,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: White marble with veins. Prompt hint: made of polished white marble with grey-blue veining, a smooth glossy surface and classical elegance"
+    "notes": "Description: White marble with veins. Prompt hint: made of polished white marble with grey-blue veining, a smooth glossy surface and classical elegance",
+    "term_zh": "魔光大理石制",
+    "labels_zh": [
+      "材质",
+      "石材",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960489+00:00"
   },
   {
     "id": "material_stone_granite",
     "term": "made of polished granite",
-    "term_zh": "",
     "category": "material",
     "subcategory": "stone",
     "labels": [
       "granite"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -585,18 +766,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Speckled polished granite. Prompt hint: made of polished granite with a speckled grey-black crystalline surface and a cool glossy finish"
+    "notes": "Description: Speckled polished granite. Prompt hint: made of polished granite with a speckled grey-black crystalline surface and a cool glossy finish",
+    "term_zh": "魔光花岗岩制",
+    "labels_zh": [
+      "材质",
+      "石材",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960492+00:00"
   },
   {
     "id": "material_stone_obsidian",
     "term": "made of polished obsidian",
-    "term_zh": "",
     "category": "material",
     "subcategory": "stone",
     "labels": [
       "obsidian"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -606,18 +793,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Glossy black obsidian. Prompt hint: made of polished black obsidian with a deep glassy surface, subtle rainbow flecks and razor-sharp highlights"
+    "notes": "Description: Glossy black obsidian. Prompt hint: made of polished black obsidian with a deep glassy surface, subtle rainbow flecks and razor-sharp highlights",
+    "term_zh": "魔光黑曜石制",
+    "labels_zh": [
+      "材质",
+      "石材",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960495+00:00"
   },
   {
     "id": "material_stone_sandstone",
     "term": "made of weathered sandstone",
-    "term_zh": "",
     "category": "material",
     "subcategory": "stone",
     "labels": [
       "sandstone"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -627,18 +820,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Warm layered sandstone. Prompt hint: made of warm weathered sandstone with horizontal layered striations, soft ochre tones and a rough grainy surface"
+    "notes": "Description: Warm layered sandstone. Prompt hint: made of warm weathered sandstone with horizontal layered striations, soft ochre tones and a rough grainy surface",
+    "term_zh": "风化砂岩制",
+    "labels_zh": [
+      "材质",
+      "石材",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960499+00:00"
   },
   {
     "id": "material_stone_slate",
     "term": "made of slate",
-    "term_zh": "",
     "category": "material",
     "subcategory": "stone",
     "labels": [
       "slate"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -648,18 +847,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Dark flat slate. Prompt hint: made of dark slate with flat matte grey-blue surfaces, subtle cleavage lines and a cool sedimentary texture"
+    "notes": "Description: Dark flat slate. Prompt hint: made of dark slate with flat matte grey-blue surfaces, subtle cleavage lines and a cool sedimentary texture",
+    "term_zh": "板岩制",
+    "labels_zh": [
+      "材质",
+      "石材",
+      "板岩制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960502+00:00"
   },
   {
     "id": "material_stone_jade",
     "term": "made of polished jade",
-    "term_zh": "",
     "category": "material",
     "subcategory": "stone",
     "labels": [
       "jade"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -669,18 +875,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Translucent green jade. Prompt hint: made of polished jade with a translucent green glow, fine internal veining and a smooth waxy surface"
+    "notes": "Description: Translucent green jade. Prompt hint: made of polished jade with a translucent green glow, fine internal veining and a smooth waxy surface",
+    "term_zh": "魔光玉制",
+    "labels_zh": [
+      "材质",
+      "石材",
+      "魔光玉制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960506+00:00"
   },
   {
     "id": "material_stone_onyx",
     "term": "made of polished onyx",
-    "term_zh": "",
     "category": "material",
     "subcategory": "stone",
     "labels": [
       "onyx"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -690,18 +903,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Banded polished onyx. Prompt hint: made of polished onyx with dramatic black-and-white banding, translucent depth and a glossy finish"
+    "notes": "Description: Banded polished onyx. Prompt hint: made of polished onyx with dramatic black-and-white banding, translucent depth and a glossy finish",
+    "term_zh": "魔光红木制",
+    "labels_zh": [
+      "材质",
+      "石材",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:17:00.035469+00:00"
   },
   {
     "id": "material_stone_concrete",
     "term": "made of cast concrete",
-    "term_zh": "",
     "category": "material",
     "subcategory": "stone",
     "labels": [
       "concrete"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -711,18 +930,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Cast industrial concrete. Prompt hint: made of cast concrete with a rough grey surface, visible formwork lines, scattered aggregate and an industrial brutalist feel"
+    "notes": "Description: Cast industrial concrete. Prompt hint: made of cast concrete with a rough grey surface, visible formwork lines, scattered aggregate and an industrial brutalist feel",
+    "term_zh": "混泥土制",
+    "labels_zh": [
+      "材质",
+      "石材",
+      "混泥土制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960510+00:00"
   },
   {
     "id": "material_stone_terrazzo",
     "term": "made of polished terrazzo",
-    "term_zh": "",
     "category": "material",
     "subcategory": "stone",
     "labels": [
       "terrazzo"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -732,18 +958,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Composite terrazzo with chips. Prompt hint: made of polished terrazzo with embedded marble and glass chips suspended in a smooth cement matrix, a mid-century speckled surface and a glossy finish"
+    "notes": "Description: Composite terrazzo with chips. Prompt hint: made of polished terrazzo with embedded marble and glass chips suspended in a smooth cement matrix, a mid-century speckled surface and a glossy finish",
+    "term_zh": "魔光水磨石制",
+    "labels_zh": [
+      "材质",
+      "石材",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:12:11.029049+00:00"
   },
   {
     "id": "material_wood_oak",
     "term": "made of oak",
-    "term_zh": "",
     "category": "material",
     "subcategory": "wood",
     "labels": [
       "oak"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -753,18 +985,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Rich grained oak. Prompt hint: made of rich grained oak with warm honey-brown tones, strong vertical grain lines and a satin finish"
+    "notes": "Description: Rich grained oak. Prompt hint: made of rich grained oak with warm honey-brown tones, strong vertical grain lines and a satin finish",
+    "term_zh": "橡木制",
+    "labels_zh": [
+      "材质",
+      "木材",
+      "橡木制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960513+00:00"
   },
   {
     "id": "material_wood_mahogany",
     "term": "made of polished mahogany",
-    "term_zh": "",
     "category": "material",
     "subcategory": "wood",
     "labels": [
       "mahogany"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -774,18 +1013,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Deep red mahogany. Prompt hint: made of polished mahogany with a deep reddish-brown tone, tight swirling grain and a glossy heirloom finish"
+    "notes": "Description: Deep red mahogany. Prompt hint: made of polished mahogany with a deep reddish-brown tone, tight swirling grain and a glossy heirloom finish",
+    "term_zh": "魔光红木制",
+    "labels_zh": [
+      "材质",
+      "木材",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960517+00:00"
   },
   {
     "id": "material_wood_walnut",
     "term": "made of walnut",
-    "term_zh": "",
     "category": "material",
     "subcategory": "wood",
     "labels": [
       "walnut"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -795,18 +1040,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Dark walnut. Prompt hint: made of walnut with deep chocolate-brown tones, flowing grain patterns and a soft satin sheen"
+    "notes": "Description: Dark walnut. Prompt hint: made of walnut with deep chocolate-brown tones, flowing grain patterns and a soft satin sheen",
+    "term_zh": "胡桃木制",
+    "labels_zh": [
+      "材质",
+      "木材",
+      "胡桃木制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960520+00:00"
   },
   {
     "id": "material_wood_bamboo",
     "term": "made of bamboo",
-    "term_zh": "",
     "category": "material",
     "subcategory": "wood",
     "labels": [
       "bamboo"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -816,18 +1068,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Light segmented bamboo. Prompt hint: made of pale bamboo with visible horizontal node segments, clean vertical grain and a light natural finish"
+    "notes": "Description: Light segmented bamboo. Prompt hint: made of pale bamboo with visible horizontal node segments, clean vertical grain and a light natural finish",
+    "term_zh": "竹制",
+    "labels_zh": [
+      "材质",
+      "木材",
+      "竹制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960524+00:00"
   },
   {
     "id": "material_wood_birch",
     "term": "made of birch",
-    "term_zh": "",
     "category": "material",
     "subcategory": "wood",
     "labels": [
       "birch"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -837,18 +1096,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Pale smooth birch. Prompt hint: made of pale birch with fine close grain, a smooth cream-white surface and subtle warmth"
+    "notes": "Description: Pale smooth birch. Prompt hint: made of pale birch with fine close grain, a smooth cream-white surface and subtle warmth",
+    "term_zh": "桦木制",
+    "labels_zh": [
+      "材质",
+      "木材",
+      "桦木制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960528+00:00"
   },
   {
     "id": "material_wood_driftwood",
     "term": "made of weathered driftwood",
-    "term_zh": "",
     "category": "material",
     "subcategory": "wood",
     "labels": [
       "driftwood"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -858,18 +1124,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Weathered driftwood. Prompt hint: made of weathered driftwood with silver-grey sun-bleached surfaces, smoothed edges and a raw organic texture"
+    "notes": "Description: Weathered driftwood. Prompt hint: made of weathered driftwood with silver-grey sun-bleached surfaces, smoothed edges and a raw organic texture",
+    "term_zh": "风化漂流木制",
+    "labels_zh": [
+      "材质",
+      "木材",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960531+00:00"
   },
   {
-    "id": "material_glass-ceramic_glass",
+    "id": "material_glass_ceramic_glass",
     "term": "made of clear glass",
-    "term_zh": "",
     "category": "material",
     "subcategory": "glass-ceramic",
     "labels": [
       "glass"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -879,18 +1151,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Clear transparent glass. Prompt hint: made of clear transparent glass with sharp refracted highlights, crisp edge caustics and subtle internal reflections"
+    "notes": "Description: Clear transparent glass. Prompt hint: made of clear transparent glass with sharp refracted highlights, crisp edge caustics and subtle internal reflections",
+    "term_zh": "透明玻璃制",
+    "labels_zh": [
+      "材质",
+      "玻璃陶瓷",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960535+00:00"
   },
   {
-    "id": "material_glass-ceramic_stained_glass",
+    "id": "material_glass_ceramic_stained_glass",
     "term": "made of stained glass",
-    "term_zh": "",
     "category": "material",
     "subcategory": "glass-ceramic",
     "labels": [
       "stained-glass"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -900,18 +1178,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Jewel-toned stained glass. Prompt hint: made of stained glass with jewel-toned panels, dark lead caming and vibrant light filtering through saturated color"
+    "notes": "Description: Jewel-toned stained glass. Prompt hint: made of stained glass with jewel-toned panels, dark lead caming and vibrant light filtering through saturated color",
+    "term_zh": "彩绘玻璃制",
+    "labels_zh": [
+      "材质",
+      "玻璃陶瓷",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960538+00:00"
   },
   {
-    "id": "material_glass-ceramic_crystal",
+    "id": "material_glass_ceramic_crystal",
     "term": "made of faceted crystal",
-    "term_zh": "",
     "category": "material",
     "subcategory": "glass-ceramic",
     "labels": [
       "crystal"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -921,18 +1205,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Faceted clear crystal. Prompt hint: made of faceted clear crystal with sharp prismatic facets, rainbow caustics and brilliant internal reflections"
+    "notes": "Description: Faceted clear crystal. Prompt hint: made of faceted clear crystal with sharp prismatic facets, rainbow caustics and brilliant internal reflections",
+    "term_zh": "多面水晶制",
+    "labels_zh": [
+      "材质",
+      "玻璃陶瓷",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960542+00:00"
   },
   {
-    "id": "material_glass-ceramic_porcelain",
+    "id": "material_glass_ceramic_porcelain",
     "term": "made of porcelain",
-    "term_zh": "",
     "category": "material",
     "subcategory": "glass-ceramic",
     "labels": [
       "porcelain"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -942,18 +1232,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Smooth white porcelain. Prompt hint: made of smooth white porcelain with a soft satin glaze, delicate translucency and a fine ceramic finish"
+    "notes": "Description: Smooth white porcelain. Prompt hint: made of smooth white porcelain with a soft satin glaze, delicate translucency and a fine ceramic finish",
+    "term_zh": "瓷器制",
+    "labels_zh": [
+      "材质",
+      "玻璃陶瓷",
+      "瓷器制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960545+00:00"
   },
   {
-    "id": "material_glass-ceramic_ceramic_glazed",
+    "id": "material_glass_ceramic_ceramic_glazed",
     "term": "made of glazed ceramic",
-    "term_zh": "",
     "category": "material",
     "subcategory": "glass-ceramic",
     "labels": [
       "ceramic-glazed"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -963,18 +1260,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Earthy glazed ceramic. Prompt hint: made of glazed ceramic with warm earth tones, a glossy vitrified surface and subtle kiln-fired variation"
+    "notes": "Description: Earthy glazed ceramic. Prompt hint: made of glazed ceramic with warm earth tones, a glossy vitrified surface and subtle kiln-fired variation",
+    "term_zh": "釉陶瓷制",
+    "labels_zh": [
+      "材质",
+      "玻璃陶瓷",
+      "釉陶瓷制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960549+00:00"
   },
   {
-    "id": "material_glass-ceramic_terracotta",
+    "id": "material_glass_ceramic_terracotta",
     "term": "made of unglazed terracotta",
-    "term_zh": "",
     "category": "material",
     "subcategory": "glass-ceramic",
     "labels": [
       "terracotta"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -984,18 +1288,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Warm unglazed terracotta. Prompt hint: made of unglazed terracotta with a warm orange-brown matte surface, fine clay texture and a rustic handmade feel"
+    "notes": "Description: Warm unglazed terracotta. Prompt hint: made of unglazed terracotta with a warm orange-brown matte surface, fine clay texture and a rustic handmade feel",
+    "term_zh": "无釉陶土制",
+    "labels_zh": [
+      "材质",
+      "玻璃陶瓷",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960552+00:00"
   },
   {
     "id": "material_natural_water",
     "term": "made of flowing water",
-    "term_zh": "",
     "category": "material",
     "subcategory": "natural",
     "labels": [
       "water"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1005,18 +1315,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Flowing translucent water. Prompt hint: made of flowing translucent water with dynamic refractions, moving highlights and rippled internal caustics"
+    "notes": "Description: Flowing translucent water. Prompt hint: made of flowing translucent water with dynamic refractions, moving highlights and rippled internal caustics",
+    "term_zh": "流水制",
+    "labels_zh": [
+      "材质",
+      "天然",
+      "流水制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960556+00:00"
   },
   {
     "id": "material_natural_fire",
     "term": "made of living flame",
-    "term_zh": "",
     "category": "material",
     "subcategory": "natural",
     "labels": [
       "fire"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1026,18 +1343,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Living flame. Prompt hint: made of living flame with dancing orange-yellow tongues, glowing ember cores and wisps of drifting smoke"
+    "notes": "Description: Living flame. Prompt hint: made of living flame with dancing orange-yellow tongues, glowing ember cores and wisps of drifting smoke",
+    "term_zh": "活焰制",
+    "labels_zh": [
+      "材质",
+      "天然",
+      "活焰制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960560+00:00"
   },
   {
     "id": "material_natural_ice",
     "term": "made of crystalline ice",
-    "term_zh": "",
     "category": "material",
     "subcategory": "natural",
     "labels": [
       "ice"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1047,18 +1371,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Translucent crystalline ice. Prompt hint: made of translucent crystalline ice with internal fractures, cool blue highlights and a frosted glossy surface"
+    "notes": "Description: Translucent crystalline ice. Prompt hint: made of translucent crystalline ice with internal fractures, cool blue highlights and a frosted glossy surface",
+    "term_zh": "结晶冰制",
+    "labels_zh": [
+      "材质",
+      "天然",
+      "结晶冰制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960563+00:00"
   },
   {
     "id": "material_natural_smoke",
     "term": "made of drifting smoke",
-    "term_zh": "",
     "category": "material",
     "subcategory": "natural",
     "labels": [
       "smoke"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1068,18 +1399,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Drifting ethereal smoke. Prompt hint: made of drifting ethereal smoke with soft volumetric wisps, translucent layers and a slow hypnotic flow"
+    "notes": "Description: Drifting ethereal smoke. Prompt hint: made of drifting ethereal smoke with soft volumetric wisps, translucent layers and a slow hypnotic flow",
+    "term_zh": "漂烟制",
+    "labels_zh": [
+      "材质",
+      "天然",
+      "漂烟制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960567+00:00"
   },
   {
     "id": "material_natural_sand",
     "term": "made of fine sand",
-    "term_zh": "",
     "category": "material",
     "subcategory": "natural",
     "labels": [
       "sand"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1089,18 +1427,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Fine granular sand. Prompt hint: made of fine granular sand with a soft golden matte surface, subtle grain texture and gentle shifting edges"
+    "notes": "Description: Fine granular sand. Prompt hint: made of fine granular sand with a soft golden matte surface, subtle grain texture and gentle shifting edges",
+    "term_zh": "细沙制",
+    "labels_zh": [
+      "材质",
+      "天然",
+      "细沙制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960570+00:00"
   },
   {
     "id": "material_natural_moss",
     "term": "made of living moss",
-    "term_zh": "",
     "category": "material",
     "subcategory": "natural",
     "labels": [
       "moss"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1110,18 +1455,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Lush living moss. Prompt hint: made of lush living moss with a soft velvety green surface, fine plant texture and an organic overgrown feel"
+    "notes": "Description: Lush living moss. Prompt hint: made of lush living moss with a soft velvety green surface, fine plant texture and an organic overgrown feel",
+    "term_zh": "活苔制",
+    "labels_zh": [
+      "材质",
+      "天然",
+      "活苔制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960574+00:00"
   },
   {
     "id": "material_natural_leaves",
     "term": "made of layered plant leaves",
-    "term_zh": "",
     "category": "material",
     "subcategory": "natural",
     "labels": [
       "leaves"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1131,18 +1483,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Layered plant leaves. Prompt hint: made of layered plant leaves with overlapping green foliage, visible veining and a natural dappled texture"
+    "notes": "Description: Layered plant leaves. Prompt hint: made of layered plant leaves with overlapping green foliage, visible veining and a natural dappled texture",
+    "term_zh": "层叠植物叶制",
+    "labels_zh": [
+      "材质",
+      "天然",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960577+00:00"
   },
   {
     "id": "material_exotic_holographic",
     "term": "made of holographic iridescent material",
-    "term_zh": "",
     "category": "material",
     "subcategory": "exotic",
     "labels": [
       "holographic"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1152,18 +1510,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Iridescent hologram. Prompt hint: made of holographic iridescent material with shifting rainbow sheen, prismatic highlights and a futuristic shimmer"
+    "notes": "Description: Iridescent hologram. Prompt hint: made of holographic iridescent material with shifting rainbow sheen, prismatic highlights and a futuristic shimmer",
+    "term_zh": "全息彩虹色材料制",
+    "labels_zh": [
+      "材质",
+      " exotic",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960581+00:00"
   },
   {
     "id": "material_exotic_liquid_metal",
     "term": "made of liquid metal",
-    "term_zh": "",
     "category": "material",
     "subcategory": "exotic",
     "labels": [
       "liquid-metal"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1173,18 +1537,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Reflective liquid chrome. Prompt hint: made of reflective liquid metal with a flowing mercury-like chrome surface, seamless reflections and metallic pooling highlights"
+    "notes": "Description: Reflective liquid chrome. Prompt hint: made of reflective liquid metal with a flowing mercury-like chrome surface, seamless reflections and metallic pooling highlights",
+    "term_zh": "液态金属制",
+    "labels_zh": [
+      "材质",
+      " exotic",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960584+00:00"
   },
   {
     "id": "material_exotic_neon",
     "term": "made of glowing neon tubing",
-    "term_zh": "",
     "category": "material",
     "subcategory": "exotic",
     "labels": [
       "neon"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1194,18 +1564,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Glowing neon tubing. Prompt hint: made of glowing neon tubing with saturated magenta and cyan light, a soft halo glow and a cybernetic futuristic feel"
+    "notes": "Description: Glowing neon tubing. Prompt hint: made of glowing neon tubing with saturated magenta and cyan light, a soft halo glow and a cybernetic futuristic feel",
+    "term_zh": "霓虹发光管制",
+    "labels_zh": [
+      "材质",
+      " exotic",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960588+00:00"
   },
   {
     "id": "material_exotic_translucent",
     "term": "made of translucent resin",
-    "term_zh": "",
     "category": "material",
     "subcategory": "exotic",
     "labels": [
       "translucent"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1215,18 +1591,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Frosted glowing resin. Prompt hint: made of frosted translucent resin with soft internal glow, milky subsurface scattering and a smooth cast finish"
+    "notes": "Description: Frosted glowing resin. Prompt hint: made of frosted translucent resin with soft internal glow, milky subsurface scattering and a smooth cast finish",
+    "term_zh": "半透明树脂制",
+    "labels_zh": [
+      "材质",
+      " exotic",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960591+00:00"
   },
   {
     "id": "material_exotic_subsurface",
     "term": "made of translucent subsurface-scattering material",
-    "term_zh": "",
     "category": "material",
     "subcategory": "exotic",
     "labels": [
       "subsurface"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1236,18 +1618,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Light glows beneath the surface. Prompt hint: made of a soft translucent material with pronounced subsurface scattering, light penetrating beneath the surface and glowing warmly from within"
+    "notes": "Description: Light glows beneath the surface. Prompt hint: made of a soft translucent material with pronounced subsurface scattering, light penetrating beneath the surface and glowing warmly from within",
+    "term_zh": "半透次表面散射材质制",
+    "labels_zh": [
+      "材质",
+      " exotic",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960595+00:00"
   },
   {
     "id": "material_exotic_mirror",
     "term": "made of perfect mirror surface",
-    "term_zh": "",
     "category": "material",
     "subcategory": "exotic",
     "labels": [
       "mirror"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1257,18 +1645,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Perfect mirror surface. Prompt hint: made of perfect mirror surface with flawless reflections, no tint and razor-sharp reflected detail"
+    "notes": "Description: Perfect mirror surface. Prompt hint: made of perfect mirror surface with flawless reflections, no tint and razor-sharp reflected detail",
+    "term_zh": "完美镜面制",
+    "labels_zh": [
+      "材质",
+      " exotic",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960598+00:00"
   },
   {
     "id": "material_exotic_plasma",
     "term": "made of glowing electric plasma",
-    "term_zh": "",
     "category": "material",
     "subcategory": "exotic",
     "labels": [
       "plasma"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1278,18 +1672,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Glowing electric plasma. Prompt hint: made of glowing electric plasma with arcing internal bolts, a radiant violet-pink core and a haze of ionized energy"
+    "notes": "Description: Glowing electric plasma. Prompt hint: made of glowing electric plasma with arcing internal bolts, a radiant violet-pink core and a haze of ionized energy",
+    "term_zh": "磁电等离子体制",
+    "labels_zh": [
+      "材质",
+      " exotic",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960601+00:00"
   },
   {
     "id": "material_exotic_crystal_shard",
     "term": "made of fractured glowing crystal shards",
-    "term_zh": "",
     "category": "material",
     "subcategory": "exotic",
     "labels": [
       "crystal-shard"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1299,18 +1699,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Shattered glowing crystal. Prompt hint: made of fractured glowing crystal shards with sharp prismatic facets, internal luminescence and dynamic rainbow refraction"
+    "notes": "Description: Shattered glowing crystal. Prompt hint: made of fractured glowing crystal shards with sharp prismatic facets, internal luminescence and dynamic rainbow refraction",
+    "term_zh": "碎裂发光水晶制",
+    "labels_zh": [
+      "材质",
+      " exotic",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960605+00:00"
   },
   {
     "id": "material_exotic_obsidian_glass",
     "term": "made of dark volcanic obsidian glass",
-    "term_zh": "",
     "category": "material",
     "subcategory": "exotic",
     "labels": [
       "obsidian-glass"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1320,18 +1726,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Dark volcanic glass. Prompt hint: made of dark obsidian volcanic glass with a glossy black surface, razor-sharp edges and subtle iridescent highlights"
+    "notes": "Description: Dark volcanic glass. Prompt hint: made of dark obsidian volcanic glass with a glossy black surface, razor-sharp edges and subtle iridescent highlights",
+    "term_zh": "火山黑曜玻璃制",
+    "labels_zh": [
+      "材质",
+      " exotic",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960608+00:00"
   },
   {
     "id": "material_exotic_iridescent",
     "term": "made of iridescent color-shifting material",
-    "term_zh": "",
     "category": "material",
     "subcategory": "exotic",
     "labels": [
       "iridescent"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1341,18 +1753,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Color-shifting iridescent surface. Prompt hint: made of iridescent rainbow-shifting surface, the kind of color play seen on oil slicks, butterfly wings and mother-of-pearl, with hues that shift as the angle changes"
+    "notes": "Description: Color-shifting iridescent surface. Prompt hint: made of iridescent rainbow-shifting surface, the kind of color play seen on oil slicks, butterfly wings and mother-of-pearl, with hues that shift as the angle changes",
+    "term_zh": "彩虹变色材料制",
+    "labels_zh": [
+      "材质",
+      " exotic",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960612+00:00"
   },
   {
     "id": "material_exotic_mother_of_pearl",
     "term": "made of mother-of-pearl",
-    "term_zh": "",
     "category": "material",
     "subcategory": "exotic",
     "labels": [
       "mother-of-pearl"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1362,18 +1780,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Pearlescent inner shell layer. Prompt hint: made of mother-of-pearl with a pearlescent cream surface, soft iridescent shimmer and the layered nacre depth seen in inlay work and fine jewelry"
+    "notes": "Description: Pearlescent inner shell layer. Prompt hint: made of mother-of-pearl with a pearlescent cream surface, soft iridescent shimmer and the layered nacre depth seen in inlay work and fine jewelry",
+    "term_zh": "珠母贝制",
+    "labels_zh": [
+      "材质",
+      " exotic",
+      "珠母贝制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960615+00:00"
   },
   {
     "id": "material_exotic_carbon_fiber",
     "term": "made of woven carbon fiber",
-    "term_zh": "",
     "category": "material",
     "subcategory": "exotic",
     "labels": [
       "carbon-fiber"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1383,18 +1808,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Woven black carbon-fiber composite. Prompt hint: made of woven carbon-fiber composite with a glossy black checkered weave pattern, a hi-tech aerospace feel and subtle directional sheen"
+    "notes": "Description: Woven black carbon-fiber composite. Prompt hint: made of woven carbon-fiber composite with a glossy black checkered weave pattern, a hi-tech aerospace feel and subtle directional sheen",
+    "term_zh": "碳纤维",
+    "labels_zh": [
+      "材质",
+      " exotic",
+      "碳纤维",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:55:59.123077+00:00"
   },
   {
     "id": "material_exotic_holographic_film",
     "term": "made of holographic film",
-    "term_zh": "",
     "category": "material",
     "subcategory": "exotic",
     "labels": [
       "holographic-film"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1404,6 +1836,15 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Light-refracting holographic film. Prompt hint: made of light-refracting holographic film with a thin reflective sheet surface, prismatic rainbow shimmer and shifting spectral highlights as the angle changes"
+    "notes": "Description: Light-refracting holographic film. Prompt hint: made of light-refracting holographic film with a thin reflective sheet surface, prismatic rainbow shimmer and shifting spectral highlights as the angle changes",
+    "term_zh": "全息膜制",
+    "labels_zh": [
+      "材质",
+      " exotic",
+      "全息膜制",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.960619+00:00"
   }
 ]

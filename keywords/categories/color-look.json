@@ -1,14 +1,12 @@
 [
   {
-    "id": "color-look_palette_warm",
+    "id": "color_look_palette_warm",
     "term": "warm color grade",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "palette",
     "labels": [
       "warm"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -18,18 +16,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Warm orange/red tones. Prompt hint: warm color palette, orange and red tones throughout the image with golden highlights"
+    "notes": "Description: Warm orange/red tones. Prompt hint: warm color palette, orange and red tones throughout the image with golden highlights",
+    "term_zh": "暖色调色",
+    "labels_zh": [
+      "色彩",
+      "调色板",
+      "暖色调色",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.939926+00:00"
   },
   {
-    "id": "color-look_palette_cool",
+    "id": "color_look_palette_cool",
     "term": "cool color grade",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "palette",
     "labels": [
       "cool"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -39,18 +44,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Cool blue/teal tones. Prompt hint: cool color palette, blue and teal tones throughout the image with subdued warm accents"
+    "notes": "Description: Cool blue/teal tones. Prompt hint: cool color palette, blue and teal tones throughout the image with subdued warm accents",
+    "term_zh": "冷色调色",
+    "labels_zh": [
+      "色彩",
+      "调色板",
+      "冷色调色",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.939937+00:00"
   },
   {
-    "id": "color-look_palette_teal_orange",
+    "id": "color_look_palette_teal_orange",
     "term": "teal and orange grade",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "palette",
     "labels": [
       "teal-orange"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -60,18 +72,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Hollywood complementary grade. Prompt hint: teal and orange color grade, warm skin tones against cool teal shadows, Hollywood blockbuster look"
+    "notes": "Description: Hollywood complementary grade. Prompt hint: teal and orange color grade, warm skin tones against cool teal shadows, Hollywood blockbuster look",
+    "term_zh": "青橙调色",
+    "labels_zh": [
+      "色彩",
+      "调色板",
+      "青橙调色",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.939941+00:00"
   },
   {
-    "id": "color-look_palette_split_toning",
+    "id": "color_look_palette_split_toning",
     "term": "split-toning color grade",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "palette",
     "labels": [
       "split-toning"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -81,18 +100,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Cool shadows, warm highlights. Prompt hint: split-toning color grade, cool blue-green tinted shadows paired with warm amber highlights, nuanced tonal separation distinct from a flat teal-orange wash"
+    "notes": "Description: Cool shadows, warm highlights. Prompt hint: split-toning color grade, cool blue-green tinted shadows paired with warm amber highlights, nuanced tonal separation distinct from a flat teal-orange wash",
+    "term_zh": "分调色",
+    "labels_zh": [
+      "色彩",
+      "调色板",
+      "分调色",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.939945+00:00"
   },
   {
-    "id": "color-look_palette_selective_color",
+    "id": "color_look_palette_selective_color",
     "term": "selective color treatment",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "palette",
     "labels": [
       "selective-color"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -102,18 +128,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: B&W with one accent color. Prompt hint: selective color treatment, image rendered nearly monochromatic black-and-white with a single accent hue (such as red lipstick or a red dress) preserved in full saturation against the desaturated frame"
+    "notes": "Description: B&W with one accent color. Prompt hint: selective color treatment, image rendered nearly monochromatic black-and-white with a single accent hue (such as red lipstick or a red dress) preserved in full saturation against the desaturated frame",
+    "term_zh": "选择性调色",
+    "labels_zh": [
+      "色彩",
+      "调色板",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.939949+00:00"
   },
   {
-    "id": "color-look_palette_faded_matte",
+    "id": "color_look_palette_faded_matte",
     "term": "faded matte grade",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "palette",
     "labels": [
       "faded-matte"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -123,18 +155,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Lifted blacks, milky low-contrast. Prompt hint: faded matte color grade, lifted blacks and milky low-contrast shadows with soft hazy highlights, flat Instagram-soft aesthetic with reduced dynamic range"
+    "notes": "Description: Lifted blacks, milky low-contrast. Prompt hint: faded matte color grade, lifted blacks and milky low-contrast shadows with soft hazy highlights, flat Instagram-soft aesthetic with reduced dynamic range",
+    "term_zh": "褪色雾面调色",
+    "labels_zh": [
+      "色彩",
+      "调色板",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.939953+00:00"
   },
   {
-    "id": "color-look_palette_log_flat",
+    "id": "color_look_palette_log_flat",
     "term": "flat ungraded log footage",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "palette",
     "labels": [
       "log-flat"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -144,18 +182,26 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Pre-grade S-Log/V-Log neutral. Prompt hint: log-flat ungraded footage look, washed-out neutral S-Log or V-Log appearance with low contrast and desaturated muddy mids before any creative color grading is applied"
+    "notes": "Description: Pre-grade S-Log/V-Log neutral. Prompt hint: log-flat ungraded footage look, washed-out neutral S-Log or V-Log appearance with low contrast and desaturated muddy mids before any creative color grading is applied",
+    "term_zh": "平调未调色 log 素材",
+    "labels_zh": [
+      "色彩",
+      "调色板",
+      "log",
+      "素材",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.939958+00:00"
   },
   {
-    "id": "color-look_palette_desaturated",
+    "id": "color_look_palette_desaturated",
     "term": "desaturated color grade",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "palette",
     "labels": [
       "desaturated"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -165,18 +211,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Low saturation, muted. Prompt hint: desaturated color grading, muted low-saturation tones throughout, almost monochromatic feel"
+    "notes": "Description: Low saturation, muted. Prompt hint: desaturated color grading, muted low-saturation tones throughout, almost monochromatic feel",
+    "term_zh": "去饱和调色",
+    "labels_zh": [
+      "色彩",
+      "调色板",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.939962+00:00"
   },
   {
-    "id": "color-look_palette_monochrome_bw",
+    "id": "color_look_palette_monochrome_bw",
     "term": "black and white",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "palette",
     "labels": [
       "monochrome-bw"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -186,18 +238,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Pure black and white. Prompt hint: monochrome black and white, pure grayscale image with no color information"
+    "notes": "Description: Pure black and white. Prompt hint: monochrome black and white, pure grayscale image with no color information",
+    "term_zh": "黑白",
+    "labels_zh": [
+      "色彩",
+      "调色板",
+      "黑白",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.939965+00:00"
   },
   {
-    "id": "color-look_palette_sepia",
+    "id": "color_look_palette_sepia",
     "term": "sepia tone",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "palette",
     "labels": [
       "sepia"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -207,18 +266,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Vintage brown tone. Prompt hint: sepia toned image, warm brown vintage monochrome with classic photographic feel"
+    "notes": "Description: Vintage brown tone. Prompt hint: sepia toned image, warm brown vintage monochrome with classic photographic feel",
+    "term_zh": "深褐色调",
+    "labels_zh": [
+      "色彩",
+      "调色板",
+      "深褐色调",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.939969+00:00"
   },
   {
-    "id": "color-look_palette_pastel",
+    "id": "color_look_palette_pastel",
     "term": "pastel color palette",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "palette",
     "labels": [
       "pastel"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -228,18 +294,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Soft, low-contrast pastels. Prompt hint: pastel color palette, soft low-contrast pastel hues with light airy tones"
+    "notes": "Description: Soft, low-contrast pastels. Prompt hint: pastel color palette, soft low-contrast pastel hues with light airy tones",
+    "term_zh": "粉彩调色板",
+    "labels_zh": [
+      "色彩",
+      "调色板",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.434609+00:00"
   },
   {
-    "id": "color-look_palette_high_contrast",
+    "id": "color_look_palette_high_contrast",
     "term": "high contrast color grade",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "palette",
     "labels": [
       "high-contrast"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -249,18 +321,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Punchy contrast, deep blacks. Prompt hint: high contrast color grade, punchy saturated colors with crushed deep blacks and bright highlights"
+    "notes": "Description: Punchy contrast, deep blacks. Prompt hint: high contrast color grade, punchy saturated colors with crushed deep blacks and bright highlights",
+    "term_zh": "高对比度色彩分级",
+    "labels_zh": [
+      "色彩",
+      "调色板",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.434625+00:00"
   },
   {
-    "id": "color-look_palette_vibrant",
+    "id": "color_look_palette_vibrant",
     "term": "vibrant saturated color palette",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "palette",
     "labels": [
       "vibrant"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -270,18 +348,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Highly saturated colors. Prompt hint: vibrant saturated color palette, bold rich colors with high saturation throughout"
+    "notes": "Description: Highly saturated colors. Prompt hint: vibrant saturated color palette, bold rich colors with high saturation throughout",
+    "term_zh": "鲜艳饱和调色板",
+    "labels_zh": [
+      "色彩",
+      "调色板",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.434630+00:00"
   },
   {
-    "id": "color-look_film-emulation_kodak_portra",
+    "id": "color_look_film_emulation_kodak_portra",
     "term": "Kodak Portra film stock emulation",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "film-emulation",
     "labels": [
       "kodak-portra"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -291,18 +375,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Soft skin tones, fine grain. Prompt hint: Kodak Portra film stock emulation, soft natural skin tones with fine grain and gentle pastel color rendering"
+    "notes": "Description: Soft skin tones, fine grain. Prompt hint: Kodak Portra film stock emulation, soft natural skin tones with fine grain and gentle pastel color rendering",
+    "term_zh": "柯达 Portra",
+    "labels_zh": [
+      "色彩",
+      "胶片模拟",
+      "柯达",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:35:17.286847+00:00"
   },
   {
-    "id": "color-look_film-emulation_kodak_ektar",
+    "id": "color_look_film_emulation_kodak_ektar",
     "term": "Kodak Ektar film stock emulation",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "film-emulation",
     "labels": [
       "kodak-ektar"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -312,18 +403,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Saturated, fine grain. Prompt hint: Kodak Ektar film stock emulation, ultra-saturated colors with fine grain and high color contrast"
+    "notes": "Description: Saturated, fine grain. Prompt hint: Kodak Ektar film stock emulation, ultra-saturated colors with fine grain and high color contrast",
+    "term_zh": "柯达 Portra",
+    "labels_zh": [
+      "色彩",
+      "胶片模拟",
+      "柯达",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:39:25.236047+00:00"
   },
   {
-    "id": "color-look_film-emulation_kodak_vision3",
+    "id": "color_look_film_emulation_kodak_vision3",
     "term": "Kodak Vision3 motion picture film emulation",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "film-emulation",
     "labels": [
       "kodak-vision3"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -333,18 +431,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Cinema motion picture stock. Prompt hint: Kodak Vision3 motion picture film emulation, cinematic warm color rendering with smooth highlight rolloff"
+    "notes": "Description: Cinema motion picture stock. Prompt hint: Kodak Vision3 motion picture film emulation, cinematic warm color rendering with smooth highlight rolloff",
+    "term_zh": "柯达 Vision3",
+    "labels_zh": [
+      "色彩",
+      "胶片模拟",
+      "柯达",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:35:17.286860+00:00"
   },
   {
-    "id": "color-look_film-emulation_fuji_pro_400h",
+    "id": "color_look_film_emulation_fuji_pro_400h",
     "term": "Fuji Pro 400H film stock emulation",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "film-emulation",
     "labels": [
       "fuji-pro-400h"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -354,18 +459,27 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Pastel greens and skies. Prompt hint: Fuji Pro 400H film stock emulation, soft pastel greens and creamy blue skies with gentle warm skin tones"
+    "notes": "Description: Pastel greens and skies. Prompt hint: Fuji Pro 400H film stock emulation, soft pastel greens and creamy blue skies with gentle warm skin tones",
+    "term_zh": "富士 Pro 400H 胶片模拟",
+    "labels_zh": [
+      "色彩",
+      "胶片模拟",
+      "富士",
+      "Pro",
+      "400H",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.434638+00:00"
   },
   {
-    "id": "color-look_film-emulation_cinestill_800t",
+    "id": "color_look_film_emulation_cinestill_800t",
     "term": "Cinestill 800T film stock emulation",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "film-emulation",
     "labels": [
       "cinestill-800t"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -375,18 +489,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Tungsten film with red halation. Prompt hint: Cinestill 800T film stock emulation, tungsten-balanced color with characteristic red halation around highlights"
+    "notes": "Description: Tungsten film with red halation. Prompt hint: Cinestill 800T film stock emulation, tungsten-balanced color with characteristic red halation around highlights",
+    "term_zh": "Cinestill 800T 胶片模拟",
+    "labels_zh": [
+      "色彩",
+      "胶片模拟",
+      "800T",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.434646+00:00"
   },
   {
-    "id": "color-look_film-emulation_bleach_bypass",
+    "id": "color_look_film_emulation_bleach_bypass",
     "term": "bleach bypass processing",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "film-emulation",
     "labels": [
       "bleach-bypass"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -396,18 +517,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: High contrast, desaturated. Prompt hint: bleach bypass processing, high contrast with desaturated colors and silver-retention metallic look"
+    "notes": "Description: High contrast, desaturated. Prompt hint: bleach bypass processing, high contrast with desaturated colors and silver-retention metallic look",
+    "term_zh": "漂白旁路处理",
+    "labels_zh": [
+      "色彩",
+      "胶片模拟",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.939973+00:00"
   },
   {
-    "id": "color-look_film-emulation_technicolor",
+    "id": "color_look_film_emulation_technicolor",
     "term": "three-strip technicolor",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "film-emulation",
     "labels": [
       "technicolor"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -417,18 +544,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Vivid retro Technicolor. Prompt hint: Technicolor 3-strip emulation, vivid saturated red/green/blue color separation with classic Hollywood golden-age look"
+    "notes": "Description: Vivid retro Technicolor. Prompt hint: Technicolor 3-strip emulation, vivid saturated red/green/blue color separation with classic Hollywood golden-age look",
+    "term_zh": "三色分离特艺彩色",
+    "labels_zh": [
+      "色彩",
+      "胶片模拟",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.434650+00:00"
   },
   {
-    "id": "color-look_film-emulation_two_strip_technicolor",
+    "id": "color_look_film_emulation_two_strip_technicolor",
     "term": "two-strip Technicolor emulation",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "film-emulation",
     "labels": [
       "two-strip-technicolor"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -438,18 +571,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: 1920s-30s red-blue Technicolor. Prompt hint: two-strip Technicolor emulation, archaic 1920s and 1930s red-and-blue-only color process with limited green range, dusty rose reds against cyan blues, period-piece early-Hollywood feel distinct from later three-strip"
+    "notes": "Description: 1920s-30s red-blue Technicolor. Prompt hint: two-strip Technicolor emulation, archaic 1920s and 1930s red-and-blue-only color process with limited green range, dusty rose reds against cyan blues, period-piece early-Hollywood feel distinct from later three-strip",
+    "term_zh": "两色分离特艺彩色模拟",
+    "labels_zh": [
+      "色彩",
+      "胶片模拟",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.434654+00:00"
   },
   {
-    "id": "color-look_film-emulation_eastman_color",
+    "id": "color_look_film_emulation_eastman_color",
     "term": "Eastman Color film stock emulation",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "film-emulation",
     "labels": [
       "eastman-color"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -459,18 +598,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: 1950s/60s warm faded stock. Prompt hint: Eastman Color film stock emulation, mid-century 1950s and 1960s motion-picture color with slightly faded warm tonality, gentle red shift, soft contrast and the muted-pastel quality of aged Hollywood prints"
+    "notes": "Description: 1950s/60s warm faded stock. Prompt hint: Eastman Color film stock emulation, mid-century 1950s and 1960s motion-picture color with slightly faded warm tonality, gentle red shift, soft contrast and the muted-pastel quality of aged Hollywood prints",
+    "term_zh": "伊士曼彩色胶片模拟",
+    "labels_zh": [
+      "色彩",
+      "胶片模拟",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.434657+00:00"
   },
   {
-    "id": "color-look_film-emulation_hand_tinted",
+    "id": "color_look_film_emulation_hand_tinted",
     "term": "hand-tinted black-and-white photograph",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "film-emulation",
     "labels": [
       "hand-tinted"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -480,18 +625,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: B&W with hand-painted color. Prompt hint: hand-tinted photograph aesthetic, base black-and-white image with hand-painted color accents applied selectively to lips, cheeks, garments and props, painterly translucent washes of pigment over the monochrome plate"
+    "notes": "Description: B&W with hand-painted color. Prompt hint: hand-tinted photograph aesthetic, base black-and-white image with hand-painted color accents applied selectively to lips, cheeks, garments and props, painterly translucent washes of pigment over the monochrome plate",
+    "term_zh": "手工上色黑白照片",
+    "labels_zh": [
+      "色彩",
+      "胶片模拟",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.939977+00:00"
   },
   {
-    "id": "color-look_film-emulation_agfa_orwo",
+    "id": "color_look_film_emulation_agfa_orwo",
     "term": "orwo film stock",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "film-emulation",
     "labels": [
       "agfa-orwo"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -501,18 +652,26 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Eastern European cool greens. Prompt hint: Agfa or ORWO film stock emulation, Eastern European film with cool muted greens, amber-leaning skin tones, slightly desaturated mids and a distinctive socialist-era documentary feel"
+    "notes": "Description: Eastern European cool greens. Prompt hint: Agfa or ORWO film stock emulation, Eastern European film with cool muted greens, amber-leaning skin tones, slightly desaturated mids and a distinctive socialist-era documentary feel",
+    "term_zh": "ORWO 胶片",
+    "labels_zh": [
+      "色彩",
+      "胶片模拟",
+      "ORWO",
+      "胶片",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.434662+00:00"
   },
   {
-    "id": "color-look_film-emulation_day_for_night",
+    "id": "color_look_film_emulation_day_for_night",
     "term": "day-for-night grade",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "film-emulation",
     "labels": [
       "day-for-night"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -522,18 +681,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Daylight graded as night. Prompt hint: day-for-night color grading, daylight footage graded with deep blue tones and crushed shadows to simulate moonlit night"
+    "notes": "Description: Daylight graded as night. Prompt hint: day-for-night color grading, daylight footage graded with deep blue tones and crushed shadows to simulate moonlit night",
+    "term_zh": "白昼变夜调色",
+    "labels_zh": [
+      "色彩",
+      "胶片模拟",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.939981+00:00"
   },
   {
-    "id": "color-look_film-emulation_cross_processed",
+    "id": "color_look_film_emulation_cross_processed",
     "term": "cross-processed film look",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "film-emulation",
     "labels": [
       "cross-processed"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -543,18 +708,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Color shifts from xpro. Prompt hint: cross-processed film look, slide film developed in print chemistry causing surreal color shifts and pushed contrast"
+    "notes": "Description: Color shifts from xpro. Prompt hint: cross-processed film look, slide film developed in print chemistry causing surreal color shifts and pushed contrast",
+    "term_zh": "交叉处理冲印效果",
+    "labels_zh": [
+      "色彩",
+      "胶片模拟",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.939984+00:00"
   },
   {
-    "id": "color-look_film-emulation_kodachrome_64",
+    "id": "color_look_film_emulation_kodachrome_64",
     "term": "graded with a Kodachrome 64 film palette",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "film-emulation",
     "labels": [
       "kodachrome-64"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -564,18 +735,26 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Saturated reds, golden warmth. Prompt hint: graded with a Kodachrome 64 film palette, saturated reds and amber highlights with rich blue shadows, the classic National Geographic warmth and vintage slide-film signature with deep tonal density"
+    "notes": "Description: Saturated reds, golden warmth. Prompt hint: graded with a Kodachrome 64 film palette, saturated reds and amber highlights with rich blue shadows, the classic National Geographic warmth and vintage slide-film signature with deep tonal density",
+    "term_zh": "柯达柯达克罗姆 64 调色",
+    "labels_zh": [
+      "色彩",
+      "胶片模拟",
+      "64",
+      "调色",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.434667+00:00"
   },
   {
-    "id": "color-look_film-emulation_ektachrome_100",
+    "id": "color_look_film_emulation_ektachrome_100",
     "term": "Ektachrome 100 slide film emulation",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "film-emulation",
     "labels": [
       "ektachrome-100"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -585,18 +764,26 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Cool clean blues, slide clarity. Prompt hint: Ektachrome 100 slide film emulation, clean cool blues with a subtle magenta cast, crisp transparency-film clarity and natural daylight color rendition with fine grain and a slightly cyan-leaning neutral tonality"
+    "notes": "Description: Cool clean blues, slide clarity. Prompt hint: Ektachrome 100 slide film emulation, clean cool blues with a subtle magenta cast, crisp transparency-film clarity and natural daylight color rendition with fine grain and a slightly cyan-leaning neutral tonality",
+    "term_zh": "柯达 Ektachrome 100 幻灯片模拟",
+    "labels_zh": [
+      "色彩",
+      "胶片模拟",
+      "柯达",
+      "100",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.434672+00:00"
   },
   {
-    "id": "color-look_film-emulation_kodak_tri_x_400",
+    "id": "color_look_film_emulation_kodak_tri_x_400",
     "term": "kodak tri-x 400 black-and-white film",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "film-emulation",
     "labels": [
       "kodak-tri-x-400"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -606,18 +793,27 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Pushed-grain B&W reportage. Prompt hint: Kodak Tri-X 400 black-and-white film emulation, pushed-grain monochrome with gritty high contrast, deep blacks and bright highlights, classic 35mm street-photography and reportage feel with visible silver grain texture"
+    "notes": "Description: Pushed-grain B&W reportage. Prompt hint: Kodak Tri-X 400 black-and-white film emulation, pushed-grain monochrome with gritty high contrast, deep blacks and bright highlights, classic 35mm street-photography and reportage feel with visible silver grain texture",
+    "term_zh": "柯达 Tri-X 400 黑白胶片",
+    "labels_zh": [
+      "色彩",
+      "胶片模拟",
+      "柯达",
+      "400",
+      "黑白胶片",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.434677+00:00"
   },
   {
-    "id": "color-look_film-emulation_aerochrome",
+    "id": "color_look_film_emulation_aerochrome",
     "term": "aerochrome color infrared film",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "film-emulation",
     "labels": [
       "aerochrome"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -627,18 +823,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Surreal pink-magenta foliage. Prompt hint: Aerochrome color infrared film emulation, surreal false-color landscape where vegetation glows in vivid pink and magenta, blue skies stay deep, and foliage appears otherworldly hot-pink and crimson — distinctive infrared-sensitive emulsion signature"
+    "notes": "Description: Surreal pink-magenta foliage. Prompt hint: Aerochrome color infrared film emulation, surreal false-color landscape where vegetation glows in vivid pink and magenta, blue skies stay deep, and foliage appears otherworldly hot-pink and crimson — distinctive infrared-sensitive emulsion signature",
+    "term_zh": "航空彩红外胶片",
+    "labels_zh": [
+      "色彩",
+      "胶片模拟",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.939988+00:00"
   },
   {
-    "id": "color-look_film-emulation_fuji_instax",
+    "id": "color_look_film_emulation_fuji_instax",
     "term": "fuji instax instant film",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "film-emulation",
     "labels": [
       "fuji-instax"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -648,18 +850,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Soft pastel instant-film. Prompt hint: Fuji Instax instant film emulation, soft pastel midtones with a slight cool blue cast, gentle low-contrast rendering, square-format Polaroid-alternative aesthetic with creamy whites and dreamy diffuse color"
+    "notes": "Description: Soft pastel instant-film. Prompt hint: Fuji Instax instant film emulation, soft pastel midtones with a slight cool blue cast, gentle low-contrast rendering, square-format Polaroid-alternative aesthetic with creamy whites and dreamy diffuse color",
+    "term_zh": "富士拍立得",
+    "labels_zh": [
+      "色彩",
+      "胶片模拟",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.939991+00:00"
   },
   {
-    "id": "color-look_film-emulation_cinestill_50d",
+    "id": "color_look_film_emulation_cinestill_50d",
     "term": "Cinestill 50D daylight-balanced cinema film emulation",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "film-emulation",
     "labels": [
       "cinestill-50d"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -669,18 +877,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Daylight cinema stock. Prompt hint: Cinestill 50D daylight-balanced cinema film emulation, controlled cool blues with creamy skin tones and fine grain, Christopher Doyle and Wong Kar-wai daylight-cinema aesthetic with smooth highlight rolloff and natural color separation"
+    "notes": "Description: Daylight cinema stock. Prompt hint: Cinestill 50D daylight-balanced cinema film emulation, controlled cool blues with creamy skin tones and fine grain, Christopher Doyle and Wong Kar-wai daylight-cinema aesthetic with smooth highlight rolloff and natural color separation",
+    "term_zh": "Cinestill 50D 日光平衡电影胶片模拟",
+    "labels_zh": [
+      "色彩",
+      "胶片模拟",
+      "50D",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.434682+00:00"
   },
   {
-    "id": "color-look_film-emulation_expired_film",
+    "id": "color_look_film_emulation_expired_film",
     "term": "expired light-struck film",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "film-emulation",
     "labels": [
       "expired-film"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -690,18 +905,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Color shifts and light leaks. Prompt hint: expired film and light-struck aesthetic, unpredictable color shifts with overexposed magenta and amber casts, visible light leaks and fogged edges, found-film degradation feel with elevated grain and unstable shifting hues"
+    "notes": "Description: Color shifts and light leaks. Prompt hint: expired film and light-struck aesthetic, unpredictable color shifts with overexposed magenta and amber casts, visible light leaks and fogged edges, found-film degradation feel with elevated grain and unstable shifting hues",
+    "term_zh": "过期漏光胶片",
+    "labels_zh": [
+      "色彩",
+      "胶片模拟",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.939998+00:00"
   },
   {
-    "id": "color-look_social-preset_instagram_warm",
+    "id": "color_look_social_preset_instagram_warm",
     "term": "warm instagram filter",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "social-preset",
     "labels": [
       "instagram-warm"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -711,18 +932,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Valencia-style warm filter. Prompt hint: Instagram-style warm filter aesthetic, slightly faded warm highlights with creamy mid-tones, Valencia-preset feel"
+    "notes": "Description: Valencia-style warm filter. Prompt hint: Instagram-style warm filter aesthetic, slightly faded warm highlights with creamy mid-tones, Valencia-preset feel",
+    "term_zh": "Instagram 暖调滤镜",
+    "labels_zh": [
+      "色彩",
+      "预设",
+      "暖调滤镜",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.940002+00:00"
   },
   {
-    "id": "color-look_social-preset_tiktok_saturated",
+    "id": "color_look_social_preset_tiktok_saturated",
     "term": "saturated tiktok look",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "social-preset",
     "labels": [
       "tiktok-saturated"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -732,18 +960,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Bright punchy social palette. Prompt hint: TikTok-style oversaturated bright palette, punchy reds and blues with high contrast and vivid skin tones"
+    "notes": "Description: Bright punchy social palette. Prompt hint: TikTok-style oversaturated bright palette, punchy reds and blues with high contrast and vivid skin tones",
+    "term_zh": "TikTok 高饱和效果",
+    "labels_zh": [
+      "色彩",
+      "预设",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.940006+00:00"
   },
   {
-    "id": "color-look_social-preset_youtube_vlog_flat",
+    "id": "color_look_social_preset_youtube_vlog_flat",
     "term": "flat youtube vlog grade",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "social-preset",
     "labels": [
       "youtube-vlog-flat"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -753,18 +987,26 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Clean vlog flat grade. Prompt hint: YouTube vlog clean flat color grade, neutral natural color rendition with even skin tones and pleasant ambient"
+    "notes": "Description: Clean vlog flat grade. Prompt hint: YouTube vlog clean flat color grade, neutral natural color rendition with even skin tones and pleasant ambient",
+    "term_zh": "YouTube Vlog 平调",
+    "labels_zh": [
+      "色彩",
+      "预设",
+      "Vlog",
+      "平调",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.940010+00:00"
   },
   {
-    "id": "color-look_social-preset_iphone_hdr",
+    "id": "color_look_social_preset_iphone_hdr",
     "term": "iPhone computational HDR look with extended highlight range",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "social-preset",
     "labels": [
       "iphone-hdr"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -774,18 +1016,26 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Computational HDR look. Prompt hint: iPhone computational HDR look with extended highlight range, lifted shadows, and slightly hyperreal local-contrast enhancement"
+    "notes": "Description: Computational HDR look. Prompt hint: iPhone computational HDR look with extended highlight range, lifted shadows, and slightly hyperreal local-contrast enhancement",
+    "term_zh": "iPhone 计算 HDR 高光范围效果",
+    "labels_zh": [
+      "色彩",
+      "预设",
+      "计算",
+      "HDR",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.434687+00:00"
   },
   {
-    "id": "color-look_social-preset_y2k_saturated",
+    "id": "color_look_social_preset_y2k_saturated",
     "term": "saturated y2k digital color",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "social-preset",
     "labels": [
       "y2k-saturated"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -795,18 +1045,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Early-2000s digital pop. Prompt hint: Y2K early-2000s digital saturation aesthetic, electric magenta and cyan punch, glossy compact-camera color, candy-bright primaries with a slightly crunchy CCD-sensor digital sharpness"
+    "notes": "Description: Early-2000s digital pop. Prompt hint: Y2K early-2000s digital saturation aesthetic, electric magenta and cyan punch, glossy compact-camera color, candy-bright primaries with a slightly crunchy CCD-sensor digital sharpness",
+    "term_zh": "Y2K 高饱和数字色",
+    "labels_zh": [
+      "色彩",
+      "预设",
+      "Y2K",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.940015+00:00"
   },
   {
-    "id": "color-look_social-preset_mtv_90s_vhs",
+    "id": "color_look_social_preset_mtv_90s_vhs",
     "term": "90s mtv vhs look",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "social-preset",
     "labels": [
       "mtv-90s-vhs"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -816,18 +1073,27 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Oversaturated 90s VHS chroma. Prompt hint: MTV 1990s VHS aesthetic, oversaturated cast with chroma bleed and color smearing, blown-out reds and electric blues, lo-fi tape-era saturation distinct from cleaner film emulations"
+    "notes": "Description: Oversaturated 90s VHS chroma. Prompt hint: MTV 1990s VHS aesthetic, oversaturated cast with chroma bleed and color smearing, blown-out reds and electric blues, lo-fi tape-era saturation distinct from cleaner film emulations",
+    "term_zh": "90年代 MTV VHS 效果",
+    "labels_zh": [
+      "色彩",
+      "预设",
+      "90年代",
+      "MTV",
+      "VHS",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.940020+00:00"
   },
   {
-    "id": "color-look_social-preset_polaroid_faded",
+    "id": "color_look_social_preset_polaroid_faded",
     "term": "faded polaroid look",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "social-preset",
     "labels": [
       "polaroid-faded"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -837,18 +1103,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Magenta-tinted faded Polaroid. Prompt hint: faded vintage Polaroid aesthetic, washed-out magenta and pink color cast, lifted milky shadows, yellowed highlights and the soft instant-film degradation of an aged SX-70 print, distinct from Kodak Portra negative-film emulation"
+    "notes": "Description: Magenta-tinted faded Polaroid. Prompt hint: faded vintage Polaroid aesthetic, washed-out magenta and pink color cast, lifted milky shadows, yellowed highlights and the soft instant-film degradation of an aged SX-70 print, distinct from Kodak Portra negative-film emulation",
+    "term_zh": "褪色宝丽来效果",
+    "labels_zh": [
+      "色彩",
+      "预设",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.940023+00:00"
   },
   {
-    "id": "color-look_social-preset_lifestyle_warm_magazine",
+    "id": "color_look_social_preset_lifestyle_warm_magazine",
     "term": "warm lifestyle magazine grade",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "social-preset",
     "labels": [
       "lifestyle-warm-magazine"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -858,18 +1130,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Modern warm editorial grade. Prompt hint: modern lifestyle magazine warm-leaning grade, creamy honeyed highlights, gently warmed skin tones, soft golden mids and clean neutral shadows, contemporary editorial commercial aesthetic for fashion and food photography"
+    "notes": "Description: Modern warm editorial grade. Prompt hint: modern lifestyle magazine warm-leaning grade, creamy honeyed highlights, gently warmed skin tones, soft golden mids and clean neutral shadows, contemporary editorial commercial aesthetic for fashion and food photography",
+    "term_zh": "暖色生活方式杂志调",
+    "labels_zh": [
+      "色彩",
+      "预设",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.434691+00:00"
   },
   {
-    "id": "color-look_post-process_soft_dark_vignette_gently_darkening_the_",
+    "id": "color_look_post_process_soft_dark_vignette_gently_darkening_the",
     "term": "soft dark vignette gently darkening the corners of the frame",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "post-process",
     "labels": [
       "vignette-soft"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -880,18 +1158,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Gentle corner darkening. Prompt hint: soft dark vignette gently darkening the corners of the frame, drawing the eye toward the center without calling attention to itself",
-    "updated_at": "2026-09-29T15:42:24.235855+00:00"
+    "updated_at": "2026-09-29T15:42:24.235855+00:00",
+    "term_zh": "柔和暗角压暗画面角落",
+    "labels_zh": [
+      "色彩",
+      "后期",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.940027+00:00"
   },
   {
-    "id": "color-look_post-process_heavy_black_vignette_circumscribing_the_",
+    "id": "color_look_post_process_heavy_black_vignette_circumscribing_the",
     "term": "heavy black vignette circumscribing the subject in a dramati",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "post-process",
     "labels": [
       "vignette-heavy"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -902,18 +1186,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Dramatic black corners. Prompt hint: heavy black vignette circumscribing the subject in a dramatic dark oval, deep falloff at the edges that nearly crushes to black",
-    "updated_at": "2026-09-29T15:42:24.235862+00:00"
+    "updated_at": "2026-09-29T15:42:24.235862+00:00",
+    "term_zh": "重型黑色暗角戏剧黑环环绕主体",
+    "labels_zh": [
+      "色彩",
+      "后期",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.540402+00:00"
   },
   {
-    "id": "color-look_post-process_dodge_and_burn",
+    "id": "color_look_post_process_dodge_and_burn",
     "term": "dodge and burn",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "post-process",
     "labels": [
       "dodge-and-burn"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -924,18 +1214,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Sculpted highlight/shadow. Prompt hint: aggressive dodge-and-burn shaping with sculpted highlight and shadow chiaroscuro, hand-painted-style local contrast carving form into the subject",
-    "updated_at": "2026-09-29T15:42:24.235867+00:00"
+    "updated_at": "2026-09-29T15:42:24.235867+00:00",
+    "term_zh": "闪避与加深",
+    "labels_zh": [
+      "色彩",
+      "后期",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.940031+00:00"
   },
   {
-    "id": "color-look_post-process_fine_film_grain_overlay_across_the_entir",
+    "id": "color_look_post_process_fine_film_grain_overlay_across_the_entir",
     "term": "fine film grain overlay across the entire image",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "post-process",
     "labels": [
       "film-grain-fine"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -946,18 +1242,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Subtle 35mm-style grain. Prompt hint: fine film grain overlay across the entire image, classic 35mm character with delicate organic noise that softens digital edges",
-    "updated_at": "2026-09-29T15:42:24.235870+00:00"
+    "updated_at": "2026-09-29T15:42:24.235870+00:00",
+    "term_zh": "细腻胶片颗粒覆盖整个画面",
+    "labels_zh": [
+      "色彩",
+      "后期",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.940034+00:00"
   },
   {
-    "id": "color-look_post-process_heavy_coarse_grain_like_push_processed_h",
+    "id": "color_look_post_process_heavy_coarse_grain_like_push_processed_h",
     "term": "heavy coarse grain like push-processed high-ISO film",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "post-process",
     "labels": [
       "film-grain-heavy"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -968,18 +1270,26 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Coarse push-processed grain. Prompt hint: heavy coarse grain like push-processed high-ISO film, gritty texture across midtones and dense noise in the shadows",
-    "updated_at": "2026-09-29T15:42:24.235874+00:00"
+    "updated_at": "2026-09-29T15:42:24.235874+00:00",
+    "term_zh": "粗重颗粒如推压高 ISO 胶片",
+    "labels_zh": [
+      "色彩",
+      "后期",
+      "ISO",
+      "胶片",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.434696+00:00"
   },
   {
-    "id": "color-look_post-process_warm_halation_glow",
+    "id": "color_look_post_process_warm_halation_glow",
     "term": "warm halation glow",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "post-process",
     "labels": [
       "halation-glow"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -990,18 +1300,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Cinestill red-halo bloom. Prompt hint: warm halation glow blooming around bright highlights, signature cinestill-style red halo bleeding from light sources and tungsten practicals",
-    "updated_at": "2026-09-29T15:42:24.235893+00:00"
+    "updated_at": "2026-09-29T15:42:24.235893+00:00",
+    "term_zh": "暖色光晕辉光",
+    "labels_zh": [
+      "色彩",
+      "后期",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.940038+00:00"
   },
   {
-    "id": "color-look_post-process_highlight_bloom",
+    "id": "color_look_post_process_highlight_bloom",
     "term": "highlight bloom",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "post-process",
     "labels": [
       "bloom-glow"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1012,18 +1328,25 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Romantic dreamy highlight bloom. Prompt hint: dreamy soft-focus bloom on highlights, romantic glow that wraps around bright areas and lifts the overall mood with a hazy halo",
-    "updated_at": "2026-09-29T15:42:24.235897+00:00"
+    "updated_at": "2026-09-29T15:42:24.235897+00:00",
+    "term_zh": "高光泛光",
+    "labels_zh": [
+      "色彩",
+      "后期",
+      "高光泛光",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:25:57.998287+00:00"
   },
   {
-    "id": "color-look_post-process_visible_chromatic_aberration_with_red_an",
+    "id": "color_look_post_process_visible_chromatic_aberration_with_red_an",
     "term": "visible chromatic aberration with red and cyan fringing on c",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "post-process",
     "labels": [
       "chromatic-aberration"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1034,18 +1357,25 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Red/cyan fringe on edges. Prompt hint: visible chromatic aberration with red and cyan fringing on contrast edges, lens-imperfection look that reads as authentic optical character",
-    "updated_at": "2026-09-29T15:42:24.235900+00:00"
+    "updated_at": "2026-09-29T15:42:24.235900+00:00",
+    "term_zh": "色差",
+    "labels_zh": [
+      "色彩",
+      "后期",
+      "色差",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.940042+00:00"
   },
   {
-    "id": "color-look_post-process_warm_orange_light_leak_streaking_across_",
+    "id": "color_look_post_process_warm_orange_light_leak_streaking_across",
     "term": "warm orange light leak streaking across one edge of the fram",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "post-process",
     "labels": [
       "light-leak"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1056,18 +1386,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Warm streak across the frame. Prompt hint: warm orange light leak streaking across one edge of the frame, fogged film aesthetic with a soft amber wash bleeding into the image",
-    "updated_at": "2026-09-29T15:42:24.235906+00:00"
+    "updated_at": "2026-09-29T15:42:24.235906+00:00",
+    "term_zh": "暖橙光泄露条纹划过画面一边",
+    "labels_zh": [
+      "色彩",
+      "后期",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.540421+00:00"
   },
   {
-    "id": "color-look_post-process_film_burn_flare_in_the_corner_with_a_vin",
+    "id": "color_look_post_process_film_burn_flare_in_the_corner_with_a_vin",
     "term": "film burn flare in the corner with a vintage Super-8 aesthet",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "post-process",
     "labels": [
       "film-burn"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1078,18 +1414,25 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Vintage Super-8 corner flare. Prompt hint: film burn flare in the corner with a vintage Super-8 aesthetic, charred edge bleeding orange and white light into the frame",
-    "updated_at": "2026-09-29T15:42:24.235911+00:00"
+    "updated_at": "2026-09-29T15:42:24.235911+00:00",
+    "term_zh": "角落胶片灼伤超 8 复古效果",
+    "labels_zh": [
+      "色彩",
+      "后期",
+      "复古效果",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.540428+00:00"
   },
   {
-    "id": "color-look_post-process_scratched_dusty_film_emulsion",
+    "id": "color_look_post_process_scratched_dusty_film_emulsion",
     "term": "scratched, dusty film emulsion",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "post-process",
     "labels": [
       "scratched-emulsion"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1100,18 +1443,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Aged film scratches + dust. Prompt hint: vertical scratches and dust marks like aged film emulsion, hairline streaks running through the frame and scattered dust specks across the image",
-    "updated_at": "2026-09-29T15:42:24.235918+00:00"
+    "updated_at": "2026-09-29T15:42:24.235918+00:00",
+    "term_zh": "划痕灰尘胶片乳剂",
+    "labels_zh": [
+      "色彩",
+      "后期",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.434700+00:00"
   },
   {
-    "id": "color-look_post-process_subtle_color_fringing",
+    "id": "color_look_post_process_subtle_color_fringing",
     "term": "subtle color fringing",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "post-process",
     "labels": [
       "color-fringe"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1122,18 +1471,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Subtle high-contrast fringing. Prompt hint: subtle color fringing on high-contrast edges, gentle prismatic shimmer that adds optical authenticity without overwhelming the image",
-    "updated_at": "2026-09-29T15:42:24.235921+00:00"
+    "updated_at": "2026-09-29T15:42:24.235921+00:00",
+    "term_zh": "微妙色散边缘",
+    "labels_zh": [
+      "色彩",
+      "后期",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.434703+00:00"
   },
   {
-    "id": "color-look_post-process_soft_focus_diffusion_filter_slightly_haz",
+    "id": "color_look_post_process_soft_focus_diffusion_filter_slightly_haz",
     "term": "soft-focus diffusion filter — slightly hazy dreamy bloom on ",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "post-process",
     "labels": [
       "soft-focus-diffusion"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1144,18 +1499,25 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Hazy dreamy highlight bloom. Prompt hint: soft-focus diffusion filter — slightly hazy dreamy bloom on highlights, glowing skin tones and a romantic veil across the entire image",
-    "updated_at": "2026-09-29T15:42:24.235926+00:00"
+    "updated_at": "2026-09-29T15:42:24.235926+00:00",
+    "term_zh": "柔光滤镜",
+    "labels_zh": [
+      "色彩",
+      "后期",
+      "柔光滤镜",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:53:10.812359+00:00"
   },
   {
-    "id": "color-look_post-process_aggressive_contrast_boost",
+    "id": "color_look_post_process_aggressive_contrast_boost",
     "term": "aggressive contrast boost",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "post-process",
     "labels": [
       "contrast-boost"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1166,18 +1528,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Crushed shadows + pushed highlights. Prompt hint: aggressive contrast boost, deepened shadows crushing toward black and pushed highlights, punchy editorial-grade tonal separation",
-    "updated_at": "2026-09-29T15:42:24.235932+00:00"
+    "updated_at": "2026-09-29T15:42:24.235932+00:00",
+    "term_zh": "强力对比增强",
+    "labels_zh": [
+      "色彩",
+      "后期",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.940045+00:00"
   },
   {
-    "id": "color-look_post-process_aggressive_edge_sharpening_pass_with_cri",
+    "id": "color_look_post_process_aggressive_edge_sharpening_pass_with_cri",
     "term": "aggressive edge-sharpening pass with crisp micro-detail emph",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "post-process",
     "labels": [
       "sharpening"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1188,18 +1556,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Aggressive edge-sharpening pass, crisp micro-detail. Prompt hint: aggressive edge-sharpening pass with crisp micro-detail emphasized, hardened edges and pronounced texture acutance across the entire image",
-    "updated_at": "2026-09-29T15:42:24.235935+00:00"
+    "updated_at": "2026-09-29T15:42:24.235935+00:00",
+    "term_zh": "强力边缘锐化细节增强",
+    "labels_zh": [
+      "色彩",
+      "后期",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.540432+00:00"
   },
   {
-    "id": "color-look_post-process_mid_tone_clarity_enhancement_with_increa",
+    "id": "color_look_post_process_mid_tone_clarity_enhancement_with_increa",
     "term": "mid-tone clarity enhancement with increased local contrast",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "post-process",
     "labels": [
       "clarity-boost"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1210,18 +1584,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Mid-tone clarity enhancement, increased local contrast. Prompt hint: mid-tone clarity enhancement with increased local contrast, deepened textural definition and punchy structural detail without crushing shadows or highlights",
-    "updated_at": "2026-09-29T15:42:24.235940+00:00"
+    "updated_at": "2026-09-29T15:42:24.235940+00:00",
+    "term_zh": "中调清晰度增强与局部对比",
+    "labels_zh": [
+      "色彩",
+      "后期",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.434707+00:00"
   },
   {
-    "id": "color-look_post-process_atmospheric_dehaze",
+    "id": "color_look_post_process_atmospheric_dehaze",
     "term": "atmospheric dehaze",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "post-process",
     "labels": [
       "dehaze"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1232,18 +1612,25 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Atmospheric dehaze applied, removing softness and lifting contrast through fog. Prompt hint: atmospheric dehaze applied across the frame, removing veiling softness and lifting contrast through haze and fog with restored color saturation in distant tones",
-    "updated_at": "2026-09-29T15:42:24.235944+00:00"
+    "updated_at": "2026-09-29T15:42:24.235944+00:00",
+    "term_zh": "大气除雾",
+    "labels_zh": [
+      "色彩",
+      "后期",
+      "大气除雾",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.940049+00:00"
   },
   {
-    "id": "color-look_post-process_three_way_lift_gamma_gain_grade",
+    "id": "color_look_post_process_three_way_lift_gamma_gain_grade",
     "term": "three-way lift gamma gain grade",
-    "term_zh": "",
     "category": "color-look",
     "subcategory": "post-process",
     "labels": [
       "lift-gamma-gain"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1254,6 +1641,17 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Three-way color grading wheels — shadow lift, midtone gamma, highlight gain. Prompt hint: three-way color grading with lift-gamma-gain wheels shaping shadow lift, midtone gamma and highlight gain independently, professional colorist-grade tonal sculpting",
-    "updated_at": "2026-09-29T15:42:24.235948+00:00"
+    "updated_at": "2026-09-29T15:42:24.235948+00:00",
+    "term_zh": "三向 Lift Gamma Gain 红绿调节",
+    "labels_zh": [
+      "色彩",
+      "后期",
+      "三向",
+      "Lift",
+      "Gain",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.434712+00:00"
   }
 ]

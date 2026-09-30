@@ -18,10 +18,10 @@
       "description": "Canonical prompt term in English"
     },
     "term_zh": {
-      "type": "string",
+      "type": ["string", "null"],
       "minLength": 1,
       "maxLength": 200,
-      "description": "中文翻译 — Chinese translation of the canonical prompt term"
+      "description": "Chinese translation. Optional — omit or set to null when untranslated."
     },
     "aliases": {
       "type": "array",
@@ -29,22 +29,25 @@
       "maxItems": 10
     },
     "aliases_zh": {
-      "type": "array",
+      "type": ["array", "null"],
       "items": { "type": "string", "minLength": 1 },
       "maxItems": 10,
-      "description": "中文替代术语 — Chinese alternative terms / colloquial translations"
+      "description": "Chinese alternative terms. Optional."
     },
     "labels_zh": {
-      "type": "array",
+      "type": ["array", "null"],
       "items": { "type": "string", "minLength": 1 },
       "maxItems": 20,
-      "description": "中文搜索标签 — Chinese labels for flat search indexing"
+      "description": "Chinese search labels. Optional."
     },
     "category": {
       "type": "string",
       "enum": [
         "quality", "composition", "lighting", "character",
-        "clothing", "styles", "negative", "scene", "panel"
+        "clothing", "styles", "negative", "scene", "panel",
+        "action-fx", "character-fx", "color-look", "era", "framing",
+        "held-prop", "material", "photographer", "render-quality",
+        "temporal", "transitions"
       ]
     },
     "subcategory": {
@@ -93,7 +96,7 @@
       "minimum": 0,
       "maximum": 1
     },
-    "notes": { "type": "string", "maxLength": 1000 },
+    "notes": { "type": ["string", "null"], "maxLength": 5000 },
     "variations": {
       "type": "array",
       "items": {
@@ -106,5 +109,10 @@
       }
     }
   },
-  "additionalProperties": false
+  "additionalProperties": true,
+  "patternProperties": {
+    "^_": {
+      "description": "Private/internal fields starting with underscore (e.g., _source_file, _translated_auto)"
+    }
+  }
 }

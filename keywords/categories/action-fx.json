@@ -1,14 +1,12 @@
 [
   {
-    "id": "action-fx_Earthquake Tremor_earthquake_tremor",
+    "id": "action_fx_earthquake_tremor_earthquake_tremor",
     "term": "a mild earthquake tremor rippling through the scene",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "disaster",
     "labels": [
       "earthquake-tremor"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -18,18 +16,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Mild ground shake, hanging objects sway. Prompt hint: a mild earthquake tremor rippling through the scene, hanging objects swaying gently and dust shaking loose from surfaces with a faint trembling motion across the frame"
+    "notes": "Description: Mild ground shake, hanging objects sway. Prompt hint: a mild earthquake tremor rippling through the scene, hanging objects swaying gently and dust shaking loose from surfaces with a faint trembling motion across the frame",
+    "term_zh": "轻微地震涟漪穿过画面",
+    "labels_zh": [
+      "动作特效",
+      "灾害",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913382+00:00"
   },
   {
-    "id": "action-fx_Major Earthquake_earthquake_major",
+    "id": "action_fx_major_earthquake_earthquake_major",
     "term": "a major earthquake violently shaking the scene",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "disaster",
     "labels": [
       "earthquake-major"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -39,18 +43,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Ground splitting, debris falling. Prompt hint: a major earthquake violently shaking the scene, ground splitting open with deep cracks radiating outward and chunks of debris tumbling from above as everything trembles"
+    "notes": "Description: Ground splitting, debris falling. Prompt hint: a major earthquake violently shaking the scene, ground splitting open with deep cracks radiating outward and chunks of debris tumbling from above as everything trembles",
+    "term_zh": "剧烈地震剧烈震动画面",
+    "labels_zh": [
+      "动作特效",
+      "灾害",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913589+00:00"
   },
   {
-    "id": "action-fx_Building Collapse_building_collapse",
+    "id": "action_fx_building_collapse_building_collapse",
     "term": "a building collapsing mid-fall",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "misc",
     "labels": [
       "building-collapse"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -60,18 +70,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Structure crumbling mid-fall. Prompt hint: a building collapsing mid-fall, walls buckling and concrete fragmenting outward in a cascade of debris with billowing dust clouds rolling out from the base of the structure"
+    "notes": "Description: Structure crumbling mid-fall. Prompt hint: a building collapsing mid-fall, walls buckling and concrete fragmenting outward in a cascade of debris with billowing dust clouds rolling out from the base of the structure",
+    "term_zh": "建筑坍塌中倒下",
+    "labels_zh": [
+      "动作特效",
+      "杂项",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913596+00:00"
   },
   {
-    "id": "action-fx_Tsunami Wave_tsunami_wave",
+    "id": "action_fx_tsunami_wave_tsunami_wave",
     "term": "a towering tsunami wave bearing down on the scene",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "disaster",
     "labels": [
       "tsunami-wave"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -81,18 +97,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Towering wall of water bearing down. Prompt hint: a towering tsunami wave bearing down on the scene, wall of dark churning water curling overhead with white foam crests and debris carried inside the surge"
+    "notes": "Description: Towering wall of water bearing down. Prompt hint: a towering tsunami wave bearing down on the scene, wall of dark churning water curling overhead with white foam crests and debris carried inside the surge",
+    "term_zh": "高耸海啸波拍下画面",
+    "labels_zh": [
+      "动作特效",
+      "灾害",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913600+00:00"
   },
   {
-    "id": "action-fx_Tornado_tornado",
+    "id": "action_fx_tornado_tornado",
     "term": "a massive tornado funnel cloud touching down in the scene",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "disaster",
     "labels": [
       "tornado"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -102,18 +124,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Funnel cloud touching down. Prompt hint: a massive tornado funnel cloud touching down in the scene, dark spiraling vortex tearing across the landscape with debris ripped into the air and a trailing dust cloud at its base"
+    "notes": "Description: Funnel cloud touching down. Prompt hint: a massive tornado funnel cloud touching down in the scene, dark spiraling vortex tearing across the landscape with debris ripped into the air and a trailing dust cloud at its base",
+    "term_zh": "巨型龙卷风漏斗云降临画面",
+    "labels_zh": [
+      "动作特效",
+      "灾害",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913604+00:00"
   },
   {
-    "id": "action-fx_Hurricane_hurricane",
+    "id": "action_fx_hurricane_hurricane",
     "term": "a hurricane raging through the scene",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "disaster",
     "labels": [
       "hurricane"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -123,18 +151,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Howling winds bending trees, sheets of rain. Prompt hint: a hurricane raging through the scene, howling sideways winds bending trees and palm fronds nearly horizontal, sheets of driving rain blurring the air with debris airborne in every direction"
+    "notes": "Description: Howling winds bending trees, sheets of rain. Prompt hint: a hurricane raging through the scene, howling sideways winds bending trees and palm fronds nearly horizontal, sheets of driving rain blurring the air with debris airborne in every direction",
+    "term_zh": "飓风袭掠画面",
+    "labels_zh": [
+      "动作特效",
+      "灾害",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913608+00:00"
   },
   {
-    "id": "action-fx_Blizzard Whiteout_blizzard_whiteout",
+    "id": "action_fx_blizzard_whiteout_blizzard_whiteout",
     "term": "a blinding blizzard whiteout consuming the scene",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "disaster",
     "labels": [
       "blizzard-whiteout"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -144,18 +178,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Heavy snow obliterating visibility. Prompt hint: a blinding blizzard whiteout consuming the scene, near-zero visibility through dense windswept snowfall and howling drifts that bury everything under a roaring white veil"
+    "notes": "Description: Heavy snow obliterating visibility. Prompt hint: a blinding blizzard whiteout consuming the scene, near-zero visibility through dense windswept snowfall and howling drifts that bury everything under a roaring white veil",
+    "term_zh": "耀眼暴风雪吞没画面",
+    "labels_zh": [
+      "动作特效",
+      "灾害",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913612+00:00"
   },
   {
-    "id": "action-fx_Sandstorm_sandstorm",
+    "id": "action_fx_sandstorm_sandstorm",
     "term": "a towering sandstorm wall of orange-brown dust engulfing the",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "disaster",
     "labels": [
       "sandstorm"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -165,18 +205,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Wall of orange dust engulfing scene. Prompt hint: a towering sandstorm wall of orange-brown dust engulfing the scene, swirling fine particles reducing visibility to feet and burying surfaces under shifting waves of grit"
+    "notes": "Description: Wall of orange dust engulfing scene. Prompt hint: a towering sandstorm wall of orange-brown dust engulfing the scene, swirling fine particles reducing visibility to feet and burying surfaces under shifting waves of grit",
+    "term_zh": "高耸橙褐色沙尘暴墙吞没画面",
+    "labels_zh": [
+      "动作特效",
+      "灾害",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.509618+00:00"
   },
   {
-    "id": "action-fx_Dust Storm (Haboob)_dust_storm_haboob",
+    "id": "action_fx_dust_storm_haboob_dust_storm_haboob",
     "term": "haboob dust storm",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "misc",
     "labels": [
       "dust-storm-haboob"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -186,18 +232,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Towering desert dust front. Prompt hint: a towering haboob dust storm rolling across the scene, mountainous wall of dense ochre dust front billowing forward and swallowing the horizon in a dramatic monolithic curtain"
+    "notes": "Description: Towering desert dust front. Prompt hint: a towering haboob dust storm rolling across the scene, mountainous wall of dense ochre dust front billowing forward and swallowing the horizon in a dramatic monolithic curtain",
+    "term_zh": "哈布沙尘暴",
+    "labels_zh": [
+      "动作特效",
+      "杂项",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913616+00:00"
   },
   {
-    "id": "action-fx_Distant Wildfire_wildfire_distant",
+    "id": "action_fx_distant_wildfire_wildfire_distant",
     "term": "a distant wildfire raging on the horizon",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "disaster",
     "labels": [
       "wildfire-distant"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -207,18 +259,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Orange glow + smoke on horizon. Prompt hint: a distant wildfire raging on the horizon, orange-red glow lighting up dark plumes of smoke billowing into a hazy sky with embers visible at the treeline"
+    "notes": "Description: Orange glow + smoke on horizon. Prompt hint: a distant wildfire raging on the horizon, orange-red glow lighting up dark plumes of smoke billowing into a hazy sky with embers visible at the treeline",
+    "term_zh": "远处野火在地平线蔓延",
+    "labels_zh": [
+      "动作特效",
+      "灾害",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913619+00:00"
   },
   {
-    "id": "action-fx_Engulfing Wildfire_wildfire_engulfing",
+    "id": "action_fx_engulfing_wildfire_wildfire_engulfing",
     "term": "an engulfing wildfire closing in on the scene",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "disaster",
     "labels": [
       "wildfire-engulfing"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -228,18 +286,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Flames closing in, intense heat shimmer. Prompt hint: an engulfing wildfire closing in on the scene, walls of orange flame consuming nearby trees with intense heat shimmer warping the air and embers spiraling upward into a smoke-darkened sky"
+    "notes": "Description: Flames closing in, intense heat shimmer. Prompt hint: an engulfing wildfire closing in on the scene, walls of orange flame consuming nearby trees with intense heat shimmer warping the air and embers spiraling upward into a smoke-darkened sky",
+    "term_zh": "吞噬野火迫近画面",
+    "labels_zh": [
+      "动作特效",
+      "灾害",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913623+00:00"
   },
   {
-    "id": "action-fx_Volcanic Eruption_volcanic_eruption",
+    "id": "action_fx_volcanic_eruption_volcanic_eruption",
     "term": "a volcanic eruption with molten lava spewing skyward and a t",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "disaster",
     "labels": [
       "volcanic-eruption"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -249,18 +313,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Lava spewing, ash plume. Prompt hint: a volcanic eruption with molten lava spewing skyward and a towering ash plume billowing into the atmosphere, glowing orange streams cascading down the slope and pyroclastic clouds rolling outward"
+    "notes": "Description: Lava spewing, ash plume. Prompt hint: a volcanic eruption with molten lava spewing skyward and a towering ash plume billowing into the atmosphere, glowing orange streams cascading down the slope and pyroclastic clouds rolling outward",
+    "term_zh": "火山喷发",
+    "labels_zh": [
+      "动作特效",
+      "灾害",
+      "火山喷发",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913627+00:00"
   },
   {
-    "id": "action-fx_Lava Flow_lava_flow",
+    "id": "action_fx_lava_flow_lava_flow",
     "term": "a glowing molten lava flow creeping across the ground",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "disaster",
     "labels": [
       "lava-flow"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -270,18 +341,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Glowing molten river creeping across ground. Prompt hint: a glowing molten lava flow creeping across the ground, bright orange-red rivers of fire snaking through cooled black crust with shimmering heat distortion above and wisps of sulfurous smoke"
+    "notes": "Description: Glowing molten river creeping across ground. Prompt hint: a glowing molten lava flow creeping across the ground, bright orange-red rivers of fire snaking through cooled black crust with shimmering heat distortion above and wisps of sulfurous smoke",
+    "term_zh": "发光熔岩流缓慢流过地面",
+    "labels_zh": [
+      "动作特效",
+      "灾害",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913632+00:00"
   },
   {
-    "id": "action-fx_Falling Ash Rain_ash_rain",
+    "id": "action_fx_falling_ash_rain_ash_rain",
     "term": "falling volcanic ash",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "disaster",
     "labels": [
       "ash-rain"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -291,18 +368,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Apocalyptic grey ash falling like snow. Prompt hint: thick grey volcanic ash falling like dirty snow across the scene, apocalyptic post-eruption atmosphere with fine flakes settling on every surface and a hazy desaturated sky"
+    "notes": "Description: Apocalyptic grey ash falling like snow. Prompt hint: thick grey volcanic ash falling like dirty snow across the scene, apocalyptic post-eruption atmosphere with fine flakes settling on every surface and a hazy desaturated sky",
+    "term_zh": "落下的火山灰",
+    "labels_zh": [
+      "动作特效",
+      "灾害",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.402293+00:00"
   },
   {
-    "id": "action-fx_Avalanche_avalanche",
+    "id": "action_fx_avalanche_avalanche",
     "term": "a massive avalanche tumbling down a mountainside",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "disaster",
     "labels": [
       "avalanche"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -312,18 +395,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Wall of snow tumbling down mountainside. Prompt hint: a massive avalanche tumbling down a mountainside, wall of churning snow and ice cascading at speed with a billowing powder cloud rolling forward and crushing everything in its path"
+    "notes": "Description: Wall of snow tumbling down mountainside. Prompt hint: a massive avalanche tumbling down a mountainside, wall of churning snow and ice cascading at speed with a billowing powder cloud rolling forward and crushing everything in its path",
+    "term_zh": "巨型雪崩沿山坡奔涌而下",
+    "labels_zh": [
+      "动作特效",
+      "灾害",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913635+00:00"
   },
   {
-    "id": "action-fx_Hailstorm_hailstorm",
+    "id": "action_fx_hailstorm_hailstorm",
     "term": "a violent hailstorm pummeling the scene",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "disaster",
     "labels": [
       "hailstorm"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -333,18 +422,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Large hailstones bouncing off surfaces. Prompt hint: a violent hailstorm pummeling the scene, large hailstones bouncing off surfaces and shattering glass with white streaks of falling ice cutting through dark stormy clouds"
+    "notes": "Description: Large hailstones bouncing off surfaces. Prompt hint: a violent hailstorm pummeling the scene, large hailstones bouncing off surfaces and shattering glass with white streaks of falling ice cutting through dark stormy clouds",
+    "term_zh": "猛烈冰雹暴击打画面",
+    "labels_zh": [
+      "动作特效",
+      "灾害",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.402535+00:00"
   },
   {
-    "id": "action-fx_Small Explosion_explosion_small",
+    "id": "action_fx_small_explosion_explosion_small",
     "term": "a compact small explosion with a sharp focal flash",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "fire-blasts",
     "labels": [
       "explosion-small"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -354,18 +449,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Compact blast with focal flash. Prompt hint: a compact small explosion with a sharp focal flash, contained orange fireball expanding outward with a shockwave of dust and a brief plume of smoke rising directly above"
+    "notes": "Description: Compact blast with focal flash. Prompt hint: a compact small explosion with a sharp focal flash, contained orange fireball expanding outward with a shockwave of dust and a brief plume of smoke rising directly above",
+    "term_zh": "紧凑小爆炸带锐利聚焦闪光",
+    "labels_zh": [
+      "动作特效",
+      "火焰",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913639+00:00"
   },
   {
-    "id": "action-fx_Large Explosion_explosion_large",
+    "id": "action_fx_large_explosion_explosion_large",
     "term": "a large explosion at vehicle scale",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "fire-blasts",
     "labels": [
       "explosion-large"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -375,18 +476,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Vehicle-scale fireball with debris. Prompt hint: a large explosion at vehicle scale, churning fireball of orange and yellow flames expanding outward with debris hurled into the air and a thick black smoke crown billowing skyward"
+    "notes": "Description: Vehicle-scale fireball with debris. Prompt hint: a large explosion at vehicle scale, churning fireball of orange and yellow flames expanding outward with debris hurled into the air and a thick black smoke crown billowing skyward",
+    "term_zh": "车辆级大型爆炸",
+    "labels_zh": [
+      "动作特效",
+      "火焰",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913643+00:00"
   },
   {
-    "id": "action-fx_Massive Explosion_explosion_massive",
+    "id": "action_fx_massive_explosion_explosion_massive",
     "term": "a massive explosion erupting in the scene with a building-le",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "fire-blasts",
     "labels": [
       "explosion-massive"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -396,18 +503,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Building-leveling fireball with shockwave. Prompt hint: a massive explosion erupting in the scene with a building-leveling fireball, dense orange-red flame core expanding outward and a visible shockwave displacing dust and debris in a radial blast"
+    "notes": "Description: Building-leveling fireball with shockwave. Prompt hint: a massive explosion erupting in the scene with a building-leveling fireball, dense orange-red flame core expanding outward and a visible shockwave displacing dust and debris in a radial blast",
+    "term_zh": "巨型爆炸引发建筑级火球",
+    "labels_zh": [
+      "动作特效",
+      "火焰",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.509799+00:00"
   },
   {
-    "id": "action-fx_Nuclear Detonation_nuclear_detonation",
+    "id": "action_fx_nuclear_detonation_nuclear_detonation",
     "term": "a nuclear detonation flashing on the horizon",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "sci-fi",
     "labels": [
       "nuclear-detonation"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -417,18 +530,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Mushroom cloud + horizon-bright flash. Prompt hint: a nuclear detonation flashing on the horizon, blinding white core followed by a towering mushroom cloud column rising into the upper atmosphere with concentric shockwave ripples and an apocalyptic glow lighting the entire landscape"
+    "notes": "Description: Mushroom cloud + horizon-bright flash. Prompt hint: a nuclear detonation flashing on the horizon, blinding white core followed by a towering mushroom cloud column rising into the upper atmosphere with concentric shockwave ripples and an apocalyptic glow lighting the entire landscape",
+    "term_zh": "核爆在地平线闪光",
+    "labels_zh": [
+      "动作特效",
+      "科幻",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913647+00:00"
   },
   {
-    "id": "action-fx_Airborne Fireball_fireball_airborne",
+    "id": "action_fx_airborne_fireball_fireball_airborne",
     "term": "an airborne fireball rolling through mid-air",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "fire-blasts",
     "labels": [
       "fireball-airborne"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -438,18 +557,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Mid-air rolling ball of flame. Prompt hint: an airborne fireball rolling through mid-air, churning sphere of orange-red flame with trailing smoke streamers and a halo of heat distortion warping the surrounding light"
+    "notes": "Description: Mid-air rolling ball of flame. Prompt hint: an airborne fireball rolling through mid-air, churning sphere of orange-red flame with trailing smoke streamers and a halo of heat distortion warping the surrounding light",
+    "term_zh": "空中火球翻腾过中空",
+    "labels_zh": [
+      "动作特效",
+      "火焰",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913651+00:00"
   },
   {
-    "id": "action-fx_Gas Explosion_gas_explosion",
+    "id": "action_fx_gas_explosion_gas_explosion",
     "term": "a propane gas explosion bursting outward",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "fire-blasts",
     "labels": [
       "gas-explosion"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -459,18 +584,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Bright propane-style burst. Prompt hint: a propane gas explosion bursting outward, bright bluish-orange flash at the core fading into a radiating fireball with the distinctive sharp flame profile and glass shattering at the periphery"
+    "notes": "Description: Bright propane-style burst. Prompt hint: a propane gas explosion bursting outward, bright bluish-orange flash at the core fading into a radiating fireball with the distinctive sharp flame profile and glass shattering at the periphery",
+    "term_zh": "丙烷燃气爆炸向外迸发",
+    "labels_zh": [
+      "动作特效",
+      "火焰",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913654+00:00"
   },
   {
-    "id": "action-fx_Oil Fire_oil_fire",
+    "id": "action_fx_oil_fire_oil_fire",
     "term": "an oil fire burning in the scene",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "misc",
     "labels": [
       "oil-fire"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -480,18 +611,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Tall greasy flames + thick black smoke. Prompt hint: an oil fire burning in the scene, tall greasy orange flames licking upward with dense roiling black smoke pouring into the sky and a hellish heat shimmer obscuring the background"
+    "notes": "Description: Tall greasy flames + thick black smoke. Prompt hint: an oil fire burning in the scene, tall greasy orange flames licking upward with dense roiling black smoke pouring into the sky and a hellish heat shimmer obscuring the background",
+    "term_zh": "画面中石油燃烧",
+    "labels_zh": [
+      "动作特效",
+      "杂项",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913658+00:00"
   },
   {
-    "id": "action-fx_Blazing Inferno_blazing_inferno",
+    "id": "action_fx_blazing_inferno_blazing_inferno",
     "term": "a blazing inferno consuming the scene",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "fire-blasts",
     "labels": [
       "blazing-inferno"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -501,18 +638,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Wall of fire consuming everything. Prompt hint: a blazing inferno consuming the scene, wall of roaring orange flames climbing every surface with thick black smoke pouring upward and embers swirling in the convection currents above"
+    "notes": "Description: Wall of fire consuming everything. Prompt hint: a blazing inferno consuming the scene, wall of roaring orange flames climbing every surface with thick black smoke pouring upward and embers swirling in the convection currents above",
+    "term_zh": "熊熊炼狱吞噬画面",
+    "labels_zh": [
+      "动作特效",
+      "火焰",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913662+00:00"
   },
   {
-    "id": "action-fx_Flame Burst_flame_burst",
+    "id": "action_fx_flame_burst_flame_burst",
     "term": "a directional flame burst shooting through the scene",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "fire-blasts",
     "labels": [
       "flame-burst"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -522,18 +665,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Quick directional jet of flame. Prompt hint: a directional flame burst shooting through the scene, sharp jet of orange-yellow fire projecting forward like a flamethrower stream with trailing smoke and visible heat warping the air behind it"
+    "notes": "Description: Quick directional jet of flame. Prompt hint: a directional flame burst shooting through the scene, sharp jet of orange-yellow fire projecting forward like a flamethrower stream with trailing smoke and visible heat warping the air behind it",
+    "term_zh": "定向火焰爆破穿过画面",
+    "labels_zh": [
+      "动作特效",
+      "火焰",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913665+00:00"
   },
   {
-    "id": "action-fx_Ember Shower_ember_shower",
+    "id": "action_fx_ember_shower_ember_shower",
     "term": "a dramatic ember shower cascading through the scene",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "fire-blasts",
     "labels": [
       "ember-shower"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -543,18 +692,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Cascade of glowing orange embers. Prompt hint: a dramatic ember shower cascading through the scene, glowing orange and gold embers tumbling and drifting through the air like fiery snowfall with trails of smoke and ash"
+    "notes": "Description: Cascade of glowing orange embers. Prompt hint: a dramatic ember shower cascading through the scene, glowing orange and gold embers tumbling and drifting through the air like fiery snowfall with trails of smoke and ash",
+    "term_zh": "戏剧余烬雨瀑飞过画面",
+    "labels_zh": [
+      "动作特效",
+      "火焰",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913669+00:00"
   },
   {
-    "id": "action-fx_Smoke Pillar_smoke_pillar",
+    "id": "action_fx_smoke_pillar_smoke_pillar",
     "term": "a tall vertical column of dense black smoke rising into the ",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "misc",
     "labels": [
       "smoke-pillar"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -564,18 +719,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Tall vertical column of black smoke. Prompt hint: a tall vertical column of dense black smoke rising into the sky, twisting upward with internal turbulence and a faint orange glow at the base hinting at flames below"
+    "notes": "Description: Tall vertical column of black smoke. Prompt hint: a tall vertical column of dense black smoke rising into the sky, twisting upward with internal turbulence and a faint orange glow at the base hinting at flames below",
+    "term_zh": "高耸浓密黑烟柱升入空中",
+    "labels_zh": [
+      "动作特效",
+      "杂项",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.509806+00:00"
   },
   {
-    "id": "action-fx_Mushroom Cloud_mushroom_cloud",
+    "id": "action_fx_mushroom_cloud_mushroom_cloud",
     "term": "a classic mushroom cloud rising in the distance",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "fire-blasts",
     "labels": [
       "mushroom-cloud"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -585,18 +746,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Classic dome-and-stem detonation cloud. Prompt hint: a classic mushroom cloud rising in the distance, dome-and-stem detonation column with internal orange glow and turbulent grey-brown smoke swirling outward at the cap"
+    "notes": "Description: Classic dome-and-stem detonation cloud. Prompt hint: a classic mushroom cloud rising in the distance, dome-and-stem detonation column with internal orange glow and turbulent grey-brown smoke swirling outward at the cap",
+    "term_zh": "经典蘑菇云远处升起",
+    "labels_zh": [
+      "动作特效",
+      "火焰",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913673+00:00"
   },
   {
-    "id": "action-fx_Lightning Bolt_lightning_bolt",
+    "id": "action_fx_lightning_bolt_lightning_bolt",
     "term": "a brilliant lightning bolt forking across a dark stormy sky",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "electric",
     "labels": [
       "lightning-bolt"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -606,18 +773,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Branching strike across stormy sky. Prompt hint: a brilliant lightning bolt forking across a dark stormy sky, blinding white-blue branching arcs cutting through the clouds with a momentary illumination of the surrounding scene"
+    "notes": "Description: Branching strike across stormy sky. Prompt hint: a brilliant lightning bolt forking across a dark stormy sky, blinding white-blue branching arcs cutting through the clouds with a momentary illumination of the surrounding scene",
+    "term_zh": "明亮闪电分叉划过黑暗暴风雨天空",
+    "labels_zh": [
+      "动作特效",
+      "电力",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913677+00:00"
   },
   {
-    "id": "action-fx_Lightning Strike Impact_lightning_strike_impact",
+    "id": "action_fx_lightning_strike_impact_lightning_strike_impact",
     "term": "a lightning bolt striking the ground in the scene",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "electric",
     "labels": [
       "lightning-strike-impact"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -627,18 +800,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Bolt hitting the ground with explosion of light. Prompt hint: a lightning bolt striking the ground in the scene, blinding white-blue column of electricity slamming into a surface with a radial burst of light, scattering sparks and a thunderclap shockwave displacing nearby dust"
+    "notes": "Description: Bolt hitting the ground with explosion of light. Prompt hint: a lightning bolt striking the ground in the scene, blinding white-blue column of electricity slamming into a surface with a radial burst of light, scattering sparks and a thunderclap shockwave displacing nearby dust",
+    "term_zh": "闪电击中画面地面",
+    "labels_zh": [
+      "动作特效",
+      "电力",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913680+00:00"
   },
   {
-    "id": "action-fx_Lightning Storm_lightning_storm",
+    "id": "action_fx_lightning_storm_lightning_storm",
     "term": "a violent lightning storm with multiple simultaneous strikes",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "electric",
     "labels": [
       "lightning-storm"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -648,18 +827,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Multiple simultaneous strikes. Prompt hint: a violent lightning storm with multiple simultaneous strikes branching across the heavens, several jagged white-blue bolts forking down from low clouds and lighting the whole scene in stark intermittent flashes"
+    "notes": "Description: Multiple simultaneous strikes. Prompt hint: a violent lightning storm with multiple simultaneous strikes branching across the heavens, several jagged white-blue bolts forking down from low clouds and lighting the whole scene in stark intermittent flashes",
+    "term_zh": "猛烈雷暴多次同时击中",
+    "labels_zh": [
+      "动作特效",
+      "电力",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913684+00:00"
   },
   {
-    "id": "action-fx_Ball Lightning_ball_lightning",
+    "id": "action_fx_ball_lightning_ball_lightning",
     "term": "a rare ball lightning phenomenon floating in mid-air",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "electric",
     "labels": [
       "ball-lightning"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -669,18 +854,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Glowing orb of electric plasma floating mid-air. Prompt hint: a rare ball lightning phenomenon floating in mid-air, glowing blue-white orb of electric plasma drifting slowly with crackling tendrils of energy spitting outward and a faint hum implied by visible field distortion"
+    "notes": "Description: Glowing orb of electric plasma floating mid-air. Prompt hint: a rare ball lightning phenomenon floating in mid-air, glowing blue-white orb of electric plasma drifting slowly with crackling tendrils of energy spitting outward and a faint hum implied by visible field distortion",
+    "term_zh": "罕见球状闪电悬浮中空",
+    "labels_zh": [
+      "动作特效",
+      "电力",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913688+00:00"
   },
   {
-    "id": "action-fx_Plasma Arc_plasma_arc",
+    "id": "action_fx_plasma_arc_plasma_arc",
     "term": "a continuous high-voltage plasma arc crackling between two p",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "electric",
     "labels": [
       "plasma-arc"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -690,18 +881,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: High-voltage continuous arc between two points. Prompt hint: a continuous high-voltage plasma arc crackling between two points in the scene, white-violet electric current branching and writhing with intense glow and small showers of sparks at each terminal"
+    "notes": "Description: High-voltage continuous arc between two points. Prompt hint: a continuous high-voltage plasma arc crackling between two points in the scene, white-violet electric current branching and writhing with intense glow and small showers of sparks at each terminal",
+    "term_zh": "两点间持续高压等离子电弧嗞嗞作响",
+    "labels_zh": [
+      "动作特效",
+      "电力",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.509810+00:00"
   },
   {
-    "id": "action-fx_Taser Sparks_taser_sparks",
+    "id": "action_fx_taser_sparks_taser_sparks",
     "term": "a compact taser-style electric discharge crackling on contac",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "electric",
     "labels": [
       "taser-sparks"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -711,18 +908,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Compact crackling electric discharge on contact. Prompt hint: a compact taser-style electric discharge crackling on contact, bright blue-white sparks branching outward in a small radial spray with sharp little arcs jumping between contact points"
+    "notes": "Description: Compact crackling electric discharge on contact. Prompt hint: a compact taser-style electric discharge crackling on contact, bright blue-white sparks branching outward in a small radial spray with sharp little arcs jumping between contact points",
+    "term_zh": "紧凑电击枪放电嗞嗞作响",
+    "labels_zh": [
+      "动作特效",
+      "电力",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.509814+00:00"
   },
   {
-    "id": "action-fx_Electric Discharge_electric_discharge",
+    "id": "action_fx_electric_discharge_electric_discharge",
     "term": "a sudden electric discharge bursting from a malfunctioning d",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "electric",
     "labels": [
       "electric-discharge"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -732,18 +935,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Burst of arcing energy from a malfunctioning device. Prompt hint: a sudden electric discharge bursting from a malfunctioning device, branching arcs of blue-white current spraying outward with showers of sparks and faint smoke trails curling from blackened contact points"
+    "notes": "Description: Burst of arcing energy from a malfunctioning device. Prompt hint: a sudden electric discharge bursting from a malfunctioning device, branching arcs of blue-white current spraying outward with showers of sparks and faint smoke trails curling from blackened contact points",
+    "term_zh": "突然电气放电从故障设备喷出",
+    "labels_zh": [
+      "动作特效",
+      "电力",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.509818+00:00"
   },
   {
-    "id": "action-fx_Transformer Blowout_transformer_blowout",
+    "id": "action_fx_transformer_blowout_transformer_blowout",
     "term": "a transformer blowout atop a power pole",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "misc",
     "labels": [
       "transformer-blowout"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -753,18 +962,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Blue-white explosion atop a power pole. Prompt hint: a transformer blowout atop a power pole, brilliant blue-white explosion of electric energy with showers of sparks raining downward and a brief mushroom of smoke followed by a blackout shadow falling across the scene"
+    "notes": "Description: Blue-white explosion atop a power pole. Prompt hint: a transformer blowout atop a power pole, brilliant blue-white explosion of electric energy with showers of sparks raining downward and a brief mushroom of smoke followed by a blackout shadow falling across the scene",
+    "term_zh": "电线杆顶部变压器爆炸",
+    "labels_zh": [
+      "动作特效",
+      "杂项",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913692+00:00"
   },
   {
-    "id": "action-fx_St. Elmo's Fire_st_elmos_fire",
+    "id": "action_fx_st_elmo_s_fire_st_elmos_fire",
     "term": "an eerie St. Elmo's Fire phenomenon",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "misc",
     "labels": [
       "st-elmos-fire"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -774,18 +989,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Eerie blue plasma glow on metal extremities. Prompt hint: an eerie St. Elmo's Fire phenomenon, soft blue-violet plasma glow flickering along metal extremities and pointed surfaces with a corona-like halo and faint crackling discharge"
+    "notes": "Description: Eerie blue plasma glow on metal extremities. Prompt hint: an eerie St. Elmo's Fire phenomenon, soft blue-violet plasma glow flickering along metal extremities and pointed surfaces with a corona-like halo and faint crackling discharge",
+    "term_zh": "诡异圣艾尔摩之火现象",
+    "labels_zh": [
+      "动作特效",
+      "杂项",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.402544+00:00"
   },
   {
-    "id": "action-fx_Static Shock Burst_static_shock_burst",
+    "id": "action_fx_static_shock_burst_static_shock_burst",
     "term": "a small static shock burst visible at point of contact",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "electric",
     "labels": [
       "static-shock-burst"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -795,18 +1016,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Tiny visible static-electricity zap. Prompt hint: a small static shock burst visible at point of contact, tiny crackling blue-white spark jumping between two surfaces with a brief micro-arc of electricity and a hint of ozone-tinted air"
+    "notes": "Description: Tiny visible static-electricity zap. Prompt hint: a small static shock burst visible at point of contact, tiny crackling blue-white spark jumping between two surfaces with a brief micro-arc of electricity and a hint of ozone-tinted air",
+    "term_zh": "接触点小静电冲击爆发",
+    "labels_zh": [
+      "动作特效",
+      "电力",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.402548+00:00"
   },
   {
-    "id": "action-fx_Muzzle Flash_muzzle_flash",
+    "id": "action_fx_muzzle_flash_muzzle_flash",
     "term": "a bright muzzle flash erupting from a gun barrel",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "disaster",
     "labels": [
       "muzzle-flash"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -816,18 +1043,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Bright orange flash from gun barrel. Prompt hint: a bright muzzle flash erupting from a gun barrel, sharp orange-yellow burst of light at the barrel tip with smoke trailing and the firearm in mid-recoil"
+    "notes": "Description: Bright orange flash from gun barrel. Prompt hint: a bright muzzle flash erupting from a gun barrel, sharp orange-yellow burst of light at the barrel tip with smoke trailing and the firearm in mid-recoil",
+    "term_zh": "明亮枪口火焰从枪管喷出",
+    "labels_zh": [
+      "动作特效",
+      "灾害",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913696+00:00"
   },
   {
-    "id": "action-fx_Gunshot Impact_gunshot_impact",
+    "id": "action_fx_gunshot_impact_gunshot_impact",
     "term": "a gunshot impact on a surface",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "combat",
     "labels": [
       "gunshot-impact"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -837,18 +1070,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Bullet hitting a surface with debris spray. Prompt hint: a gunshot impact on a surface, sharp burst of debris spraying outward from the bullet hole with small fragments and dust scattering radially in the moment of strike"
+    "notes": "Description: Bullet hitting a surface with debris spray. Prompt hint: a gunshot impact on a surface, sharp burst of debris spraying outward from the bullet hole with small fragments and dust scattering radially in the moment of strike",
+    "term_zh": "枪击命中表面",
+    "labels_zh": [
+      "动作特效",
+      "战斗",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913699+00:00"
   },
   {
-    "id": "action-fx_Bullet Trail_bullet_trail",
+    "id": "action_fx_bullet_trail_bullet_trail",
     "term": "a streaking bullet trail cutting through the air",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "combat",
     "labels": [
       "bullet-trail"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -858,18 +1097,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Visible bullet streak through air. Prompt hint: a streaking bullet trail cutting through the air, thin bright tracer line accompanied by faint vapor wake suggesting hypersonic velocity and a sense of forward motion through the frame"
+    "notes": "Description: Visible bullet streak through air. Prompt hint: a streaking bullet trail cutting through the air, thin bright tracer line accompanied by faint vapor wake suggesting hypersonic velocity and a sense of forward motion through the frame",
+    "term_zh": "子弹拖尾划破空气",
+    "labels_zh": [
+      "动作特效",
+      "战斗",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913703+00:00"
   },
   {
-    "id": "action-fx_Sword Spark_sword_spark",
+    "id": "action_fx_sword_spark_sword_spark",
     "term": "metal-on-metal friction sparks",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "combat",
     "labels": [
       "sword-spark"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -879,18 +1124,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Macro shower of metal-on-metal friction sparks. Prompt hint: a macro close-up of bright sparks at the moment of metal-on-metal friction, white-hot incandescent flecks scattering radially with brief streaks of friction-light, captured at extreme close range with no swords or blades visible in the frame"
+    "notes": "Description: Macro shower of metal-on-metal friction sparks. Prompt hint: a macro close-up of bright sparks at the moment of metal-on-metal friction, white-hot incandescent flecks scattering radially with brief streaks of friction-light, captured at extreme close range with no swords or blades visible in the frame",
+    "term_zh": "金属摩擦火花",
+    "labels_zh": [
+      "动作特效",
+      "战斗",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913707+00:00"
   },
   {
-    "id": "action-fx_Blade Clash_blade_clash",
+    "id": "action_fx_blade_clash_blade_clash",
     "term": "two blades clashing together at the moment of impact",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "disaster",
     "labels": [
       "blade-clash"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -900,18 +1151,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Two blades meeting with impact wave. Prompt hint: two blades clashing together at the moment of impact, sparks flying outward from the contact line and a brief shockwave of displaced air rippling around the steel edges"
+    "notes": "Description: Two blades meeting with impact wave. Prompt hint: two blades clashing together at the moment of impact, sparks flying outward from the contact line and a brief shockwave of displaced air rippling around the steel edges",
+    "term_zh": "双刃撞击瞬间相撞",
+    "labels_zh": [
+      "动作特效",
+      "灾害",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.402553+00:00"
   },
   {
-    "id": "action-fx_Ricochet Spark_ricochet_spark",
+    "id": "action_fx_ricochet_spark_ricochet_spark",
     "term": "a bullet ricocheting off a metal surface",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "combat",
     "labels": [
       "ricochet-spark"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -921,18 +1178,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Bullet bouncing off metal with sparks. Prompt hint: a bullet ricocheting off a metal surface, sharp burst of orange-white sparks at the deflection point with the bullet visibly trailing off at a new angle and a thin streak of vapor in its wake"
+    "notes": "Description: Bullet bouncing off metal with sparks. Prompt hint: a bullet ricocheting off a metal surface, sharp burst of orange-white sparks at the deflection point with the bullet visibly trailing off at a new angle and a thin streak of vapor in its wake",
+    "term_zh": "子弹从金属表面反弹",
+    "labels_zh": [
+      "动作特效",
+      "战斗",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913710+00:00"
   },
   {
-    "id": "action-fx_Debris Field_debris_field",
+    "id": "action_fx_debris_field_debris_field",
     "term": "debris frozen in mid-air",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "combat",
     "labels": [
       "debris-field"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -942,18 +1205,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Frozen mid-air shrapnel scattering. Prompt hint: a debris field frozen in mid-air, fragments of wood, metal, and concrete scattering outward in a radial pattern from a central impact point with dust and smoke swirling among the larger pieces"
+    "notes": "Description: Frozen mid-air shrapnel scattering. Prompt hint: a debris field frozen in mid-air, fragments of wood, metal, and concrete scattering outward in a radial pattern from a central impact point with dust and smoke swirling among the larger pieces",
+    "term_zh": "碎屑定格中空",
+    "labels_zh": [
+      "动作特效",
+      "战斗",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913714+00:00"
   },
   {
-    "id": "action-fx_Airborne Glass Shatter_glass_shatter_airborne",
+    "id": "action_fx_airborne_glass_shatter_glass_shatter_airborne",
     "term": "glass shattering in mid-air",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "combat",
     "labels": [
       "glass-shatter-airborne"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -963,18 +1232,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Glass exploding outward in mid-air shards. Prompt hint: a window or glass surface shattering outward in mid-air, hundreds of jagged crystalline shards exploding into the scene catching the light and tumbling in suspended chaos at the moment of impact"
+    "notes": "Description: Glass exploding outward in mid-air shards. Prompt hint: a window or glass surface shattering outward in mid-air, hundreds of jagged crystalline shards exploding into the scene catching the light and tumbling in suspended chaos at the moment of impact",
+    "term_zh": "玻璃中空破碎",
+    "labels_zh": [
+      "动作特效",
+      "战斗",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913717+00:00"
   },
   {
-    "id": "action-fx_Ground Shockwave_shockwave_ground",
+    "id": "action_fx_ground_shockwave_shockwave_ground",
     "term": "a visible shockwave expanding at ground level",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "combat",
     "labels": [
       "shockwave-ground"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -984,18 +1259,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Visible expanding ring at ground level. Prompt hint: a visible shockwave expanding at ground level, dust and small debris pushed outward in a clear radial ring from the impact origin with a momentary distortion in the air above"
+    "notes": "Description: Visible expanding ring at ground level. Prompt hint: a visible shockwave expanding at ground level, dust and small debris pushed outward in a clear radial ring from the impact origin with a momentary distortion in the air above",
+    "term_zh": "可见冲击波在地面扩散",
+    "labels_zh": [
+      "动作特效",
+      "战斗",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.402557+00:00"
   },
   {
-    "id": "action-fx_Sonic Boom_sonic_boom",
+    "id": "action_fx_sonic_boom_sonic_boom",
     "term": "a sonic boom cone of compressed air visible around a superso",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "combat",
     "labels": [
       "sonic-boom"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1005,18 +1286,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Cone of compressed air at supersonic speed. Prompt hint: a sonic boom cone of compressed air visible around a supersonic object, vapor cone forming a sharp white halo with a trailing condensation cloud and a sense of audible thunder implied by the violent rippling distortion"
+    "notes": "Description: Cone of compressed air at supersonic speed. Prompt hint: a sonic boom cone of compressed air visible around a supersonic object, vapor cone forming a sharp white halo with a trailing condensation cloud and a sense of audible thunder implied by the violent rippling distortion",
+    "term_zh": "音爆压缩空气锥环绕超声速物体",
+    "labels_zh": [
+      "动作特效",
+      "战斗",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.509822+00:00"
   },
   {
-    "id": "action-fx_Smoke Grenade_smoke_grenade",
+    "id": "action_fx_smoke_grenade_smoke_grenade",
     "term": "a smoke grenade billowing colored smoke outward",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "misc",
     "labels": [
       "smoke-grenade"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1026,18 +1313,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Thick colored smoke blooming outward. Prompt hint: a smoke grenade billowing colored smoke outward, thick clouds of dense vapor blooming in red-orange or grey rolling across the scene at low height and obscuring the background tactical-style"
+    "notes": "Description: Thick colored smoke blooming outward. Prompt hint: a smoke grenade billowing colored smoke outward, thick clouds of dense vapor blooming in red-orange or grey rolling across the scene at low height and obscuring the background tactical-style",
+    "term_zh": "烟雾弹向四周喷吐彩色烟雾",
+    "labels_zh": [
+      "动作特效",
+      "杂项",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.402562+00:00"
   },
   {
-    "id": "action-fx_Flashbang_flashbang",
+    "id": "action_fx_flashbang_flashbang",
     "term": "a flashbang detonation",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "disaster",
     "labels": [
       "flashbang"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1047,18 +1340,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Blinding white-out burst of light. Prompt hint: a flashbang detonation, intense blinding white-out burst of light filling the frame with a shockwave of compressed air and a fast-fading core of pure white at the explosion's center"
+    "notes": "Description: Blinding white-out burst of light. Prompt hint: a flashbang detonation, intense blinding white-out burst of light filling the frame with a shockwave of compressed air and a fast-fading core of pure white at the explosion's center",
+    "term_zh": "闪光弹爆震",
+    "labels_zh": [
+      "动作特效",
+      "灾害",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913721+00:00"
   },
   {
-    "id": "action-fx_Blood Spray_blood_spray",
+    "id": "action_fx_blood_spray_blood_spray",
     "term": "a cinematic arc of blood droplets spraying outward in slow-m",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "combat",
     "labels": [
       "blood-spray"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1068,18 +1367,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Cinematic arc of blood droplets. Prompt hint: a cinematic arc of blood droplets spraying outward in slow-motion, suspended red flecks tracing a curved path through the air with the dramatic stylized aesthetic of action cinema"
+    "notes": "Description: Cinematic arc of blood droplets. Prompt hint: a cinematic arc of blood droplets spraying outward in slow-motion, suspended red flecks tracing a curved path through the air with the dramatic stylized aesthetic of action cinema",
+    "term_zh": "电影感血弧滴慢动作飞溅",
+    "labels_zh": [
+      "动作特效",
+      "战斗",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.509826+00:00"
   },
   {
-    "id": "action-fx_Arrow Hit Spark_arrow_hit_spark",
+    "id": "action_fx_arrow_hit_spark_arrow_hit_spark",
     "term": "arrow impact sparks",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "combat",
     "labels": [
       "arrow-hit-spark"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1089,18 +1394,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Arrow striking with small sparks at impact. Prompt hint: an arrow striking a surface with a small burst of sparks at the impact point, shaft quivering on contact and tiny incandescent flecks scattering outward from the arrowhead"
+    "notes": "Description: Arrow striking with small sparks at impact. Prompt hint: an arrow striking a surface with a small burst of sparks at the impact point, shaft quivering on contact and tiny incandescent flecks scattering outward from the arrowhead",
+    "term_zh": "箭矢撞击火花",
+    "labels_zh": [
+      "动作特效",
+      "战斗",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.402565+00:00"
   },
   {
-    "id": "action-fx_Laser Blast_laser_blast",
+    "id": "action_fx_laser_blast_laser_blast",
     "term": "a bright coherent laser blast cutting through the scene",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "sci-fi",
     "labels": [
       "laser-blast"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1110,18 +1421,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Bright coherent beam of energy. Prompt hint: a bright coherent laser blast cutting through the scene, vivid red or green beam of focused energy with a glowing core and a halo of scattered light along its path"
+    "notes": "Description: Bright coherent beam of energy. Prompt hint: a bright coherent laser blast cutting through the scene, vivid red or green beam of focused energy with a glowing core and a halo of scattered light along its path",
+    "term_zh": "明亮相干激光束穿过画面",
+    "labels_zh": [
+      "动作特效",
+      "科幻",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913725+00:00"
   },
   {
-    "id": "action-fx_Energy Beam_energy_beam",
+    "id": "action_fx_energy_beam_energy_beam",
     "term": "a wide pulsing energy beam projecting forward",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "sci-fi",
     "labels": [
       "energy-beam"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1131,18 +1448,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Wide pulsing beam of plasma energy. Prompt hint: a wide pulsing energy beam projecting forward, swirling plasma core wrapped in concentric pulses of light and a halo of bright glow saturating the surrounding atmosphere"
+    "notes": "Description: Wide pulsing beam of plasma energy. Prompt hint: a wide pulsing energy beam projecting forward, swirling plasma core wrapped in concentric pulses of light and a halo of bright glow saturating the surrounding atmosphere",
+    "term_zh": "宽阔脉动能量束向前投射",
+    "labels_zh": [
+      "动作特效",
+      "科幻",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913729+00:00"
   },
   {
-    "id": "action-fx_Plasma Bolt_plasma_bolt",
+    "id": "action_fx_plasma_bolt_plasma_bolt",
     "term": "a glowing plasma bolt streaking through the air",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "electric",
     "labels": [
       "plasma-bolt"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1152,18 +1475,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Glowing projectile leaving a vapor trail. Prompt hint: a glowing plasma bolt streaking through the air, bright cyan or violet projectile with a trailing vapor wake and small radiating arcs of energy spitting from its surface"
+    "notes": "Description: Glowing projectile leaving a vapor trail. Prompt hint: a glowing plasma bolt streaking through the air, bright cyan or violet projectile with a trailing vapor wake and small radiating arcs of energy spitting from its surface",
+    "term_zh": "发光等离子闪电划过空中",
+    "labels_zh": [
+      "动作特效",
+      "电力",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913732+00:00"
   },
   {
-    "id": "action-fx_Force Field Shimmer_force_field_shimmer",
+    "id": "action_fx_force_field_shimmer_force_field_shimmer",
     "term": "a translucent hexagonal force field shimmering in the scene",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "misc",
     "labels": [
       "force-field-shimmer"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1173,18 +1502,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Translucent hex-pattern energy barrier. Prompt hint: a translucent hexagonal force field shimmering in the scene, faint blue-cyan energy panels rippling with electric edges and refracting whatever lies behind it"
+    "notes": "Description: Translucent hex-pattern energy barrier. Prompt hint: a translucent hexagonal force field shimmering in the scene, faint blue-cyan energy panels rippling with electric edges and refracting whatever lies behind it",
+    "term_zh": "半透明六角force田野闪光inthe场景",
+    "labels_zh": [
+      "动作特效",
+      "杂项",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:55:59.065092+00:00"
   },
   {
-    "id": "action-fx_Force Field Impact_force_field_impact",
+    "id": "action_fx_force_field_impact_force_field_impact",
     "term": "a force field absorbing an impact",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "misc",
     "labels": [
       "force-field-impact"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1194,18 +1529,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Visible ripple where projectile hits shield. Prompt hint: a force field absorbing an impact, visible ripple spreading outward from the strike point with hexagonal energy panels glowing brightly at the contact site and discharge arcs branching across the surface"
+    "notes": "Description: Visible ripple where projectile hits shield. Prompt hint: a force field absorbing an impact, visible ripple spreading outward from the strike point with hexagonal energy panels glowing brightly at the contact site and discharge arcs branching across the surface",
+    "term_zh": "力场吸收冲击",
+    "labels_zh": [
+      "动作特效",
+      "杂项",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913736+00:00"
   },
   {
-    "id": "action-fx_Portal Opening_portal_opening",
+    "id": "action_fx_portal_opening_portal_opening",
     "term": "sci-fi portal opening",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "sci-fi",
     "labels": [
       "portal-opening"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1215,18 +1556,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Swirling vortex of energy tearing open in space. Prompt hint: a sci-fi portal tearing open in space, swirling vortex of bluish energy with edges flickering between dimensions and a glowing event horizon framing a glimpse of the destination beyond"
+    "notes": "Description: Swirling vortex of energy tearing open in space. Prompt hint: a sci-fi portal tearing open in space, swirling vortex of bluish energy with edges flickering between dimensions and a glowing event horizon framing a glimpse of the destination beyond",
+    "term_zh": "科幻传送门开启",
+    "labels_zh": [
+      "动作特效",
+      "科幻",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913740+00:00"
   },
   {
-    "id": "action-fx_Warp Distortion_warp_distortion",
+    "id": "action_fx_warp_distortion_warp_distortion",
     "term": "spacetime warp distortion",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "sci-fi",
     "labels": [
       "warp-distortion"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1236,18 +1583,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Spacetime bending around an object. Prompt hint: a spacetime warp distortion bending the air around an object, light streaks curving inward and the background visibly stretched and refracted in the gravitational well of the effect"
+    "notes": "Description: Spacetime bending around an object. Prompt hint: a spacetime warp distortion bending the air around an object, light streaks curving inward and the background visibly stretched and refracted in the gravitational well of the effect",
+    "term_zh": "时空扭曲畸变",
+    "labels_zh": [
+      "动作特效",
+      "科幻",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913743+00:00"
   },
   {
-    "id": "action-fx_Hologram Flicker_hologram_flicker",
+    "id": "action_fx_hologram_flicker_hologram_flicker",
     "term": "a translucent holographic projection flickering and glitchin",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "sci-fi",
     "labels": [
       "hologram-flicker"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1257,18 +1610,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Translucent projection glitching. Prompt hint: a translucent holographic projection flickering and glitching in the scene, scanlines and chromatic noise distorting the cyan-blue figure with brief signal dropouts revealing the air behind it"
+    "notes": "Description: Translucent projection glitching. Prompt hint: a translucent holographic projection flickering and glitching in the scene, scanlines and chromatic noise distorting the cyan-blue figure with brief signal dropouts revealing the air behind it",
+    "term_zh": "半透明全息投影闪烁与故障",
+    "labels_zh": [
+      "动作特效",
+      "科幻",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.509830+00:00"
   },
   {
-    "id": "action-fx_Ion Storm_ion_storm",
+    "id": "action_fx_ion_storm_ion_storm",
     "term": "a crackling ion storm filling the scene",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "sci-fi",
     "labels": [
       "ion-storm"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1278,18 +1637,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Crackling field of charged particles against a cosmic backdrop. Prompt hint: a crackling ion storm filling the scene, field of charged particles flickering with ionized streamers and ribbons of plasma weaving through the air with auroral colors washing across the cosmic backdrop"
+    "notes": "Description: Crackling field of charged particles against a cosmic backdrop. Prompt hint: a crackling ion storm filling the scene, field of charged particles flickering with ionized streamers and ribbons of plasma weaving through the air with auroral colors washing across the cosmic backdrop",
+    "term_zh": "嗞嗞离子风暴充斥画面",
+    "labels_zh": [
+      "动作特效",
+      "科幻",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913747+00:00"
   },
   {
-    "id": "action-fx_Antimatter Flash_antimatter_flash",
+    "id": "action_fx_antimatter_flash_antimatter_flash",
     "term": "an antimatter annihilation flash",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "disaster",
     "labels": [
       "antimatter-flash"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1299,18 +1664,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Reality-tearing burst of pure white energy. Prompt hint: an antimatter annihilation flash, blinding burst of pure white energy radiating outward with the surrounding space appearing to tear and warp around the explosion's perfectly spherical core"
+    "notes": "Description: Reality-tearing burst of pure white energy. Prompt hint: an antimatter annihilation flash, blinding burst of pure white energy radiating outward with the surrounding space appearing to tear and warp around the explosion's perfectly spherical core",
+    "term_zh": "反物质湮灭闪光",
+    "labels_zh": [
+      "动作特效",
+      "灾害",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.402570+00:00"
   },
   {
-    "id": "action-fx_Fireball Spell_fireball_spell",
+    "id": "action_fx_fireball_spell_fireball_spell",
     "term": "a hand-cast fireball spell",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "fire-blasts",
     "labels": [
       "fireball-spell"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1320,18 +1691,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Hand-cast orb of swirling fire. Prompt hint: a hand-cast fireball spell, swirling orb of bright orange-red flame held mid-air with embers spinning around its surface and a halo of heat distortion warping the air at the caster's fingertips"
+    "notes": "Description: Hand-cast orb of swirling fire. Prompt hint: a hand-cast fireball spell, swirling orb of bright orange-red flame held mid-air with embers spinning around its surface and a halo of heat distortion warping the air at the caster's fingertips",
+    "term_zh": "手投火球术",
+    "labels_zh": [
+      "动作特效",
+      "火焰",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913751+00:00"
   },
   {
-    "id": "action-fx_Magic Aura_magic_aura",
+    "id": "action_fx_magic_aura_magic_aura",
     "term": "a glowing magic aura surrounding a figure",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "misc",
     "labels": [
       "magic-aura"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1341,18 +1718,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Glowing energy halo around a figure. Prompt hint: a glowing magic aura surrounding a figure, soft luminous halo of golden or violet energy radiating outward with shimmer particles drifting upward and faint runes hovering in the field"
+    "notes": "Description: Glowing energy halo around a figure. Prompt hint: a glowing magic aura surrounding a figure, soft luminous halo of golden or violet energy radiating outward with shimmer particles drifting upward and faint runes hovering in the field",
+    "term_zh": "人物周围发光魔法光环",
+    "labels_zh": [
+      "动作特效",
+      "杂项",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913755+00:00"
   },
   {
-    "id": "action-fx_Summoning Glyph_summoning_glyph",
+    "id": "action_fx_summoning_glyph_summoning_glyph",
     "term": "a glowing summoning circle inscribed on the ground",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "magic",
     "labels": [
       "summoning-glyph"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1362,18 +1745,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Glowing magical circle on the ground. Prompt hint: a glowing summoning circle inscribed on the ground, intricate concentric runic glyphs blazing with golden light and pillars of energy rising from the perimeter to form a column of arcane power"
+    "notes": "Description: Glowing magical circle on the ground. Prompt hint: a glowing summoning circle inscribed on the ground, intricate concentric runic glyphs blazing with golden light and pillars of energy rising from the perimeter to form a column of arcane power",
+    "term_zh": "地面发光召唤法阵",
+    "labels_zh": [
+      "动作特效",
+      "魔法",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913758+00:00"
   },
   {
-    "id": "action-fx_Lightning Magic_lightning_magic",
+    "id": "action_fx_lightning_magic_lightning_magic",
     "term": "lightning magic arcing from a caster's outstretched hands",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "electric",
     "labels": [
       "lightning-magic"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1383,18 +1772,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Electric sorcery arcing from caster's hands. Prompt hint: lightning magic arcing from a caster's outstretched hands, branching white-blue bolts of electric sorcery crackling forward with sparks spitting from fingertips and a halo of power glowing around the wrist"
+    "notes": "Description: Electric sorcery arcing from caster's hands. Prompt hint: lightning magic arcing from a caster's outstretched hands, branching white-blue bolts of electric sorcery crackling forward with sparks spitting from fingertips and a halo of power glowing around the wrist",
+    "term_zh": "施法者伸手指尖雷电魔法弧",
+    "labels_zh": [
+      "动作特效",
+      "电力",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.402574+00:00"
   },
   {
-    "id": "action-fx_Ice Shard Burst_ice_shard_burst",
+    "id": "action_fx_ice_shard_burst_ice_shard_burst",
     "term": "a burst of crystalline ice shards spraying outward",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "misc",
     "labels": [
       "ice-shard-burst"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1404,18 +1799,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Crystalline shards spraying outward. Prompt hint: a burst of crystalline ice shards spraying outward, dozens of jagged frozen splinters flying radially through cold mist with frost-blue refractive edges catching the light"
+    "notes": "Description: Crystalline shards spraying outward. Prompt hint: a burst of crystalline ice shards spraying outward, dozens of jagged frozen splinters flying radially through cold mist with frost-blue refractive edges catching the light",
+    "term_zh": "冰晶碎片爆发喷射",
+    "labels_zh": [
+      "动作特效",
+      "杂项",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913762+00:00"
   },
   {
-    "id": "action-fx_Energy Rune_energy_rune",
+    "id": "action_fx_energy_rune_energy_rune",
     "term": "a glowing arcane energy rune hovering in the air",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "sci-fi",
     "labels": [
       "energy-rune"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1425,18 +1826,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Glowing arcane symbol hanging in the air. Prompt hint: a glowing arcane energy rune hovering in the air, intricate symbolic geometry burning bright with golden or cyan light and a soft pulse of power emanating in concentric waves around the symbol"
+    "notes": "Description: Glowing arcane symbol hanging in the air. Prompt hint: a glowing arcane energy rune hovering in the air, intricate symbolic geometry burning bright with golden or cyan light and a soft pulse of power emanating in concentric waves around the symbol",
+    "term_zh": "古符文能量悬浮空中",
+    "labels_zh": [
+      "动作特效",
+      "科幻",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913766+00:00"
   },
   {
-    "id": "action-fx_Magic Portal_portal_magic",
+    "id": "action_fx_magic_portal_portal_magic",
     "term": "a swirling mystical portal opening in space",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "sci-fi",
     "labels": [
       "portal-magic"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1446,18 +1853,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Swirling mystical doorway in space. Prompt hint: a swirling mystical portal opening in space, ring of arcane fire encircling a vortex of dimensional energy with sparks swirling around the rim and a glimpse of an otherworldly realm visible through the opening"
+    "notes": "Description: Swirling mystical doorway in space. Prompt hint: a swirling mystical portal opening in space, ring of arcane fire encircling a vortex of dimensional energy with sparks swirling around the rim and a glimpse of an otherworldly realm visible through the opening",
+    "term_zh": "太空中",
+    "labels_zh": [
+      "动作特效",
+      "科幻",
+      "太空中",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913770+00:00"
   },
   {
-    "id": "action-fx_Healing Glow_healing_glow",
+    "id": "action_fx_healing_glow_healing_glow",
     "term": "a warm healing glow emanating from a caster's hands",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "magic",
     "labels": [
       "healing-glow"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1467,18 +1881,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Warm golden light emanating from caster. Prompt hint: a warm healing glow emanating from a caster's hands, gentle golden-white radiance spreading outward with motes of soft light drifting upward and a sense of restorative energy permeating the surrounding air"
+    "notes": "Description: Warm golden light emanating from caster. Prompt hint: a warm healing glow emanating from a caster's hands, gentle golden-white radiance spreading outward with motes of soft light drifting upward and a sense of restorative energy permeating the surrounding air",
+    "term_zh": "施法者双手散发温暖治愈辉光",
+    "labels_zh": [
+      "动作特效",
+      "魔法",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.913773+00:00"
   },
   {
-    "id": "action-fx_Dark Vortex_dark_vortex",
+    "id": "action_fx_dark_vortex_dark_vortex",
     "term": "an ominous dark vortex swirling in the scene",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "misc",
     "labels": [
       "dark-vortex"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1488,18 +1908,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Ominous black-purple swirling void. Prompt hint: an ominous dark vortex swirling in the scene, churning black-and-purple void with tendrils of shadow energy reaching outward and a sense of consuming power drawing light into its center"
+    "notes": "Description: Ominous black-purple swirling void. Prompt hint: an ominous dark vortex swirling in the scene, churning black-and-purple void with tendrils of shadow energy reaching outward and a sense of consuming power drawing light into its center",
+    "term_zh": "不祥黑暗漩涡在画面中旋转",
+    "labels_zh": [
+      "动作特效",
+      "杂项",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.402579+00:00"
   },
   {
-    "id": "action-fx_Light Explosion_light_explosion",
+    "id": "action_fx_light_explosion_light_explosion",
     "term": "explosion of white-gold light",
-    "term_zh": "",
     "category": "action-fx",
     "subcategory": "fire-blasts",
     "labels": [
       "light-explosion"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1509,6 +1935,14 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Burst of pure white-gold radiance. Prompt hint: a brilliant explosion of pure white-gold radiance, divine burst of light radiating outward with rays of beam-light fanning across the scene and motes of golden particles suspended in the afterglow"
+    "notes": "Description: Burst of pure white-gold radiance. Prompt hint: a brilliant explosion of pure white-gold radiance, divine burst of light radiating outward with rays of beam-light fanning across the scene and motes of golden particles suspended in the afterglow",
+    "term_zh": "白金光芒爆炸",
+    "labels_zh": [
+      "动作特效",
+      "火焰",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.402582+00:00"
   }
 ]

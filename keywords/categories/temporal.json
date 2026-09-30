@@ -2,13 +2,11 @@
   {
     "id": "temporal_speed_real_time",
     "term": "real-time playback",
-    "term_zh": "",
     "category": "temporal",
     "subcategory": "speed",
     "labels": [
       "real-time"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -18,18 +16,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Normal playback speed. Prompt hint: real-time playback, normal speed"
+    "notes": "Description: Normal playback speed. Prompt hint: real-time playback, normal speed",
+    "term_zh": "实时回放",
+    "labels_zh": [
+      "时间效果",
+      "速度",
+      "实时回放",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:25.026261+00:00"
   },
   {
     "id": "temporal_speed_slow_motion",
     "term": "slow motion",
-    "term_zh": "",
     "category": "temporal",
     "subcategory": "speed",
     "labels": [
       "slow-motion"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -39,18 +44,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Moderately slowed footage. Prompt hint: slow motion, footage slowed down with smooth deliberate movement"
+    "notes": "Description: Moderately slowed footage. Prompt hint: slow motion, footage slowed down with smooth deliberate movement",
+    "term_zh": "慢动作",
+    "labels_zh": [
+      "时间效果",
+      "速度",
+      "慢动作",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:25.026272+00:00"
   },
   {
     "id": "temporal_speed_super_slow_mo",
     "term": "super slow motion",
-    "term_zh": "",
     "category": "temporal",
     "subcategory": "speed",
     "labels": [
       "super-slow-mo"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -60,18 +72,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Extremely slow footage. Prompt hint: super slow motion, extreme high-speed slow-mo capturing motion at a fraction of real time"
+    "notes": "Description: Extremely slow footage. Prompt hint: super slow motion, extreme high-speed slow-mo capturing motion at a fraction of real time",
+    "term_zh": "超级慢动作",
+    "labels_zh": [
+      "时间效果",
+      "速度",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:25.026277+00:00"
   },
   {
     "id": "temporal_speed_time_lapse",
     "term": "time-lapse",
-    "term_zh": "",
     "category": "temporal",
     "subcategory": "speed",
     "labels": [
       "time-lapse"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -81,18 +99,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Compressed time, fast passage. Prompt hint: time-lapse, highly compressed time showing hours or days passing in seconds"
+    "notes": "Description: Compressed time, fast passage. Prompt hint: time-lapse, highly compressed time showing hours or days passing in seconds",
+    "term_zh": "延时摄影",
+    "labels_zh": [
+      "时间效果",
+      "速度",
+      "延时摄影",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:25.026281+00:00"
   },
   {
     "id": "temporal_speed_hyper_lapse",
     "term": "hyper-lapse",
-    "term_zh": "",
     "category": "temporal",
     "subcategory": "speed",
     "labels": [
       "hyper-lapse"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -102,18 +127,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Moving time-lapse. Prompt hint: hyper-lapse, time-lapse combined with forward camera motion, accelerated movement through space"
+    "notes": "Description: Moving time-lapse. Prompt hint: hyper-lapse, time-lapse combined with forward camera motion, accelerated movement through space",
+    "term_zh": "大跨度延时",
+    "labels_zh": [
+      "时间效果",
+      "速度",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:25.026284+00:00"
   },
   {
     "id": "temporal_speed_speed_ramp",
     "term": "speed ramp",
-    "term_zh": "",
     "category": "temporal",
     "subcategory": "speed",
     "labels": [
       "speed-ramp"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -123,18 +154,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Dynamic speed change mid-shot. Prompt hint: speed ramp, dynamic speed change within the shot from slow motion to real-time or faster"
+    "notes": "Description: Dynamic speed change mid-shot. Prompt hint: speed ramp, dynamic speed change within the shot from slow motion to real-time or faster",
+    "term_zh": "速度渐变",
+    "labels_zh": [
+      "时间效果",
+      "速度",
+      "速度渐变",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:25.026288+00:00"
   },
   {
     "id": "temporal_freeze_full_freeze",
     "term": "freeze frame",
-    "term_zh": "",
     "category": "temporal",
     "subcategory": "freeze",
     "labels": [
       "full-freeze"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -144,18 +182,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: All motion frozen. Prompt hint: full freeze-frame, all motion in the scene completely frozen like a photograph"
+    "notes": "Description: All motion frozen. Prompt hint: full freeze-frame, all motion in the scene completely frozen like a photograph",
+    "term_zh": "定格帧",
+    "labels_zh": [
+      "时间效果",
+      "冻结",
+      "定格帧",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:25.026292+00:00"
   },
   {
     "id": "temporal_freeze_bullet_time",
     "term": "bullet time effect",
-    "term_zh": "",
     "category": "temporal",
     "subcategory": "freeze",
     "labels": [
       "bullet-time"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -165,18 +210,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Subject frozen, camera orbits. Prompt hint: bullet time effect, subject completely frozen mid-motion while camera orbits around them, Matrix-style"
+    "notes": "Description: Subject frozen, camera orbits. Prompt hint: bullet time effect, subject completely frozen mid-motion while camera orbits around them, Matrix-style",
+    "term_zh": "子弹时间效果",
+    "labels_zh": [
+      "时间效果",
+      "冻结",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:25.026295+00:00"
   },
   {
     "id": "temporal_freeze_frozen_subject",
     "term": "frozen subject, world in motion",
-    "term_zh": "",
     "category": "temporal",
     "subcategory": "freeze",
     "labels": [
       "frozen-subject"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -186,18 +237,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Subject frozen, world moves. Prompt hint: frozen subject with moving world, subject remains completely still while the environment continues in motion"
+    "notes": "Description: Subject frozen, world moves. Prompt hint: frozen subject with moving world, subject remains completely still while the environment continues in motion",
+    "term_zh": "主体定格世界运动",
+    "labels_zh": [
+      "时间效果",
+      "冻结",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:25.026299+00:00"
   },
   {
     "id": "temporal_freeze_moving_subject",
     "term": "moving subject, frozen world",
-    "term_zh": "",
     "category": "temporal",
     "subcategory": "freeze",
     "labels": [
       "moving-subject"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -207,18 +264,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Subject moves, world frozen. Prompt hint: moving subject with frozen world, subject continues in motion while everything else in the scene is completely frozen"
+    "notes": "Description: Subject moves, world frozen. Prompt hint: moving subject with frozen world, subject continues in motion while everything else in the scene is completely frozen",
+    "term_zh": "主体运动世界定格",
+    "labels_zh": [
+      "时间效果",
+      "冻结",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:25.026302+00:00"
   },
   {
     "id": "temporal_direction_forward",
     "term": "forward playback",
-    "term_zh": "",
     "category": "temporal",
     "subcategory": "direction",
     "labels": [
       "forward"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -228,18 +291,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Normal forward playback. Prompt hint: forward playback, time moving forward in the natural direction"
+    "notes": "Description: Normal forward playback. Prompt hint: forward playback, time moving forward in the natural direction",
+    "term_zh": "正向回放",
+    "labels_zh": [
+      "时间效果",
+      "方向",
+      "正向回放",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:25.026306+00:00"
   },
   {
     "id": "temporal_direction_reverse",
     "term": "reverse playback",
-    "term_zh": "",
     "category": "temporal",
     "subcategory": "direction",
     "labels": [
       "reverse"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -249,18 +319,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Time plays backwards. Prompt hint: reverse playback, time and motion running backwards"
+    "notes": "Description: Time plays backwards. Prompt hint: reverse playback, time and motion running backwards",
+    "term_zh": "倒放",
+    "labels_zh": [
+      "时间效果",
+      "方向",
+      "倒放",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:25.026309+00:00"
   },
   {
     "id": "temporal_direction_loop_boomerang",
     "term": "boomerang loop",
-    "term_zh": "",
     "category": "temporal",
     "subcategory": "direction",
     "labels": [
       "loop-boomerang"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -270,18 +347,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Forward then reverse. Prompt hint: boomerang loop, playing forward then reversing back, creating a looping motion"
+    "notes": "Description: Forward then reverse. Prompt hint: boomerang loop, playing forward then reversing back, creating a looping motion",
+    "term_zh": "回旋镖循环",
+    "labels_zh": [
+      "时间效果",
+      "方向",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:25.026313+00:00"
   },
   {
     "id": "temporal_shutter_long_exposure",
     "term": "long exposure effect",
-    "term_zh": "",
     "category": "temporal",
     "subcategory": "shutter",
     "labels": [
       "long-exposure"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -291,18 +374,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Motion trails and streaks. Prompt hint: long exposure effect, motion trails and light streaks from slow shutter speed"
+    "notes": "Description: Motion trails and streaks. Prompt hint: long exposure effect, motion trails and light streaks from slow shutter speed",
+    "term_zh": "长曝光效果",
+    "labels_zh": [
+      "时间效果",
+      "快门",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:25.026316+00:00"
   },
   {
     "id": "temporal_shutter_crisp_shutter",
     "term": "fast shutter, sharp motion",
-    "term_zh": "",
     "category": "temporal",
     "subcategory": "shutter",
     "labels": [
       "crisp-shutter"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -312,18 +401,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Sharp motion, no blur. Prompt hint: crisp shutter, sharp motion captured with fast shutter speed and no motion blur"
+    "notes": "Description: Sharp motion, no blur. Prompt hint: crisp shutter, sharp motion captured with fast shutter speed and no motion blur",
+    "term_zh": "快门急速动作锐利",
+    "labels_zh": [
+      "时间效果",
+      "快门",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:25.026319+00:00"
   },
   {
     "id": "temporal_shutter_motion_blur",
     "term": "pronounced motion blur",
-    "term_zh": "",
     "category": "temporal",
     "subcategory": "shutter",
     "labels": [
       "motion-blur"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -333,18 +428,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Pronounced directional blur. Prompt hint: pronounced motion blur, moving subjects blur directionally from slower-than-normal shutter speed"
+    "notes": "Description: Pronounced directional blur. Prompt hint: pronounced motion blur, moving subjects blur directionally from slower-than-normal shutter speed",
+    "term_zh": "明显运动模糊",
+    "labels_zh": [
+      "时间效果",
+      "快门",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:25.026323+00:00"
   },
   {
     "id": "temporal_shutter_stutter_strobe",
     "term": "strobe stutter effect",
-    "term_zh": "",
     "category": "temporal",
     "subcategory": "shutter",
     "labels": [
       "stutter-strobe"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -354,18 +455,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Strobe-effect jerky motion. Prompt hint: stutter or strobe effect, jerky discontinuous motion with visible frame steps"
+    "notes": "Description: Strobe-effect jerky motion. Prompt hint: stutter or strobe effect, jerky discontinuous motion with visible frame steps",
+    "term_zh": "频闪震感效果",
+    "labels_zh": [
+      "时间效果",
+      "快门",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:25.026326+00:00"
   },
   {
     "id": "temporal_shutter_stop_motion",
     "term": "stop-motion animation style",
-    "term_zh": "",
     "category": "temporal",
     "subcategory": "shutter",
     "labels": [
       "stop-motion"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -375,6 +482,14 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Stepped frame-by-frame motion. Prompt hint: stop-motion animation style, stepped frame-by-frame motion with characteristic discrete movement"
+    "notes": "Description: Stepped frame-by-frame motion. Prompt hint: stop-motion animation style, stepped frame-by-frame motion with characteristic discrete movement",
+    "term_zh": "定格动画风格",
+    "labels_zh": [
+      "时间效果",
+      "快门",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:25.026330+00:00"
   }
 ]

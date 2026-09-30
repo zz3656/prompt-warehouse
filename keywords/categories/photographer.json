@@ -2,13 +2,11 @@
   {
     "id": "photographer_editorial_tim_walker",
     "term": "by tim walker, painterly fairytale fashion",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "tim-walker"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -18,18 +16,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Painterly fairytale fashion. Prompt hint: in the style of Tim Walker, painterly fairytale fashion staging with elaborate hand-built sets and a soft pastel palette"
+    "notes": "Description: Painterly fairytale fashion. Prompt hint: in the style of Tim Walker, painterly fairytale fashion staging with elaborate hand-built sets and a soft pastel palette",
+    "term_zh": "蒂姆·沃克风格，绘画风童话时尚",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965492+00:00"
   },
   {
     "id": "photographer_editorial_paolo_roversi",
     "term": "by paolo roversi, soft ethereal polaroid glow",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "paolo-roversi"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -39,18 +43,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Soft, ethereal Polaroid glow. Prompt hint: in the style of Paolo Roversi, soft ethereal Polaroid glow with diffused window light and a warm milky bath"
+    "notes": "Description: Soft, ethereal Polaroid glow. Prompt hint: in the style of Paolo Roversi, soft ethereal Polaroid glow with diffused window light and a warm milky bath",
+    "term_zh": "保罗·罗维西风格，柔和空灵宝丽来辉光",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965498+00:00"
   },
   {
     "id": "photographer_editorial_marta_bevacqua",
     "term": "by marta bevacqua, dreamy painterly portraiture",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "marta-bevacqua"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -60,18 +70,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Dreamy painterly portraiture. Prompt hint: in the style of Marta Bevacqua, dreamy painterly portraiture with hushed natural light and faintly desaturated skin tones"
+    "notes": "Description: Dreamy painterly portraiture. Prompt hint: in the style of Marta Bevacqua, dreamy painterly portraiture with hushed natural light and faintly desaturated skin tones",
+    "term_zh": "玛尔塔·贝瓦夸风格，梦幻绘画人像",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965502+00:00"
   },
   {
     "id": "photographer_editorial_patrick_demarchelier",
     "term": "by patrick demarchelier, refined classic fashion",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "patrick-demarchelier"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -81,18 +97,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Refined classic fashion portrait. Prompt hint: in the style of Patrick Demarchelier, refined classic fashion portraiture with crisp catchlights and timeless restraint"
+    "notes": "Description: Refined classic fashion portrait. Prompt hint: in the style of Patrick Demarchelier, refined classic fashion portraiture with crisp catchlights and timeless restraint",
+    "term_zh": "帕特里克·德马切列尔风格，精致经典时尚",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965506+00:00"
   },
   {
     "id": "photographer_editorial_nick_knight",
     "term": "by nick knight, high-gloss avant-garde fashion",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "nick-knight"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -102,18 +124,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: High-gloss avant-garde fashion. Prompt hint: in the style of Nick Knight, high-gloss avant-garde fashion with saturated color, precision sharpness and surreal staging"
+    "notes": "Description: High-gloss avant-garde fashion. Prompt hint: in the style of Nick Knight, high-gloss avant-garde fashion with saturated color, precision sharpness and surreal staging",
+    "term_zh": "尼克·奈特风格，高光前卫时尚",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965510+00:00"
   },
   {
     "id": "photographer_editorial_mario_testino",
     "term": "by mario testino, glamorous sun-soaked fashion",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "mario-testino"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -123,18 +151,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Glamorous, sun-soaked fashion. Prompt hint: in the style of Mario Testino, glamorous sun-soaked fashion energy with confident posing and bright editorial color"
+    "notes": "Description: Glamorous, sun-soaked fashion. Prompt hint: in the style of Mario Testino, glamorous sun-soaked fashion energy with confident posing and bright editorial color",
+    "term_zh": "马里奥·特斯蒂诺风格，魅惑阳光时尚",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965514+00:00"
   },
   {
     "id": "photographer_editorial_steven_meisel",
     "term": "by steven meisel, polished mid-century editorial",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "steven-meisel"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -144,18 +178,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Polished mid-century editorial. Prompt hint: in the style of Steven Meisel, polished mid-century editorial portraiture with controlled studio light and meticulous styling"
+    "notes": "Description: Polished mid-century editorial. Prompt hint: in the style of Steven Meisel, polished mid-century editorial portraiture with controlled studio light and meticulous styling",
+    "term_zh": "史蒂文·梅塞尔风格，精致中世纪编辑大片",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467452+00:00"
   },
   {
     "id": "photographer_editorial_helmut_newton",
     "term": "by helmut newton, hard-flash monochrome glamour",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "helmut-newton"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -165,18 +205,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Bold black-and-white provocation. Prompt hint: in the style of Helmut Newton, bold black-and-white provocation with hard flash, deep shadows and architectural composition"
+    "notes": "Description: Bold black-and-white provocation. Prompt hint: in the style of Helmut Newton, bold black-and-white provocation with hard flash, deep shadows and architectural composition",
+    "term_zh": "赫尔穆特·牛顿风格，硬光闪光黑白魅惑",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965518+00:00"
   },
   {
     "id": "photographer_editorial_mario_sorrenti",
     "term": "by mario sorrenti, intimate grainy fashion",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "mario-sorrenti"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -186,18 +232,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Intimate, grainy fashion. Prompt hint: in the style of Mario Sorrenti, intimate grainy fashion photography with raw natural light and confessional closeness"
+    "notes": "Description: Intimate, grainy fashion. Prompt hint: in the style of Mario Sorrenti, intimate grainy fashion photography with raw natural light and confessional closeness",
+    "term_zh": "马里奥·索伦蒂风格，亲密颗粒时尚",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467461+00:00"
   },
   {
     "id": "photographer_editorial_annie_leibovitz",
     "term": "by annie leibovitz, cinematic celebrity portraiture",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "annie-leibovitz"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -207,18 +259,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Cinematic celebrity portrait. Prompt hint: in the style of Annie Leibovitz, cinematic celebrity portraiture with theatrical staging and warm dimensional lighting"
+    "notes": "Description: Cinematic celebrity portrait. Prompt hint: in the style of Annie Leibovitz, cinematic celebrity portraiture with theatrical staging and warm dimensional lighting",
+    "term_zh": "安妮·莱博维茨风格，电影感明星人像",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965522+00:00"
   },
   {
     "id": "photographer_editorial_felicia_simion",
     "term": "by felicia simion, surreal pastoral fine art",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "felicia-simion"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -228,18 +286,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Surreal pastoral fine art. Prompt hint: in the style of Felicia Simion, surreal pastoral fine-art photography with quiet symbolism and a muted earthy palette"
+    "notes": "Description: Surreal pastoral fine art. Prompt hint: in the style of Felicia Simion, surreal pastoral fine-art photography with quiet symbolism and a muted earthy palette",
+    "term_zh": "费利西亚·西米翁风格，超现实田园美术",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965526+00:00"
   },
   {
     "id": "photographer_editorial_oleg_oprisco",
     "term": "by oleg oprisco, cinematic film-grain storytelling",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "oleg-oprisco"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -249,18 +313,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Cinematic film-grain storytelling. Prompt hint: in the style of Oleg Oprisco, cinematic film-grain storytelling with painterly costuming and analogue color casts"
+    "notes": "Description: Cinematic film-grain storytelling. Prompt hint: in the style of Oleg Oprisco, cinematic film-grain storytelling with painterly costuming and analogue color casts",
+    "term_zh": "奥列格·奥普里斯科风格，电影颗粒叙事",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467467+00:00"
   },
   {
     "id": "photographer_editorial_bella_kotak",
     "term": "by bella kotak, fantasy-folkloric portraiture",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "bella-kotak"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -270,18 +340,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Magical, fantasy-folkloric portraiture. Prompt hint: in the style of Bella Kotak, magical fantasy-folkloric portraiture with golden light, florals and rich painterly grading"
+    "notes": "Description: Magical, fantasy-folkloric portraiture. Prompt hint: in the style of Bella Kotak, magical fantasy-folkloric portraiture with golden light, florals and rich painterly grading",
+    "term_zh": "贝拉·科塔克风格，奇幻民俗人像",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965530+00:00"
   },
   {
     "id": "photographer_editorial_yigal_ozeri",
     "term": "by yigal ozeri, hyperreal painted portraiture",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "yigal-ozeri"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -291,18 +367,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Hyperreal painted portrait. Prompt hint: in the style of Yigal Ozeri, hyperreal painted portraiture with luminous skin and dappled forest light"
+    "notes": "Description: Hyperreal painted portrait. Prompt hint: in the style of Yigal Ozeri, hyperreal painted portraiture with luminous skin and dappled forest light",
+    "term_zh": "伊加尔·奥泽里风格，超写实绘画人像",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467471+00:00"
   },
   {
     "id": "photographer_editorial_jimmy_marble",
     "term": "by jimmy marble, pastel candy-bright editorial",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "jimmy-marble"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -312,18 +394,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Pastel, candy-bright editorial. Prompt hint: in the style of Jimmy Marble, pastel candy-bright editorial photography with playful color blocking and clean studio shapes"
+    "notes": "Description: Pastel, candy-bright editorial. Prompt hint: in the style of Jimmy Marble, pastel candy-bright editorial photography with playful color blocking and clean studio shapes",
+    "term_zh": "吉米·马布尔风格，粉彩糖果亮调编辑",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965534+00:00"
   },
   {
     "id": "photographer_editorial_rinko_kawauchi",
     "term": "by rinko kawauchi, quiet light-suffused everyday",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "rinko-kawauchi"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -333,18 +421,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Quiet, light-suffused everyday. Prompt hint: in the style of Rinko Kawauchi, quiet light-suffused everyday photography with a dreamy pastel haze and gentle overexposure"
+    "notes": "Description: Quiet, light-suffused everyday. Prompt hint: in the style of Rinko Kawauchi, quiet light-suffused everyday photography with a dreamy pastel haze and gentle overexposure",
+    "term_zh": "川内伦子风格，安静光感日常",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467476+00:00"
   },
   {
     "id": "photographer_editorial_ellen_von_unwerth",
     "term": "by ellen von unwerth, playful retro pin-up",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "ellen-von-unwerth"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -354,18 +448,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Playful retro pin-up energy. Prompt hint: in the style of Ellen von Unwerth, playful retro pin-up energy with monochrome flash and mischievous body language"
+    "notes": "Description: Playful retro pin-up energy. Prompt hint: in the style of Ellen von Unwerth, playful retro pin-up energy with monochrome flash and mischievous body language",
+    "term_zh": "艾伦·冯·温沃斯风格，顽皮复古半脱星",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965538+00:00"
   },
   {
     "id": "photographer_editorial_mapplethorpe",
     "term": "by robert mapplethorpe, formalist studio monochrome",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "mapplethorpe"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -375,18 +475,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Formalist B&W studio nudes and flowers. Prompt hint: in the style of Robert Mapplethorpe, strict formalist black-and-white studio portraiture with dramatic chiaroscuro lighting, sculpted classical nudes and tightly controlled lily and orchid still lifes"
+    "notes": "Description: Formalist B&W studio nudes and flowers. Prompt hint: in the style of Robert Mapplethorpe, strict formalist black-and-white studio portraiture with dramatic chiaroscuro lighting, sculpted classical nudes and tightly controlled lily and orchid still lifes",
+    "term_zh": "罗伯特·梅普尔索普风格，形式主义影棚黑白",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467480+00:00"
   },
   {
     "id": "photographer_editorial_sherman",
     "term": "by cindy sherman, staged conceptual film-still portraiture",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "sherman"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -396,18 +502,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Conceptual self-portrait character study. Prompt hint: in the style of Cindy Sherman, staged conceptual self-portraiture with costumed character studies, film-still references and a dispassionate often unsettling gaze"
+    "notes": "Description: Conceptual self-portrait character study. Prompt hint: in the style of Cindy Sherman, staged conceptual self-portraiture with costumed character studies, film-still references and a dispassionate often unsettling gaze",
+    "term_zh": "辛迪·舍曼风格，舞台化概念胶片剧照人像",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965542+00:00"
   },
   {
     "id": "photographer_editorial_crewdson",
     "term": "by gregory crewdson, cinematic suburban tableau",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "crewdson"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -417,18 +529,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Cinematic suburban dread tableau. Prompt hint: in the style of Gregory Crewdson, large-format staged tableau of suburban dread with hyper-cinematic twilight blue-hour lighting and every detail meticulously composed"
+    "notes": "Description: Cinematic suburban dread tableau. Prompt hint: in the style of Gregory Crewdson, large-format staged tableau of suburban dread with hyper-cinematic twilight blue-hour lighting and every detail meticulously composed",
+    "term_zh": "格雷戈里·克鲁森风格，电影感郊外剧场",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965546+00:00"
   },
   {
     "id": "photographer_editorial_lachapelle",
     "term": "by david lachapelle, hyper-saturated surrealist camp",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "lachapelle"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -438,18 +556,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Surreal hyper-saturated celebrity camp. Prompt hint: in the style of David LaChapelle, hyper-saturated surrealist celebrity tableau with religious iconography, candy-gloss color and theatrical excess"
+    "notes": "Description: Surreal hyper-saturated celebrity camp. Prompt hint: in the style of David LaChapelle, hyper-saturated surrealist celebrity tableau with religious iconography, candy-gloss color and theatrical excess",
+    "term_zh": "大卫·拉夏贝尔风格，超饱和超现实夸张",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965550+00:00"
   },
   {
     "id": "photographer_editorial_klein",
     "term": "by steven klein, hard-edged fashion glamour",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "klein"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -459,18 +583,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Hard-edged glamour and controlled aggression. Prompt hint: in the style of Steven Klein, hard-edged high-fashion glamour with leather and latex wardrobe, dramatic shadowed lighting and a charge of controlled aggression"
+    "notes": "Description: Hard-edged glamour and controlled aggression. Prompt hint: in the style of Steven Klein, hard-edged high-fashion glamour with leather and latex wardrobe, dramatic shadowed lighting and a charge of controlled aggression",
+    "term_zh": "史蒂文·克莱因风格，硬边时尚魅惑",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467485+00:00"
   },
   {
     "id": "photographer_editorial_lindbergh",
     "term": "by peter lindbergh, minimalist monochrome fashion",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "lindbergh"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -480,18 +610,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Minimalist B&W natural-light fashion. Prompt hint: in the style of Peter Lindbergh, minimalist black-and-white fashion in natural light with bare makeup, supermodel-era documentary feel, windswept beach settings and untouched skin"
+    "notes": "Description: Minimalist B&W natural-light fashion. Prompt hint: in the style of Peter Lindbergh, minimalist black-and-white fashion in natural light with bare makeup, supermodel-era documentary feel, windswept beach settings and untouched skin",
+    "term_zh": "彼得·林德伯格风格，极简黑白时尚",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467489+00:00"
   },
   {
     "id": "photographer_editorial_tillmans",
     "term": "by wolfgang tillmans, candid on-camera-flash snapshot",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "tillmans"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -501,18 +637,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Candid queer intimacy and casual flash. Prompt hint: in the style of Wolfgang Tillmans, democratic mix of intimate snapshot portraiture and abstract still life with casual on-camera flash and party, club and nightlife candor"
+    "notes": "Description: Candid queer intimacy and casual flash. Prompt hint: in the style of Wolfgang Tillmans, democratic mix of intimate snapshot portraiture and abstract still life with casual on-camera flash and party, club and nightlife candor",
+    "term_zh": "沃尔夫冈·提尔曼斯风格，直闪快照",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "直闪快照",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467494+00:00"
   },
   {
     "id": "photographer_editorial_teller",
     "term": "by juergen teller, deadpan direct-flash snapshot",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "teller"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -522,18 +665,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Anti-glamour direct-flash snapshot. Prompt hint: in the style of Juergen Teller, direct on-camera flash snapshot fashion with deadpan unfiltered models, anti-airbrush rawness and an awkward off-kilter staging"
+    "notes": "Description: Anti-glamour direct-flash snapshot. Prompt hint: in the style of Juergen Teller, direct on-camera flash snapshot fashion with deadpan unfiltered models, anti-airbrush rawness and an awkward off-kilter staging",
+    "term_zh": "于尔根·特勒风格，冷漠直闪快照",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965554+00:00"
   },
   {
     "id": "photographer_editorial_penn",
     "term": "by irving penn, austere mid-century studio portraiture",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "penn"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -543,18 +692,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Austere mid-century studio portrait. Prompt hint: in the style of Irving Penn, austere mid-century studio portraiture against a commanding gray seamless backdrop with controlled grace, sculptural fashion staging and refined still-life precision"
+    "notes": "Description: Austere mid-century studio portrait. Prompt hint: in the style of Irving Penn, austere mid-century studio portraiture against a commanding gray seamless backdrop with controlled grace, sculptural fashion staging and refined still-life precision",
+    "term_zh": "欧文·潘风格，严肃中世纪影棚人像",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965559+00:00"
   },
   {
     "id": "photographer_editorial_mcginley",
     "term": "by ryan mcginley, sun-flared candid youth",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "mcginley"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -564,18 +719,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Naturalistic youth + nudity in landscape, sun-flared candid. Prompt hint: shot in the language of Ryan McGinley, naturalistic youth and nudity roaming through open landscape, sun-flared candid 35mm with euphoric movement and unposed freedom"
+    "notes": "Description: Naturalistic youth + nudity in landscape, sun-flared candid. Prompt hint: shot in the language of Ryan McGinley, naturalistic youth and nudity roaming through open landscape, sun-flared candid 35mm with euphoric movement and unposed freedom",
+    "term_zh": "瑞安·麦金莱风格，眩光抓拍青春",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467499+00:00"
   },
   {
     "id": "photographer_editorial_mitchell",
     "term": "by tyler mitchell, soft-light contemporary portraiture",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "mitchell"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -585,18 +746,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Contemporary Black portraiture, soft natural light, fashion-meets-documentary. Prompt hint: shot in the language of Tyler Mitchell, contemporary Black portraiture in soft natural light with a fashion-meets-documentary tenderness, pastel wardrobe and sun-warmed skin"
+    "notes": "Description: Contemporary Black portraiture, soft natural light, fashion-meets-documentary. Prompt hint: shot in the language of Tyler Mitchell, contemporary Black portraiture in soft natural light with a fashion-meets-documentary tenderness, pastel wardrobe and sun-warmed skin",
+    "term_zh": "泰勒·米切尔风格，柔光当代人像",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467503+00:00"
   },
   {
     "id": "photographer_editorial_collins",
     "term": "by petra collins, dreamy pink-saturated 35mm",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "collins"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -606,18 +773,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Pink-saturated dreamy female-gaze fashion, hazy 35mm. Prompt hint: shot in the language of Petra Collins, dreamy pink-saturated female-gaze fashion, hazy 35mm grain, soft window light"
+    "notes": "Description: Pink-saturated dreamy female-gaze fashion, hazy 35mm. Prompt hint: shot in the language of Petra Collins, dreamy pink-saturated female-gaze fashion, hazy 35mm grain, soft window light",
+    "term_zh": "佩特拉·柯林斯风格，梦幻粉色饱和 35mm",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "35mm",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467507+00:00"
   },
   {
     "id": "photographer_editorial_weston",
     "term": "by edward weston, modernist monochrome still life",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "weston"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -627,18 +801,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Modernist B&W still life, sculptural nudes, sharp formalism. Prompt hint: in the style of Edward Weston, modernist black-and-white still life and sculptural nudes with sharp formalism, large-format clarity and sensuous tonal gradation"
+    "notes": "Description: Modernist B&W still life, sculptural nudes, sharp formalism. Prompt hint: in the style of Edward Weston, modernist black-and-white still life and sculptural nudes with sharp formalism, large-format clarity and sensuous tonal gradation",
+    "term_zh": "爱德华·韦斯顿风格，现代主义黑白静物",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965563+00:00"
   },
   {
     "id": "photographer_editorial_beaton",
     "term": "by cecil beaton, theatrical hollywood-era portraiture",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "editorial",
     "labels": [
       "beaton"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -648,18 +828,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Classical Hollywood-era portraiture, theatrical staging, opulent backdrops. Prompt hint: in the style of Cecil Beaton, classical Hollywood-era portraiture with theatrical staging, opulent painted backdrops and elegant silver-screen glamour"
+    "notes": "Description: Classical Hollywood-era portraiture, theatrical staging, opulent backdrops. Prompt hint: in the style of Cecil Beaton, classical Hollywood-era portraiture with theatrical staging, opulent painted backdrops and elegant silver-screen glamour",
+    "term_zh": "塞西尔·比顿风格，戏剧好莱坞时代人像",
+    "labels_zh": [
+      "摄影",
+      "编辑",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965567+00:00"
   },
   {
     "id": "photographer_documentary_henri_cartier_bresson",
     "term": "by henri cartier-bresson, decisive-moment street",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "documentary",
     "labels": [
       "henri-cartier-bresson"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -669,18 +855,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Decisive-moment street photography. Prompt hint: in the style of Henri Cartier-Bresson, decisive-moment black-and-white street photography with geometric framing and natural light"
+    "notes": "Description: Decisive-moment street photography. Prompt hint: in the style of Henri Cartier-Bresson, decisive-moment black-and-white street photography with geometric framing and natural light",
+    "term_zh": "亨利·卡蒂埃-布列松风格，决定性瞬间街头",
+    "labels_zh": [
+      "摄影",
+      "纪实",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965571+00:00"
   },
   {
     "id": "photographer_documentary_vivian_maier",
     "term": "by vivian maier, mid-century american street",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "documentary",
     "labels": [
       "vivian-maier"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -690,18 +882,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Mid-century American street. Prompt hint: in the style of Vivian Maier, mid-century American street photography with square format, observed candor and silver-rich blacks"
+    "notes": "Description: Mid-century American street. Prompt hint: in the style of Vivian Maier, mid-century American street photography with square format, observed candor and silver-rich blacks",
+    "term_zh": "维维安·迈耶风格，中世纪美国街头",
+    "labels_zh": [
+      "摄影",
+      "纪实",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965575+00:00"
   },
   {
     "id": "photographer_documentary_saul_leiter",
     "term": "by saul leiter, painterly color street",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "documentary",
     "labels": [
       "saul-leiter"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -711,18 +909,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Painterly color street through glass. Prompt hint: in the style of Saul Leiter, painterly color street photography seen through fogged glass and rain, with abstract layered framing"
+    "notes": "Description: Painterly color street through glass. Prompt hint: in the style of Saul Leiter, painterly color street photography seen through fogged glass and rain, with abstract layered framing",
+    "term_zh": "索尔·莱特风格，绘画色彩街头",
+    "labels_zh": [
+      "摄影",
+      "纪实",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965579+00:00"
   },
   {
     "id": "photographer_documentary_daido_moriyama",
     "term": "by daido moriyama, grainy high-contrast street",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "documentary",
     "labels": [
       "daido-moriyama"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -732,18 +936,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Grainy, high-contrast Tokyo street. Prompt hint: in the style of Daido Moriyama, grainy high-contrast Tokyo street photography with blown highlights and a restless handheld feel"
+    "notes": "Description: Grainy, high-contrast Tokyo street. Prompt hint: in the style of Daido Moriyama, grainy high-contrast Tokyo street photography with blown highlights and a restless handheld feel",
+    "term_zh": "森山大道风格，颗粒高对比街头",
+    "labels_zh": [
+      "摄影",
+      "纪实",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965583+00:00"
   },
   {
     "id": "photographer_documentary_robert_capa",
     "term": "by robert capa, visceral combat photojournalism",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "documentary",
     "labels": [
       "robert-capa"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -753,18 +963,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Visceral combat photojournalism. Prompt hint: in the style of Robert Capa, visceral combat photojournalism with motion blur, gritty grain and an immediate handheld viewpoint"
+    "notes": "Description: Visceral combat photojournalism. Prompt hint: in the style of Robert Capa, visceral combat photojournalism with motion blur, gritty grain and an immediate handheld viewpoint",
+    "term_zh": "罗伯特·卡帕风格，骨灰新闻摄影",
+    "labels_zh": [
+      "摄影",
+      "纪实",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965586+00:00"
   },
   {
     "id": "photographer_documentary_sebastiao_salgado",
     "term": "by sebastiao salgado, epic monochrome documentary",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "documentary",
     "labels": [
       "sebastiao-salgado"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -774,18 +990,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Epic monochrome social documentary. Prompt hint: in the style of Sebastiao Salgado, epic monochrome social documentary with sweeping landscape scale and chiaroscuro tonality"
+    "notes": "Description: Epic monochrome social documentary. Prompt hint: in the style of Sebastiao Salgado, epic monochrome social documentary with sweeping landscape scale and chiaroscuro tonality",
+    "term_zh": "塞巴斯蒂奥·萨尔加多风格，史诗黑白纪实",
+    "labels_zh": [
+      "摄影",
+      "纪实",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965590+00:00"
   },
   {
     "id": "photographer_documentary_diane_arbus",
     "term": "by diane arbus, stark confrontational portraiture",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "documentary",
     "labels": [
       "diane-arbus"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -795,18 +1017,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Stark, confrontational portrait. Prompt hint: in the style of Diane Arbus, stark confrontational portraiture with direct gaze, square format and unflinching daylight"
+    "notes": "Description: Stark, confrontational portrait. Prompt hint: in the style of Diane Arbus, stark confrontational portraiture with direct gaze, square format and unflinching daylight",
+    "term_zh": "黛安·阿布斯风格，刺眼对抗人像",
+    "labels_zh": [
+      "摄影",
+      "纪实",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467512+00:00"
   },
   {
     "id": "photographer_cinematographer_roger_deakins",
     "term": "shot by roger deakins, painterly natural light",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "cinematographer",
     "labels": [
       "roger-deakins"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -816,18 +1044,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Painterly cinematic naturalism. Prompt hint: in the cinematic style of Roger Deakins, painterly natural light with carved silhouettes, deep negative space and restrained color"
+    "notes": "Description: Painterly cinematic naturalism. Prompt hint: in the cinematic style of Roger Deakins, painterly natural light with carved silhouettes, deep negative space and restrained color",
+    "term_zh": "罗杰·迪金斯掌镜，绘画自然光",
+    "labels_zh": [
+      "摄影",
+      "电影摄影师",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965594+00:00"
   },
   {
     "id": "photographer_cinematographer_emmanuel_lubezki",
     "term": "shot by emmanuel lubezki, floating natural-light immersion",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "cinematographer",
     "labels": [
       "emmanuel-lubezki"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -837,18 +1071,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Floating natural-light cinematography. Prompt hint: in the cinematic style of Emmanuel Lubezki, floating handheld natural-light cinematography with golden-hour glow and wide-lens immersion"
+    "notes": "Description: Floating natural-light cinematography. Prompt hint: in the cinematic style of Emmanuel Lubezki, floating handheld natural-light cinematography with golden-hour glow and wide-lens immersion",
+    "term_zh": "伊曼纽尔·卢贝兹基掌镜，漂浮自然光沉浸",
+    "labels_zh": [
+      "摄影",
+      "电影摄影师",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965598+00:00"
   },
   {
     "id": "photographer_cinematographer_greig_fraser",
     "term": "shot by greig fraser, tactile anamorphic cinematography",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "cinematographer",
     "labels": [
       "greig-fraser"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -858,18 +1098,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Rich tactile genre cinematography. Prompt hint: in the cinematic style of Greig Fraser, rich tactile genre cinematography with anamorphic flares, deep blacks and atmospheric haze"
+    "notes": "Description: Rich tactile genre cinematography. Prompt hint: in the cinematic style of Greig Fraser, rich tactile genre cinematography with anamorphic flares, deep blacks and atmospheric haze",
+    "term_zh": "格雷格·弗雷泽掌镜，触感变形摄影",
+    "labels_zh": [
+      "摄影",
+      "电影摄影师",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965602+00:00"
   },
   {
     "id": "photographer_cinematographer_christopher_doyle",
     "term": "shot by christopher doyle, saturated handheld neon",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "cinematographer",
     "labels": [
       "christopher-doyle"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -879,18 +1125,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Saturated handheld neon mood. Prompt hint: in the cinematic style of Christopher Doyle, saturated handheld neon mood with smeared light trails and dreamy slow-shutter blur"
+    "notes": "Description: Saturated handheld neon mood. Prompt hint: in the cinematic style of Christopher Doyle, saturated handheld neon mood with smeared light trails and dreamy slow-shutter blur",
+    "term_zh": "克里斯托弗·道尔掌镜，饱和手持霓虹",
+    "labels_zh": [
+      "摄影",
+      "电影摄影师",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965606+00:00"
   },
   {
     "id": "photographer_concept_greg_rutkowski",
     "term": "by greg rutkowski, epic painterly fantasy concept art",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "concept",
     "labels": [
       "greg-rutkowski"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -900,18 +1152,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Epic painterly fantasy concept. Prompt hint: in the style of Greg Rutkowski, epic painterly fantasy concept art with sweeping composition, dramatic god-rays and oil-painting brushwork"
+    "notes": "Description: Epic painterly fantasy concept. Prompt hint: in the style of Greg Rutkowski, epic painterly fantasy concept art with sweeping composition, dramatic god-rays and oil-painting brushwork",
+    "term_zh": "格雷格·鲁特考斯基风格，史诗绘画奇幻概念艺术",
+    "labels_zh": [
+      "摄影",
+      "概念",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965610+00:00"
   },
   {
     "id": "photographer_concept_magali_villeneuve",
     "term": "by magali villeneuve, heroic fantasy character art",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "concept",
     "labels": [
       "magali-villeneuve"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -921,18 +1179,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Heroic fantasy character art. Prompt hint: in the style of Magali Villeneuve, heroic fantasy character art with detailed armor, painterly skin and warm golden lighting"
+    "notes": "Description: Heroic fantasy character art. Prompt hint: in the style of Magali Villeneuve, heroic fantasy character art with detailed armor, painterly skin and warm golden lighting",
+    "term_zh": "玛加利·维勒纽夫风格，英雄奇幻角色艺术",
+    "labels_zh": [
+      "摄影",
+      "概念",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965614+00:00"
   },
   {
     "id": "photographer_concept_charlie_bowater",
     "term": "by charlie bowater, atmospheric digital portraiture",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "concept",
     "labels": [
       "charlie-bowater"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -942,18 +1206,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Atmospheric digital portraiture. Prompt hint: in the style of Charlie Bowater, atmospheric digital portraiture with painterly textures, moody color and intimate close framing"
+    "notes": "Description: Atmospheric digital portraiture. Prompt hint: in the style of Charlie Bowater, atmospheric digital portraiture with painterly textures, moody color and intimate close framing",
+    "term_zh": "查理·鲍瓦特风格，氛围感数字人像",
+    "labels_zh": [
+      "摄影",
+      "概念",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965618+00:00"
   },
   {
     "id": "photographer_concept_sam_spratt",
     "term": "by sam spratt, allegorical hyperreal portraiture",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "concept",
     "labels": [
       "sam-spratt"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -963,18 +1233,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Allegorical hyperreal portrait. Prompt hint: in the style of Sam Spratt, allegorical hyperreal portraiture with sculpted lighting, symbolic detail and old-master tonal depth"
+    "notes": "Description: Allegorical hyperreal portrait. Prompt hint: in the style of Sam Spratt, allegorical hyperreal portraiture with sculpted lighting, symbolic detail and old-master tonal depth",
+    "term_zh": "山姆·施普拉特风格，寓言超写实人像",
+    "labels_zh": [
+      "摄影",
+      "概念",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965622+00:00"
   },
   {
     "id": "photographer_concept_ruan_jia",
     "term": "by ruan jia, lush painterly fantasy portraiture",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "concept",
     "labels": [
       "ruan-jia"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -984,18 +1260,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Lush painterly fantasy portrait. Prompt hint: in the style of Ruan Jia, lush painterly fantasy portraiture with rich fabrics, gilded accents and warm directional light"
+    "notes": "Description: Lush painterly fantasy portrait. Prompt hint: in the style of Ruan Jia, lush painterly fantasy portraiture with rich fabrics, gilded accents and warm directional light",
+    "term_zh": "阮佳风格，茂盛绘画奇幻人像",
+    "labels_zh": [
+      "摄影",
+      "概念",
+      "阮佳风格",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965626+00:00"
   },
   {
     "id": "photographer_concept_ilya_kuvshinov",
     "term": "by ilya kuvshinov, anime-inflected stylized portrait",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "concept",
     "labels": [
       "ilya-kuvshinov"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1005,18 +1288,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Anime-inflected stylized portrait. Prompt hint: in the style of Ilya Kuvshinov, anime-inflected stylized portraiture with soft cell-shading, oversized eyes and pastel rim light"
+    "notes": "Description: Anime-inflected stylized portrait. Prompt hint: in the style of Ilya Kuvshinov, anime-inflected stylized portraiture with soft cell-shading, oversized eyes and pastel rim light",
+    "term_zh": "伊利亚·库夫希诺夫风格，动漫化风格化人像",
+    "labels_zh": [
+      "摄影",
+      "概念",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965630+00:00"
   },
   {
     "id": "photographer_concept_wlop",
     "term": "by wlop, ethereal painterly fantasy portraiture",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "concept",
     "labels": [
       "wlop"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1026,18 +1315,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Ethereal painterly fantasy. Prompt hint: in the style of WLOP, ethereal painterly fantasy portraiture with flowing hair, glowing rim light and a cool monochromatic palette"
+    "notes": "Description: Ethereal painterly fantasy. Prompt hint: in the style of WLOP, ethereal painterly fantasy portraiture with flowing hair, glowing rim light and a cool monochromatic palette",
+    "term_zh": "bywlop空灵绘画感奇幻肖像画",
+    "labels_zh": [
+      "摄影",
+      "概念",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:53:10.848867+00:00"
   },
   {
     "id": "photographer_concept_artgerm",
     "term": "by artgerm, polished comic-book pinup illustration",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "concept",
     "labels": [
       "artgerm"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1047,18 +1342,25 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Polished comic-book-inspired pinup. Prompt hint: in the style of Artgerm, polished comic-book-inspired pinup illustration with smooth gradients and crisp graphic edge highlights"
+    "notes": "Description: Polished comic-book-inspired pinup. Prompt hint: in the style of Artgerm, polished comic-book-inspired pinup illustration with smooth gradients and crisp graphic edge highlights",
+    "term_zh": "Artgerm 风格，精致漫画诱惑插画",
+    "labels_zh": [
+      "摄影",
+      "概念",
+      "风格",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965634+00:00"
   },
   {
     "id": "photographer_illustrator_makoto_shinkai",
     "term": "by makoto shinkai, luminous cinematic anime skies",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "illustrator",
     "labels": [
       "makoto-shinkai"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1068,18 +1370,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Cinematic anime sky and light. Prompt hint: in the style of Makoto Shinkai, cinematic anime sky and light with luminous clouds, lens-flared sun and saturated dusk gradients"
+    "notes": "Description: Cinematic anime sky and light. Prompt hint: in the style of Makoto Shinkai, cinematic anime sky and light with luminous clouds, lens-flared sun and saturated dusk gradients",
+    "term_zh": "新海诚风格，发光电影动漫天空",
+    "labels_zh": [
+      "摄影",
+      "插画师",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965638+00:00"
   },
   {
     "id": "photographer_illustrator_studio_ghibli",
     "term": "by studio ghibli, hand-painted animation warmth",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "illustrator",
     "labels": [
       "studio-ghibli"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1089,18 +1397,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Hand-painted Ghibli warmth. Prompt hint: in the style of Studio Ghibli, hand-painted animation warmth with soft pastel skies, lush vegetation and gentle character expressions"
+    "notes": "Description: Hand-painted Ghibli warmth. Prompt hint: in the style of Studio Ghibli, hand-painted animation warmth with soft pastel skies, lush vegetation and gentle character expressions",
+    "term_zh": "吉卜力工作室风格，手绘动画温润",
+    "labels_zh": [
+      "摄影",
+      "插画师",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965642+00:00"
   },
   {
     "id": "photographer_illustrator_alphonse_mucha",
     "term": "by alphonse mucha, art-nouveau decorative panel",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "illustrator",
     "labels": [
       "alphonse-mucha"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1110,18 +1424,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Art-nouveau decorative panel. Prompt hint: in the style of Alphonse Mucha, art-nouveau decorative panel with ornamental floral borders, flowing hair and warm gilded tones"
+    "notes": "Description: Art-nouveau decorative panel. Prompt hint: in the style of Alphonse Mucha, art-nouveau decorative panel with ornamental floral borders, flowing hair and warm gilded tones",
+    "term_zh": "阿尔丰斯·穆夏风格，新艺术装饰板",
+    "labels_zh": [
+      "摄影",
+      "插画师",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965646+00:00"
   },
   {
     "id": "photographer_illustrator_carne_griffiths",
     "term": "by carne griffiths, ink-bleed botanical portraiture",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "illustrator",
     "labels": [
       "carne-griffiths"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1131,18 +1451,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Ink-bleed botanical portrait. Prompt hint: in the style of Carne Griffiths, ink-bleed botanical portraiture with calligraphic linework, splashed tea washes and tangled florals"
+    "notes": "Description: Ink-bleed botanical portrait. Prompt hint: in the style of Carne Griffiths, ink-bleed botanical portraiture with calligraphic linework, splashed tea washes and tangled florals",
+    "term_zh": "卡恩·格里菲斯风格，墨浸植物人像",
+    "labels_zh": [
+      "摄影",
+      "插画师",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965650+00:00"
   },
   {
     "id": "photographer_illustrator_conrad_roset",
     "term": "by conrad roset, gentle watercolor figure",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "illustrator",
     "labels": [
       "conrad-roset"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1152,18 +1478,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Gentle watercolor figure. Prompt hint: in the style of Conrad Roset, gentle watercolor figure illustration with soft graphite line, blooming pigment and pale skin tones"
+    "notes": "Description: Gentle watercolor figure. Prompt hint: in the style of Conrad Roset, gentle watercolor figure illustration with soft graphite line, blooming pigment and pale skin tones",
+    "term_zh": "康拉德·罗塞特风格，柔和水彩人物",
+    "labels_zh": [
+      "摄影",
+      "插画师",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965654+00:00"
   },
   {
     "id": "photographer_illustrator_akihito_yoshida",
     "term": "by akihito yoshida, quiet ink-and-grain monochrome",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "illustrator",
     "labels": [
       "akihito-yoshida"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1173,18 +1505,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Quiet ink-and-grain monochrome. Prompt hint: in the style of Akihito Yoshida, quiet ink-and-grain monochrome portraiture with sketchy line and contemplative negative space"
+    "notes": "Description: Quiet ink-and-grain monochrome. Prompt hint: in the style of Akihito Yoshida, quiet ink-and-grain monochrome portraiture with sketchy line and contemplative negative space",
+    "term_zh": "吉田明仁风格，静谧墨染颗粒黑白",
+    "labels_zh": [
+      "摄影",
+      "插画师",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965657+00:00"
   },
   {
     "id": "photographer_illustrator_karol_bak",
     "term": "by karol bak, symbolist gilded muse",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "illustrator",
     "labels": [
       "karol-bak"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1194,18 +1532,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Symbolist painted muse. Prompt hint: in the style of Karol Bak, symbolist painted muse with gilded-leaf accents, art-nouveau ornament and warm earthen pigment"
+    "notes": "Description: Symbolist painted muse. Prompt hint: in the style of Karol Bak, symbolist painted muse with gilded-leaf accents, art-nouveau ornament and warm earthen pigment",
+    "term_zh": "卡罗尔·巴克风格，象征主义镀金缪斯",
+    "labels_zh": [
+      "摄影",
+      "插画师",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965661+00:00"
   },
   {
     "id": "photographer_illustrator_ismail_inceoglu",
     "term": "by ismail inceoglu, mythic painterly landscape",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "illustrator",
     "labels": [
       "ismail-inceoglu"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1215,18 +1559,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Mythic painterly landscape. Prompt hint: in the style of Ismail Inceoglu, mythic painterly landscape with monumental scale, layered atmospheric haze and storybook lighting"
+    "notes": "Description: Mythic painterly landscape. Prompt hint: in the style of Ismail Inceoglu, mythic painterly landscape with monumental scale, layered atmospheric haze and storybook lighting",
+    "term_zh": "伊斯梅尔·因吉奥卢风格，神话绘画风风景",
+    "labels_zh": [
+      "摄影",
+      "插画师",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965665+00:00"
   },
   {
     "id": "photographer_illustrator_stefan_gesell",
     "term": "by stefan gesell, dark surreal portraiture",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "illustrator",
     "labels": [
       "stefan-gesell"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1236,18 +1586,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Dark surreal portraiture. Prompt hint: in the style of Stefan Gesell, dark surreal portraiture with high-contrast monochrome, masked figures and uneasy theatrical lighting"
+    "notes": "Description: Dark surreal portraiture. Prompt hint: in the style of Stefan Gesell, dark surreal portraiture with high-contrast monochrome, masked figures and uneasy theatrical lighting",
+    "term_zh": "斯特凡·格塞尔风格，黑暗超现实人像",
+    "labels_zh": [
+      "摄影",
+      "插画师",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467518+00:00"
   },
   {
     "id": "photographer_illustrator_andrew_atroshenko",
     "term": "by andrew atroshenko, romantic impressionist figure",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "illustrator",
     "labels": [
       "andrew-atroshenko"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1257,18 +1613,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Romantic impressionist figure. Prompt hint: in the style of Andrew Atroshenko, romantic impressionist figure painting with loose visible brushwork and shimmering candlelight"
+    "notes": "Description: Romantic impressionist figure. Prompt hint: in the style of Andrew Atroshenko, romantic impressionist figure painting with loose visible brushwork and shimmering candlelight",
+    "term_zh": "安德鲁·阿特罗申科风格，浪漫印象派人物",
+    "labels_zh": [
+      "摄影",
+      "插画师",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965669+00:00"
   },
   {
     "id": "photographer_illustrator_peter_gric",
     "term": "by peter gric, architectural surrealist landscape",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "illustrator",
     "labels": [
       "peter-gric"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1278,18 +1640,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Architectural surrealist landscape. Prompt hint: in the style of Peter Gric, architectural surrealist landscape with crystalline geometric structures and a cool muted palette"
+    "notes": "Description: Architectural surrealist landscape. Prompt hint: in the style of Peter Gric, architectural surrealist landscape with crystalline geometric structures and a cool muted palette",
+    "term_zh": "彼得·格里奇风格，建筑超现实风景",
+    "labels_zh": [
+      "摄影",
+      "插画师",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467522+00:00"
   },
   {
     "id": "photographer_illustrator_ingrid_baars",
     "term": "by ingrid baars, sculptural fashion-art collage",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "illustrator",
     "labels": [
       "ingrid-baars"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1299,18 +1667,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Sculptural fashion-art collage. Prompt hint: in the style of Ingrid Baars, sculptural fashion-art collage with elongated forms, smooth painted skin and ornate textile drapery"
+    "notes": "Description: Sculptural fashion-art collage. Prompt hint: in the style of Ingrid Baars, sculptural fashion-art collage with elongated forms, smooth painted skin and ornate textile drapery",
+    "term_zh": "英格里德·巴斯风格，雕塑感时尚艺术拼贴",
+    "labels_zh": [
+      "摄影",
+      "插画师",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965673+00:00"
   },
   {
     "id": "photographer_illustrator_guido_van_helten",
     "term": "by guido van helten, monumental muralist portraiture",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "illustrator",
     "labels": [
       "guido-van-helten"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1320,18 +1694,24 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Monumental muralist portrait. Prompt hint: in the style of Guido van Helten, monumental muralist portraiture with weathered concrete texture and quiet grayscale tonality"
+    "notes": "Description: Monumental muralist portrait. Prompt hint: in the style of Guido van Helten, monumental muralist portraiture with weathered concrete texture and quiet grayscale tonality",
+    "term_zh": "吉多·范·赫顿风格，纪念碑壁画人像",
+    "labels_zh": [
+      "摄影",
+      "插画师",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965676+00:00"
   },
   {
     "id": "photographer_genre_shot_as_a_high_fashion_magazine_editoria",
     "term": "shot as a high-fashion magazine editorial",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "genre",
     "labels": [
       "fashion-editorial"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1342,18 +1722,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: High-fashion magazine spread. Prompt hint: shot as a high-fashion magazine editorial, polished studio lighting, deliberate posing, designer wardrobe, full-bleed composition with strong color blocking and a glossy print-ready finish",
-    "updated_at": "2026-09-29T15:42:24.235622+00:00"
+    "updated_at": "2026-09-29T15:42:24.235622+00:00",
+    "term_zh": "高级时尚杂志编辑大片",
+    "labels_zh": [
+      "摄影",
+      "类型",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965680+00:00"
   },
   {
     "id": "photographer_genre_shot_in_the_language_of_a_vogue_editoria",
     "term": "shot in the language of a Vogue editorial cover",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "genre",
     "labels": [
       "vogue-editorial"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1364,18 +1750,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Vogue-style cover editorial. Prompt hint: shot in the language of a Vogue editorial cover, dramatic single-source lighting, couture wardrobe, confident direct-camera gaze and clean negative space sized for a glossy magazine cover",
-    "updated_at": "2026-09-29T15:42:24.235628+00:00"
+    "updated_at": "2026-09-29T15:42:24.235628+00:00",
+    "term_zh": "《Vogue》封面编辑风格",
+    "labels_zh": [
+      "摄影",
+      "类型",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467526+00:00"
   },
   {
     "id": "photographer_genre_shot_as_a_brand_lookbook_image",
     "term": "shot as a brand lookbook image",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "genre",
     "labels": [
       "lookbook"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1386,18 +1778,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Clean lookbook outfit shot. Prompt hint: shot as a brand lookbook image, full-body framing, neutral seamless backdrop, soft even studio lighting and subdued styling that lets the wardrobe read clearly",
-    "updated_at": "2026-09-29T15:42:24.235632+00:00"
+    "updated_at": "2026-09-29T15:42:24.235632+00:00",
+    "term_zh": "品牌画册图风格",
+    "labels_zh": [
+      "摄影",
+      "类型",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965684+00:00"
   },
   {
     "id": "photographer_genre_composed_as_a_top_down_e_commerce_flat_l",
     "term": "composed as a top-down e-commerce flat lay with even shadowl",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "genre",
     "labels": [
       "ecommerce-flatlay"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1408,18 +1806,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Overhead product flat lay. Prompt hint: composed as a top-down e-commerce flat lay with even shadowless studio lighting, a clean white surface and the subject arranged neatly within the frame for catalog use",
-    "updated_at": "2026-09-29T15:42:24.235636+00:00"
+    "updated_at": "2026-09-29T15:42:24.235636+00:00",
+    "term_zh": "俯拍电商平铺图带均匀无影白底",
+    "labels_zh": [
+      "摄影",
+      "类型",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.569822+00:00"
   },
   {
     "id": "photographer_genre_shot_as_a_beauty_editorial_close_up",
     "term": "shot as a beauty editorial close-up",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "genre",
     "labels": [
       "beauty-editorial"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1430,18 +1834,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Macro beauty / skincare close-up. Prompt hint: shot as a beauty editorial close-up, ring-lit with a soft glowing key, hyper-detailed skin texture, glossy lips, defined brows and a clean cosmetic palette",
-    "updated_at": "2026-09-29T15:42:24.235641+00:00"
+    "updated_at": "2026-09-29T15:42:24.235641+00:00",
+    "term_zh": "美妆编辑特写",
+    "labels_zh": [
+      "摄影",
+      "类型",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:10:24.965687+00:00"
   },
   {
     "id": "photographer_genre_shot_in_the_language_of_a_jil_sander_edi",
     "term": "shot in the language of a Jil Sander editorial",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "genre",
     "labels": [
       "brand-jil-sander"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1452,18 +1862,25 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Jil Sander — minimalist architectural muted. Prompt hint: shot in the language of a Jil Sander editorial, minimalist composition, muted ecru and stone palette, architectural wardrobe with clean unbroken lines and the brand's quiet austere mood",
-    "updated_at": "2026-09-29T15:42:24.235646+00:00"
+    "updated_at": "2026-09-29T15:42:24.235646+00:00",
+    "term_zh": "Jil Sander 风格编辑大片",
+    "labels_zh": [
+      "摄影",
+      "类型",
+      "Jil",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467531+00:00"
   },
   {
     "id": "photographer_genre_shot_in_the_language_of_a_vivienne_tam_e",
     "term": "shot in the language of a Vivienne Tam editorial",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "genre",
     "labels": [
       "brand-vivienne-tam"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1474,18 +1891,25 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Vivienne Tam — orientalist ornate fashion. Prompt hint: shot in the language of a Vivienne Tam editorial, orientalist motifs and dragon embroidery, ornate East-Asian fashion detailing and a saturated jewel-toned palette",
-    "updated_at": "2026-09-29T15:42:24.235650+00:00"
+    "updated_at": "2026-09-29T15:42:24.235650+00:00",
+    "term_zh": "Vivienne Tam 风格编辑大片",
+    "labels_zh": [
+      "摄影",
+      "类型",
+      "Tam",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467535+00:00"
   },
   {
     "id": "photographer_genre_shot_in_the_language_of_a_jacquemus_camp",
     "term": "shot in the language of a Jacquemus campaign",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "genre",
     "labels": [
       "brand-jacquemus"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1496,18 +1920,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Jacquemus — sun-soaked surrealist playful. Prompt hint: shot in the language of a Jacquemus campaign, sun-soaked Mediterranean light, surrealist scale play with oversized hats and miniature bags, terracotta and ochre palette and a playful French Riviera mood",
-    "updated_at": "2026-09-29T15:42:24.235654+00:00"
+    "updated_at": "2026-09-29T15:42:24.235654+00:00",
+    "term_zh": "Jacquemus 风格广告大片",
+    "labels_zh": [
+      "摄影",
+      "类型",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467540+00:00"
   },
   {
     "id": "photographer_genre_shot_in_the_signature_language_of_helmut",
     "term": "shot in the signature language of Helmut Newton",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "genre",
     "labels": [
       "brand-helmut-newton"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1518,18 +1948,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Helmut Newton — high-contrast B&W provocation. Prompt hint: shot in the signature language of Helmut Newton, high-contrast black-and-white, hard direct flash carving every line, statuesque pose, glamorous wardrobe and the cool confrontational eroticism of his 1970s editorial work",
-    "updated_at": "2026-09-29T15:42:24.235658+00:00"
+    "updated_at": "2026-09-29T15:42:24.235658+00:00",
+    "term_zh": "赫尔穆特·牛顿标志性风格",
+    "labels_zh": [
+      "摄影",
+      "类型",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467543+00:00"
   },
   {
     "id": "photographer_genre_shot_in_the_signature_language_of_a_harp",
     "term": "shot in the signature language of a Harper's Bazaar editoria",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "genre",
     "labels": [
       "brand-harpers-bazaar"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1540,18 +1976,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Harper's Bazaar — high-fashion glossy. Prompt hint: shot in the signature language of a Harper's Bazaar editorial, high-fashion glossy production, bold graphic backdrops, dramatic single-source key light and the brand's distinctively confident composition",
-    "updated_at": "2026-09-29T15:42:24.235662+00:00"
+    "updated_at": "2026-09-29T15:42:24.235662+00:00",
+    "term_zh": "《Harper's Bazaar》编辑大片风格",
+    "labels_zh": [
+      "摄影",
+      "类型",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:14:10.569836+00:00"
   },
   {
     "id": "photographer_genre_shot_in_a_street_photography_idiom",
     "term": "shot in a street-photography idiom",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "genre",
     "labels": [
       "street-photography"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1562,18 +2004,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Unposed urban street frame. Prompt hint: shot in a street-photography idiom, available light, mid-stride candid moment, busy city background slightly out of focus and a grainy 35mm reportage feel",
-    "updated_at": "2026-09-29T15:42:24.235667+00:00"
+    "updated_at": "2026-09-29T15:42:24.235667+00:00",
+    "term_zh": "街头摄影风格",
+    "labels_zh": [
+      "摄影",
+      "类型",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467547+00:00"
   },
   {
     "id": "photographer_genre_shot_as_editorial_photojournalism_with_a",
     "term": "shot as editorial photojournalism with a 35mm reportage lens",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "genre",
     "labels": [
       "photojournalism"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1584,18 +2032,25 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Editorial news-grade reportage. Prompt hint: shot as editorial photojournalism with a 35mm reportage lens, faithful natural lighting, the subject reacting to events outside the frame and a wire-service caption-ready composition",
-    "updated_at": "2026-09-29T15:42:24.235671+00:00"
+    "updated_at": "2026-09-29T15:42:24.235671+00:00",
+    "term_zh": "35mm 报道镜头新闻摄影编辑大片",
+    "labels_zh": [
+      "摄影",
+      "类型",
+      "35mm",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467551+00:00"
   },
   {
     "id": "photographer_genre_shot_as_a_polished_corporate_headshot",
     "term": "shot as a polished corporate headshot",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "genre",
     "labels": [
       "corporate-headshot"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1606,18 +2061,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Linkedin-style headshot. Prompt hint: shot as a polished corporate headshot, soft three-point studio lighting, blurred neutral office or grey backdrop, professional wardrobe and a confident closed-mouth smile",
-    "updated_at": "2026-09-29T15:42:24.235676+00:00"
+    "updated_at": "2026-09-29T15:42:24.235676+00:00",
+    "term_zh": "精致企业形象照",
+    "labels_zh": [
+      "摄影",
+      "类型",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467555+00:00"
   },
   {
     "id": "photographer_genre_shot_as_a_police_booking_mugshot",
     "term": "shot as a police booking mugshot",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "genre",
     "labels": [
       "mugshot"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1628,18 +2089,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Police booking-style portrait. Prompt hint: shot as a police booking mugshot, harsh fluorescent overhead lighting, height chart on the wall behind, dead-square frontal framing and a flat institutional color cast",
-    "updated_at": "2026-09-29T15:42:24.235680+00:00"
+    "updated_at": "2026-09-29T15:42:24.235680+00:00",
+    "term_zh": "警方登记摄录照",
+    "labels_zh": [
+      "摄影",
+      "类型",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467559+00:00"
   },
   {
     "id": "photographer_genre_shot_as_a_wedding_portrait",
     "term": "shot as a wedding portrait",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "genre",
     "labels": [
       "wedding-portrait"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1650,18 +2117,25 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Romantic bridal-style portrait. Prompt hint: shot as a wedding portrait, soft golden-hour backlight, romantic shallow depth of field, dreamy pastel color grade and an intimate posed embrace or solo bridal stance",
-    "updated_at": "2026-09-29T15:42:24.235685+00:00"
+    "updated_at": "2026-09-29T15:42:24.235685+00:00",
+    "term_zh": "婚礼人像",
+    "labels_zh": [
+      "摄影",
+      "类型",
+      "婚礼人像",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467563+00:00"
   },
   {
     "id": "photographer_genre_shot_as_a_posed_family_portrait",
     "term": "shot as a posed family portrait",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "genre",
     "labels": [
       "family-portrait"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1672,18 +2146,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Posed family group shot. Prompt hint: shot as a posed family portrait, warm even studio lighting, neutral backdrop, coordinated wardrobe and the group arranged in a balanced pyramid composition",
-    "updated_at": "2026-09-29T15:42:24.235689+00:00"
+    "updated_at": "2026-09-29T15:42:24.235689+00:00",
+    "term_zh": "全家福合影",
+    "labels_zh": [
+      "摄影",
+      "类型",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467566+00:00"
   },
   {
     "id": "photographer_genre_shot_as_a_glamour_portrait_with_soft_dif",
     "term": "shot as a glamour portrait with soft diffused beauty lightin",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "genre",
     "labels": [
       "glamour-portrait"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1694,18 +2174,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Soft-focus glamour portrait. Prompt hint: shot as a glamour portrait with soft diffused beauty lighting, a high-key warm tone, gentle skin retouch, voluminous hair and a sultry over-the-shoulder pose",
-    "updated_at": "2026-09-29T15:42:24.235693+00:00"
+    "updated_at": "2026-09-29T15:42:24.235693+00:00",
+    "term_zh": "魅惑人像柔光美容光",
+    "labels_zh": [
+      "摄影",
+      "类型",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:15:02.891267+00:00"
   },
   {
     "id": "photographer_genre_shot_in_a_film_noir_portrait_idiom",
     "term": "shot in a film-noir portrait idiom",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "genre",
     "labels": [
       "film-noir"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1716,18 +2202,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Hard-shadow noir portrait. Prompt hint: shot in a film-noir portrait idiom, hard single-source key light casting deep shadows, venetian-blind shadow patterns, monochrome high-contrast palette and a brooding closed-off pose",
-    "updated_at": "2026-09-29T15:42:24.235697+00:00"
+    "updated_at": "2026-09-29T15:42:24.235697+00:00",
+    "term_zh": "黑色电影人像风格",
+    "labels_zh": [
+      "摄影",
+      "类型",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467570+00:00"
   },
   {
     "id": "photographer_genre_shot_as_a_smartphone_mirror_selfie",
     "term": "shot as a smartphone mirror selfie",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "genre",
     "labels": [
       "mirror-selfie"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1738,18 +2230,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Phone-in-mirror full-body selfie. Prompt hint: shot as a smartphone mirror selfie, the phone visible in one raised hand reflected in the mirror, full or three-quarter body framing, a domestic bedroom or bathroom background and natural ambient light",
-    "updated_at": "2026-09-29T15:42:24.235701+00:00"
+    "updated_at": "2026-09-29T15:42:24.235701+00:00",
+    "term_zh": "shotas智能手机镜子自拍",
+    "labels_zh": [
+      "摄影",
+      "类型",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:53:10.848877+00:00"
   },
   {
     "id": "photographer_genre_shot_as_a_gym_mirror_selfie",
     "term": "shot as a gym mirror selfie",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "genre",
     "labels": [
       "gym-mirror-selfie"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1760,18 +2258,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Locker-room gym mirror selfie. Prompt hint: shot as a gym mirror selfie, three-quarter side-back angle reflected in a wall-length gym mirror, phone clearly raised in one hand, fitness wardrobe, busy weight-rack background and bright overhead gym lighting",
-    "updated_at": "2026-09-29T15:42:24.235705+00:00"
+    "updated_at": "2026-09-29T15:42:24.235705+00:00",
+    "term_zh": "健身房镜子自拍",
+    "labels_zh": [
+      "摄影",
+      "类型",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467574+00:00"
   },
   {
     "id": "photographer_genre_shot_as_a_bathroom_mirror_selfie_with_a_",
     "term": "shot as a bathroom mirror selfie with a small on-phone flash",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "genre",
     "labels": [
       "bathroom-mirror-selfie"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1782,18 +2286,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Bathroom-mirror selfie with flash. Prompt hint: shot as a bathroom mirror selfie with a small on-phone flash kicking off the glass, tiled walls and a sink or shelf in frame, casual outfit and the slightly unfocused intimacy of a private moment",
-    "updated_at": "2026-09-29T15:42:24.235709+00:00"
+    "updated_at": "2026-09-29T15:42:24.235709+00:00",
+    "term_zh": "浴室镜子自拍配小闪光灯",
+    "labels_zh": [
+      "摄影",
+      "类型",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467577+00:00"
   },
   {
     "id": "photographer_genre_shot_as_a_group_phone_selfie_taken_at_ar",
     "term": "shot as a group phone selfie taken at arm's length",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "genre",
     "labels": [
       "group-selfie"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1804,18 +2314,24 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Multiple-subject phone selfie. Prompt hint: shot as a group phone selfie taken at arm's length, several faces clustered into the frame, one arm visibly extended holding the phone and a bright shared moment with cheerful expressions",
-    "updated_at": "2026-09-29T15:42:24.235714+00:00"
+    "updated_at": "2026-09-29T15:42:24.235714+00:00",
+    "term_zh": "群臂合影自拍",
+    "labels_zh": [
+      "摄影",
+      "类型",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467581+00:00"
   },
   {
     "id": "photographer_genre_shot_as_professional_food_photography",
     "term": "shot as professional food photography",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "genre",
     "labels": [
       "food-photography"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1826,18 +2342,25 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Overhead or 45-degree food shot. Prompt hint: shot as professional food photography, soft window-style key light, a 45-degree or overhead angle, glossy fresh ingredients in shallow focus and a styled rustic surface beneath",
-    "updated_at": "2026-09-29T15:42:24.235718+00:00"
+    "updated_at": "2026-09-29T15:42:24.235718+00:00",
+    "term_zh": "食物摄影",
+    "labels_zh": [
+      "摄影",
+      "类型",
+      "食物摄影",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T08:25:58.027299+00:00"
   },
   {
     "id": "photographer_genre_shot_as_a_clean_e_commerce_product_photo",
     "term": "shot as a clean e-commerce product photograph",
-    "term_zh": "",
     "category": "photographer",
     "subcategory": "genre",
     "labels": [
       "product-shot"
     ],
-    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -1848,6 +2371,14 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Clean isolated e-commerce product. Prompt hint: shot as a clean e-commerce product photograph, the subject isolated on a neutral seamless background, even shadowless studio lighting and a sharp catalog-ready composition",
-    "updated_at": "2026-09-29T15:42:24.235722+00:00"
+    "updated_at": "2026-09-29T15:42:24.235722+00:00",
+    "term_zh": "干净电商产品照",
+    "labels_zh": [
+      "摄影",
+      "类型",
+      "nodaro"
+    ],
+    "_labels_zh_generated": true,
+    "_generated_at": "2026-09-30T09:08:25.467584+00:00"
   }
 ]

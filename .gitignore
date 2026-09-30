@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.bak-consolidation/
+*.tmp
+.output/
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Generated data files (update via `python3 tools/pws-index.py`)
+data/
