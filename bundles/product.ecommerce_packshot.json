@@ -1,0 +1,51 @@
+{
+  "id": "product.ecommerce_packshot",
+  "name": "E-commerce Packshot",
+  "name_zh": "电商标准产品图",
+  "description": "A precise combination of quality, lighting, rendering, and material keywords for generating clean, white-background product photography suitable for Amazon, Shopify, or other e-commerce platforms. Requires pure white background, accurate color, visible edge detail, no cast shadows, and product correctly exposed with detail in both highlights and shadows.",
+  "description_zh": "精准搭配质量、灯光、渲染和材质关键词，生成适合 Amazon、Shopify 等电商平台的白色背景标准产品图。要求纯白背景、色彩准确、边缘清晰无阴影、产品正确曝光、高光和阴影处均有细节。",
+  "version": "1.0.0",
+  "category": "product",
+  "subcategories": ["ecommerce", "packshot", "catalog", "white-background", "marketplace"],
+  "api_targets": ["SDXL", "DALL-E", "Flux", "GPT Image", "Custom"],
+  "keywords": [
+    {"id": "quality_basic_masterpiece", "weight": 0.95, "force_include": true},
+    {"id": "quality_basic_best_quality", "weight": 0.95, "force_include": true},
+    {"id": "quality_basic_high_quality", "weight": 0.95, "force_include": true},
+    {"id": "quality_basic_high_resolution", "weight": 0.9, "force_include": true},
+    {"id": "quality_basic_detailed", "weight": 0.9, "force_include": true},
+
+    {"id": "render_quality_stamps_masterpiece", "weight": 0.95, "force_include": true},
+    {"id": "render_quality_engines_unreal_engine_5", "weight": 0.85},
+    {"id": "render_quality_engines_blender_cycles", "weight": 0.85},
+    {"id": "render_quality_engines_octane_render", "weight": 0.85},
+    {"id": "render_quality_other_raytracing", "weight": 0.85},
+
+    {"id": "lighting_natural_soft_lighting", "weight": 0.9, "force_include": true},
+    {"id": "lighting_mood_studio_lighting", "weight": 0.9, "force_include": true},
+    {"id": "lighting_mood_high_key_lighting", "weight": 0.9},
+
+    {"id": "composition_rules_centered_composition", "weight": 0.9, "force_include": true},
+    {"id": "composition_angles_three_quarter_view", "weight": 0.8},
+
+    {"id": "negative_quality_low_quality", "weight": 0.95, "force_include": true},
+    {"id": "negative_quality_blurry", "weight": 0.95, "force_include": true}
+  ],
+  "templates": [],
+  "prompt_text": "masterpiece, best quality, high quality, high resolution, detailed, 5K UHD, 4K UHD, 8K UHD, ultra-detailed, RAW photo, product photography, centered product, studio lighting, soft lighting, high key lighting, raytracing, sharp focus, clean edges",
+  "prompt_text_zh": "杰作，最高质量，高质量，高分辨率，高细节，5K UHD，4K UHD，8K 超高清，超精细，RAW 摄影，产品展示图，居中产品，灯光摄影，柔和灯光，高关键照明，光线追踪，清晰聚焦，干净边缘",
+  "example": {
+    "description": "Generate a clean white-background product photo of a coffee mug for an e-commerce listing.",
+    "description_zh": "生成咖啡杯的白色背景电商产品展示图。",
+    "input": {
+      "product": "a ceramic white coffee mug with a matte finish"
+    },
+    "output": "masterpiece, best quality, high quality, high resolution, detailed, 5K UHD, 4K UHD, 8K UHD, ultra-detailed, RAW photo, product photography, centered product, ceramic white coffee mug with matte finish, studio lighting, soft lighting, high key lighting, sharp focus"
+  },
+  "tags": ["product", "ecommerce", "packshot", "white-background", "marketplace", "catalog", "Amazon", "Shopify"],
+  "lifecycle": "approved",
+  "score": 0.90,
+  "notes": "This bundle is optimized for Amazon/Shopify compliant product images. Key differentiators: high key lighting (0.9) for pure white background, studio lighting (0.9) for even illumination. Rendering engines (Unreal, Blender Cycles, Octane) add 3D realism. Use guidance_scale 8-10 for best product detail adherence. No pure_white_background or no_shadow keywords exist in the keyword database.",
+  "created_at": "2026-10-06T18:30:00+00:00",
+  "updated_at": "2026-10-06T18:30:00+00:00"
+}

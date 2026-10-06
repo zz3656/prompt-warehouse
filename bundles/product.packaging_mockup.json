@@ -1,0 +1,54 @@
+{
+  "id": "product.packaging_mockup",
+  "name": "Packaging Design Mockup",
+  "name_zh": "包装设计样机",
+  "description": "A curated combination of rendering, material, quality, and scene keywords for generating photorealistic packaging mockups and product 3D visualizations. Produces realistic product containers with proper lighting, material textures (cardboard, glass, plastic, foil), and surface treatments (matte, gloss, embossing, foiling).",
+  "description_zh": "精心搭配渲染、材质、质量和场景关键词，生成逼真的包装设计样机和产品3D可视化图。生成带有正确灯光、材质纹理（纸板、玻璃、塑料、箔）和表面处理（哑光、光泽、压花、烫金）的真实产品容器。",
+  "version": "1.0.0",
+  "category": "product",
+  "subcategories": ["packaging", "mockup", "3d-rendering", "dieline", "branding"],
+  "api_targets": ["SDXL", "Flux", "Stable Diffusion", "DALL-E", "Custom"],
+  "keywords": [
+    {"id": "quality_basic_masterpiece", "weight": 0.95, "force_include": true},
+    {"id": "quality_basic_best_quality", "weight": 0.95, "force_include": true},
+    {"id": "quality_basic_highly_detailed", "weight": 0.9, "force_include": true},
+
+    {"id": "render_quality_engines_unreal_engine_5", "weight": 0.9, "force_include": true},
+    {"id": "render_quality_engines_blender_cycles", "weight": 0.9, "force_include": true},
+    {"id": "render_quality_engines_octane_render", "weight": 0.85},
+    {"id": "render_quality_other_raytracing", "weight": 0.85},
+    {"id": "render_quality_other_physically_based_rendering", "weight": 0.85},
+
+    {"id": "mj_mj_v5_matprops_matte", "weight": 0.85},
+    {"id": "mj_mj_v5_matprops_glossy", "weight": 0.85},
+    {"id": "mj_mj_v5_materials_aluminum", "weight": 0.8},
+    {"id": "mj_mj_v5_materials_brushed_aluminum", "weight": 0.8},
+    {"id": "mj_mj_v5_materials_foil", "weight": 0.8},
+
+    {"id": "lighting_mood_studio_lighting", "weight": 0.9, "force_include": true},
+    {"id": "lighting_natural_soft_lighting", "weight": 0.85},
+
+    {"id": "composition_rules_centered_composition", "weight": 0.9, "force_include": true},
+    {"id": "composition_angles_three_quarter_view", "weight": 0.9},
+
+    {"id": "negative_quality_low_quality", "weight": 0.95, "force_include": true},
+    {"id": "negative_quality_blurry", "weight": 0.95, "force_include": true}
+  ],
+  "templates": [],
+  "prompt_text": "masterpiece, best quality, highly detailed, Unreal Engine 5, Blender Cycles, Octane render, raytracing, physically-based rendering, studio lighting, natural soft lighting, centered product, three-quarter angle, matte finish, glossy finish",
+  "prompt_text_zh": "杰作，最高质量，高细节，虚幻引擎5，Blender Cycles，Octane渲染，光线追踪，基于物理的渲染，灯光摄影，柔和自然灯光，居中产品，四分之三角度，哑光表面，光泽表面",
+  "example": {
+    "description": "Generate a photorealistic packaging mockup of a skincare serum bottle.",
+    "description_zh": "生成护肤品精华瓶的逼真包装样机。",
+    "input": {
+      "package_type": "amber glass dropper bottle with matte white label"
+    },
+    "output": "masterpiece, best quality, highly detailed, Unreal Engine 5, Blender Cycles, Octane render, raytracing, studio lighting, amber glass dropper bottle with matte white label, centered product, three-quarter angle, matte finish, brushed aluminum"
+  },
+  "tags": ["product", "packaging", "mockup", "3d", "rendering", "branding", "dieline", "luxury"],
+  "lifecycle": "approved",
+  "score": 0.87,
+  "notes": "This bundle is for packaging design and 3D mockup generation. Key differentiators: Unreal Engine 5 / Blender Cycles / Octane (0.9) for photorealistic rendering, matte (0.85) + glossy (0.85) + aluminum (0.8) + foil (0.8) for surface treatment variety, studio lighting (0.9). Use with high guidance_scale (8-10) for text/label adherence. Note: no exact 'frosted glass' or 'embossing' keywords exist; closest is 'matte' (0.85) and 'emboss' (0.8).",
+  "created_at": "2026-10-06T18:30:00+00:00",
+  "updated_at": "2026-10-06T18:30:00+00:00"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "environment.architectural_interior",
+  "name": "Architectural Interior Visualization",
+  "name_zh": "建筑室内可视化",
+  "description": "A curated combination of scene, material, quality, lighting, and composition keywords for generating photorealistic architectural interior renderings. Covers residential, commercial, and hospitality spaces with realistic materials, natural window lighting, and professional camera techniques.",
+  "description_zh": "精心搭配场景、材质、质量、灯光和构图关键词，生成逼真的建筑室内渲染图。涵盖住宅、商业和酒店空间，带有真实材质、自然窗户光和专业摄影技术。",
+  "version": "1.0.0",
+  "category": "environment",
+  "subcategories": ["architectural", "interior", "real-estate", "hospitality", "commercial"],
+  "api_targets": ["SDXL", "Flux", "Stable Diffusion", "Custom"],
+  "keywords": [
+    {"id": "quality_basic_masterpiece", "weight": 0.95, "force_include": true},
+    {"id": "quality_basic_best_quality", "weight": 0.95, "force_include": true},
+    {"id": "quality_basic_highly_detailed", "weight": 0.9, "force_include": true},
+    {"id": "quality_basic_high_resolution", "weight": 0.9},
+
+    {"id": "render_quality_engines_unreal_engine_5", "weight": 0.9, "force_include": true},
+    {"id": "render_quality_engines_blender_cycles", "weight": 0.9, "force_include": true},
+    {"id": "render_quality_engines_redshift", "weight": 0.85},
+    {"id": "render_quality_other_arnold_render", "weight": 0.85},
+    {"id": "render_quality_other_raytracing", "weight": 0.9},
+    {"id": "render_quality_other_aces", "weight": 0.85},
+
+    {"id": "scene_indoor_set_in_a_minimalist_white_cube_art_galle", "weight": 0.85},
+    {"id": "mj_mj_v5_design_minimalist", "weight": 0.85},
+
+    {"id": "material_stone_concrete", "weight": 0.8},
+
+    {"id": "lighting_mood_studio_lighting", "weight": 0.9, "force_include": true},
+    {"id": "lighting_natural_soft_lighting", "weight": 0.85},
+    {"id": "lighting_dramatic_cinematic_lighting", "weight": 0.8},
+    {"id": "mj_mj_v5_lighting_cinematic_lighting", "weight": 0.8},
+
+    {"id": "mj_mj_v5_camera_wide_angle", "weight": 0.9, "force_include": true},
+    {"id": "composition_rules_centered_composition", "weight": 0.85},
+
+    {"id": "color_look_palette_faded_matte", "weight": 0.8},
+    {"id": "color_look_palette_teal_orange", "weight": 0.75},
+
+    {"id": "negative_quality_low_quality", "weight": 0.95, "force_include": true},
+    {"id": "negative_quality_blurry", "weight": 0.95, "force_include": true}
+  ],
+  "templates": [],
+  "prompt_text": "masterpiece, best quality, highly detailed, high resolution, Unreal Engine 5, Blender Cycles, Redshift, Arnold render, raytracing, ACES, minimalist interior, concrete, studio lighting, natural soft lighting, cinematic lighting, wide-angle interior photography, centered composition",
+  "prompt_text_zh": "杰作，最高质量，高细节，高分辨率，虚幻引擎5，Blender Cycles，Redshift，Arnold渲染，光线追踪，ACES，极简室内，混凝土，灯光摄影，柔和自然灯光，电影感灯光，广角室内摄影，居中对齐构图",
+  "example": {
+    "description": "Generate a photorealistic interior shot of a modern living room for a real estate listing.",
+    "description_zh": "生成用于房地产列表的现代客厅逼真室内照片。",
+    "input": {
+      "space": "a bright open-plan living room with white sofa and large windows"
+    },
+    "output": "masterpiece, best quality, highly detailed, high resolution, Unreal Engine 5, Blender Cycles, raytracing, ACES, minimalist interior, concrete, bright open-plan living room, studio lighting, wide-angle interior photography, clean lines"
+  },
+  "tags": ["architectural", "interior", "real-estate", "visualization", "3d-render", "hospitality", "commercial"],
+  "lifecycle": "approved",
+  "score": 0.88,
+  "notes": "This bundle targets architectural visualization and real estate photography. Key differentiators: Unreal Engine 5 / Blender Cycles (0.9) + raytracing (0.9) + ACES (0.85) for professional-grade rendering, studio lighting (0.9) as primary key light, wide-angle (0.9) for spatial context. minimalist design (0.85) + concrete (0.8) form the base. Note: no exact 'modern interior' or 'hardwood' keywords exist; closest is 'minimalist' (0.85) and 'concrete' (0.8).",
+  "created_at": "2026-10-06T18:30:00+00:00",
+  "updated_at": "2026-10-06T18:30:00+00:00"
+}

@@ -12,14 +12,17 @@ __pycache__/
 # Generated data files (update via `python3 tools/pws-index.py`)
 data/
 
-# Prompt bundles
-bundles/
+# Prompt bundles (tracked for reference but not committed)
+# bundles/
 
 # Build/cache directories
 .ruff_cache/
 .hermes/
 node_modules/
 __pycache__/
+
+# Prompt bundles (committed)
+bundles/
 
 # Agent internal state (not for version control)
 .pi/

@@ -1,0 +1,88 @@
+{
+  "id": "photography.cinematic_portrait",
+  "name": "Cinematic Portrait",
+  "name_zh": "电影感人像",
+  "description": "A curated combination of quality, composition, lighting, character, and style keywords designed for generating emotionally compelling, film-quality portraits. Use this bundle when you need a ready-made recipe for cinematic portrait photography or illustration.",
+  "description_zh": "精心搭配的质量、构图、灯光、角色和风格关键词组合，专为生成情感丰富的电影级人像而设计。当你需要现成的电影感人像配方时使用此包。",
+  "version": "1.0.0",
+  "category": "photography",
+  "subcategories": ["portrait", "cinematic", "editorial", "studio"],
+  "api_targets": ["SDXL", "Midjourney", "Flux", "Stable Diffusion", "Custom"],
+  "keywords": [
+    {"id": "quality_basic_masterpiece", "weight": 0.95, "force_include": true},
+    {"id": "quality_basic_best_quality", "weight": 0.95, "force_include": true},
+    {"id": "quality_basic_high_quality", "weight": 0.95, "force_include": true},
+    {"id": "quality_basic_high_resolution", "weight": 0.9, "force_include": true},
+    {"id": "quality_basic_detailed", "weight": 0.9, "force_include": true},
+    {"id": "quality_basic_highly_detailed", "weight": 0.9, "force_include": true},
+    {"id": "quality_basic_sharp_focus", "weight": 0.9, "force_include": true},
+    {"id": "quality_basic_crisp", "weight": 0.85},
+
+    {"id": "composition_lens_85mm_portrait_lens", "weight": 0.9, "force_include": true},
+    {"id": "composition_framing_close_up_portrait", "weight": 0.95, "force_include": true},
+    {"id": "composition_lens_petzval_portrait_lens_swirling_bokeh", "weight": 0.9},
+    {"id": "quality_technical_depth_of_field", "weight": 0.9},
+    {"id": "mj_mj_v5_camera_bokeh", "weight": 0.85},
+    {"id": "mj_mj_v5_camera_depth_of_field", "weight": 0.85},
+    {"id": "mj_mj_v5_camera_35mm", "weight": 0.7},
+
+    {"id": "mj_mj_v5_lighting_cinematic_lighting", "weight": 0.95, "force_include": true},
+    {"id": "mj_mj_v5_lighting_backlight", "weight": 0.8},
+    {"id": "mj_mj_v5_lighting_rim_lighting", "weight": 0.8},
+    {"id": "mj_mj_v5_lighting_godrays", "weight": 0.8},
+    {"id": "mj_mj_v5_lighting_moody_lighting", "weight": 0.8},
+    {"id": "mj_mj_v5_design_silhouette", "weight": 0.75},
+    {"id": "lighting_natural_soft_lighting", "weight": 0.8},
+    {"id": "lighting_dramatic_chiaroscuro", "weight": 0.7},
+
+    {"id": "character_expression_serene_expression", "weight": 0.85},
+    {"id": "character_mood_thoughtful_contemplative_expression", "weight": 0.85},
+    {"id": "character_mood_mysterious_enigmatic_expression", "weight": 0.8},
+    {"id": "character_composition_close_up", "weight": 0.9},
+    {"id": "character_hair_flowing_hair", "weight": 0.7},
+    {"id": "character_hair_wavy_hair", "weight": 0.7},
+    {"id": "character_eyes_sharp_gaze", "weight": 0.8},
+
+    {"id": "photographer_editorial_annie_leibovitz", "weight": 0.7},
+    {"id": "photographer_concept_wlop", "weight": 0.6},
+    {"id": "photographer_concept_charlie_bowater", "weight": 0.6},
+
+    {"id": "negative_quality_low_quality", "weight": 0.95, "force_include": true},
+    {"id": "negative_quality_worst_quality", "weight": 0.95, "force_include": true},
+    {"id": "negative_quality_bad_quality", "weight": 0.95, "force_include": true},
+    {"id": "negative_quality_blurry", "weight": 0.95, "force_include": true},
+    {"id": "negative_anatomy_deformed", "weight": 0.95, "force_include": true},
+    {"id": "negative_anatomy_disfigured", "weight": 0.95, "force_include": true}
+  ],
+  "templates": [
+    {
+      "template_id": "h3.video_prompts",
+      "variant_id": "cinematic_reveal",
+      "variables": {}
+    },
+    {
+      "template_id": "h3.video_prompts",
+      "variant_id": "character_closeup",
+      "variables": {}
+    }
+  ],
+  "prompt_text": "masterpiece, best quality, high quality, high resolution, highly detailed, sharp focus, crisp, 85mm portrait lens, close-up portrait, petzval portrait lens, swirling bokeh, depth of field, cinematic lighting, rim lighting, moody lighting, soft diffused lighting, cinematic portrait, film grain, Kodak Portra 400, elegant pose, subtle emotion, --v 6 --ar 2:3 --style raw",
+  "prompt_text_zh": "杰作，最高质量，高质量，高分辨率，高细节，清晰聚焦，锐利，85mm人像镜头，特写人像，petzval人像镜头，散景效果，景深，电影感照明，轮廓光，情绪灯�{nbsp}光照，柔和散射光，电影感人像，胶片颗粒，柯达Portra 400，优雅姿态，微妙情感",
+  "example": {
+    "description": "Generate a cinematic editorial portrait of a woman standing by a window at golden hour.",
+    "description_zh": "生成一位女性站在窗边黄金时段的电影感人像摄影。",
+    "input": {
+      "subject": "a young woman with flowing dark hair",
+      "setting": "standing by a large window at golden hour",
+      "emotion": "serene and contemplative"
+    },
+    "output": "masterpiece, best quality, high quality, high resolution, highly detailed, sharp focus, crisp, 85mm portrait lens, close-up portrait, petzval portrait lens, swirling bokeh, depth of field, cinematic lighting, rim lighting, moody lighting, soft diffused lighting, cinematic portrait, film grain, Kodak Portra 400, elegant pose, subtle emotion, young woman with flowing dark hair standing by a large window at golden hour, serene and contemplative expression, golden hour window light creates warm cinematic glow, deep bokeh background, --v 6 --ar 2:3 --style raw",
+    "negative": "low quality, worst quality, bad quality, blurry, deformed, disfigured"
+  },
+  "tags": ["cinematic", "portrait", "editorial", "studio", "photography", "bokeh", "85mm"],
+  "lifecycle": "approved",
+  "score": 0.92,
+  "notes": "This bundle combines the essential quality boosters (weight 0.95+), the 85mm portrait lens (weight 0.9), close-up framing (weight 0.95), and cinematic lighting keywords (rim, back, moody). The negative prompt block ensures bad outputs are filtered. The prompt_text is pre-built for quick use, while the keywords array allows granular customization.",
+  "created_at": "2026-10-06T00:00:00+00:00",
+  "updated_at": "2026-10-06T00:00:00+00:00"
+}

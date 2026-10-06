@@ -1,0 +1,62 @@
+{
+  "id": "scene.fantasy_landscape",
+  "name": "Fantasy Landscape",
+  "name_zh": "奇幻风景",
+  "description": "A curated combination of quality, scene, lighting, and composition keywords for generating epic fantasy landscape scenes. Use this bundle for landscapes with magical, ethereal, or otherworldly atmospheres.",
+  "description_zh": "精心搭配的质量、场景、灯光和构图关键词，专为生成史诗奇幻风景场景而设计。适用于带有魔法、空灵或异世界氛围的风景。",
+  "version": "1.0.0",
+  "category": "scene",
+  "subcategories": ["landscape", "fantasy", "nature", "epic"],
+  "api_targets": ["SDXL", "Midjourney", "Flux", "Stable Diffusion", "Custom"],
+  "keywords": [
+    {"id": "quality_basic_masterpiece", "weight": 0.95, "force_include": true},
+    {"id": "quality_basic_best_quality", "weight": 0.95, "force_include": true},
+    {"id": "quality_basic_highly_detailed", "weight": 0.9, "force_include": true},
+    {"id": "quality_basic_high_resolution", "weight": 0.9},
+    {"id": "quality_basic_detailed", "weight": 0.85},
+
+    {"id": "mj_mj_v5_nature_landscape", "weight": 0.95, "force_include": true},
+    {"id": "scene_nature_mountain_range", "weight": 0.9},
+    {"id": "mj_mj_v5_nature_waterfall", "weight": 0.8},
+    {"id": "mj_mj_v5_nature_forest", "weight": 0.8},
+    {"id": "scene_nature_enchanted_forest", "weight": 0.8},
+    {"id": "scene_nature_fairy_forest", "weight": 0.75},
+    {"id": "scene_weather_misty", "weight": 0.85},
+    {"id": "mj_mj_v5_nature_aurora_borealis", "weight": 0.7},
+    {"id": "mj_mj_v5_nature_volcano", "weight": 0.7},
+
+    {"id": "mj_mj_v5_lighting_cinematic_lighting", "weight": 0.9},
+    {"id": "mj_mj_v5_lighting_ethereal_lighting", "weight": 0.9},
+    {"id": "mj_mj_v5_lighting_volumetric", "weight": 0.9},
+    {"id": "mj_mj_v5_lighting_volumetric_lighting", "weight": 0.9},
+    {"id": "mj_mj_v5_lighting_godrays", "weight": 0.85},
+    {"id": "lighting_special_atmospheric_haze", "weight": 0.8},
+
+    {"id": "composition_lens_depth_of_field", "weight": 0.75},
+    {"id": "mj_mj_v5_camera_bokeh", "weight": 0.7},
+    {"id": "mj_mj_v5_camera_cinematic", "weight": 0.85},
+    {"id": "mj_mj_v5_camera_cinematic_haze", "weight": 0.8},
+
+    {"id": "negative_quality_low_quality", "weight": 0.95, "force_include": true},
+    {"id": "negative_quality_blurry", "weight": 0.95, "force_include": true}
+  ],
+  "templates": [],
+  "prompt_text": "masterpiece, best quality, highly detailed, high resolution, landscape, cinematic lighting, volumetric lighting, ethereal lighting, godrays, atmospheric haze, depth of field, cinematic, --v 6 --ar 16:9 --style raw",
+  "prompt_text_zh": "杰作，最高质量，高细节，高分辨率，风景，电影感照明，体积光，空灵闪电，神光，大气薄雾，景深，电影感",
+  "example": {
+    "description": "Generate a fantasy landscape with mountains, enchanted forest, and aurora.",
+    "description_zh": "生成包含山脉、魔法森林和极光的奇幻风景。",
+    "input": {
+      "scene_type": "snowy mountain peak with enchanted forest below",
+      "atmosphere": "ethereal misty aurora borealis"
+    },
+    "output": "masterpiece, best quality, highly detailed, high resolution, landscape, mountain range, waterfall, forest, enchanted forest, misty, aurora borealis, cinematic lighting, volumetric lighting, ethereal lighting, godrays, atmospheric haze, depth of field, cinematic, snowy mountain peak with enchanted forest below, ethereal misty aurora borealis, --v 6 --ar 16:9 --style raw",
+    "negative": "low quality, blurry"
+  },
+  "tags": ["landscape", "fantasy", "nature", "ethereal", "volumetric", "aurora"],
+  "lifecycle": "approved",
+  "score": 0.88,
+  "notes": "This bundle focuses on landscape-specific keywords from the scene and lighting categories. The pre-built prompt_text can be used directly or the keywords array can be used to customize which scene and lighting elements to emphasize.",
+  "created_at": "2026-10-06T00:00:00+00:00",
+  "updated_at": "2026-10-06T00:00:00+00:00"
+}

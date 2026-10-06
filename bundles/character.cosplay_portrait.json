@@ -1,0 +1,56 @@
+{
+  "id": "character.cosplay_portrait",
+  "name": "Cosplay Portrait",
+  "name_zh": "Cosplay肖像",
+  "description": "A curated combination of character, clothing, scene, lighting, and quality keywords for generating high-quality cosplay photography. Combines detailed costume/prop keywords with dramatic lighting, fantasy locations, and cinematic composition to produce museum-quality cosplay portraits.",
+  "description_zh": "精心搭配角色、服装、场景、灯光和质量关键词，生成高质量的Cosplay摄影。将详细的服装/道具关键词与戏剧性灯光、幻想场景和电影构图相结合，生成博物馆级Cosplay肖像。",
+  "version": "1.0.0",
+  "category": "character",
+  "subcategories": ["cosplay", "costume", "fantasy", "anime", "prop"],
+  "api_targets": ["SDXL", "Midjourney", "Flux", "Stable Diffusion", "Custom"],
+  "keywords": [
+    {"id": "quality_basic_masterpiece", "weight": 0.95, "force_include": true},
+    {"id": "quality_basic_best_quality", "weight": 0.95, "force_include": true},
+    {"id": "quality_basic_highly_detailed", "weight": 0.9, "force_include": true},
+    {"id": "quality_basic_sharp_focus", "weight": 0.9},
+
+    {"id": "clothing_wardrobe_archetype_in_fantasy_costume", "weight": 0.9, "force_include": true},
+
+    {"id": "character_mood_confident_self_assured_demeanor", "weight": 0.85},
+    {"id": "mj_mj_v5_lighting_bright", "weight": 0.85},
+
+    {"id": "scene_nature_castle", "weight": 0.85},
+    {"id": "mj_mj_v5_nature_forest", "weight": 0.85},
+    {"id": "mj_mj_v5_nature_waterfall", "weight": 0.8},
+
+    {"id": "mj_mj_v5_lighting_backlight", "weight": 0.85},
+    {"id": "lighting_dramatic_chiaroscuro", "weight": 0.85},
+    {"id": "lighting_mood_moody_atmosphere", "weight": 0.85},
+    {"id": "lighting_mood_ethereal_glow", "weight": 0.85},
+
+    {"id": "framing_shot_size_half_body", "weight": 0.9, "force_include": true},
+    {"id": "mj_mj_v5_camera_portrait", "weight": 0.85},
+    {"id": "quality_technical_depth_of_field", "weight": 0.9},
+
+    {"id": "negative_quality_low_quality", "weight": 0.95, "force_include": true},
+    {"id": "negative_quality_blurry", "weight": 0.95, "force_include": true},
+    {"id": "negative_anatomy_deformed", "weight": 0.95, "force_include": true}
+  ],
+  "templates": [],
+  "prompt_text": "masterpiece, best quality, highly detailed, sharp focus, fantasy costume, confident demeanor, bright eyes, castle, forest, waterfall, backlight, dramatic chiaroscuro, moody atmosphere, ethereal glow, half body, portrait, depth of field",
+  "prompt_text_zh": "杰作，最高质量，高细节，清晰聚焦，奇幻服装，自信风范，明亮的眼睛，城堡，森林，瀑布，逆光，戏剧性明暗对照，情绪氛围，空灵光芒，半身材，肖像，景深",
+  "example": {
+    "description": "Generate a cosplay portrait of a fantasy character with elaborate armor and a sword standing in a forest.",
+    "description_zh": "生成身穿精致盔甲手持宝剑的角色站在森林中的Cosplay肖像。",
+    "input": {
+      "character": "a fantasy elf warrior with ornate silver armor and an elven sword"
+    },
+    "output": "masterpiece, best quality, highly detailed, sharp focus, fantasy elf warrior with ornate silver armor and an elven sword, fantasy costume, confident demeanor, bright eyes, forest, backlight, dramatic chiaroscuro, moody atmosphere, half body, depth of field"
+  },
+  "tags": ["cosplay", "costume", "fantasy", "anime", "portrait", "prop", "detailed"],
+  "lifecycle": "approved",
+  "score": 0.86,
+  "notes": "This bundle is for cosplay photography combining costume accuracy with environmental storytelling. Key differentiators: fantasy_costume (0.9), castle/forest/waterfall environments (0.85), backlight (0.85) + moody + ethereal (0.85) for dramatic mood, half body framing (0.9). Negative prompt includes anatomy_deformed for cleaner character outputs. Note: no exact 'prop creative' or 'accessories detailed' keywords exist; closest is 'fantasy_costume' (0.9).",
+  "created_at": "2026-10-06T18:30:00+00:00",
+  "updated_at": "2026-10-06T18:30:00+00:00"
+}

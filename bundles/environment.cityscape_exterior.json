@@ -1,0 +1,58 @@
+{
+  "id": "environment.cityscape_exterior",
+  "name": "Cityscape & Urban Scene",
+  "name_zh": "城市景观与城市场景",
+  "description": "A curated combination of scene, composition, lighting, style, and quality keywords for generating dramatic cityscape and urban environment images. Ranges from photorealistic city photography to stylized cyberpunk/neon aesthetics, using atmospheric conditions and golden/blue hour lighting.",
+  "description_zh": "精心搭配场景、构图、灯光、风格和质量关键词，生成戏剧性城市景观和城市场景图像。从写实城市摄影到赛博朋克/霓虹美学，使用大气条件和黄金/蓝色时刻灯光。",
+  "version": "1.0.0",
+  "category": "environment",
+  "subcategories": ["cityscape", "urban", "cyberpunk", "skyline", "street-photography"],
+  "api_targets": ["SDXL", "Midjourney", "Flux", "Stable Diffusion", "Custom"],
+  "keywords": [
+    {"id": "quality_basic_masterpiece", "weight": 0.95, "force_include": true},
+    {"id": "quality_basic_best_quality", "weight": 0.95, "force_include": true},
+    {"id": "quality_basic_highly_detailed", "weight": 0.9, "force_include": true},
+    {"id": "quality_basic_high_resolution", "weight": 0.9},
+    {"id": "quality_basic_sharp_focus", "weight": 0.9},
+
+    {"id": "scene_backdrop_city_skyline_seen_from_a_rooftop", "weight": 0.9, "force_include": true},
+    {"id": "scene_urban_set_on_a_bustling_city_street_with_pedes", "weight": 0.8},
+    {"id": "scene_weather_night_sky", "weight": 0.85},
+    {"id": "scene_weather_sunset", "weight": 0.85},
+
+    {"id": "styles_aesthetic_in_the_streetwear_aesthetic_graphic_hood", "weight": 0.75},
+    {"id": "photographer_genre_shot_in_a_film_noir_portrait_idiom", "weight": 0.8},
+    {"id": "styles_art_film_noir", "weight": 0.8},
+
+    {"id": "lighting_natural_golden_hour", "weight": 0.9, "force_include": true},
+    {"id": "lighting_mood_cyberpunk_lighting", "weight": 0.85},
+    {"id": "lighting_mood_moody_atmosphere", "weight": 0.85},
+    {"id": "mj_mj_v5_lighting_cinematic_lighting", "weight": 0.85},
+
+    {"id": "color_look_palette_teal_orange", "weight": 0.85},
+    {"id": "color_look_palette_high_contrast", "weight": 0.8},
+
+    {"id": "mj_mj_v5_camera_ultra_wide_angle", "weight": 0.9, "force_include": true},
+    {"id": "mj_mj_v5_camera_wide_angle", "weight": 0.85},
+
+    {"id": "negative_quality_low_quality", "weight": 0.95, "force_include": true},
+    {"id": "negative_quality_blurry", "weight": 0.95, "force_include": true}
+  ],
+  "templates": [],
+  "prompt_text": "masterpiece, best quality, highly detailed, high resolution, sharp focus, city skyline, bustling city street, night sky, sunset, cyberpunk lighting, moody atmosphere, cinematic lighting, teal and orange palette, high contrast, ultra-wide angle",
+  "prompt_text_zh": "杰作，最高质量，高细节，高分辨率，清晰聚焦，城市天际线，繁忙城市街道，夜空，日落，赛博朋克灯光，情绪氛围，电影感灯光，青橙调色板，高对比度，超广角",
+  "example": {
+    "description": "Generate a dramatic cityscape of Tokyo at golden hour with neon accents.",
+    "description_zh": "生成黄金时段带有霓虹元素的东京戏剧性城市景观。",
+    "input": {
+      "city": "Tokyo skyline with neon-lit streets"
+    },
+    "output": "masterpiece, best quality, highly detailed, high resolution, sharp focus, city skyline, Tokyo skyline with neon-lit streets, bustling city street, night sky, golden hour lighting, cinematic lighting, ultra-wide angle"
+  },
+  "tags": ["cityscape", "urban", "skyline", "cyberpunk", "golden-hour", "aerial", "street-photography"],
+  "lifecycle": "approved",
+  "score": 0.87,
+  "notes": "This bundle covers urban and cityscape photography from photorealistic to stylized. Key differentiators: city_skyline (0.9) + bustling_city_street (0.8) form the core. Golden hour (0.9) + cyberpunk lighting (0.85) + moody atmosphere (0.85) for dramatic mood. Ultra-wide angle (0.9) is key for dramatic cityscapes. film_noir (0.8) for noir styling. Note: no exact 'scene_nature_skyline' or 'scene_city_buildings' keywords exist; closest is 'city_skyline_seen_from_rooftop' (0.9).",
+  "created_at": "2026-10-06T18:30:00+00:00",
+  "updated_at": "2026-10-06T18:30:00+00:00"
+}

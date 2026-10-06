@@ -1,0 +1,58 @@
+{
+  "id": "food.editorial_style",
+  "name": "Editorial Food Photography",
+  "name_zh": "美食编辑风格摄影",
+  "description": "A curated combination of quality, scene, lighting, material, and color keywords for generating high-end food photography suitable for magazines, menus, and food blogs. Combines food-styling keywords with editorial composition and natural lighting to produce appetizing, magazine-quality food images.",
+  "description_zh": "精心搭配质量、场景、灯光、材质和色彩关键词，生成适合杂志、菜单和美食博客的高档美食摄影。结合美食摆盘关键词与编辑构图和自然灯光，生成引人入胜的杂志级美食图片。",
+  "version": "1.0.0",
+  "category": "food",
+  "subcategories": ["editorial", "magazine", "menu", "blog", "food-styling"],
+  "api_targets": ["SDXL", "DALL-E", "Flux", "Midjourney", "GPT Image", "Custom"],
+  "keywords": [
+    {"id": "quality_basic_masterpiece", "weight": 0.95, "force_include": true},
+    {"id": "quality_basic_best_quality", "weight": 0.95, "force_include": true},
+    {"id": "quality_basic_highly_detailed", "weight": 0.9, "force_include": true},
+    {"id": "quality_basic_high_resolution", "weight": 0.9},
+    {"id": "quality_technical_depth_of_field", "weight": 0.9},
+
+    {"id": "composition_lens_macro_shot", "weight": 0.85},
+    {"id": "composition_lens_macro_lens", "weight": 0.85},
+
+    {"id": "scene_time_golden_hour", "weight": 0.85},
+    {"id": "mj_mj_v5_nature_forest", "weight": 0.8},
+
+    {"id": "lighting_natural_golden_hour", "weight": 0.9, "force_include": true},
+    {"id": "lighting_natural_soft_lighting", "weight": 0.85},
+    {"id": "lighting_natural_diffused_light", "weight": 0.8},
+
+    {"id": "material_stone_marble", "weight": 0.85},
+    {"id": "mj_mj_v5_themes_rustic", "weight": 0.8},
+
+    {"id": "color_look_palette_warm", "weight": 0.85},
+    {"id": "color_look_palette_vibrant", "weight": 0.85},
+
+    {"id": "framing_coverage_top_down_flat_lay", "weight": 0.9},
+    {"id": "mj_mj_v5_camera_golden_hour", "weight": 0.85},
+    {"id": "quality_technical_depth_of_field", "weight": 0.85},
+
+    {"id": "negative_quality_low_quality", "weight": 0.95, "force_include": true},
+    {"id": "negative_quality_blurry", "weight": 0.95, "force_include": true}
+  ],
+  "templates": [],
+  "prompt_text": "masterpiece, best quality, highly detailed, high resolution, depth of field, macro shot, macro lens, food photography, magazine quality, golden hour lighting, soft lighting, diffused light, marble surface, rustic wood, warm vibrant palette, top-down flat lay",
+  "prompt_text_zh": "杰作，最高质量，高细节，高分辨率，景深，微距镜头，美食摄影，杂志质量，黄金时段灯光，柔和灯光，扩散光，大理石桌面，乡村木材质，暖色鲜艳调色板，俯拍平放",
+  "example": {
+    "description": "Generate an editorial food photo of a plated pasta dish for a restaurant menu.",
+    "description_zh": "生成餐厅菜单用的意面摆盘编辑风格美食照片。",
+    "input": {
+      "dish": "creamy mushroom risotto with parmesan shavings"
+    },
+    "output": "masterpiece, best quality, highly detailed, high resolution, depth of field, macro shot, food photography, golden hour lighting, creamy mushroom risotto with parmesan shavings, marble surface, rustic wood, top-down flat lay, warm vibrant palette, elegant styling"
+  },
+  "tags": ["food", "editorial", "magazine", "menu", "restaurant", "blog", "food-styling", "natural-light"],
+  "lifecycle": "approved",
+  "score": 0.88,
+  "notes": "This bundle combines the key elements of editorial food photography: golden hour lighting (0.9) as primary key, macro shot/lens (0.85) for close-up detail, top-down flat lay (0.9) for food presentation, marble (0.85) and rustic wood (0.8) materials for texture variety. Note: no exact 'close up food' or 'window light' keywords exist in the database; macro lens (0.85) and golden hour (0.85) are the closest equivalents.",
+  "created_at": "2026-10-06T18:30:00+00:00",
+  "updated_at": "2026-10-06T18:30:00+00:00"
+}

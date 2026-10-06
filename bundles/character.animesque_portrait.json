@@ -1,0 +1,60 @@
+{
+  "id": "character.animesque_portrait",
+  "name": "Animesque Character Portrait",
+  "name_zh": "动漫风格角色肖像",
+  "description": "A curated combination of character, clothing, styles, lighting, and quality keywords for generating high-quality anime/manga-style character portraits. Uses cel-shading techniques, expressive expressions, and dramatic lighting to produce studio-quality anime character art.",
+  "description_zh": "精心搭配角色、服装、风格、灯光和质量关键词，生成高质量动漫/漫画风格角色肖像。采用赛璐珞上色技术、表现性表情和戏剧性灯光，生成工作室级动漫角色艺术。",
+  "version": "1.0.0",
+  "category": "character",
+  "subcategories": ["anime", "manga", "character-design", "portrait", "cel-shading"],
+  "api_targets": ["SDXL", "Flux", "Stable Diffusion", "Midjourney", "Custom"],
+  "keywords": [
+    {"id": "quality_basic_masterpiece", "weight": 0.95, "force_include": true},
+    {"id": "quality_basic_best_quality", "weight": 0.95, "force_include": true},
+    {"id": "quality_basic_high_quality", "weight": 0.95, "force_include": true},
+    {"id": "quality_basic_highly_detailed", "weight": 0.9, "force_include": true},
+    {"id": "quality_basic_detailed", "weight": 0.9},
+    {"id": "quality_basic_sharp_focus", "weight": 0.9},
+
+    {"id": "styles_animemanga_anime_style", "weight": 0.95, "force_include": true},
+    {"id": "styles_animemanga_cel_shading", "weight": 0.95, "force_include": true},
+    {"id": "styles_animemanga_detailed_anime_style", "weight": 0.9},
+    {"id": "styles_animemanga_light_novel_illustration", "weight": 0.85},
+
+    {"id": "quality_texture_delicate_lips", "weight": 0.8},
+    {"id": "character_mood_sad_downcast_expression", "weight": 0.8},
+    {"id": "character_eyes_closed_eyes", "weight": 0.75},
+    {"id": "mj_mj_v5_lighting_bright", "weight": 0.9},
+    {"id": "character_eyes_long_eyelashes", "weight": 0.85},
+
+    {"id": "character_hair_long_hair", "weight": 0.85},
+    {"id": "character_hair_wavy_hair", "weight": 0.8},
+
+    {"id": "framing_shot_size_half_body", "weight": 0.85},
+    {"id": "mj_mj_v5_camera_portrait", "weight": 0.9},
+
+    {"id": "mj_mj_v5_lighting_backlight", "weight": 0.85},
+    {"id": "lighting_dramatic_chiaroscuro", "weight": 0.8},
+
+    {"id": "negative_quality_low_quality", "weight": 0.95, "force_include": true},
+    {"id": "negative_quality_blurry", "weight": 0.95, "force_include": true},
+    {"id": "negative_anatomy_deformed", "weight": 0.95, "force_include": true}
+  ],
+  "templates": [],
+  "prompt_text": "masterpiece, best quality, high quality, highly detailed, detailed, sharp focus, anime style, cel shading, detailed anime style, light novel illustration, half body, portrait, bright eyes, long eyelashes, long hair, wavy hair, backlight, dramatic chiaroscuro",
+  "prompt_text_zh": "杰作，最高质量，高质量，高细节，高细节，清晰聚焦，动漫风格，赛璐珞上色，精细动漫风格，轻小说插画，半身材，肖像，明亮的眼睛，长睫毛，长卷发，逆光，戏剧性明暗对照",
+  "example": {
+    "description": "Generate an animesque character portrait of a young woman with long black hair and a determined expression.",
+    "description_zh": "生成一个留着长黑发、表情坚定的年轻女性的动漫风格角色肖像。",
+    "input": {
+      "character": "a young woman with long black wavy hair"
+    },
+    "output": "masterpiece, best quality, high quality, highly detailed, detailed, sharp focus, anime style, cel shading, detailed anime style, light novel illustration, half body, portrait, bright eyes, long eyelashes, long black wavy hair, backlight, dramatic chiaroscuro"
+  },
+  "tags": ["anime", "manga", "character", "cel-shading", "light-novel", "illustration", "portrait"],
+  "lifecycle": "approved",
+  "score": 0.89,
+  "notes": "This bundle is optimized for anime/manga character art. Key differentiators: cel_shading (weight 0.95) and anime_style (weight 0.95) form the base. Half body (0.85) and portrait (0.9) provide the framing. Bright eyes (0.9) and long eyelashes (0.85) are signature anime features. Negative prompt includes anatomy_deformed for cleaner character outputs. Note: no exact 'delicate features' or 'hime cut' keywords exist; closest is 'delicate_lips' (0.8).",
+  "created_at": "2026-10-06T18:30:00+00:00",
+  "updated_at": "2026-10-06T18:30:00+00:00"
+}

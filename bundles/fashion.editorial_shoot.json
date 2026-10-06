@@ -1,0 +1,57 @@
+{
+  "id": "fashion.editorial_shoot",
+  "name": "Editorial Fashion Shoot",
+  "name_zh": "时尚编辑大片",
+  "description": "A curated combination of clothing, composition, lighting, style, and quality keywords for generating high-end editorial fashion photography. Combines runway-ready outfits with editorial composition, dramatic lighting, and professional photographer references to produce magazine-quality fashion imagery.",
+  "description_zh": "精心搭配服装、构图、灯光、风格和质量关键词，生成高端时尚编辑摄影。将跑道级服装与编辑构图、戏剧性灯光和专业摄影师参考相结合，生成杂志级时尚影像。",
+  "version": "1.0.0",
+  "category": "fashion",
+  "subcategories": ["editorial", "runway", "magazine", "lookbook", "commercial"],
+  "api_targets": ["SDXL", "Midjourney", "Flux", "DALL-E", "Stable Diffusion", "Custom"],
+  "keywords": [
+    {"id": "quality_basic_masterpiece", "weight": 0.95, "force_include": true},
+    {"id": "quality_basic_best_quality", "weight": 0.95, "force_include": true},
+    {"id": "quality_basic_high_quality", "weight": 0.95, "force_include": true},
+    {"id": "quality_basic_high_resolution", "weight": 0.9, "force_include": true},
+
+    {"id": "clothing_wardrobe_archetype_in_fantasy_costume", "weight": 0.9},
+    {"id": "clothing_wardrobe_archetype_in_contemporary_streetwear", "weight": 0.85},
+    {"id": "clothing_wardrobe_era_in_contemporary_fashion", "weight": 0.85},
+
+    {"id": "framing_shot_size_half_body", "weight": 0.9, "force_include": true},
+    {"id": "quality_composition_three_quarter_shot", "weight": 0.85},
+    {"id": "composition_lens_85mm_portrait_lens", "weight": 0.85},
+    {"id": "mj_mj_v5_camera_portrait", "weight": 0.8},
+    {"id": "quality_technical_depth_of_field", "weight": 0.9},
+
+    {"id": "lighting_mood_studio_lighting", "weight": 0.9, "force_include": true},
+    {"id": "lighting_natural_soft_lighting", "weight": 0.85},
+    {"id": "lighting_dramatic_chiaroscuro", "weight": 0.8},
+
+    {"id": "photographer_genre_shot_as_a_high_fashion_magazine_editoria", "weight": 0.85},
+    {"id": "photographer_genre_shot_in_the_language_of_a_vogue_editoria", "weight": 0.8},
+
+    {"id": "color_look_palette_faded_matte", "weight": 0.8},
+    {"id": "color_look_palette_high_contrast", "weight": 0.8},
+
+    {"id": "negative_quality_low_quality", "weight": 0.95, "force_include": true},
+    {"id": "negative_quality_blurry", "weight": 0.95, "force_include": true}
+  ],
+  "templates": [],
+  "prompt_text": "masterpiece, best quality, high quality, high resolution, fantasy costume, contemporary streetwear, contemporary fashion, half body, three-quarter shot, 85mm portrait lens, studio lighting, natural soft lighting, dramatic chiaroscuro, high fashion magazine editorial, vogue editorial, matte palette, high contrast",
+  "prompt_text_zh": "杰作，最高质量，高质量，高分辨率，奇幻服装，当代街头服饰，当代时尚，半身材，四分之三镜头，85mm人像镜头，灯光摄影，柔和自然灯光，戏剧性明暗对照，高级时尚杂志编辑，时尚主编，哑光调色板，高对比度",
+  "example": {
+    "description": "Generate an editorial fashion shot of a model in a luxury streetwear outfit on an urban rooftop.",
+    "description_zh": "生成在城市屋顶上身着奢华街头服饰模特的时尚编辑大片。",
+    "input": {
+      "outfit": "oversized designer trench coat in black leather and cashmere"
+    },
+    "output": "masterpiece, best quality, high quality, high resolution, oversized designer trench coat in black leather and cashmere, fantasy costume, contemporary streetwear, contemporary fashion, half body, 85mm portrait lens, studio lighting, dramatic chiaroscuro, high fashion magazine editorial"
+  },
+  "tags": ["fashion", "editorial", "runway", "magazine", "streetwear", "haute-couture", "lookbook"],
+  "lifecycle": "approved",
+  "score": 0.91,
+  "notes": "This bundle mirrors high-end fashion editorial shoots. Key differentiators: fantasy_costume (0.9) + streetwear (0.85) + contemporary_fashion (0.85) for clothing emphasis, half body + three-quarter shot (0.9/0.85), 85mm lens + depth of field (0.85/0.9) for professional portrait quality, studio lighting (0.9) + dramatic chiaroscuro (0.8) for mood, and high_fashion/vogue editorial photographer references (0.85/0.8). Note: no exact 'runway_outfit', 'haute_couture', or 'fashion_forward' keywords exist; closest is 'fantasy_costume' (0.9).",
+  "created_at": "2026-10-06T18:30:00+00:00",
+  "updated_at": "2026-10-06T18:30:00+00:00"
+}
