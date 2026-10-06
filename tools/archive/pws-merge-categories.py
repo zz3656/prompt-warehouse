@@ -23,7 +23,6 @@ import os
 import re
 import shutil
 import sys
-from collections import defaultdict
 from datetime import datetime, timezone
 
 CATEGORIES_DIR = "keywords/categories"
@@ -122,14 +121,24 @@ MERGE_PLAN = {
 # ---------- helpers ----------
 
 def load_json(path):
-    with open(path, "r", encoding="utf-8") as f:
-        return json.load(f)
+    """Load JSON file, exit with error on failure."""
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except OSError as e:
+        print(f"❌ Cannot read {path}: {e}")
+        sys.exit(1)
 
 
 def write_json(path, data):
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-        f.write("\n")
+    """Write JSON file, exit with error on failure."""
+    try:
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+            f.write("\n")
+    except OSError as e:
+        print(f"❌ Cannot write {path}: {e}")
+        sys.exit(1)
 
 
 def slugify(text):
@@ -290,15 +299,20 @@ def print_plan(operations):
 def apply_merges(operations):
     """Apply the merge plan: write to target files, delete source files."""
     # Step 1: backup
-    if os.path.exists(BACKUP_DIR):
-        shutil.rmtree(BACKUP_DIR)
-    os.makedirs(BACKUP_DIR)
+    import shutil as _shutil
+    import sys as _sys
+    from contextlib import suppress
+    _shutil.rmtree(BACKUP_DIR, ignore_errors=True)
+    try:
+        os.makedirs(BACKUP_DIR)
+    except OSError as e:
+        print(f"❌ Cannot create backup dir {BACKUP_DIR}: {e}")
+        sys.exit(1)
 
     for fp in sorted(glob.glob(f"{CATEGORIES_DIR}/*.json")):
         shutil.copy2(fp, BACKUP_DIR)
     print(f"📦 Backup created at {BACKUP_DIR}")
 
-    # Step 2: load target files
     targets = {}
     for op in operations:
         target_path = f"{CATEGORIES_DIR}/{op['target_file']}"
@@ -350,7 +364,11 @@ def apply_merges(operations):
     for op in operations:
         source_path = f"{CATEGORIES_DIR}/{op['source_file']}"
         if os.path.exists(source_path):
-            os.remove(source_path)
+            try:
+                os.remove(source_path)
+            except OSError as e:
+                print(f"❌ Cannot delete {source_path}: {e}")
+                sys.exit(1)
             deleted.append(op["source_file"])
             print(f"  🗑  Deleted {source_path}")
 
@@ -361,6 +379,8 @@ def apply_merges(operations):
 
 def rollback():
     """Restore from backup."""
+    import shutil as _shutil
+    _shutil.rmtree(BACKUP_DIR, ignore_errors=True)
     if not os.path.exists(BACKUP_DIR):
         print("❌ No backup found at", BACKUP_DIR)
         return
@@ -372,7 +392,7 @@ def rollback():
         restored += 1
         print(f"  ✓ Restored {target}")
 
-    shutil.rmtree(BACKUP_DIR)
+    _shutil.rmtree(BACKUP_DIR, ignore_errors=True)
     print(f"\n✅ Rolled back {restored} files. Backup directory removed.")
 
 
