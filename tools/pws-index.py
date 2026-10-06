@@ -13,8 +13,30 @@ Usage:
 import argparse
 import glob
 import json
+import os
 import sys
 from datetime import datetime, timezone
+
+
+def safe_load_json(path):
+    """Load JSON file with error handling."""
+    try:
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
+    except (json.JSONDecodeError, OSError) as e:
+        print(f"❌ Failed to load {path}: {e}")
+        sys.exit(1)
+
+
+def safe_write_json(path, data):
+    """Write JSON file with error handling."""
+    try:
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+            f.write("\n")
+    except OSError as e:
+        print(f"❌ Failed to write {path}: {e}")
+        sys.exit(1)
 
 
 def build_keyword_index():
@@ -22,7 +44,7 @@ def build_keyword_index():
     index = []
     for fp in sorted(glob.glob("keywords/categories/*.json")):
         category = fp.split("/")[-1].replace(".json", "")
-        data = json.load(open(fp))
+        data = safe_load_json(fp)
         if not isinstance(data, list):
             data = [data]
 
@@ -55,7 +77,7 @@ def build_template_index():
     for fp in sorted(glob.glob("templates/*.json")):
         if "_meta" in fp or "_legacy" in fp:
             continue
-        data = json.load(open(fp))
+        data = safe_load_json(fp)
         if isinstance(data, dict) and "variants" in data:
             entry = {
                 "id": data.get("id", ""),
@@ -100,30 +122,27 @@ def main():
     )
     args = parser.parse_args()
 
-    os = __import__("os")
-    os.makedirs(os.path.dirname(args.output) or ".", exist_ok=True)
+    try:
+        os.makedirs(os.path.dirname(args.output) or ".", exist_ok=True)
+    except OSError as e:
+        print(f"Failed to create directory for {args.output}: {e}")
+        sys.exit(1)
 
     if not args.templates_only:
         kw_index = build_keyword_index()
-        with open(args.output, "w", encoding="utf-8") as f:
-            json.dump(
-                {"version": 1, "type": "keywords", "count": len(kw_index), "items": kw_index},
-                f,
-                ensure_ascii=False,
-                indent=2,
-            )
+        safe_write_json(
+            args.output,
+            {"version": 1, "type": "keywords", "count": len(kw_index), "items": kw_index},
+        )
         print(f"📊 Keyword index: {len(kw_index)} entries → {args.output}")
 
     if not args.keywords_only:
         tp_index = build_template_index()
         out = args.output.replace("pws_index.json", "pws_templates_index.json")
-        with open(out, "w", encoding="utf-8") as f:
-            json.dump(
-                {"version": 1, "type": "templates", "count": len(tp_index), "items": tp_index},
-                f,
-                ensure_ascii=False,
-                indent=2,
-            )
+        safe_write_json(
+            out,
+            {"version": 1, "type": "templates", "count": len(tp_index), "items": tp_index},
+        )
         print(f"📝 Template index: {len(tp_index)} entries → {out}")
 
     if args.keywords_only and args.templates_only:

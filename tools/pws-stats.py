@@ -17,10 +17,19 @@ import os
 import sys
 from collections import Counter, defaultdict
 
+def safe_load_json(path: str) -> dict:
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except (json.JSONDecodeError, OSError) as e:
+        print(f"❌ Failed to load {path}: {e}")
+        sys.exit(1)
+
+
 def load_all_keywords():
     all_kws = []
     for fp in sorted(glob.glob("keywords/categories/*.json")):
-        data = json.load(open(fp))
+        data = safe_load_json(fp)
         for item in (data if isinstance(data, list) else [data]):
             item["_source_file"] = fp
             all_kws.append(item)
@@ -31,7 +40,7 @@ def load_all_templates():
     for fp in sorted(glob.glob("templates/*.json")):
         if "_meta" in fp or "_legacy" in fp:
             continue
-        data = json.load(open(fp))
+        data = safe_load_json(fp)
         if isinstance(data, list):
             all_templates.extend(data)
         elif isinstance(data, dict) and "variants" in data:
@@ -135,7 +144,12 @@ def keyword_stats(kws, detailed=False):
     # Translation index stats
     idx_path = os.path.join("keywords", "_translations.jsonl")
     if os.path.exists(idx_path):
-        entries = [json.loads(line) for line in open(idx_path) if line.strip()]
+        try:
+            with open(idx_path, encoding="utf-8") as fh:
+                entries = [json.loads(line) for line in fh if line.strip()]
+        except (json.JSONDecodeError, OSError) as e:
+            print(f"⚠️  Could not read translation index: {e}")
+            entries = []
         print(f"\n📖 Translation index: {len(entries)} entries")
 
 def template_stats(templates):

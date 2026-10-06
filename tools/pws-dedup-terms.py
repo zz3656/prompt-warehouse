@@ -27,14 +27,22 @@ BACKUP_DIR = "keywords/categories/.bak-dedup-terms"
 
 
 def load_json(path):
-    with open(path, "r", encoding="utf-8") as f:
-        return json.load(f)
+    try:
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
+    except (json.JSONDecodeError, OSError) as e:
+        print(f"Failed to load {path}: {e}")
+        sys.exit(1)
 
 
 def write_json(path, data):
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-        f.write("\n")
+    try:
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+            f.write("\n")
+    except OSError as e:
+        print(f"Failed to write {path}: {e}")
+        sys.exit(1)
 
 
 def main():
@@ -51,7 +59,10 @@ def main():
         for fp in sorted(glob.glob(f"{BACKUP_DIR}/*.json")):
             target = f"{CATEGORIES_DIR}/{os.path.basename(fp)}"
             shutil.copy2(fp, target)
-        shutil.rmtree(BACKUP_DIR)
+        try:
+            shutil.rmtree(BACKUP_DIR)
+        except OSError:
+            pass
         n = len(glob.glob(f"{BACKUP_DIR}/*.json"))
         print(f"✅ Restored from {BACKUP_DIR}")
         return
@@ -59,8 +70,12 @@ def main():
     # Group by (term, category, subcategory) — only true duplicates
     by_key = defaultdict(list)
     for fp in sorted(glob.glob(f"{CATEGORIES_DIR}/*.json")):
-        with open(fp) as f:
-            data = json.load(f)
+        try:
+            with open(fp, encoding="utf-8") as fh:
+                data = json.load(fh)
+        except (json.JSONDecodeError, OSError) as e:
+            print(f"⚠️  Skipped {fp}: {e}")
+            continue
         for idx, item in enumerate(data):
             term = (item.get("term") or "").strip()
             cat = item.get("category")
@@ -145,10 +160,19 @@ def main():
 
     # Apply
     if os.path.exists(BACKUP_DIR):
-        shutil.rmtree(BACKUP_DIR)
-    os.makedirs(BACKUP_DIR)
+        try:
+            shutil.rmtree(BACKUP_DIR)
+        except OSError:
+            pass
+    try:
+        os.makedirs(BACKUP_DIR)
+    except OSError:
+        pass
     for fp in sorted(glob.glob(f"{CATEGORIES_DIR}/*.json")):
-        shutil.copy2(fp, BACKUP_DIR)
+        try:
+            shutil.copy2(fp, BACKUP_DIR)
+        except OSError:
+            pass
     print(f"\n📦 Backup at {BACKUP_DIR}")
 
     by_file = defaultdict(list)
@@ -157,15 +181,22 @@ def main():
 
     removed_total = 0
     for fp, indices in by_file.items():
-        with open(fp) as f:
-            data = json.load(f)
+        try:
+            with open(fp, encoding="utf-8") as fh:
+                data = json.load(fh)
+        except (json.JSONDecodeError, OSError) as e:
+            print(f"⚠️  Skipped {fp}: {e}")
+            continue
         for idx in sorted(set(indices), reverse=True):
             if idx < len(data):
                 data.pop(idx)
                 removed_total += 1
-        with open(fp, "w") as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-            f.write("\n")
+        try:
+            with open(fp, "w", encoding="utf-8") as fh:
+                json.dump(data, fh, ensure_ascii=False, indent=2)
+                fh.write("\n")
+        except OSError as e:
+            print(f"⚠️  Could not write {fp}: {e}")
         print(f"  ✓ Cleaned {fp}: removed {len(set(indices))} items")
 
     print(f"\n✅ Removed {removed_total} true-duplicate items.")

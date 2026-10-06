@@ -55,9 +55,13 @@ def similarity(a: str, b: str) -> float:
 
 # ---------- load helpers ----------
 
-def load_json(path: str):
-    with open(path, "r", encoding="utf-8") as f:
-        return json.load(f)
+def load_json(path: str) -> dict:
+    try:
+        with open(path, encoding="utf-8") as fh:
+            return json.load(fh)
+    except (json.JSONDecodeError, OSError) as e:
+        print(f'Failed to load {path}: {e}')
+        sys.exit(1)
 
 
 def load_keywords_dir(pattern: str = "keywords/categories/*.json"):
@@ -231,9 +235,13 @@ def auto_merge_file(file_path, existing_kws_by_id, existing_kws_by_term):
 
 
 def write_json(path: str, data):
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-        f.write("\n")
+    try:
+        with open(path, "w", encoding="utf-8") as fh:
+            json.dump(data, fh, ensure_ascii=False, indent=2)
+            fh.write("\n")
+    except OSError as e:
+        print(f"Failed to write {path}: {e}")
+        sys.exit(1)
 
 
 # ---------- display helpers ----------

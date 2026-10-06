@@ -52,7 +52,12 @@ def load_keywords() -> tuple[list, dict]:
     by_file = {}
     all_items = []
     for fp in sorted(glob.glob("keywords/categories/*.json")):
-        data = json.load(open(fp))
+        try:
+            with open(fp, encoding="utf-8") as fh:
+                data = json.load(fh)
+        except (json.JSONDecodeError, OSError) as e:
+            print(f"⚠️  Skipped {fp}: {e}")
+            continue
         if not isinstance(data, list):
             data = [data]
         by_file[fp] = data
@@ -68,7 +73,8 @@ def load_schema() -> Optional[dict]:
     if not os.path.exists(schema_path):
         return None
     try:
-        return json.load(open(schema_path))
+        with open(schema_path, encoding="utf-8") as fh:
+            return json.load(fh)
     except json.JSONDecodeError:
         return None
 
@@ -140,7 +146,13 @@ def audit_metadata(items: list, issues: list):
                            "_meta.json not found"))
         return
 
-    meta = json.load(open(meta_path))
+    try:
+        with open(meta_path, encoding="utf-8") as fh:
+            meta = json.load(fh)
+    except (json.JSONDecodeError, OSError) as e:
+        issues.append(Issue("error", "metadata", meta_path, None,
+                           f"Could not load {meta_path}: {e}"))
+        return
     actual_count = len(items)
     actual_categories = len(glob.glob("keywords/categories/*.json"))
 
@@ -242,7 +254,8 @@ def audit_templates(issues: list):
         if "_meta" in fp or "_legacy" in fp:
             continue
         try:
-            data = json.load(open(fp))
+            with open(fp, encoding="utf-8") as fh:
+                data = json.load(fh)
         except json.JSONDecodeError as e:
             issues.append(Issue("error", "schema", fp, None, f"Invalid JSON: {e}"))
             continue
@@ -303,8 +316,12 @@ def save_report(issues: list, path: str):
     for issue in issues:
         report["by_severity"][issue.severity] = report["by_severity"].get(issue.severity, 0) + 1
         report["by_category"][issue.category] = report["by_category"].get(issue.category, 0) + 1
-    with open(path, 'w') as f:
-        json.dump(report, f, ensure_ascii=False, indent=2)
+    try:
+        with open(path, 'w', encoding="utf-8") as fh:
+            json.dump(report, fh, ensure_ascii=False, indent=2)
+    except OSError as e:
+        print(f"Could not save report to {path}: {e}")
+        return
     print(f"\n📄 Report saved to {path}")
 
 

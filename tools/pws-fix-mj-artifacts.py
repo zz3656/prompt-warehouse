@@ -107,7 +107,12 @@ def fix_artifact(value: str, pattern_name: str) -> str:
 def scan_file(file_path: str) -> list[ArtifactIssue]:
     """Scan a single file for artifact issues."""
     issues = []
-    data = json.load(open(file_path))
+    try:
+        with open(file_path, encoding="utf-8") as fh:
+            data = json.load(fh)
+    except (json.JSONDecodeError, OSError) as e:
+        print(f"⚠️  Skipped {file_path}: {e}")
+        return issues
     if not isinstance(data, list):
         data = [data]
 
@@ -146,7 +151,12 @@ def apply_fixes(issues: list[ArtifactIssue]) -> int:
         by_file.setdefault(issue.file, []).append(issue)
 
     for fp, file_issues in by_file.items():
-        data = json.load(open(fp))
+        try:
+            with open(fp, encoding="utf-8") as fh:
+                data = json.load(fh)
+        except (json.JSONDecodeError, OSError) as e:
+            print(f"⚠️  Skipped {fp}: {e}")
+            continue
         if not isinstance(data, list):
             data = [data]
 
@@ -171,9 +181,12 @@ def apply_fixes(issues: list[ArtifactIssue]) -> int:
                     aliases[i] = issue_index[key]
                     fixes += 1
 
-        with open(fp, 'w') as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-            f.write('\n')
+        try:
+            with open(fp, 'w', encoding="utf-8") as fh:
+                json.dump(data, fh, ensure_ascii=False, indent=2)
+                fh.write('\n')
+        except OSError as e:
+            print(f"Could not write {fp}: {e}")
 
     return fixes
 
@@ -223,13 +236,17 @@ def main():
     report(issues)
 
     if args.report:
-        with open(args.report, 'w') as f:
-            json.dump({
+        try:
+            with open(args.report, 'w', encoding="utf-8") as fh:
+                json.dump({
                 "version": "1.0",
                 "total_issues": len(issues),
                 "issues": [asdict(i) for i in issues]
-            }, f, ensure_ascii=False, indent=2)
-        print(f"\n📄 Report saved to {args.report}")
+            }, fh, ensure_ascii=False, indent=2)
+        except OSError as e:
+            print(f"⚠️  Could not write report: {e}")
+        else:
+            print(f"\n📄 Report saved to {args.report}")
 
     if args.apply and issues:
         fixes = apply_fixes(issues)

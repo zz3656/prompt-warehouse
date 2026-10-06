@@ -1,0 +1,156 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://prompt-warehouse.dev/schema/bundle.json",
+  "title": "PWS Prompt Bundle",
+  "description": "A curated combination of keyword IDs, weights, and template references that form a reusable prompt recipe.",
+  "type": "object",
+  "required": ["id", "name", "name_zh", "keywords", "version"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9_]*(\\.[a-z][a-z0-9_]*)*$",
+      "description": "Unique identifier for the bundle. Format: {category}.{subcategory}.{slug}"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 200,
+      "description": "Bundle name in English."
+    },
+    "name_zh": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 200,
+      "description": "Bundle name in Chinese."
+    },
+    "description": {
+      "type": "string",
+      "maxLength": 2000,
+      "description": "English description of what the bundle does and when to use it."
+    },
+    "description_zh": {
+      "type": "string",
+      "maxLength": 2000,
+      "description": "中文描述 — Chinese description of the bundle."
+    },
+    "version": {
+      "type": "string",
+      "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$",
+      "description": "Semantic version of the bundle."
+    },
+    "category": {
+      "type": "string",
+      "description": "High-level category (e.g. 'photography', 'video-generation', 'character-design')."
+    },
+    "subcategories": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Tags for bundle discoverability."
+    },
+    "api_targets": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["SDXL", "Midjourney", "DALL-E", "Flux", "Stable Diffusion", "Minimax-H3", "Custom"]
+      },
+      "description": "Target AI models this bundle works best with."
+    },
+    "keywords": {
+      "type": "array",
+      "minItems": 1,
+      "description": "List of keyword references with optional weights and overrides.",
+      "items": {
+        "type": "object",
+        "required": ["id"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Keyword ID from keywords/categories/*.json (e.g. 'quality_basic_masterpiece')."
+          },
+          "weight": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1,
+            "default": 0.5,
+            "description": "Keyword weight. 0.5 = default priority, 0.9+ = emphasize, 0.1 = background."
+          },
+          "force_include": {
+            "type": "boolean",
+            "default": false,
+            "description": "If true, always include this keyword regardless of context."
+          },
+          "fallback_term": {
+            "type": "string",
+            "description": "Fallback term text if the keyword ID doesn't resolve."
+          }
+        }
+      }
+    },
+    "templates": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["template_id"],
+        "properties": {
+          "template_id": {
+            "type": "string",
+            "description": "Template ID from templates/*.json (e.g. 'h3.video_prompts.cinematic_reveal')."
+          },
+          "variant_id": {
+            "type": "string",
+            "description": "Which variant within the template to use."
+          },
+          "variables": {
+            "type": "object",
+            "description": "Override template variables with bundle-specific values."
+          }
+        }
+      },
+      "description": "List of template references to combine with keywords."
+    },
+    "prompt_text": {
+      "type": "string",
+      "maxLength": 3000,
+      "description": "Pre-built prompt text (optional). When provided, pws-bundles.py can skip resolution and use this directly."
+    },
+    "example": {
+      "type": "object",
+      "description": "Example input/output showing how the bundle works.",
+      "properties": {
+        "description": { "type": "string" },
+        "description_zh": { "type": "string" },
+        "input": {
+          "type": "object",
+          "properties": {
+            "subject": { "type": "string" },
+            "setting": { "type": "string" },
+            "additional": { "type": "object" }
+          }
+        },
+        "output": { "type": "string" }
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "lifecycle": {
+      "type": "string",
+      "enum": ["draft", "review", "approved", "deprecated", "archived"],
+      "default": "draft"
+    },
+    "score": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1,
+      "default": 0.5
+    },
+    "notes": {
+      "type": "string",
+      "maxLength": 2000
+    },
+    "created_at": { "type": "string", "format": "date-time" },
+    "updated_at": { "type": "string", "format": "date-time" }
+  },
+  "additionalProperties": false
+}

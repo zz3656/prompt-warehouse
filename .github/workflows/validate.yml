@@ -203,6 +203,34 @@ jobs:
         run: |
           python3 tools/pws-dedup.py --scan-all --format-report --quiet || true
 
+  term-zh-coverage:
+    name: Check term_zh Coverage
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Check term_zh coverage
+        run: |
+          python3 - <<'EOF'
+          import json, glob, sys
+          errors = 0
+          total = 0
+          for fp in sorted(glob.glob("keywords/categories/*.json")):
+              data = json.load(open(fp))
+              for item in data:
+                  total += 1
+                  if not item.get("term_zh"):
+                      errors += 1
+                      item_id = item.get('id')
+                      print(f"  ❌ Missing term_zh: {item_id} in {fp}")
+          if errors:
+              print(f"❌ {errors} missing term_zh (total {total})")
+              sys.exit(1)
+          print(f"✅ 100% term_zh coverage: {total}/{total}")
+          EOF
+
   template-validate:
     name: Validate Templates
     runs-on: ubuntu-latest

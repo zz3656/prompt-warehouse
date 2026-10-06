@@ -8,7 +8,6 @@ Also fixes 3 ID duplicates in styles.json.
 """
 
 import json
-import os
 import re
 import sys
 from datetime import datetime, timezone
@@ -17,15 +16,23 @@ from collections import Counter
 CATEGORIES_DIR = "keywords/categories"
 
 
-def load_json(path):
-    with open(path, "r", encoding="utf-8") as f:
-        return json.load(f)
+def safe_load_json(path):
+    try:
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
+    except (json.JSONDecodeError, OSError) as e:
+        print(f"❌ Failed to load {path}: {e}")
+        sys.exit(1)
 
 
-def write_json(path, data):
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-        f.write("\n")
+def safe_write_json(path, data):
+    try:
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+            f.write("\n")
+    except OSError as e:
+        print(f"❌ Failed to write {path}: {e}")
+        sys.exit(1)
 
 
 def slugify(text):
@@ -48,14 +55,14 @@ def build_new_id(target_cat, target_sub, term, existing_ids):
 
 def main():
     # Step 1: load current target files
-    styles = load_json(f"{CATEGORIES_DIR}/styles.json")
-    character = load_json(f"{CATEGORIES_DIR}/character.json")
+    styles = safe_load_json(f"{CATEGORIES_DIR}/styles.json")
+    character = safe_load_json(f"{CATEGORIES_DIR}/character.json")
 
     existing_styles_ids = {s.get("id") for s in styles if s.get("id")}
     existing_char_ids = {c.get("id") for c in character if c.get("id")}
 
     # Step 2: load backup aesthetic
-    backup_aesthetic = load_json(f"{CATEGORIES_DIR}/.bak-consolidation/aesthetic.json")
+    backup_aesthetic = safe_load_json(f"{CATEGORIES_DIR}/.bak-consolidation/aesthetic.json")
 
     era_items = [x for x in backup_aesthetic if x.get("subcategory") == "era"]
     mood_items = [x for x in backup_aesthetic if x.get("subcategory") == "mood"]
@@ -118,8 +125,8 @@ def main():
         seen.add(s.get("id"))
 
     # Step 4: write back
-    write_json(f"{CATEGORIES_DIR}/styles.json", styles)
-    write_json(f"{CATEGORIES_DIR}/character.json", character)
+    safe_write_json(f"{CATEGORIES_DIR}/styles.json", styles)
+    safe_write_json(f"{CATEGORIES_DIR}/character.json", character)
 
     print(f"\n✅ Restored {len(era_items) + len(mood_items)} words, fixed {len(dup_ids)} ID duplicates")
     print(f"   styles.json: {len(styles)} keywords")

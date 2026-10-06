@@ -243,7 +243,12 @@ def main():
         files = [args.file]
 
     for fp in sorted(files):
-        data = json.load(open(fp))
+        try:
+            with open(fp, encoding='utf-8') as fh:
+                data = json.load(fh)
+        except (json.JSONDecodeError, OSError) as e:
+            print(f'⚠️  Skipped {fp}: {e}')
+            continue
         if not isinstance(data, list):
             data = [data]
 
@@ -269,9 +274,12 @@ def main():
 
         if updated > 0 or (args.dry_run and file_changes > 0):
             if args.apply:
-                json.dump(data, open(fp, "w"), ensure_ascii=False, indent=2)
-                with open(fp, "a") as f:
-                    f.write("\n")
+                try:
+                    with open(fp, "w", encoding="utf-8") as fh:
+                        json.dump(data, fh, ensure_ascii=False, indent=2)
+                        fh.write("\n")
+                except OSError as e:
+                    print(f"Could not write {fp}: {e}")
             file_counts[fp] = file_changes
 
     print("=" * 60)

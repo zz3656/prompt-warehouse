@@ -11,3 +11,12 @@ __pycache__/
 
 # Generated data files (update via `python3 tools/pws-index.py`)
 data/
+
+# Prompt bundles
+bundles/
+
+# Build/cache directories
+.ruff_cache/
+.hermes/
+node_modules/
+__pycache__/

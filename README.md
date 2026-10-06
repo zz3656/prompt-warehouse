@@ -3,7 +3,7 @@
 **一个统一的、与语言无关的标准，用于跨项目组织、版本控制和共享 AI 生成提示词。**
 
 > **pws v1.0** | **简体中文** | [English](README_en.md)
-> **当前数据版本**: v1.8.0 (5,943 关键词 · 20 分类 · **100% term_zh 覆盖**)
+> **当前数据版本**: v1.8.0 (6,015 关键词 · 20 分类 · **100% term_zh 覆盖**)
 >
 > **仓库地址**: https://github.com/zz3656/prompt-warehouse
 > **许可证**: MIT
@@ -18,6 +18,7 @@
 - [快速开始](#-快速开始)
 - [数据模型](#-数据模型)
 - [模板语法](#-模板语法)
+- [配方包（Bundles）](#-配方包bundles)
 - [版本控制](#-版本控制)
 - [API 集成](#-api-集成)
 - [多语言支持](#-多语言支持)
@@ -395,7 +396,56 @@ girl 16 years old white long twin tails hair blue almond eyes fair skin, red rib
 
 每个 `_meta.json` 都跟踪版本、结构版本和变更日志。
 
-当前版本：**v1.8.0** — 20 个分类共 5,943 个关键词（**全部** 5,943 个有中文翻译，**100%** 覆盖）。
+当前版本：**v1.8.0** — 20 个分类共 6,015 个关键词（**全部** 6,015 个有中文翻译，**100%** 覆盖）。
+
+### 新增功能
+
+| 功能 | 说明 |
+|------|------|
+| **配方包系统** | `bundles/` 目录 + `pws-bundles.py` 工具 — 预组合关键词配方 |
+| **Bundle 工具** | `list` / `show` / `resolve` / `info` / `validate` 五个命令 |
+
+---
+
+## 📦 配方包（Bundles）
+
+配方包是预组合的关键词 ID 列表，带有权重和模板引用，形成可复用的提示词配方。一个配方包可以引用数十个关键词，生成即开即用的提示词。
+
+### 使用方法
+
+```bash
+# 列出所有配方包
+python3 tools/pws-bundles.py list
+
+# 查看配方包的预建提示词
+python3 tools/pws-bundles.py show photography.cinematic_portrait
+
+# 生成自定义提示词（替换变量）
+python3 tools/pws-bundles.py resolve photography.cinematic_portrait \
+    --subject "a young woman" --setting "coastal cliff at sunset"
+
+# 查看详细关键词权重
+python3 tools/pws-bundles.py info photography.cinematic_portrait
+
+# 验证所有配方包
+python3 tools/pws-bundles.py validate
+```
+
+### 当前配方包
+
+| 配方包 | 关键词数 | 说明 |
+|--------|----------|------|
+| `photography.cinematic_portrait` | 39 | 电影感人像配方：质量保障 + 85mm 人像镜头 + 电影灯光 |
+| `scene.fantasy_landscape` | 26 | 奇幻风景配方：风景 + 体积光 + 空灵氛围 |
+
+### 格式说明
+
+- **关键词权重 (0–1)**: 控制每个关键词在最终提示词中的优先级
+- **强制包含 (`force_include`)**: 确保某些关键词（如质量保障、负面词）始终出现
+- **预建提示词**: 可直接使用的完整 prompt
+- **模板引用**: 可关联 API 特定的模板（如 `h3.video_prompts`）
+
+详细文档见 [ADDING_BUNDLES.md](ADDING_BUNDLES.md)。
 
 ---
 
@@ -433,8 +483,8 @@ PWS 设计用于与 REST API 配合使用。h3-comic-builder 服务器已提供�
 | 阶段 | 状态 | 详情 |
 |------|------|------|
 | **阶段一：结构定义** | ✅ 完成 | 定义了 3 个 JSON 结构并验证 |
-| **阶段二：数据迁移** | ✅ 完成 | 从 h3-comic-builder + MJ 参考迁移了 5,943 个关键词 |
-| **阶段三：工具开发** | 🔄 进行中 | 浏览器界面的关键词管理 |
+| **阶段二：数据迁移** | ✅ 完成 | 从 h3-comic-builder + MJ 参考迁移了 6,015 个关键词 |
+| **阶段三：工具开发** | ✅ 完成 | 13 个 CLI 工具（索引、审计、翻译、去重、Bundle 管理等） |
 | **阶段四：共享发布** | 📋 计划中 | 远程同步、团队协作、模板市场 |
 
 ---
@@ -468,10 +518,12 @@ MIT 许可证 — 详见 [STANDARD.md](STANDARD.md)。
 - **完整规范**: [STANDARD.md](STANDARD.md)
 - **关键词结构**: [schema/keyword.schema.json](schema/keyword.schema.json)
 - **模板结构**: [schema/template.schema.json](schema/template.schema.json)
-- **项目结构**: [schema/project.schema.json](schema/project.schema.json)
+- **Bundle 结构**: [schema/bundle.schema.json](schema/bundle.schema.json)
+- **管理工具**: [tools/pws-bundles.py](tools/pws-bundles.py)
+- **创建配方包**: [ADDING_BUNDLES.md](ADDING_BUNDLES.md)
 - **元数据**: [keywords/_meta.json](keywords/_meta.json)
 - **数据来源**: 见下文
-- **当前统计**: 5,943 个关键词 · 20 个分类 · 27 个模板
+- **当前统计**: 6,015 个关键词 · 20 个分类 · 4 个模板 · 2 个配方包
 
 ## 📥 数据来源（永久记录）
 

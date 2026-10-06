@@ -3,8 +3,8 @@
   "schema_version": "pws-1.0",
   "total_keywords": 6015,
   "total_categories": 20,
-  "updated_at": "2026-10-05T20:01:18.667204+00:00",
-  "updated_by": "extend-translations-13.py",
+  "updated_at": "2026-10-06T06:10:06.533590+00:00",
+  "updated_by": "optimization-pr",
   "source_summary": {
     "h3-comic-builder (intermediate, not listed as data source)": 859,
     "MidJourney-Reference": 4600,
@@ -236,9 +236,24 @@
         "Manually fixed last 2 items: 'Decor%20(2)' → '装饰 (2)' and glamour portrait phrase",
         "Final audit: 0 errors, 0 warnings, 0 info"
       ]
+    },
+    {
+      "version": "1.8.1",
+      "date": "2026-10-06",
+      "changes": [
+        "Optimized pws-translate.py: removed 9,130 lines of embedded legacy dictionary (data moved to tools/data/pre_translations.json)",
+        "Updated README.md keyword count: 5,943 → 6,015",
+        "Added term_zh coverage gate to CI pipeline (fails if any keyword missing term_zh)",
+        "Enhanced pre-commit hook: added term_zh coverage check, graceful jsonschema fallback",
+        "Added scripts/pre-commit-sample.sh for easy hook installation on new machines"
+      ],
+      "added": 0,
+      "removed": 9130,
+      "before": 9518,
+      "after": 388
     }
   ],
-  "description": "6,015 structured keywords across 20 categories. Sources: MidJourney Reference + Danbooru + Danbooru Booster/Civitai + Web Research + @nodaro/prompts (v1.27.0). v1.1.0 consolidated 33 → 20 categories; v1.1.1 removed 14 true-duplicate terms (see docs/CATEGORY_CONSOLIDATION.md). Additional high-quality keywords added in v1.8.1 including quality (27), held-prop (6), framing (6), panel (5), character-fx (5), action-fx (3), photographer (2).",
+  "description": "6,015 structured keywords across 20 categories. Sources: MidJourney Reference + Danbooru + Danbooru Booster/Civitai + Web Research + @nodaro/prompts (v1.27.0). v1.1.0 consolidated 33 → 20 categories; v1.1.1 removed 14 true-duplicate terms (see docs/CATEGORY_CONSOLIDATION.md). Additional high-quality keywords added in v1.8.1 including quality (27), held-prop (6), framing (6), panel (5), character-fx (5), action-fx (3), photographer (2). pws-translate.py optimized (9,130 lines removed, data externalized).",
   "data_sources": {
     "note": "h3-comic-builder 是中间件（JS 原始文件已迁移），其 859 个关键词本身也来自网上收集。以下列出所有直接的数据来源。",
     "migration_note": "所有 source 为 h3-comic-builder (original JS migration) 的关键词 859 个是间接来源，不作为独立数据源列出。",

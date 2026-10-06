@@ -103,7 +103,12 @@ def scan_keywords(max_len: int = 40, file_path: Optional[str] = None,
     search_paths = [file_path] if file_path else glob.glob("keywords/categories/*.json")
 
     for fp in sorted(search_paths):
-        data = json.load(open(fp))
+        try:
+            with open(fp, encoding="utf-8") as fh:
+                data = json.load(fh)
+        except (json.JSONDecodeError, OSError) as e:
+            print(f"⚠️  Skipped {fp}: {e}")
+            continue
         if not isinstance(data, list):
             data = [data]
 
@@ -188,7 +193,12 @@ def apply_fixes(issues: list[LongTermIssue], fix_crudely: bool = False) -> int:
 
     fixes_applied = 0
     for fp, file_issues in by_file.items():
-        data = json.load(open(fp))
+        try:
+            with open(fp, encoding="utf-8") as fh:
+                data = json.load(fh)
+        except (json.JSONDecodeError, OSError) as e:
+            print(f"⚠️  Skipped {fp}: {e}")
+            continue
         if not isinstance(data, list):
             data = [data]
 
@@ -215,9 +225,12 @@ def apply_fixes(issues: list[LongTermIssue], fix_crudely: bool = False) -> int:
                         fixes_applied += 1
 
         # Write back
-        with open(fp, 'w') as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-            f.write('\n')
+        try:
+            with open(fp, 'w', encoding="utf-8") as fh:
+                json.dump(data, fh, ensure_ascii=False, indent=2)
+                fh.write('\n')
+        except OSError as e:
+            print(f"⚠️  Could not write {fp}: {e}")
 
     return fixes_applied
 
@@ -235,8 +248,11 @@ def save_report(issues: list[LongTermIssue], output_path: str):
         report["by_type"][issue.issue_type] = report["by_type"].get(issue.issue_type, 0) + 1
         report["by_file"][issue.file] = report["by_file"].get(issue.file, 0) + 1
 
-    with open(output_path, 'w') as f:
-        json.dump(report, f, ensure_ascii=False, indent=2)
+    try:
+        with open(output_path, 'w', encoding="utf-8") as fh:
+            json.dump(report, fh, ensure_ascii=False, indent=2)
+    except OSError as e:
+        print(f"⚠️  Could not save report: {e}")
     print(f"📄 Report saved to {output_path}")
 
 
