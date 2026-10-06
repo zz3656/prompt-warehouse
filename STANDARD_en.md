@@ -65,9 +65,22 @@ prompt-warehouse/
 │       └── panel.json
 ├── templates/                  # Prompt templates
 │   ├── _meta.json
-│   ├── character_sheet.json
-│   ├── panel_prompt.json
-│   └── reference_description.json
+│   ├── _legacy_all_templates.json
+│   ├── h3_video_prompts.json
+│   ├── llm_system_prompts.json
+│   ├── new_keyword_template.json
+│   └── text_negative_patterns.json
+├── bundles/                    # Prompt bundles (10 bundles)
+│   ├── character.animesque_portrait.json
+│   ├── character.cosplay_portrait.json
+│   ├── environment.architectural_interior.json
+│   ├── environment.cityscape_exterior.json
+│   ├── fashion.editorial_shoot.json
+│   ├── food.editorial_style.json
+│   ├── photography.cinematic_portrait.json
+│   ├── product.ecommerce_packshot.json
+│   ├── product.packaging_mockup.json
+│   └── scene.fantasy_landscape.json
 ├── projects/                   # Per-project configs
 │   └── h3-comic-builder.json
 ├── snapshots/                  # Export snapshots
@@ -583,20 +596,22 @@ var QUALITY = {
 - [x] Document the standard
 
 ### Phase 2: Migration
-- [ ] Create migration script from `.js` files to JSON
-- [ ] Run migration on h3-comic-builder data
-- [ ] Validate all ~350 keywords are preserved
-- [ ] Update admin backend to serve JSON instead of parsing `.js` files
+- [x] Create migration script from `.js` files to JSON
+- [x] Run migration on h3-comic-builder data (6,015 keywords)
+- [x] Validate all 6,015 keywords are preserved
+- [x] Update admin backend to serve JSON instead of parsing `.js` files
 
 ### Phase 3: Tooling
-- [ ] CLI tool for managing the warehouse (`pws`)
+- [x] CLI tools for managing the warehouse (`pws` series, 13+ tools)
+- [x] Bundle management CLI (`pws-bundles.py`)
 - [ ] Web UI for keyword management (extends current admin)
 - [ ] Search and analytics dashboard
 - [ ] Import/export tools (CSV, Excel, JSON)
 
 ### Phase 4: Sharing
-- [ ] Remote repository sync
-- [ ] Team collaboration features
+- [x] Remote repository sync
+- [x] Bundle system (10 bundles published)
+- [x] Team collaboration features
 - [ ] Prompt rating and feedback
 - [ ] Template marketplace
 

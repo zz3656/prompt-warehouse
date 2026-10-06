@@ -4,7 +4,7 @@
 
 > **pws v1.0** | **Data v1.8.0** | [简体中文](README.md) | **English**
 >
-> **Current data version**: v1.8.0 (5,943 keywords · 20 categories · **100% term_zh coverage**)
+> **Current data version**: v1.9.0 (6,015 keywords · 20 categories · **100% term_zh coverage**)
 >
 > **Repository**: https://github.com/zz3656/prompt-warehouse
 > **License**: MIT
@@ -45,7 +45,7 @@ The Prompt Warehouse Standard (PWS) is a JSON-based specification for managing A
 | Feature | Description |
 |---------|-------------|
 | **Structured Keywords** | Every keyword is a rich object with metadata — score, priority, lifecycle, usage stats |
-| **Category Taxonomy** | 9 top-level categories with nested subcategories (quality, character, clothing, styles, etc.) |
+| **Category Taxonomy** | 20 top-level categories with nested subcategories (quality, character, clothing, styles, etc.) |
 | **Template Engine** | Mustache-like syntax with conditionals (`{{#if}}`), iteration (`{{#each}}`), and helpers |
 | **Project Configs** | Per-project JSON configs that enable/disable categories and templates |
 | **Snapshot System** | Export snapshots with full context for tracking generations |
@@ -76,7 +76,7 @@ prompt-warehouse/
 │       └── panel.json          # Panel-specific effects
 ├── templates/                  # Prompt templates
 │   ├── _meta.json              # Template metadata
-│   └── _all_templates.json     # All templates (raw data)
+│   └── _legacy_all_templates.json  # All templates (raw data)
 ├── projects/                   # Project configs
 │   └── h3-comic-builder.json   # H3 Comic Builder config
 ├── snapshots/                  # Export snapshots
@@ -102,7 +102,7 @@ grep -r '"term": "blonde hair"' keywords/categories/character.json
 
 ### 2. Use Templates
 
-Templates support variable substitution. The `_all_templates.json` file contains all 24 templates with full metadata:
+Templates support variable substitution. The `_legacy_all_templates.json` file contains all templates with full metadata:
 
 ```json
 // Character reference description template
@@ -135,10 +135,12 @@ Every keyword is a structured JSON object with rich metadata:
 {
   "id": "qc_graceful_lighting",
   "term": "graceful lighting",
+  "term_zh": "优雅的灯光",
   "aliases": ["beautiful lighting", "elegant lighting"],
   "category": "quality",
   "subcategory": "lighting",
   "labels": ["lighting", "glow", "illumination"],
+  "labels_zh": ["灯光", "光影", "光线"],
   "score": 0.92,
   "priority": "high",
   "lifecycle": "approved",
@@ -180,6 +182,30 @@ Every keyword is a structured JSON object with rich metadata:
 | Negative | `negative` | Negative prompt keywords |
 | Scene | `scene` | Scene and environment |
 | Panel | `panel` | Panel-specific effects |
+| Action FX | `action-fx` | Action and special effects (disasters, fire, combat, magic) |
+| Aesthetic | `aesthetic` | Y2K, dark academia, cottagecore etc. |
+| Atmosphere | `atmosphere` | Fog, rain, particles, divine light |
+| Backdrop | `backdrop` | Solid color, gradient, texture backgrounds |
+| Camera Format | `camera-format` | IMAX, cinematic widescreen etc. |
+| Camera Motions | `camera-motions` | Push, pull, pan, tilt, track |
+| Character FX | `character-fx` | Werewolves, vampires, cyborgs etc. |
+| Color Look | `color-look` | Warm, cool, film emulation etc. |
+| Era | `era` | Medieval, Victorian, cyberpunk etc. |
+| Framing | `framing` | Close-up, medium shot, full shot etc. |
+| Held Prop | `held-prop` | Weapons and props |
+| Lens | `lens` | 14mm-400mm |
+| Material | `material` | Fabric, metal, stone, wood etc. |
+| Mood | `mood` | Emotions and moods |
+| Photo Genre | `photo-genre` | Fashion, documentary, passport photos etc. |
+| Photographer | `photographer` | Ansel Adams, Annie Leibovitz etc. |
+| Pose | `pose` | Standing, sitting, walking etc. |
+| Post-Process | `post-process` | Vignette, film grain, chromatic aberration etc. |
+| Render Quality | `render-quality` | Unreal 5, Octane, Cycles etc. |
+| Setting | `setting` | Indoor, city, nature, fantasy |
+| Style | `style` | 3D render, anime, watercolor etc. |
+| Temporal | `temporal` | Slow-mo, fast-forward, time freeze etc. |
+| Transitions | `transitions` | Dissolve, zoom, slide etc. |
+| Wardrobe | `wardrobe` | Outfit coordination schemes |
 
 ### Subcategory Highlights
 
@@ -329,7 +355,7 @@ The warehouse follows semantic versioning:
 
 Each `_meta.json` tracks version, schema version, and changelog entries.
 
-Current version: **v1.8.0** — 5,943 keywords across 20 categories (**all** 5,943 with Chinese translation, **100%** coverage).
+Current version: **v1.9.0** — 6,015 keywords across 20 categories (**all** 6,015 with Chinese translation, **100%** coverage).
 
 ---
 
@@ -367,11 +393,11 @@ Keywords and templates support multiple languages:
 ## 📊 Project Status
 
 | Phase | Status | Details |
-|-------|--------|---------|
+|-------|--------|---------|  
 | **Phase 1: Schema Definition** | ✅ Complete | 3 JSON schemas defined and validated |
-| **Phase 2: Migration** | ✅ Complete | 4,429 keywords migrated from h3-comic-builder + MJ reference |
-| **Phase 3: Tooling** | 🔄 In Progress | Browser UI for keyword management |
-| **Phase 4: Sharing** | 📋 Planned | Remote sync, team collaboration, template marketplace |
+| **Phase 2: Migration** | ✅ Complete | 6,015 keywords migrated from h3-comic-builder + MJ reference |
+| **Phase 3: Tooling** | ✅ Complete | 13+ CLI tools (indexing, auditing, translation, dedup, Bundle management) |
+| **Phase 4: Sharing** | ✅ Complete | Remote sync, bundle system (10 bundles), template marketplace base |
 
 ---
 
@@ -407,7 +433,7 @@ MIT License — see [STANDARD_en.md](STANDARD_en.md) for full details.
 - **Project Schema**: [schema/project.schema.json](schema/project.schema.json)
 - **Metadata**: [keywords/_meta.json](keywords/_meta.json)
 - **Data Sources**: see below
-- **Current Stats**: 5,943 keywords · 20 categories · 27 templates · **5,943 / 5,943** with Chinese translation (100%)
+- **Current Stats**: 6,015 keywords · 20 categories · 3 templates · 10 bundles · **6,015 / 6,015** with Chinese translation (100%)
 
 ## 📥 Data Sources (Permanent Record)
 
@@ -421,6 +447,7 @@ MIT License — see [STANDARD_en.md](STANDARD_en.md) for full details.
 | Danbooru Booster Tags + [Civitai](https://civitai.com) community | Community collected | 101 | quality (boosters, rendering, atmosphere, color, texture) |
 | Web Research — Scene & Environment | Manual curation | 72 | scene (nature, architecture, weather, time-of-day) |
 | Web Research — Art Styles | Manual curation | 41 | styles (painting, anime genres, aesthetics, rendering) |
+| [@nodaro/prompts](https://github.com/nodaroai/app.nodaro.ai) (v1.27.0) | GitHub | 1,149 | 23 new categories — action-fx/aesthetic/atmosphere/camera-format/camera-motions/character-fx/color-look/era/framing/held-prop/lens/material/mood/photo-genre/photographer/pose/post-process/render-quality/setting/style/temporal/transitions/wardrobe |
 
 **Template sources**: see `templates/_meta.json` `data_sources` field.
 

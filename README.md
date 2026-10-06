@@ -3,7 +3,7 @@
 **一个统一的、与语言无关的标准，用于跨项目组织、版本控制和共享 AI 生成提示词。**
 
 > **pws v1.0** | **简体中文** | [English](README_en.md)
-> **当前数据版本**: v1.8.0 (6,015 关键词 · 20 分类 · **100% term_zh 覆盖**)
+> **当前数据版本**: v1.9.0 (6,015 关键词 · 20 分类 · **100% term_zh 覆盖**)
 >
 > **仓库地址**: https://github.com/zz3656/prompt-warehouse
 > **许可证**: MIT
@@ -45,7 +45,7 @@
 | 功能 | 说明 |
 |------|------|
 | **结构化关键词** | 每个关键词都是一个富对象，带有元数据——评分、优先级、生命周期、使用统计 |
-| **分类体系** | 9 个顶级分类及其嵌套子分类（质量、角色、服装、风格等） |
+| **分类体系** | 20 个顶级分类及其嵌套子分类（质量、角色、服装、风格等） |
 | **模板引擎** | 类 Mustache 语法，支持条件（`{{#if}}`）、迭代（`{{#each}}`）和辅助函数 |
 | **项目配置** | 每个项目的 JSON 配置文件，可启用/禁用分类和模板 |
 | **快照系统** | 导出带有完整上下文的快照，用于追踪生成结果 |
@@ -76,7 +76,7 @@ prompt-warehouse/
 │       └── panel.json          # 漫画分镜特效
 ├── templates/                  # 提示词模板
 │   ├── _meta.json              # 模板元数据
-│   └── _all_templates.json     # 全部模板（原始数据）
+│   └── _legacy_all_templates.json  # 全部模板（原始数据）
 ├── projects/                   # 项目配置
 │   └── h3-comic-builder.json   # H3 漫画构建器配置
 ├── snapshots/                  # 导出快照
@@ -102,7 +102,7 @@ grep -r '"term": "blonde hair"' keywords/categories/character.json
 
 ### 2. 使用模板
 
-模板支持变量替换。`_all_templates.json` 文件包含所有 27 个模板的完整元数据：
+模板支持变量替换。`_legacy_all_templates.json` 文件包含所有模板的完整元数据：
 
 ```json
 // 角色参考描述模板
@@ -396,7 +396,7 @@ girl 16 years old white long twin tails hair blue almond eyes fair skin, red rib
 
 每个 `_meta.json` 都跟踪版本、结构版本和变更日志。
 
-当前版本：**v1.8.0** — 20 个分类共 6,015 个关键词（**全部** 6,015 个有中文翻译，**100%** 覆盖）。
+当前版本：**v1.9.0** — 20 个分类共 6,015 个关键词（**全部** 6,015 个有中文翻译，**100%** 覆盖）。
 
 ### 新增功能
 
@@ -435,7 +435,15 @@ python3 tools/pws-bundles.py validate
 
 | 配方包 | 关键词数 | 说明 |
 |--------|----------|------|
+| `character.animesque_portrait` | 24 | 动漫风格角色肖像：角色 + 服装 + 风格 + 灯光 + 质量 |
+| `character.cosplay_portrait` | 20 | Cosplay 肖像：角色 + 服装 + 场景 + 灯光 + 质量 |
+| `environment.architectural_interior` | 23 | 建筑室内可视化：场景 + 材质 + 质量 + 灯光 + 构图 |
+| `environment.cityscape_exterior` | 22 | 城市景观与城市场景：场景 + 构图 + 灯光 + 风格 + 质量 |
+| `fashion.editorial_shoot` | 21 | 时尚编辑大片：服装 + 构图 + 灯光 + 风格 + 质量 |
+| `food.editorial_style` | 21 | 美食编辑风格摄影：质量 + 场景 + 灯光 + 材质 + 色彩 |
 | `photography.cinematic_portrait` | 39 | 电影感人像配方：质量保障 + 85mm 人像镜头 + 电影灯光 |
+| `product.ecommerce_packshot` | 17 | 电商标准产品图：质量 + 灯光 + 渲染 + 材质 |
+| `product.packaging_mockup` | 19 | 包装设计样机：渲染 + 材质 + 质量 + 场景 |
 | `scene.fantasy_landscape` | 26 | 奇幻风景配方：风景 + 体积光 + 空灵氛围 |
 
 ### 格式说明
@@ -484,8 +492,8 @@ PWS 设计用于与 REST API 配合使用。h3-comic-builder 服务器已提供�
 |------|------|------|
 | **阶段一：结构定义** | ✅ 完成 | 定义了 3 个 JSON 结构并验证 |
 | **阶段二：数据迁移** | ✅ 完成 | 从 h3-comic-builder + MJ 参考迁移了 6,015 个关键词 |
-| **阶段三：工具开发** | ✅ 完成 | 13 个 CLI 工具（索引、审计、翻译、去重、Bundle 管理等） |
-| **阶段四：共享发布** | 📋 计划中 | 远程同步、团队协作、模板市场 |
+| **阶段三：工具开发** | ✅ 完成 | 13+ CLI 工具（索引、审计、翻译、去重、Bundle 管理等） |
+| **阶段四：共享发布** | ✅ 完成 | 远程同步、配方包系统（10 bundles）、模板市场基础 |
 
 ---
 
@@ -523,7 +531,7 @@ MIT 许可证 — 详见 [STANDARD.md](STANDARD.md)。
 - **创建配方包**: [ADDING_BUNDLES.md](ADDING_BUNDLES.md)
 - **元数据**: [keywords/_meta.json](keywords/_meta.json)
 - **数据来源**: 见下文
-- **当前统计**: 6,015 个关键词 · 20 个分类 · 4 个模板 · 2 个配方包
+- **当前统计**: 6,015 个关键词 · 20 个分类 · 3 个模板 · 10 个配方包
 
 ## 📥 数据来源（永久记录）
 
@@ -545,6 +553,6 @@ MIT 许可证 — 详见 [STANDARD.md](STANDARD.md)。
 
 ---
 
-*提示词仓库标准 v1.0 · 数据版本 v1.8.0 · 为漫画/手绘提示词生成而设计，适用于任何 AI 创意工具。*
+*提示词仓库标准 v1.0 · 数据版本 v1.9.0 · 为漫画/手绘提示词生成而设计，适用于任何 AI 创意工具。*
 
 *← [English](README_en.md)*

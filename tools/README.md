@@ -153,6 +153,50 @@ python3 tools/pws-stats.py --detailed
 python3 tools/pws-stats.py --category quality
 ```
 
+### `pws-add-new.py` — 安全关键词入库工具
+
+添加新关键词前自动执行去重检查 → 分类判定 → 合并 → 更新 _meta → 生成日志。
+
+```bash
+# 生成批量模板
+python3 tools/pws-add-new.py template --output batch_template.json
+
+# 添加单个关键词
+python3 tools/pws-add-new.py single --term "cinematic lighting" --term_zh "电影灯光" --category lighting --subcategory dramatic
+
+# 批量添加（dry-run 先预览）
+python3 tools/pws-add-new.py batch new_keywords.json --category quality --dry-run
+
+# 确认无误后正式添加
+python3 tools/pws-add-new.py batch new_keywords.json --category quality
+```
+
+### `pws-enrich.py` — 关键词字段补全工具
+
+为关键词补充缺失的字段（`aliases`, `aliases_zh`, `created_at`, `updated_at`, `usage_count` 等）。
+
+```bash
+# 预览补全结果（不写入）
+python3 tools/pws-enrich.py
+
+# 实际执行补全
+python3 tools/pws-enrich.py --apply
+
+# 仅处理指定分类
+python3 tools/pws-enrich.py --apply --category quality
+
+# 详细输出
+python3 tools/pws-enrich.py --apply --verbose
+```
+
+### `pws-restore-aesthetic.py` — 美学风格恢复工具
+
+从原始数据恢复丢失的美学风格关键词（如 @nodaro/prompts 批量导入）。
+
+```bash
+python3 tools/pws-restore-aesthetic.py --apply
+```
+
 ## 快速开始
 
 ```bash
@@ -181,13 +225,23 @@ python3 tools/pws-stats.py
 
 ```
 tools/
-├── pws-dedup.py             # 去重工具
-├── pws-translate.py         # 批量翻译工具
-├── pws-generate-labels-zh.py # labels_zh 生成工具
-├── pws-stats.py             # 统计工具
-├── pws-index.py             # 索引生成工具
-├── README.md                # 本文件
+├── pws-add-new.py             # 安全关键词入库工具
+├── pws-audit.py               # 统一数据质量审计
+├── pws-bundles.py             # 配方包管理工具
+├── pws-clean-long-terms.py    # 长 term 检测与清理
+├── pws-dedup-terms.py         # 去重工具（term 级别）
+├── pws-dedup.py               # 去重工具
+├── pws-enrich.py              # 关键词字段补全工具
+├── pws-fix-mj-artifacts.py    # MJ 抓取 artefacts 修复
+├── pws-generate-labels-zh.py  # labels_zh 生成工具
+├── pws-index.py               # 索引生成工具
+├── pws-restore-aesthetic.py   # 美学风格恢复工具
+├── pws-stats.py               # 统计工具
+├── pws-translate.py           # 批量翻译工具
+├── README.md                  # 本文件
 └── archive/
+    ├── extend-translations.py   # 翻译字典扩充（系列脚本入口）
+    ├── extend-translations-*.py # 翻译字典扩充系列（幂等）
     └── pws-merge-categories.py  # 归档：分类合并工具（已完成）
 
 keywords/

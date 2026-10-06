@@ -135,20 +135,20 @@ python3 tools/pws-add-new.py batch new_keywords.json --category quality
 | 风格 | `styles` | 1913 |
 | 负面 | `negative` | 103 |
 | 场景 | `scene` | 1078 |
-| 分镜 | `panel` | 69 |
-| 动作特效 | `action-fx` | 72 |
-| 角色特效 | `character-fx` | 55 |
-| 色彩分级 | `color-look` | 59 |
-| 时代 | `era` | 21 |
-| 构图（高级） | `framing` | 66 |
-| 手持道具 | `held-prop` | 60 |
-| 摄影师 | `photographer` | 87 |
+| 分镜 | `panel` | 74 |
+| 动作特效 | `action-fx` | 75 |
+| 角色特效 | `character-fx` | 60 |
+| 色彩分级 | `color-look` | 69 |
+| 时代 | `era` | 33 |
+| 构图（高级） | `framing` | 72 |
+| 手持道具 | `held-prop` | 66 |
+| 摄影师 | `photographer` | 89 |
 | 材质 | `material` | 67 |
-| 渲染质量 | `render-quality` | 24 |
-| 时间效果 | `temporal` | 18 |
+| 渲染质量 | `render-quality` | 35 |
+| 时间效果 | `temporal` | 30 |
 | 转场效果 | `transitions` | 81 |
 
-> 📌 小数量分类（`temporal`: 18, `era`: 21, `render-quality`: 24, `color-look`: 59, `held-prop`: 60）是高价值补充目标。
+> 📌 小数量分类（`temporal`: 30, `era`: 33, `render-quality`: 35, `color-look`: 69, `held-prop`: 66）是高价值补充目标。
 
 ---
 

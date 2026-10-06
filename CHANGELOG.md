@@ -2,6 +2,35 @@
 All notable changes to the Prompt Warehouse keyword database.
 Format is based on [Keep a Changelog](https://keepachangelog.com/).
 ---
+## [1.9.0] - 2026-10-06
+### 📦 Prompt Bundles System — 10 bundles published
+- **Bundle system**: `bundles/` directory + `pws-bundles.py` tool published
+  - `character.animesque_portrait` (24 keywords) — 动漫风格角色肖像
+  - `character.cosplay_portrait` (20 keywords) — Cosplay 肖像
+  - `environment.architectural_interior` (23 keywords) — 建筑室内可视化
+  - `environment.cityscape_exterior` (22 keywords) — 城市景观与城市场景
+  - `fashion.editorial_shoot` (21 keywords) — 时尚编辑大片
+  - `food.editorial_style` (21 keywords) — 美食编辑风格摄影
+  - `photography.cinematic_portrait` (39 keywords) — 电影感人像
+  - `product.ecommerce_packshot` (17 keywords) — 电商标准产品图
+  - `product.packaging_mockup` (19 keywords) — 包装设计样机
+  - `scene.fantasy_landscape` (26 keywords) — 奇幻风景
+- **Bundle tool commands**: `list`, `show`, `resolve`, `info`, `validate`
+- **3 templates** with 37 variants (previously listed as 27 templates)
+- **~72 new keywords** added via bundle integration (bringing total from 5,943 → 6,015)
+
+### 🔧 Tools
+- Added `pws-add-new.py` — safe keyword ingestion with dedup check → classify → merge → update _meta → log
+- Added `pws-enrich.py` — enrich keywords with missing fields (aliases, created_at, updated_at, etc.)
+- Added `pws-restore-aesthetic.py` — restore aesthetic style keywords from source data
+- Updated `tools/README.md` with full tool listing (13+ tools)
+
+### 📚 Documentation
+- Updated README.md and README_en.md with v1.9.0 data
+- Updated ADDING_KEYWORDS.md with revised category counts
+- Updated tools/README.md with missing tools
+- Updated project status: Phase 4 (Sharing) marked Complete
+
 ## [1.8.0] - 2026-09-30
 ### 🎉 MILESTONE: 100% Chinese translation coverage achieved
 - **term_zh coverage**: 5027/5943 (84.6%) → **5943/5943 (100.0%)** (+916 keywords)
@@ -144,5 +173,4 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/).
 - Added 3,494 MJ V5 keywords from 21 pages (willwulfken repo)- 17 new MJ V5 subcategories across 5 PWS categories## [1.0.1] - 2026-09-28
 - Added 1116 keywords from willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)- Fixed term formatting (underscore to space)- Added mj_* subcategories for MJ-specific keywords## [1.0.5] - 2026-09-29
 - Added 760 keywords from @nodaro/prompts (v1.27.0) — comprehensive prompt engineering catalog- 17 new categories: action-fx, aesthetic, atmosphere, camera-format, character-fx, color-look, era, framing, held-prop, lens, mood, pose, post-process, render-quality, style- Coverage expanded: environmental effects, character moods, historical eras, material presets, photographic equipment, camera framing, render engines, color grading, and more## [1.0.6] - 2026-09-29
-- Added 389 additional keywords from @nodaro/prompts batch 2- Added categories: backdrop (40), camera-motions (66), photographer (63), setting (51), wardrobe (70), temporal (18), transitions (81)- Total project keywords now: 5,948 across 34 categories---
-Total keywords: 5943 across 20 categories
+- Added 389 additional keywords from @nodaro/prompts batch 2- Added categories: backdrop (40), camera-motions (66), photographer (63), setting (51), wardrobe (70), temporal (18), transitions (81)- Total project keywords now: 5,948 across 34 categories

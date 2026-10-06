@@ -63,9 +63,22 @@ prompt-warehouse/
 │       └── panel.json
 ├── templates/                  # 提示词模板
 │   ├── _meta.json
-│   ├── character_sheet.json
-│   ├── panel_prompt.json
-│   └── reference_description.json
+│   ├── _legacy_all_templates.json
+│   ├── h3_video_prompts.json
+│   ├── llm_system_prompts.json
+│   ├── new_keyword_template.json
+│   └── text_negative_patterns.json
+├── bundles/                    # 配方包（10 bundles）
+│   ├── character.animesque_portrait.json
+│   ├── character.cosplay_portrait.json
+│   ├── environment.architectural_interior.json
+│   ├── environment.cityscape_exterior.json
+│   ├── fashion.editorial_shoot.json
+│   ├── food.editorial_style.json
+│   ├── photography.cinematic_portrait.json
+│   ├── product.ecommerce_packshot.json
+│   ├── product.packaging_mockup.json
+│   └── scene.fantasy_landscape.json
 ├── projects/                   # 项目配置
 │   └── h3-comic-builder.json
 ├── snapshots/                  # 导出快照
@@ -703,20 +716,23 @@ var QUALITY = {
 - [x] 记录标准文档
 
 ### 阶段二：迁移
-- [ ] 创建从 `.js` 文件到 JSON 的迁移脚本
-- [ ] 在 h3-comic-builder 数据上运行迁移
-- [ ] 验证所有约 350 个关键词都已保留
-- [ ] 更新管理后台以提供 JSON 而非解析 `.js` 文件
+- [x] 创建从 `.js` 文件到 JSON 的迁移脚本
+- [x] 在 h3-comic-builder 数据上运行迁移（6,015 关键词）
+- [x] 验证所有 6,015 个关键词都已保留
+- [x] 更新管理后台以提供 JSON 而非解析 `.js` 文件
 
 ### 阶段三：工具开发
-- [ ] 仓库管理的 CLI 工具（`pws`）
+- [x] 仓库管理的 CLI 工具（`pws` 系列工具，13+ 个）
+- [x] 关键词管理的 CLI 工具（`pws-audit.py`, `pws-dedup.py`, `pws-translate.py` 等）
+- [x] 配方包系统（`pws-bundles.py`）
 - [ ] 关键词管理的 Web UI（扩展现有管理后台）
 - [ ] 搜索和分析仪表板
 - [ ] 导入/导出工具（CSV、Excel、JSON）
 
 ### 阶段四：共享
-- [ ] 远程仓库同步
-- [ ] 团队协作功能
+- [x] 远程仓库同步
+- [x] 配方包系统（10 bundles）
+- [x] 团队协作功能
 - [ ] 提示词评分和反馈
 - [ ] 模板市场
 
