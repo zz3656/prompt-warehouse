@@ -20,3 +20,8 @@ bundles/
 .hermes/
 node_modules/
 __pycache__/
+
+# Agent internal state (not for version control)
+.pi/
+.git-credentials
+.gitconfig
