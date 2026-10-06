@@ -56,7 +56,12 @@ def load_category(cat_file: str) -> list:
     """Load a single category file."""
     if not os.path.exists(cat_file):
         return []
-    data = json.load(open(cat_file))
+    try:
+        with open(cat_file, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except (json.JSONDecodeError, OSError) as e:
+        print(f"❌ Failed to load {cat_file}: {e}")
+        sys.exit(1)
     if isinstance(data, list):
         return data
     return [data]
@@ -131,21 +136,44 @@ def merge_into_category(cat_file: str, new_items: list) -> str:
     """Append new items to a category file, return file path."""
     existing = load_category(cat_file)
     existing.extend(new_items)
-    with open(cat_file, "w", encoding="utf-8") as f:
-        json.dump(existing, f, ensure_ascii=False, indent=2)
-        f.write("\n")
+    try:
+        with open(cat_file, "w", encoding="utf-8") as f:
+            json.dump(existing, f, ensure_ascii=False, indent=2)
+            f.write("\n")
+    except OSError as e:
+        print(f"❌ Failed to write {cat_file}: {e}")
+        sys.exit(1)
     return cat_file
 
 
 def update_meta() -> dict:
     """Update _meta.json: total_keywords and updated_at."""
-    meta = json.load(open(META_PATH))
-    total = sum(len(json.load(open(fp))) for fp in glob.glob(f"{KEYWORDS_DIR}/*.json"))
+    try:
+        with open(META_PATH, "r", encoding="utf-8") as f:
+            meta = json.load(f)
+    except (json.JSONDecodeError, OSError) as e:
+        print(f"❌ Failed to load {META_PATH}: {e}")
+        sys.exit(1)
+    try:
+        total = 0
+        for fp in glob.glob(f"{KEYWORDS_DIR}/*.json"):
+            try:
+                with open(fp, "r", encoding="utf-8") as f:
+                    total += len(json.load(f))
+            except (json.JSONDecodeError, OSError) as e2:
+                print(f"⚠️  Skipped {fp}: {e2}")
+    except Exception as e:
+        print(f"❌ Failed counting categories: {e}")
+        sys.exit(1)
     meta["total_keywords"] = total
     meta["updated_at"] = datetime.now(timezone.utc).isoformat()
-    with open(META_PATH, "w", encoding="utf-8") as f:
-        json.dump(meta, f, ensure_ascii=False, indent=2)
-        f.write("\n")
+    try:
+        with open(META_PATH, "w", encoding="utf-8") as f:
+            json.dump(meta, f, ensure_ascii=False, indent=2)
+            f.write("\n")
+    except OSError as e:
+        print(f"❌ Failed to write {META_PATH}: {e}")
+        sys.exit(1)
     return meta
 
 
@@ -158,27 +186,40 @@ def update_index() -> str:
 def _build_index() -> str:
     """Build flat index from all categories."""
     entries = []
-    for fp in sorted(glob.glob(f"{KEYWORDS_DIR}/*.json")):
-        cat = os.path.basename(fp).replace(".json", "")
-        for item in json.load(open(fp)):
-            entry = {
-                "id": item.get("id", ""),
-                "term": item.get("term", ""),
-                "term_zh": item.get("term_zh"),
-                "category": item.get("category", ""),
-                "subcategory": item.get("subcategory", ""),
-                "labels": item.get("labels", []),
-                "labels_zh": item.get("labels_zh", []),
-                "score": item.get("score"),
-                "priority": item.get("priority"),
-                "source": item.get("source"),
-                "tags": item.get("tags", []),
-            }
-            entries.append(entry)
-    os.makedirs(os.path.dirname(INDEX_PATH), exist_ok=True)
-    with open(INDEX_PATH, "w", encoding="utf-8") as f:
-        json.dump({"version": "1.0", "total": len(entries), "updated_at": datetime.now(timezone.utc).isoformat(), "entries": entries}, f, ensure_ascii=False, indent=2)
-        f.write("\n")
+    try:
+        for fp in sorted(glob.glob(f"{KEYWORDS_DIR}/*.json")):
+            try:
+                with open(fp, "r", encoding="utf-8") as f:
+                    items = json.load(f)
+                if isinstance(items, list):
+                    for item in items:
+                        entry = {
+                            "id": item.get("id", ""),
+                            "term": item.get("term", ""),
+                            "term_zh": item.get("term_zh"),
+                            "category": item.get("category", ""),
+                            "subcategory": item.get("subcategory", ""),
+                            "labels": item.get("labels", []),
+                            "labels_zh": item.get("labels_zh", []),
+                            "score": item.get("score"),
+                            "priority": item.get("priority"),
+                            "source": item.get("source"),
+                            "tags": item.get("tags", []),
+                        }
+                        entries.append(entry)
+            except (json.JSONDecodeError, OSError) as e:
+                print(f"⚠️  Skipped {fp} during index build: {e}")
+    except Exception as e:
+        print(f"❌ Failed building index: {e}")
+        sys.exit(1)
+    try:
+        os.makedirs(os.path.dirname(INDEX_PATH), exist_ok=True)
+        with open(INDEX_PATH, "w", encoding="utf-8") as f:
+            json.dump({"version": "1.0", "total": len(entries), "updated_at": datetime.now(timezone.utc).isoformat(), "entries": entries}, f, ensure_ascii=False, indent=2)
+            f.write("\n")
+    except OSError as e:
+        print(f"❌ Failed to write index: {e}")
+        sys.exit(1)
     return f"{INDEX_PATH}: {len(entries)} entries"
 
 
@@ -189,21 +230,22 @@ def append_changelog(batch_id: str, added: int, category: str, dry_run: bool = F
 
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
-    # Find the changelog section
-    with open(CHANGELOG_PATH, "r", encoding="utf-8") as f:
-        content = f.read()
+    try:
+        with open(CHANGELOG_PATH, "r", encoding="utf-8") as f:
+            content = f.read()
+    except (json.JSONDecodeError, OSError) as e:
+        print(f"❌ Failed to read {CHANGELOG_PATH}: {e}")
+        return
 
-    # Insert before the description line (after changelog array closes)
-    # Find the line with version "1.8.0" or the end of changelog array
     insert_marker = None
     lines = content.split("\n")
     for i, line in enumerate(lines):
         if 'version": "1.8.0"' in line or 'version":  "1.8.0"' in line:
             insert_marker = i
 
-    if insert_marker:
-        # Build new version block
-        new_block = f'''    {{
+    try:
+        if insert_marker:
+            new_block = f'''    {{
       "version": "{version}",
       "date": "{now}",
       "changes": [
@@ -212,25 +254,31 @@ def append_changelog(batch_id: str, added: int, category: str, dry_run: bool = F
       "added": {added},
       "before": {get_current_total() - added},
       "after": {get_current_total()}
-    }},
+    }}
 '''
-        # Insert before the 1.8.0 block
-        lines.insert(insert_marker, new_block.rstrip())
-        with open(CHANGELOG_PATH, "w", encoding="utf-8") as f:
-            f.write("\n".join(lines))
-    else:
-        # Just append at end of changelog array
-        marker = '}  // end changelog'
-        if marker in content:
-            content = content.replace(marker,
-                f'    {{\n      "version": "{version}",\n      "date": "{now}",\n      "changes": ["{changes}"],\n      "added": {added}\n    }}\n  ],\n  {marker.strip()}')
-        with open(CHANGELOG_PATH, "w", encoding="utf-8") as f:
-            f.write(content)
+            lines.insert(insert_marker, new_block.rstrip())
+            with open(CHANGELOG_PATH, "w", encoding="utf-8") as f:
+                f.write("\n".join(lines))
+        else:
+            marker = '}  // end changelog'
+            if marker in content:
+                content = content.replace(marker,
+                    f'    {{\n      "version": "{version}",\n      "date": "{now}",\n      "changes": ["{changes}"],\n      "added": {added}\n    }}\n  ],\n  {marker.strip()}')
+                with open(CHANGELOG_PATH, "w", encoding="utf-8") as f:
+                    f.write(content)
+    except OSError as e:
+        print(f"❌ Failed to write {CHANGELOG_PATH}: {e}")
+        sys.exit(1)
 
 
 def get_next_version() -> str:
     """Get next semantic version."""
-    meta = json.load(open(META_PATH))
+    try:
+        with open(META_PATH, "r", encoding="utf-8") as f:
+            meta = json.load(f)
+    except (json.JSONDecodeError, OSError) as e:
+        print(f"❌ Failed to load {META_PATH}: {e}")
+        sys.exit(1)
     current = meta.get("version", "1.8.0")
     parts = current.split(".")
     parts[-1] = str(int(parts[-1]) + 1)
@@ -239,7 +287,18 @@ def get_next_version() -> str:
 
 def get_current_total() -> int:
     """Get current keyword count."""
-    return sum(len(json.load(open(fp))) for fp in glob.glob(f"{KEYWORDS_DIR}/*.json"))
+    try:
+        count = 0
+        for fp in glob.glob(f"{KEYWORDS_DIR}/*.json"):
+            try:
+                with open(fp, "r", encoding="utf-8") as f:
+                    count += len(json.load(f))
+            except (json.JSONDecodeError, OSError) as e:
+                print(f"⚠️  Skipped {fp}: {e}")
+        return count
+    except Exception as e:
+        print(f"❌ Failed counting keywords: {e}")
+        sys.exit(1)
 
 
 # ---------- commands ----------
@@ -254,8 +313,12 @@ def cmd_batch(args):
         print(f"❌ File not found: {batch_file}")
         sys.exit(1)
 
-    with open(batch_file, "r", encoding="utf-8") as f:
-        new_items = json.load(f)
+    try:
+        with open(batch_file, "r", encoding="utf-8") as f:
+            new_items = json.load(f)
+    except (json.JSONDecodeError, OSError) as e:
+        print(f"❌ Failed to load {batch_file}: {e}")
+        sys.exit(1)
     if not isinstance(new_items, list):
         new_items = [new_items]
 
@@ -266,7 +329,12 @@ def cmd_batch(args):
                 print(f"❌ Missing required field '{field}' in item: {json.dumps(item, ensure_ascii=False)[:100]}")
                 sys.exit(1)
         # Validate category
-        valid_cats = json.load(open("schema/keyword.schema.json"))["properties"]["category"]["enum"]
+        try:
+            with open("schema/keyword.schema.json", "r", encoding="utf-8") as f:
+                valid_cats = json.load(f)["properties"]["category"]["enum"]
+        except (json.JSONDecodeError, OSError) as e:
+            print(f"❌ Failed to load schema: {e}")
+            sys.exit(1)
         if item.get("category") not in valid_cats:
             print(f"❌ Invalid category '{item.get('category')}' in {item.get('id')}. Valid: {sorted(valid_cats)}")
             sys.exit(1)
@@ -408,9 +476,13 @@ def cmd_single(args):
 
     # Use batch path with single-item file
     tmp_file = f"/tmp/new_single_{new_id}.json"
-    with open(tmp_file, "w", encoding="utf-8") as f:
-        json.dump([item], f, ensure_ascii=False, indent=2)
-        f.write("\n")
+    try:
+        with open(tmp_file, "w", encoding="utf-8") as f:
+            json.dump([item], f, ensure_ascii=False, indent=2)
+            f.write("\n")
+    except OSError as e:
+        print(f"❌ Failed to write temp file {tmp_file}: {e}")
+        sys.exit(1)
 
     # Call batch with this temp file
     args.file = tmp_file
@@ -468,9 +540,13 @@ def cmd_template(args):
         }
     }
     out = args.output if hasattr(args, 'output') and args.output else "batch_template.json"
-    with open(out, "w", encoding="utf-8") as f:
-        json.dump(template, f, ensure_ascii=False, indent=2)
-        f.write("\n")
+    try:
+        with open(out, "w", encoding="utf-8") as f:
+            json.dump(template, f, ensure_ascii=False, indent=2)
+            f.write("\n")
+    except OSError as e:
+        print(f"❌ Failed to write template {out}: {e}")
+        sys.exit(1)
     print(f"✅ Template written to {out}")
     print(f"   Edit the 'example' array with your keywords, then run:")
     print(f"   python3 tools/pws-add-new.py batch {out} --category <category>")
