@@ -23,9 +23,7 @@
       "引擎",
       "虚幻引擎",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.969934+00:00"
+    ]
   },
   {
     "id": "render_quality_engines_blender_cycles",
@@ -50,9 +48,7 @@
       "渲染",
       "引擎",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.472677+00:00"
+    ]
   },
   {
     "id": "render_quality_engines_octane_render",
@@ -77,9 +73,7 @@
       "渲染",
       "引擎",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.318338+00:00"
+    ]
   },
   {
     "id": "render_quality_engines_redshift",
@@ -104,9 +98,7 @@
       "渲染",
       "引擎",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.969943+00:00"
+    ]
   },
   {
     "id": "render_quality_other_houdini_mantra",
@@ -131,9 +123,7 @@
       "渲染",
       "其他",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.472684+00:00"
+    ]
   },
   {
     "id": "render_quality_other_arnold_render",
@@ -158,9 +148,7 @@
       "渲染",
       "其他",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.472689+00:00"
+    ]
   },
   {
     "id": "render_quality_other_corona_renderer",
@@ -185,9 +173,7 @@
       "渲染",
       "其他",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.472693+00:00"
+    ]
   },
   {
     "id": "render_quality_engines_vray",
@@ -212,9 +198,7 @@
       "渲染",
       "引擎",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.472697+00:00"
+    ]
   },
   {
     "id": "render_quality_other_aces",
@@ -241,9 +225,7 @@
       "ACES",
       "色彩空间",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.472702+00:00"
+    ]
   },
   {
     "id": "render_quality_other_raytracing",
@@ -268,9 +250,7 @@
       "渲染",
       "其他",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.472706+00:00"
+    ]
   },
   {
     "id": "render_quality_other_physically_based_rendering",
@@ -295,9 +275,7 @@
       "渲染",
       "其他",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.045486+00:00"
+    ]
   },
   {
     "id": "render_quality_technical_global_illumination",
@@ -323,9 +301,7 @@
       "技术",
       "全局光照",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.329188+00:00"
+    ]
   },
   {
     "id": "render_quality_technical_lumen_reflections",
@@ -351,9 +327,7 @@
       "技术",
       "全局光照",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.969948+00:00"
+    ]
   },
   {
     "id": "render_quality_resolution_8k_uhd",
@@ -379,9 +353,7 @@
       "分辨率",
       "8K",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.472711+00:00"
+    ]
   },
   {
     "id": "render_quality_resolution_4k_uhd",
@@ -408,9 +380,7 @@
       "4K",
       "UHD",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.472716+00:00"
+    ]
   },
   {
     "id": "render_quality_resolution_16k_megapixel",
@@ -436,9 +406,7 @@
       "分辨率",
       "16K",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.472720+00:00"
+    ]
   },
   {
     "id": "render_quality_resolution_ultra_detailed",
@@ -464,9 +432,7 @@
       "分辨率",
       "超精细",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.329194+00:00"
+    ]
   },
   {
     "id": "render_quality_stamps_raw_photo",
@@ -493,9 +459,7 @@
       "RAW",
       "摄影美学",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.472725+00:00"
+    ]
   },
   {
     "id": "render_quality_stamps_masterpiece",
@@ -520,9 +484,7 @@
       "渲染",
       "印章",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.472728+00:00"
+    ]
   },
   {
     "id": "render_quality_stamps_award_winning",
@@ -548,9 +510,7 @@
       "印章",
       "获奖作品",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.329198+00:00"
+    ]
   },
   {
     "id": "render_quality_other_volumetric_lighting",
@@ -576,9 +536,7 @@
       "其他",
       "体积光照",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.969953+00:00"
+    ]
   },
   {
     "id": "render_quality_other_photon_mapping",
@@ -604,9 +562,7 @@
       "其他",
       "全局光照",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.969957+00:00"
+    ]
   },
   {
     "id": "render_quality_other_ai_upscaled",
@@ -633,9 +589,7 @@
       "神经网络",
       "AI",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.472733+00:00"
+    ]
   },
   {
     "id": "render_quality_technical_denoised",
@@ -661,8 +615,301 @@
       "技术",
       "降噪渲染",
       "nodaro"
+    ]
+  },
+  {
+    "id": "render_quality_unreal_engine_5",
+    "term": "Unreal Engine 5 Lumen",
+    "term_zh": "虚幻引擎5 Lumen光线追踪",
+    "subcategory": "engines",
+    "labels": [
+      "unreal",
+      "engine",
+      "5",
+      "lumen",
+      "ray-tracing"
     ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.472738+00:00"
+    "labels_zh": [
+      "渲染质量",
+      "虚幻引擎",
+      "光线追踪"
+    ],
+    "score": 0.95,
+    "priority": "high",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "game-engine",
+      "real-time"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "render-quality"
+  },
+  {
+    "id": "render_quality_maya_render",
+    "term": "Autodesk Arnold renderer",
+    "term_zh": "Autodesk Arnold渲染器",
+    "subcategory": "engines",
+    "labels": [
+      "autodesk",
+      "arnold",
+      "renderer",
+      "studio"
+    ],
+    "labels_zh": [
+      "渲染质量",
+      "Autodesk",
+      "Arnold"
+    ],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "film",
+      "studio"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "render-quality"
+  },
+  {
+    "id": "render_quality_cinema4d_octane",
+    "term": "Cinema 4D Octane render",
+    "term_zh": "Cinema 4D Octane渲染",
+    "subcategory": "engines",
+    "labels": [
+      "cinema-4d",
+      "octane",
+      "gpu-render"
+    ],
+    "labels_zh": [
+      "渲染质量",
+      "Cinema 4D",
+      "Octane"
+    ],
+    "score": 0.9,
+    "priority": "high",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "motion-graphics",
+      "gpu"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "render-quality"
+  },
+  {
+    "id": "render_quality_blender_cycles",
+    "term": "Blender Cycles path-traced",
+    "term_zh": "Blender Cycles路径追踪",
+    "subcategory": "engines",
+    "labels": [
+      "blender",
+      "cycles",
+      "path-traced",
+      "open-source"
+    ],
+    "labels_zh": [
+      "渲染质量",
+      "Blender",
+      "Cycles"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "open-source",
+      "popular"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "render-quality"
+  },
+  {
+    "id": "render_quality_vray",
+    "term": "V-Ray photorealistic",
+    "term_zh": "V-Ray照片级真实",
+    "subcategory": "engines",
+    "labels": [
+      "v-ray",
+      "photorealistic",
+      "architectural"
+    ],
+    "labels_zh": [
+      "渲染质量",
+      "V-Ray",
+      "照片级"
+    ],
+    "score": 0.9,
+    "priority": "high",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "architectural",
+      "visualization"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "render-quality"
+  },
+  {
+    "id": "render_quality_ian_brain",
+    "term": "mental ray global illumination",
+    "term_zh": "mental ray全局照明",
+    "subcategory": "engines",
+    "labels": [
+      "mental-ray",
+      "global-illumination",
+      "renderman"
+    ],
+    "labels_zh": [
+      "渲染质量",
+      "mental ray",
+      "全局照明"
+    ],
+    "score": 0.75,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "film",
+      "legacy"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "render-quality"
+  },
+  {
+    "id": "render_quality_8k_uhd",
+    "term": "8K UHD resolution",
+    "term_zh": "8K超高清分辨率",
+    "subcategory": "resolution",
+    "labels": [
+      "8k",
+      "uhd",
+      "ultra-high-definition",
+      "resolution"
+    ],
+    "labels_zh": [
+      "渲染质量",
+      "8K",
+      "超高清"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "resolution",
+      "commercial"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "render-quality"
+  },
+  {
+    "id": "render_quality_4k_hdr",
+    "term": "4K HDR tone-mapped",
+    "term_zh": "4K HDR色调映射",
+    "subcategory": "resolution",
+    "labels": [
+      "4k",
+      "hdr",
+      "tone-mapping",
+      "dynamic-range"
+    ],
+    "labels_zh": [
+      "渲染质量",
+      "4K",
+      "HDR"
+    ],
+    "score": 0.8,
+    "priority": "high",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "video",
+      "modern"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "render-quality"
+  },
+  {
+    "id": "render_quality_ray_tracing",
+    "term": "ray-traced global illumination",
+    "term_zh": "光线追踪全局照明",
+    "subcategory": "technical",
+    "labels": [
+      "ray-tracing",
+      "global-illumination",
+      "reflections",
+      "caustics"
+    ],
+    "labels_zh": [
+      "渲染质量",
+      "光线追踪",
+      "全局照明"
+    ],
+    "score": 0.9,
+    "priority": "high",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "modern",
+      "realistic"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "render-quality"
+  },
+  {
+    "id": "render_quality_ambient_occlusion",
+    "term": "ambient occlusion shadows",
+    "term_zh": "环境遮蔽阴影",
+    "subcategory": "technical",
+    "labels": [
+      "ambient-occlusion",
+      "ao",
+      "shadows",
+      "contact"
+    ],
+    "labels_zh": [
+      "渲染质量",
+      "环境遮蔽",
+      "阴影"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "technical",
+      "realistic"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "render-quality"
+  },
+  {
+    "id": "render_quality_subsurface_scattering",
+    "term": "subsurface scattering skin wax",
+    "term_zh": "次表面散射皮肤蜡质",
+    "subcategory": "technical",
+    "labels": [
+      "subsurface-scattering",
+      "sss",
+      "translucent",
+      "skin"
+    ],
+    "labels_zh": [
+      "渲染质量",
+      "次表面散射",
+      "半透明"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "character",
+      "realistic"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "render-quality"
   }
 ]

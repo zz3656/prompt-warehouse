@@ -23,9 +23,7 @@
       "标准",
       "硬切",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027222+00:00"
+    ]
   },
   {
     "id": "transitions_standard_cross_dissolve",
@@ -50,9 +48,7 @@
       "转场",
       "标准",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202489+00:00"
+    ]
   },
   {
     "id": "transitions_standard_fade_to_black",
@@ -77,9 +73,7 @@
       "转场",
       "标准",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202500+00:00"
+    ]
   },
   {
     "id": "transitions_standard_fade_to_white",
@@ -104,9 +98,7 @@
       "转场",
       "标准",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202504+00:00"
+    ]
   },
   {
     "id": "transitions_standard_snap_to_black",
@@ -131,9 +123,7 @@
       "转场",
       "标准",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027228+00:00"
+    ]
   },
   {
     "id": "transitions_standard_match_cut",
@@ -158,9 +148,7 @@
       "转场",
       "标准",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202508+00:00"
+    ]
   },
   {
     "id": "transitions_standard_smash_cut",
@@ -185,9 +173,7 @@
       "转场",
       "标准",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202512+00:00"
+    ]
   },
   {
     "id": "transitions_standard_iris",
@@ -212,9 +198,7 @@
       "转场",
       "标准",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027232+00:00"
+    ]
   },
   {
     "id": "transitions_standard_wipe",
@@ -240,9 +224,7 @@
       "标准",
       "线性擦除",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.544056+00:00"
+    ]
   },
   {
     "id": "transitions_standard_roll_transition",
@@ -267,9 +249,7 @@
       "转场",
       "标准",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027236+00:00"
+    ]
   },
   {
     "id": "transitions_standard_seamless_match",
@@ -295,9 +275,7 @@
       "标准",
       "隐形切割",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.487837+00:00"
+    ]
   },
   {
     "id": "transitions_standard_whip_pan",
@@ -323,9 +301,7 @@
       "标准",
       "抡抡镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.544072+00:00"
+    ]
   },
   {
     "id": "transitions_standard_jump_cut",
@@ -351,9 +327,7 @@
       "标准",
       "跳切",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.544076+00:00"
+    ]
   },
   {
     "id": "transitions_time_fast_forward_day_night",
@@ -378,9 +352,7 @@
       "转场",
       "时间",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027240+00:00"
+    ]
   },
   {
     "id": "transitions_time_fast_forward_night_day",
@@ -405,9 +377,7 @@
       "转场",
       "时间",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027244+00:00"
+    ]
   },
   {
     "id": "transitions_time_seasonal_shift",
@@ -432,9 +402,7 @@
       "转场",
       "时间",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027247+00:00"
+    ]
   },
   {
     "id": "transitions_time_aging",
@@ -460,9 +428,7 @@
       "时间",
       "加速老化",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027251+00:00"
+    ]
   },
   {
     "id": "transitions_time_rewind",
@@ -488,9 +454,7 @@
       "时间",
       "倒带倒放",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027255+00:00"
+    ]
   },
   {
     "id": "transitions_time_freeze_frame_jump",
@@ -516,9 +480,7 @@
       "时间",
       "定格跳跃",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027258+00:00"
+    ]
   },
   {
     "id": "transitions_time_weather_shift",
@@ -543,9 +505,7 @@
       "转场",
       "时间",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.102963+00:00"
+    ]
   },
   {
     "id": "transitions_time_flashback",
@@ -570,9 +530,7 @@
       "转场",
       "时间",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202517+00:00"
+    ]
   },
   {
     "id": "transitions_element_dissolve_to_mist",
@@ -597,9 +555,7 @@
       "转场",
       "元素",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202521+00:00"
+    ]
   },
   {
     "id": "transitions_element_water_splash",
@@ -624,9 +580,7 @@
       "转场",
       "元素",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027262+00:00"
+    ]
   },
   {
     "id": "transitions_element_sand_scatter",
@@ -651,9 +605,7 @@
       "转场",
       "元素",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202525+00:00"
+    ]
   },
   {
     "id": "transitions_element_fire_burnup",
@@ -678,9 +630,7 @@
       "转场",
       "元素",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027266+00:00"
+    ]
   },
   {
     "id": "transitions_element_smoke_puff",
@@ -705,9 +655,7 @@
       "转场",
       "元素",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202528+00:00"
+    ]
   },
   {
     "id": "transitions_element_magic_sparkles",
@@ -732,9 +680,7 @@
       "转场",
       "元素",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202532+00:00"
+    ]
   },
   {
     "id": "transitions_element_lightning_flash",
@@ -759,9 +705,7 @@
       "转场",
       "元素",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027270+00:00"
+    ]
   },
   {
     "id": "transitions_element_ink_splash",
@@ -786,9 +730,7 @@
       "转场",
       "元素",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202536+00:00"
+    ]
   },
   {
     "id": "transitions_element_sand_storm",
@@ -813,9 +755,7 @@
       "转场",
       "元素",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027273+00:00"
+    ]
   },
   {
     "id": "transitions_element_paint_splash",
@@ -840,9 +780,7 @@
       "转场",
       "元素",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:14:10.645822+00:00"
+    ]
   },
   {
     "id": "transitions_element_aurora_sweep",
@@ -867,9 +805,7 @@
       "转场",
       "元素",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:14:10.645836+00:00"
+    ]
   },
   {
     "id": "transitions_element_sakura_petals",
@@ -894,9 +830,7 @@
       "转场",
       "元素",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027277+00:00"
+    ]
   },
   {
     "id": "transitions_element_garden_bloom",
@@ -921,9 +855,7 @@
       "转场",
       "元素",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:14:10.645840+00:00"
+    ]
   },
   {
     "id": "transitions_element_powder_burst",
@@ -948,9 +880,7 @@
       "转场",
       "元素",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202539+00:00"
+    ]
   },
   {
     "id": "transitions_morph_liquid_morph",
@@ -975,9 +905,7 @@
       "转场",
       "变形",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202543+00:00"
+    ]
   },
   {
     "id": "transitions_morph_pixelate_reform",
@@ -1002,9 +930,7 @@
       "转场",
       "变形",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027280+00:00"
+    ]
   },
   {
     "id": "transitions_morph_shatter_glass",
@@ -1029,9 +955,7 @@
       "转场",
       "变形",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027284+00:00"
+    ]
   },
   {
     "id": "transitions_morph_origami_fold",
@@ -1056,9 +980,7 @@
       "转场",
       "变形",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202547+00:00"
+    ]
   },
   {
     "id": "transitions_morph_vortex_swirl",
@@ -1083,9 +1005,7 @@
       "转场",
       "变形",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027287+00:00"
+    ]
   },
   {
     "id": "transitions_morph_dream_ripple",
@@ -1110,9 +1030,7 @@
       "转场",
       "变形",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202550+00:00"
+    ]
   },
   {
     "id": "transitions_morph_wireframe_morph",
@@ -1137,9 +1055,7 @@
       "转场",
       "变形",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202554+00:00"
+    ]
   },
   {
     "id": "transitions_morph_polygon_shatter",
@@ -1164,9 +1080,7 @@
       "转场",
       "变形",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202558+00:00"
+    ]
   },
   {
     "id": "transitions_morph_melt_down",
@@ -1191,9 +1105,7 @@
       "转场",
       "变形",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:13:04.982529+00:00"
+    ]
   },
   {
     "id": "transitions_portal_zoom_into_eye",
@@ -1218,9 +1130,7 @@
       "转场",
       "门户",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027291+00:00"
+    ]
   },
   {
     "id": "transitions_portal_zoom_into_mirror",
@@ -1245,9 +1155,7 @@
       "转场",
       "门户",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027295+00:00"
+    ]
   },
   {
     "id": "transitions_portal_zoom_into_screen",
@@ -1272,9 +1180,7 @@
       "转场",
       "门户",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027298+00:00"
+    ]
   },
   {
     "id": "transitions_portal_zoom_into_book",
@@ -1299,9 +1205,7 @@
       "转场",
       "门户",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202561+00:00"
+    ]
   },
   {
     "id": "transitions_portal_walk_through_door",
@@ -1326,9 +1230,7 @@
       "转场",
       "门户",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202565+00:00"
+    ]
   },
   {
     "id": "transitions_portal_fall_into_hole",
@@ -1353,9 +1255,7 @@
       "转场",
       "门户",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202569+00:00"
+    ]
   },
   {
     "id": "transitions_portal_pull_out_reveal",
@@ -1381,9 +1281,7 @@
       "门户",
       "拉远揭示",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202573+00:00"
+    ]
   },
   {
     "id": "transitions_portal_zoom_into_mouth",
@@ -1408,9 +1306,7 @@
       "转场",
       "门户",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202577+00:00"
+    ]
   },
   {
     "id": "transitions_portal_push_through_glass",
@@ -1435,9 +1331,7 @@
       "转场",
       "门户",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.544084+00:00"
+    ]
   },
   {
     "id": "transitions_portal_soul_jump",
@@ -1462,9 +1356,7 @@
       "转场",
       "门户",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.544088+00:00"
+    ]
   },
   {
     "id": "transitions_portal_mask_transition",
@@ -1490,9 +1382,7 @@
       "门户",
       "面具过渡",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.544092+00:00"
+    ]
   },
   {
     "id": "transitions_portal_zoom_through",
@@ -1518,9 +1408,7 @@
       "门户",
       "推进过渡",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.544096+00:00"
+    ]
   },
   {
     "id": "transitions_physics_explosion_blast",
@@ -1545,9 +1433,7 @@
       "转场",
       "物理",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202581+00:00"
+    ]
   },
   {
     "id": "transitions_physics_shockwave",
@@ -1572,9 +1458,7 @@
       "转场",
       "物理",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202584+00:00"
+    ]
   },
   {
     "id": "transitions_physics_punch_into_camera",
@@ -1599,9 +1483,7 @@
       "转场",
       "物理",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202588+00:00"
+    ]
   },
   {
     "id": "transitions_physics_debris_shower",
@@ -1626,9 +1508,7 @@
       "转场",
       "物理",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027303+00:00"
+    ]
   },
   {
     "id": "transitions_physics_gravity_flip",
@@ -1654,9 +1534,7 @@
       "物理",
       "180",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202593+00:00"
+    ]
   },
   {
     "id": "transitions_physics_building_explosion",
@@ -1681,9 +1559,7 @@
       "转场",
       "物理",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202597+00:00"
+    ]
   },
   {
     "id": "transitions_physics_vehicle_explosion",
@@ -1708,9 +1584,7 @@
       "转场",
       "物理",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202600+00:00"
+    ]
   },
   {
     "id": "transitions_physics_jump_match",
@@ -1735,9 +1609,7 @@
       "转场",
       "物理",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.544101+00:00"
+    ]
   },
   {
     "id": "transitions_physics_hand_swipe",
@@ -1762,9 +1634,7 @@
       "转场",
       "物理",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.544104+00:00"
+    ]
   },
   {
     "id": "transitions_physics_action_relay",
@@ -1789,9 +1659,7 @@
       "转场",
       "物理",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.544108+00:00"
+    ]
   },
   {
     "id": "transitions_light_white_flash",
@@ -1816,9 +1684,7 @@
       "转场",
       "光线",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027307+00:00"
+    ]
   },
   {
     "id": "transitions_light_lens_flare_swipe",
@@ -1844,9 +1710,7 @@
       "光线",
       "镜头眩光",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027310+00:00"
+    ]
   },
   {
     "id": "transitions_light_light_streak",
@@ -1871,9 +1735,7 @@
       "转场",
       "光线",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202604+00:00"
+    ]
   },
   {
     "id": "transitions_light_color_invert",
@@ -1898,9 +1760,7 @@
       "转场",
       "光线",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202608+00:00"
+    ]
   },
   {
     "id": "transitions_light_sun_glare",
@@ -1925,9 +1785,7 @@
       "转场",
       "光线",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202611+00:00"
+    ]
   },
   {
     "id": "transitions_light_lens_crack",
@@ -1952,9 +1810,7 @@
       "转场",
       "光线",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202615+00:00"
+    ]
   },
   {
     "id": "transitions_light_dirty_lens_wipe",
@@ -1979,9 +1835,7 @@
       "转场",
       "光线",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202618+00:00"
+    ]
   },
   {
     "id": "transitions_light_eye_light_burst",
@@ -2006,9 +1860,7 @@
       "转场",
       "光线",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:14:10.645847+00:00"
+    ]
   },
   {
     "id": "transitions_glitch_digital_glitch",
@@ -2035,9 +1887,7 @@
       "RGB",
       "分离",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202623+00:00"
+    ]
   },
   {
     "id": "transitions_glitch_vhs_rewind",
@@ -2063,9 +1913,7 @@
       "故障",
       "VHS",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202628+00:00"
+    ]
   },
   {
     "id": "transitions_glitch_datamosh",
@@ -2090,9 +1938,7 @@
       "转场",
       "故障",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027316+00:00"
+    ]
   },
   {
     "id": "transitions_glitch_channel_flip",
@@ -2117,9 +1963,7 @@
       "转场",
       "故障",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027319+00:00"
+    ]
   },
   {
     "id": "transitions_glitch_hologram_flicker",
@@ -2144,9 +1988,7 @@
       "转场",
       "故障",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027323+00:00"
+    ]
   },
   {
     "id": "transitions_glitch_display_wipe",
@@ -2171,9 +2013,7 @@
       "转场",
       "故障",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.027326+00:00"
+    ]
   },
   {
     "id": "transitions_glitch_double_exposure",
@@ -2198,8 +2038,6 @@
       "转场",
       "故障",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.202631+00:00"
+    ]
   }
 ]

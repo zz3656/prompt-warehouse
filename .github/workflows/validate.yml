@@ -47,8 +47,10 @@ jobs:
                       validate(instance=item, schema=schema)
                       valid += 1
                   except ValidationError as e:
-                      errors.append(f"{fp}: id={item.get('id','?')} - {e.message}")
-          print(f"✅ Validated {valid} keywords, {len(errors)} errors")
+                      e_msg = item.get('id', '?')
+                      errors.append(f"{fp}: id={e_msg} - {e.message}")
+          total_valid = valid
+          print(f"✅ Validated {total_valid} keywords, {len(errors)} errors")
           if errors:
               for e in errors[:20]:
                   print(f"  ❌ {e}")
@@ -74,7 +76,7 @@ jobs:
                       print(f"  ❌ Duplicate ID: {iid}")
                   else:
                       ids[iid] = fp
-          print(f"IDs: {len(ids)} unique, {dupes} duplicates, {invalid} invalid")
+          print(f"IDs: {len(ids)} unique, {dupes} dupes, {invalid} invalid")
           sys.exit(1 if (dupes or invalid) else 0)
           EOF
 
@@ -88,10 +90,14 @@ jobs:
           for fp in sorted(glob.glob("keywords/categories/*.json")):
               file_cat = fp.split("/")[-1].replace(".json", "")
               if file_cat not in valid_cats:
-                  violations.append(f"{fp}: category '{file_cat}' not in schema enum")
+                  v_msg = f"{fp}: category '{file_cat}' not in schema"
+                  violations.append(v_msg)
               for item in json.load(open(fp)):
                   if item.get("category") not in valid_cats:
-                      violations.append(f"{fp}: id={item.get('id','?')} has invalid category '{item.get('category')}'")
+                      item_id = item.get('id','?')
+                      item_cat = item.get('category')
+                      v2 = f"{fp}: id={item_id} cat={item_cat}"
+                      violations.append(v2)
           if violations:
               for v in violations[:20]:
                   print(f"  ❌ {v}")
@@ -104,14 +110,82 @@ jobs:
           python3 - <<'EOF'
           import json, glob, sys
           meta = json.load(open("keywords/_meta.json"))
-          actual = sum(len(json.load(open(f))) for f in glob.glob("keywords/categories/*.json"))
-          if meta["total_keywords"] != actual:
-              print(f"❌ total_keywords mismatch: meta={meta['total_keywords']}, actual={actual}")
+          cats = glob.glob("keywords/categories/*.json")
+          actual = sum(len(json.load(open(f))) for f in cats)
+          meta_total = meta['total_keywords']
+          meta_cats = meta['total_categories']
+          if meta_total != actual:
+              print(f"❌ total mismatch: meta={meta_total}, actual={actual}")
               sys.exit(1)
-          if meta["total_categories"] != len(glob.glob("keywords/categories/*.json")):
+          file_count = len(cats)
+          if meta_cats != file_count:
               print(f"❌ total_categories mismatch")
               sys.exit(1)
-          print(f"✅ Metadata consistent: {actual} keywords, {meta['total_categories']} categories")
+          print(f"✅ Metadata OK: {actual} keywords, {meta_cats} categories")
+          EOF
+
+      - name: Check index freshness
+        run: |
+          python3 - <<'EOF'
+          import json, glob, sys, os
+          index_path = "data/pws_index.json"
+          if not os.path.exists(index_path):
+              print("⚠️  Index missing — run `python3 tools/pws-index.py`")
+              sys.exit(0)
+          index = json.load(open(index_path))
+          cats = glob.glob("keywords/categories/*.json")
+          actual = sum(len(json.load(open(f))) for f in cats)
+          index_total = index.get("total", 0)
+          if index_total != actual:
+              print(f"⚠️  Stale: index={index_total}, actual={actual}")
+              print("  Run: python3 tools/pws-index.py")
+              sys.exit(0)
+          print(f"✅ Index fresh: {actual} entries in {index_path}")
+          EOF
+
+      - name: Check lifecycle coverage
+        run: |
+          python3 - <<'EOF'
+          import json, glob, sys
+          errors = 0
+          total = 0
+          for fp in sorted(glob.glob("keywords/categories/*.json")):
+              data = json.load(open(fp))
+              for item in data:
+                  total += 1
+                  life = item.get("lifecycle")
+                  if not life:
+                      errors += 1
+                      item_id = item.get('id')
+                      print(f"  ❌ No lifecycle: {item_id} in {fp}")
+          if errors:
+              print(f"❌ {errors} missing lifecycle (total {total})")
+              sys.exit(1)
+          print(f"✅ All {total} keywords have lifecycle")
+          EOF
+
+      - name: Check underscore-prefixed fields
+        run: |
+          python3 - <<'EOF'
+          import json, glob, sys
+          err_count = 0
+          total = 0
+          for fp in sorted(glob.glob("keywords/categories/*.json")):
+              data = json.load(open(fp))
+              for item in data:
+                  total += 1
+                  bad = [
+                      k for k in item.keys()
+                      if k.startswith("_") and not k.startswith("__")
+                  ]
+                  if bad:
+                      err_count += 1
+                      item_id = item.get('id')
+                      print(f"  ❌ Underscore: {item_id} -> {bad}")
+          if err_count:
+              print(f"❌ {err_count} with underscore fields (total {total})")
+              sys.exit(1)
+          print(f"✅ All {total} keywords clean")
           EOF
 
   dedup-check:
@@ -157,7 +231,8 @@ jobs:
                           if "variants" in item or "id" in item:
                               valid += 1
                               if "id" not in item or "variants" not in item:
-                                  print(f"  ❌ Missing required field in {fp}: {item.get('id','?')}")
+                                  f_id = item.get('id','?')
+                                  print(f"  ❌ Missing field {fp}: {f_id}")
                                   errors += 1
               except Exception as e:
                   print(f"  ❌ Error reading {fp}: {e}")

@@ -1,9 +1,9 @@
 {
   "version": "1.8.0",
   "schema_version": "pws-1.0",
-  "total_keywords": 5943,
+  "total_keywords": 6015,
   "total_categories": 20,
-  "updated_at": "2026-09-30T19:30:00.000000+00:00",
+  "updated_at": "2026-10-05T20:01:18.667204+00:00",
   "updated_by": "extend-translations-13.py",
   "source_summary": {
     "h3-comic-builder (intermediate, not listed as data source)": 859,
@@ -238,7 +238,7 @@
       ]
     }
   ],
-  "description": "5,943 structured keywords across 20 categories. Sources: MidJourney Reference + Danbooru + Danbooru Booster/Civitai + Web Research + @nodaro/prompts (v1.27.0). v1.1.0 consolidated 33 → 20 categories; v1.1.1 removed 14 true-duplicate terms (see docs/CATEGORY_CONSOLIDATION.md).",
+  "description": "6,015 structured keywords across 20 categories. Sources: MidJourney Reference + Danbooru + Danbooru Booster/Civitai + Web Research + @nodaro/prompts (v1.27.0). v1.1.0 consolidated 33 → 20 categories; v1.1.1 removed 14 true-duplicate terms (see docs/CATEGORY_CONSOLIDATION.md). Additional high-quality keywords added in v1.8.1 including quality (27), held-prop (6), framing (6), panel (5), character-fx (5), action-fx (3), photographer (2).",
   "data_sources": {
     "note": "h3-comic-builder 是中间件（JS 原始文件已迁移），其 859 个关键词本身也来自网上收集。以下列出所有直接的数据来源。",
     "migration_note": "所有 source 为 h3-comic-builder (original JS migration) 的关键词 859 个是间接来源，不作为独立数据源列出。",

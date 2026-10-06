@@ -836,14 +836,15 @@ import re as _re
 
 
 def inject_translations(filepath, new_entries):
-    with open(filepath) as f:
-        content = f.read()
+    with open(filepath, "rb") as f:
+        content = f.read().decode("utf-8")
 
     start_marker = "PRE_TRANSLATIONS = {"
     start_idx = content.find(start_marker)
     if start_idx == -1:
         print(f"❌ PRE_TRANSLATIONS not found in {filepath}")
-        sys.exit(1)
+        import sys as _sys
+        _sys.exit(1)
 
     i = start_idx + len(start_marker) - 1
     end_idx = None
@@ -883,8 +884,8 @@ def inject_translations(filepath, new_entries):
     new_dict_str = '{\n' + '\n'.join(new_lines) + '\n}'
     new_content = before + 'PRE_TRANSLATIONS = ' + new_dict_str + after
 
-    with open(filepath, 'w') as f:
-        f.write(new_content)
+    with open(filepath, "wb") as f:
+        f.write(new_content.encode("utf-8"))
 
     print(f"✅ Added {added} new entries, skipped {skipped} duplicates (file now has {len(existing)} unique entries)")
 

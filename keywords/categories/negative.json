@@ -26,9 +26,7 @@
       "负面",
       "质量缺陷",
       "低质量"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.321930+00:00"
+    ]
   },
   {
     "id": "negative_quality_worst_quality",
@@ -57,9 +55,7 @@
       "负面",
       "质量缺陷",
       "最差质量"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.962143+00:00"
+    ]
   },
   {
     "id": "negative_quality_bad_quality",
@@ -88,9 +84,7 @@
       "负面",
       "质量缺陷",
       "糟糕质量"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037202+00:00"
+    ]
   },
   {
     "id": "negative_quality_low_resolution",
@@ -119,9 +113,7 @@
       "负面",
       "质量缺陷",
       "低分辨率"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.962148+00:00"
+    ]
   },
   {
     "id": "negative_quality_blurry",
@@ -150,9 +142,7 @@
       "负面",
       "质量缺陷",
       "模糊"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.321937+00:00"
+    ]
   },
   {
     "id": "negative_quality_blurry_background",
@@ -181,9 +171,7 @@
       "负面",
       "质量缺陷",
       "模糊背景"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037211+00:00"
+    ]
   },
   {
     "id": "negative_quality_out_of_focus",
@@ -212,9 +200,7 @@
       "负面",
       "质量缺陷",
       "失焦"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.321941+00:00"
+    ]
   },
   {
     "id": "negative_quality_dithering",
@@ -243,9 +229,7 @@
       "负面",
       "质量缺陷",
       "抖动"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.321945+00:00"
+    ]
   },
   {
     "id": "negative_quality_jpeg_artifacts",
@@ -275,9 +259,7 @@
       "质量缺陷",
       "JPEG",
       "压缩"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.962153+00:00"
+    ]
   },
   {
     "id": "negative_quality_pixelated",
@@ -306,9 +288,7 @@
       "负面",
       "质量缺陷",
       "像素化"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037216+00:00"
+    ]
   },
   {
     "id": "negative_anatomy_deformed",
@@ -337,9 +317,7 @@
       "负面",
       "解剖缺陷",
       "变形"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.962157+00:00"
+    ]
   },
   {
     "id": "negative_anatomy_distorted",
@@ -368,9 +346,7 @@
       "负面",
       "解剖缺陷",
       "失真"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037220+00:00"
+    ]
   },
   {
     "id": "negative_anatomy_disfigured",
@@ -399,9 +375,7 @@
       "负面",
       "解剖缺陷",
       "毁容"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037224+00:00"
+    ]
   },
   {
     "id": "negative_anatomy_bad_anatomy",
@@ -430,9 +404,7 @@
       "负面",
       "解剖缺陷",
       "畸形解剖"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.962162+00:00"
+    ]
   },
   {
     "id": "negative_anatomy_wrong_anatomy",
@@ -461,9 +433,7 @@
       "负面",
       "解剖缺陷",
       "错误解剖"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037228+00:00"
+    ]
   },
   {
     "id": "negative_anatomy_extra_limbs",
@@ -492,9 +462,7 @@
       "负面",
       "解剖缺陷",
       "多余肢体"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.321949+00:00"
+    ]
   },
   {
     "id": "negative_anatomy_extra_arms",
@@ -523,9 +491,7 @@
       "负面",
       "解剖缺陷",
       "多余手臂"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037232+00:00"
+    ]
   },
   {
     "id": "negative_anatomy_extra_legs",
@@ -554,9 +520,7 @@
       "负面",
       "解剖缺陷",
       "多余腿"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037235+00:00"
+    ]
   },
   {
     "id": "negative_anatomy_missing_limbs",
@@ -585,9 +549,7 @@
       "负面",
       "解剖缺陷",
       "缺失肢体"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037239+00:00"
+    ]
   },
   {
     "id": "negative_anatomy_missing_fingers",
@@ -616,9 +578,7 @@
       "负面",
       "解剖缺陷",
       "缺少手指"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.962166+00:00"
+    ]
   },
   {
     "id": "negative_anatomy_extra_digits",
@@ -647,9 +607,7 @@
       "负面",
       "解剖缺陷",
       "多余指"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037243+00:00"
+    ]
   },
   {
     "id": "negative_anatomy_fewer_digits",
@@ -678,9 +636,7 @@
       "负面",
       "解剖缺陷",
       "缺失指"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037246+00:00"
+    ]
   },
   {
     "id": "negative_anatomy_wrong_fingers",
@@ -709,9 +665,7 @@
       "负面",
       "解剖缺陷",
       "错误手指"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037250+00:00"
+    ]
   },
   {
     "id": "negative_anatomy_bad_hands",
@@ -740,9 +694,7 @@
       "负面",
       "解剖缺陷",
       "手部畸形"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.321954+00:00"
+    ]
   },
   {
     "id": "negative_anatomy_poorly_drawn_hands",
@@ -771,9 +723,7 @@
       "负面",
       "解剖缺陷",
       "糟糕双手"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.962170+00:00"
+    ]
   },
   {
     "id": "negative_anatomy_mutation",
@@ -802,9 +752,7 @@
       "负面",
       "解剖缺陷",
       "变异"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.962173+00:00"
+    ]
   },
   {
     "id": "negative_anatomy_mutated_hands",
@@ -833,9 +781,7 @@
       "负面",
       "解剖缺陷",
       "变形手"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037254+00:00"
+    ]
   },
   {
     "id": "negative_anatomy_fused_fingers",
@@ -864,9 +810,7 @@
       "负面",
       "解剖缺陷",
       "融合手指"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037257+00:00"
+    ]
   },
   {
     "id": "negative_anatomy_too_many_fingers",
@@ -895,9 +839,7 @@
       "负面",
       "解剖缺陷",
       "手指过多"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037261+00:00"
+    ]
   },
   {
     "id": "negative_anatomy_long_neck",
@@ -926,9 +868,7 @@
       "负面",
       "解剖缺陷",
       "长颈"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.962177+00:00"
+    ]
   },
   {
     "id": "negative_anatomy_conjoined_fingers",
@@ -957,9 +897,7 @@
       "负面",
       "解剖缺陷",
       "连体手指"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037265+00:00"
+    ]
   },
   {
     "id": "negative_anatomy_extra_toe",
@@ -988,9 +926,7 @@
       "负面",
       "解剖缺陷",
       "多余脚趾"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.321958+00:00"
+    ]
   },
   {
     "id": "negative_anatomy_wrong_feet",
@@ -1019,9 +955,7 @@
       "负面",
       "解剖缺陷",
       "脚部错误"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.321962+00:00"
+    ]
   },
   {
     "id": "negative_face_ugly",
@@ -1050,9 +984,7 @@
       "负面",
       "面部缺陷",
       "丑陋"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.962181+00:00"
+    ]
   },
   {
     "id": "negative_face_duplicate",
@@ -1081,9 +1013,7 @@
       "负面",
       "面部缺陷",
       "重复"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.962185+00:00"
+    ]
   },
   {
     "id": "negative_face_morbid",
@@ -1112,9 +1042,7 @@
       "负面",
       "面部缺陷",
       "病态"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.962188+00:00"
+    ]
   },
   {
     "id": "negative_face_mutilated",
@@ -1143,9 +1071,7 @@
       "负面",
       "面部缺陷",
       "残害"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.962192+00:00"
+    ]
   },
   {
     "id": "negative_face_plastic_skin",
@@ -1174,9 +1100,7 @@
       "负面",
       "面部缺陷",
       "塑料皮肤"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037269+00:00"
+    ]
   },
   {
     "id": "negative_face_bad_face",
@@ -1205,9 +1129,7 @@
       "负面",
       "面部缺陷",
       "糟糕脸"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037273+00:00"
+    ]
   },
   {
     "id": "negative_face_deformed_face",
@@ -1236,9 +1158,7 @@
       "负面",
       "面部缺陷",
       "变形脸"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037277+00:00"
+    ]
   },
   {
     "id": "negative_face_ugly_face",
@@ -1267,9 +1187,7 @@
       "负面",
       "面部缺陷",
       "丑陋脸"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037280+00:00"
+    ]
   },
   {
     "id": "negative_face_poorly_drawn_face",
@@ -1298,9 +1216,7 @@
       "负面",
       "面部缺陷",
       "糟糕面部"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.962196+00:00"
+    ]
   },
   {
     "id": "negative_face_bad_proportions",
@@ -1329,9 +1245,7 @@
       "负面",
       "面部缺陷",
       "比例失调"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.962199+00:00"
+    ]
   },
   {
     "id": "negative_face_gross_proportions",
@@ -1360,9 +1274,7 @@
       "负面",
       "面部缺陷",
       "比例失调"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037284+00:00"
+    ]
   },
   {
     "id": "negative_face_malformed_limbs",
@@ -1391,9 +1303,7 @@
       "负面",
       "面部缺陷",
       "畸形肢体"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037287+00:00"
+    ]
   },
   {
     "id": "negative_face_extra_arms_and_legs",
@@ -1422,9 +1332,7 @@
       "负面",
       "面部缺陷",
       "多余四肢"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037291+00:00"
+    ]
   },
   {
     "id": "negative_face_asymmetrical_eyes",
@@ -1452,9 +1360,7 @@
     "labels_zh": [
       "负面",
       "面部缺陷"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037295+00:00"
+    ]
   },
   {
     "id": "negative_face_crossed_eyes",
@@ -1483,9 +1389,7 @@
       "负面",
       "面部缺陷",
       "闭眼"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.321967+00:00"
+    ]
   },
   {
     "id": "negative_face_strabismus",
@@ -1514,9 +1418,7 @@
       "负面",
       "面部缺陷",
       "斜视"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.023731+00:00"
+    ]
   },
   {
     "id": "negative_face_uneven_eyes",
@@ -1544,9 +1446,7 @@
     "labels_zh": [
       "负面",
       "面部缺陷"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.032182+00:00"
+    ]
   },
   {
     "id": "negative_face_extra_eye",
@@ -1575,9 +1475,7 @@
       "负面",
       "面部缺陷",
       "多眼"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037299+00:00"
+    ]
   },
   {
     "id": "negative_face_missing_eye",
@@ -1606,9 +1504,7 @@
       "负面",
       "面部缺陷",
       "缺眼"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037302+00:00"
+    ]
   },
   {
     "id": "negative_composition_watermark",
@@ -1637,9 +1533,7 @@
       "负面",
       "构图",
       "水印"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.321971+00:00"
+    ]
   },
   {
     "id": "negative_composition_text",
@@ -1668,9 +1562,7 @@
       "负面",
       "构图",
       "文字"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.321975+00:00"
+    ]
   },
   {
     "id": "negative_composition_username",
@@ -1699,9 +1591,7 @@
       "负面",
       "构图",
       "用户名"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.321978+00:00"
+    ]
   },
   {
     "id": "negative_composition_error",
@@ -1730,9 +1620,7 @@
       "负面",
       "构图",
       "错误"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.032197+00:00"
+    ]
   },
   {
     "id": "negative_composition_crop",
@@ -1761,9 +1649,7 @@
       "负面",
       "构图",
       "裁剪"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.321982+00:00"
+    ]
   },
   {
     "id": "negative_composition_out_of_frame",
@@ -1792,9 +1678,7 @@
       "负面",
       "构图",
       "出框"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.962204+00:00"
+    ]
   },
   {
     "id": "negative_composition_cut_off",
@@ -1823,9 +1707,7 @@
       "负面",
       "构图",
       "切断"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.962208+00:00"
+    ]
   },
   {
     "id": "negative_composition_lowres",
@@ -1854,9 +1736,7 @@
       "负面",
       "构图",
       "低分辨率"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.962212+00:00"
+    ]
   },
   {
     "id": "negative_composition_signature",
@@ -1885,9 +1765,7 @@
       "负面",
       "构图",
       "签名"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.321986+00:00"
+    ]
   },
   {
     "id": "negative_composition_extra_limbs",
@@ -1916,9 +1794,7 @@
       "负面",
       "构图",
       "多余肢体"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.321990+00:00"
+    ]
   },
   {
     "id": "negative_composition_bad_hands",
@@ -1947,9 +1823,7 @@
       "负面",
       "构图",
       "手部畸形"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.321993+00:00"
+    ]
   },
   {
     "id": "negative_composition_wrong_size",
@@ -1978,9 +1852,7 @@
       "负面",
       "构图",
       "错误尺寸"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.032202+00:00"
+    ]
   },
   {
     "id": "negative_composition_border",
@@ -2009,9 +1881,7 @@
       "负面",
       "构图",
       "边框"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.023747+00:00"
+    ]
   },
   {
     "id": "negative_composition_frame",
@@ -2040,9 +1910,7 @@
       "负面",
       "构图",
       "画框"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.321997+00:00"
+    ]
   },
   {
     "id": "negative_composition_multiple_panels",
@@ -2071,9 +1939,7 @@
       "负面",
       "构图",
       "多格分镜"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.032207+00:00"
+    ]
   },
   {
     "id": "negative_style_3d",
@@ -2102,9 +1968,7 @@
       "负面",
       "风格缺陷",
       "3D"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.322001+00:00"
+    ]
   },
   {
     "id": "negative_style_realistic",
@@ -2133,9 +1997,7 @@
       "负面",
       "风格缺陷",
       "写实"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.322005+00:00"
+    ]
   },
   {
     "id": "negative_style_photorealistic",
@@ -2163,9 +2025,7 @@
     "labels_zh": [
       "负面",
       "风格缺陷"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.322009+00:00"
+    ]
   },
   {
     "id": "negative_style_photograph",
@@ -2194,9 +2054,7 @@
       "负面",
       "风格缺陷",
       "摄影"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.322012+00:00"
+    ]
   },
   {
     "id": "negative_style_realistic_noise",
@@ -2225,9 +2083,7 @@
       "负面",
       "风格缺陷",
       "写实噪点"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.032212+00:00"
+    ]
   },
   {
     "id": "negative_style_realistic_camera",
@@ -2256,9 +2112,7 @@
       "负面",
       "风格缺陷",
       "写实相机"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.962216+00:00"
+    ]
   },
   {
     "id": "negative_style_out_of_focus",
@@ -2287,9 +2141,7 @@
       "负面",
       "风格缺陷",
       "失焦"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.322016+00:00"
+    ]
   },
   {
     "id": "negative_style_oil_painting",
@@ -2318,9 +2170,7 @@
       "负面",
       "风格缺陷",
       "油画"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.322020+00:00"
+    ]
   },
   {
     "id": "negative_textrelated_watermark",
@@ -2349,9 +2199,7 @@
       "负面",
       "文字",
       "水印"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.322024+00:00"
+    ]
   },
   {
     "id": "negative_textrelated_username",
@@ -2380,9 +2228,7 @@
       "负面",
       "文字",
       "用户名"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.322027+00:00"
+    ]
   },
   {
     "id": "negative_textrelated_signature",
@@ -2411,9 +2257,7 @@
       "负面",
       "文字",
       "签名"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.322031+00:00"
+    ]
   },
   {
     "id": "negative_textrelated_logo",
@@ -2442,9 +2286,7 @@
       "负面",
       "文字",
       "标志"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.322035+00:00"
+    ]
   },
   {
     "id": "negative_textrelated_text",
@@ -2472,9 +2314,7 @@
     "labels_zh": [
       "负面",
       "文字"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.322038+00:00"
+    ]
   },
   {
     "id": "negative_textrelated_lettering",
@@ -2503,9 +2343,7 @@
       "负面",
       "文字",
       "字体"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.023753+00:00"
+    ]
   },
   {
     "id": "negative_textrelated_subtitle",
@@ -2534,9 +2372,7 @@
       "负面",
       "文字",
       "字幕"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.023757+00:00"
+    ]
   },
   {
     "id": "negative_textrelated_chapter_number",
@@ -2565,9 +2401,7 @@
       "负面",
       "文字",
       "章节号"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.032217+00:00"
+    ]
   },
   {
     "id": "negative_textrelated_comic_title",
@@ -2596,9 +2430,7 @@
       "负面",
       "文字",
       "漫画标题"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.032221+00:00"
+    ]
   },
   {
     "id": "negative_textrelated_series_name",
@@ -2627,9 +2459,7 @@
       "负面",
       "文字",
       "系列名"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.032225+00:00"
+    ]
   },
   {
     "id": "negative_commondefects_skin_marks",
@@ -2658,9 +2488,7 @@
       "负面",
       "常见缺陷",
       "皮肤瑕疵"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.032229+00:00"
+    ]
   },
   {
     "id": "negative_commondefects_fat_rolls",
@@ -2689,9 +2517,7 @@
       "负面",
       "常见缺陷",
       "脂肪堆积"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.032232+00:00"
+    ]
   },
   {
     "id": "negative_commondefects_stray_hair",
@@ -2720,9 +2546,7 @@
       "负面",
       "常见缺陷",
       "杂发"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.032236+00:00"
+    ]
   },
   {
     "id": "negative_commondefects_cropped_head",
@@ -2751,9 +2575,7 @@
       "负面",
       "常见缺陷",
       "头部裁切"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.032240+00:00"
+    ]
   },
   {
     "id": "negative_commondefects_bad_feet",
@@ -2782,9 +2604,7 @@
       "负面",
       "常见缺陷",
       "糟糕脚部"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.032244+00:00"
+    ]
   },
   {
     "id": "negative_commondefects_deformed_feet",
@@ -2813,9 +2633,7 @@
       "负面",
       "常见缺陷",
       "畸形脚部"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:13:04.899853+00:00"
+    ]
   },
   {
     "id": "negative_commondefects_extra_toe",
@@ -2844,9 +2662,7 @@
       "负面",
       "常见缺陷",
       "多余脚趾"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.322043+00:00"
+    ]
   },
   {
     "id": "negative_commondefects_wrong_feet",
@@ -2875,9 +2691,7 @@
       "负面",
       "常见缺陷",
       "脚部错误"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.322047+00:00"
+    ]
   },
   {
     "id": "negative_commondefects_toes_merging",
@@ -2906,9 +2720,7 @@
       "负面",
       "常见缺陷",
       "脚趾融合"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:13:04.899868+00:00"
+    ]
   },
   {
     "id": "negative_commondefects_muscle_lump",
@@ -2937,9 +2749,7 @@
       "负面",
       "常见缺陷",
       "肌肉肿块"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:13:04.899873+00:00"
+    ]
   },
   {
     "id": "negative_commondefects_dimpled_skin",
@@ -2968,9 +2778,7 @@
       "负面",
       "常见缺陷",
       "凹陷皮肤"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:13:04.899877+00:00"
+    ]
   },
   {
     "id": "negative_commondefects_patchy_skin",
@@ -2999,9 +2807,7 @@
       "负面",
       "常见缺陷",
       "斑驳皮肤"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:13:04.899881+00:00"
+    ]
   },
   {
     "id": "negative_commondefects_visible_tattoo",
@@ -3030,9 +2836,7 @@
       "负面",
       "常见缺陷",
       "可见纹身"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:13:04.899885+00:00"
+    ]
   },
   {
     "id": "negative_commondefects_shoulder_bumps",
@@ -3061,9 +2865,7 @@
       "负面",
       "常见缺陷",
       "肩部肿块"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:13:04.899889+00:00"
+    ]
   },
   {
     "id": "negative_commondefects_extra_nipple",
@@ -3092,9 +2894,7 @@
       "负面",
       "常见缺陷",
       "多乳头"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.037309+00:00"
+    ]
   },
   {
     "id": "negative_commondefects_pubic_hair",
@@ -3123,9 +2923,7 @@
       "负面",
       "常见缺陷",
       "阴毛"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:13:04.899894+00:00"
+    ]
   },
   {
     "id": "negative_commondefects_breast_sagging",
@@ -3154,9 +2952,7 @@
       "负面",
       "常见缺陷",
       "乳房下垂"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:13:04.899898+00:00"
+    ]
   },
   {
     "id": "negative_commondefects_misaligned_hips",
@@ -3185,8 +2981,6 @@
       "负面",
       "常见缺陷",
       "骨盆错位"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:13:04.899902+00:00"
+    ]
   }
 ]

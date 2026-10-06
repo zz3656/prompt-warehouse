@@ -22,9 +22,7 @@
       "手持道具",
       "设备",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951824+00:00"
+    ]
   },
   {
     "id": "held_prop_device_smartphone_raised",
@@ -49,9 +47,7 @@
       "手持道具",
       "设备",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951832+00:00"
+    ]
   },
   {
     "id": "held_prop_device_polaroid_camera",
@@ -76,9 +72,7 @@
       "手持道具",
       "设备",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951837+00:00"
+    ]
   },
   {
     "id": "held_prop_device_vintage_camera",
@@ -106,9 +100,7 @@
       "35mm",
       "胶卷相机",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951843+00:00"
+    ]
   },
   {
     "id": "held_prop_device_dslr_camera",
@@ -133,9 +125,7 @@
       "手持道具",
       "设备",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951847+00:00"
+    ]
   },
   {
     "id": "held_prop_device_video_camera",
@@ -160,9 +150,7 @@
       "手持道具",
       "设备",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951851+00:00"
+    ]
   },
   {
     "id": "held_prop_device_microphone",
@@ -187,9 +175,7 @@
       "手持道具",
       "设备",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.017319+00:00"
+    ]
   },
   {
     "id": "held_prop_device_megaphone",
@@ -214,9 +200,7 @@
       "手持道具",
       "设备",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.017333+00:00"
+    ]
   },
   {
     "id": "held_prop_device_smartwatch",
@@ -241,9 +225,7 @@
       "手持道具",
       "设备",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.017338+00:00"
+    ]
   },
   {
     "id": "held_prop_drink_coffee_cup",
@@ -268,9 +250,7 @@
       "手持道具",
       "饮品",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951856+00:00"
+    ]
   },
   {
     "id": "held_prop_drink_takeaway_coffee",
@@ -295,9 +275,7 @@
       "手持道具",
       "饮品",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951860+00:00"
+    ]
   },
   {
     "id": "held_prop_drink_wine_glass",
@@ -322,9 +300,7 @@
       "手持道具",
       "饮品",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951863+00:00"
+    ]
   },
   {
     "id": "held_prop_drink_champagne_flute",
@@ -349,9 +325,7 @@
       "手持道具",
       "饮品",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951867+00:00"
+    ]
   },
   {
     "id": "held_prop_drink_martini_glass",
@@ -376,9 +350,7 @@
       "手持道具",
       "饮品",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951870+00:00"
+    ]
   },
   {
     "id": "held_prop_drink_cocktail_glass",
@@ -403,9 +375,7 @@
       "手持道具",
       "饮品",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951874+00:00"
+    ]
   },
   {
     "id": "held_prop_drink_beer_bottle",
@@ -430,9 +400,7 @@
       "手持道具",
       "饮品",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.017343+00:00"
+    ]
   },
   {
     "id": "held_prop_drink_water_bottle",
@@ -457,9 +425,7 @@
       "手持道具",
       "饮品",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.017347+00:00"
+    ]
   },
   {
     "id": "held_prop_smoking_cigarette",
@@ -484,9 +450,7 @@
       "手持道具",
       "吸烟",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951878+00:00"
+    ]
   },
   {
     "id": "held_prop_smoking_cigar",
@@ -511,9 +475,7 @@
       "手持道具",
       "吸烟",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951881+00:00"
+    ]
   },
   {
     "id": "held_prop_smoking_vape_pen",
@@ -538,9 +500,7 @@
       "手持道具",
       "吸烟",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951884+00:00"
+    ]
   },
   {
     "id": "held_prop_smoking_joint",
@@ -565,9 +525,7 @@
       "手持道具",
       "吸烟",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951888+00:00"
+    ]
   },
   {
     "id": "held_prop_smoking_lighter",
@@ -592,9 +550,7 @@
       "手持道具",
       "吸烟",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951891+00:00"
+    ]
   },
   {
     "id": "held_prop_reading_writing_book",
@@ -619,9 +575,7 @@
       "手持道具",
       "读写",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951895+00:00"
+    ]
   },
   {
     "id": "held_prop_reading_writing_magazine",
@@ -646,9 +600,7 @@
       "手持道具",
       "读写",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951898+00:00"
+    ]
   },
   {
     "id": "held_prop_reading_writing_newspaper",
@@ -673,9 +625,7 @@
       "手持道具",
       "读写",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951902+00:00"
+    ]
   },
   {
     "id": "held_prop_reading_writing_notebook",
@@ -700,9 +650,7 @@
       "手持道具",
       "读写",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951905+00:00"
+    ]
   },
   {
     "id": "held_prop_reading_writing_pen",
@@ -727,9 +675,7 @@
       "手持道具",
       "读写",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951909+00:00"
+    ]
   },
   {
     "id": "held_prop_reading_writing_marker",
@@ -754,9 +700,7 @@
       "手持道具",
       "读写",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951912+00:00"
+    ]
   },
   {
     "id": "held_prop_reading_writing_paintbrush",
@@ -781,9 +725,7 @@
       "手持道具",
       "读写",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.017352+00:00"
+    ]
   },
   {
     "id": "held_prop_reading_writing_chalk",
@@ -808,9 +750,7 @@
       "手持道具",
       "读写",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.017356+00:00"
+    ]
   },
   {
     "id": "held_prop_bag_accessory_handbag",
@@ -834,9 +774,7 @@
     "labels_zh": [
       "手持道具",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951916+00:00"
+    ]
   },
   {
     "id": "held_prop_bag_accessory_tote_bag",
@@ -860,9 +798,7 @@
     "labels_zh": [
       "手持道具",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951919+00:00"
+    ]
   },
   {
     "id": "held_prop_bag_accessory_briefcase",
@@ -886,9 +822,7 @@
     "labels_zh": [
       "手持道具",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951923+00:00"
+    ]
   },
   {
     "id": "held_prop_bag_accessory_umbrella",
@@ -912,9 +846,7 @@
     "labels_zh": [
       "手持道具",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951926+00:00"
+    ]
   },
   {
     "id": "held_prop_bag_accessory_fan_folding",
@@ -938,9 +870,7 @@
     "labels_zh": [
       "手持道具",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951929+00:00"
+    ]
   },
   {
     "id": "held_prop_bag_accessory_parasol",
@@ -964,9 +894,7 @@
     "labels_zh": [
       "手持道具",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951933+00:00"
+    ]
   },
   {
     "id": "held_prop_bag_accessory_locket",
@@ -990,9 +918,7 @@
     "labels_zh": [
       "手持道具",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.017360+00:00"
+    ]
   },
   {
     "id": "held_prop_floral_nature_bouquet",
@@ -1017,9 +943,7 @@
       "手持道具",
       "花草自然",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951936+00:00"
+    ]
   },
   {
     "id": "held_prop_floral_nature_single_rose",
@@ -1044,9 +968,7 @@
       "手持道具",
       "花草自然",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951940+00:00"
+    ]
   },
   {
     "id": "held_prop_floral_nature_sunflower",
@@ -1071,9 +993,7 @@
       "手持道具",
       "花草自然",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951943+00:00"
+    ]
   },
   {
     "id": "held_prop_floral_nature_leaf",
@@ -1098,9 +1018,7 @@
       "手持道具",
       "花草自然",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951946+00:00"
+    ]
   },
   {
     "id": "held_prop_floral_nature_fruit_apple",
@@ -1125,9 +1043,7 @@
       "手持道具",
       "花草自然",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951950+00:00"
+    ]
   },
   {
     "id": "held_prop_instrument_guitar",
@@ -1152,9 +1068,7 @@
       "手持道具",
       "乐器",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951953+00:00"
+    ]
   },
   {
     "id": "held_prop_instrument_violin",
@@ -1179,9 +1093,7 @@
       "手持道具",
       "乐器",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951957+00:00"
+    ]
   },
   {
     "id": "held_prop_instrument_saxophone",
@@ -1206,9 +1118,7 @@
       "手持道具",
       "乐器",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951960+00:00"
+    ]
   },
   {
     "id": "held_prop_instrument_drumsticks",
@@ -1233,9 +1143,7 @@
       "手持道具",
       "乐器",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951964+00:00"
+    ]
   },
   {
     "id": "held_prop_instrument_sheet_music",
@@ -1260,9 +1168,7 @@
       "手持道具",
       "乐器",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951967+00:00"
+    ]
   },
   {
     "id": "held_prop_companion_small_dog",
@@ -1287,9 +1193,7 @@
       "手持道具",
       "伙伴",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951971+00:00"
+    ]
   },
   {
     "id": "held_prop_companion_cat",
@@ -1315,9 +1219,7 @@
       "伙伴",
       "怀抱小猫",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951974+00:00"
+    ]
   },
   {
     "id": "held_prop_companion_plush_toy",
@@ -1342,9 +1244,7 @@
       "手持道具",
       "伙伴",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951978+00:00"
+    ]
   },
   {
     "id": "held_prop_occupational_katana",
@@ -1369,9 +1269,7 @@
       "手持道具",
       "职业",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951981+00:00"
+    ]
   },
   {
     "id": "held_prop_occupational_pointer_stick",
@@ -1396,9 +1294,7 @@
       "手持道具",
       "职业",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951985+00:00"
+    ]
   },
   {
     "id": "held_prop_occupational_gavel",
@@ -1423,9 +1319,7 @@
       "手持道具",
       "职业",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951988+00:00"
+    ]
   },
   {
     "id": "held_prop_occupational_wine_bottle",
@@ -1450,9 +1344,7 @@
       "手持道具",
       "职业",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951991+00:00"
+    ]
   },
   {
     "id": "held_prop_occupational_lantern",
@@ -1477,9 +1369,7 @@
       "手持道具",
       "职业",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951995+00:00"
+    ]
   },
   {
     "id": "held_prop_occupational_flashlight",
@@ -1504,9 +1394,7 @@
       "手持道具",
       "职业",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.951998+00:00"
+    ]
   },
   {
     "id": "held_prop_occupational_compass",
@@ -1531,9 +1419,7 @@
       "手持道具",
       "职业",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.017365+00:00"
+    ]
   },
   {
     "id": "held_prop_occupational_bow_and_arrow",
@@ -1559,9 +1445,7 @@
       "职业",
       "拉弓搭箭",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.017370+00:00"
+    ]
   },
   {
     "id": "held_prop_occupational_shield",
@@ -1586,9 +1470,7 @@
       "手持道具",
       "职业",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.017374+00:00"
+    ]
   },
   {
     "id": "held_prop_occupational_work_gloves",
@@ -1613,8 +1495,173 @@
       "手持道具",
       "职业",
       "nodaro"
+    ]
+  },
+  {
+    "id": "held_prop_glass_wine",
+    "term": "holding a wine glass elegantly",
+    "term_zh": "优雅持酒杯",
+    "subcategory": "drink",
+    "labels": [
+      "wine-glass",
+      "holding",
+      "elegant",
+      "prop"
     ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.017378+00:00"
+    "labels_zh": [
+      "手持道具",
+      "酒杯",
+      "优雅"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "product",
+      "lifestyle"
+    ],
+    "created_at": "2026-10-05T22:03:34.340936+00:00",
+    "category": "held-prop"
+  },
+  {
+    "id": "held_prop_candle_warm",
+    "term": "candle flickering warm glow",
+    "term_zh": "烛光摇曳暖光",
+    "subcategory": "floral-nature",
+    "labels": [
+      "candle",
+      "flickering",
+      "warm-glow",
+      "ambient"
+    ],
+    "labels_zh": [
+      "手持道具",
+      "蜡烛",
+      "摇曳",
+      "暖光"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "ambient",
+      "product"
+    ],
+    "created_at": "2026-10-05T22:03:34.340936+00:00",
+    "category": "held-prop"
+  },
+  {
+    "id": "held_prop_book_open",
+    "term": "open leather-bound vintage book",
+    "term_zh": "翻开的皮质古籍",
+    "subcategory": "reading-writing",
+    "labels": [
+      "open",
+      "leather-bound",
+      "vintage",
+      "book"
+    ],
+    "labels_zh": [
+      "手持道具",
+      "翻开的",
+      "古籍",
+      "书"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "literature",
+      "vintage"
+    ],
+    "created_at": "2026-10-05T22:03:34.340936+00:00",
+    "category": "held-prop"
+  },
+  {
+    "id": "held_prop_flower_single",
+    "term": "single blooming rose in hand",
+    "term_zh": "手中单朵绽放玫瑰",
+    "subcategory": "floral-nature",
+    "labels": [
+      "single",
+      "blooming",
+      "rose",
+      "hand-held"
+    ],
+    "labels_zh": [
+      "手持道具",
+      "单朵",
+      "玫瑰",
+      "手中"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "romantic",
+      "product"
+    ],
+    "created_at": "2026-10-05T22:03:34.340936+00:00",
+    "category": "held-prop"
+  },
+  {
+    "id": "held_prop_megaphone",
+    "term": "shouting through a brass megaphone",
+    "term_zh": "通过黄铜扩音器喊话",
+    "subcategory": "device",
+    "labels": [
+      "megaphone",
+      "brass",
+      "shouting",
+      "projection"
+    ],
+    "labels_zh": [
+      "手持道具",
+      "扩音器",
+      "黄铜",
+      "喊话"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "retro",
+      "public"
+    ],
+    "created_at": "2026-10-05T22:03:34.340936+00:00",
+    "category": "held-prop"
+  },
+  {
+    "id": "held_prop_tea_ceremony",
+    "term": "traditional tea ceremony pouring",
+    "term_zh": "传统茶道注水",
+    "subcategory": "drink",
+    "labels": [
+      "tea-ceremony",
+      "pouring",
+      "traditional",
+      "ceremony"
+    ],
+    "labels_zh": [
+      "手持道具",
+      "茶道",
+      "注水",
+      "传统"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "cultural",
+      "product"
+    ],
+    "created_at": "2026-10-05T22:03:34.340936+00:00",
+    "category": "held-prop"
   }
 ]

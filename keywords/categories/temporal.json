@@ -23,9 +23,7 @@
       "速度",
       "实时回放",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.026261+00:00"
+    ]
   },
   {
     "id": "temporal_speed_slow_motion",
@@ -51,9 +49,7 @@
       "速度",
       "慢动作",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.026272+00:00"
+    ]
   },
   {
     "id": "temporal_speed_super_slow_mo",
@@ -78,9 +74,7 @@
       "时间效果",
       "速度",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.026277+00:00"
+    ]
   },
   {
     "id": "temporal_speed_time_lapse",
@@ -106,9 +100,7 @@
       "速度",
       "延时摄影",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.026281+00:00"
+    ]
   },
   {
     "id": "temporal_speed_hyper_lapse",
@@ -133,9 +125,7 @@
       "时间效果",
       "速度",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.026284+00:00"
+    ]
   },
   {
     "id": "temporal_speed_speed_ramp",
@@ -161,9 +151,7 @@
       "速度",
       "速度渐变",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.026288+00:00"
+    ]
   },
   {
     "id": "temporal_freeze_full_freeze",
@@ -189,9 +177,7 @@
       "冻结",
       "定格帧",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.026292+00:00"
+    ]
   },
   {
     "id": "temporal_freeze_bullet_time",
@@ -216,9 +202,7 @@
       "时间效果",
       "冻结",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.026295+00:00"
+    ]
   },
   {
     "id": "temporal_freeze_frozen_subject",
@@ -243,9 +227,7 @@
       "时间效果",
       "冻结",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.026299+00:00"
+    ]
   },
   {
     "id": "temporal_freeze_moving_subject",
@@ -270,9 +252,7 @@
       "时间效果",
       "冻结",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.026302+00:00"
+    ]
   },
   {
     "id": "temporal_direction_forward",
@@ -298,9 +278,7 @@
       "方向",
       "正向回放",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.026306+00:00"
+    ]
   },
   {
     "id": "temporal_direction_reverse",
@@ -326,9 +304,7 @@
       "方向",
       "倒放",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.026309+00:00"
+    ]
   },
   {
     "id": "temporal_direction_loop_boomerang",
@@ -353,9 +329,7 @@
       "时间效果",
       "方向",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.026313+00:00"
+    ]
   },
   {
     "id": "temporal_shutter_long_exposure",
@@ -380,9 +354,7 @@
       "时间效果",
       "快门",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.026316+00:00"
+    ]
   },
   {
     "id": "temporal_shutter_crisp_shutter",
@@ -407,9 +379,7 @@
       "时间效果",
       "快门",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.026319+00:00"
+    ]
   },
   {
     "id": "temporal_shutter_motion_blur",
@@ -434,9 +404,7 @@
       "时间效果",
       "快门",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.026323+00:00"
+    ]
   },
   {
     "id": "temporal_shutter_stutter_strobe",
@@ -461,9 +429,7 @@
       "时间效果",
       "快门",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.026326+00:00"
+    ]
   },
   {
     "id": "temporal_shutter_stop_motion",
@@ -488,8 +454,312 @@
       "时间效果",
       "快门",
       "nodaro"
+    ]
+  },
+  {
+    "id": "temporal_speed_braam",
+    "term": "slow-motion braam",
+    "term_zh": "慢动作布拉姆效果",
+    "subcategory": "speed",
+    "labels": [
+      "slow-motion",
+      "braam",
+      "speed"
     ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:25.026330+00:00"
+    "labels_zh": [
+      "时间效果",
+      "慢动作",
+      "布拉姆"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "video",
+      "nodaro"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "temporal"
+  },
+  {
+    "id": "temporal_speed_timelapse",
+    "term": "time-lapse sequence",
+    "term_zh": "延时摄影序列",
+    "subcategory": "speed",
+    "labels": [
+      "time-lapse",
+      "fast-forward",
+      "speed"
+    ],
+    "labels_zh": [
+      "时间效果",
+      "延时摄影",
+      "快进"
+    ],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "video"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "temporal"
+  },
+  {
+    "id": "temporal_speed_hyperlapse",
+    "term": "hyperlapse movement",
+    "term_zh": "移动延时摄影",
+    "subcategory": "speed",
+    "labels": [
+      "hyperlapse",
+      "tracking",
+      "speed"
+    ],
+    "labels_zh": [
+      "时间效果",
+      "移动延时",
+      "跟踪"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "video"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "temporal"
+  },
+  {
+    "id": "temporal_speed_undercranked",
+    "term": "undercranked footage",
+    "term_zh": "欠帧拍摄效果",
+    "subcategory": "speed",
+    "labels": [
+      "undercranked",
+      "strobing",
+      "fast"
+    ],
+    "labels_zh": [
+      "时间效果",
+      "欠帧",
+      "快速"
+    ],
+    "score": 0.75,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "video"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "temporal"
+  },
+  {
+    "id": "temporal_speed_overcranked",
+    "term": "overcranked footage",
+    "term_zh": "过帧拍摄效果",
+    "subcategory": "speed",
+    "labels": [
+      "overcranked",
+      "super slow-mo",
+      "slow"
+    ],
+    "labels_zh": [
+      "时间效果",
+      "过帧",
+      "超慢动作"
+    ],
+    "score": 0.75,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "video"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "temporal"
+  },
+  {
+    "id": "temporal_speed_freeze_frame",
+    "term": "freeze frame hold",
+    "term_zh": "定格画面",
+    "subcategory": "freeze",
+    "labels": [
+      "freeze-frame",
+      "pause",
+      "still"
+    ],
+    "labels_zh": [
+      "时间效果",
+      "定格",
+      "静止"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "video",
+      "comedy"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "temporal"
+  },
+  {
+    "id": "temporal_speed_ramp_speed",
+    "term": "speed ramp transition",
+    "term_zh": "变速过渡效果",
+    "subcategory": "speed",
+    "labels": [
+      "speed-ramp",
+      "变速",
+      "dynamic"
+    ],
+    "labels_zh": [
+      "时间效果",
+      "变速",
+      "动态"
+    ],
+    "score": 0.85,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "video"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "temporal"
+  },
+  {
+    "id": "temporal_speed_reverse_motion",
+    "term": "reverse motion blur",
+    "term_zh": "反向运动模糊",
+    "subcategory": "direction",
+    "labels": [
+      "reverse",
+      "rewind",
+      "backward"
+    ],
+    "labels_zh": [
+      "时间效果",
+      "反向",
+      "倒放"
+    ],
+    "score": 0.75,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "video"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "temporal"
+  },
+  {
+    "id": "temporal_speed_liquify",
+    "term": "liquid morphing time",
+    "term_zh": "液化变形时间效果",
+    "subcategory": "freeze",
+    "labels": [
+      "liquid",
+      "morphing",
+      "time-warp"
+    ],
+    "labels_zh": [
+      "时间效果",
+      "液化",
+      "时间扭曲"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "video",
+      "experimental"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "temporal"
+  },
+  {
+    "id": "temporal_motion_blur_trailing",
+    "term": "motion blur trailing",
+    "term_zh": "运动拖影模糊",
+    "subcategory": "shutter",
+    "labels": [
+      "motion-blur",
+      "trailing",
+      "streak"
+    ],
+    "labels_zh": [
+      "时间效果",
+      "运动模糊",
+      "拖影"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "video",
+      "speed"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "temporal"
+  },
+  {
+    "id": "temporal_shutter_waterdrop",
+    "term": "high-speed water droplet freeze",
+    "term_zh": "高速水珠凝固",
+    "subcategory": "freeze",
+    "labels": [
+      "high-speed",
+      "water-droplet",
+      "freeze"
+    ],
+    "labels_zh": [
+      "时间效果",
+      "高速",
+      "水珠凝固"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "product",
+      "photography"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "temporal"
+  },
+  {
+    "id": "temporal_shutter_chromatic_aura",
+    "term": "chromatic time trail",
+    "term_zh": "色散时间拖尾",
+    "subcategory": "freeze",
+    "labels": [
+      "chromatic",
+      "time-trail",
+      "afterimage"
+    ],
+    "labels_zh": [
+      "时间效果",
+      "色散",
+      "残影"
+    ],
+    "score": 0.75,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "experimental",
+      "video"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "temporal"
   }
 ]

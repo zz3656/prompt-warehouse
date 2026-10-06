@@ -23,9 +23,7 @@
       "织物",
       "丝绸制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960416+00:00"
+    ]
   },
   {
     "id": "material_fabric_cotton",
@@ -51,9 +49,7 @@
       "织物",
       "棉制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960422+00:00"
+    ]
   },
   {
     "id": "material_fabric_denim",
@@ -78,9 +74,7 @@
       "材质",
       "织物",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960426+00:00"
+    ]
   },
   {
     "id": "material_fabric_leather",
@@ -106,9 +100,7 @@
       "织物",
       "皮革制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960430+00:00"
+    ]
   },
   {
     "id": "material_fabric_velvet",
@@ -134,9 +126,7 @@
       "织物",
       "天鹅绒制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960434+00:00"
+    ]
   },
   {
     "id": "material_fabric_satin",
@@ -162,9 +152,7 @@
       "织物",
       "缎制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960438+00:00"
+    ]
   },
   {
     "id": "material_fabric_lace",
@@ -190,9 +178,7 @@
       "织物",
       "蕾丝制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960441+00:00"
+    ]
   },
   {
     "id": "material_fabric_wool",
@@ -218,9 +204,7 @@
       "织物",
       "羊毛制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960445+00:00"
+    ]
   },
   {
     "id": "material_fabric_linen",
@@ -246,9 +230,7 @@
       "织物",
       "亚麻制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960449+00:00"
+    ]
   },
   {
     "id": "material_fabric_tweed",
@@ -274,9 +256,7 @@
       "织物",
       "粗花呢制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.029012+00:00"
+    ]
   },
   {
     "id": "material_fabric_cashmere",
@@ -302,9 +282,7 @@
       "织物",
       "羊绒制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960452+00:00"
+    ]
   },
   {
     "id": "material_fabric_chiffon",
@@ -330,9 +308,7 @@
       "织物",
       "雪纺制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960456+00:00"
+    ]
   },
   {
     "id": "material_fabric_fur",
@@ -358,9 +334,7 @@
       "织物",
       "毛皮制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960460+00:00"
+    ]
   },
   {
     "id": "material_fabric_suede",
@@ -386,9 +360,7 @@
       "织物",
       "麂皮制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.029025+00:00"
+    ]
   },
   {
     "id": "material_fabric_mesh",
@@ -414,9 +386,7 @@
       "织物",
       "薄纱制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.029030+00:00"
+    ]
   },
   {
     "id": "material_fabric_patent_leather",
@@ -442,9 +412,7 @@
       "织物",
       "漆皮制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.029035+00:00"
+    ]
   },
   {
     "id": "material_metal_gold",
@@ -470,9 +438,7 @@
       "金属",
       "魔光金制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960463+00:00"
+    ]
   },
   {
     "id": "material_metal_silver",
@@ -498,9 +464,7 @@
       "金属",
       "魔光银制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960467+00:00"
+    ]
   },
   {
     "id": "material_metal_bronze",
@@ -525,9 +489,7 @@
       "材质",
       "金属",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960471+00:00"
+    ]
   },
   {
     "id": "material_metal_chrome",
@@ -553,9 +515,7 @@
       "金属",
       "魔光铬制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960474+00:00"
+    ]
   },
   {
     "id": "material_metal_copper",
@@ -580,9 +540,7 @@
       "材质",
       "金属",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960478+00:00"
+    ]
   },
   {
     "id": "material_metal_brass",
@@ -608,9 +566,7 @@
       "金属",
       "古黄铜制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960481+00:00"
+    ]
   },
   {
     "id": "material_metal_steel",
@@ -635,9 +591,7 @@
       "材质",
       "金属",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960485+00:00"
+    ]
   },
   {
     "id": "material_metal_iron",
@@ -663,9 +617,7 @@
       "金属",
       "熟铁",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.123065+00:00"
+    ]
   },
   {
     "id": "material_metal_platinum",
@@ -690,9 +642,7 @@
       "材质",
       "金属",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.029040+00:00"
+    ]
   },
   {
     "id": "material_metal_titanium",
@@ -718,9 +668,7 @@
       "金属",
       "哑光钛制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.029044+00:00"
+    ]
   },
   {
     "id": "material_stone_marble",
@@ -745,9 +693,7 @@
       "材质",
       "石材",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960489+00:00"
+    ]
   },
   {
     "id": "material_stone_granite",
@@ -772,9 +718,7 @@
       "材质",
       "石材",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960492+00:00"
+    ]
   },
   {
     "id": "material_stone_obsidian",
@@ -799,9 +743,7 @@
       "材质",
       "石材",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960495+00:00"
+    ]
   },
   {
     "id": "material_stone_sandstone",
@@ -826,9 +768,7 @@
       "材质",
       "石材",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960499+00:00"
+    ]
   },
   {
     "id": "material_stone_slate",
@@ -854,9 +794,7 @@
       "石材",
       "板岩制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960502+00:00"
+    ]
   },
   {
     "id": "material_stone_jade",
@@ -882,9 +820,7 @@
       "石材",
       "魔光玉制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960506+00:00"
+    ]
   },
   {
     "id": "material_stone_onyx",
@@ -909,9 +845,7 @@
       "材质",
       "石材",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.035469+00:00"
+    ]
   },
   {
     "id": "material_stone_concrete",
@@ -937,9 +871,7 @@
       "石材",
       "混泥土制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960510+00:00"
+    ]
   },
   {
     "id": "material_stone_terrazzo",
@@ -964,9 +896,7 @@
       "材质",
       "石材",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.029049+00:00"
+    ]
   },
   {
     "id": "material_wood_oak",
@@ -992,9 +922,7 @@
       "木材",
       "橡木制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960513+00:00"
+    ]
   },
   {
     "id": "material_wood_mahogany",
@@ -1019,9 +947,7 @@
       "材质",
       "木材",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960517+00:00"
+    ]
   },
   {
     "id": "material_wood_walnut",
@@ -1047,9 +973,7 @@
       "木材",
       "胡桃木制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960520+00:00"
+    ]
   },
   {
     "id": "material_wood_bamboo",
@@ -1075,9 +999,7 @@
       "木材",
       "竹制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960524+00:00"
+    ]
   },
   {
     "id": "material_wood_birch",
@@ -1103,9 +1025,7 @@
       "木材",
       "桦木制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960528+00:00"
+    ]
   },
   {
     "id": "material_wood_driftwood",
@@ -1130,9 +1050,7 @@
       "材质",
       "木材",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960531+00:00"
+    ]
   },
   {
     "id": "material_glass_ceramic_glass",
@@ -1157,9 +1075,7 @@
       "材质",
       "玻璃陶瓷",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960535+00:00"
+    ]
   },
   {
     "id": "material_glass_ceramic_stained_glass",
@@ -1184,9 +1100,7 @@
       "材质",
       "玻璃陶瓷",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960538+00:00"
+    ]
   },
   {
     "id": "material_glass_ceramic_crystal",
@@ -1211,9 +1125,7 @@
       "材质",
       "玻璃陶瓷",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960542+00:00"
+    ]
   },
   {
     "id": "material_glass_ceramic_porcelain",
@@ -1239,9 +1151,7 @@
       "玻璃陶瓷",
       "瓷器制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960545+00:00"
+    ]
   },
   {
     "id": "material_glass_ceramic_ceramic_glazed",
@@ -1267,9 +1177,7 @@
       "玻璃陶瓷",
       "釉陶瓷制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960549+00:00"
+    ]
   },
   {
     "id": "material_glass_ceramic_terracotta",
@@ -1294,9 +1202,7 @@
       "材质",
       "玻璃陶瓷",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960552+00:00"
+    ]
   },
   {
     "id": "material_natural_water",
@@ -1322,9 +1228,7 @@
       "天然",
       "流水制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960556+00:00"
+    ]
   },
   {
     "id": "material_natural_fire",
@@ -1350,9 +1254,7 @@
       "天然",
       "活焰制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960560+00:00"
+    ]
   },
   {
     "id": "material_natural_ice",
@@ -1378,9 +1280,7 @@
       "天然",
       "结晶冰制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960563+00:00"
+    ]
   },
   {
     "id": "material_natural_smoke",
@@ -1406,9 +1306,7 @@
       "天然",
       "漂烟制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960567+00:00"
+    ]
   },
   {
     "id": "material_natural_sand",
@@ -1434,9 +1332,7 @@
       "天然",
       "细沙制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960570+00:00"
+    ]
   },
   {
     "id": "material_natural_moss",
@@ -1462,9 +1358,7 @@
       "天然",
       "活苔制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960574+00:00"
+    ]
   },
   {
     "id": "material_natural_leaves",
@@ -1489,9 +1383,7 @@
       "材质",
       "天然",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960577+00:00"
+    ]
   },
   {
     "id": "material_exotic_holographic",
@@ -1516,9 +1408,7 @@
       "材质",
       " exotic",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960581+00:00"
+    ]
   },
   {
     "id": "material_exotic_liquid_metal",
@@ -1543,9 +1433,7 @@
       "材质",
       " exotic",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960584+00:00"
+    ]
   },
   {
     "id": "material_exotic_neon",
@@ -1570,9 +1458,7 @@
       "材质",
       " exotic",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960588+00:00"
+    ]
   },
   {
     "id": "material_exotic_translucent",
@@ -1597,9 +1483,7 @@
       "材质",
       " exotic",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960591+00:00"
+    ]
   },
   {
     "id": "material_exotic_subsurface",
@@ -1624,9 +1508,7 @@
       "材质",
       " exotic",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960595+00:00"
+    ]
   },
   {
     "id": "material_exotic_mirror",
@@ -1651,9 +1533,7 @@
       "材质",
       " exotic",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960598+00:00"
+    ]
   },
   {
     "id": "material_exotic_plasma",
@@ -1678,9 +1558,7 @@
       "材质",
       " exotic",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960601+00:00"
+    ]
   },
   {
     "id": "material_exotic_crystal_shard",
@@ -1705,9 +1583,7 @@
       "材质",
       " exotic",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960605+00:00"
+    ]
   },
   {
     "id": "material_exotic_obsidian_glass",
@@ -1732,9 +1608,7 @@
       "材质",
       " exotic",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960608+00:00"
+    ]
   },
   {
     "id": "material_exotic_iridescent",
@@ -1759,9 +1633,7 @@
       "材质",
       " exotic",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960612+00:00"
+    ]
   },
   {
     "id": "material_exotic_mother_of_pearl",
@@ -1787,9 +1659,7 @@
       " exotic",
       "珠母贝制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960615+00:00"
+    ]
   },
   {
     "id": "material_exotic_carbon_fiber",
@@ -1815,9 +1685,7 @@
       " exotic",
       "碳纤维",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.123077+00:00"
+    ]
   },
   {
     "id": "material_exotic_holographic_film",
@@ -1843,8 +1711,6 @@
       " exotic",
       "全息膜制",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.960619+00:00"
+    ]
   }
 ]

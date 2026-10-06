@@ -28,9 +28,7 @@
       "灯光",
       "逆光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.314917+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_cinematic_lighting",
@@ -60,9 +58,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954258+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_direct_sunlight",
@@ -93,9 +89,7 @@
       "灯光",
       "直射阳光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832765+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_frontlight",
@@ -126,9 +120,7 @@
       "灯光",
       "前光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.014937+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_godrays",
@@ -159,9 +151,7 @@
       "灯光",
       "神光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954264+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_moody_lighting",
@@ -192,9 +182,7 @@
       "灯光",
       "情绪照明",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954268+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_rim_lighting",
@@ -225,9 +213,7 @@
       "灯光",
       "轮廓光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.314925+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_rim_lights",
@@ -258,9 +244,7 @@
       "灯光",
       "轮廓光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.314929+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_spotlight",
@@ -291,9 +275,7 @@
       "灯光",
       "聚光灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954272+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_sunlight",
@@ -324,9 +306,7 @@
       "灯光",
       "阳光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.014948+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_volumetric",
@@ -357,9 +337,7 @@
       "灯光",
       "体积",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.014952+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_volumetric_lighting",
@@ -390,9 +368,7 @@
       "灯光",
       "体积光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.314933+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_volumetric_haze",
@@ -424,9 +400,7 @@
       "特效光",
       "体积雾",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832779+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_7_segment_display",
@@ -456,9 +430,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832783+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_accent_lighting",
@@ -489,9 +461,7 @@
       "灯光",
       "重点照明",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.014957+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_amoled",
@@ -521,9 +491,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.014962+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_arc_lamp",
@@ -554,9 +522,7 @@
       "灯光",
       "弧光灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832788+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_argand_lamp",
@@ -587,9 +553,7 @@
       "灯光",
       "阿尔甘灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832792+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_argon_flash",
@@ -620,9 +584,7 @@
       "灯光",
       "氩闪光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832796+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_argon_lamp",
@@ -653,9 +615,7 @@
       "灯光",
       "氩灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832800+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_artificial_lighting",
@@ -685,9 +645,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954277+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_beautiful_lighting",
@@ -718,9 +676,7 @@
       "灯光",
       "美丽照明",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.302035+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_blacklight",
@@ -751,9 +707,7 @@
       "灯光",
       "逆光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.314938+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_blinding_light",
@@ -784,9 +738,7 @@
       "灯光",
       "耀眼强光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832805+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_bright",
@@ -817,9 +769,7 @@
       "灯光",
       "明亮",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.314942+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_bubble_light",
@@ -850,9 +800,7 @@
       "灯光",
       "泡泡光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:39:25.252093+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_candlelight",
@@ -883,9 +831,7 @@
       "灯光",
       "烛光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.314946+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_carbide_lamp",
@@ -916,9 +862,7 @@
       "灯光",
       "电石灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832809+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_caustic_lighting",
@@ -949,9 +893,7 @@
       "灯光",
       "焦散光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832812+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_cfl",
@@ -982,9 +924,7 @@
       "灯光",
       "荧光灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.014968+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_cfl_light",
@@ -1015,9 +955,7 @@
       "灯光",
       "荧光灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.014972+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_christmas_lights",
@@ -1048,9 +986,7 @@
       "灯光",
       "圣诞灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832816+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_coleman_lantern",
@@ -1081,9 +1017,7 @@
       "灯光",
       "灯笼",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832821+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_concert_lighting",
@@ -1113,9 +1047,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.014976+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_contre_jour",
@@ -1146,9 +1078,7 @@
       "灯光",
       "逆光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832825+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_cove_lighting",
@@ -1179,9 +1109,7 @@
       "灯光",
       "凹槽灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832829+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_crackle_tube",
@@ -1211,9 +1139,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832832+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_crepuscular_rays",
@@ -1243,9 +1169,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954282+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_crt",
@@ -1277,9 +1201,7 @@
       "CRT",
       "显示器",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.014981+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_dark_lighting",
@@ -1310,9 +1232,7 @@
       "灯光",
       "黑暗闪电",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954286+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_dekatron",
@@ -1343,9 +1263,7 @@
       "灯光",
       "十进制管",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.014985+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_dim",
@@ -1376,9 +1294,7 @@
       "灯光",
       "昏暗",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.014989+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_dim_lighting",
@@ -1409,9 +1325,7 @@
       "灯光",
       "轮廓光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.314951+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_diya_lamp",
@@ -1442,9 +1356,7 @@
       "灯光",
       "油灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832837+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_dj_lighting",
@@ -1475,9 +1387,7 @@
       "灯光",
       "轮廓光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954290+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_dot_matrix_display",
@@ -1507,9 +1417,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.398269+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_downlighting",
@@ -1540,9 +1448,7 @@
       "灯光",
       "向下照明",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.014993+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_dye_laser",
@@ -1573,9 +1479,7 @@
       "灯光",
       "染料激光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832841+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_edison_bulb",
@@ -1605,9 +1509,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832844+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_electric_arc",
@@ -1638,9 +1540,7 @@
       "灯光",
       "电弧",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832848+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_electrodeless_lamp",
@@ -1671,9 +1571,7 @@
       "灯光",
       "无电极灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832851+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_electroluminescent_display",
@@ -1703,9 +1601,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832855+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_electroluminescent_wire",
@@ -1735,9 +1631,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832859+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_electromagnetic_spectrum",
@@ -1768,9 +1662,7 @@
       "灯光",
       "电磁波谱",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832862+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_ember_light",
@@ -1801,9 +1693,7 @@
       "灯光",
       "余烬光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832866+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_epic_light",
@@ -1834,9 +1724,7 @@
       "灯光",
       "史诗光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.398278+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_ethereal_lighting",
@@ -1867,9 +1755,7 @@
       "灯光",
       "空灵闪电",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954294+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_flare",
@@ -1900,9 +1786,7 @@
       "灯光",
       "眩光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.014997+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_flash_lamp",
@@ -1932,9 +1816,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.398283+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_flashtube",
@@ -1965,9 +1847,7 @@
       "灯光",
       "闪光管",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.015001+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_flickering_light",
@@ -1998,9 +1878,7 @@
       "灯光",
       "闪烁光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.015005+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_floodlight",
@@ -2031,9 +1909,7 @@
       "灯光",
       "泛光灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.015009+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_fluorescent",
@@ -2064,9 +1940,7 @@
       "灯光",
       "荧光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832870+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_fluorescent_lamp",
@@ -2097,9 +1971,7 @@
       "灯光",
       "荧光灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832874+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_gas_lamp",
@@ -2130,9 +2002,7 @@
       "灯光",
       "气灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.398287+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_gas_laser",
@@ -2163,9 +2033,7 @@
       "灯光",
       "气体激光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832878+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_gas_mantle",
@@ -2196,9 +2064,7 @@
       "灯光",
       "汽灯罩",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832881+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_geissler_tube",
@@ -2229,9 +2095,7 @@
       "灯光",
       "盖斯勒管",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832885+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_global_illumination",
@@ -2262,9 +2126,7 @@
       "灯光",
       "全局光照",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.314957+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_glow_stick",
@@ -2295,9 +2157,7 @@
       "灯光",
       "荧光棒",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832889+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_glowing_nuclear_waste",
@@ -2327,9 +2187,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.398292+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_glowing_radioactivity",
@@ -2360,9 +2218,7 @@
       "灯光",
       "辐射发光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832893+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_gobo",
@@ -2393,9 +2249,7 @@
       "灯光",
       "遮光图案",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832896+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_gobo_light",
@@ -2426,9 +2280,7 @@
       "灯光",
       "图案灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832900+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_halfrear_lighting",
@@ -2459,9 +2311,7 @@
       "灯光",
       "背侧光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832903+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_halogen",
@@ -2492,9 +2342,7 @@
       "灯光",
       "卤素",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832907+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_halogen_lamp",
@@ -2525,9 +2373,7 @@
       "灯光",
       "卤素灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832911+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_hard_lighting",
@@ -2558,9 +2404,7 @@
       "灯光",
       "硬光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954300+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_helium_lamp",
@@ -2591,9 +2435,7 @@
       "灯光",
       "氦灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832914+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_high_key_lighting",
@@ -2623,9 +2465,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954303+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_hollow_cathode_lamp",
@@ -2655,9 +2495,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.398296+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_illuminated",
@@ -2688,9 +2526,7 @@
       "灯光",
       "被照亮",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832918+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_illumination",
@@ -2721,9 +2557,7 @@
       "灯光",
       "光照",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.398300+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_incandescent",
@@ -2754,9 +2588,7 @@
       "灯光",
       "白炽",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832922+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_incandescent_lamp",
@@ -2787,9 +2619,7 @@
       "灯光",
       "白炽灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832926+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_infrared",
@@ -2820,9 +2650,7 @@
       "灯光",
       "红外线",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832929+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_ion_laser",
@@ -2853,9 +2681,7 @@
       "灯光",
       "离子激光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832933+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_jumbotron",
@@ -2886,9 +2712,7 @@
       "灯光",
       "巨型屏幕",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832937+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_kerosene_lamp",
@@ -2919,9 +2743,7 @@
       "灯光",
       "煤油灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832941+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_krypton_lamp",
@@ -2952,9 +2774,7 @@
       "灯光",
       "氪灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832944+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_lantern",
@@ -2985,9 +2805,7 @@
       "灯光",
       "灯笼",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.314962+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_laser",
@@ -3018,9 +2836,7 @@
       "灯光",
       "激光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832948+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_laser_light_show",
@@ -3050,9 +2866,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832952+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_lava_lamp",
@@ -3083,9 +2897,7 @@
       "灯光",
       "熔岩灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.398305+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_lcd",
@@ -3116,9 +2928,7 @@
       "灯光",
       "LCD",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.302048+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_led",
@@ -3149,9 +2959,7 @@
       "灯光",
       "金色",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:22:18.110488+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_light_pollution",
@@ -3182,9 +2990,7 @@
       "灯光",
       "光污染",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832956+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_lighting",
@@ -3215,9 +3021,7 @@
       "灯光",
       "闪电",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.314967+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_lightspeed",
@@ -3248,9 +3052,7 @@
       "灯光",
       "光速",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832959+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_low_key_lighting",
@@ -3280,9 +3082,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954308+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_lumen_global_illumination",
@@ -3313,9 +3113,7 @@
       "灯光",
       "全局光照",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.314970+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_marquee",
@@ -3346,9 +3144,7 @@
       "灯光",
       "跑马灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832963+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_mercury_vapor_lamp",
@@ -3379,9 +3175,7 @@
       "灯光",
       "汞蒸气灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832967+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_metal_halide_lamp",
@@ -3411,9 +3205,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.398309+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_mood_lighting",
@@ -3444,9 +3236,7 @@
       "灯光",
       "情绪照明",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.028979+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_moonbeams",
@@ -3477,9 +3267,7 @@
       "灯光",
       "月光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954312+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_museum_lighting",
@@ -3509,9 +3297,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.398313+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_natural_lighting",
@@ -3541,9 +3327,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954316+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_neon_lamp",
@@ -3574,9 +3358,7 @@
       "灯光",
       "霓虹色灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.398316+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_nightclub",
@@ -3607,9 +3389,7 @@
       "灯光",
       "夜店",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832971+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_nightclub_lighting",
@@ -3640,9 +3420,7 @@
       "灯光",
       "夜店灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832975+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_nightlight",
@@ -3673,9 +3451,7 @@
       "灯光",
       "夜灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832979+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_nixie_tube",
@@ -3706,9 +3482,7 @@
       "灯光",
       "数码管",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832983+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_northern_lights",
@@ -3739,9 +3513,7 @@
       "灯光",
       "北极光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954320+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_nuclear_waste",
@@ -3772,9 +3544,7 @@
       "灯光",
       "核废料",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832986+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_oil_lamp",
@@ -3805,9 +3575,7 @@
       "灯光",
       "油灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832990+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_oled",
@@ -3838,9 +3606,7 @@
       "灯光",
       "金色",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.028988+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_optical_fiber",
@@ -3871,9 +3637,7 @@
       "灯光",
       "光纤",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832994+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_over_illumination",
@@ -3904,9 +3668,7 @@
       "灯光",
       "过度照明",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.832998+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_phosphor_display",
@@ -3936,9 +3698,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833002+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_photon_mapping",
@@ -3969,9 +3729,7 @@
       "灯光",
       "光子映射",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833005+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_plasma_display",
@@ -4001,9 +3759,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833009+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_plasma_globe",
@@ -4034,9 +3790,7 @@
       "灯光",
       "等离子球",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833012+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_plasma_lamp",
@@ -4067,9 +3821,7 @@
       "灯光",
       "等离子灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833016+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_quantum_dot",
@@ -4100,9 +3852,7 @@
       "灯光",
       "量子点",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833020+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_quantum_dot_display",
@@ -4132,9 +3882,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833023+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_radiant_light",
@@ -4165,9 +3913,7 @@
       "灯光",
       "辐射光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833027+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_ray_traced_shadows",
@@ -4197,9 +3943,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833031+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_ray_tracing_global_illumination",
@@ -4230,9 +3974,7 @@
       "灯光",
       "全局光照",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954325+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_rays_of_shimmering_light",
@@ -4263,9 +4005,7 @@
       "灯光",
       "环形灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.015018+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_rembrandt_lighting",
@@ -4296,9 +4036,7 @@
       "灯光",
       "伦勃朗光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.015022+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_rubens_tube",
@@ -4329,9 +4067,7 @@
       "灯光",
       "鲁本斯管",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833034+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_schwarz_lantern",
@@ -4362,9 +4098,7 @@
       "灯光",
       "灯笼",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833039+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_screen_space_global_illumination",
@@ -4395,9 +4129,7 @@
       "灯光",
       "全局光照",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954329+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_shadow",
@@ -4428,9 +4160,7 @@
       "灯光",
       "阴影",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.015026+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_shadows",
@@ -4461,9 +4191,7 @@
       "灯光",
       "阴影",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.015030+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_sodium_vapor_lamp",
@@ -4494,9 +4222,7 @@
       "灯光",
       "钠蒸气灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833043+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_soft_lighting",
@@ -4527,9 +4253,7 @@
       "灯光",
       "柔光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.314977+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_split_lighting",
@@ -4560,9 +4284,7 @@
       "灯光",
       "分裂光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.015034+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_starlight",
@@ -4593,9 +4315,7 @@
       "灯光",
       "星光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.314981+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_strobe",
@@ -4626,9 +4346,7 @@
       "灯光",
       "频闪",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833046+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_strobe_light",
@@ -4659,9 +4377,7 @@
       "灯光",
       "频闪灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.015037+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_stroboscope",
@@ -4692,9 +4408,7 @@
       "灯光",
       "频闪仪",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833050+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_studio_lighting",
@@ -4724,9 +4438,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.314985+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_sulfur_lamp",
@@ -4757,9 +4469,7 @@
       "灯光",
       "硫灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833054+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_sunbeams",
@@ -4790,9 +4500,7 @@
       "灯光",
       "阳光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954333+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_sunshaft",
@@ -4823,9 +4531,7 @@
       "灯光",
       "阳光光柱",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833058+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_sunshine_ray",
@@ -4856,9 +4562,7 @@
       "灯光",
       "阳光射线",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833061+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_tesla_coil",
@@ -4888,9 +4592,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833065+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_tilley_lamp",
@@ -4920,9 +4622,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833069+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_torch",
@@ -4953,9 +4653,7 @@
       "灯光",
       "火炬",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.015042+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_torch_light",
@@ -4986,9 +4684,7 @@
       "灯光",
       "火炬光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.015046+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_ultrabright",
@@ -5019,9 +4715,7 @@
       "灯光",
       "超亮",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833073+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_ultraviolet",
@@ -5052,9 +4746,7 @@
       "灯光",
       "紫外线",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833076+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_under_illumination",
@@ -5085,9 +4777,7 @@
       "灯光",
       "底部照明",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833080+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_uplighting",
@@ -5118,9 +4808,7 @@
       "灯光",
       "闪电",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.314990+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_uv",
@@ -5151,9 +4839,7 @@
       "灯光",
       "UV",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833085+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_vacuum_fluorescent_display",
@@ -5183,9 +4869,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833088+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_vacuum_tube_lamp",
@@ -5216,9 +4900,7 @@
       "灯光",
       "真空管灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833092+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_veiling_flare",
@@ -5249,9 +4931,7 @@
       "灯光",
       "面纱眩光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833096+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_waning_light",
@@ -5282,9 +4962,7 @@
       "灯光",
       "衰减光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833099+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_x_ray",
@@ -5314,9 +4992,7 @@
     "labels_zh": [
       "灯光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833103+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_lighting_xenon_lamp",
@@ -5347,9 +5023,7 @@
       "灯光",
       "氙灯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833107+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_amplitude_distortion",
@@ -5381,9 +5055,7 @@
       "特效光",
       "振幅失真",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833111+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_anaglyph",
@@ -5416,9 +5088,7 @@
       "立体",
       "3D",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833116+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_anti_aliasing",
@@ -5450,9 +5120,7 @@
       "特效光",
       "抗锯齿",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833119+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_autostereoscopy",
@@ -5484,9 +5152,7 @@
       "特效光",
       "自动立体",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833123+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_barrel_distortion",
@@ -5518,9 +5184,7 @@
       "特效光",
       "桶形畸变",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833127+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_blur",
@@ -5552,9 +5216,7 @@
       "特效光",
       "模糊",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833131+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_blur_effect",
@@ -5586,9 +5248,7 @@
       "特效光",
       "模糊效果",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833134+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_blurred",
@@ -5620,9 +5280,7 @@
       "特效光",
       "模糊",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833138+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_blurry",
@@ -5654,9 +5312,7 @@
       "特效光",
       "模糊",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.314995+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_cel_shading",
@@ -5687,9 +5343,7 @@
       "灯光",
       "特效光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.314998+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_cgi",
@@ -5721,9 +5375,7 @@
       "特效光",
       "CGI",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.302060+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_chromatic_aberration",
@@ -5755,9 +5407,7 @@
       "特效光",
       "色差",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954339+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_color_banding",
@@ -5789,9 +5439,7 @@
       "特效光",
       "色带",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833142+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_continuous_droste",
@@ -5822,9 +5470,7 @@
       "灯光",
       "特效光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833146+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_convolution_matrix",
@@ -5856,9 +5502,7 @@
       "特效光",
       "卷积矩阵",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833150+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_cropped",
@@ -5890,9 +5534,7 @@
       "特效光",
       "裁剪过度",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.315003+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_de_noise",
@@ -5924,9 +5566,7 @@
       "特效光",
       "降噪",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833154+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_diffraction_grading",
@@ -5958,9 +5598,7 @@
       "特效光",
       "衍射光栅",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833157+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_digitally_enhanced",
@@ -5992,9 +5630,7 @@
       "特效光",
       "数字增强",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833161+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_dilate",
@@ -6026,9 +5662,7 @@
       "特效光",
       "膨胀",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833165+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_distortion",
@@ -6060,9 +5694,7 @@
       "特效光",
       "失真",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833168+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_drifting",
@@ -6094,9 +5726,7 @@
       "特效光",
       "漂移",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833172+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_edge_detection",
@@ -6128,9 +5758,7 @@
       "特效光",
       "边缘检测",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833176+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_emboss",
@@ -6162,9 +5790,7 @@
       "特效光",
       "浮雕",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833179+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_erode",
@@ -6196,9 +5822,7 @@
       "特效光",
       "腐蚀",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833183+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_field_blur",
@@ -6230,9 +5854,7 @@
       "特效光",
       "场模糊",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833187+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_flat_shading",
@@ -6264,9 +5886,7 @@
       "特效光",
       "扁平上色",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.315008+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_frequency_response_distortion",
@@ -6297,9 +5917,7 @@
       "灯光",
       "特效光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833190+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_fxaa",
@@ -6331,9 +5949,7 @@
       "特效光",
       "FXAA",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833194+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_gaussian_blur",
@@ -6365,9 +5981,7 @@
       "特效光",
       "高斯模糊",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833198+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_glowing_edges",
@@ -6398,9 +6012,7 @@
       "灯光",
       "特效光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:22:18.110505+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_glsl_shaders",
@@ -6433,9 +6045,7 @@
       "GLSL",
       "着色器",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833202+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_gooch_shading",
@@ -6467,9 +6077,7 @@
       "特效光",
       "古奇着色",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833206+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_gouraud_shading",
@@ -6500,9 +6108,7 @@
       "灯光",
       "特效光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833210+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_group_delay_distortion",
@@ -6533,9 +6139,7 @@
       "灯光",
       "特效光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833214+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_harmonic_distortion",
@@ -6567,9 +6171,7 @@
       "特效光",
       "谐波失真",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833217+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_harris_shutter",
@@ -6600,9 +6202,7 @@
       "灯光",
       "特效光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833221+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_haze",
@@ -6634,9 +6234,7 @@
       "特效光",
       "薄雾",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833225+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_interlace",
@@ -6668,9 +6266,7 @@
       "特效光",
       "隔行扫描",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833228+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_interlaced",
@@ -6702,9 +6298,7 @@
       "特效光",
       "隔行",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833232+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_lenticular",
@@ -6736,9 +6330,7 @@
       "特效光",
       "光栅",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833236+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_lumen_reflections",
@@ -6770,9 +6362,7 @@
       "特效光",
       "流明反射",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833239+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_moire_patterns",
@@ -6804,9 +6394,7 @@
       "特效光",
       "摩尔纹",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833243+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_mordancage",
@@ -6837,9 +6425,7 @@
       "灯光",
       "特效光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833246+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_morph",
@@ -6871,9 +6457,7 @@
       "特效光",
       "变形",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833250+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_morphing",
@@ -6905,9 +6489,7 @@
       "特效光",
       "变形",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833254+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_motion",
@@ -6939,9 +6521,7 @@
       "特效光",
       "运动",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833257+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_motion_blur",
@@ -6973,9 +6553,7 @@
       "特效光",
       "动态模糊",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.315013+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_multiscopy",
@@ -7007,9 +6585,7 @@
       "特效光",
       "多视点",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833261+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_mustache_distortion",
@@ -7040,9 +6616,7 @@
       "灯光",
       "特效光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833265+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_opengl_shaders",
@@ -7074,9 +6648,7 @@
       "特效光",
       "着色器",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833269+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_oscillation",
@@ -7108,9 +6680,7 @@
       "特效光",
       "振荡",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833273+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_parallax",
@@ -7142,9 +6712,7 @@
       "特效光",
       "视差",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833276+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_phase_distortion",
@@ -7176,9 +6744,7 @@
       "特效光",
       "相位失真",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833280+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_phong_shading",
@@ -7210,9 +6776,7 @@
       "特效光",
       "冯氏着色",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833284+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_pincushion_distortion",
@@ -7244,9 +6808,7 @@
       "特效光",
       "枕形畸变",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833287+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_post_processing",
@@ -7278,9 +6840,7 @@
       "特效光",
       "后期处理",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833291+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_post_production",
@@ -7312,9 +6872,7 @@
       "特效光",
       "后期制作",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833295+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_posterization",
@@ -7346,9 +6904,7 @@
       "特效光",
       "色调分离",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833299+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_quantization",
@@ -7380,9 +6936,7 @@
       "特效光",
       "量化",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833302+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_quantum_wavetracing",
@@ -7413,9 +6967,7 @@
       "灯光",
       "特效光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833306+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_radial_blur",
@@ -7447,9 +6999,7 @@
       "特效光",
       "径向模糊",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833309+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_radial_distortion",
@@ -7481,9 +7031,7 @@
       "特效光",
       "径向畸变",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833313+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_ray_traced",
@@ -7515,9 +7063,7 @@
       "特效光",
       "光线追踪",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833317+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_ray_tracing_ambient_occlusion",
@@ -7548,9 +7094,7 @@
       "灯光",
       "特效光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954347+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_ray_tracing_reflections",
@@ -7582,9 +7126,7 @@
       "特效光",
       "光线追踪",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954351+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_recursion",
@@ -7616,9 +7158,7 @@
       "特效光",
       "递归",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833320+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_reflection_in_a_puddle",
@@ -7650,9 +7190,7 @@
       "特效光",
       "水洼倒影",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833324+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_repetition",
@@ -7684,9 +7222,7 @@
       "特效光",
       "重复",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833328+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_rgb_displacement",
@@ -7719,9 +7255,7 @@
       "RGB",
       "位移",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833332+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_rtx",
@@ -7753,9 +7287,7 @@
       "特效光",
       "RTX",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833336+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_sabattier_effect",
@@ -7786,9 +7318,7 @@
       "灯光",
       "特效光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833340+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_scan_lines",
@@ -7820,9 +7350,7 @@
       "特效光",
       "扫描线",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833343+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_screen_space_reflections",
@@ -7853,9 +7381,7 @@
       "灯光",
       "特效光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954355+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_sfx",
@@ -7887,9 +7413,7 @@
       "特效光",
       "特效",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833347+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_shaders",
@@ -7921,9 +7445,7 @@
       "特效光",
       "着色器",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.302070+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_sharpen",
@@ -7955,9 +7477,7 @@
       "特效光",
       "锐化",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833351+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_sharpened",
@@ -7989,9 +7509,7 @@
       "特效光",
       "已锐化",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833355+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_smudged",
@@ -8023,9 +7541,7 @@
       "特效光",
       "污点",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.029005+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_sobel_operator",
@@ -8057,9 +7573,7 @@
       "特效光",
       "算子",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833359+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_spherical_aberration",
@@ -8091,9 +7605,7 @@
       "特效光",
       "球面像差",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833362+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_spot_healing",
@@ -8125,9 +7637,7 @@
       "特效光",
       "污点修复",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833366+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_ssao",
@@ -8159,9 +7669,7 @@
       "特效光",
       "SSAO",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833370+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_starburst",
@@ -8193,9 +7701,7 @@
       "特效光",
       "星芒",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833374+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_stereoscopy",
@@ -8227,9 +7733,7 @@
       "特效光",
       "立体摄影",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833377+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_surface_blur",
@@ -8261,9 +7765,7 @@
       "特效光",
       "表面模糊",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833381+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_tessellated",
@@ -8295,9 +7797,7 @@
       "特效光",
       "镶嵌",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833385+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_textured",
@@ -8329,9 +7829,7 @@
       "特效光",
       "纹理",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833388+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_tilt_blur",
@@ -8363,9 +7861,7 @@
       "特效光",
       "倾斜模糊",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833392+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_tone_mapping",
@@ -8397,9 +7893,7 @@
       "特效光",
       "色调映射",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833396+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_tornadic",
@@ -8431,9 +7925,7 @@
       "特效光",
       "龙卷风状",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833399+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_tracers",
@@ -8465,9 +7957,7 @@
       "特效光",
       "拖尾",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833403+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_twisted_rays",
@@ -8499,9 +7989,7 @@
       "特效光",
       "扭曲光线",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833407+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_txaa",
@@ -8533,9 +8021,7 @@
       "特效光",
       "TXAA",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833411+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_vfx",
@@ -8567,9 +8053,7 @@
       "特效光",
       "视觉特效",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833414+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_volume",
@@ -8601,9 +8085,7 @@
       "特效光",
       "体积",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833418+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_sfx_water_reflection",
@@ -8635,9 +8117,7 @@
       "特效光",
       "水面反射",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833422+00:00"
+    ]
   },
   {
     "id": "lighting_special_atmospheric_haze",
@@ -8666,9 +8146,7 @@
       "灯光",
       "特殊光",
       "大气除雾"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.029011+00:00"
+    ]
   },
   {
     "id": "lighting_dynamic_aura_effect",
@@ -8697,9 +8175,7 @@
       "灯光",
       "动态光",
       "光环效果"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.020981+00:00"
+    ]
   },
   {
     "id": "lighting_natural_backlit",
@@ -8728,9 +8204,7 @@
       "灯光",
       "天然",
       "逆光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.315022+00:00"
+    ]
   },
   {
     "id": "lighting_special_bioluminescent_glow",
@@ -8759,9 +8233,7 @@
       "灯光",
       "特殊光",
       "生物发光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.020997+00:00"
+    ]
   },
   {
     "id": "lighting_mood_blue_hour",
@@ -8790,9 +8262,7 @@
       "灯光",
       "氛围光",
       "蓝调时刻"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.315026+00:00"
+    ]
   },
   {
     "id": "lighting_dynamic_cherry_blossoms_falling",
@@ -8821,9 +8291,7 @@
       "灯光",
       "动态光",
       "樱花"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954361+00:00"
+    ]
   },
   {
     "id": "lighting_dramatic_chiaroscuro",
@@ -8852,9 +8320,7 @@
       "灯光",
       "戏剧光",
       "明暗对照"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.315030+00:00"
+    ]
   },
   {
     "id": "lighting_dramatic_cinematic_lighting",
@@ -8882,9 +8348,7 @@
     "labels_zh": [
       "灯光",
       "戏剧光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954365+00:00"
+    ]
   },
   {
     "id": "lighting_mood_cold_atmosphere",
@@ -8913,9 +8377,7 @@
       "灯光",
       "氛围光",
       "寒冷氛围"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:39:25.252130+00:00"
+    ]
   },
   {
     "id": "lighting_mood_cool_blue_lighting",
@@ -8943,9 +8405,7 @@
     "labels_zh": [
       "灯光",
       "氛围光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954369+00:00"
+    ]
   },
   {
     "id": "lighting_mood_cool_moonlit_atmosphere",
@@ -8973,9 +8433,7 @@
     "labels_zh": [
       "灯光",
       "氛围光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.015060+00:00"
+    ]
   },
   {
     "id": "lighting_dynamic_crackle_effect",
@@ -9004,9 +8462,7 @@
       "灯光",
       "动态光",
       "闪光效果"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.021003+00:00"
+    ]
   },
   {
     "id": "lighting_mood_cyberpunk_lighting",
@@ -9034,9 +8490,7 @@
     "labels_zh": [
       "灯光",
       "氛围光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954373+00:00"
+    ]
   },
   {
     "id": "lighting_natural_dappled_sunlight",
@@ -9065,9 +8519,7 @@
       "灯光",
       "天然",
       "斑驳阳光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.021008+00:00"
+    ]
   },
   {
     "id": "lighting_mood_dark_atmosphere",
@@ -9096,9 +8548,7 @@
       "灯光",
       "氛围光",
       "黑暗氛围"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:39:25.252137+00:00"
+    ]
   },
   {
     "id": "lighting_natural_diffused_light",
@@ -9127,9 +8577,7 @@
       "灯光",
       "天然",
       "漫射光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954377+00:00"
+    ]
   },
   {
     "id": "lighting_dramatic_dramatic_lighting",
@@ -9158,9 +8606,7 @@
       "灯光",
       "戏剧光",
       "戏剧照明"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954380+00:00"
+    ]
   },
   {
     "id": "lighting_dynamic_dust_particles_in_air",
@@ -9189,9 +8635,7 @@
       "灯光",
       "动态光",
       "尘埃粒子"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954384+00:00"
+    ]
   },
   {
     "id": "lighting_dynamic_electric_sparks",
@@ -9220,9 +8664,7 @@
       "灯光",
       "动态光",
       "电火花"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.021012+00:00"
+    ]
   },
   {
     "id": "lighting_dynamic_energy_glow",
@@ -9251,9 +8693,7 @@
       "灯光",
       "动态光",
       "能量发光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.398334+00:00"
+    ]
   },
   {
     "id": "lighting_mood_ethereal_glow",
@@ -9282,9 +8722,7 @@
       "灯光",
       "氛围光",
       "空灵发光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954388+00:00"
+    ]
   },
   {
     "id": "lighting_natural_even_lighting",
@@ -9313,9 +8751,7 @@
       "灯光",
       "天然",
       "均匀照明"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954391+00:00"
+    ]
   },
   {
     "id": "lighting_dynamic_fire_particles",
@@ -9344,9 +8780,7 @@
       "灯光",
       "动态光",
       "火焰粒子"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.021017+00:00"
+    ]
   },
   {
     "id": "lighting_dynamic_flames",
@@ -9375,9 +8809,7 @@
       "灯光",
       "动态光",
       "火焰"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.315035+00:00"
+    ]
   },
   {
     "id": "lighting_mood_flat_even_light",
@@ -9405,9 +8837,7 @@
     "labels_zh": [
       "灯光",
       "氛围光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.302078+00:00"
+    ]
   },
   {
     "id": "lighting_dynamic_floating_embers",
@@ -9436,9 +8866,7 @@
       "灯光",
       "动态光",
       "飘浮余烬"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.021021+00:00"
+    ]
   },
   {
     "id": "lighting_dynamic_flying_petals",
@@ -9467,9 +8895,7 @@
       "灯光",
       "动态光",
       "飘飞花瓣"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:13:04.890382+00:00"
+    ]
   },
   {
     "id": "lighting_special_fog",
@@ -9497,9 +8923,7 @@
     "labels_zh": [
       "灯光",
       "特殊光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.315039+00:00"
+    ]
   },
   {
     "id": "lighting_special_glittering",
@@ -9528,9 +8952,7 @@
       "灯光",
       "特殊光",
       "闪光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.021025+00:00"
+    ]
   },
   {
     "id": "lighting_special_glowing",
@@ -9559,9 +8981,7 @@
       "灯光",
       "特殊光",
       "发光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.315043+00:00"
+    ]
   },
   {
     "id": "lighting_dynamic_glowing_runes",
@@ -9590,9 +9010,7 @@
       "灯光",
       "动态光",
       "发光符文"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:13:04.890401+00:00"
+    ]
   },
   {
     "id": "lighting_natural_god_rays",
@@ -9621,9 +9039,7 @@
       "灯光",
       "天然",
       "神光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.315046+00:00"
+    ]
   },
   {
     "id": "lighting_dramatic_god_rays_through_window",
@@ -9652,9 +9068,7 @@
       "灯光",
       "戏剧光",
       "神光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954396+00:00"
+    ]
   },
   {
     "id": "lighting_natural_golden_hour",
@@ -9683,9 +9097,7 @@
       "灯光",
       "天然",
       "黄金时段"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.315050+00:00"
+    ]
   },
   {
     "id": "lighting_dramatic_half_in_shadow",
@@ -9713,9 +9125,7 @@
     "labels_zh": [
       "灯光",
       "戏剧光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.021030+00:00"
+    ]
   },
   {
     "id": "lighting_dramatic_hard_lighting",
@@ -9744,9 +9154,7 @@
       "灯光",
       "戏剧光",
       "硬光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954399+00:00"
+    ]
   },
   {
     "id": "lighting_dramatic_high_contrast",
@@ -9775,9 +9183,7 @@
       "灯光",
       "戏剧光",
       "高对比"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833429+00:00"
+    ]
   },
   {
     "id": "lighting_mood_high_key_lighting",
@@ -9805,9 +9211,7 @@
     "labels_zh": [
       "灯光",
       "氛围光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954403+00:00"
+    ]
   },
   {
     "id": "lighting_dynamic_ice_crystals",
@@ -9836,9 +9240,7 @@
       "灯光",
       "动态光",
       "冰晶"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954407+00:00"
+    ]
   },
   {
     "id": "lighting_dynamic_leaves_blowing_in_wind",
@@ -9867,9 +9269,7 @@
       "灯光",
       "动态光",
       "风吹树叶"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:13:04.890406+00:00"
+    ]
   },
   {
     "id": "lighting_natural_lens_flare",
@@ -9898,9 +9298,7 @@
       "灯光",
       "天然",
       "镜头眩光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954410+00:00"
+    ]
   },
   {
     "id": "lighting_special_light_rays",
@@ -9929,9 +9327,7 @@
       "灯光",
       "特殊光",
       "光束"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.021035+00:00"
+    ]
   },
   {
     "id": "lighting_special_light_shafts",
@@ -9960,9 +9356,7 @@
       "灯光",
       "特殊光",
       "光柱"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.315054+00:00"
+    ]
   },
   {
     "id": "lighting_natural_long_shadows",
@@ -9991,9 +9385,7 @@
       "灯光",
       "天然",
       "长影"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.021039+00:00"
+    ]
   },
   {
     "id": "lighting_mood_low_key_lighting",
@@ -10021,9 +9413,7 @@
     "labels_zh": [
       "灯光",
       "氛围光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954414+00:00"
+    ]
   },
   {
     "id": "lighting_special_luminescent",
@@ -10052,9 +9442,7 @@
       "灯光",
       "特殊光",
       "发光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.453649+00:00"
+    ]
   },
   {
     "id": "lighting_dynamic_magical_aura",
@@ -10083,9 +9471,7 @@
       "灯光",
       "动态光",
       "魔幻光环"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.302084+00:00"
+    ]
   },
   {
     "id": "lighting_mood_magical_glow",
@@ -10114,9 +9500,7 @@
       "灯光",
       "氛围光",
       "魔幻发光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954418+00:00"
+    ]
   },
   {
     "id": "lighting_special_mist",
@@ -10145,9 +9529,7 @@
       "灯光",
       "特殊光",
       "薄雾"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.315058+00:00"
+    ]
   },
   {
     "id": "lighting_mood_moody_atmosphere",
@@ -10176,9 +9558,7 @@
       "灯光",
       "氛围光",
       "阴郁氛围"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.021043+00:00"
+    ]
   },
   {
     "id": "lighting_mood_moonlight",
@@ -10207,9 +9587,7 @@
       "灯光",
       "氛围光",
       "月光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.315062+00:00"
+    ]
   },
   {
     "id": "lighting_dynamic_motion_trails",
@@ -10238,9 +9616,7 @@
       "灯光",
       "动态光",
       "运动拖尾"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:13:04.890411+00:00"
+    ]
   },
   {
     "id": "lighting_natural_natural_daylight",
@@ -10269,9 +9645,7 @@
       "灯光",
       "天然",
       "自然日光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.021047+00:00"
+    ]
   },
   {
     "id": "lighting_mood_neon_glow",
@@ -10299,9 +9673,7 @@
     "labels_zh": [
       "灯光",
       "氛围光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954422+00:00"
+    ]
   },
   {
     "id": "lighting_mood_neon_lighting",
@@ -10329,9 +9701,7 @@
     "labels_zh": [
       "灯光",
       "氛围光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954425+00:00"
+    ]
   },
   {
     "id": "lighting_mood_neon_rim_light",
@@ -10360,9 +9730,7 @@
       "灯光",
       "氛围光",
       "轮廓光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954429+00:00"
+    ]
   },
   {
     "id": "lighting_natural_overcast_lighting",
@@ -10391,9 +9759,7 @@
       "灯光",
       "天然",
       "阴天闪电"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954432+00:00"
+    ]
   },
   {
     "id": "lighting_special_particles_floating",
@@ -10422,9 +9788,7 @@
       "灯光",
       "特殊光",
       "粒子飘浮"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.021052+00:00"
+    ]
   },
   {
     "id": "lighting_dynamic_power_aura",
@@ -10453,9 +9817,7 @@
       "灯光",
       "动态光",
       "力量光环"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:13:04.890416+00:00"
+    ]
   },
   {
     "id": "lighting_dynamic_rain_splashes",
@@ -10484,9 +9846,7 @@
       "灯光",
       "动态光",
       "雨点溅落"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:13:04.890420+00:00"
+    ]
   },
   {
     "id": "lighting_natural_ray_of_light",
@@ -10515,9 +9875,7 @@
       "灯光",
       "天然",
       "光线"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.021056+00:00"
+    ]
   },
   {
     "id": "lighting_dramatic_ray_tracing",
@@ -10546,9 +9904,7 @@
       "灯光",
       "戏剧光",
       "光线追踪"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.315067+00:00"
+    ]
   },
   {
     "id": "lighting_natural_rim_light",
@@ -10577,9 +9933,7 @@
       "灯光",
       "天然",
       "轮廓光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.315070+00:00"
+    ]
   },
   {
     "id": "lighting_mood_ring_light",
@@ -10608,9 +9962,7 @@
       "灯光",
       "氛围光",
       "戒指光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:22:18.110520+00:00"
+    ]
   },
   {
     "id": "lighting_dramatic_side_lighting",
@@ -10639,9 +9991,7 @@
       "灯光",
       "戏剧光",
       "侧光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.029021+00:00"
+    ]
   },
   {
     "id": "lighting_dynamic_snowflakes_falling",
@@ -10670,9 +10020,7 @@
       "灯光",
       "动态光",
       "飘落雪花"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:13:04.890424+00:00"
+    ]
   },
   {
     "id": "lighting_mood_soft_ambient_light",
@@ -10701,9 +10049,7 @@
       "灯光",
       "氛围光",
       "环境光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.015069+00:00"
+    ]
   },
   {
     "id": "lighting_natural_soft_lighting",
@@ -10732,9 +10078,7 @@
       "灯光",
       "天然",
       "柔光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.315074+00:00"
+    ]
   },
   {
     "id": "lighting_dynamic_spark_trail",
@@ -10763,9 +10107,7 @@
       "灯光",
       "动态光",
       "火花拖尾"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:13:04.890428+00:00"
+    ]
   },
   {
     "id": "lighting_special_sparkling",
@@ -10794,9 +10136,7 @@
       "灯光",
       "特殊光",
       "闪光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.315078+00:00"
+    ]
   },
   {
     "id": "lighting_dynamic_spirit_particles",
@@ -10825,9 +10165,7 @@
       "灯光",
       "动态光",
       "灵气粒子"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:13:04.890432+00:00"
+    ]
   },
   {
     "id": "lighting_dramatic_spotlight",
@@ -10856,9 +10194,7 @@
       "灯光",
       "戏剧光",
       "聚光灯"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954437+00:00"
+    ]
   },
   {
     "id": "lighting_mood_studio_lighting",
@@ -10886,9 +10222,7 @@
     "labels_zh": [
       "灯光",
       "氛围光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.315082+00:00"
+    ]
   },
   {
     "id": "lighting_natural_sun_flare",
@@ -10917,9 +10251,7 @@
       "灯光",
       "天然",
       "太阳眩光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:39:25.252147+00:00"
+    ]
   },
   {
     "id": "lighting_natural_sun_rays",
@@ -10948,9 +10280,7 @@
       "灯光",
       "天然",
       "阳光光束"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.021061+00:00"
+    ]
   },
   {
     "id": "lighting_dramatic_theatrical_lighting",
@@ -10979,9 +10309,7 @@
       "灯光",
       "戏剧光",
       "戏剧照明"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.015073+00:00"
+    ]
   },
   {
     "id": "lighting_dynamic_trail_particles",
@@ -11010,9 +10338,7 @@
       "灯光",
       "动态光",
       "拖尾粒子"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:13:04.890436+00:00"
+    ]
   },
   {
     "id": "lighting_mood_twilight",
@@ -11041,9 +10367,7 @@
       "灯光",
       "氛围光",
       "暮光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.315086+00:00"
+    ]
   },
   {
     "id": "lighting_special_volumetric_fog",
@@ -11072,9 +10396,7 @@
       "灯光",
       "特殊光",
       "体积雾"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954441+00:00"
+    ]
   },
   {
     "id": "lighting_dramatic_volumetric_lighting",
@@ -11103,9 +10425,7 @@
       "灯光",
       "戏剧光",
       "体积光"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.315090+00:00"
+    ]
   },
   {
     "id": "lighting_natural_warm_amber_tones",
@@ -11133,9 +10453,7 @@
     "labels_zh": [
       "灯光",
       "天然"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.115876+00:00"
+    ]
   },
   {
     "id": "lighting_natural_warm_sunset_glow",
@@ -11163,9 +10481,7 @@
     "labels_zh": [
       "灯光",
       "天然"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954445+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_clear_atmosphere",
@@ -11192,9 +10508,7 @@
       "大气",
       "清晰氛围",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:39:25.252153+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_cloudy_sky",
@@ -11221,9 +10535,7 @@
       "大气",
       "多云天空",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954449+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_overcast_sky",
@@ -11250,9 +10562,7 @@
       "大气",
       "阴天",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954452+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_dense_fog",
@@ -11279,9 +10589,7 @@
       "大气",
       "浓雾",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833437+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_light_mist",
@@ -11308,9 +10616,7 @@
       "大气",
       "光薄雾",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:22:18.110525+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_soft_fog_and_mist",
@@ -11336,9 +10642,7 @@
       "灯光",
       "大气",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833441+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_light_rain_falling_softly",
@@ -11365,9 +10669,7 @@
       "大气",
       "小雨",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954456+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_heavy_rainstorm",
@@ -11394,9 +10696,7 @@
       "大气",
       "暴雨",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954460+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_thunderstorm",
@@ -11423,9 +10723,7 @@
       "大气",
       "雷暴",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.315094+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_falling_snow",
@@ -11452,9 +10750,7 @@
       "大气",
       "降雪",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833445+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_blizzard_atmosphere",
@@ -11480,9 +10776,7 @@
       "灯光",
       "大气",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:39:25.252158+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_airborne_dust",
@@ -11509,9 +10803,7 @@
       "大气",
       "空中灰尘",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833449+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_visible_volumetric_god_rays",
@@ -11538,9 +10830,7 @@
       "大气",
       "神光",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954464+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_drifting_smoke",
@@ -11567,9 +10857,7 @@
       "大气",
       "飘烟",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833453+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_floating_bokeh_particles_in_the_air",
@@ -11595,9 +10883,7 @@
       "灯光",
       "大气",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833457+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_soft_chalk_dust_haze_suspended_in_the_ai",
@@ -11623,9 +10909,7 @@
       "灯光",
       "大气",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833499+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_delicate_flower_petals_drifting_through_",
@@ -11651,9 +10935,7 @@
       "灯光",
       "大气",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833503+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_colorful_confetti_raining_through_the_fr",
@@ -11679,9 +10961,7 @@
       "灯光",
       "大气",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833507+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_sparks_and_embers",
@@ -11707,9 +10987,7 @@
       "灯光",
       "大气",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833510+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_anamorphic_lens_flare",
@@ -11736,9 +11014,7 @@
       "大气",
       "镜头眩光",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954468+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_visible_heat_shimmer_rising_in_the_scene",
@@ -11764,9 +11040,7 @@
       "灯光",
       "大气",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833514+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_rising_steam",
@@ -11792,9 +11066,7 @@
       "灯光",
       "大气",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833518+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_streams_of_bubbles_rising_through_water",
@@ -11820,9 +11092,7 @@
       "灯光",
       "大气",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833521+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_raindrops_beading_and_streaking_down_a_f",
@@ -11848,9 +11118,7 @@
       "灯光",
       "大气",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833525+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_sunlit_pollen_motes",
@@ -11876,9 +11144,7 @@
       "灯光",
       "大气",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833528+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_water_droplets_on_skin",
@@ -11904,9 +11170,7 @@
       "灯光",
       "大气",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833532+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_fine_grey_ash_drifting_slowly_through_th",
@@ -11932,9 +11196,7 @@
       "灯光",
       "大气",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833535+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_fireflies_drifting_in_soft_warm_pulses_t",
@@ -11960,9 +11222,7 @@
       "灯光",
       "大气",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833539+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_thick_incense_smoke_rising_slowly_throug",
@@ -11988,9 +11248,7 @@
       "灯光",
       "大气",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833543+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_exhaled_cigarette_smoke_curling_upward_t",
@@ -12016,9 +11274,7 @@
       "灯光",
       "大气",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833546+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_candlelight_glow",
@@ -12045,9 +11301,7 @@
       "大气",
       "烛光发光",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954472+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_floating_glitter_particles",
@@ -12073,9 +11327,7 @@
       "灯光",
       "大气",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833550+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_visible_starfield",
@@ -12102,9 +11354,7 @@
       "大气",
       "可见星空",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833554+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_drifting_dandelion_seeds",
@@ -12130,9 +11380,7 @@
       "灯光",
       "大气",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833557+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_drifting_golden_pollen",
@@ -12158,9 +11406,7 @@
       "灯光",
       "大气",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.833561+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_heavy_thick_snowflakes_filling_the_air_i",
@@ -12186,9 +11432,7 @@
       "灯光",
       "大气",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.021068+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_light_drifting_snow",
@@ -12214,9 +11458,7 @@
       "灯光",
       "大气",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:22:18.110532+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_visible_water_droplets_beading_on_skin_a",
@@ -12242,9 +11484,7 @@
       "灯光",
       "大气",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.021072+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_glowing_blue_green_bioluminescent_partic",
@@ -12270,9 +11510,7 @@
       "灯光",
       "大气",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.021077+00:00"
+    ]
   },
   {
     "id": "lighting_atmosphere_motion_blur_streaks",
@@ -12299,8 +11537,6 @@
       "大气",
       "运动模糊",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.954476+00:00"
+    ]
   }
 ]

@@ -23,9 +23,7 @@
       "调色板",
       "暖色调色",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.939926+00:00"
+    ]
   },
   {
     "id": "color_look_palette_cool",
@@ -51,9 +49,7 @@
       "调色板",
       "冷色调色",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.939937+00:00"
+    ]
   },
   {
     "id": "color_look_palette_teal_orange",
@@ -79,9 +75,7 @@
       "调色板",
       "青橙调色",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.939941+00:00"
+    ]
   },
   {
     "id": "color_look_palette_split_toning",
@@ -107,9 +101,7 @@
       "调色板",
       "分调色",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.939945+00:00"
+    ]
   },
   {
     "id": "color_look_palette_selective_color",
@@ -134,9 +126,7 @@
       "色彩",
       "调色板",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.939949+00:00"
+    ]
   },
   {
     "id": "color_look_palette_faded_matte",
@@ -161,9 +151,7 @@
       "色彩",
       "调色板",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.939953+00:00"
+    ]
   },
   {
     "id": "color_look_palette_log_flat",
@@ -190,9 +178,7 @@
       "log",
       "素材",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.939958+00:00"
+    ]
   },
   {
     "id": "color_look_palette_desaturated",
@@ -217,9 +203,7 @@
       "色彩",
       "调色板",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.939962+00:00"
+    ]
   },
   {
     "id": "color_look_palette_monochrome_bw",
@@ -245,9 +229,7 @@
       "调色板",
       "黑白",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.939965+00:00"
+    ]
   },
   {
     "id": "color_look_palette_sepia",
@@ -273,9 +255,7 @@
       "调色板",
       "深褐色调",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.939969+00:00"
+    ]
   },
   {
     "id": "color_look_palette_pastel",
@@ -300,9 +280,7 @@
       "色彩",
       "调色板",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.434609+00:00"
+    ]
   },
   {
     "id": "color_look_palette_high_contrast",
@@ -327,9 +305,7 @@
       "色彩",
       "调色板",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.434625+00:00"
+    ]
   },
   {
     "id": "color_look_palette_vibrant",
@@ -354,9 +330,7 @@
       "色彩",
       "调色板",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.434630+00:00"
+    ]
   },
   {
     "id": "color_look_film_emulation_kodak_portra",
@@ -382,9 +356,7 @@
       "胶片模拟",
       "柯达",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.286847+00:00"
+    ]
   },
   {
     "id": "color_look_film_emulation_kodak_ektar",
@@ -410,9 +382,7 @@
       "胶片模拟",
       "柯达",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:39:25.236047+00:00"
+    ]
   },
   {
     "id": "color_look_film_emulation_kodak_vision3",
@@ -438,9 +408,7 @@
       "胶片模拟",
       "柯达",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.286860+00:00"
+    ]
   },
   {
     "id": "color_look_film_emulation_fuji_pro_400h",
@@ -468,9 +436,7 @@
       "Pro",
       "400H",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.434638+00:00"
+    ]
   },
   {
     "id": "color_look_film_emulation_cinestill_800t",
@@ -496,9 +462,7 @@
       "胶片模拟",
       "800T",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.434646+00:00"
+    ]
   },
   {
     "id": "color_look_film_emulation_bleach_bypass",
@@ -523,9 +487,7 @@
       "色彩",
       "胶片模拟",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.939973+00:00"
+    ]
   },
   {
     "id": "color_look_film_emulation_technicolor",
@@ -550,9 +512,7 @@
       "色彩",
       "胶片模拟",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.434650+00:00"
+    ]
   },
   {
     "id": "color_look_film_emulation_two_strip_technicolor",
@@ -577,9 +537,7 @@
       "色彩",
       "胶片模拟",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.434654+00:00"
+    ]
   },
   {
     "id": "color_look_film_emulation_eastman_color",
@@ -604,9 +562,7 @@
       "色彩",
       "胶片模拟",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.434657+00:00"
+    ]
   },
   {
     "id": "color_look_film_emulation_hand_tinted",
@@ -631,9 +587,7 @@
       "色彩",
       "胶片模拟",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.939977+00:00"
+    ]
   },
   {
     "id": "color_look_film_emulation_agfa_orwo",
@@ -660,9 +614,7 @@
       "ORWO",
       "胶片",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.434662+00:00"
+    ]
   },
   {
     "id": "color_look_film_emulation_day_for_night",
@@ -687,9 +639,7 @@
       "色彩",
       "胶片模拟",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.939981+00:00"
+    ]
   },
   {
     "id": "color_look_film_emulation_cross_processed",
@@ -714,9 +664,7 @@
       "色彩",
       "胶片模拟",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.939984+00:00"
+    ]
   },
   {
     "id": "color_look_film_emulation_kodachrome_64",
@@ -743,9 +691,7 @@
       "64",
       "调色",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.434667+00:00"
+    ]
   },
   {
     "id": "color_look_film_emulation_ektachrome_100",
@@ -772,9 +718,7 @@
       "柯达",
       "100",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.434672+00:00"
+    ]
   },
   {
     "id": "color_look_film_emulation_kodak_tri_x_400",
@@ -802,9 +746,7 @@
       "400",
       "黑白胶片",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.434677+00:00"
+    ]
   },
   {
     "id": "color_look_film_emulation_aerochrome",
@@ -829,9 +771,7 @@
       "色彩",
       "胶片模拟",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.939988+00:00"
+    ]
   },
   {
     "id": "color_look_film_emulation_fuji_instax",
@@ -856,9 +796,7 @@
       "色彩",
       "胶片模拟",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.939991+00:00"
+    ]
   },
   {
     "id": "color_look_film_emulation_cinestill_50d",
@@ -884,9 +822,7 @@
       "胶片模拟",
       "50D",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.434682+00:00"
+    ]
   },
   {
     "id": "color_look_film_emulation_expired_film",
@@ -911,9 +847,7 @@
       "色彩",
       "胶片模拟",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.939998+00:00"
+    ]
   },
   {
     "id": "color_look_social_preset_instagram_warm",
@@ -939,9 +873,7 @@
       "预设",
       "暖调滤镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.940002+00:00"
+    ]
   },
   {
     "id": "color_look_social_preset_tiktok_saturated",
@@ -966,9 +898,7 @@
       "色彩",
       "预设",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.940006+00:00"
+    ]
   },
   {
     "id": "color_look_social_preset_youtube_vlog_flat",
@@ -995,9 +925,7 @@
       "Vlog",
       "平调",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.940010+00:00"
+    ]
   },
   {
     "id": "color_look_social_preset_iphone_hdr",
@@ -1024,9 +952,7 @@
       "计算",
       "HDR",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.434687+00:00"
+    ]
   },
   {
     "id": "color_look_social_preset_y2k_saturated",
@@ -1052,9 +978,7 @@
       "预设",
       "Y2K",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.940015+00:00"
+    ]
   },
   {
     "id": "color_look_social_preset_mtv_90s_vhs",
@@ -1082,9 +1006,7 @@
       "MTV",
       "VHS",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.940020+00:00"
+    ]
   },
   {
     "id": "color_look_social_preset_polaroid_faded",
@@ -1109,9 +1031,7 @@
       "色彩",
       "预设",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.940023+00:00"
+    ]
   },
   {
     "id": "color_look_social_preset_lifestyle_warm_magazine",
@@ -1136,9 +1056,7 @@
       "色彩",
       "预设",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.434691+00:00"
+    ]
   },
   {
     "id": "color_look_post_process_soft_dark_vignette_gently_darkening_the",
@@ -1164,9 +1082,7 @@
       "色彩",
       "后期",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.940027+00:00"
+    ]
   },
   {
     "id": "color_look_post_process_heavy_black_vignette_circumscribing_the",
@@ -1192,9 +1108,7 @@
       "色彩",
       "后期",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:14:10.540402+00:00"
+    ]
   },
   {
     "id": "color_look_post_process_dodge_and_burn",
@@ -1220,9 +1134,7 @@
       "色彩",
       "后期",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.940031+00:00"
+    ]
   },
   {
     "id": "color_look_post_process_fine_film_grain_overlay_across_the_entir",
@@ -1248,9 +1160,7 @@
       "色彩",
       "后期",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.940034+00:00"
+    ]
   },
   {
     "id": "color_look_post_process_heavy_coarse_grain_like_push_processed_h",
@@ -1278,9 +1188,7 @@
       "ISO",
       "胶片",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.434696+00:00"
+    ]
   },
   {
     "id": "color_look_post_process_warm_halation_glow",
@@ -1306,9 +1214,7 @@
       "色彩",
       "后期",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.940038+00:00"
+    ]
   },
   {
     "id": "color_look_post_process_highlight_bloom",
@@ -1335,9 +1241,7 @@
       "后期",
       "高光泛光",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:57.998287+00:00"
+    ]
   },
   {
     "id": "color_look_post_process_visible_chromatic_aberration_with_red_an",
@@ -1364,9 +1268,7 @@
       "后期",
       "色差",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.940042+00:00"
+    ]
   },
   {
     "id": "color_look_post_process_warm_orange_light_leak_streaking_across",
@@ -1392,9 +1294,7 @@
       "色彩",
       "后期",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:14:10.540421+00:00"
+    ]
   },
   {
     "id": "color_look_post_process_film_burn_flare_in_the_corner_with_a_vin",
@@ -1421,9 +1321,7 @@
       "后期",
       "复古效果",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:14:10.540428+00:00"
+    ]
   },
   {
     "id": "color_look_post_process_scratched_dusty_film_emulsion",
@@ -1449,9 +1347,7 @@
       "色彩",
       "后期",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.434700+00:00"
+    ]
   },
   {
     "id": "color_look_post_process_subtle_color_fringing",
@@ -1477,9 +1373,7 @@
       "色彩",
       "后期",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.434703+00:00"
+    ]
   },
   {
     "id": "color_look_post_process_soft_focus_diffusion_filter_slightly_haz",
@@ -1506,9 +1400,7 @@
       "后期",
       "柔光滤镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.812359+00:00"
+    ]
   },
   {
     "id": "color_look_post_process_aggressive_contrast_boost",
@@ -1534,9 +1426,7 @@
       "色彩",
       "后期",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.940045+00:00"
+    ]
   },
   {
     "id": "color_look_post_process_aggressive_edge_sharpening_pass_with_cri",
@@ -1562,9 +1452,7 @@
       "色彩",
       "后期",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:14:10.540432+00:00"
+    ]
   },
   {
     "id": "color_look_post_process_mid_tone_clarity_enhancement_with_increa",
@@ -1590,9 +1478,7 @@
       "色彩",
       "后期",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.434707+00:00"
+    ]
   },
   {
     "id": "color_look_post_process_atmospheric_dehaze",
@@ -1619,9 +1505,7 @@
       "后期",
       "大气除雾",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.940049+00:00"
+    ]
   },
   {
     "id": "color_look_post_process_three_way_lift_gamma_gain_grade",
@@ -1650,8 +1534,284 @@
       "Lift",
       "Gain",
       "nodaro"
+    ]
+  },
+  {
+    "id": "color_look_warm_teal",
+    "term": "teal and orange cinematic grade",
+    "term_zh": "青橙电影调色",
+    "subcategory": "palette",
+    "labels": [
+      "teal",
+      "orange",
+      "cinematic",
+      "color-grade"
     ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.434712+00:00"
+    "labels_zh": [
+      "色彩分级",
+      "青橙",
+      "电影",
+      "调色"
+    ],
+    "score": 0.9,
+    "priority": "high",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "popular",
+      "cinematic"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "color-look"
+  },
+  {
+    "id": "color_look_bleach_bypass",
+    "term": "bleach bypass film stock",
+    "term_zh": "漂白剂冲洗胶片",
+    "subcategory": "film-emulation",
+    "labels": [
+      "bleach-bypass",
+      "desaturated",
+      "film",
+      "vintage"
+    ],
+    "labels_zh": [
+      "色彩分级",
+      "漂白冲洗",
+      "褪色",
+      "胶片"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "film",
+      "vintage"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "color-look"
+  },
+  {
+    "id": "color_look_cross_process",
+    "term": "cross-processed slide film look",
+    "term_zh": "交叉处理幻灯片胶片效果",
+    "subcategory": "film-emulation",
+    "labels": [
+      "cross-process",
+      "slide-film",
+      "vibrant",
+      "chemical"
+    ],
+    "labels_zh": [
+      "色彩分级",
+      "交叉处理",
+      "幻灯片",
+      "鲜艳"
+    ],
+    "score": 0.75,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "film",
+      "experimental"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "color-look"
+  },
+  {
+    "id": "color_look_italian_giallo",
+    "term": "Italian giallo lurid color palette",
+    "term_zh": "意大利恐怖电影浓烈色彩",
+    "subcategory": "palette",
+    "labels": [
+      "giallo",
+      "lurid",
+      "Italian",
+      "thriller"
+    ],
+    "labels_zh": [
+      "色彩分级",
+      "意大利",
+      "惊悚",
+      "浓烈"
+    ],
+    "score": 0.75,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "film",
+      "genre"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "color-look"
+  },
+  {
+    "id": "color_look_japenese_watery",
+    "term": "Japanese watery desaturated grade",
+    "term_zh": "日本湿漉漉褪色调色",
+    "subcategory": "palette",
+    "labels": [
+      "japanese",
+      "watery",
+      "desaturated",
+      "muted"
+    ],
+    "labels_zh": [
+      "色彩分级",
+      "日本",
+      "湿漉",
+      "柔和"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "aesthetic",
+      "cinematic"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "color-look"
+  },
+  {
+    "id": "color_look_kodak_portra",
+    "term": "Kodak Portra 400 film emulation",
+    "term_zh": "柯达Portra 400胶片模拟",
+    "subcategory": "film-emulation",
+    "labels": [
+      "kodak",
+      "portra",
+      "400",
+      "film-emulation"
+    ],
+    "labels_zh": [
+      "色彩分级",
+      "柯达",
+      "Portra"
+    ],
+    "score": 0.9,
+    "priority": "high",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "film",
+      "portrait"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "color-look"
+  },
+  {
+    "id": "color_look_verifact_color",
+    "term": "VeriFilm Technicolor process",
+    "term_zh": "VeriFilm特艺彩色工艺",
+    "subcategory": "film-emulation",
+    "labels": [
+      "verifilm",
+      "technicolor",
+      "vibrant",
+      "classic"
+    ],
+    "labels_zh": [
+      "色彩分级",
+      "VeriFilm",
+      "特艺彩色"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "film",
+      "classic"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "color-look"
+  },
+  {
+    "id": "color_look_muted_pastel",
+    "term": "muted pastel desaturated tones",
+    "term_zh": "柔和粉彩褪色色调",
+    "subcategory": "palette",
+    "labels": [
+      "muted",
+      "pastel",
+      "soft",
+      "desaturated"
+    ],
+    "labels_zh": [
+      "色彩分级",
+      "柔和",
+      "粉彩",
+      "褪色"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "aesthetic",
+      "popular"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "color-look"
+  },
+  {
+    "id": "color_look_noir_monochrome",
+    "term": "film noir monochrome with accent color",
+    "term_zh": "黑色电影单色点缀色",
+    "subcategory": "palette",
+    "labels": [
+      "film-noir",
+      "monochrome",
+      "accent",
+      "contrast"
+    ],
+    "labels_zh": [
+      "色彩分级",
+      "黑色电影",
+      "单色",
+      "点缀色"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "film",
+      "classic"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "color-look"
+  },
+  {
+    "id": "color_look_harsh_high_contrast",
+    "term": "harsh high-contrast monochrome",
+    "term_zh": "强烈高对比单色",
+    "subcategory": "post-process",
+    "labels": [
+      "harsh",
+      "high-contrast",
+      "monochrome",
+      "graphic"
+    ],
+    "labels_zh": [
+      "色彩分级",
+      "强烈",
+      "高对比",
+      "图形化"
+    ],
+    "score": 0.75,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "graphic",
+      "bold"
+    ],
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "color-look"
   }
 ]

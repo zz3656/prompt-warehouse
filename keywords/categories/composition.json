@@ -29,9 +29,7 @@
       "相机",
       "散景",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304002+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_cinematic",
@@ -63,9 +61,7 @@
       "相机",
       "电影感",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304011+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_cinematic_haze",
@@ -97,9 +93,7 @@
       "相机",
       "电影薄雾",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.815901+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_depth_of_field",
@@ -131,9 +125,7 @@
       "相机",
       "景深",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304016+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_dramatic",
@@ -165,9 +157,7 @@
       "相机",
       "戏剧",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.815911+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_golden_hour",
@@ -199,9 +189,7 @@
       "相机",
       "黄金时段",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304020+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_10_megapixels",
@@ -234,9 +222,7 @@
       "1000",
       "万像素",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.815917+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_1000x_magnification",
@@ -269,9 +255,7 @@
       "1000",
       "倍放大",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.815921+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_100mm_lens",
@@ -303,9 +287,7 @@
       "相机",
       "镜头",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:22:18.098193+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_100x_magnification",
@@ -338,9 +320,7 @@
       "100",
       "倍放大",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.815926+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_12_megapixels",
@@ -373,9 +353,7 @@
       "1200",
       "万像素",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.815930+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_15mm_lens",
@@ -408,9 +386,7 @@
       "85mm",
       "镜头",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:22:18.098205+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_16_megapixels",
@@ -443,9 +419,7 @@
       "1600",
       "万像素",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.815935+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_2_megapixels",
@@ -478,9 +452,7 @@
       "200",
       "万像素",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.815939+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_20_megapixels",
@@ -513,9 +485,7 @@
       "2000",
       "万像素",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.815943+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_200mm_lens",
@@ -547,9 +517,7 @@
       "相机",
       "镜头",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017293+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_200x_magnification",
@@ -582,9 +550,7 @@
       "200",
       "倍放大",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.815947+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_22_megapixels",
@@ -617,9 +583,7 @@
       "2200",
       "万像素",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.815952+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_35mm",
@@ -651,9 +615,7 @@
       "相机",
       "35mm",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.815956+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_35mm_lens",
@@ -686,9 +648,7 @@
       "85mm",
       "镜头",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:22:18.098211+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_360_angle",
@@ -720,9 +680,7 @@
       "相机",
       "360",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.815961+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_360_panorama",
@@ -755,9 +713,7 @@
       "360",
       "度全景",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.815965+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_500x_magnification",
@@ -790,9 +746,7 @@
       "500",
       "倍放大",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.815969+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_85mm_lens",
@@ -825,9 +779,7 @@
       "85mm",
       "镜头",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017306+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_accelerated_perspective",
@@ -859,9 +811,7 @@
       "透视",
       "加速透视",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.815973+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_action_scene",
@@ -893,9 +843,7 @@
       "相机",
       "动作场景",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.815977+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_aerial_perspective",
@@ -927,9 +875,7 @@
       "透视",
       "空气透视",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.815981+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_aerial_view",
@@ -961,9 +907,7 @@
       "透视",
       "鸟瞰视角",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.815985+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_ambrotype",
@@ -994,9 +938,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.815988+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_anamorphosis",
@@ -1028,9 +970,7 @@
       "透视",
       "变形画法",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.815992+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_aperture",
@@ -1062,9 +1002,7 @@
       "相机",
       "光圈",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.815996+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_arched",
@@ -1096,9 +1034,7 @@
       "结构",
       "拱形",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816000+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_archimedean_spiral",
@@ -1129,9 +1065,7 @@
       "构图",
       "结构",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816003+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_arciform",
@@ -1163,9 +1097,7 @@
       "结构",
       "弧形",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816007+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_arrondi",
@@ -1197,9 +1129,7 @@
       "结构",
       "圆润",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816010+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_associated_press_photo",
@@ -1230,9 +1160,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816014+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_astronomical_filter",
@@ -1264,9 +1192,7 @@
       "相机",
       "天文滤镜",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816018+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_award_winning_photography",
@@ -1298,9 +1224,7 @@
       "相机",
       "获奖摄影",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816021+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_axonometric",
@@ -1332,9 +1256,7 @@
       "透视",
       "轴测图",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816025+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_axonometric_projection",
@@ -1366,9 +1288,7 @@
       "透视",
       "轴测投影",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816028+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_bezier_curve",
@@ -1399,9 +1319,7 @@
       "构图",
       "结构",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816032+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_biflected",
@@ -1433,9 +1351,7 @@
       "结构",
       "双折",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816036+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_blue_hour",
@@ -1467,9 +1383,7 @@
       "相机",
       "蓝调时刻",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304027+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_brenizer_method",
@@ -1500,9 +1414,7 @@
       "构图",
       "透视",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816039+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_calotype",
@@ -1534,9 +1446,7 @@
       "相机",
       "卡洛版",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816043+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_camcorder_effect",
@@ -1567,9 +1477,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816047+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_cctv",
@@ -1601,9 +1509,7 @@
       "相机",
       "闭路电视",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816050+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_celtic_knot",
@@ -1635,9 +1541,7 @@
       "结构",
       "凯尔特结",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816054+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_centered_shot",
@@ -1669,9 +1573,7 @@
       "透视",
       "居中镜头",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816058+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_cinemascope",
@@ -1702,9 +1604,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017313+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_cinemiracle",
@@ -1736,9 +1636,7 @@
       "相机",
       "宽银幕",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816062+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_cinerama",
@@ -1769,9 +1667,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816066+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_circinate",
@@ -1803,9 +1699,7 @@
       "结构",
       "螺旋",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816070+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_circle",
@@ -1837,9 +1731,7 @@
       "结构",
       "圆形",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816073+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_circular",
@@ -1871,9 +1763,7 @@
       "结构",
       "圆形",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.383661+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_claymation",
@@ -1905,9 +1795,7 @@
       "相机",
       "黏土动画",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816077+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_closed_composition",
@@ -1939,9 +1827,7 @@
       "相机",
       "封闭构图",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816080+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_closeup",
@@ -1973,9 +1859,7 @@
       "透视",
       "特写",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304033+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_closeup_view",
@@ -2007,9 +1891,7 @@
       "透视",
       "特写视图",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816084+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_coiled",
@@ -2041,9 +1923,7 @@
       "结构",
       "盘绕",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816088+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_cokin_filter",
@@ -2075,9 +1955,7 @@
       "相机",
       "高坚滤镜",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816091+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_color_gel",
@@ -2109,9 +1987,7 @@
       "相机",
       "色片",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816095+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_color_grading",
@@ -2143,9 +2019,7 @@
       "相机",
       "色彩分级",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304037+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_concentric",
@@ -2177,9 +2051,7 @@
       "结构",
       "同心",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816099+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_concentric_circles",
@@ -2211,9 +2083,7 @@
       "结构",
       "同心圆",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816102+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_concentric_rings",
@@ -2245,9 +2115,7 @@
       "结构",
       "同心环",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816106+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_concentric_spheres",
@@ -2279,9 +2147,7 @@
       "结构",
       "同心球",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816110+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_contour",
@@ -2313,9 +2179,7 @@
       "结构",
       "轮廓",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816113+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_cross_section",
@@ -2347,9 +2211,7 @@
       "透视",
       "横截面",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816117+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_curlicue",
@@ -2381,9 +2243,7 @@
       "结构",
       "螺旋花纹",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816121+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_curvaceous",
@@ -2415,9 +2275,7 @@
       "结构",
       "曲线美",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816124+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_curve",
@@ -2449,9 +2307,7 @@
       "结构",
       "曲线",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816128+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_curvilinear",
@@ -2483,9 +2339,7 @@
       "结构",
       "曲线",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816131+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_curvilinear_perspective",
@@ -2517,9 +2371,7 @@
       "透视",
       "曲线透视",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816135+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_cutaway",
@@ -2551,9 +2403,7 @@
       "透视",
       "切开图",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816139+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_cutaway_drawing",
@@ -2585,9 +2435,7 @@
       "透视",
       "剖视图",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816142+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_cutaway_view",
@@ -2619,9 +2467,7 @@
       "透视",
       "切开视图",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816146+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_cylindrical_perspective",
@@ -2653,9 +2499,7 @@
       "透视",
       "圆柱透视",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816150+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_daguerrotype",
@@ -2687,9 +2531,7 @@
       "相机",
       "达盖尔版",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816154+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_dashcam_footage",
@@ -2720,9 +2562,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816157+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_declinate",
@@ -2754,9 +2594,7 @@
       "结构",
       "下倾",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816161+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_deep_focus",
@@ -2788,9 +2626,7 @@
       "相机",
       "深焦距",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304042+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_deflate",
@@ -2822,9 +2658,7 @@
       "结构",
       "放气",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816164+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_defocused",
@@ -2856,9 +2690,7 @@
       "相机",
       "失焦",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816168+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_depth",
@@ -2890,9 +2722,7 @@
       "相机",
       "景深",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816172+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_dichroic_filter",
@@ -2924,9 +2754,7 @@
       "相机",
       "双色滤镜",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816175+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_diffusion_filter",
@@ -2958,9 +2786,7 @@
       "相机",
       "柔光滤镜",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816179+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_dimetric_projection",
@@ -2991,9 +2817,7 @@
       "构图",
       "透视",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816182+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_dimpled",
@@ -3025,9 +2849,7 @@
       "结构",
       "凹痕",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816186+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_disposable_camera",
@@ -3058,9 +2880,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816189+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_disposable_camera_photo",
@@ -3091,9 +2911,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.383672+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_divergent_perspective",
@@ -3125,9 +2943,7 @@
       "透视",
       "发散透视",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816193+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_dof",
@@ -3159,9 +2975,7 @@
       "相机",
       "景深",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816197+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_dolly_zoom",
@@ -3192,9 +3006,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.289721+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_double_exposure",
@@ -3226,9 +3038,7 @@
       "相机",
       "双重曝光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816200+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_double_helix",
@@ -3260,9 +3070,7 @@
       "结构",
       "双螺旋",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816204+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_doyle_spiral",
@@ -3293,9 +3101,7 @@
       "构图",
       "结构",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816207+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_drone_photography",
@@ -3327,9 +3133,7 @@
       "相机",
       "摄影",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.942426+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_dslr",
@@ -3361,9 +3165,7 @@
       "相机",
       "单反",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816211+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_editorial_photography",
@@ -3395,9 +3197,7 @@
       "相机",
       "编辑摄影",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.000987+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_ektachrome",
@@ -3428,9 +3228,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816215+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_electron_microscope",
@@ -3461,9 +3259,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816218+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_enbowed",
@@ -3495,9 +3291,7 @@
       "结构",
       "弓形",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816222+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_entangled",
@@ -3529,9 +3323,7 @@
       "结构",
       "缠结",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816225+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_entanglement",
@@ -3563,9 +3355,7 @@
       "结构",
       "纠缠",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816229+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_epic_wide_shot",
@@ -3597,9 +3387,7 @@
       "透视",
       "广角镜头",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.942435+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_establishing_shot",
@@ -3630,9 +3418,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304048+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_euler_spiral",
@@ -3664,9 +3450,7 @@
       "结构",
       "欧拉螺旋",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816233+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_expired_35mm_film",
@@ -3699,9 +3483,7 @@
       "35mm",
       "胶片",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017324+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_expired_65mm_film",
@@ -3734,9 +3516,7 @@
       "35mm",
       "胶片",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:22:18.098223+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_exploded_view",
@@ -3768,9 +3548,7 @@
       "透视",
       "爆炸视图",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816237+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_exploded_view_drawing",
@@ -3802,9 +3580,7 @@
       "透视",
       "爆炸图",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816240+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_exposure",
@@ -3836,9 +3612,7 @@
       "相机",
       "曝光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017329+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_extreme_closeup",
@@ -3870,9 +3644,7 @@
       "透视",
       "极特写",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017334+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_f2_8",
@@ -3904,9 +3676,7 @@
       "相机",
       "F2.8",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816244+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_f22",
@@ -3938,9 +3708,7 @@
       "相机",
       "F22",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816248+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_fermats_spiral",
@@ -3972,9 +3740,7 @@
       "结构",
       "费马螺旋",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816252+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_field_of_view",
@@ -4006,9 +3772,7 @@
       "透视",
       "视野",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816255+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_film_grain",
@@ -4040,9 +3804,7 @@
       "相机",
       "胶片颗粒",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304053+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_film_negative",
@@ -4074,9 +3836,7 @@
       "相机",
       "胶片负片",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816259+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_filmic",
@@ -4108,9 +3868,7 @@
       "相机",
       "电影感",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816263+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_filter",
@@ -4142,9 +3900,7 @@
       "相机",
       "滤镜",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.289730+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_first_person",
@@ -4176,9 +3932,7 @@
       "透视",
       "第一人称",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816266+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_first_person_view",
@@ -4209,9 +3963,7 @@
       "构图",
       "透视",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017338+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_fisheye_lens",
@@ -4243,9 +3995,7 @@
       "相机",
       "鱼眼镜头",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017342+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_fisheye_lens_effect",
@@ -4277,9 +4027,7 @@
       "相机",
       "鱼眼镜头",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017346+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_focal_point",
@@ -4311,9 +4059,7 @@
       "相机",
       "焦点",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816270+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_forced_perspective",
@@ -4345,9 +4091,7 @@
       "透视",
       "强制透视",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816274+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_fujifilm_superia",
@@ -4379,9 +4123,7 @@
       "相机",
       "富士",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.004158+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_full_body_portrait",
@@ -4413,9 +4155,7 @@
       "相机",
       "全身",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.942441+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_full_frame",
@@ -4447,9 +4187,7 @@
       "相机",
       "全画幅",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816278+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_gamma",
@@ -4480,9 +4218,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816281+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_gesture",
@@ -4514,9 +4250,7 @@
       "相机",
       "姿势",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816285+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_glamor_shot",
@@ -4548,9 +4282,7 @@
       "相机",
       "魅力照",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816288+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_gnd_filter",
@@ -4581,9 +4313,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816292+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_golden_spiral",
@@ -4615,9 +4345,7 @@
       "结构",
       "黄金螺旋",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816295+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_gopro_video",
@@ -4649,9 +4377,7 @@
       "相机",
       "视频",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816299+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_graduated_neutral_density_filter",
@@ -4682,9 +4408,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816303+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_helix",
@@ -4716,9 +4440,7 @@
       "结构",
       "螺旋",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816307+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_geometry_hexagonal",
@@ -4750,9 +4472,7 @@
       "几何",
       "六角",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.383681+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_high_angle",
@@ -4784,9 +4504,7 @@
       "透视",
       "高角度",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304058+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_high_speed_photograph",
@@ -4817,9 +4535,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.383685+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_hollow",
@@ -4851,9 +4567,7 @@
       "结构",
       "空心",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.383689+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_horizon_line",
@@ -4885,9 +4599,7 @@
       "相机",
       "地平线",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816310+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_hyperbolic_spiral",
@@ -4919,9 +4631,7 @@
       "结构",
       "双曲螺旋",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816314+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_hyperspectral_imaging",
@@ -4952,9 +4662,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816318+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_ilford_hp5",
@@ -4987,9 +4695,7 @@
       "伊尔福",
       "HP5",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816322+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_incline",
@@ -5021,9 +4727,7 @@
       "结构",
       "斜面",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816325+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_incurvate",
@@ -5055,9 +4759,7 @@
       "结构",
       "内弯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816329+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_incurved",
@@ -5089,9 +4791,7 @@
       "结构",
       "内弯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816332+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_inflate",
@@ -5123,9 +4823,7 @@
       "结构",
       "充气",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816336+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_infrared_cut_off_filter",
@@ -5156,9 +4854,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816339+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_infrared_filter",
@@ -5190,9 +4886,7 @@
       "相机",
       "红外滤镜",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816343+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_instax",
@@ -5224,9 +4918,7 @@
       "相机",
       "拍立得",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816347+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_inverse_perspective",
@@ -5258,9 +4950,7 @@
       "透视",
       "反向透视",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816350+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_inverted_perspective",
@@ -5292,9 +4982,7 @@
       "透视",
       "倒转透视",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816354+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_isometric",
@@ -5326,9 +5014,7 @@
       "透视",
       "等距视角",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.942447+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_kinopanorama",
@@ -5360,9 +5046,7 @@
       "相机",
       "全景电影",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816357+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_geometry_klein_bottle",
@@ -5394,9 +5078,7 @@
       "几何",
       "克莱因瓶",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816361+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_knot",
@@ -5427,9 +5109,7 @@
       "构图",
       "结构",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.383694+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_kodak_ektar",
@@ -5461,9 +5141,7 @@
       "相机",
       "柯达",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816365+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_kodak_gold_200",
@@ -5495,9 +5173,7 @@
       "相机",
       "柯达金色",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.289738+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_kodak_portra",
@@ -5529,9 +5205,7 @@
       "相机",
       "柯达",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.289743+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_lens_distortion",
@@ -5563,9 +5237,7 @@
       "相机",
       "镜头畸变",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816369+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_lens_flare",
@@ -5597,9 +5269,7 @@
       "相机",
       "镜头眩光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.942451+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_linear_perspective",
@@ -5631,9 +5301,7 @@
       "透视",
       "线性透视",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816373+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_logarithmic_spiral",
@@ -5665,9 +5333,7 @@
       "结构",
       "对数螺旋",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816377+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_lomo",
@@ -5699,9 +5365,7 @@
       "相机",
       "LOMO",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816380+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_long_exposure",
@@ -5733,9 +5397,7 @@
       "相机",
       "长曝光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304064+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_loop_de_loop",
@@ -5766,9 +5428,7 @@
       "构图",
       "结构",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.383698+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_loopy",
@@ -5800,9 +5460,7 @@
       "结构",
       "环状",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816384+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_low_angle",
@@ -5834,9 +5492,7 @@
       "透视",
       "低角度",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304068+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_macro",
@@ -5868,9 +5524,7 @@
       "相机",
       "微距",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816388+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_macro_view",
@@ -5902,9 +5556,7 @@
       "相机",
       "微距视图",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816391+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_magnification",
@@ -5936,9 +5588,7 @@
       "相机",
       "放大",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816395+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_megapixel",
@@ -5970,9 +5620,7 @@
       "相机",
       "百万像素",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816399+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_microscopic",
@@ -6004,9 +5652,7 @@
       "相机",
       "微观",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.383703+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_miniature_faking",
@@ -6037,9 +5683,7 @@
       "构图",
       "透视",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816403+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_motion_capture",
@@ -6071,9 +5715,7 @@
       "相机",
       "动作捕捉",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816406+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_multispectral_imaging",
@@ -6104,9 +5746,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816410+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_multiview_projection",
@@ -6137,9 +5777,7 @@
       "构图",
       "透视",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816413+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_national_geographic_photo",
@@ -6170,9 +5808,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816417+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_nd_filter",
@@ -6205,9 +5841,7 @@
       "ND",
       "滤镜",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816421+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_neutral_density_filter",
@@ -6238,9 +5872,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816425+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_night_vision",
@@ -6272,9 +5904,7 @@
       "相机",
       "夜视",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816428+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_nightography",
@@ -6306,9 +5936,7 @@
       "相机",
       "夜间摄影",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816432+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_nikon_d750",
@@ -6341,9 +5969,7 @@
       "尼康",
       "D750",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816436+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_oblique",
@@ -6375,9 +6001,7 @@
       "结构",
       "倾斜",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816440+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_oblique_projection",
@@ -6409,9 +6033,7 @@
       "透视",
       "斜投影",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816444+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_one_point_perspective",
@@ -6443,9 +6065,7 @@
       "透视",
       "一点透视",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816447+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_orbicular",
@@ -6477,9 +6097,7 @@
       "结构",
       "圆形",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816451+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_orthographic",
@@ -6511,9 +6129,7 @@
       "透视",
       "正交",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816455+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_pan",
@@ -6545,9 +6161,7 @@
       "相机",
       "横摇",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017355+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_panavision",
@@ -6579,9 +6193,7 @@
       "相机",
       "潘那维申",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017359+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_panini_projection",
@@ -6612,9 +6224,7 @@
       "构图",
       "透视",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816459+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_panorama",
@@ -6646,9 +6256,7 @@
       "相机",
       "全景",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816462+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_paparazzi_photography",
@@ -6679,9 +6287,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816466+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_parallel_projection",
@@ -6713,9 +6319,7 @@
       "透视",
       "平行投影",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816470+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_perspective",
@@ -6746,9 +6350,7 @@
       "构图",
       "透视",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816474+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_perspective_projection",
@@ -6780,9 +6382,7 @@
       "透视",
       "透视投影",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816477+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_photogram",
@@ -6813,9 +6413,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816481+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_photograph",
@@ -6847,9 +6445,7 @@
       "相机",
       "摄影",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304074+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_photographia",
@@ -6881,9 +6477,7 @@
       "相机",
       "摄影",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304078+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_photographic_filter",
@@ -6915,9 +6509,7 @@
       "相机",
       "摄影滤镜",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.289750+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_photography",
@@ -6949,9 +6541,7 @@
       "相机",
       "摄影",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304082+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_photojournalism",
@@ -6983,9 +6573,7 @@
       "相机",
       "新闻摄影",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816485+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_photoshoot",
@@ -7017,9 +6605,7 @@
       "相机",
       "摄影拍摄",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816489+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_pinhole_photography",
@@ -7051,9 +6637,7 @@
       "相机",
       "针孔摄影",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816492+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_pointed",
@@ -7085,9 +6669,7 @@
       "结构",
       "尖锐",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816496+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_pointy",
@@ -7118,9 +6700,7 @@
       "构图",
       "结构",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816500+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_polarization_filter",
@@ -7152,9 +6732,7 @@
       "相机",
       "偏振滤镜",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816503+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_polarizer",
@@ -7186,9 +6764,7 @@
       "相机",
       "偏振镜",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816507+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_polaroid",
@@ -7220,9 +6796,7 @@
       "相机",
       "宝丽来",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017365+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_geometry_polygonal",
@@ -7254,9 +6828,7 @@
       "几何",
       "多边形",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816511+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_portrait",
@@ -7288,9 +6860,7 @@
       "相机",
       "半身像",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304086+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_portraiture",
@@ -7322,9 +6892,7 @@
       "相机",
       "肖像画",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816515+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_pose",
@@ -7356,9 +6924,7 @@
       "相机",
       "姿势",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816519+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_pretzel_knot",
@@ -7389,9 +6955,7 @@
       "构图",
       "结构",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.383710+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_product_view",
@@ -7423,9 +6987,7 @@
       "透视",
       "产品视图",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816523+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_profile",
@@ -7457,9 +7019,7 @@
       "相机",
       "侧面",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816526+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_provia",
@@ -7491,9 +7051,7 @@
       "相机",
       "胶片",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816531+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_rack_focus",
@@ -7525,9 +7083,7 @@
       "相机",
       "变焦",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017369+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_rephotography",
@@ -7559,9 +7115,7 @@
       "相机",
       "摄影",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304090+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_reverse_perspective",
@@ -7593,9 +7147,7 @@
       "透视",
       "反向透视",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816535+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_ripple",
@@ -7627,9 +7179,7 @@
       "结构",
       "涟漪",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816538+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_rounded",
@@ -7661,9 +7211,7 @@
       "结构",
       "圆角",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816542+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_rule_of_thirds",
@@ -7695,9 +7243,7 @@
       "相机",
       "三分法",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304094+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_satellite_imagery",
@@ -7729,9 +7275,7 @@
       "相机",
       "卫星图像",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816546+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_satellite_view",
@@ -7763,9 +7307,7 @@
       "透视",
       "卫星视图",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816550+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_scanography",
@@ -7797,9 +7339,7 @@
       "相机",
       "扫描摄影",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816554+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_scene",
@@ -7831,9 +7371,7 @@
       "相机",
       "场景",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816557+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_schlieren",
@@ -7865,9 +7403,7 @@
       "相机",
       "纹影摄影",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816561+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_security_footage",
@@ -7899,9 +7435,7 @@
       "相机",
       "监控影像",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816565+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_selfie",
@@ -7933,9 +7467,7 @@
       "透视",
       "自拍",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816569+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_serpentine",
@@ -7967,9 +7499,7 @@
       "结构",
       "蛇形",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816573+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_shallow_focus",
@@ -8001,9 +7531,7 @@
       "相机",
       "浅景深",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816576+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_short_exposure",
@@ -8035,9 +7563,7 @@
       "相机",
       "短曝光",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816580+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_shot_on_16mm",
@@ -8070,9 +7596,7 @@
       "16mm",
       "拍摄",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816584+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_shot_on_17_5mm",
@@ -8104,9 +7628,7 @@
       "相机",
       "拍摄",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816589+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_shot_on_28mm",
@@ -8139,9 +7661,7 @@
       "28mm",
       "拍摄",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816593+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_shot_on_35mm",
@@ -8174,9 +7694,7 @@
       "35mm",
       "拍摄",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816597+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_shot_on_65mm",
@@ -8209,9 +7727,7 @@
       "65mm",
       "拍摄",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816601+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_shot_on_70mm",
@@ -8244,9 +7760,7 @@
       "70mm",
       "拍摄",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816606+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_shot_on_8mm",
@@ -8279,9 +7793,7 @@
       "8mm",
       "拍摄",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816610+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_shot_on_9_5mm",
@@ -8313,9 +7825,7 @@
       "相机",
       "拍摄",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816614+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_shot_on_imax_70mm",
@@ -8349,9 +7859,7 @@
       "70mm",
       "拍摄",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816619+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_shutter_speed_11000",
@@ -8383,9 +7891,7 @@
       "相机",
       "快门速度",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816623+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_shutter_speed_12",
@@ -8418,9 +7924,7 @@
       "快门速度",
       "1/2",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816628+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_side_view",
@@ -8452,9 +7956,7 @@
       "透视",
       "侧视图",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816632+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_sigmoid",
@@ -8485,9 +7987,7 @@
       "构图",
       "结构",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816636+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_sinuous",
@@ -8519,9 +8019,7 @@
       "结构",
       "蜿蜒",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816639+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_slit_scan_photography",
@@ -8552,9 +8050,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816643+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_soft_focus",
@@ -8586,9 +8082,7 @@
       "相机",
       "柔焦",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816647+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_geometry_sphere",
@@ -8620,9 +8114,7 @@
       "几何",
       "球体",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816651+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_spherical",
@@ -8654,9 +8146,7 @@
       "结构",
       "球形",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816654+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_spherize",
@@ -8688,9 +8178,7 @@
       "结构",
       "球化",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816658+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_spiral",
@@ -8722,9 +8210,7 @@
       "结构",
       "螺旋",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816662+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_spiral_of_theodorus",
@@ -8755,9 +8241,7 @@
       "构图",
       "结构",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816665+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_spiral_staircase",
@@ -8789,9 +8273,7 @@
       "结构",
       "螺旋楼梯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816669+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_spiral_stairs",
@@ -8823,9 +8305,7 @@
       "结构",
       "螺旋楼梯",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816673+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_spiraling",
@@ -8857,9 +8337,7 @@
       "结构",
       "螺旋",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816677+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_split_diopter",
@@ -8891,9 +8369,7 @@
       "相机",
       "分像对焦",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816680+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_split_toning",
@@ -8925,9 +8401,7 @@
       "相机",
       "分色调",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017377+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_squiggly",
@@ -8959,9 +8433,7 @@
       "结构",
       "弯曲线条",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816684+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_stop_motion",
@@ -8993,9 +8465,7 @@
       "相机",
       "定格动画",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304101+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_stop_motion_animation_frame",
@@ -9027,9 +8497,7 @@
       "相机",
       "定格动画",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.942464+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_subject",
@@ -9061,9 +8529,7 @@
       "相机",
       "主体",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816688+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_super_35",
@@ -9095,9 +8561,7 @@
       "相机",
       "35",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816693+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_super_panavision_70",
@@ -9129,9 +8593,7 @@
       "相机",
       "70",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816697+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_super_resolution_microscopy",
@@ -9162,9 +8624,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816701+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_surveillance",
@@ -9196,9 +8656,7 @@
       "相机",
       "监控",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816705+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_surveillance_footage",
@@ -9230,9 +8688,7 @@
       "相机",
       "监控影像",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816708+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_technirama",
@@ -9264,9 +8720,7 @@
       "相机",
       "宽银幕",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816713+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_techniscope",
@@ -9297,9 +8751,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816717+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_telephoto",
@@ -9331,9 +8783,7 @@
       "相机",
       "长焦",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304105+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_telescope",
@@ -9365,9 +8815,7 @@
       "相机",
       "望远镜",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816721+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_telescope_photography",
@@ -9398,9 +8846,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816725+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_telescopic",
@@ -9432,9 +8878,7 @@
       "相机",
       "远摄",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816729+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_third_person",
@@ -9466,9 +8910,7 @@
       "透视",
       "第三人称",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816733+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_third_person_view",
@@ -9499,9 +8941,7 @@
       "构图",
       "透视",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017382+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_three_point_perspective",
@@ -9533,9 +8973,7 @@
       "透视",
       "三点透视",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816737+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_tilt",
@@ -9567,9 +9005,7 @@
       "相机",
       "俯仰",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017386+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_tilted_plane_focus",
@@ -9601,9 +9037,7 @@
       "相机",
       "倾斜面焦",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816740+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_tiltshift",
@@ -9635,9 +9069,7 @@
       "相机",
       "移轴",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.942469+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_time_lapse",
@@ -9669,9 +9101,7 @@
       "相机",
       "延时摄影",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017389+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_tintype",
@@ -9703,9 +9133,7 @@
       "相机",
       "锡版照片",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816744+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_top_view",
@@ -9737,9 +9165,7 @@
       "透视",
       "俯视图",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816748+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_tri_x_400_tx",
@@ -9772,9 +9198,7 @@
       "400",
       "TX",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816753+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_trimetric_projection",
@@ -9805,9 +9229,7 @@
       "构图",
       "透视",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816757+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_triskelion",
@@ -9839,9 +9261,7 @@
       "结构",
       "三曲腿图",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816760+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_twisted",
@@ -9873,9 +9293,7 @@
       "结构",
       "扭曲",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816764+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_two_point_perspective",
@@ -9907,9 +9325,7 @@
       "透视",
       "两点透视",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816768+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_ultra_wide_angle",
@@ -9941,9 +9357,7 @@
       "相机",
       "广角",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.942474+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_underwater_photography",
@@ -9975,9 +9389,7 @@
       "相机",
       "水下摄影",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.001009+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_unfocused",
@@ -10009,9 +9421,7 @@
       "相机",
       "未聚焦",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816772+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_unknot",
@@ -10043,9 +9453,7 @@
       "结构",
       "未打结",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816776+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_unregistered_hypercam_2",
@@ -10077,9 +9485,7 @@
       "相机",
       "未注册",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816780+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_uv_filter",
@@ -10112,9 +9518,7 @@
       "UV",
       "滤镜",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816785+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_vanishing_point",
@@ -10146,9 +9550,7 @@
       "相机",
       "消失点",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816788+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_vantage_point",
@@ -10180,9 +9582,7 @@
       "相机",
       "视角",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816792+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_velvia",
@@ -10214,9 +9614,7 @@
       "相机",
       "胶片",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816796+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_video_frame_capture",
@@ -10247,9 +9645,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.289761+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_view_from_an_airplane",
@@ -10281,9 +9677,7 @@
       "透视",
       "飞机视角",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816800+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_vignette",
@@ -10315,9 +9709,7 @@
       "相机",
       "暗角",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.942478+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_vistavision",
@@ -10349,9 +9741,7 @@
       "相机",
       "宽银幕",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816804+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_war_photography",
@@ -10383,9 +9773,7 @@
       "相机",
       "摄影",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.942482+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_wave",
@@ -10417,9 +9805,7 @@
       "结构",
       "波浪",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.289766+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_wavy",
@@ -10451,9 +9837,7 @@
       "结构",
       "波浪",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816808+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_whirl",
@@ -10485,9 +9869,7 @@
       "结构",
       "旋转",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816812+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_white_balance",
@@ -10519,9 +9901,7 @@
       "相机",
       "白平衡",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017395+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_wide_angle",
@@ -10553,9 +9933,7 @@
       "相机",
       "广角",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304112+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_wide_shot",
@@ -10587,9 +9965,7 @@
       "透视",
       "远景",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304116+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_wildlife_photography",
@@ -10620,9 +9996,7 @@
       "构图",
       "相机",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.001015+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_perspective_worms_eye_view",
@@ -10654,9 +10028,7 @@
       "透视",
       "虫瞰",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304119+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_structure_zig_zag",
@@ -10688,9 +10060,7 @@
       "结构",
       "之字形",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816816+00:00"
+    ]
   },
   {
     "id": "mj_mj_v5_camera_zoom",
@@ -10722,9 +10092,7 @@
       "相机",
       "Zoom",
       "mj"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.289771+00:00"
+    ]
   },
   {
     "id": "composition_lens_anamorphic_lens",
@@ -10752,9 +10120,7 @@
     "labels_zh": [
       "构图",
       "镜头"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:22:18.098245+00:00"
+    ]
   },
   {
     "id": "composition_rules_asymmetrical_balance",
@@ -10782,9 +10148,7 @@
     "labels_zh": [
       "构图",
       "规则"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.289775+00:00"
+    ]
   },
   {
     "id": "composition_angles_back_view",
@@ -10813,9 +10177,7 @@
       "构图",
       "角度",
       "背面视角"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.942487+00:00"
+    ]
   },
   {
     "id": "composition_lens_background_blur",
@@ -10844,9 +10206,7 @@
       "构图",
       "镜头",
       "背景模糊"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816820+00:00"
+    ]
   },
   {
     "id": "composition_angles_bird_s_eye_view",
@@ -10875,9 +10235,7 @@
       "构图",
       "角度",
       "鸟瞰"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304124+00:00"
+    ]
   },
   {
     "id": "composition_lens_blurred_background",
@@ -10906,9 +10264,7 @@
       "构图",
       "镜头",
       "模糊背景"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:22:18.098250+00:00"
+    ]
   },
   {
     "id": "composition_lens_bokeh",
@@ -10937,9 +10293,7 @@
       "构图",
       "镜头",
       "散景"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304128+00:00"
+    ]
   },
   {
     "id": "composition_rules_centered_composition",
@@ -10968,9 +10322,7 @@
       "构图",
       "规则",
       "居中构图"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.942491+00:00"
+    ]
   },
   {
     "id": "composition_framing_close_up_portrait",
@@ -10998,9 +10350,7 @@
     "labels_zh": [
       "构图",
       "特写人像"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.942495+00:00"
+    ]
   },
   {
     "id": "composition_framing_cowboy_shot",
@@ -11027,9 +10377,7 @@
     "term_zh": "七分身镜头",
     "labels_zh": [
       "构图"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304131+00:00"
+    ]
   },
   {
     "id": "composition_lens_creamy_bokeh",
@@ -11058,9 +10406,7 @@
       "构图",
       "镜头",
       "奶油散景"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816825+00:00"
+    ]
   },
   {
     "id": "composition_lens_depth_of_field",
@@ -11089,9 +10435,7 @@
       "构图",
       "镜头",
       "景深"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304135+00:00"
+    ]
   },
   {
     "id": "composition_angles_dutch_angle",
@@ -11120,9 +10464,7 @@
       "构图",
       "角度",
       "荷兰角"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304139+00:00"
+    ]
   },
   {
     "id": "composition_rules_dynamic_composition",
@@ -11151,9 +10493,7 @@
       "构图",
       "规则",
       "动态构图"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.004190+00:00"
+    ]
   },
   {
     "id": "composition_framing_establishing_shot",
@@ -11180,9 +10520,7 @@
     "term_zh": "全景开场镜头",
     "labels_zh": [
       "构图"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304143+00:00"
+    ]
   },
   {
     "id": "composition_framing_extreme_close_up",
@@ -11210,9 +10548,7 @@
     "labels_zh": [
       "构图",
       "极特写"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.942499+00:00"
+    ]
   },
   {
     "id": "composition_framing_extreme_wide_shot",
@@ -11240,9 +10576,7 @@
     "labels_zh": [
       "构图",
       "广角镜头"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.942502+00:00"
+    ]
   },
   {
     "id": "composition_rules_filling_the_frame",
@@ -11271,9 +10605,7 @@
       "构图",
       "规则",
       "充满画面"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.004195+00:00"
+    ]
   },
   {
     "id": "composition_lens_fisheye_lens",
@@ -11302,9 +10634,7 @@
       "构图",
       "镜头",
       "鱼眼镜头"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017401+00:00"
+    ]
   },
   {
     "id": "composition_angles_fourth_view",
@@ -11333,9 +10663,7 @@
       "构图",
       "角度",
       "第四视角"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816829+00:00"
+    ]
   },
   {
     "id": "composition_framing_from_thighs_up",
@@ -11362,9 +10690,7 @@
     "term_zh": "从大腿向上",
     "labels_zh": [
       "构图"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.004200+00:00"
+    ]
   },
   {
     "id": "composition_angles_front_view",
@@ -11393,9 +10719,7 @@
       "构图",
       "角度",
       "正面视角"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.942506+00:00"
+    ]
   },
   {
     "id": "composition_framing_full_body_shot",
@@ -11423,9 +10747,7 @@
     "labels_zh": [
       "构图",
       "全身镜头"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.942510+00:00"
+    ]
   },
   {
     "id": "composition_rules_golden_ratio",
@@ -11454,9 +10776,7 @@
       "构图",
       "规则",
       "黄金比例"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.004204+00:00"
+    ]
   },
   {
     "id": "composition_framing_head_and_shoulders",
@@ -11483,9 +10803,7 @@
     "term_zh": "头部与肩部",
     "labels_zh": [
       "构图"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:12:11.004208+00:00"
+    ]
   },
   {
     "id": "composition_angles_hero_shot",
@@ -11514,9 +10832,7 @@
       "构图",
       "角度",
       "英雄镜头"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816833+00:00"
+    ]
   },
   {
     "id": "composition_rules_leading_lines",
@@ -11545,9 +10861,7 @@
       "构图",
       "规则",
       "引导线"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.942514+00:00"
+    ]
   },
   {
     "id": "composition_angles_looking_down",
@@ -11576,9 +10890,7 @@
       "构图",
       "角度",
       "向下看"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017406+00:00"
+    ]
   },
   {
     "id": "composition_angles_looking_up",
@@ -11607,9 +10919,7 @@
       "构图",
       "角度",
       "向上看"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017409+00:00"
+    ]
   },
   {
     "id": "composition_angles_low_angle_view",
@@ -11638,9 +10948,7 @@
       "构图",
       "角度",
       "仰视"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.942517+00:00"
+    ]
   },
   {
     "id": "composition_lens_macro_shot",
@@ -11669,9 +10977,7 @@
       "构图",
       "镜头",
       "微距拍摄"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816837+00:00"
+    ]
   },
   {
     "id": "composition_framing_medium_shot",
@@ -11699,9 +11005,7 @@
     "labels_zh": [
       "构图",
       "中景"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304148+00:00"
+    ]
   },
   {
     "id": "composition_rules_negative_space",
@@ -11730,9 +11034,7 @@
       "构图",
       "规则",
       "负空间"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.383723+00:00"
+    ]
   },
   {
     "id": "composition_rules_rule_of_thirds",
@@ -11761,9 +11063,7 @@
       "构图",
       "规则",
       "三分法"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304151+00:00"
+    ]
   },
   {
     "id": "composition_lens_shot_on_135mm_lens",
@@ -11791,9 +11091,7 @@
     "labels_zh": [
       "构图",
       "镜头"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017414+00:00"
+    ]
   },
   {
     "id": "composition_lens_shot_on_35mm_lens",
@@ -11821,9 +11119,7 @@
     "labels_zh": [
       "构图",
       "镜头"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:22:18.098261+00:00"
+    ]
   },
   {
     "id": "composition_lens_shot_on_50mm_lens",
@@ -11852,9 +11148,7 @@
       "构图",
       "镜头",
       "50mm"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017418+00:00"
+    ]
   },
   {
     "id": "composition_lens_shot_on_85mm_lens",
@@ -11883,9 +11177,7 @@
       "构图",
       "镜头",
       "85mm"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017422+00:00"
+    ]
   },
   {
     "id": "composition_angles_side_profile",
@@ -11914,9 +11206,7 @@
       "构图",
       "角度",
       "侧面"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816842+00:00"
+    ]
   },
   {
     "id": "composition_rules_symmetrical_composition",
@@ -11945,9 +11235,7 @@
       "构图",
       "规则",
       "对称构图"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.942522+00:00"
+    ]
   },
   {
     "id": "composition_angles_three_quarter_view",
@@ -11975,9 +11263,7 @@
     "labels_zh": [
       "构图",
       "角度"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.942525+00:00"
+    ]
   },
   {
     "id": "composition_lens_tilt_shift",
@@ -12006,9 +11292,7 @@
       "构图",
       "镜头",
       "移轴"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304155+00:00"
+    ]
   },
   {
     "id": "composition_angles_top_down_angle",
@@ -12037,9 +11321,7 @@
       "构图",
       "角度",
       "俯视角度"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816845+00:00"
+    ]
   },
   {
     "id": "composition_angles_viewed_from_above",
@@ -12068,9 +11350,7 @@
       "构图",
       "角度",
       "从上"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.942529+00:00"
+    ]
   },
   {
     "id": "composition_framing_wide_shot",
@@ -12098,9 +11378,7 @@
     "labels_zh": [
       "构图",
       "远景"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304159+00:00"
+    ]
   },
   {
     "id": "composition_angles_worm_s_eye_view",
@@ -12129,9 +11407,7 @@
       "构图",
       "角度",
       "虫瞰"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304163+00:00"
+    ]
   },
   {
     "id": "composition_lens_14mm_ultra_wide_lens",
@@ -12157,9 +11433,7 @@
       "构图",
       "镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:22:18.098266+00:00"
+    ]
   },
   {
     "id": "composition_lens_24mm_wide_angle_lens",
@@ -12187,9 +11461,7 @@
       "24mm",
       "广角镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816850+00:00"
+    ]
   },
   {
     "id": "composition_lens_35mm_standard_lens",
@@ -12217,9 +11489,7 @@
       "35mm",
       "标准镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816855+00:00"
+    ]
   },
   {
     "id": "composition_lens_50mm_normal_lens",
@@ -12247,9 +11517,7 @@
       "50mm",
       "标准镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816859+00:00"
+    ]
   },
   {
     "id": "composition_lens_85mm_portrait_lens",
@@ -12275,9 +11543,7 @@
       "构图",
       "镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:22:18.098270+00:00"
+    ]
   },
   {
     "id": "composition_lens_135mm_telephoto_lens",
@@ -12304,9 +11570,7 @@
       "镜头",
       "长焦镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017427+00:00"
+    ]
   },
   {
     "id": "composition_lens_400mm_super_telephoto_lens",
@@ -12333,9 +11597,7 @@
       "镜头",
       "长焦镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017431+00:00"
+    ]
   },
   {
     "id": "composition_lens_macro_lens",
@@ -12362,9 +11624,7 @@
       "镜头",
       "微距镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017435+00:00"
+    ]
   },
   {
     "id": "composition_lens_probe_lens_shot",
@@ -12390,9 +11650,7 @@
       "构图",
       "镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816863+00:00"
+    ]
   },
   {
     "id": "composition_lens_cctv_surveillance_camera_look",
@@ -12419,9 +11677,7 @@
       "镜头",
       "CCTV",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816867+00:00"
+    ]
   },
   {
     "id": "composition_lens_tilt_shift_lens",
@@ -12447,9 +11703,7 @@
       "构图",
       "镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:22:18.098274+00:00"
+    ]
   },
   {
     "id": "composition_lens_shallow_depth_of_field_2",
@@ -12476,9 +11730,7 @@
       "镜头",
       "浅景深",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304167+00:00"
+    ]
   },
   {
     "id": "composition_lens_shot_on_a_vintage_canon_k35_cinema_prime",
@@ -12506,9 +11758,7 @@
       "复古",
       "K35",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816872+00:00"
+    ]
   },
   {
     "id": "composition_lens_shot_on_a_cooke_s4_cinema_prime",
@@ -12535,9 +11785,7 @@
       "镜头",
       "S4",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816877+00:00"
+    ]
   },
   {
     "id": "composition_lens_vintage_helios_44_lens_swirly_bokeh",
@@ -12563,9 +11811,7 @@
       "构图",
       "镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:22:18.098278+00:00"
+    ]
   },
   {
     "id": "composition_lens_petzval_portrait_lens_swirling_bokeh",
@@ -12591,9 +11837,7 @@
       "构图",
       "镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:22:18.098281+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_shot_on_35mm_film",
@@ -12621,9 +11865,7 @@
       "35mm",
       "胶片",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017440+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_shot_on_16mm_film",
@@ -12651,9 +11893,7 @@
       "35mm",
       "胶片",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:22:18.098286+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_super_8mm_film",
@@ -12681,9 +11921,7 @@
       "8mm",
       "胶片",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816882+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_shot_on_imax_70mm_film",
@@ -12712,9 +11950,7 @@
       "70mm",
       "胶片拍摄",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816887+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_shot_in_anamorphic_scope",
@@ -12740,9 +11976,7 @@
       "构图",
       "画幅格式",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816891+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_shot_on_arri_alexa",
@@ -12770,9 +12004,7 @@
       "ARRI",
       "拍摄",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816895+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_shot_on_an_arri_alexa_65_large_format_ci",
@@ -12800,9 +12032,7 @@
       "ARRI",
       "65",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816900+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_shot_on_a_sony_venice_full_frame_cinema",
@@ -12829,9 +12059,7 @@
       "画幅格式",
       "Sony",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816905+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_shot_on_a_blackmagic_pocket_cinema_camer",
@@ -12859,9 +12087,7 @@
       "6K",
       "拍摄",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816910+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_red_komodo_cinema_camera",
@@ -12887,9 +12113,7 @@
       "构图",
       "画幅格式",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.383730+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_shot_on_dslr",
@@ -12915,9 +12139,7 @@
       "构图",
       "画幅格式",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816914+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_shot_on_a_sony_a7iii_mirrorless_camera",
@@ -12944,9 +12166,7 @@
       "画幅格式",
       "Sony",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816918+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_shot_on_a_canon_eos_r5_mirrorless_camera",
@@ -12974,9 +12194,7 @@
       "EOS",
       "R5",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816923+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_shot_on_a_hasselblad_medium_format_camer",
@@ -13002,9 +12220,7 @@
       "构图",
       "画幅格式",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816927+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_shot_on_a_leica_m_series_rangefinder",
@@ -13030,9 +12246,7 @@
       "构图",
       "画幅格式",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816932+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_voigtlander_rangefinder",
@@ -13058,9 +12272,7 @@
       "构图",
       "画幅格式",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816935+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_shot_on_a_fujifilm_x_t4",
@@ -13088,9 +12300,7 @@
       "X-T4",
       "拍摄",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816940+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_aerial_drone_footage",
@@ -13116,9 +12326,7 @@
       "构图",
       "画幅格式",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816943+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_shot_on_a_gopro_action_camera",
@@ -13144,9 +12352,7 @@
       "构图",
       "画幅格式",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816947+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_webcam_video_call_footage",
@@ -13173,9 +12379,7 @@
       "画幅格式",
       "视频通话",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.289785+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_shot_on_vhs",
@@ -13203,9 +12407,7 @@
       "VHS",
       "拍摄",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816952+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_90s_consumer_camcorder",
@@ -13232,9 +12434,7 @@
       "画幅格式",
       "90",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816956+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_polaroid_instant_film",
@@ -13261,9 +12461,7 @@
       "画幅格式",
       "京胶片",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017445+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_shot_on_fujifilm_instax_instant_film",
@@ -13290,9 +12488,7 @@
       "画幅格式",
       "京胶片",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017448+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_shot_on_a_single_use_disposable_film_cam",
@@ -13318,9 +12514,7 @@
       "构图",
       "画幅格式",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816960+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_holga_toy_camera",
@@ -13346,9 +12540,7 @@
       "构图",
       "画幅格式",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017452+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_tintype_wet_plate_collodion",
@@ -13374,9 +12566,7 @@
       "构图",
       "画幅格式",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816964+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_1840s_daguerreotype_photograph",
@@ -13403,9 +12593,7 @@
       "画幅格式",
       "1840",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816968+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_cctv_security_camera_footage",
@@ -13432,9 +12620,7 @@
       "画幅格式",
       "CCTV",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816972+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_black_and_white_film",
@@ -13461,9 +12647,7 @@
       "画幅格式",
       "黑白",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.942537+00:00"
+    ]
   },
   {
     "id": "composition_camera_format_iphone_camera_footage",
@@ -13489,9 +12673,7 @@
       "构图",
       "画幅格式",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.289789+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_locked_off_static_camera",
@@ -13517,9 +12699,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816976+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_handheld_camera",
@@ -13546,9 +12726,7 @@
       "运镜",
       "手持相机",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017457+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_smooth_steadicam_shot",
@@ -13574,9 +12752,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816980+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_the_camera_stays_in_exactly_the_same_pos",
@@ -13602,9 +12778,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816984+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_the_camera_stays_in_exactly_the_same_pos_3",
@@ -13630,9 +12804,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816987+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_the_camera_is_locked_to_a_tripod_head_at",
@@ -13658,9 +12830,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816991+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_the_camera_is_locked_to_a_tripod_planted",
@@ -13686,9 +12856,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816994+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_the_camera_glides_steadily_forward_throu",
@@ -13714,9 +12882,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.816998+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_the_camera_glides_steadily_backward_thro",
@@ -13742,9 +12908,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817002+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_two_opposite_things_happen_at_once",
@@ -13770,9 +12934,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817006+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_fast_push_in",
@@ -13799,9 +12961,7 @@
       "运镜",
       "快速推进",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817010+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_fast_pull_out",
@@ -13828,9 +12988,7 @@
       "运镜",
       "快速拉远",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817013+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_the_camera_breathes_it_drifts_gently_for",
@@ -13856,9 +13014,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817017+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_push_pull_swing",
@@ -13885,9 +13041,7 @@
       "运镜",
       "推拉摇摆",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817020+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_slow_creeping_push_in",
@@ -13914,9 +13068,7 @@
       "运镜",
       "缓慢潜推",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817024+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_slow_creeping_pull_out",
@@ -13943,9 +13095,7 @@
       "运镜",
       "缓慢潜拉",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817028+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_the_camera_glides_steadily_sideways_to_t",
@@ -13971,9 +13121,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817031+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_the_camera_glides_steadily_sideways_to_t_2",
@@ -13999,9 +13147,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817035+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_the_camera_is_mounted_on_a_column_that_r",
@@ -14027,9 +13173,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817038+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_the_camera_is_mounted_on_a_column_that_l",
@@ -14055,9 +13199,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817042+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_camera_rolls_counterclockwise_around_the",
@@ -14083,9 +13225,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817045+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_camera_rolls_clockwise_around_the_lens_a",
@@ -14111,9 +13251,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817049+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_the_shot_begins_level",
@@ -14140,9 +13278,7 @@
       "运镜",
       "开头齐平",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817052+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_full_360_degree_camera_roll",
@@ -14169,9 +13305,7 @@
       "运镜",
       "360",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017462+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_camera_orbits_around_the_subject_in_a_ci",
@@ -14197,9 +13331,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817056+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_slow_camera_arc_around_the_subject_throu",
@@ -14225,9 +13357,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817060+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_the_camera_slowly_moves_sideways_to_the",
@@ -14253,9 +13383,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817063+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_full_orbit_one_complete_circle_around_th",
@@ -14281,9 +13409,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817066+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_the_camera_is_carried_on_the_end_of_a_lo",
@@ -14309,9 +13435,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817070+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_boom_up",
@@ -14338,9 +13462,7 @@
       "运镜",
       "上摇",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817074+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_boom_down",
@@ -14367,9 +13489,7 @@
       "运镜",
       "下摇",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817077+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_tracking_shot",
@@ -14396,9 +13516,7 @@
       "运镜",
       "跟踪镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017467+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_follow_shot_from_behind",
@@ -14425,9 +13543,7 @@
       "运镜",
       "从背后",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.942543+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_leading_tracking_shot",
@@ -14454,9 +13570,7 @@
       "运镜",
       "跟踪镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017470+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_aerial_drone_follow_shot",
@@ -14482,9 +13596,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817081+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_parallel_dolly_tracking_shot",
@@ -14511,9 +13623,7 @@
       "运镜",
       "跟踪镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017474+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_smooth_gimbal_walking_shot",
@@ -14539,9 +13649,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817085+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_slow_gliding_gimbal_move",
@@ -14567,9 +13675,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817088+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_serpentine_tracking_shot",
@@ -14596,9 +13702,7 @@
       "运镜",
       "跟踪镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017478+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_first_person_pov_shot",
@@ -14627,9 +13731,7 @@
       "POV",
       "镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817093+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_over_the_shoulder_shot",
@@ -14656,9 +13758,7 @@
       "运镜",
       "过肩镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.942547+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_bird_s_eye_view",
@@ -14685,9 +13785,7 @@
       "运镜",
       "鸟瞰",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304178+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_worm_s_eye_view",
@@ -14714,9 +13812,7 @@
       "运镜",
       "虫瞰",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.304182+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_high_altitude_aerial_drone_shot",
@@ -14742,9 +13838,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017481+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_sweeping_helicopter_aerial_shot",
@@ -14771,9 +13865,7 @@
       "运镜",
       "航拍",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017485+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_low_aerial_fly_over_pass",
@@ -14800,9 +13892,7 @@
       "运镜",
       "低空飞越",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817097+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_flythrough_shot",
@@ -14829,9 +13919,7 @@
       "运镜",
       "穿越镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817101+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_rising_reveal_shot",
@@ -14857,9 +13945,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817104+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_body_mounted_snorricam_shot",
@@ -14885,9 +13971,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817108+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_the_camera_itself_never_moves",
@@ -14913,9 +13997,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817111+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_handheld_vlog_style_camera",
@@ -14941,9 +14023,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.017489+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_first_person_walking_pov",
@@ -14969,9 +14049,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817115+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_rapid_speed_ramped_camera_move",
@@ -14997,9 +14075,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817118+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_a_match_cut_built_on_a_zoom",
@@ -15025,9 +14101,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817122+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_abrupt_snap_cut_transition",
@@ -15054,9 +14128,7 @@
       "运镜",
       "突触切剪",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817126+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_fast_flip_cut_transition",
@@ -15083,9 +14155,7 @@
       "运镜",
       "快速翻切",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817129+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_slow_gentle_camera_drift",
@@ -15111,9 +14181,7 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817133+00:00"
+    ]
   },
   {
     "id": "composition_camera_motions_lateral_parallax_camera_move",
@@ -15139,8 +14207,6 @@
       "构图",
       "运镜",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.817136+00:00"
+    ]
   }
 ]

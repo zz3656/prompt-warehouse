@@ -23,9 +23,7 @@
       "景别",
       "广角镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950388+00:00"
+    ]
   },
   {
     "id": "framing_shot_size_wide_shot",
@@ -51,9 +49,7 @@
       "景别",
       "远景",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.311804+00:00"
+    ]
   },
   {
     "id": "framing_shot_size_medium_wide_shot",
@@ -79,9 +75,7 @@
       "景别",
       "广角镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950394+00:00"
+    ]
   },
   {
     "id": "framing_shot_size_medium_shot",
@@ -107,9 +101,7 @@
       "景别",
       "中景",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.311813+00:00"
+    ]
   },
   {
     "id": "framing_shot_size_medium_close_up",
@@ -135,9 +127,7 @@
       "景别",
       "中特写",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950399+00:00"
+    ]
   },
   {
     "id": "framing_shot_size_close_up",
@@ -163,9 +153,7 @@
       "景别",
       "特写镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.827960+00:00"
+    ]
   },
   {
     "id": "framing_shot_size_extreme_close_up",
@@ -191,9 +179,7 @@
       "景别",
       "极特写",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950403+00:00"
+    ]
   },
   {
     "id": "framing_shot_size_ecu_eye",
@@ -219,9 +205,7 @@
       "景别",
       "极特写",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950407+00:00"
+    ]
   },
   {
     "id": "framing_shot_size_ecu_mouth",
@@ -247,9 +231,7 @@
       "景别",
       "极特写",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950411+00:00"
+    ]
   },
   {
     "id": "framing_shot_size_ecu_hands",
@@ -275,9 +257,7 @@
       "景别",
       "极特写",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950415+00:00"
+    ]
   },
   {
     "id": "framing_shot_size_big_close_up",
@@ -303,9 +283,7 @@
       "景别",
       "大特写",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.448623+00:00"
+    ]
   },
   {
     "id": "framing_shot_size_choker",
@@ -332,9 +310,7 @@
       "颈部特写",
       "仅头颈",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.448630+00:00"
+    ]
   },
   {
     "id": "framing_shot_size_italian_shot",
@@ -360,9 +336,7 @@
       "景别",
       "极特写",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950419+00:00"
+    ]
   },
   {
     "id": "framing_shot_size_insert",
@@ -388,9 +362,7 @@
       "景别",
       "插入镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.448634+00:00"
+    ]
   },
   {
     "id": "framing_shot_size_macro",
@@ -416,9 +388,7 @@
       "景别",
       "微距拍摄",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.827974+00:00"
+    ]
   },
   {
     "id": "framing_shot_size_full_shot",
@@ -444,9 +414,7 @@
       "景别",
       "全景",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950423+00:00"
+    ]
   },
   {
     "id": "framing_shot_size_cowboy_shot",
@@ -471,9 +439,7 @@
       "构图",
       "景别",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.311818+00:00"
+    ]
   },
   {
     "id": "framing_shot_size_head_to_hip",
@@ -498,9 +464,7 @@
       "构图",
       "景别",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.448639+00:00"
+    ]
   },
   {
     "id": "framing_shot_size_half_body",
@@ -526,9 +490,7 @@
       "景别",
       "半身人像",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.448643+00:00"
+    ]
   },
   {
     "id": "framing_angle_eye_level",
@@ -554,9 +516,7 @@
       "角度",
       "平视",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950428+00:00"
+    ]
   },
   {
     "id": "framing_angle_high_angle",
@@ -582,9 +542,7 @@
       "角度",
       "俯视",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950431+00:00"
+    ]
   },
   {
     "id": "framing_angle_low_angle",
@@ -610,9 +568,7 @@
       "角度",
       "仰视",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950435+00:00"
+    ]
   },
   {
     "id": "framing_angle_overhead",
@@ -639,9 +595,7 @@
       "俯拍镜头",
       "正直向下",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.448648+00:00"
+    ]
   },
   {
     "id": "framing_angle_worms_eye_angle",
@@ -667,9 +621,7 @@
       "角度",
       "虫瞰",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.311823+00:00"
+    ]
   },
   {
     "id": "framing_angle_dutch_angle",
@@ -695,9 +647,7 @@
       "角度",
       "荷兰角",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950439+00:00"
+    ]
   },
   {
     "id": "framing_angle_birds_eye",
@@ -723,9 +673,7 @@
       "角度",
       "鸟瞰",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.311827+00:00"
+    ]
   },
   {
     "id": "framing_angle_slightly_downward",
@@ -750,9 +698,7 @@
       "构图",
       "角度",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.448653+00:00"
+    ]
   },
   {
     "id": "framing_coverage_single",
@@ -777,9 +723,7 @@
       "构图",
       "覆盖",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.448657+00:00"
+    ]
   },
   {
     "id": "framing_coverage_two_shot",
@@ -805,9 +749,7 @@
       "覆盖",
       "双人镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950443+00:00"
+    ]
   },
   {
     "id": "framing_coverage_three_shot",
@@ -833,9 +775,7 @@
       "覆盖",
       "三人镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.448661+00:00"
+    ]
   },
   {
     "id": "framing_coverage_over_the_shoulder_framing",
@@ -861,9 +801,7 @@
       "覆盖",
       "过肩镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950447+00:00"
+    ]
   },
   {
     "id": "framing_coverage_reverse_shot",
@@ -889,9 +827,7 @@
       "覆盖",
       "反打镜头",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.448665+00:00"
+    ]
   },
   {
     "id": "framing_coverage_pov_framing",
@@ -916,9 +852,7 @@
       "构图",
       "覆盖",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950451+00:00"
+    ]
   },
   {
     "id": "framing_coverage_selfie_framing",
@@ -943,9 +877,7 @@
       "构图",
       "覆盖",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.448669+00:00"
+    ]
   },
   {
     "id": "framing_coverage_mirror_selfie",
@@ -970,9 +902,7 @@
       "构图",
       "覆盖",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.298347+00:00"
+    ]
   },
   {
     "id": "framing_coverage_gym_mirror_selfie",
@@ -997,9 +927,7 @@
       "构图",
       "覆盖",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.827980+00:00"
+    ]
   },
   {
     "id": "framing_coverage_through_glass",
@@ -1024,9 +952,7 @@
       "构图",
       "覆盖",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.448673+00:00"
+    ]
   },
   {
     "id": "framing_coverage_top_down_flat_lay",
@@ -1051,9 +977,7 @@
       "构图",
       "覆盖",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.298361+00:00"
+    ]
   },
   {
     "id": "framing_coverage_establishing_shot",
@@ -1078,9 +1002,7 @@
       "构图",
       "覆盖",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.311832+00:00"
+    ]
   },
   {
     "id": "framing_coverage_dirty_single",
@@ -1105,9 +1027,7 @@
       "构图",
       "覆盖",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.448677+00:00"
+    ]
   },
   {
     "id": "framing_composition_rule_of_thirds",
@@ -1131,9 +1051,7 @@
     "labels_zh": [
       "构图",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950455+00:00"
+    ]
   },
   {
     "id": "framing_composition_centered",
@@ -1158,9 +1076,7 @@
       "构图",
       "居中构图",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950459+00:00"
+    ]
   },
   {
     "id": "framing_composition_headroom_tight",
@@ -1184,9 +1100,7 @@
     "labels_zh": [
       "构图",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.448681+00:00"
+    ]
   },
   {
     "id": "framing_composition_negative_space",
@@ -1210,9 +1124,7 @@
     "labels_zh": [
       "构图",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950462+00:00"
+    ]
   },
   {
     "id": "framing_composition_leading_lines",
@@ -1237,9 +1149,7 @@
       "构图",
       "引导线",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950466+00:00"
+    ]
   },
   {
     "id": "framing_composition_3x3_grid_collage",
@@ -1264,9 +1174,7 @@
       "构图",
       "3x3",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.448686+00:00"
+    ]
   },
   {
     "id": "framing_composition_diptych",
@@ -1290,9 +1198,7 @@
     "labels_zh": [
       "构图",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.448689+00:00"
+    ]
   },
   {
     "id": "framing_composition_triptych",
@@ -1316,9 +1222,7 @@
     "labels_zh": [
       "构图",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.448693+00:00"
+    ]
   },
   {
     "id": "framing_composition_multi_frame_mosaic",
@@ -1342,9 +1246,7 @@
     "labels_zh": [
       "构图",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.448697+00:00"
+    ]
   },
   {
     "id": "framing_composition_contact_sheet",
@@ -1368,9 +1270,7 @@
     "labels_zh": [
       "构图",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.448700+00:00"
+    ]
   },
   {
     "id": "framing_composition_magazine_spread",
@@ -1394,9 +1294,7 @@
     "labels_zh": [
       "构图",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.448704+00:00"
+    ]
   },
   {
     "id": "framing_composition_cutaway_cross_section",
@@ -1420,9 +1318,7 @@
     "labels_zh": [
       "构图",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.448708+00:00"
+    ]
   },
   {
     "id": "framing_composition_golden_spiral",
@@ -1446,9 +1342,7 @@
     "labels_zh": [
       "构图",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.392822+00:00"
+    ]
   },
   {
     "id": "framing_composition_frame_within_frame",
@@ -1472,9 +1366,7 @@
     "labels_zh": [
       "构图",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950470+00:00"
+    ]
   },
   {
     "id": "framing_composition_s_curve",
@@ -1498,9 +1390,7 @@
     "labels_zh": [
       "构图",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.448712+00:00"
+    ]
   },
   {
     "id": "framing_composition_diagonal_composition",
@@ -1525,9 +1415,7 @@
       "构图",
       "对角构图",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.448715+00:00"
+    ]
   },
   {
     "id": "framing_composition_triangular_composition",
@@ -1552,9 +1440,7 @@
       "构图",
       "三角构图",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.448719+00:00"
+    ]
   },
   {
     "id": "framing_composition_symmetrical_mirror",
@@ -1578,9 +1464,7 @@
     "labels_zh": [
       "构图",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.298368+00:00"
+    ]
   },
   {
     "id": "framing_composition_vignette_composition",
@@ -1605,9 +1489,7 @@
       "构图",
       "暗角构图",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.298373+00:00"
+    ]
   },
   {
     "id": "framing_vantage_front_on",
@@ -1633,9 +1515,7 @@
       "视角",
       "正面视角",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.448723+00:00"
+    ]
   },
   {
     "id": "framing_vantage_three_quarter_front",
@@ -1661,9 +1541,7 @@
       "视角",
       "正面视角",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950474+00:00"
+    ]
   },
   {
     "id": "framing_vantage_profile_left",
@@ -1689,9 +1567,7 @@
       "视角",
       "侧面视角",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950477+00:00"
+    ]
   },
   {
     "id": "framing_vantage_profile_right",
@@ -1717,9 +1593,7 @@
       "视角",
       "侧面视角",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950481+00:00"
+    ]
   },
   {
     "id": "framing_vantage_three_quarter_back",
@@ -1744,9 +1618,7 @@
       "构图",
       "视角",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.025384+00:00"
+    ]
   },
   {
     "id": "framing_vantage_behind",
@@ -1772,9 +1644,7 @@
       "视角",
       "从背后",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950485+00:00"
+    ]
   },
   {
     "id": "framing_vantage_side_back_angle",
@@ -1799,8 +1669,174 @@
       "构图",
       "视角",
       "nodaro"
+    ]
+  },
+  {
+    "id": "framing_over_the_shoulder",
+    "term": "over-the-shoulder shot framing",
+    "term_zh": "过肩镜头构图",
+    "subcategory": "shot-size",
+    "labels": [
+      "over-the-shoulder",
+      "OTS",
+      "conversational",
+      "framing"
     ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.950488+00:00"
+    "labels_zh": [
+      "构图",
+      "过肩",
+      "对话",
+      "构图"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "film",
+      "conversation"
+    ],
+    "created_at": "2026-10-05T22:03:34.340936+00:00",
+    "category": "framing"
+  },
+  {
+    "id": "framing_wide_angle_distortion",
+    "term": "wide-angle lens distortion barrel",
+    "term_zh": "广角镜头桶形畸变",
+    "subcategory": "angle",
+    "labels": [
+      "wide-angle",
+      "barrel-distortion",
+      "fisheye",
+      "exaggerated"
+    ],
+    "labels_zh": [
+      "构图",
+      "广角",
+      "桶形畸变",
+      "夸张"
+    ],
+    "score": 0.75,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "dramatic",
+      "creative"
+    ],
+    "created_at": "2026-10-05T22:03:34.340936+00:00",
+    "category": "framing"
+  },
+  {
+    "id": "framing_dutch_angle_extreme",
+    "term": "extreme Dutch angle tilt",
+    "term_zh": "极端荷兰角倾斜",
+    "subcategory": "angle",
+    "labels": [
+      "dutch-angle",
+      "extreme",
+      "tilt",
+      "unstable"
+    ],
+    "labels_zh": [
+      "构图",
+      "荷兰角",
+      "极端",
+      "倾斜"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "dramatic",
+      "thriller"
+    ],
+    "created_at": "2026-10-05T22:03:34.340936+00:00",
+    "category": "framing"
+  },
+  {
+    "id": "framing_worms_eye_view",
+    "term": "worm's eye view looking up",
+    "term_zh": "仰视低角度视角",
+    "subcategory": "vantage",
+    "labels": [
+      "worms-eye",
+      "low-angle",
+      "looking-up",
+      "powerful"
+    ],
+    "labels_zh": [
+      "构图",
+      "仰视",
+      "低角度",
+      "强势"
+    ],
+    "score": 0.8,
+    "priority": "high",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "dramatic",
+      "heroic"
+    ],
+    "created_at": "2026-10-05T22:03:34.340936+00:00",
+    "category": "framing"
+  },
+  {
+    "id": "framing_billboarding",
+    "term": "billboarding full-body isolation",
+    "term_zh": "全身隔离广告式构图",
+    "subcategory": "coverage",
+    "labels": [
+      "billboarding",
+      "full-body",
+      "isolation",
+      "advertising"
+    ],
+    "labels_zh": [
+      "构图",
+      "全身",
+      "隔离",
+      "广告"
+    ],
+    "score": 0.75,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "product",
+      "character"
+    ],
+    "created_at": "2026-10-05T22:03:34.340936+00:00",
+    "category": "framing"
+  },
+  {
+    "id": "framing_split_screen",
+    "term": "split-screen dual narrative",
+    "term_zh": "分屏双重叙事",
+    "subcategory": "coverage",
+    "labels": [
+      "split-screen",
+      "dual",
+      "narrative",
+      "comparison"
+    ],
+    "labels_zh": [
+      "构图",
+      "分屏",
+      "双重",
+      "对比"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "cinematic",
+      "modern"
+    ],
+    "created_at": "2026-10-05T22:03:34.340936+00:00",
+    "category": "framing"
   }
 ]

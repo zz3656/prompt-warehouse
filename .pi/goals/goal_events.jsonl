@@ -1,0 +1,14 @@
+{"type":"goal_created","goalId":"muvp4n4o-ceg1kq","objective":"对 prompt-warehouse 执行 P0+P1 全量优化，修复 schema、数据完整性、增量工作流；然后搜索互联网上高质量文生图/文生视频关键词并补充入库，通过 pi-lens 验证无报错后推送到 GitHub。","sisyphus":false,"autoContinue":true,"at":"2026-10-05T20:22:18.648Z"}
+{"type":"task_list_set","goalId":"muvp4n4o-ceg1kq","taskCount":8,"blockCompletion":false,"at":"2026-10-05T20:22:18.648Z"}
+{"type":"task_complete","goalId":"muvp4n4o-ceg1kq","taskId":"task-1","at":"2026-10-05T22:13:23.964Z"}
+{"type":"task_complete","goalId":"muvp4n4o-ceg1kq","taskId":"task-2","at":"2026-10-05T22:14:04.739Z"}
+{"type":"task_complete","goalId":"muvp4n4o-ceg1kq","taskId":"task-3","at":"2026-10-05T22:14:41.770Z"}
+{"type":"task_started","goalId":"muvp4n4o-ceg1kq","taskId":"task-4","at":"2026-10-05T22:15:31.736Z"}
+{"type":"task_complete","goalId":"muvp4n4o-ceg1kq","taskId":"task-4","at":"2026-10-05T22:17:20.041Z"}
+{"type":"goal_paused","goalId":"muvp4n4o-ceg1kq","reason":"user","status":"paused","at":"2026-10-06T03:04:23.104Z"}
+{"type":"goal_focused","goalId":"muvp4n4o-ceg1kq","reason":"selected","at":"2026-10-06T03:04:34.200Z"}
+{"type":"goal_resumed","goalId":"muvp4n4o-ceg1kq","reason":"user","at":"2026-10-06T03:04:34.203Z"}
+{"type":"task_started","goalId":"muvp4n4o-ceg1kq","taskId":"task-5","at":"2026-10-06T03:06:34.957Z"}
+{"type":"task_complete","goalId":"muvp4n4o-ceg1kq","taskId":"task-5","evidence":"Metadata consistency check passes: 6015 keywords, 20 categories, _meta.json updated.","at":"2026-10-06T03:13:09.275Z"}
+{"type":"task_complete","goalId":"muvp4n4o-ceg1kq","taskId":"task-6","evidence":"Added 27 quality + 6 held-prop + 6 framing + 5 panel + 5 character-fx + 3 action-fx + 2 photographer keywords. 72 missing category fields fixed. 1 duplicate ID fixed. 6015 keywords validated.","at":"2026-10-06T03:16:46.198Z"}
+{"type":"task_complete","goalId":"muvp4n4o-ceg1kq","taskId":"task-7","evidence":"pi-lens ran on 26 files: 109 all errors (76 active + 33 archive). All 109 are pre-existing ast-grep unchecked-throwing-call-python warnings. No new errors from our changes. pws-audit --strict: 0 error","at":"2026-10-06T03:18:51.124Z"}

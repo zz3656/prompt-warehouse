@@ -22,9 +22,7 @@
       "动作特效",
       "灾害",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913382+00:00"
+    ]
   },
   {
     "id": "action_fx_major_earthquake_earthquake_major",
@@ -49,9 +47,7 @@
       "动作特效",
       "灾害",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913589+00:00"
+    ]
   },
   {
     "id": "action_fx_building_collapse_building_collapse",
@@ -76,9 +72,7 @@
       "动作特效",
       "杂项",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913596+00:00"
+    ]
   },
   {
     "id": "action_fx_tsunami_wave_tsunami_wave",
@@ -103,9 +97,7 @@
       "动作特效",
       "灾害",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913600+00:00"
+    ]
   },
   {
     "id": "action_fx_tornado_tornado",
@@ -130,9 +122,7 @@
       "动作特效",
       "灾害",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913604+00:00"
+    ]
   },
   {
     "id": "action_fx_hurricane_hurricane",
@@ -157,9 +147,7 @@
       "动作特效",
       "灾害",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913608+00:00"
+    ]
   },
   {
     "id": "action_fx_blizzard_whiteout_blizzard_whiteout",
@@ -184,9 +172,7 @@
       "动作特效",
       "灾害",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913612+00:00"
+    ]
   },
   {
     "id": "action_fx_sandstorm_sandstorm",
@@ -211,9 +197,7 @@
       "动作特效",
       "灾害",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:14:10.509618+00:00"
+    ]
   },
   {
     "id": "action_fx_dust_storm_haboob_dust_storm_haboob",
@@ -238,9 +222,7 @@
       "动作特效",
       "杂项",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913616+00:00"
+    ]
   },
   {
     "id": "action_fx_distant_wildfire_wildfire_distant",
@@ -265,9 +247,7 @@
       "动作特效",
       "灾害",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913619+00:00"
+    ]
   },
   {
     "id": "action_fx_engulfing_wildfire_wildfire_engulfing",
@@ -292,9 +272,7 @@
       "动作特效",
       "灾害",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913623+00:00"
+    ]
   },
   {
     "id": "action_fx_volcanic_eruption_volcanic_eruption",
@@ -320,9 +298,7 @@
       "灾害",
       "火山喷发",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913627+00:00"
+    ]
   },
   {
     "id": "action_fx_lava_flow_lava_flow",
@@ -347,9 +323,7 @@
       "动作特效",
       "灾害",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913632+00:00"
+    ]
   },
   {
     "id": "action_fx_falling_ash_rain_ash_rain",
@@ -374,9 +348,7 @@
       "动作特效",
       "灾害",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.402293+00:00"
+    ]
   },
   {
     "id": "action_fx_avalanche_avalanche",
@@ -401,9 +373,7 @@
       "动作特效",
       "灾害",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913635+00:00"
+    ]
   },
   {
     "id": "action_fx_hailstorm_hailstorm",
@@ -428,9 +398,7 @@
       "动作特效",
       "灾害",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.402535+00:00"
+    ]
   },
   {
     "id": "action_fx_small_explosion_explosion_small",
@@ -455,9 +423,7 @@
       "动作特效",
       "火焰",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913639+00:00"
+    ]
   },
   {
     "id": "action_fx_large_explosion_explosion_large",
@@ -482,9 +448,7 @@
       "动作特效",
       "火焰",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913643+00:00"
+    ]
   },
   {
     "id": "action_fx_massive_explosion_explosion_massive",
@@ -509,9 +473,7 @@
       "动作特效",
       "火焰",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:14:10.509799+00:00"
+    ]
   },
   {
     "id": "action_fx_nuclear_detonation_nuclear_detonation",
@@ -536,9 +498,7 @@
       "动作特效",
       "科幻",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913647+00:00"
+    ]
   },
   {
     "id": "action_fx_airborne_fireball_fireball_airborne",
@@ -563,9 +523,7 @@
       "动作特效",
       "火焰",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913651+00:00"
+    ]
   },
   {
     "id": "action_fx_gas_explosion_gas_explosion",
@@ -590,9 +548,7 @@
       "动作特效",
       "火焰",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913654+00:00"
+    ]
   },
   {
     "id": "action_fx_oil_fire_oil_fire",
@@ -617,9 +573,7 @@
       "动作特效",
       "杂项",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913658+00:00"
+    ]
   },
   {
     "id": "action_fx_blazing_inferno_blazing_inferno",
@@ -644,9 +598,7 @@
       "动作特效",
       "火焰",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913662+00:00"
+    ]
   },
   {
     "id": "action_fx_flame_burst_flame_burst",
@@ -671,9 +623,7 @@
       "动作特效",
       "火焰",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913665+00:00"
+    ]
   },
   {
     "id": "action_fx_ember_shower_ember_shower",
@@ -698,9 +648,7 @@
       "动作特效",
       "火焰",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913669+00:00"
+    ]
   },
   {
     "id": "action_fx_smoke_pillar_smoke_pillar",
@@ -725,9 +673,7 @@
       "动作特效",
       "杂项",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:14:10.509806+00:00"
+    ]
   },
   {
     "id": "action_fx_mushroom_cloud_mushroom_cloud",
@@ -752,9 +698,7 @@
       "动作特效",
       "火焰",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913673+00:00"
+    ]
   },
   {
     "id": "action_fx_lightning_bolt_lightning_bolt",
@@ -779,9 +723,7 @@
       "动作特效",
       "电力",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913677+00:00"
+    ]
   },
   {
     "id": "action_fx_lightning_strike_impact_lightning_strike_impact",
@@ -806,9 +748,7 @@
       "动作特效",
       "电力",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913680+00:00"
+    ]
   },
   {
     "id": "action_fx_lightning_storm_lightning_storm",
@@ -833,9 +773,7 @@
       "动作特效",
       "电力",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913684+00:00"
+    ]
   },
   {
     "id": "action_fx_ball_lightning_ball_lightning",
@@ -860,9 +798,7 @@
       "动作特效",
       "电力",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913688+00:00"
+    ]
   },
   {
     "id": "action_fx_plasma_arc_plasma_arc",
@@ -887,9 +823,7 @@
       "动作特效",
       "电力",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:14:10.509810+00:00"
+    ]
   },
   {
     "id": "action_fx_taser_sparks_taser_sparks",
@@ -914,9 +848,7 @@
       "动作特效",
       "电力",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:14:10.509814+00:00"
+    ]
   },
   {
     "id": "action_fx_electric_discharge_electric_discharge",
@@ -941,9 +873,7 @@
       "动作特效",
       "电力",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:14:10.509818+00:00"
+    ]
   },
   {
     "id": "action_fx_transformer_blowout_transformer_blowout",
@@ -968,9 +898,7 @@
       "动作特效",
       "杂项",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913692+00:00"
+    ]
   },
   {
     "id": "action_fx_st_elmo_s_fire_st_elmos_fire",
@@ -995,9 +923,7 @@
       "动作特效",
       "杂项",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.402544+00:00"
+    ]
   },
   {
     "id": "action_fx_static_shock_burst_static_shock_burst",
@@ -1022,9 +948,7 @@
       "动作特效",
       "电力",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.402548+00:00"
+    ]
   },
   {
     "id": "action_fx_muzzle_flash_muzzle_flash",
@@ -1049,9 +973,7 @@
       "动作特效",
       "灾害",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913696+00:00"
+    ]
   },
   {
     "id": "action_fx_gunshot_impact_gunshot_impact",
@@ -1076,9 +998,7 @@
       "动作特效",
       "战斗",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913699+00:00"
+    ]
   },
   {
     "id": "action_fx_bullet_trail_bullet_trail",
@@ -1103,9 +1023,7 @@
       "动作特效",
       "战斗",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913703+00:00"
+    ]
   },
   {
     "id": "action_fx_sword_spark_sword_spark",
@@ -1130,9 +1048,7 @@
       "动作特效",
       "战斗",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913707+00:00"
+    ]
   },
   {
     "id": "action_fx_blade_clash_blade_clash",
@@ -1157,9 +1073,7 @@
       "动作特效",
       "灾害",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.402553+00:00"
+    ]
   },
   {
     "id": "action_fx_ricochet_spark_ricochet_spark",
@@ -1184,9 +1098,7 @@
       "动作特效",
       "战斗",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913710+00:00"
+    ]
   },
   {
     "id": "action_fx_debris_field_debris_field",
@@ -1211,9 +1123,7 @@
       "动作特效",
       "战斗",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913714+00:00"
+    ]
   },
   {
     "id": "action_fx_airborne_glass_shatter_glass_shatter_airborne",
@@ -1238,9 +1148,7 @@
       "动作特效",
       "战斗",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913717+00:00"
+    ]
   },
   {
     "id": "action_fx_ground_shockwave_shockwave_ground",
@@ -1265,9 +1173,7 @@
       "动作特效",
       "战斗",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.402557+00:00"
+    ]
   },
   {
     "id": "action_fx_sonic_boom_sonic_boom",
@@ -1292,9 +1198,7 @@
       "动作特效",
       "战斗",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:14:10.509822+00:00"
+    ]
   },
   {
     "id": "action_fx_smoke_grenade_smoke_grenade",
@@ -1319,9 +1223,7 @@
       "动作特效",
       "杂项",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.402562+00:00"
+    ]
   },
   {
     "id": "action_fx_flashbang_flashbang",
@@ -1346,9 +1248,7 @@
       "动作特效",
       "灾害",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913721+00:00"
+    ]
   },
   {
     "id": "action_fx_blood_spray_blood_spray",
@@ -1373,9 +1273,7 @@
       "动作特效",
       "战斗",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:14:10.509826+00:00"
+    ]
   },
   {
     "id": "action_fx_arrow_hit_spark_arrow_hit_spark",
@@ -1400,9 +1298,7 @@
       "动作特效",
       "战斗",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.402565+00:00"
+    ]
   },
   {
     "id": "action_fx_laser_blast_laser_blast",
@@ -1427,9 +1323,7 @@
       "动作特效",
       "科幻",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913725+00:00"
+    ]
   },
   {
     "id": "action_fx_energy_beam_energy_beam",
@@ -1454,9 +1348,7 @@
       "动作特效",
       "科幻",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913729+00:00"
+    ]
   },
   {
     "id": "action_fx_plasma_bolt_plasma_bolt",
@@ -1481,9 +1373,7 @@
       "动作特效",
       "电力",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913732+00:00"
+    ]
   },
   {
     "id": "action_fx_force_field_shimmer_force_field_shimmer",
@@ -1508,9 +1398,7 @@
       "动作特效",
       "杂项",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.065092+00:00"
+    ]
   },
   {
     "id": "action_fx_force_field_impact_force_field_impact",
@@ -1535,9 +1423,7 @@
       "动作特效",
       "杂项",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913736+00:00"
+    ]
   },
   {
     "id": "action_fx_portal_opening_portal_opening",
@@ -1562,9 +1448,7 @@
       "动作特效",
       "科幻",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913740+00:00"
+    ]
   },
   {
     "id": "action_fx_warp_distortion_warp_distortion",
@@ -1589,9 +1473,7 @@
       "动作特效",
       "科幻",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913743+00:00"
+    ]
   },
   {
     "id": "action_fx_hologram_flicker_hologram_flicker",
@@ -1616,9 +1498,7 @@
       "动作特效",
       "科幻",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:14:10.509830+00:00"
+    ]
   },
   {
     "id": "action_fx_ion_storm_ion_storm",
@@ -1643,9 +1523,7 @@
       "动作特效",
       "科幻",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913747+00:00"
+    ]
   },
   {
     "id": "action_fx_antimatter_flash_antimatter_flash",
@@ -1670,9 +1548,7 @@
       "动作特效",
       "灾害",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.402570+00:00"
+    ]
   },
   {
     "id": "action_fx_fireball_spell_fireball_spell",
@@ -1697,9 +1573,7 @@
       "动作特效",
       "火焰",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913751+00:00"
+    ]
   },
   {
     "id": "action_fx_magic_aura_magic_aura",
@@ -1724,9 +1598,7 @@
       "动作特效",
       "杂项",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913755+00:00"
+    ]
   },
   {
     "id": "action_fx_summoning_glyph_summoning_glyph",
@@ -1751,9 +1623,7 @@
       "动作特效",
       "魔法",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913758+00:00"
+    ]
   },
   {
     "id": "action_fx_lightning_magic_lightning_magic",
@@ -1778,9 +1648,7 @@
       "动作特效",
       "电力",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.402574+00:00"
+    ]
   },
   {
     "id": "action_fx_ice_shard_burst_ice_shard_burst",
@@ -1805,9 +1673,7 @@
       "动作特效",
       "杂项",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913762+00:00"
+    ]
   },
   {
     "id": "action_fx_energy_rune_energy_rune",
@@ -1832,9 +1698,7 @@
       "动作特效",
       "科幻",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913766+00:00"
+    ]
   },
   {
     "id": "action_fx_magic_portal_portal_magic",
@@ -1860,9 +1724,7 @@
       "科幻",
       "太空中",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913770+00:00"
+    ]
   },
   {
     "id": "action_fx_healing_glow_healing_glow",
@@ -1887,9 +1749,7 @@
       "动作特效",
       "魔法",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.913773+00:00"
+    ]
   },
   {
     "id": "action_fx_dark_vortex_dark_vortex",
@@ -1914,9 +1774,7 @@
       "动作特效",
       "杂项",
       "nodaro"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.402579+00:00"
+    ]
   },
   {
     "id": "action_fx_light_explosion_light_explosion",
@@ -1941,8 +1799,90 @@
       "动作特效",
       "火焰",
       "nodaro"
+    ]
+  },
+  {
+    "id": "action_fx_magic_circle_ritual",
+    "term": "glowing magical ritual circle",
+    "term_zh": "发光魔法仪式圈",
+    "subcategory": "magic",
+    "labels": [
+      "magical",
+      "ritual",
+      "circle",
+      "glowing"
     ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.402582+00:00"
+    "labels_zh": [
+      "动作特效",
+      "魔法",
+      "仪式",
+      "发光"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "fantasy",
+      "magic"
+    ],
+    "created_at": "2026-10-05T22:03:34.340936+00:00",
+    "category": "action-fx"
+  },
+  {
+    "id": "action_fx_explosion_fireball",
+    "term": "fireball explosion trail",
+    "term_zh": "火球爆炸轨迹",
+    "subcategory": "fire-blasts",
+    "labels": [
+      "fireball",
+      "explosion",
+      "trail",
+      "energy"
+    ],
+    "labels_zh": [
+      "动作特效",
+      "火球",
+      "爆炸",
+      "轨迹"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "action",
+      "fantasy"
+    ],
+    "created_at": "2026-10-05T22:03:34.340936+00:00",
+    "category": "action-fx"
+  },
+  {
+    "id": "action_fx_wind_blade",
+    "term": "invisible wind blade slash",
+    "term_zh": "无形风刃斩击",
+    "subcategory": "combat",
+    "labels": [
+      "wind-blade",
+      "slash",
+      "invisible",
+      "cut"
+    ],
+    "labels_zh": [
+      "动作特效",
+      "风刃",
+      "斩击",
+      "无形"
+    ],
+    "score": 0.8,
+    "priority": "high",
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "tags": [
+      "combat",
+      "anime"
+    ],
+    "created_at": "2026-10-05T22:03:34.340936+00:00",
+    "category": "action-fx"
   }
 ]

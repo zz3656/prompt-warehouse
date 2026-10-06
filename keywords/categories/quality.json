@@ -23,14 +23,11 @@
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
     "term_zh": "杰作",
-    "_source_file": "keywords/categories/quality.json",
     "labels_zh": [
       "质量",
       "基础",
       "杰作"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326794+00:00"
+    ]
   },
   {
     "id": "quality_basic_best_quality",
@@ -59,9 +56,7 @@
       "质量",
       "基础",
       "最高质量"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326799+00:00"
+    ]
   },
   {
     "id": "quality_basic_high_quality",
@@ -90,9 +85,7 @@
       "质量",
       "基础",
       "高质量"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326803+00:00"
+    ]
   },
   {
     "id": "quality_basic_high_resolution",
@@ -121,9 +114,7 @@
       "质量",
       "基础",
       "高分辨率"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326807+00:00"
+    ]
   },
   {
     "id": "quality_basic_detailed",
@@ -152,9 +143,7 @@
       "质量",
       "基础",
       "细致"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.029276+00:00"
+    ]
   },
   {
     "id": "quality_basic_highly_detailed",
@@ -183,9 +172,7 @@
       "质量",
       "基础",
       "高细节"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469827+00:00"
+    ]
   },
   {
     "id": "quality_basic_sharp_focus",
@@ -214,9 +201,7 @@
       "质量",
       "基础",
       "清晰聚焦"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326811+00:00"
+    ]
   },
   {
     "id": "quality_basic_crisp",
@@ -245,9 +230,7 @@
       "质量",
       "基础",
       "锐利"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.029283+00:00"
+    ]
   },
   {
     "id": "quality_basic_clear",
@@ -276,9 +259,7 @@
       "质量",
       "基础",
       "清晰"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.029287+00:00"
+    ]
   },
   {
     "id": "quality_basic_clean",
@@ -307,9 +288,7 @@
       "质量",
       "基础",
       "干净"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.029291+00:00"
+    ]
   },
   {
     "id": "quality_advanced_professional",
@@ -338,9 +317,7 @@
       "质量",
       "高级",
       "专业"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326815+00:00"
+    ]
   },
   {
     "id": "quality_advanced_professional_grade",
@@ -369,9 +346,7 @@
       "质量",
       "高级",
       "专业级"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469835+00:00"
+    ]
   },
   {
     "id": "quality_advanced_award_winning",
@@ -400,9 +375,7 @@
       "质量",
       "高级",
       "获奖作品"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326819+00:00"
+    ]
   },
   {
     "id": "quality_advanced_trending_on_artstation",
@@ -430,9 +403,7 @@
     "labels_zh": [
       "质量",
       "高级"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326823+00:00"
+    ]
   },
   {
     "id": "quality_advanced_finely_detailed",
@@ -461,9 +432,7 @@
       "质量",
       "高级",
       "精细细节"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469839+00:00"
+    ]
   },
   {
     "id": "quality_advanced_intricate_details",
@@ -492,9 +461,7 @@
       "质量",
       "高级",
       "精细细节"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326827+00:00"
+    ]
   },
   {
     "id": "quality_advanced_ultra_detailed",
@@ -521,14 +488,11 @@
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
     "term_zh": "超精细",
-    "_source_file": "keywords/categories/quality.json",
     "labels_zh": [
       "质量",
       "高级",
       "超精细"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326830+00:00"
+    ]
   },
   {
     "id": "quality_advanced_8k_uhd",
@@ -558,9 +522,7 @@
       "高级",
       "8K",
       "UHD"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.029298+00:00"
+    ]
   },
   {
     "id": "quality_advanced_photorealistic_rendering",
@@ -588,9 +550,7 @@
     "labels_zh": [
       "质量",
       "高级"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.412692+00:00"
+    ]
   },
   {
     "id": "quality_advanced_premium_quality",
@@ -619,9 +579,7 @@
       "质量",
       "高级",
       "顶级质量"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469843+00:00"
+    ]
   },
   {
     "id": "quality_animespecific_vivid_colors",
@@ -650,9 +608,7 @@
       "质量",
       "动漫专用",
       "鲜艳颜色"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469847+00:00"
+    ]
   },
   {
     "id": "quality_animespecific_colorful",
@@ -681,9 +637,7 @@
       "质量",
       "动漫专用",
       "色彩丰富"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.029302+00:00"
+    ]
   },
   {
     "id": "quality_animespecific_beautiful_lighting",
@@ -712,9 +666,7 @@
       "质量",
       "动漫专用",
       "美丽照明"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.315854+00:00"
+    ]
   },
   {
     "id": "quality_animespecific_official_art",
@@ -743,9 +695,7 @@
       "质量",
       "动漫专用",
       "官方艺术"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469851+00:00"
+    ]
   },
   {
     "id": "quality_animespecific_key_visual",
@@ -774,9 +724,7 @@
       "质量",
       "动漫专用",
       "钥匙视觉"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.315868+00:00"
+    ]
   },
   {
     "id": "quality_animespecific_anime_screencap",
@@ -805,9 +753,7 @@
       "质量",
       "动漫专用",
       "动漫截图"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:22:18.124219+00:00"
+    ]
   },
   {
     "id": "quality_animespecific_anime_still",
@@ -836,9 +782,7 @@
       "质量",
       "动漫专用",
       "动漫静帧"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:22:18.124229+00:00"
+    ]
   },
   {
     "id": "quality_animespecific_clean_lineart",
@@ -867,9 +811,7 @@
       "质量",
       "动漫专用",
       "干净线稿"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469855+00:00"
+    ]
   },
   {
     "id": "quality_animespecific_smooth_coloring",
@@ -898,9 +840,7 @@
       "质量",
       "动漫专用",
       "平滑上色"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469859+00:00"
+    ]
   },
   {
     "id": "quality_animespecific_detailed_cel_shading",
@@ -928,9 +868,7 @@
     "labels_zh": [
       "质量",
       "动漫专用"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.967452+00:00"
+    ]
   },
   {
     "id": "quality_basic_highres",
@@ -962,9 +900,7 @@
       "基础",
       "高分辨率",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.029307+00:00"
+    ]
   },
   {
     "id": "quality_basic_absurdres",
@@ -995,9 +931,7 @@
       "质量",
       "基础",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.029311+00:00"
+    ]
   },
   {
     "id": "quality_basic_raw_photo",
@@ -1030,9 +964,7 @@
       "RAW",
       "照片",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469865+00:00"
+    ]
   },
   {
     "id": "quality_basic_photograph",
@@ -1064,9 +996,7 @@
       "基础",
       "摄影",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326836+00:00"
+    ]
   },
   {
     "id": "quality_basic_super_details",
@@ -1098,9 +1028,7 @@
       "基础",
       "超级细节",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469869+00:00"
+    ]
   },
   {
     "id": "quality_basic_soft_lighting",
@@ -1132,9 +1060,7 @@
       "基础",
       "柔光",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326840+00:00"
+    ]
   },
   {
     "id": "quality_basic_shallow_depth_of_field",
@@ -1166,9 +1092,7 @@
       "基础",
       "浅景深",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326844+00:00"
+    ]
   },
   {
     "id": "quality_basic_photographic",
@@ -1200,9 +1124,7 @@
       "基础",
       "摄影",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326848+00:00"
+    ]
   },
   {
     "id": "quality_basic_film_grain",
@@ -1234,9 +1156,7 @@
       "基础",
       "胶片颗粒",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326851+00:00"
+    ]
   },
   {
     "id": "quality_basic_hdr",
@@ -1268,9 +1188,7 @@
       "基础",
       "HDR",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326855+00:00"
+    ]
   },
   {
     "id": "quality_advanced_concept_art",
@@ -1302,9 +1220,7 @@
       "高级",
       "概念艺术",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326859+00:00"
+    ]
   },
   {
     "id": "quality_advanced_digital_art",
@@ -1336,9 +1252,7 @@
       "高级",
       "数字艺术",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326863+00:00"
+    ]
   },
   {
     "id": "quality_advanced_illustration",
@@ -1370,9 +1284,7 @@
       "高级",
       "插画",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326867+00:00"
+    ]
   },
   {
     "id": "quality_advanced_finely_painted",
@@ -1404,9 +1316,7 @@
       "高级",
       "精细绘制",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469873+00:00"
+    ]
   },
   {
     "id": "quality_advanced_smooth_shading",
@@ -1438,9 +1348,7 @@
       "高级",
       "平滑阴影",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469877+00:00"
+    ]
   },
   {
     "id": "quality_advanced_masterful_coloring",
@@ -1472,9 +1380,7 @@
       "高级",
       "精湛上色",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469881+00:00"
+    ]
   },
   {
     "id": "quality_advanced_beautiful_composition",
@@ -1506,9 +1412,7 @@
       "高级",
       "美丽构图",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.315877+00:00"
+    ]
   },
   {
     "id": "quality_advanced_professional_illustration",
@@ -1540,9 +1444,7 @@
       "高级",
       "专业插画",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.967459+00:00"
+    ]
   },
   {
     "id": "quality_advanced_professional_concept_art",
@@ -1574,9 +1476,7 @@
       "高级",
       "概念艺术",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.967463+00:00"
+    ]
   },
   {
     "id": "quality_advanced_best_masterpiece",
@@ -1608,9 +1508,7 @@
       "高级",
       "最佳杰作",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469885+00:00"
+    ]
   },
   {
     "id": "quality_advanced_fav",
@@ -1642,9 +1540,7 @@
       "高级",
       "收藏",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.029316+00:00"
+    ]
   },
   {
     "id": "quality_advanced_awards_winner",
@@ -1676,9 +1572,7 @@
       "高级",
       "获奖作品",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469889+00:00"
+    ]
   },
   {
     "id": "quality_advanced_award_winning_illustration",
@@ -1709,9 +1603,7 @@
       "质量",
       "高级",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.967467+00:00"
+    ]
   },
   {
     "id": "quality_advanced_comment_worthy",
@@ -1743,9 +1635,7 @@
       "高级",
       "值得评论",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.029321+00:00"
+    ]
   },
   {
     "id": "quality_advanced_front_page",
@@ -1777,9 +1667,7 @@
       "高级",
       "头版",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469893+00:00"
+    ]
   },
   {
     "id": "quality_advanced_trending_art",
@@ -1811,9 +1699,7 @@
       "高级",
       "热门艺术",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469896+00:00"
+    ]
   },
   {
     "id": "quality_advanced_inquire_within",
@@ -1845,9 +1731,7 @@
       "高级",
       "请询问",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469900+00:00"
+    ]
   },
   {
     "id": "quality_anime_colorful_lighting",
@@ -1878,9 +1762,7 @@
       "质量",
       "动漫",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.029325+00:00"
+    ]
   },
   {
     "id": "quality_anime_clean_coloring",
@@ -1912,9 +1794,7 @@
       "动漫",
       "干净上色",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469904+00:00"
+    ]
   },
   {
     "id": "quality_anime__detailed_background",
@@ -1946,9 +1826,7 @@
       "动漫",
       "细致背景",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469908+00:00"
+    ]
   },
   {
     "id": "quality_anime__elaborate_background",
@@ -1980,9 +1858,7 @@
       "动漫",
       "精细背景",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469911+00:00"
+    ]
   },
   {
     "id": "quality_anime_look_at_viewer",
@@ -2014,9 +1890,7 @@
       "动漫",
       "注视观众",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326872+00:00"
+    ]
   },
   {
     "id": "quality_anime_masterpiece_best_quality",
@@ -2048,9 +1922,7 @@
       "动漫",
       "最高质量",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.967472+00:00"
+    ]
   },
   {
     "id": "quality_anime_original",
@@ -2082,9 +1954,7 @@
       "动漫",
       "原创",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.029329+00:00"
+    ]
   },
   {
     "id": "quality_anime_1girl",
@@ -2116,9 +1986,7 @@
       "动漫",
       "女孩",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.029336+00:00"
+    ]
   },
   {
     "id": "quality_anime_1boy",
@@ -2150,9 +2018,7 @@
       "动漫",
       "男孩",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.029340+00:00"
+    ]
   },
   {
     "id": "quality_technical_ray_tracing",
@@ -2184,9 +2050,7 @@
       "技术",
       "光线追踪",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326876+00:00"
+    ]
   },
   {
     "id": "quality_technical_global_illumination",
@@ -2218,9 +2082,7 @@
       "技术",
       "全局光照",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326880+00:00"
+    ]
   },
   {
     "id": "quality_technical_ambient_occlusion",
@@ -2251,9 +2113,7 @@
       "质量",
       "技术",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326883+00:00"
+    ]
   },
   {
     "id": "quality_technical_depth_of_field",
@@ -2285,9 +2145,7 @@
       "技术",
       "景深",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326887+00:00"
+    ]
   },
   {
     "id": "quality_technical_chromatic_aberration",
@@ -2319,9 +2177,7 @@
       "技术",
       "色差",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.967477+00:00"
+    ]
   },
   {
     "id": "quality_technical_motion_blur",
@@ -2353,9 +2209,7 @@
       "技术",
       "动态模糊",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326891+00:00"
+    ]
   },
   {
     "id": "quality_technical_film_look",
@@ -2387,9 +2241,7 @@
       "技术",
       "胶片感",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469916+00:00"
+    ]
   },
   {
     "id": "quality_technical_cinematic_look",
@@ -2421,9 +2273,7 @@
       "技术",
       "电影感",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469920+00:00"
+    ]
   },
   {
     "id": "quality_technical_studio_quality",
@@ -2455,9 +2305,7 @@
       "技术",
       "影棚质量",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469924+00:00"
+    ]
   },
   {
     "id": "quality_technical_octane_render",
@@ -2489,9 +2337,7 @@
       "技术",
       "渲染",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326895+00:00"
+    ]
   },
   {
     "id": "quality_technical_unreal_engine",
@@ -2523,9 +2369,7 @@
       "技术",
       "虚幻引擎",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326899+00:00"
+    ]
   },
   {
     "id": "quality_technical_blender",
@@ -2556,9 +2400,7 @@
       "质量",
       "技术",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.029345+00:00"
+    ]
   },
   {
     "id": "quality_technical_vray",
@@ -2589,9 +2431,7 @@
       "质量",
       "技术",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.029349+00:00"
+    ]
   },
   {
     "id": "quality_technical_porcelain_skin",
@@ -2623,9 +2463,7 @@
       "技术",
       "瓷器皮肤",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469928+00:00"
+    ]
   },
   {
     "id": "quality_technical_pores",
@@ -2657,9 +2495,7 @@
       "技术",
       "毛孔",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.029353+00:00"
+    ]
   },
   {
     "id": "quality_technical_skin_details",
@@ -2691,9 +2527,7 @@
       "技术",
       "皮肤细节",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469932+00:00"
+    ]
   },
   {
     "id": "quality_technical_sharp_details",
@@ -2725,9 +2559,7 @@
       "技术",
       "锐利细节",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326903+00:00"
+    ]
   },
   {
     "id": "quality_technical_detailed_skin",
@@ -2759,9 +2591,7 @@
       "技术",
       "细致皮肤",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469935+00:00"
+    ]
   },
   {
     "id": "quality_technical__intricate_design",
@@ -2793,9 +2623,7 @@
       "技术",
       "精致设计",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:35:17.315884+00:00"
+    ]
   },
   {
     "id": "quality_technical_intricate",
@@ -2827,9 +2655,7 @@
       "技术",
       "精致",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.029358+00:00"
+    ]
   },
   {
     "id": "quality_composition_symmetrical_composition",
@@ -2861,9 +2687,7 @@
       "构图",
       "对称构图",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.967482+00:00"
+    ]
   },
   {
     "id": "quality_composition_balanced_composition",
@@ -2895,9 +2719,7 @@
       "构图",
       "平衡构图",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469939+00:00"
+    ]
   },
   {
     "id": "quality_composition_dramatic_angle",
@@ -2929,9 +2751,7 @@
       "构图",
       "戏剧角度",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:55:59.131199+00:00"
+    ]
   },
   {
     "id": "quality_composition_dynamic_angle",
@@ -2963,9 +2783,7 @@
       "构图",
       "动态角度",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326907+00:00"
+    ]
   },
   {
     "id": "quality_composition_rule_of_thirds",
@@ -2997,9 +2815,7 @@
       "构图",
       "三分法",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326911+00:00"
+    ]
   },
   {
     "id": "quality_composition_full_shot",
@@ -3031,9 +2847,7 @@
       "构图",
       "全景",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.967487+00:00"
+    ]
   },
   {
     "id": "quality_composition_upper_body",
@@ -3065,9 +2879,7 @@
       "构图",
       "上半身",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469943+00:00"
+    ]
   },
   {
     "id": "quality_composition_three_quarter_shot",
@@ -3098,9 +2910,7 @@
       "质量",
       "构图",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469947+00:00"
+    ]
   },
   {
     "id": "quality_composition_cowboy_shot",
@@ -3131,9 +2941,7 @@
       "质量",
       "构图",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326915+00:00"
+    ]
   },
   {
     "id": "quality_composition_visual_story",
@@ -3165,9 +2973,7 @@
       "构图",
       "视觉故事",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469951+00:00"
+    ]
   },
   {
     "id": "quality_atmosphere_atmospheric",
@@ -3199,9 +3005,7 @@
       "大气",
       "氛围",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.029363+00:00"
+    ]
   },
   {
     "id": "quality_atmosphere_volumetric_fog",
@@ -3233,9 +3037,7 @@
       "大气",
       "体积雾",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:10:24.967491+00:00"
+    ]
   },
   {
     "id": "quality_atmosphere_atmospheric_fog",
@@ -3267,9 +3069,7 @@
       "大气",
       "氛围雾",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.029367+00:00"
+    ]
   },
   {
     "id": "quality_atmosphere_smoke",
@@ -3301,9 +3101,7 @@
       "大气",
       "烟雾",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326919+00:00"
+    ]
   },
   {
     "id": "quality_atmosphere_misty",
@@ -3335,9 +3133,7 @@
       "大气",
       "薄雾",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326922+00:00"
+    ]
   },
   {
     "id": "quality_atmosphere_ethereal",
@@ -3369,9 +3165,7 @@
       "大气",
       "空灵",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326926+00:00"
+    ]
   },
   {
     "id": "quality_atmosphere_eerie",
@@ -3403,9 +3197,7 @@
       "大气",
       "诡异",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.029371+00:00"
+    ]
   },
   {
     "id": "quality_atmosphere_gothic",
@@ -3437,9 +3229,7 @@
       "大气",
       "哥特",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326930+00:00"
+    ]
   },
   {
     "id": "quality_atmosphere_romantic_atmosphere",
@@ -3471,9 +3261,7 @@
       "大气",
       "浪漫氛围",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:39:25.265859+00:00"
+    ]
   },
   {
     "id": "quality_atmosphere_dreamy_atmosphere",
@@ -3505,9 +3293,7 @@
       "大气",
       "梦幻氛围",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469955+00:00"
+    ]
   },
   {
     "id": "quality_atmosphere_magical_atmosphere",
@@ -3539,9 +3325,7 @@
       "大气",
       "魔幻氛围",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:39:25.265868+00:00"
+    ]
   },
   {
     "id": "quality_atmosphere_mysterious_atmosphere",
@@ -3573,9 +3357,7 @@
       "大气",
       "神秘氛围",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:39:25.265873+00:00"
+    ]
   },
   {
     "id": "quality_atmosphere_epic_atmosphere",
@@ -3607,9 +3389,7 @@
       "大气",
       "史诗氛围",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:47:11.412708+00:00"
+    ]
   },
   {
     "id": "quality_atmosphere_peaceful_atmosphere",
@@ -3641,9 +3421,7 @@
       "大气",
       "宁静氛围",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:39:25.265878+00:00"
+    ]
   },
   {
     "id": "quality_atmosphere_serene",
@@ -3675,9 +3453,7 @@
       "大气",
       "宁静",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.029375+00:00"
+    ]
   },
   {
     "id": "quality_color_rich_colors",
@@ -3709,9 +3485,7 @@
       "色彩",
       "丰富色彩",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469959+00:00"
+    ]
   },
   {
     "id": "quality_color_vibrant_colors",
@@ -3743,9 +3517,7 @@
       "色彩",
       "鲜艳色调",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.043101+00:00"
+    ]
   },
   {
     "id": "quality_color_pastel_colors",
@@ -3777,9 +3549,7 @@
       "色彩",
       "粉彩色调",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.043113+00:00"
+    ]
   },
   {
     "id": "quality_color_neon_colors",
@@ -3811,9 +3581,7 @@
       "色彩",
       "霓虹色调",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:17:00.043117+00:00"
+    ]
   },
   {
     "id": "quality_color_monochrome",
@@ -3845,9 +3613,7 @@
       "色彩",
       "单色",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T07:06:16.326934+00:00"
+    ]
   },
   {
     "id": "quality_color_color_splash",
@@ -3879,9 +3645,7 @@
       "色彩",
       "色彩飞溅",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469963+00:00"
+    ]
   },
   {
     "id": "quality_color_colorful_background",
@@ -3913,9 +3677,7 @@
       "色彩",
       "彩色背景",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469967+00:00"
+    ]
   },
   {
     "id": "quality_color_gradient_background",
@@ -3947,9 +3709,7 @@
       "色彩",
       "渐变背景",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469971+00:00"
+    ]
   },
   {
     "id": "quality_texture_highly_detailed_face",
@@ -3981,9 +3741,7 @@
       "纹理",
       "细致面部",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469975+00:00"
+    ]
   },
   {
     "id": "quality_texture_refined_details",
@@ -4015,9 +3773,7 @@
       "纹理",
       "精致细节",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469978+00:00"
+    ]
   },
   {
     "id": "quality_texture_perfect_anatomy",
@@ -4049,9 +3805,7 @@
       "纹理",
       "完美解剖",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469982+00:00"
+    ]
   },
   {
     "id": "quality_texture_perfect_hands",
@@ -4083,9 +3837,7 @@
       "纹理",
       "完美双手",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469986+00:00"
+    ]
   },
   {
     "id": "quality_texture_detailed_hands",
@@ -4117,9 +3869,7 @@
       "纹理",
       "细致双手",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:53:10.850928+00:00"
+    ]
   },
   {
     "id": "quality_texture_detailed_feet",
@@ -4151,9 +3901,7 @@
       "纹理",
       "细致脚部",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469989+00:00"
+    ]
   },
   {
     "id": "quality_texture_realistic_anatomy",
@@ -4185,9 +3933,7 @@
       "纹理",
       "逼真解剖",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469993+00:00"
+    ]
   },
   {
     "id": "quality_texture_symmetrical_eyes",
@@ -4218,9 +3964,7 @@
       "质量",
       "纹理",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:22:18.124243+00:00"
+    ]
   },
   {
     "id": "quality_texture_detailed_iris",
@@ -4252,9 +3996,7 @@
       "纹理",
       "细致虹膜",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.029381+00:00"
+    ]
   },
   {
     "id": "quality_texture_detailed_eyelashes",
@@ -4286,9 +4028,7 @@
       "纹理",
       "细致睫毛",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T08:25:58.029385+00:00"
+    ]
   },
   {
     "id": "quality_texture_delicate_lips",
@@ -4320,9 +4060,7 @@
       "纹理",
       "精致嘴唇",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.469997+00:00"
+    ]
   },
   {
     "id": "quality_texture_perfectly_drawn",
@@ -4354,8 +4092,6 @@
       "纹理",
       "完美绘制",
       "danbooru"
-    ],
-    "_labels_zh_generated": true,
-    "_generated_at": "2026-09-30T09:08:25.470001+00:00"
+    ]
   }
 ]

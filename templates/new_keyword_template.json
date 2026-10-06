@@ -1,0 +1,47 @@
+{
+  "description": "PWS keyword template — fill in each field. Delete fields you don't need.",
+  "example": [
+    {
+      "id": "quality_basic_example",
+      "term": "example term",
+      "term_zh": "示例术语",
+      "category": "quality",
+      "subcategory": "basic",
+      "labels": ["quality", "example"],
+      "labels_zh": ["质量", "示例"],
+      "aliases": ["another name", "synonym"],
+      "aliases_zh": ["另一个名字", "同义词"],
+      "score": 0.85,
+      "priority": "high",
+      "lifecycle": "approved",
+      "tags": ["example"],
+      "source": "manual",
+      "notes": "Optional notes about this keyword.",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "updated_at": "2026-10-06T00:00:00+00:00",
+      "usage_count": 0,
+      "success_rate": null
+    }
+  ],
+  "fields": {
+    "id": "Required. Format: {category}_{subcategory}_{slug}",
+    "term": "Required. The English prompt term.",
+    "term_zh": "Required. Chinese translation (100% required).",
+    "category": "Required. Must match schema enum.",
+    "subcategory": "Required. Sub-category name.",
+    "labels": "Optional. English search labels.",
+    "labels_zh": "Optional. Chinese search labels (auto-generated if missing term_zh).",
+    "aliases": "Optional. English synonyms.",
+    "aliases_zh": "Optional. Chinese synonyms.",
+    "score": "Optional. 0–1, default 0.5.",
+    "priority": "Optional. high/medium/low/experimental, default medium.",
+    "lifecycle": "Optional. draft/review/approved/deprecated/archived, default approved.",
+    "tags": "Optional. User-defined tags.",
+    "source": "Optional. Data source.",
+    "notes": "Optional. Freeform notes.",
+    "created_at": "Optional. ISO 8601 timestamp.",
+    "updated_at": "Optional. ISO 8601 timestamp.",
+    "usage_count": "Optional. Integer, default 0.",
+    "success_rate": "Optional. 0–1 or null."
+  }
+}

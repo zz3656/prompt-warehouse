@@ -35,10 +35,28 @@ from difflib import SequenceMatcher
 
 TRANSLATIONS_INDEX = "_translations.jsonl"
 
-# Pre-defined translation mappings for commonly used terms
-# These serve as a baseline; the script can be extended with more mappings
-PRE_TRANSLATIONS = {
-    " Bikini": "比基尼",
+# Pre-defined translation mappings for commonly used terms.
+# Loaded from tools/data/pre_translations.json (git-tracked data file, 326KB).
+# To add new entries, edit tools/data/pre_translations.json directly — entries
+# are sorted alphabetically for predictable diffs and conflict resolution.
+_PRE_TRANSLATIONS_PATH = os.path.join(
+    os.path.dirname(os.path.abspath(__file__)), "data", "pre_translations.json"
+)
+try:
+    with open(_PRE_TRANSLATIONS_PATH, encoding="utf-8") as _f:
+        PRE_TRANSLATIONS = json.load(_f)
+except FileNotFoundError:
+    sys.stderr.write(
+        f"ERROR: pre_translations.json not found at {_PRE_TRANSLATIONS_PATH}\n"
+        "Did you delete tools/data/ ? Restore from git history.\n"
+    )
+    sys.exit(2)
+del _PRE_TRANSLATIONS_PATH, _f
+# Marker preserved for compatibility with any external code referencing the dict name.
+# Legacy stub: original PRE_TRANSLATIONS dict (9122 entries) was inlined here before
+# v1.8.1 refactor. Data is now in tools/data/pre_translations.json — see CHANGELOG.
+# ---------------------------------------------------------------------------------
+_PRE_LEGACY_PLACEHOLDER_
     "/adobe rgb": "Adobe RGB",
     "/agfacolor": "阿克发彩色",
     "/analogous colors": "类似色",
