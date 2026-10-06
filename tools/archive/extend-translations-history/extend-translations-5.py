@@ -909,9 +909,16 @@ EXTRA_TRANSLATIONS_5 = {
 
 def inject_translations(filepath, new_entries):
     import re as _re
+    import sys as _sys
 
-    with open(filepath) as f:
-        content = f.read()
+    content = None
+    try:
+        with open(filepath, encoding="utf-8") as f:
+            content = f.read()
+    except OSError as e:
+        print(f"FAILED to read {filepath}: {e}")
+        _sys.exit(1)
+
 
     start_marker = "PRE_TRANSLATIONS = {"
     start_idx = content.find(start_marker)
@@ -957,8 +964,12 @@ def inject_translations(filepath, new_entries):
     new_dict_str = '{\n' + '\n'.join(new_lines) + '\n}'
     new_content = before + 'PRE_TRANSLATIONS = ' + new_dict_str + after
 
-    with open(filepath, 'w') as f:
-        f.write(new_content)
+    try:
+        with open(filepath, 'w', encoding='utf-8') as f:
+            f.write(new_content)
+    except OSError as e:
+        print(f'FAILED to write {filepath}: {e}')
+        _sys.exit(1)
 
     print(f"✅ Added {added} new entries, skipped {skipped} duplicates (file now has {len(existing)} unique entries)")
 
