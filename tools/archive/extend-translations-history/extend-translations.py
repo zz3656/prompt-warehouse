@@ -483,8 +483,12 @@ EXTRA_TRANSLATIONS = {
 
 def inject_translations(filepath, new_entries):
     """Inject new entries into PRE_TRANSLATIONS dict, preserving sorted order."""
-    with open(filepath) as f:
-        content = f.read()
+    try:
+        with open(filepath, encoding="utf-8") as f:
+            content = f.read()
+    except OSError as e:
+        print(f"❌ Failed to read {filepath}: {e}")
+        sys.exit(1)
 
     # Find PRE_TRANSLATIONS bounds
     start_marker = "PRE_TRANSLATIONS = {"
@@ -534,21 +538,26 @@ def inject_translations(filepath, new_entries):
     new_dict_str = '{\n' + '\n'.join(new_lines) + '\n}'
     new_content = before + 'PRE_TRANSLATIONS = ' + new_dict_str + after
 
-    with open(filepath, 'w') as f:
-        f.write(new_content)
+    try:
+        with open(filepath, 'w', encoding="utf-8") as f:
+            f.write(new_content)
+    except OSError as e:
+        print(f"❌ Failed to write {filepath}: {e}")
+        sys.exit(1)
 
     print(f"✅ Added {added} new entries, skipped {skipped} duplicates (file now has {len(existing)} unique entries)")
 
     # Verify it parses
     try:
-        with open(filepath) as f:
+        with open(filepath, encoding="utf-8") as f:
             code = f.read()
         # Extract just the dict
         m = re.search(r'PRE_TRANSLATIONS = (\{[^\n]+(?:.+?\n)*?\})\n\n', code, re.DOTALL)
         if m:
+            from ast import literal_eval
             ns = {'__name__': 'test'}
-            ns['PRE_TRANSLATIONS'] = eval(m.group(1))
-            print(f"✅ File syntactically valid")
+            ns['PRE_TRANSLATIONS'] = literal_eval(m.group(1))
+            print("✅ File syntactically valid")
     except Exception as e:
         print(f"⚠️  Syntax check failed: {e}")
 
