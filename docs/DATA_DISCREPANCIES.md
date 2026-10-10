@@ -47,7 +47,7 @@
 
 ---
 
-## 3. STANDARD.md / STANDARD_en.md
+## 3. docs/standard.md / docs/standard_en.md
 
 | 文档内容 | 实际值 | 差异 |
 |----------|--------|------|
@@ -56,11 +56,11 @@
 | 附录 A 分类参考表列 20 个分类 — **正确**，但子分类信息不完整 | 子分类远超文档所列 | 部分分类的子分类需补充 |
 | 阶段二迁移中 "~350 keywords" | 实际 6,015 关键词 | **需更新** |
 | 阶段三工具 "Web UI for keyword management" 状态 "🔄 In Progress" | 配方包系统已完成，但 Web UI 仍未实现 | 需确认状态 |
-| 模板语法部分缺少 `join`、`truncate` 等辅助函数 | 文档中模板语法部分列出了这些函数 — **README.md 有但 STANDARD.md 也有** | 部分一致 |
+| 模板语法部分缺少 `join`、`truncate` 等辅助函数 | 文档中模板语法部分列出了这些函数 — **README.md 有但 docs/standard.md 也有** | 部分一致 |
 
 ---
 
-## 4. ADDING_KEYWORDS.md
+## 4. docs/adding-keywords.md
 
 | 文档内容 | 实际值 | 差异 |
 |----------|--------|------|
@@ -81,7 +81,7 @@
 
 ---
 
-## 5. ADDING_BUNDLES.md
+## 5. docs/adding-bundles.md
 
 | 文档内容 | 实际值 | 差异 |
 |----------|--------|------|
@@ -91,7 +91,7 @@
 
 ---
 
-## 6. ADD_PROMPTS_GUIDE.md
+## 6. docs/prompt-data-model.md
 
 | 文档内容 | 实际值 | 差异 |
 |----------|--------|------|
@@ -116,13 +116,11 @@
 | 文档内容 | 实际值 | 差异 |
 |----------|--------|------|
 | 列出的工具列表基本正确 | 实际工具列表一致 | 但缺少：`pws-add-new.py`, `pws-enrich.py` |
-| 未列出 `pws-add-new.py` — 但 ADDING_KEYWORDS.md 引用了它 | 实际存在 | **需补充到 README** |
+| 未列出 `pws-add-new.py` — 但 docs/adding-keywords.md 引用了它 | 实际存在 | **需补充到 README** |
 | 未列出 `pws-enrich.py` | 实际存在 | **需补充到 README** |
 | 归档工具列表正确 | 实际 archive 目录内容一致 | **正确** |
 
 ---
-
-## 9. IDEA.md
 
 | 文档内容 | 实际值 | 差异 |
 |----------|--------|------|
@@ -153,14 +151,14 @@
 
 ### 🟡 中优先级（部分过时但非关键数据）
 
-6. **STANDARD.md / STANDARD_en.md** — 目录结构中模板部分需更新子分类体系
+6. **docs/standard.md / docs/standard_en.md** — 目录结构中模板部分需更新子分类体系
 7. **IDEA.md** — Phase 2/3 状态需要更新（未完成 vs 部分完成）
 8. **pws-optimization-v1.9.md** — Phase 2/3 状态更新
 
 ### 🟢 低优先级（细节不准确但影响较小）
 
-9. **ADDING_BUNDLES.md** — 示例正确但数量不完整（可接受）
-10. **ADD_PROMPTS_GUIDE.md** — 基本准确
+9. **docs/adding-bundles.md** — 示例正确但数量不完整（可接受）
+10. **docs/prompt-data-model.md** — 基本准确
 
 ---
 

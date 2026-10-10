@@ -173,10 +173,10 @@ python3 tools/pws-stats.py
 
 ## 6. 更多文档
 
-- 完整数据模型和分类体系：[STANDARD.md](STANDARD.md)
-- 双语提示词补充指南：[ADD_PROMPTS_GUIDE.md](ADD_PROMPTS_GUIDE.md)
-- 工具集说明：[tools/README.md](tools/README.md)
-- 数据来源说明：[README.md](README.md) 的「数据来源」章节
+- 完整数据模型和分类体系：[docs/standard.md](standard.md)
+- 双语提示词补充指南：[docs/prompt-data-model.md](prompt-data-model.md)
+- 工具集说明：
+- 数据来源说明：[README.md](../README.md) 的「数据来源」章节
 
 ---
 

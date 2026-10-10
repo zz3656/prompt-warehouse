@@ -179,8 +179,8 @@
 
 | 文件 | 更新内容 |
 |------|---------|
-| `STANDARD.md` §3.2 | 更新分类体系（33 → 19），附录 A 同步 |
-| `STANDARD_en.md` §3.2 | 同上 |
+| `docs/standard.md` §3.2 | 更新分类体系（33 → 19），附录 A 同步 |
+| `docs/standard_en.md` §3.2 | 同上 |
 | `README.md` | 更新分类列表 |
 | `README_en.md` | 同上 |
 | `keywords/_meta.json` | `total_categories`: 33 → 19，加 `consolidation` 版本号 |

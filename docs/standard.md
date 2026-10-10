@@ -786,4 +786,4 @@ var QUALITY = {
 
 ---
 
-*← [English](STANDARD_en.md)*
+*← [English](standard_en.md)*

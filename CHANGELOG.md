@@ -27,7 +27,7 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/).
 
 ### 📚 Documentation
 - Updated README.md and README_en.md with v1.0.0 data
-- Updated ADDING_KEYWORDS.md with revised category counts
+- Updated docs/adding-keywords.md with revised category counts
 - Updated tools/README.md with missing tools
 - Updated project status: Phase 4 (Sharing) marked Complete
 

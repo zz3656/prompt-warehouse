@@ -81,7 +81,7 @@ prompt-warehouse/
 │   └── h3-comic-builder.json   # H3 漫画构建器配置
 ├── snapshots/                  # 导出快照
 │   └── YYYY/MM/
-└── STANDARD.md                 # 完整标准文档
+└── docs/standard.md                 # 完整标准文档
 ```
 
 ---
@@ -218,7 +218,7 @@ cat projects/h3-comic-builder.json
 ```
 
 **快速浏览所有分类**：`ls keywords/categories/` 列出 20 个分类文件。
-**完整数据模型**：[STANDARD.md](STANDARD.md)
+**完整数据模型**：[docs/standard.md](docs/standard.md)
 **JSON Schema**：[schema/keyword.schema.json](schema/keyword.schema.json) · [schema/template.schema.json](schema/template.schema.json)
 
 ### 分类体系
@@ -453,7 +453,7 @@ python3 tools/pws-bundles.py validate
 - **预建提示词**: 可直接使用的完整 prompt
 - **模板引用**: 可关联 API 特定的模板（如 `h3.video_prompts`）
 
-详细文档见 [ADDING_BUNDLES.md](ADDING_BUNDLES.md)。
+详细文档见 [docs/adding-bundles.md](docs/adding-bundles.md)。
 
 ---
 
@@ -517,18 +517,18 @@ PWS 设计用于与 REST API 配合使用。h3-comic-builder 服务器已提供�
 
 ## 📄 许可证
 
-MIT 许可证 — 详见 [STANDARD.md](STANDARD.md)。
+MIT 许可证 — 详见 [docs/standard.md](docs/standard.md)。
 
 ---
 
 ## 📚 资源
 
-- **完整规范**: [STANDARD.md](STANDARD.md)
+- **完整规范**: [docs/standard.md](docs/standard.md)
 - **关键词结构**: [schema/keyword.schema.json](schema/keyword.schema.json)
 - **模板结构**: [schema/template.schema.json](schema/template.schema.json)
 - **Bundle 结构**: [schema/bundle.schema.json](schema/bundle.schema.json)
 - **管理工具**: [tools/pws-bundles.py](tools/pws-bundles.py)
-- **创建配方包**: [ADDING_BUNDLES.md](ADDING_BUNDLES.md)
+- **创建配方包**: [docs/adding-bundles.md](docs/adding-bundles.md)
 - **元数据**: [keywords/_meta.json](keywords/_meta.json)
 - **数据来源**: 见下文
 - **当前统计**: 6,015 个关键词 · 20 个分类 · 3 个模板 · 10 个配方包

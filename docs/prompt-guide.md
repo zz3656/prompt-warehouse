@@ -4,7 +4,7 @@
 >
 > **仓库地址**: https://github.com/zz3656/prompt-warehouse
 >
-> **完整数据模型与字段说明**：[README.md](README.md) | [STANDARD.md](STANDARD.md)
+> **完整数据模型与字段说明**：[README.md](../README.md) | [docs/standard.md](standard.md)
 
 ---
 
@@ -234,6 +234,6 @@ dark clouds, lightning, battle scene
 
 - **关键词词典**：`keywords/categories/` — 33 个分类，5,959 个关键词
 - **模板**：`templates/` — 27 个模板
-- **数据模型**：[README.md](README.md) | [STANDARD.md](STANDARD.md)
+- **数据模型**：[README.md](../README.md) | [docs/standard.md](standard.md)
 - **JSON Schema**：`schema/`
-- **补充指南（含去重）**：[ADD_PROMPTS_GUIDE.md](ADD_PROMPTS_GUIDE.md)
+- **补充指南（含去重）**：[docs/prompt-data-model.md](prompt-data-model.md)

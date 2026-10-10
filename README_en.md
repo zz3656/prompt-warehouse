@@ -81,7 +81,7 @@ prompt-warehouse/
 │   └── h3-comic-builder.json   # H3 Comic Builder config
 ├── snapshots/                  # Export snapshots
 │   └── YYYY/MM/
-└── STANDARD_en.md              # Full specification
+└── docs/standard_en.md              # Full specification
 ```
 
 ---
@@ -421,13 +421,13 @@ Guidelines:
 
 ## 📄 License
 
-MIT License — see [STANDARD_en.md](STANDARD_en.md) for full details.
+MIT License — see [docs/standard_en.md](docs/standard_en.md) for full details.
 
 ---
 
 ## 📚 Resources
 
-- **Full Specification**: [STANDARD_en.md](STANDARD_en.md)
+- **Full Specification**: [docs/standard_en.md](docs/standard_en.md)
 - **Keyword Schema**: [schema/keyword.schema.json](schema/keyword.schema.json)
 - **Template Schema**: [schema/template.schema.json](schema/template.schema.json)
 - **Project Schema**: [schema/project.schema.json](schema/project.schema.json)

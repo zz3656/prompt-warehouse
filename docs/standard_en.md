@@ -665,4 +665,4 @@ var QUALITY = {
 
 ---
 
-*← [简体中文](STANDARD.md)*
+*← [简体中文](standard.md)*
