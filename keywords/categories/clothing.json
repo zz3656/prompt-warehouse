@@ -21193,5 +21193,510 @@
       "年代",
       "nodaro"
     ]
+  },
+  {
+    "id": "clothing_accessories_bow_on_head",
+    "term": "bow on head",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "hair",
+      "bow"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "term_zh": "头部蝴蝶结",
+    "labels_zh": [
+      "角色",
+      "配饰",
+      "danbooru"
+    ]
+  },
+  {
+    "id": "clothing_accessories_hairband",
+    "term": "hairband",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "hair",
+      "hairband"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "term_zh": "发带",
+    "labels_zh": [
+      "角色",
+      "配饰",
+      "发带",
+      "danbooru"
+    ]
+  },
+  {
+    "id": "clothing_accessories_headphone_driver",
+    "term": "headphone driver",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "tech",
+      "headphones"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "term_zh": "耳机驱动器",
+    "labels_zh": [
+      "角色",
+      "配饰",
+      "danbooru"
+    ]
+  },
+  {
+    "id": "clothing_accessories_glasses",
+    "term": "glasses",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "face",
+      "glasses"
+    ],
+    "score": 0.9,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "term_zh": "眼镜",
+    "labels_zh": [
+      "角色",
+      "配饰",
+      "眼镜",
+      "danbooru"
+    ]
+  },
+  {
+    "id": "clothing_accessories_rimless_glasses",
+    "term": "rimless glasses",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "face",
+      "rimless-glasses"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "term_zh": "无框眼镜",
+    "labels_zh": [
+      "角色",
+      "配饰",
+      "无框眼镜",
+      "danbooru"
+    ]
+  },
+  {
+    "id": "clothing_accessories_one_eyed_glass",
+    "term": "one-eyed glass",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "face",
+      "eye-patch"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "term_zh": "单片眼镜",
+    "labels_zh": [
+      "角色",
+      "配饰",
+      "单片眼镜",
+      "danbooru"
+    ]
+  },
+  {
+    "id": "clothing_accessories_bandaged_face",
+    "term": "bandaged face",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "face",
+      "bandages"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "term_zh": "包扎的脸",
+    "labels_zh": [
+      "角色",
+      "配饰",
+      "包扎的脸",
+      "danbooru"
+    ]
+  },
+  {
+    "id": "clothing_accessories_mouth_mask",
+    "term": "mouth mask",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "face",
+      "mouth-mask"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "term_zh": "口罩",
+    "labels_zh": [
+      "角色",
+      "配饰",
+      "口罩",
+      "danbooru"
+    ]
+  },
+  {
+    "id": "clothing_accessories_umbrella",
+    "term": "umbrella",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "prop",
+      "umbrella"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "term_zh": "伞",
+    "labels_zh": [
+      "角色",
+      "配饰",
+      "danbooru"
+    ]
+  },
+  {
+    "id": "clothing_accessories_weapon",
+    "term": "weapon",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "prop",
+      "weapon"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "term_zh": "武器",
+    "labels_zh": [
+      "角色",
+      "配饰",
+      "武器",
+      "danbooru"
+    ]
+  },
+  {
+    "id": "clothing_accessories_sword",
+    "term": "sword",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "prop",
+      "sword"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "term_zh": "剑",
+    "labels_zh": [
+      "角色",
+      "配饰",
+      "danbooru"
+    ]
+  },
+  {
+    "id": "clothing_accessories_gun",
+    "term": "gun",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "prop",
+      "gun"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "term_zh": "枪",
+    "labels_zh": [
+      "角色",
+      "配饰",
+      "danbooru"
+    ]
+  },
+  {
+    "id": "clothing_accessories_book",
+    "term": "book",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "prop",
+      "book"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "term_zh": "书",
+    "labels_zh": [
+      "角色",
+      "配饰",
+      "danbooru"
+    ]
+  },
+  {
+    "id": "clothing_accessories_phone",
+    "term": "phone",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "tech",
+      "phone"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved",
+    "tags": [
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "term_zh": "手机",
+    "labels_zh": [
+      "角色",
+      "配饰",
+      "手机",
+      "danbooru"
+    ]
+  },
+  {
+    "id": "clothing_accessories_laptop",
+    "term": "laptop",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "tech",
+      "laptop"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "term_zh": "笔记本电脑",
+    "labels_zh": [
+      "角色",
+      "配饰",
+      "danbooru"
+    ]
+  },
+  {
+    "id": "clothing_accessories_bell",
+    "term": "bell",
+    "category": "clothing",
+    "subcategory": "accessories",
+    "labels": [
+      "accessories",
+      "clothing",
+      "bell"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "term_zh": "铃铛",
+    "labels_zh": [
+      "角色",
+      "配饰",
+      "铃铛",
+      "danbooru"
+    ]
   }
 ]

@@ -15,6 +15,7 @@
     "nodaro-prompts": 1149
   },
   "changelog": [
+    "character.accessories (26) 合并到 clothing.accessories（16 移动，10 term 冲突跳过）",
     {
       "version": "1.0.0",
       "date": "2026-10-11",
