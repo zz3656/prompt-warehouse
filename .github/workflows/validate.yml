@@ -135,9 +135,9 @@ jobs:
           index = json.load(open(index_path))
           cats = glob.glob("keywords/categories/*.json")
           actual = sum(len(json.load(open(f))) for f in cats)
-          index_total = index.get("total", 0)
-          if index_total != actual:
-              print(f"⚠️  Stale: index={index_total}, actual={actual}")
+          index_count = index.get("count", 0)
+          if index_count != actual:
+              print(f"⚠️  Stale: index={index_count}, actual={actual}")
               print("  Run: python3 tools/pws-index.py")
               sys.exit(0)
           print(f"✅ Index fresh: {actual} entries in {index_path}")
