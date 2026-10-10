@@ -2,9 +2,9 @@
 
 ## 项目
 - 路径：`/Users/ceasar/Documents/GitHub/prompt-warehouse`
-- 数据：`keywords/categories/*.json`、`templates/_all_templates.json`
+- 数据：`keywords/categories/*.json`、`templates/_meta.json`
 - 校验：`./scripts/validate-json.sh`
-- 索引：`python3 scripts/generate-index.py`
+- 索引：`python3 tools/pws-index.py`
 
 ## 约束
 - 禁止：截图、浏览器、URL
@@ -20,7 +20,7 @@
 ## 贡献流程
 1. 修改 `keywords/categories/{category}.json`
 2. 跑 `./scripts/validate-json.sh`
-3. 跑 `python3 scripts/generate-index.py`
+3. 跑 `python3 tools/pws-index.py`
 4. 提交 PR
 
 ## 汇报
