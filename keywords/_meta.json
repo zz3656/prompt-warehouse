@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "schema_version": "pws-1.0",
   "total_keywords": 6015,
-  "total_categories": 19,
+  "total_categories": 18,
   "updated_at": "2026-10-06T06:10:06.533590+00:00",
   "updated_by": "optimization-pr",
   "source_summary": {
@@ -15,6 +15,18 @@
     "nodaro-prompts": 1149
   },
   "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-10-11",
+      "changes": [
+        "合并 framing → composition（framing 72 个高质量替代 composition 中 10 个低质量重叠）",
+        "composition: 467 → 529（= 457 非 framing + 4 独有 + 72 framing）",
+        "总分类数：19 → 18"
+      ],
+      "added": 72,
+      "before": 6015,
+      "after": 6015
+    },
     {
       "version": "1.0.0",
       "date": "2026-10-11",
@@ -190,7 +202,6 @@
     "color-look",
     "composition",
     "era",
-    "framing",
     "held-prop",
     "lighting",
     "material",
