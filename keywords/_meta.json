@@ -1,8 +1,8 @@
 {
-  "version": "1.8.0",
+  "version": "1.9.0",
   "schema_version": "pws-1.0",
   "total_keywords": 6015,
-  "total_categories": 20,
+  "total_categories": 19,
   "updated_at": "2026-10-06T06:10:06.533590+00:00",
   "updated_by": "optimization-pr",
   "source_summary": {
@@ -15,6 +15,18 @@
     "nodaro-prompts": 1149
   },
   "changelog": [
+    {
+      "version": "1.10.0",
+      "date": "2026-10-11",
+      "changes": [
+        "合并 render-quality → quality（35 个关键词）",
+        "子分类保留 render- 前缀（render-engines, render-resolution 等）",
+        "总分类数 20 → 19"
+      ],
+      "added": 35,
+      "before": 6015,
+      "after": 6015
+    },
     {
       "version": "1.0.6",
       "date": "2026-09-29",
@@ -406,5 +418,26 @@
       ],
       "note": "所有 source 为 '@nodaro/prompts (v1.27.0)' 的关键词"
     }
-  }
+  },
+  "categories": [
+    "action-fx",
+    "character",
+    "character-fx",
+    "clothing",
+    "color-look",
+    "composition",
+    "era",
+    "framing",
+    "held-prop",
+    "lighting",
+    "material",
+    "negative",
+    "panel",
+    "photographer",
+    "quality",
+    "scene",
+    "styles",
+    "temporal",
+    "transitions"
+  ]
 }

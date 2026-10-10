@@ -4,7 +4,12 @@
   "title": "PWS Keyword",
   "description": "A structured keyword/tag in the Prompt Warehouse Standard",
   "type": "object",
-  "required": ["id", "term", "category", "subcategory"],
+  "required": [
+    "id",
+    "term",
+    "category",
+    "subcategory"
+  ],
   "properties": {
     "id": {
       "type": "string",
@@ -18,36 +23,65 @@
       "description": "Canonical prompt term in English"
     },
     "term_zh": {
-      "type": ["string", "null"],
+      "type": [
+        "string",
+        "null"
+      ],
       "minLength": 1,
       "maxLength": 200,
       "description": "Chinese translation. Optional — omit or set to null when untranslated."
     },
     "aliases": {
       "type": "array",
-      "items": { "type": "string", "minLength": 1 },
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
       "maxItems": 10
     },
     "aliases_zh": {
-      "type": ["array", "null"],
-      "items": { "type": "string", "minLength": 1 },
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
       "maxItems": 10,
       "description": "Chinese alternative terms. Optional."
     },
     "labels_zh": {
-      "type": ["array", "null"],
-      "items": { "type": "string", "minLength": 1 },
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
       "maxItems": 20,
-      "description": "Chinese search labels. Optional."
+      "description": "中文搜索标签 — Chinese labels for flat search indexing"
     },
     "category": {
       "type": "string",
       "enum": [
-        "quality", "composition", "lighting", "character",
-        "clothing", "styles", "negative", "scene", "panel",
-        "action-fx", "character-fx", "color-look", "era", "framing",
-        "held-prop", "material", "photographer", "render-quality",
-        "temporal", "transitions"
+        "quality",
+        "composition",
+        "lighting",
+        "character",
+        "clothing",
+        "styles",
+        "negative",
+        "scene",
+        "panel",
+        "action-fx",
+        "character-fx",
+        "color-look",
+        "era",
+        "framing",
+        "held-prop",
+        "material",
+        "photographer",
+        "temporal",
+        "transitions"
       ]
     },
     "subcategory": {
@@ -57,14 +91,11 @@
     },
     "labels": {
       "type": "array",
-      "items": { "type": "string", "minLength": 1 },
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
       "maxItems": 20
-    },
-    "labels_zh": {
-      "type": "array",
-      "items": { "type": "string", "minLength": 1 },
-      "maxItems": 20,
-      "description": "中文搜索标签 — Chinese labels for flat search indexing"
     },
     "score": {
       "type": "number",
@@ -74,37 +105,80 @@
     },
     "priority": {
       "type": "string",
-      "enum": ["high", "medium", "low", "experimental"],
+      "enum": [
+        "high",
+        "medium",
+        "low",
+        "experimental"
+      ],
       "default": "medium"
     },
     "lifecycle": {
       "type": "string",
-      "enum": ["draft", "review", "approved", "deprecated", "archived"],
+      "enum": [
+        "draft",
+        "review",
+        "approved",
+        "deprecated",
+        "archived"
+      ],
       "default": "draft"
     },
     "tags": {
       "type": "array",
-      "items": { "type": "string", "minLength": 1 },
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
       "maxItems": 10
     },
-    "created_at": { "type": "string", "format": "date-time" },
-    "updated_at": { "type": "string", "format": "date-time" },
-    "source": { "type": "string", "maxLength": 200 },
-    "usage_count": { "type": "integer", "minimum": 0, "default": 0 },
+    "created_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "source": {
+      "type": "string",
+      "maxLength": 200
+    },
+    "usage_count": {
+      "type": "integer",
+      "minimum": 0,
+      "default": 0
+    },
     "success_rate": {
-      "type": ["number", "null"],
+      "type": [
+        "number",
+        "null"
+      ],
       "minimum": 0,
       "maximum": 1
     },
-    "notes": { "type": ["string", "null"], "maxLength": 5000 },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "maxLength": 5000
+    },
     "variations": {
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["term", "context"],
+        "required": [
+          "term",
+          "context"
+        ],
         "properties": {
-          "term": { "type": "string" },
-          "context": { "type": "string" }
+          "term": {
+            "type": "string"
+          },
+          "context": {
+            "type": "string"
+          }
         }
       }
     }
