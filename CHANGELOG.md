@@ -2,7 +2,7 @@
 All notable changes to the Prompt Warehouse keyword database.
 Format is based on [Keep a Changelog](https://keepachangelog.com/).
 ---
-## [1.9.0] - 2026-10-06
+## [1.0.0] - 2026-10-06
 ### 📦 Prompt Bundles System — 10 bundles published
 - **Bundle system**: `bundles/` directory + `pws-bundles.py` tool published
   - `character.animesque_portrait` (24 keywords) — 动漫风格角色肖像
@@ -26,12 +26,12 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/).
 - Updated `tools/README.md` with full tool listing (13+ tools)
 
 ### 📚 Documentation
-- Updated README.md and README_en.md with v1.9.0 data
+- Updated README.md and README_en.md with v1.0.0 data
 - Updated ADDING_KEYWORDS.md with revised category counts
 - Updated tools/README.md with missing tools
 - Updated project status: Phase 4 (Sharing) marked Complete
 
-## [1.8.0] - 2026-09-30
+## [1.0.0] - 2026-09-30
 ### 🎉 MILESTONE: 100% Chinese translation coverage achieved
 - **term_zh coverage**: 5027/5943 (84.6%) → **5943/5943 (100.0%)** (+916 keywords)
 - **labels_zh coverage**: 5027 → **5943** (+916)

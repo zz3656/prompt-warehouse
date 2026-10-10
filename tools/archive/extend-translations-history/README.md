@@ -19,7 +19,7 @@
 | `extend-translations-10.py`  | ~330 | 摄影/色彩/角色/取景 |
 | `extend-translations-11.py`  | ~570 | 场景/风格/负面/材质 |
 | `extend-translations-12.py`  | ~110 | 截断 60-char 复合词 |
-| `extend-translations-13.py`  | ~60 | 最终批（v1.8.0 100% 覆盖达成） |
+| `extend-translations-13.py`  | ~60 | 最终批（v1.0.0 100% 覆盖达成） |
 
 ## 验证
 
