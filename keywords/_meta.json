@@ -1,9 +1,9 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "schema_version": "pws-1.0",
   "total_keywords": 6015,
   "total_categories": 18,
-  "updated_at": "2026-10-11T03:33:15.902706+00:00",
+  "updated_at": "2026-10-11T03:48:37.173650+00:00",
   "updated_by": "optimization-pr",
   "source_summary": {
     "h3-comic-builder (intermediate, not listed as data source)": 859,
@@ -15,6 +15,7 @@
     "nodaro-prompts": 1149
   },
   "changelog": [
+    "1.1.2 - 新增 categories_zh 字段（分类中文名）",
     "1.1.1 - 修复 styles 分类 term 的 / 前缀（112 条）",
     "v1.1.0 - 分类优化里程碑\n- character.accessories (26) 合并到 clothing.accessories（16 移动，10 term 冲突跳过）",
     "character.accessories (26) 合并到 clothing.accessories（16 移动，10 term 冲突跳过）",
@@ -216,5 +217,25 @@
     "styles",
     "temporal",
     "transitions"
-  ]
+  ],
+  "categories_zh": {
+    "quality": "质量",
+    "composition": "构图",
+    "lighting": "灯光",
+    "character": "角色",
+    "clothing": "服装",
+    "styles": "风格",
+    "negative": "负面",
+    "scene": "场景",
+    "panel": "分镜",
+    "action-fx": "动作特效",
+    "character-fx": "角色特效",
+    "color-look": "色彩分级",
+    "era": "历史时代",
+    "held-prop": "手持道具",
+    "material": "材质预设",
+    "photographer": "摄影师风格",
+    "temporal": "时间效果",
+    "transitions": "转场效果"
+  }
 }
