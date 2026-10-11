@@ -1,0 +1,13 @@
+{
+  "name": "Prompt Warehouse API",
+  "version": "1.0.0",
+  "repo": "https://github.com/zz3656/prompt-warehouse",
+  "endpoints": {
+    "stats": "api/stats.json",
+    "categories": "api/categories.json",
+    "workflows": "api/workflows.json",
+    "keywords": "https://cdn.jsdelivr.net/gh/zz3656/prompt-warehouse@main/keywords/",
+    "templates": "https://cdn.jsdelivr.net/gh/zz3656/prompt-warehouse@main/templates/"
+  },
+  "generated_at": "2026-10-11T09:44:24.165743+00:00"
+}

@@ -1,0 +1,191 @@
+{
+  "total": 4,
+  "workflows": [
+    {
+      "id": "workflow.comic_panel_full",
+      "name": "Comic Panel Full Workflow",
+      "name_zh": "漫画分镜完整流程",
+      "description": "Generate a complete comic panel with character, scene, composition, and lighting.",
+      "description_zh": "生成完整的漫画分镜：角色 + 场景 + 构图 + 灯光",
+      "use_case": [
+        "comic",
+        "storyboard"
+      ],
+      "api_targets": [
+        "SDXL",
+        "Midjourney",
+        "Flux"
+      ],
+      "output_format": "comma_separated",
+      "steps": [
+        {
+          "order": 1,
+          "template_id": "character.reference_description",
+          "required": true,
+          "description_zh": "角色锚点"
+        },
+        {
+          "order": 2,
+          "template_id": "scene.environment",
+          "required": true,
+          "description_zh": "场景环境"
+        },
+        {
+          "order": 3,
+          "template_id": "panel.composition",
+          "required": true,
+          "description_zh": "构图与景别"
+        },
+        {
+          "order": 4,
+          "template_id": "lighting.mood",
+          "required": true,
+          "description_zh": "灯光氛围"
+        },
+        {
+          "order": 5,
+          "template_id": "quality.standard",
+          "required": false,
+          "description_zh": "质量提升词"
+        }
+      ],
+      "example_output": "girl 16 years old white long hair blue eyes fair skin, school rooftop at sunset, medium shot, cinematic lighting, masterpiece, best quality",
+      "created_at": "2026-10-11",
+      "version": "1.0.0"
+    },
+    {
+      "id": "workflow.character_design",
+      "name": "Character Design Workflow",
+      "name_zh": "角色设计流程",
+      "description": "Create a complete character reference sheet with consistent look.",
+      "description_zh": "生成完整的角色参考图：多视角 + 一致性锚点",
+      "use_case": [
+        "character",
+        "comic"
+      ],
+      "api_targets": [
+        "SDXL",
+        "Midjourney"
+      ],
+      "output_format": "comma_separated",
+      "steps": [
+        {
+          "order": 1,
+          "template_id": "character.reference_description",
+          "required": true,
+          "description_zh": "角色外观描述"
+        },
+        {
+          "order": 2,
+          "template_id": "character.multiple_views",
+          "required": true,
+          "description_zh": "多视角参考"
+        },
+        {
+          "order": 3,
+          "template_id": "quality.character",
+          "required": false,
+          "description_zh": "角色质量词"
+        }
+      ],
+      "created_at": "2026-10-11",
+      "version": "1.0.0"
+    },
+    {
+      "id": "workflow.scene_design",
+      "name": "Scene Design Workflow",
+      "name_zh": "场景设计流程",
+      "description": "Create a complete scene/environment asset.",
+      "description_zh": "生成完整的场景图：环境 + 大气 + 灯光 + 色彩",
+      "use_case": [
+        "scene",
+        "environment"
+      ],
+      "api_targets": [
+        "SDXL",
+        "Midjourney",
+        "Flux"
+      ],
+      "output_format": "comma_separated",
+      "steps": [
+        {
+          "order": 1,
+          "template_id": "scene.environment",
+          "required": true,
+          "description_zh": "场景环境"
+        },
+        {
+          "order": 2,
+          "template_id": "atmosphere.weather",
+          "required": false,
+          "description_zh": "大气效果"
+        },
+        {
+          "order": 3,
+          "template_id": "lighting.mood",
+          "required": true,
+          "description_zh": "灯光氛围"
+        },
+        {
+          "order": 4,
+          "template_id": "color.grading",
+          "required": false,
+          "description_zh": "色彩分级"
+        }
+      ],
+      "created_at": "2026-10-11",
+      "version": "1.0.0"
+    },
+    {
+      "id": "workflow.video_storyboard",
+      "name": "Video Storyboard Workflow",
+      "name_zh": "视频分镜流程",
+      "description": "Generate a video storyboard with camera movements and timing.",
+      "description_zh": "生成视频分镜：镜头 + 动作 + 时长",
+      "use_case": [
+        "video",
+        "storyboard"
+      ],
+      "api_targets": [
+        "Minimax H3",
+        "Kling",
+        "Runway"
+      ],
+      "output_format": "structured",
+      "steps": [
+        {
+          "order": 1,
+          "template_id": "character.reference_description",
+          "required": true,
+          "description_zh": "角色锚点"
+        },
+        {
+          "order": 2,
+          "template_id": "scene.environment",
+          "required": true,
+          "description_zh": "场景"
+        },
+        {
+          "order": 3,
+          "template_id": "camera.shot_type",
+          "required": true,
+          "description_zh": "景别"
+        },
+        {
+          "order": 4,
+          "template_id": "camera.movement",
+          "required": true,
+          "description_zh": "运镜"
+        },
+        {
+          "order": 5,
+          "template_id": "action.motion",
+          "required": false,
+          "description_zh": "动作"
+        }
+      ],
+      "created_at": "2026-10-11",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "version": "1.2.1",
+  "total": 19,
+  "categories": [
+    {
+      "slug": "action-fx",
+      "name_zh": "动作特效",
+      "count": 75
+    },
+    {
+      "slug": "atmosphere",
+      "name_zh": "大气效果",
+      "count": 6
+    },
+    {
+      "slug": "character",
+      "name_zh": "角色",
+      "count": 477
+    },
+    {
+      "slug": "character-fx",
+      "name_zh": "角色特效",
+      "count": 60
+    },
+    {
+      "slug": "clothing",
+      "name_zh": "服装",
+      "count": 703
+    },
+    {
+      "slug": "color-look",
+      "name_zh": "色彩分级",
+      "count": 69
+    },
+    {
+      "slug": "composition",
+      "name_zh": "构图",
+      "count": 533
+    },
+    {
+      "slug": "era",
+      "name_zh": "历史时代",
+      "count": 33
+    },
+    {
+      "slug": "held-prop",
+      "name_zh": "手持道具",
+      "count": 66
+    },
+    {
+      "slug": "lighting",
+      "name_zh": "灯光",
+      "count": 382
+    },
+    {
+      "slug": "material",
+      "name_zh": "材质预设",
+      "count": 67
+    },
+    {
+      "slug": "negative",
+      "name_zh": "负面",
+      "count": 103
+    },
+    {
+      "slug": "panel",
+      "name_zh": "分镜",
+      "count": 74
+    },
+    {
+      "slug": "photographer",
+      "name_zh": "摄影师风格",
+      "count": 89
+    },
+    {
+      "slug": "quality",
+      "name_zh": "质量",
+      "count": 166
+    },
+    {
+      "slug": "scene",
+      "name_zh": "场景",
+      "count": 995
+    },
+    {
+      "slug": "styles",
+      "name_zh": "风格",
+      "count": 1990
+    },
+    {
+      "slug": "temporal",
+      "name_zh": "时间效果",
+      "count": 30
+    },
+    {
+      "slug": "transitions",
+      "name_zh": "转场效果",
+      "count": 81
+    }
+  ]
+}
