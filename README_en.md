@@ -2,9 +2,9 @@
 
 **A unified, language-agnostic standard for organizing, versioning, and sharing AI generation prompts across projects.**
 
-> **pws v1.0** | **Data v1.0.0** | [简体中文](README.md) | **English**
+> **pws v1.0** | **Data v1.1.0** | [简体中文](README.md) | **English**
 >
-> **Current data version**: v1.0.0 (6,015 keywords · 20 categories · **100% term_zh coverage**)
+> **Current data version**: v1.1.0 (5,999 keywords · 18 categories · **100% term_zh coverage**)
 >
 > **Repository**: https://github.com/zz3656/prompt-warehouse
 > **License**: MIT
@@ -355,7 +355,7 @@ The warehouse follows semantic versioning:
 
 Each `_meta.json` tracks version, schema version, and changelog entries.
 
-Current version: **v1.0.0** — 6,015 keywords across 20 categories (**all** 6,015 with Chinese translation, **100%** coverage).
+Current version: **v1.1.0** — 6,015 keywords across 20 categories (**all** 6,015 with Chinese translation, **100%** coverage).
 
 ---
 
@@ -433,7 +433,7 @@ MIT License — see [docs/standard_en.md](docs/standard_en.md) for full details.
 - **Project Schema**: [schema/project.schema.json](schema/project.schema.json)
 - **Metadata**: [keywords/_meta.json](keywords/_meta.json)
 - **Data Sources**: see below
-- **Current Stats**: 6,015 keywords · 20 categories · 3 templates · 10 bundles · **6,015 / 6,015** with Chinese translation (100%)
+- **Current Stats**: 5,999 keywords · 18 categories · 3 templates · 10 bundles · **6,015 / 6,015** with Chinese translation (100%)
 
 ## 📥 Data Sources (Permanent Record)
 

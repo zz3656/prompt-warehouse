@@ -2,6 +2,19 @@
 All notable changes to the Prompt Warehouse keyword database.
 Format is based on [Keep a Changelog](https://keepachangelog.com/).
 ---
+## [1.1.0] - 2026-10-11
+
+### Changed
+- 合并 character.accessories (26) → clothing.accessories（16 移动，10 term 冲突跳过）
+- 分类数：20 → 18
+- 总关键词：6,015 → 5,999（去重后）
+- keywords/_meta.json version: 1.0.0 → 1.1.0
+
+### Fixed
+- pre-commit hook 三引号字符串插值漏洞（非引用 heredoc 导致 bash 展开截断）
+
+---
+
 ## [1.0.0] - 2026-10-06
 ### 📦 Prompt Bundles System — 10 bundles published
 - **Bundle system**: `bundles/` directory + `pws-bundles.py` tool published

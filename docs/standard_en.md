@@ -288,10 +288,10 @@ Templates use a simple Mustache-like syntax with `<variable>` placeholders (CLI-
 {
   "id": "h3-comic-builder",
   "name": "H3 Comic Builder",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "AI comic/manga prompt generation tool",
   "project_type": "comic",
-  "prompt_warehouse_version": "1.0.0",
+  "prompt_warehouse_version": "1.1.0",
   "keywords": {
     "enabled_categories": ["quality", "composition", "lighting", "character", "clothing", "styles", "scene", "panel"],
     "excluded_categories": ["negative"],
@@ -448,7 +448,7 @@ Every `_meta.json` file contains:
 
 ```json
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "schema_version": "pws-1.0",
   "updated_at": "2025-06-20T14:30:00Z",
   "updated_by": "migration-script",
