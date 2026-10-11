@@ -197,6 +197,18 @@
         ]
       },
       "description": "适用的 AI 模型列表"
+    },
+    "alias_of": {
+      "type": "string",
+      "description": "指向 canonical 关键词的 ID（同义重复时，非 canonical 项标记此项）"
+    },
+    "relation_group": {
+      "type": "string",
+      "description": "跨分类重复的分组标识（跨分类不同义时，同组 term 共享此 ID）"
+    },
+    "relation_role": {
+      "type": "string",
+      "description": "在 relation_group 中的角色（如 'composition' vs 'shot-language'）"
     }
   },
   "additionalProperties": true,

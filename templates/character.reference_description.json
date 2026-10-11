@@ -1,114 +1,112 @@
 {
   "id": "character.reference_description",
-  "version": "1.0.0",
+  "name": "Character Reference Description",
+  "name_zh": "角色外观描述",
   "description": "Generate a character reference description with consistent appearance.",
   "description_zh": "生成角色外观描述：年龄、发色、瞳色、肤色等",
-  "variables": [
-    {
-      "name": "age",
-      "description": "Character age",
-      "description_zh": "年龄",
-      "source": "keyword",
-      "category": "character",
-      "subcategory": "age",
-      "required": true
-    },
-    {
-      "name": "hair_color",
-      "description": "Hair color",
-      "description_zh": "发色",
-      "source": "keyword",
-      "category": "character",
-      "subcategory": "hairColors",
-      "required": true
-    },
-    {
-      "name": "hair_style",
-      "description": "Hair style and length",
-      "description_zh": "发型和长度",
-      "source": "keyword",
-      "category": "character",
-      "subcategory": "hair",
-      "required": true
-    },
-    {
-      "name": "eye_color",
-      "description": "Eye color",
-      "description_zh": "瞳色",
-      "source": "keyword",
-      "category": "character",
-      "subcategory": "eyeColors",
-      "required": false
-    },
-    {
-      "name": "eye_style",
-      "description": "Eye shape and expression",
-      "description_zh": "眼睛形状和表情",
-      "source": "keyword",
-      "category": "character",
-      "subcategory": "eyes",
-      "required": false
-    },
-    {
-      "name": "skin_tone",
-      "description": "Skin color and texture",
-      "description_zh": "肤色和质感",
-      "source": "keyword",
-      "category": "character",
-      "subcategory": "skin",
-      "required": false
-    },
-    {
-      "name": "facial_features",
-      "description": "Distinctive facial features",
-      "description_zh": "面部特征",
-      "source": "keyword",
-      "category": "character",
-      "subcategory": "face",
-      "required": false
-    },
-    {
-      "name": "expression",
-      "description": "Facial expression",
-      "description_zh": "表情",
-      "source": "keyword",
-      "category": "character",
-      "subcategory": "expression",
-      "required": false
-    },
-    {
-      "name": "body_type",
-      "description": "Body shape and build",
-      "description_zh": "体型",
-      "source": "keyword",
-      "category": "character",
-      "subcategory": "bodyType",
-      "required": false
-    }
+  "category": "character",
+  "subcategories": [
+    "age",
+    "hairColors",
+    "hair",
+    "eyeColors",
+    "eyes",
+    "skin",
+    "face",
+    "expression",
+    "bodyType"
   ],
-  "render": {
-    "format": "comma_separated",
-    "separator": ", ",
-    "order": [
-      "age",
-      "hair_color",
-      "hair_style",
-      "eye_color",
-      "eye_style",
-      "skin_tone",
-      "facial_features",
-      "expression",
-      "body_type"
-    ]
-  },
-  "fallback": "young woman with long hair",
-  "dedupe_group": "character",
-  "priority": "high",
-  "lifecycle": "active",
+  "language": [
+    "en",
+    "zh"
+  ],
   "api_targets": [
     "SDXL",
     "Midjourney",
     "Flux"
   ],
-  "created_at": "2026-10-11"
+  "lifecycle": "approved",
+  "score": 0.95,
+  "tags": [
+    "character",
+    "reference",
+    "description"
+  ],
+  "variables": [
+    {
+      "name": "age",
+      "type": "keyword",
+      "required": true,
+      "description": "Character age",
+      "default": "young"
+    },
+    {
+      "name": "hair_color",
+      "type": "keyword",
+      "required": true,
+      "description": "Hair color",
+      "default": "black"
+    },
+    {
+      "name": "hair_style",
+      "type": "keyword",
+      "required": true,
+      "description": "Hair style and length",
+      "default": "long hair"
+    },
+    {
+      "name": "eye_color",
+      "type": "keyword",
+      "required": false,
+      "description": "Eye color"
+    },
+    {
+      "name": "eye_style",
+      "type": "keyword",
+      "required": false,
+      "description": "Eye shape and expression"
+    },
+    {
+      "name": "skin_tone",
+      "type": "keyword",
+      "required": false,
+      "description": "Skin color and texture"
+    },
+    {
+      "name": "facial_features",
+      "type": "keyword",
+      "required": false,
+      "description": "Distinctive facial features"
+    },
+    {
+      "name": "expression",
+      "type": "keyword",
+      "required": false,
+      "description": "Facial expression"
+    },
+    {
+      "name": "body_type",
+      "type": "keyword",
+      "required": false,
+      "description": "Body shape and build"
+    }
+  ],
+  "variants": [
+    {
+      "id": "character.reference_description.portrait",
+      "description": "Portrait focus",
+      "description_zh": "肖像特写"
+    },
+    {
+      "id": "character.reference_description.fullbody",
+      "description": "Full body reference",
+      "description_zh": "全身参考"
+    }
+  ],
+  "examples": [
+    "girl 16 years old white long hair blue eyes fair skin"
+  ],
+  "created_at": "2026-10-11",
+  "updated_at": "2026-10-11T13:38:07.159452+00:00",
+  "notes": "Used in comic_panel_full, character_design, video_storyboard workflows"
 }

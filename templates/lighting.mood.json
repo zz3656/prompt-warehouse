@@ -1,64 +1,73 @@
 {
   "id": "lighting.mood",
-  "version": "1.0.0",
+  "name": "Lighting Mood",
+  "name_zh": "灯光氛围",
   "description": "Describe lighting mood and atmosphere.",
   "description_zh": "描述灯光氛围和情绪",
-  "variables": [
-    {
-      "name": "light_type",
-      "description": "Type of lighting",
-      "description_zh": "灯光类型",
-      "source": "keyword",
-      "category": "lighting",
-      "subcategory": "mj_v5_lighting",
-      "required": true
-    },
-    {
-      "name": "mood",
-      "description": "Mood and feeling",
-      "description_zh": "情绪氛围",
-      "source": "keyword",
-      "category": "lighting",
-      "subcategory": "mood",
-      "required": true
-    },
-    {
-      "name": "natural_light",
-      "description": "Natural lighting effects",
-      "description_zh": "自然光效果",
-      "source": "keyword",
-      "category": "lighting",
-      "subcategory": "natural",
-      "required": false
-    },
-    {
-      "name": "special_effects",
-      "description": "Special lighting effects",
-      "description_zh": "特殊灯光效果",
-      "source": "keyword",
-      "category": "lighting",
-      "subcategory": "special",
-      "required": false
-    }
+  "category": "lighting",
+  "subcategories": [
+    "mj_v5_lighting",
+    "mood",
+    "natural",
+    "special"
   ],
-  "render": {
-    "format": "comma_separated",
-    "separator": ", ",
-    "order": [
-      "light_type",
-      "mood",
-      "natural_light",
-      "special_effects"
-    ]
-  },
-  "fallback": "cinematic lighting, dramatic shadows",
-  "dedupe_group": "lighting",
-  "priority": "high",
-  "lifecycle": "active",
+  "language": [
+    "en",
+    "zh"
+  ],
   "api_targets": [
     "SDXL",
     "Midjourney",
     "Flux"
   ],
-  "created_at": "2026-10-11"
+  "lifecycle": "approved",
+  "score": 0.9,
+  "tags": [
+    "lighting",
+    "mood",
+    "atmosphere"
+  ],
+  "variables": [
+    {
+      "name": "light_type",
+      "type": "keyword",
+      "required": true,
+      "description": "Type of lighting",
+      "default": "cinematic"
+    },
+    {
+      "name": "mood",
+      "type": "keyword",
+      "required": true,
+      "description": "Mood and feeling"
+    },
+    {
+      "name": "natural_light",
+      "type": "keyword",
+      "required": false,
+      "description": "Natural lighting effects"
+    },
+    {
+      "name": "special_effects",
+      "type": "keyword",
+      "required": false,
+      "description": "Special lighting effects"
+    }
+  ],
+  "variants": [
+    {
+      "id": "lighting.mood.dramatic",
+      "description": "Dramatic lighting"
+    },
+    {
+      "id": "lighting.mood.soft",
+      "description": "Soft lighting"
+    }
+  ],
+  "examples": [
+    "cinematic lighting, dramatic shadows"
+  ],
+  "created_at": "2026-10-11",
+  "updated_at": "2026-10-11T13:38:07.159467+00:00",
+  "notes": "Used in comic_panel_full, scene_design workflows"
 }

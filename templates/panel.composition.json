@@ -1,63 +1,71 @@
 {
   "id": "panel.composition",
-  "version": "1.0.0",
+  "name": "Panel Composition",
+  "name_zh": "分镜构图",
   "description": "Describe panel layout and comic composition.",
   "description_zh": "描述分镜布局和漫画构图",
-  "variables": [
-    {
-      "name": "layout",
-      "description": "Panel layout type",
-      "description_zh": "分镜布局类型",
-      "source": "keyword",
-      "category": "panel",
-      "subcategory": "panelLayout",
-      "required": true
-    },
-    {
-      "name": "effects",
-      "description": "Comic effects",
-      "description_zh": "漫画特效",
-      "source": "keyword",
-      "category": "panel",
-      "subcategory": "comicEffects",
-      "required": false
-    },
-    {
-      "name": "animation_style",
-      "description": "Animation style",
-      "description_zh": "动画风格",
-      "source": "keyword",
-      "category": "panel",
-      "subcategory": "animation",
-      "required": false
-    },
-    {
-      "name": "mood",
-      "description": "Panel mood",
-      "description_zh": "分镜氛围",
-      "source": "keyword",
-      "category": "panel",
-      "subcategory": "panelMood",
-      "required": false
-    }
+  "category": "panel",
+  "subcategories": [
+    "panelLayout",
+    "comicEffects",
+    "animation",
+    "panelMood"
   ],
-  "render": {
-    "format": "comma_separated",
-    "separator": ", ",
-    "order": [
-      "layout",
-      "effects",
-      "animation_style",
-      "mood"
-    ]
-  },
-  "fallback": "dynamic comic panel layout",
-  "dedupe_group": "panel",
-  "priority": "high",
-  "lifecycle": "active",
+  "language": [
+    "en",
+    "zh"
+  ],
   "api_targets": [
     "SDXL",
     "Midjourney"
   ],
-  "created_at": "2026-10-11"
+  "lifecycle": "approved",
+  "score": 0.9,
+  "tags": [
+    "panel",
+    "composition",
+    "comic"
+  ],
+  "variables": [
+    {
+      "name": "layout",
+      "type": "keyword",
+      "required": true,
+      "description": "Panel layout type"
+    },
+    {
+      "name": "effects",
+      "type": "keyword",
+      "required": false,
+      "description": "Comic effects"
+    },
+    {
+      "name": "animation_style",
+      "type": "keyword",
+      "required": false,
+      "description": "Animation style"
+    },
+    {
+      "name": "mood",
+      "type": "keyword",
+      "required": false,
+      "description": "Panel mood"
+    }
+  ],
+  "variants": [
+    {
+      "id": "panel.composition.dynamic",
+      "description": "Dynamic layout"
+    },
+    {
+      "id": "panel.composition.grid",
+      "description": "Grid layout"
+    }
+  ],
+  "examples": [
+    "dynamic comic panel layout"
+  ],
+  "created_at": "2026-10-11",
+  "updated_at": "2026-10-11T13:38:07.159476+00:00",
+  "notes": "Used in comic_panel_full workflow"
 }

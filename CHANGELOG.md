@@ -2,6 +2,24 @@
 All notable changes to the Prompt Warehouse keyword database.
 Format is based on [Keep a Changelog](https://keepachangelog.com/).
 ---
+## [1.6.0] — 2026-10-11
+
+### 数据质量修复（Task 0-4）
+- 修正 total_keywords 6,015 → 6,037（与 _meta.json 和实际数据一致）
+- 修正 README.md / README_en.md 版本号 v1.1.0 → v1.5.0
+- 修正 README 数字：5,999 关键词 → 6,037，18 分类 → 20 分类
+- 新增 compatibility 字段（按分类/子分类默认值批量打标）
+- 新增 12 个 workflow template（孤儿引用 17→0）
+- 合并 composition/angles → angle（子分类 157→156）
+- 新增 /api/stats 聚合统计端点
+
+### Schema 更新
+- keyword.schema.json: 新增 compatibility, alias_of, relation_group, relation_role
+- template.schema.json: 无变更
+
+### 新增工具
+- tools/pws-keywords.py: 按模型过滤关键词 CLI
+
 ## [1.1.0] - 2026-10-11
 
 ### Changed
