@@ -1,9 +1,9 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "schema_version": "pws-1.0",
   "total_keywords": 6015,
   "total_categories": 18,
-  "updated_at": "2026-10-11T02:45:37.009065+00:00",
+  "updated_at": "2026-10-11T03:33:15.902706+00:00",
   "updated_by": "optimization-pr",
   "source_summary": {
     "h3-comic-builder (intermediate, not listed as data source)": 859,
@@ -15,6 +15,7 @@
     "nodaro-prompts": 1149
   },
   "changelog": [
+    "1.1.1 - 修复 styles 分类 term 的 / 前缀（112 条）",
     "v1.1.0 - 分类优化里程碑\n- character.accessories (26) 合并到 clothing.accessories（16 移动，10 term 冲突跳过）",
     "character.accessories (26) 合并到 clothing.accessories（16 移动，10 term 冲突跳过）",
     {

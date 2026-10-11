@@ -991,12 +991,12 @@
   },
   {
     "id": "mj_mj_v5_colors__adobe_rgb",
-    "term": "/Adobe RGB",
+    "term": "Adobe RGB",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/adobe"
+      "adobe"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1023,12 +1023,12 @@
   },
   {
     "id": "mj_mj_v5_colors__agfacolor",
-    "term": "/Agfacolor",
+    "term": "Agfacolor",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/agfacolor"
+      "agfacolor"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1054,12 +1054,12 @@
   },
   {
     "id": "mj_mj_v5_colors__analogous_colors",
-    "term": "/Analogous Colors",
+    "term": "Analogous Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/analogous"
+      "analogous"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1086,12 +1086,12 @@
   },
   {
     "id": "mj_mj_v5_colors__autochrome",
-    "term": "/Autochrome",
+    "term": "Autochrome",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/autochrome"
+      "autochrome"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1117,12 +1117,12 @@
   },
   {
     "id": "mj_mj_v5_colors__black_and_white",
-    "term": "/Black and White",
+    "term": "Black and White",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/black"
+      "black"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1148,12 +1148,12 @@
   },
   {
     "id": "mj_mj_v5_colors__bright_colors",
-    "term": "/Bright Colors",
+    "term": "Bright Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/bright"
+      "bright"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1180,12 +1180,12 @@
   },
   {
     "id": "mj_mj_v5_colors__cga",
-    "term": "/CGA",
+    "term": "CGA",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/cga"
+      "cga"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1213,12 +1213,12 @@
   },
   {
     "id": "mj_mj_v5_colors__cmyk",
-    "term": "/CMYK",
+    "term": "CMYK",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/cmyk"
+      "cmyk"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1246,12 +1246,12 @@
   },
   {
     "id": "mj_mj_v5_colors__chloropsia",
-    "term": "/Chloropsia",
+    "term": "Chloropsia",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/chloropsia"
+      "chloropsia"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1278,12 +1278,12 @@
   },
   {
     "id": "mj_mj_v5_colors__chroma",
-    "term": "/Chroma",
+    "term": "Chroma",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/chroma"
+      "chroma"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1310,12 +1310,12 @@
   },
   {
     "id": "mj_mj_v5_colors__chromatopsia",
-    "term": "/Chromatopsia",
+    "term": "Chromatopsia",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/chromatopsia"
+      "chromatopsia"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1342,12 +1342,12 @@
   },
   {
     "id": "mj_mj_v5_colors__cinecolor",
-    "term": "/Cinecolor",
+    "term": "Cinecolor",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/cinecolor"
+      "cinecolor"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1374,12 +1374,12 @@
   },
   {
     "id": "mj_mj_v5_colors__color",
-    "term": "/Color",
+    "term": "Color",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/color"
+      "color"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1406,12 +1406,12 @@
   },
   {
     "id": "mj_mj_v5_colors__color_blend",
-    "term": "/Color Blend",
+    "term": "Color Blend",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/color"
+      "color"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1438,12 +1438,12 @@
   },
   {
     "id": "mj_mj_v5_colors__color_model",
-    "term": "/Color Model",
+    "term": "Color Model",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/color"
+      "color"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1470,12 +1470,12 @@
   },
   {
     "id": "mj_mj_v5_colors__color_palette",
-    "term": "/Color Palette",
+    "term": "Color Palette",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/color"
+      "color"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1502,12 +1502,12 @@
   },
   {
     "id": "mj_mj_v5_colors__color_wheel",
-    "term": "/Color Wheel",
+    "term": "Color Wheel",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/color"
+      "color"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1534,12 +1534,12 @@
   },
   {
     "id": "mj_mj_v5_colors__colorful",
-    "term": "/Colorful",
+    "term": "Colorful",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/colorful"
+      "colorful"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1566,12 +1566,12 @@
   },
   {
     "id": "mj_mj_v5_colors__colorized",
-    "term": "/Colorized",
+    "term": "Colorized",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/colorized"
+      "colorized"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1598,12 +1598,12 @@
   },
   {
     "id": "mj_mj_v5_colors__coloroid",
-    "term": "/Coloroid",
+    "term": "Coloroid",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/coloroid"
+      "coloroid"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1630,12 +1630,12 @@
   },
   {
     "id": "mj_mj_v5_colors__complimentary_colors",
-    "term": "/Complimentary Colors",
+    "term": "Complimentary Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/complimentary"
+      "complimentary"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1662,12 +1662,12 @@
   },
   {
     "id": "mj_mj_v5_colors__contrast",
-    "term": "/Contrast",
+    "term": "Contrast",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/contrast"
+      "contrast"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1694,12 +1694,12 @@
   },
   {
     "id": "mj_mj_v5_colors__cool_color_palette",
-    "term": "/Cool Color Palette",
+    "term": "Cool Color Palette",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/cool"
+      "cool"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1726,12 +1726,12 @@
   },
   {
     "id": "mj_mj_v5_colors__cyanopsia",
-    "term": "/Cyanopsia",
+    "term": "Cyanopsia",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/cyanopsia"
+      "cyanopsia"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1758,12 +1758,12 @@
   },
   {
     "id": "mj_mj_v5_colors__dci_p3",
-    "term": "/DCI P3",
+    "term": "DCI P3",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/dci"
+      "dci"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1790,12 +1790,12 @@
   },
   {
     "id": "mj_mj_v5_colors__dark",
-    "term": "/Dark",
+    "term": "Dark",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/dark"
+      "dark"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1821,12 +1821,12 @@
   },
   {
     "id": "mj_mj_v5_colors__dark_colors",
-    "term": "/Dark Colors",
+    "term": "Dark Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/dark"
+      "dark"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1853,12 +1853,12 @@
   },
   {
     "id": "mj_mj_v5_colors__dark_mode",
-    "term": "/Dark Mode",
+    "term": "Dark Mode",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/dark"
+      "dark"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1885,12 +1885,12 @@
   },
   {
     "id": "mj_mj_v5_colors__darkened",
-    "term": "/Darkened",
+    "term": "Darkened",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/darkened"
+      "darkened"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1917,12 +1917,12 @@
   },
   {
     "id": "mj_mj_v5_colors__desaturated",
-    "term": "/Desaturated",
+    "term": "Desaturated",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/desaturated"
+      "desaturated"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1949,12 +1949,12 @@
   },
   {
     "id": "mj_mj_v5_colors__dichromatism",
-    "term": "/Dichromatism",
+    "term": "Dichromatism",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/dichromatism"
+      "dichromatism"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -1980,12 +1980,12 @@
   },
   {
     "id": "mj_mj_v5_colors__dingy_colors",
-    "term": "/Dingy Colors",
+    "term": "Dingy Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/dingy"
+      "dingy"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2012,12 +2012,12 @@
   },
   {
     "id": "mj_mj_v5_colors__double_colors",
-    "term": "/Double Colors",
+    "term": "Double Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/double"
+      "double"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2044,12 +2044,12 @@
   },
   {
     "id": "mj_mj_v5_colors__dual_colors",
-    "term": "/Dual Colors",
+    "term": "Dual Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/dual"
+      "dual"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2076,12 +2076,12 @@
   },
   {
     "id": "mj_mj_v5_colors__dyschromatopsia",
-    "term": "/Dyschromatopsia",
+    "term": "Dyschromatopsia",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/dyschromatopsia"
+      "dyschromatopsia"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2108,12 +2108,12 @@
   },
   {
     "id": "mj_mj_v5_colors__ega",
-    "term": "/EGA",
+    "term": "EGA",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/ega"
+      "ega"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2141,12 +2141,12 @@
   },
   {
     "id": "mj_mj_v5_colors__electric_colors",
-    "term": "/Electric Colors",
+    "term": "Electric Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/electric"
+      "electric"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2173,12 +2173,12 @@
   },
   {
     "id": "mj_mj_v5_colors__enchroma",
-    "term": "/EnChroma",
+    "term": "EnChroma",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/enchroma"
+      "enchroma"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2205,12 +2205,12 @@
   },
   {
     "id": "mj_mj_v5_colors__erythropsia",
-    "term": "/Erythropsia",
+    "term": "Erythropsia",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/erythropsia"
+      "erythropsia"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2237,12 +2237,12 @@
   },
   {
     "id": "mj_mj_v5_colors__exciting_colors",
-    "term": "/Exciting Colors",
+    "term": "Exciting Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/exciting"
+      "exciting"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2269,12 +2269,12 @@
   },
   {
     "id": "mj_mj_v5_colors__faded",
-    "term": "/Faded",
+    "term": "Faded",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/faded"
+      "faded"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2301,12 +2301,12 @@
   },
   {
     "id": "mj_mj_v5_colors__faded_colors",
-    "term": "/Faded Colors",
+    "term": "Faded Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/faded"
+      "faded"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2333,12 +2333,12 @@
   },
   {
     "id": "mj_mj_v5_colors__false_color",
-    "term": "/False Color",
+    "term": "False Color",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/false"
+      "false"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2365,12 +2365,12 @@
   },
   {
     "id": "mj_mj_v5_colors__gloomy_colors",
-    "term": "/Gloomy Colors",
+    "term": "Gloomy Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/gloomy"
+      "gloomy"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2397,12 +2397,12 @@
   },
   {
     "id": "mj_mj_v5_colors__gradient",
-    "term": "/Gradient",
+    "term": "Gradient",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/gradient"
+      "gradient"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2429,12 +2429,12 @@
   },
   {
     "id": "mj_mj_v5_colors__hcl",
-    "term": "/HCL",
+    "term": "HCL",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/hcl"
+      "hcl"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2462,12 +2462,12 @@
   },
   {
     "id": "mj_mj_v5_colors__hdr",
-    "term": "/HDR",
+    "term": "HDR",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/hdr"
+      "hdr"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2494,12 +2494,12 @@
   },
   {
     "id": "mj_mj_v5_colors__hsl",
-    "term": "/HSL",
+    "term": "HSL",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/hsl"
+      "hsl"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2527,12 +2527,12 @@
   },
   {
     "id": "mj_mj_v5_colors__hsv",
-    "term": "/HSV",
+    "term": "HSV",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/hsv"
+      "hsv"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2560,12 +2560,12 @@
   },
   {
     "id": "mj_mj_v5_colors__happy_colors",
-    "term": "/Happy Colors",
+    "term": "Happy Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/happy"
+      "happy"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2592,12 +2592,12 @@
   },
   {
     "id": "mj_mj_v5_colors__hextuple_colors",
-    "term": "/Hextuple Colors",
+    "term": "Hextuple Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/hextuple"
+      "hextuple"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2624,12 +2624,12 @@
   },
   {
     "id": "mj_mj_v5_colors__high_contrast",
-    "term": "/High Contrast",
+    "term": "High Contrast",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/high"
+      "high"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2656,12 +2656,12 @@
   },
   {
     "id": "mj_mj_v5_colors__high_saturation",
-    "term": "/High Saturation",
+    "term": "High Saturation",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/high"
+      "high"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2688,12 +2688,12 @@
   },
   {
     "id": "mj_mj_v5_colors__hue",
-    "term": "/Hue",
+    "term": "Hue",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/hue"
+      "hue"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2720,12 +2720,12 @@
   },
   {
     "id": "mj_mj_v5_colors__hyperchromatopsia",
-    "term": "/Hyperchromatopsia",
+    "term": "Hyperchromatopsia",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/hyperchromatopsia"
+      "hyperchromatopsia"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2752,12 +2752,12 @@
   },
   {
     "id": "mj_mj_v5_colors__infinituple_colors",
-    "term": "/Infinituple Colors",
+    "term": "Infinituple Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/infinituple"
+      "infinituple"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2784,12 +2784,12 @@
   },
   {
     "id": "mj_mj_v5_colors__inverted_colors",
-    "term": "/Inverted Colors",
+    "term": "Inverted Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/inverted"
+      "inverted"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2816,12 +2816,12 @@
   },
   {
     "id": "mj_mj_v5_colors__kinemacolor",
-    "term": "/Kinemacolor",
+    "term": "Kinemacolor",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/kinemacolor"
+      "kinemacolor"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2847,12 +2847,12 @@
   },
   {
     "id": "mj_mj_v5_colors__kodachrome",
-    "term": "/Kodachrome",
+    "term": "Kodachrome",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/kodachrome"
+      "kodachrome"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2878,12 +2878,12 @@
   },
   {
     "id": "mj_mj_v5_colors__light",
-    "term": "/Light",
+    "term": "Light",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/light"
+      "light"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2909,12 +2909,12 @@
   },
   {
     "id": "mj_mj_v5_colors__light_blue_background",
-    "term": "/Light Blue Background",
+    "term": "Light Blue Background",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/light"
+      "light"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2940,12 +2940,12 @@
   },
   {
     "id": "mj_mj_v5_colors__light_blue_foreground",
-    "term": "/Light Blue Foreground",
+    "term": "Light Blue Foreground",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/light"
+      "light"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -2971,12 +2971,12 @@
   },
   {
     "id": "mj_mj_v5_colors__light_colors",
-    "term": "/Light Colors",
+    "term": "Light Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/light"
+      "light"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3003,12 +3003,12 @@
   },
   {
     "id": "mj_mj_v5_colors__light_mode",
-    "term": "/Light Mode",
+    "term": "Light Mode",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/light"
+      "light"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3035,12 +3035,12 @@
   },
   {
     "id": "mj_mj_v5_colors__low_contrast",
-    "term": "/Low Contrast",
+    "term": "Low Contrast",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/low"
+      "low"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3067,12 +3067,12 @@
   },
   {
     "id": "mj_mj_v5_colors__low_saturation",
-    "term": "/Low Saturation",
+    "term": "Low Saturation",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/low"
+      "low"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3099,12 +3099,12 @@
   },
   {
     "id": "mj_mj_v5_colors__monochromatic",
-    "term": "/Monochromatic",
+    "term": "Monochromatic",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/monochromatic"
+      "monochromatic"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3131,12 +3131,12 @@
   },
   {
     "id": "mj_mj_v5_colors__monochrome",
-    "term": "/Monochrome",
+    "term": "Monochrome",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/monochrome"
+      "monochrome"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3163,12 +3163,12 @@
   },
   {
     "id": "mj_mj_v5_colors__multicolored",
-    "term": "/Multicolored",
+    "term": "Multicolored",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/multicolored"
+      "multicolored"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3195,12 +3195,12 @@
   },
   {
     "id": "mj_mj_v5_colors__neon",
-    "term": "/Neon",
+    "term": "Neon",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/neon"
+      "neon"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3227,12 +3227,12 @@
   },
   {
     "id": "mj_mj_v5_colors__neutral",
-    "term": "/Neutral",
+    "term": "Neutral",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/neutral"
+      "neutral"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3259,12 +3259,12 @@
   },
   {
     "id": "mj_mj_v5_colors__octuple_colors",
-    "term": "/Octuple Colors",
+    "term": "Octuple Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/octuple"
+      "octuple"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3291,12 +3291,12 @@
   },
   {
     "id": "mj_mj_v5_colors__palette",
-    "term": "/Palette",
+    "term": "Palette",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/palette"
+      "palette"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3323,12 +3323,12 @@
   },
   {
     "id": "mj_mj_v5_colors__pantone",
-    "term": "/Pantone",
+    "term": "Pantone",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/pantone"
+      "pantone"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3354,12 +3354,12 @@
   },
   {
     "id": "mj_mj_v5_colors__pigment",
-    "term": "/Pigment",
+    "term": "Pigment",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/pigment"
+      "pigment"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3386,12 +3386,12 @@
   },
   {
     "id": "mj_mj_v5_colors__polychromatic_colors",
-    "term": "/Polychromatic Colors",
+    "term": "Polychromatic Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/polychromatic"
+      "polychromatic"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3418,12 +3418,12 @@
   },
   {
     "id": "mj_mj_v5_colors__prophoto_rgb",
-    "term": "/ProPhoto RGB",
+    "term": "ProPhoto RGB",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/prophoto"
+      "prophoto"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3450,12 +3450,12 @@
   },
   {
     "id": "mj_mj_v5_colors__pure",
-    "term": "/Pure",
+    "term": "Pure",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/pure"
+      "pure"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3481,12 +3481,12 @@
   },
   {
     "id": "mj_mj_v5_colors__purity",
-    "term": "/Purity",
+    "term": "Purity",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/purity"
+      "purity"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3513,12 +3513,12 @@
   },
   {
     "id": "mj_mj_v5_colors__quadruple_colors",
-    "term": "/Quadruple Colors",
+    "term": "Quadruple Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/quadruple"
+      "quadruple"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3545,12 +3545,12 @@
   },
   {
     "id": "mj_mj_v5_colors__quintuple_colors",
-    "term": "/Quintuple Colors",
+    "term": "Quintuple Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/quintuple"
+      "quintuple"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3577,12 +3577,12 @@
   },
   {
     "id": "mj_mj_v5_colors__rgb",
-    "term": "/RGB",
+    "term": "RGB",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/rgb"
+      "rgb"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3609,12 +3609,12 @@
   },
   {
     "id": "mj_mj_v5_colors__rainbow",
-    "term": "/Rainbow",
+    "term": "Rainbow",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/rainbow"
+      "rainbow"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3641,12 +3641,12 @@
   },
   {
     "id": "mj_mj_v5_colors__saturated",
-    "term": "/Saturated",
+    "term": "Saturated",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/saturated"
+      "saturated"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3673,12 +3673,12 @@
   },
   {
     "id": "mj_mj_v5_colors__sepia",
-    "term": "/Sepia",
+    "term": "Sepia",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/sepia"
+      "sepia"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3705,12 +3705,12 @@
   },
   {
     "id": "mj_mj_v5_colors__septuple_colors",
-    "term": "/Septuple Colors",
+    "term": "Septuple Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/septuple"
+      "septuple"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3737,12 +3737,12 @@
   },
   {
     "id": "mj_mj_v5_colors__single_color",
-    "term": "/Single Color",
+    "term": "Single Color",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/single"
+      "single"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3769,12 +3769,12 @@
   },
   {
     "id": "mj_mj_v5_colors__spectral_color",
-    "term": "/Spectral Color",
+    "term": "Spectral Color",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/spectral"
+      "spectral"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3801,12 +3801,12 @@
   },
   {
     "id": "mj_mj_v5_colors__spectrum",
-    "term": "/Spectrum",
+    "term": "Spectrum",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/spectrum"
+      "spectrum"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3833,12 +3833,12 @@
   },
   {
     "id": "mj_mj_v5_colors__split_complementary_colors",
-    "term": "/Split Complementary Colors",
+    "term": "Split Complementary Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/split"
+      "split"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3864,12 +3864,12 @@
   },
   {
     "id": "mj_mj_v5_colors__supplementary_colors",
-    "term": "/Supplementary Colors",
+    "term": "Supplementary Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/supplementary"
+      "supplementary"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3896,12 +3896,12 @@
   },
   {
     "id": "mj_mj_v5_colors__technicolor",
-    "term": "/Technicolor",
+    "term": "Technicolor",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/technicolor"
+      "technicolor"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3928,12 +3928,12 @@
   },
   {
     "id": "mj_mj_v5_colors__tetrachromacy",
-    "term": "/Tetrachromacy",
+    "term": "Tetrachromacy",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/tetrachromacy"
+      "tetrachromacy"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3959,12 +3959,12 @@
   },
   {
     "id": "mj_mj_v5_colors__tetradic_colors",
-    "term": "/Tetradic Colors",
+    "term": "Tetradic Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/tetradic"
+      "tetradic"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -3991,12 +3991,12 @@
   },
   {
     "id": "mj_mj_v5_colors__tonal_colors",
-    "term": "/Tonal Colors",
+    "term": "Tonal Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/tonal"
+      "tonal"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -4023,12 +4023,12 @@
   },
   {
     "id": "mj_mj_v5_colors__tone",
-    "term": "/Tone",
+    "term": "Tone",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/tone"
+      "tone"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -4055,12 +4055,12 @@
   },
   {
     "id": "mj_mj_v5_colors__tones_of_black",
-    "term": "/Tones of Black",
+    "term": "Tones of Black",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/tones"
+      "tones"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -4087,12 +4087,12 @@
   },
   {
     "id": "mj_mj_v5_colors__tones_of_black_in_background",
-    "term": "/Tones of Black in Background",
+    "term": "Tones of Black in Background",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/tones"
+      "tones"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -4118,12 +4118,12 @@
   },
   {
     "id": "mj_mj_v5_colors__triadic_colors",
-    "term": "/Triadic Colors",
+    "term": "Triadic Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/triadic"
+      "triadic"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -4150,12 +4150,12 @@
   },
   {
     "id": "mj_mj_v5_colors__triple_colors",
-    "term": "/Triple Colors",
+    "term": "Triple Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/triple"
+      "triple"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -4182,12 +4182,12 @@
   },
   {
     "id": "mj_mj_v5_colors__vga",
-    "term": "/VGA",
+    "term": "VGA",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/vga"
+      "vga"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -4215,12 +4215,12 @@
   },
   {
     "id": "mj_mj_v5_colors__value",
-    "term": "/Value",
+    "term": "Value",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/value"
+      "value"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -4247,12 +4247,12 @@
   },
   {
     "id": "mj_mj_v5_colors__variegated",
-    "term": "/Variegated",
+    "term": "Variegated",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/variegated"
+      "variegated"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -4279,12 +4279,12 @@
   },
   {
     "id": "mj_mj_v5_colors__vibrance",
-    "term": "/Vibrance",
+    "term": "Vibrance",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/vibrance"
+      "vibrance"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -4311,12 +4311,12 @@
   },
   {
     "id": "mj_mj_v5_colors__vibrant",
-    "term": "/Vibrant",
+    "term": "Vibrant",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/vibrant"
+      "vibrant"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -4343,12 +4343,12 @@
   },
   {
     "id": "mj_mj_v5_colors__vibrant_colors",
-    "term": "/Vibrant Colors",
+    "term": "Vibrant Colors",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/vibrant"
+      "vibrant"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -4375,12 +4375,12 @@
   },
   {
     "id": "mj_mj_v5_colors__vivid",
-    "term": "/Vivid",
+    "term": "Vivid",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/vivid"
+      "vivid"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -4407,12 +4407,12 @@
   },
   {
     "id": "mj_mj_v5_colors__warm_color_palette",
-    "term": "/Warm Color Palette",
+    "term": "Warm Color Palette",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/warm"
+      "warm"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -4439,12 +4439,12 @@
   },
   {
     "id": "mj_mj_v5_colors__ycbcr",
-    "term": "/YCbCr",
+    "term": "YCbCr",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/ycbcr"
+      "ycbcr"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -4471,12 +4471,12 @@
   },
   {
     "id": "mj_mj_v5_colors__ypbpr",
-    "term": "/YPbPr",
+    "term": "YPbPr",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/ypbpr"
+      "ypbpr"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -4503,12 +4503,12 @@
   },
   {
     "id": "mj_mj_v5_colors__srgb",
-    "term": "/sRGB",
+    "term": "sRGB",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/srgb"
+      "srgb"
     ],
     "score": 0.7,
     "priority": "medium",
@@ -4535,12 +4535,12 @@
   },
   {
     "id": "mj_mj_v5_colors__scrgb",
-    "term": "/scRGB",
+    "term": "scRGB",
     "category": "styles",
     "subcategory": "mj_v5_colors",
     "labels": [
       "mj_v5_colors",
-      "/scrgb"
+      "scrgb"
     ],
     "score": 0.7,
     "priority": "medium",
