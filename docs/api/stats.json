@@ -1,7 +1,7 @@
 {
-  "version": "1.3.0",
-  "total_keywords": 5999,
-  "total_categories": 19,
+  "version": "1.4.0",
+  "total_keywords": 6037,
+  "total_categories": 20,
   "total_workflows": 4,
   "by_category": {
     "styles": 1990,
@@ -20,9 +20,10 @@
     "material": 67,
     "held-prop": 66,
     "character-fx": 60,
+    "shot-language": 38,
     "era": 33,
     "temporal": 30,
     "atmosphere": 6
   },
-  "generated_at": "2026-10-11T11:04:59.417653+00:00"
+  "generated_at": "2026-10-11T11:36:48.378000+00:00"
 }

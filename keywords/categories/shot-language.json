@@ -1,0 +1,727 @@
+[
+  {
+    "id": "shot_language_shot_size_extreme_long_shot",
+    "term": "extreme long shot",
+    "term_zh": "大远景",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "wide",
+      "establishing"
+    ],
+    "labels_zh": [
+      "景别",
+      "远景",
+      "定场"
+    ],
+    "score": 0.9,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_shot_size_long_shot",
+    "term": "long shot",
+    "term_zh": "远景",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "wide"
+    ],
+    "labels_zh": [
+      "景别",
+      "远景"
+    ],
+    "score": 0.9,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_shot_size_medium_long_shot",
+    "term": "medium long shot",
+    "term_zh": "中远景",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "medium"
+    ],
+    "labels_zh": [
+      "景别",
+      "中远景"
+    ],
+    "score": 0.9,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_shot_size_medium_shot",
+    "term": "medium shot",
+    "term_zh": "中景",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "medium"
+    ],
+    "labels_zh": [
+      "景别",
+      "中景"
+    ],
+    "score": 0.9,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_shot_size_medium_close_up",
+    "term": "medium close-up",
+    "term_zh": "中近景",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "close"
+    ],
+    "labels_zh": [
+      "景别",
+      "中近景"
+    ],
+    "score": 0.9,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_shot_size_close_up",
+    "term": "close-up",
+    "term_zh": "近景",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "close"
+    ],
+    "labels_zh": [
+      "景别",
+      "近景"
+    ],
+    "score": 0.9,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_shot_size_extreme_close_up",
+    "term": "extreme close-up",
+    "term_zh": "特写",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "extreme",
+      "close"
+    ],
+    "labels_zh": [
+      "景别",
+      "特写"
+    ],
+    "score": 0.9,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_shot_size_close_up_shot",
+    "term": "close-up shot",
+    "term_zh": "特写镜头",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "close"
+    ],
+    "labels_zh": [
+      "景别",
+      "特写"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_shot_size_macro_shot",
+    "term": "macro shot",
+    "term_zh": "微距镜头",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "macro"
+    ],
+    "labels_zh": [
+      "景别",
+      "微距"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_shot_size_establishing_shot",
+    "term": "establishing shot",
+    "term_zh": "定场镜头",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "establishing"
+    ],
+    "labels_zh": [
+      "景别",
+      "定场"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_shot_size_full_shot",
+    "term": "full shot",
+    "term_zh": "全身镜头",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "full"
+    ],
+    "labels_zh": [
+      "景别",
+      "全身"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_shot_size_cowboy_shot",
+    "term": "cowboy shot",
+    "term_zh": "牛仔镜头",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "cowboy"
+    ],
+    "labels_zh": [
+      "景别",
+      "牛仔"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_shot_size_two_shot",
+    "term": "two shot",
+    "term_zh": "双人镜头",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "two"
+    ],
+    "labels_zh": [
+      "景别",
+      "双人"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_shot_size_over_the_shoulder",
+    "term": "over the shoulder shot",
+    "term_zh": "过肩镜头",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "shoulder"
+    ],
+    "labels_zh": [
+      "景别",
+      "过肩"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_shot_size_point_of_view",
+    "term": "point of view shot",
+    "term_zh": "主观镜头",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "pov"
+    ],
+    "labels_zh": [
+      "景别",
+      "主观"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_camera_move_fixed",
+    "term": "static camera",
+    "term_zh": "固定镜头",
+    "category": "shot-language",
+    "subcategory": "camera-move",
+    "labels": [
+      "camera",
+      "move",
+      "static",
+      "fixed"
+    ],
+    "labels_zh": [
+      "运镜",
+      "固定"
+    ],
+    "score": 0.9,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_camera_move_push_in",
+    "term": "slow push in",
+    "term_zh": "缓慢推近",
+    "category": "shot-language",
+    "subcategory": "camera-move",
+    "labels": [
+      "camera",
+      "move",
+      "push",
+      "dolly"
+    ],
+    "labels_zh": [
+      "运镜",
+      "推近"
+    ],
+    "score": 0.9,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_camera_move_pull_out",
+    "term": "slow pull out",
+    "term_zh": "缓慢拉远",
+    "category": "shot-language",
+    "subcategory": "camera-move",
+    "labels": [
+      "camera",
+      "move",
+      "pull"
+    ],
+    "labels_zh": [
+      "运镜",
+      "拉远"
+    ],
+    "score": 0.9,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_camera_move_pan_left",
+    "term": "pan left",
+    "term_zh": "左摇",
+    "category": "shot-language",
+    "subcategory": "camera-move",
+    "labels": [
+      "camera",
+      "move",
+      "pan"
+    ],
+    "labels_zh": [
+      "运镜",
+      "左摇"
+    ],
+    "score": 0.9,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_camera_move_pan_right",
+    "term": "pan right",
+    "term_zh": "右摇",
+    "category": "shot-language",
+    "subcategory": "camera-move",
+    "labels": [
+      "camera",
+      "move",
+      "pan"
+    ],
+    "labels_zh": [
+      "运镜",
+      "右摇"
+    ],
+    "score": 0.9,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_camera_move_tracking_shot",
+    "term": "tracking shot",
+    "term_zh": "跟拍",
+    "category": "shot-language",
+    "subcategory": "camera-move",
+    "labels": [
+      "camera",
+      "move",
+      "tracking",
+      "follow"
+    ],
+    "labels_zh": [
+      "运镜",
+      "跟拍"
+    ],
+    "score": 0.9,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_camera_move_crane_up",
+    "term": "crane up",
+    "term_zh": "上摇",
+    "category": "shot-language",
+    "subcategory": "camera-move",
+    "labels": [
+      "camera",
+      "move",
+      "crane"
+    ],
+    "labels_zh": [
+      "运镜",
+      "上摇"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_camera_move_tilt_down",
+    "term": "tilt down",
+    "term_zh": "下摇",
+    "category": "shot-language",
+    "subcategory": "camera-move",
+    "labels": [
+      "camera",
+      "move",
+      "tilt"
+    ],
+    "labels_zh": [
+      "运镜",
+      "下摇"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_camera_move_zoom_in",
+    "term": "zoom in",
+    "term_zh": "变焦推近",
+    "category": "shot-language",
+    "subcategory": "camera-move",
+    "labels": [
+      "camera",
+      "move",
+      "zoom"
+    ],
+    "labels_zh": [
+      "运镜",
+      "变焦推近"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_camera_move_zoom_out",
+    "term": "zoom out",
+    "term_zh": "变焦拉远",
+    "category": "shot-language",
+    "subcategory": "camera-move",
+    "labels": [
+      "camera",
+      "move",
+      "zoom"
+    ],
+    "labels_zh": [
+      "运镜",
+      "变焦拉远"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_camera_move_arc",
+    "term": "arc shot",
+    "term_zh": "环绕镜头",
+    "category": "shot-language",
+    "subcategory": "camera-move",
+    "labels": [
+      "camera",
+      "move",
+      "arc",
+      "orbit"
+    ],
+    "labels_zh": [
+      "运镜",
+      "环绕"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_camera_move_dolly_zoom",
+    "term": "dolly zoom",
+    "term_zh": "推拉变焦",
+    "category": "shot-language",
+    "subcategory": "camera-move",
+    "labels": [
+      "camera",
+      "move",
+      "dolly",
+      "zoom"
+    ],
+    "labels_zh": [
+      "运镜",
+      "推拉变焦"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_lens_14mm",
+    "term": "14mm lens",
+    "term_zh": "14mm 镜头",
+    "category": "shot-language",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "wide",
+      "ultra"
+    ],
+    "labels_zh": [
+      "镜头",
+      "超广角"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_lens_24mm",
+    "term": "24mm lens",
+    "term_zh": "24mm 镜头",
+    "category": "shot-language",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "wide"
+    ],
+    "labels_zh": [
+      "镜头",
+      "广角"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_lens_35mm",
+    "term": "35mm lens",
+    "term_zh": "35mm 镜头",
+    "category": "shot-language",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "standard"
+    ],
+    "labels_zh": [
+      "镜头",
+      "标准"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_lens_50mm",
+    "term": "50mm lens",
+    "term_zh": "50mm 镜头",
+    "category": "shot-language",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "standard",
+      "prime"
+    ],
+    "labels_zh": [
+      "镜头",
+      "标准",
+      "定焦"
+    ],
+    "score": 0.9,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_lens_85mm",
+    "term": "85mm lens",
+    "term_zh": "85mm 镜头",
+    "category": "shot-language",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "portrait"
+    ],
+    "labels_zh": [
+      "镜头",
+      "人像"
+    ],
+    "score": 0.9,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_lens_135mm",
+    "term": "135mm lens",
+    "term_zh": "135mm 镜头",
+    "category": "shot-language",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "telephoto"
+    ],
+    "labels_zh": [
+      "镜头",
+      "中长焦"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_lens_200mm",
+    "term": "200mm lens",
+    "term_zh": "200mm 镜头",
+    "category": "shot-language",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "telephoto"
+    ],
+    "labels_zh": [
+      "镜头",
+      "长焦"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_lens_fisheye",
+    "term": "fisheye lens",
+    "term_zh": "鱼眼镜头",
+    "category": "shot-language",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "fisheye"
+    ],
+    "labels_zh": [
+      "镜头",
+      "鱼眼"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_lens_tilt_shift",
+    "term": "tilt-shift lens",
+    "term_zh": "移轴镜头",
+    "category": "shot-language",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "tilt",
+      "shift"
+    ],
+    "labels_zh": [
+      "镜头",
+      "移轴"
+    ],
+    "score": 0.8,
+    "priority": "medium",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_lens_macro",
+    "term": "macro lens",
+    "term_zh": "微距镜头",
+    "category": "shot-language",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "macro"
+    ],
+    "labels_zh": [
+      "镜头",
+      "微距"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "shot_language_lens_anamorphic",
+    "term": "anamorphic lens",
+    "term_zh": "变形宽银幕镜头",
+    "category": "shot-language",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "anamorphic",
+      "cinematic"
+    ],
+    "labels_zh": [
+      "镜头",
+      "宽银幕",
+      "电影感"
+    ],
+    "score": 0.85,
+    "priority": "high",
+    "lifecycle": "approved"
+  }
+]

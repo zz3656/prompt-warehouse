@@ -1,6 +1,6 @@
 {
-  "version": "1.3.0",
-  "total": 19,
+  "version": "1.4.0",
+  "total": 20,
   "subcategories_zh": {
     "basic": "基础质量",
     "advanced": "高级质量",
@@ -61,7 +61,7 @@
     "angle": "角度",
     "coverage": "镜头覆盖",
     "vantage": "视角位置",
-    "shot-size": "景别大小",
+    "shot-size": "景别",
     "art": "艺术风格",
     "realism": "写实风格",
     "specialty": "专业领域",
@@ -159,7 +159,8 @@
     "mj_v5_lighting": "灯光效果",
     "mj_v5_sfx": "特效灯光",
     "power": "力量感",
-    "transformation": "变形效果"
+    "transformation": "变形效果",
+    "camera-move": "运镜"
   },
   "categories": [
     {
@@ -496,7 +497,7 @@
         },
         {
           "slug": "shot-size",
-          "name_zh": "景别大小",
+          "name_zh": "景别",
           "count": 20
         },
         {
@@ -956,6 +957,28 @@
           "slug": "fantastical",
           "name_zh": "奇幻",
           "count": 7
+        }
+      ]
+    },
+    {
+      "slug": "shot-language",
+      "name_zh": "镜头语言",
+      "count": 38,
+      "subcategories": [
+        {
+          "slug": "shot-size",
+          "name_zh": "景别",
+          "count": 15
+        },
+        {
+          "slug": "camera-move",
+          "name_zh": "运镜",
+          "count": 12
+        },
+        {
+          "slug": "lens",
+          "name_zh": "镜头",
+          "count": 11
         }
       ]
     },
