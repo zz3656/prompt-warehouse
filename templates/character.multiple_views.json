@@ -1,0 +1,53 @@
+{
+  "id": "character.multiple_views",
+  "version": "1.0.0",
+  "description": "Generate multiple views of a character for consistency.",
+  "description_zh": "生成角色的多视角参考图",
+  "variables": [
+    {
+      "name": "front_view",
+      "description": "Front view description",
+      "description_zh": "正面描述",
+      "source": "keyword",
+      "category": "character",
+      "subcategory": "character",
+      "required": true
+    },
+    {
+      "name": "side_view",
+      "description": "Side view description",
+      "description_zh": "侧面描述",
+      "source": "keyword",
+      "category": "character",
+      "subcategory": "pose",
+      "required": true
+    },
+    {
+      "name": "back_view",
+      "description": "Back view description",
+      "description_zh": "背面描述",
+      "source": "keyword",
+      "category": "character",
+      "subcategory": "expression",
+      "required": false
+    }
+  ],
+  "render": {
+    "format": "comma_separated",
+    "separator": ", ",
+    "order": [
+      "front_view",
+      "side_view",
+      "back_view"
+    ]
+  },
+  "fallback": "character sheet, front side back view",
+  "dedupe_group": "character",
+  "priority": "high",
+  "lifecycle": "active",
+  "api_targets": [
+    "SDXL",
+    "Midjourney"
+  ],
+  "created_at": "2026-10-11"
+}

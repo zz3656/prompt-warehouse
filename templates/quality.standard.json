@@ -1,0 +1,74 @@
+{
+  "id": "quality.standard",
+  "version": "1.0.0",
+  "description": "Apply standard quality enhancements.",
+  "description_zh": "应用标准质量增强",
+  "variables": [
+    {
+      "name": "quality_level",
+      "description": "Quality level",
+      "description_zh": "质量等级",
+      "source": "keyword",
+      "category": "quality",
+      "subcategory": "basic",
+      "required": true
+    },
+    {
+      "name": "technical_specs",
+      "description": "Technical specifications",
+      "description_zh": "技术参数",
+      "source": "keyword",
+      "category": "quality",
+      "subcategory": "technical",
+      "required": false
+    },
+    {
+      "name": "render_quality",
+      "description": "Render quality",
+      "description_zh": "渲染质量",
+      "source": "keyword",
+      "category": "quality",
+      "subcategory": "advanced",
+      "required": false
+    },
+    {
+      "name": "resolution",
+      "description": "Output resolution",
+      "description_zh": "输出分辨率",
+      "source": "keyword",
+      "category": "quality",
+      "subcategory": "render-resolution",
+      "required": false
+    },
+    {
+      "name": "texture_quality",
+      "description": "Texture quality",
+      "description_zh": "纹理质量",
+      "source": "keyword",
+      "category": "quality",
+      "subcategory": "texture",
+      "required": false
+    }
+  ],
+  "render": {
+    "format": "comma_separated",
+    "separator": ", ",
+    "order": [
+      "quality_level",
+      "technical_specs",
+      "render_quality",
+      "resolution",
+      "texture_quality"
+    ]
+  },
+  "fallback": "masterpiece, best quality, highres",
+  "dedupe_group": "quality",
+  "priority": "high",
+  "lifecycle": "active",
+  "api_targets": [
+    "SDXL",
+    "Midjourney",
+    "Flux"
+  ],
+  "created_at": "2026-10-11"
+}

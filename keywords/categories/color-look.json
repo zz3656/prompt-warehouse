@@ -23,6 +23,10 @@
       "调色板",
       "暖色调色",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -49,6 +53,10 @@
       "调色板",
       "冷色调色",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -75,6 +83,10 @@
       "调色板",
       "青橙调色",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -101,6 +113,10 @@
       "调色板",
       "分调色",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -126,6 +142,10 @@
       "色彩",
       "调色板",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -151,6 +171,10 @@
       "色彩",
       "调色板",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -178,6 +202,10 @@
       "log",
       "素材",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -203,6 +231,10 @@
       "色彩",
       "调色板",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -229,6 +261,10 @@
       "调色板",
       "黑白",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -255,6 +291,10 @@
       "调色板",
       "深褐色调",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -280,6 +320,10 @@
       "色彩",
       "调色板",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -305,6 +349,10 @@
       "色彩",
       "调色板",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -330,6 +378,10 @@
       "色彩",
       "调色板",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -356,6 +408,10 @@
       "胶片模拟",
       "柯达",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -382,6 +438,10 @@
       "胶片模拟",
       "柯达",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -408,6 +468,10 @@
       "胶片模拟",
       "柯达",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -436,6 +500,10 @@
       "Pro",
       "400H",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -462,6 +530,10 @@
       "胶片模拟",
       "800T",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -487,6 +559,10 @@
       "色彩",
       "胶片模拟",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -512,6 +588,10 @@
       "色彩",
       "胶片模拟",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -537,6 +617,10 @@
       "色彩",
       "胶片模拟",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -562,6 +646,10 @@
       "色彩",
       "胶片模拟",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -587,6 +675,10 @@
       "色彩",
       "胶片模拟",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -614,6 +706,10 @@
       "ORWO",
       "胶片",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -639,6 +735,10 @@
       "色彩",
       "胶片模拟",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -664,6 +764,10 @@
       "色彩",
       "胶片模拟",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -691,6 +795,10 @@
       "64",
       "调色",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -718,6 +826,10 @@
       "柯达",
       "100",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -746,6 +858,10 @@
       "400",
       "黑白胶片",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -771,6 +887,10 @@
       "色彩",
       "胶片模拟",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -796,6 +916,10 @@
       "色彩",
       "胶片模拟",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -822,6 +946,10 @@
       "胶片模拟",
       "50D",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -847,6 +975,10 @@
       "色彩",
       "胶片模拟",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -873,6 +1005,10 @@
       "预设",
       "暖调滤镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -898,6 +1034,10 @@
       "色彩",
       "预设",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -925,6 +1065,10 @@
       "Vlog",
       "平调",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -952,6 +1096,10 @@
       "计算",
       "HDR",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -978,6 +1126,10 @@
       "预设",
       "Y2K",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1006,6 +1158,10 @@
       "MTV",
       "VHS",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1031,6 +1187,10 @@
       "色彩",
       "预设",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1056,6 +1216,10 @@
       "色彩",
       "预设",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1082,6 +1246,10 @@
       "色彩",
       "后期",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1108,6 +1276,10 @@
       "色彩",
       "后期",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1134,6 +1306,10 @@
       "色彩",
       "后期",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1160,6 +1336,10 @@
       "色彩",
       "后期",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1188,6 +1368,10 @@
       "ISO",
       "胶片",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1214,6 +1398,10 @@
       "色彩",
       "后期",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1241,6 +1429,10 @@
       "后期",
       "高光泛光",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1268,6 +1460,10 @@
       "后期",
       "色差",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1294,6 +1490,10 @@
       "色彩",
       "后期",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1321,6 +1521,10 @@
       "后期",
       "复古效果",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1347,6 +1551,10 @@
       "色彩",
       "后期",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1373,6 +1581,10 @@
       "色彩",
       "后期",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1400,6 +1612,10 @@
       "后期",
       "柔光滤镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1426,6 +1642,10 @@
       "色彩",
       "后期",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1452,6 +1672,10 @@
       "色彩",
       "后期",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1478,6 +1702,10 @@
       "色彩",
       "后期",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1505,6 +1733,10 @@
       "后期",
       "大气除雾",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1534,6 +1766,10 @@
       "Lift",
       "Gain",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1562,7 +1798,11 @@
       "cinematic"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "color-look"
+    "category": "color-look",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "color_look_bleach_bypass",
@@ -1590,7 +1830,11 @@
       "vintage"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "color-look"
+    "category": "color-look",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "color_look_cross_process",
@@ -1618,7 +1862,11 @@
       "experimental"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "color-look"
+    "category": "color-look",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "color_look_italian_giallo",
@@ -1646,7 +1894,11 @@
       "genre"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "color-look"
+    "category": "color-look",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "color_look_japenese_watery",
@@ -1674,7 +1926,11 @@
       "cinematic"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "color-look"
+    "category": "color-look",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "color_look_kodak_portra",
@@ -1701,7 +1957,11 @@
       "portrait"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "color-look"
+    "category": "color-look",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "color_look_verifact_color",
@@ -1728,7 +1988,11 @@
       "classic"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "color-look"
+    "category": "color-look",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "color_look_muted_pastel",
@@ -1756,7 +2020,11 @@
       "popular"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "color-look"
+    "category": "color-look",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "color_look_noir_monochrome",
@@ -1784,7 +2052,11 @@
       "classic"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "color-look"
+    "category": "color-look",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "color_look_harsh_high_contrast",
@@ -1812,6 +2084,10 @@
       "bold"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "color-look"
+    "category": "color-look",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   }
 ]

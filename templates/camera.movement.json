@@ -1,0 +1,64 @@
+{
+  "id": "camera.movement",
+  "version": "1.0.0",
+  "description": "Describe camera movement for video generation.",
+  "description_zh": "描述摄像机运动（视频生成用）",
+  "variables": [
+    {
+      "name": "movement_type",
+      "description": "Type of camera movement (push, pull, pan, track, arc)",
+      "description_zh": "摄像机运动类型（推、拉、摇、跟拍、环绕）",
+      "source": "static",
+      "category": "camera",
+      "subcategory": null,
+      "required": true
+    },
+    {
+      "name": "direction",
+      "description": "Direction of movement (left, right, up, down, forward, backward)",
+      "description_zh": "运动方向（左、右、上、下、前、后）",
+      "source": "static",
+      "category": "camera",
+      "subcategory": null,
+      "required": false
+    },
+    {
+      "name": "speed",
+      "description": "Speed of camera movement (slow, normal, fast)",
+      "description_zh": "摄像机移动速度（慢、正常、快）",
+      "source": "static",
+      "category": "camera",
+      "subcategory": null,
+      "required": false
+    },
+    {
+      "name": "smoothness",
+      "description": "Movement smoothness (static, smooth, handheld)",
+      "description_zh": "运动平滑度（固定、平滑、手持）",
+      "source": "static",
+      "category": "camera",
+      "subcategory": null,
+      "required": false
+    }
+  ],
+  "render": {
+    "format": "comma_separated",
+    "separator": ", ",
+    "order": [
+      "movement_type",
+      "direction",
+      "speed",
+      "smoothness"
+    ]
+  },
+  "fallback": "slow push in camera",
+  "dedupe_group": "camera",
+  "priority": "high",
+  "lifecycle": "beta",
+  "api_targets": [
+    "Kling",
+    "Runway",
+    "Minimax H3"
+  ],
+  "created_at": "2026-10-11"
+}

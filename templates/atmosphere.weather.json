@@ -1,0 +1,54 @@
+{
+  "id": "atmosphere.weather",
+  "version": "1.0.0",
+  "description": "Describe weather and atmospheric conditions.",
+  "description_zh": "描述天气和大气条件",
+  "variables": [
+    {
+      "name": "sky_condition",
+      "description": "Sky condition",
+      "description_zh": "天空状况",
+      "source": "keyword",
+      "category": "atmosphere",
+      "subcategory": "sky",
+      "required": true
+    },
+    {
+      "name": "weather_type",
+      "description": "Weather condition",
+      "description_zh": "天气类型",
+      "source": "keyword",
+      "category": "scene",
+      "subcategory": "weather",
+      "required": true
+    },
+    {
+      "name": "time_of_day",
+      "description": "Time period affecting lighting",
+      "description_zh": "影响光照的时间段",
+      "source": "keyword",
+      "category": "scene",
+      "subcategory": "time",
+      "required": false
+    }
+  ],
+  "render": {
+    "format": "comma_separated",
+    "separator": ", ",
+    "order": [
+      "sky_condition",
+      "weather_type",
+      "time_of_day"
+    ]
+  },
+  "fallback": "clear sky, sunny day",
+  "dedupe_group": "atmosphere",
+  "priority": "medium",
+  "lifecycle": "active",
+  "api_targets": [
+    "SDXL",
+    "Midjourney",
+    "Flux"
+  ],
+  "created_at": "2026-10-11"
+}

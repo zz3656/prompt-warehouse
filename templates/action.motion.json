@@ -1,0 +1,54 @@
+{
+  "id": "action.motion",
+  "version": "1.0.0",
+  "description": "Describe character actions and movements for video generation.",
+  "description_zh": "描述角色动作和运动（视频生成用）",
+  "variables": [
+    {
+      "name": "motion_type",
+      "description": "Type of motion (walk, run, fight, dance)",
+      "description_zh": "运动类型（走、跑、战斗、舞蹈）",
+      "source": "static",
+      "category": "action",
+      "subcategory": null,
+      "required": true
+    },
+    {
+      "name": "intensity",
+      "description": "Intensity of movement (subtle, moderate, extreme)",
+      "description_zh": "运动强度（轻微、中等、强烈）",
+      "source": "static",
+      "category": "action",
+      "subcategory": null,
+      "required": false
+    },
+    {
+      "name": "speed",
+      "description": "Speed of movement (slow, normal, fast)",
+      "description_zh": "运动速度（慢、正常、快）",
+      "source": "static",
+      "category": "action",
+      "subcategory": null,
+      "required": false
+    }
+  ],
+  "render": {
+    "format": "comma_separated",
+    "separator": ", ",
+    "order": [
+      "motion_type",
+      "intensity",
+      "speed"
+    ]
+  },
+  "fallback": "character walking naturally",
+  "dedupe_group": "action",
+  "priority": "high",
+  "lifecycle": "beta",
+  "api_targets": [
+    "Kling",
+    "Runway",
+    "Minimax H3"
+  ],
+  "created_at": "2026-10-11"
+}

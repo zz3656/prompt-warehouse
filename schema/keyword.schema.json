@@ -182,6 +182,21 @@
           }
         }
       }
+    },
+    "compatibility": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "sdxl",
+          "midjourney",
+          "flux",
+          "kling",
+          "runway",
+          "minimax_h3"
+        ]
+      },
+      "description": "适用的 AI 模型列表"
     }
   },
   "additionalProperties": true,

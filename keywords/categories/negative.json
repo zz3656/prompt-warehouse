@@ -26,6 +26,11 @@
       "负面",
       "质量缺陷",
       "低质量"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -55,6 +60,11 @@
       "负面",
       "质量缺陷",
       "最差质量"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -84,6 +94,11 @@
       "负面",
       "质量缺陷",
       "糟糕质量"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -113,6 +128,11 @@
       "负面",
       "质量缺陷",
       "低分辨率"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -142,6 +162,11 @@
       "负面",
       "质量缺陷",
       "模糊"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -171,6 +196,11 @@
       "负面",
       "质量缺陷",
       "模糊背景"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -200,6 +230,11 @@
       "负面",
       "质量缺陷",
       "失焦"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -229,6 +264,11 @@
       "负面",
       "质量缺陷",
       "抖动"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -259,6 +299,11 @@
       "质量缺陷",
       "JPEG",
       "压缩"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -288,6 +333,11 @@
       "负面",
       "质量缺陷",
       "像素化"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -317,6 +367,11 @@
       "负面",
       "解剖缺陷",
       "变形"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -346,6 +401,11 @@
       "负面",
       "解剖缺陷",
       "失真"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -375,6 +435,11 @@
       "负面",
       "解剖缺陷",
       "毁容"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -404,6 +469,11 @@
       "负面",
       "解剖缺陷",
       "畸形解剖"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -433,6 +503,11 @@
       "负面",
       "解剖缺陷",
       "错误解剖"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -462,6 +537,11 @@
       "负面",
       "解剖缺陷",
       "多余肢体"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -491,6 +571,11 @@
       "负面",
       "解剖缺陷",
       "多余手臂"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -520,6 +605,11 @@
       "负面",
       "解剖缺陷",
       "多余腿"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -549,6 +639,11 @@
       "负面",
       "解剖缺陷",
       "缺失肢体"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -578,6 +673,11 @@
       "负面",
       "解剖缺陷",
       "缺少手指"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -607,6 +707,11 @@
       "负面",
       "解剖缺陷",
       "多余指"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -636,6 +741,11 @@
       "负面",
       "解剖缺陷",
       "缺失指"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -665,6 +775,11 @@
       "负面",
       "解剖缺陷",
       "错误手指"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -694,6 +809,11 @@
       "负面",
       "解剖缺陷",
       "手部畸形"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -723,6 +843,11 @@
       "负面",
       "解剖缺陷",
       "糟糕双手"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -752,6 +877,11 @@
       "负面",
       "解剖缺陷",
       "变异"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -781,6 +911,11 @@
       "负面",
       "解剖缺陷",
       "变形手"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -810,6 +945,11 @@
       "负面",
       "解剖缺陷",
       "融合手指"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -839,6 +979,11 @@
       "负面",
       "解剖缺陷",
       "手指过多"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -868,6 +1013,11 @@
       "负面",
       "解剖缺陷",
       "长颈"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -897,6 +1047,11 @@
       "负面",
       "解剖缺陷",
       "连体手指"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -926,6 +1081,11 @@
       "负面",
       "解剖缺陷",
       "多余脚趾"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -955,6 +1115,11 @@
       "负面",
       "解剖缺陷",
       "脚部错误"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -984,6 +1149,11 @@
       "负面",
       "面部缺陷",
       "丑陋"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1013,6 +1183,11 @@
       "负面",
       "面部缺陷",
       "重复"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1042,6 +1217,11 @@
       "负面",
       "面部缺陷",
       "病态"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1071,6 +1251,11 @@
       "负面",
       "面部缺陷",
       "残害"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1100,6 +1285,11 @@
       "负面",
       "面部缺陷",
       "塑料皮肤"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1129,6 +1319,11 @@
       "负面",
       "面部缺陷",
       "糟糕脸"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1158,6 +1353,11 @@
       "负面",
       "面部缺陷",
       "变形脸"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1187,6 +1387,11 @@
       "负面",
       "面部缺陷",
       "丑陋脸"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1216,6 +1421,11 @@
       "负面",
       "面部缺陷",
       "糟糕面部"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1245,6 +1455,11 @@
       "负面",
       "面部缺陷",
       "比例失调"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1274,6 +1489,11 @@
       "负面",
       "面部缺陷",
       "比例失调"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1303,6 +1523,11 @@
       "负面",
       "面部缺陷",
       "畸形肢体"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1332,6 +1557,11 @@
       "负面",
       "面部缺陷",
       "多余四肢"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1360,6 +1590,11 @@
     "labels_zh": [
       "负面",
       "面部缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1389,6 +1624,11 @@
       "负面",
       "面部缺陷",
       "闭眼"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1418,6 +1658,11 @@
       "负面",
       "面部缺陷",
       "斜视"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1446,6 +1691,11 @@
     "labels_zh": [
       "负面",
       "面部缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1475,6 +1725,11 @@
       "负面",
       "面部缺陷",
       "多眼"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1504,6 +1759,11 @@
       "负面",
       "面部缺陷",
       "缺眼"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1533,6 +1793,11 @@
       "负面",
       "构图",
       "水印"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1562,6 +1827,11 @@
       "负面",
       "构图",
       "文字"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1591,6 +1861,11 @@
       "负面",
       "构图",
       "用户名"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1620,6 +1895,11 @@
       "负面",
       "构图",
       "错误"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1649,6 +1929,11 @@
       "负面",
       "构图",
       "裁剪"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1678,6 +1963,11 @@
       "负面",
       "构图",
       "出框"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1707,6 +1997,11 @@
       "负面",
       "构图",
       "切断"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1736,6 +2031,11 @@
       "负面",
       "构图",
       "低分辨率"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1765,6 +2065,11 @@
       "负面",
       "构图",
       "签名"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1794,6 +2099,11 @@
       "负面",
       "构图",
       "多余肢体"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1823,6 +2133,11 @@
       "负面",
       "构图",
       "手部畸形"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1852,6 +2167,11 @@
       "负面",
       "构图",
       "错误尺寸"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1881,6 +2201,11 @@
       "负面",
       "构图",
       "边框"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1910,6 +2235,11 @@
       "负面",
       "构图",
       "画框"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1939,6 +2269,11 @@
       "负面",
       "构图",
       "多格分镜"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1968,6 +2303,11 @@
       "负面",
       "风格缺陷",
       "3D"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1997,6 +2337,11 @@
       "负面",
       "风格缺陷",
       "写实"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2025,6 +2370,11 @@
     "labels_zh": [
       "负面",
       "风格缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2054,6 +2404,11 @@
       "负面",
       "风格缺陷",
       "摄影"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2083,6 +2438,11 @@
       "负面",
       "风格缺陷",
       "写实噪点"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2112,6 +2472,11 @@
       "负面",
       "风格缺陷",
       "写实相机"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2141,6 +2506,11 @@
       "负面",
       "风格缺陷",
       "失焦"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2170,6 +2540,11 @@
       "负面",
       "风格缺陷",
       "油画"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2199,6 +2574,11 @@
       "负面",
       "文字",
       "水印"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2228,6 +2608,11 @@
       "负面",
       "文字",
       "用户名"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2257,6 +2642,11 @@
       "负面",
       "文字",
       "签名"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2286,6 +2676,11 @@
       "负面",
       "文字",
       "标志"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2314,6 +2709,11 @@
     "labels_zh": [
       "负面",
       "文字"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2343,6 +2743,11 @@
       "负面",
       "文字",
       "字体"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2372,6 +2777,11 @@
       "负面",
       "文字",
       "字幕"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2401,6 +2811,11 @@
       "负面",
       "文字",
       "章节号"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2430,6 +2845,11 @@
       "负面",
       "文字",
       "漫画标题"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2459,6 +2879,11 @@
       "负面",
       "文字",
       "系列名"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2488,6 +2913,11 @@
       "负面",
       "常见缺陷",
       "皮肤瑕疵"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2517,6 +2947,11 @@
       "负面",
       "常见缺陷",
       "脂肪堆积"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2546,6 +2981,11 @@
       "负面",
       "常见缺陷",
       "杂发"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2575,6 +3015,11 @@
       "负面",
       "常见缺陷",
       "头部裁切"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2604,6 +3049,11 @@
       "负面",
       "常见缺陷",
       "糟糕脚部"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2633,6 +3083,11 @@
       "负面",
       "常见缺陷",
       "畸形脚部"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2662,6 +3117,11 @@
       "负面",
       "常见缺陷",
       "多余脚趾"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2691,6 +3151,11 @@
       "负面",
       "常见缺陷",
       "脚部错误"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2720,6 +3185,11 @@
       "负面",
       "常见缺陷",
       "脚趾融合"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2749,6 +3219,11 @@
       "负面",
       "常见缺陷",
       "肌肉肿块"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2778,6 +3253,11 @@
       "负面",
       "常见缺陷",
       "凹陷皮肤"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2807,6 +3287,11 @@
       "负面",
       "常见缺陷",
       "斑驳皮肤"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2836,6 +3321,11 @@
       "负面",
       "常见缺陷",
       "可见纹身"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2865,6 +3355,11 @@
       "负面",
       "常见缺陷",
       "肩部肿块"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2894,6 +3389,11 @@
       "负面",
       "常见缺陷",
       "多乳头"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2923,6 +3423,11 @@
       "负面",
       "常见缺陷",
       "阴毛"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2952,6 +3457,11 @@
       "负面",
       "常见缺陷",
       "乳房下垂"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2981,6 +3491,11 @@
       "负面",
       "常见缺陷",
       "骨盆错位"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   }
 ]

@@ -27,6 +27,10 @@
       "质量",
       "基础",
       "杰作"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -56,6 +60,10 @@
       "质量",
       "基础",
       "最高质量"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -85,6 +93,10 @@
       "质量",
       "基础",
       "高质量"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -114,6 +126,10 @@
       "质量",
       "基础",
       "高分辨率"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -143,6 +159,10 @@
       "质量",
       "基础",
       "细致"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -172,6 +192,10 @@
       "质量",
       "基础",
       "高细节"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -201,6 +225,10 @@
       "质量",
       "基础",
       "清晰聚焦"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -230,6 +258,10 @@
       "质量",
       "基础",
       "锐利"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -259,6 +291,10 @@
       "质量",
       "基础",
       "清晰"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -288,6 +324,10 @@
       "质量",
       "基础",
       "干净"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -317,6 +357,10 @@
       "质量",
       "高级",
       "专业"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -346,6 +390,10 @@
       "质量",
       "高级",
       "专业级"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -375,6 +423,10 @@
       "质量",
       "高级",
       "获奖作品"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -403,6 +455,10 @@
     "labels_zh": [
       "质量",
       "高级"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -432,6 +488,10 @@
       "质量",
       "高级",
       "精细细节"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -461,6 +521,10 @@
       "质量",
       "高级",
       "精细细节"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -492,6 +556,10 @@
       "质量",
       "高级",
       "超精细"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -522,6 +590,10 @@
       "高级",
       "8K",
       "UHD"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -550,6 +622,10 @@
     "labels_zh": [
       "质量",
       "高级"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -579,6 +655,10 @@
       "质量",
       "高级",
       "顶级质量"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -608,6 +688,10 @@
       "质量",
       "动漫专用",
       "鲜艳颜色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -637,6 +721,10 @@
       "质量",
       "动漫专用",
       "色彩丰富"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -666,6 +754,10 @@
       "质量",
       "动漫专用",
       "美丽照明"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -695,6 +787,10 @@
       "质量",
       "动漫专用",
       "官方艺术"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -724,6 +820,10 @@
       "质量",
       "动漫专用",
       "钥匙视觉"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -753,6 +853,10 @@
       "质量",
       "动漫专用",
       "动漫截图"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -782,6 +886,10 @@
       "质量",
       "动漫专用",
       "动漫静帧"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -811,6 +919,10 @@
       "质量",
       "动漫专用",
       "干净线稿"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -840,6 +952,10 @@
       "质量",
       "动漫专用",
       "平滑上色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -868,6 +984,10 @@
     "labels_zh": [
       "质量",
       "动漫专用"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -900,6 +1020,10 @@
       "基础",
       "高分辨率",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -931,6 +1055,10 @@
       "质量",
       "基础",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -964,6 +1092,10 @@
       "RAW",
       "照片",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -996,6 +1128,10 @@
       "基础",
       "摄影",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1028,6 +1164,10 @@
       "基础",
       "超级细节",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1060,6 +1200,10 @@
       "基础",
       "柔光",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1092,6 +1236,10 @@
       "基础",
       "浅景深",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1124,6 +1272,10 @@
       "基础",
       "摄影",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1156,6 +1308,10 @@
       "基础",
       "胶片颗粒",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1188,6 +1344,10 @@
       "基础",
       "HDR",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1220,6 +1380,10 @@
       "高级",
       "概念艺术",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1252,6 +1416,10 @@
       "高级",
       "数字艺术",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1284,6 +1452,10 @@
       "高级",
       "插画",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1316,6 +1488,10 @@
       "高级",
       "精细绘制",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1348,6 +1524,10 @@
       "高级",
       "平滑阴影",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1380,6 +1560,10 @@
       "高级",
       "精湛上色",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1412,6 +1596,10 @@
       "高级",
       "美丽构图",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1444,6 +1632,10 @@
       "高级",
       "专业插画",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1476,6 +1668,10 @@
       "高级",
       "概念艺术",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1508,6 +1704,10 @@
       "高级",
       "最佳杰作",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1540,6 +1740,10 @@
       "高级",
       "收藏",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1572,6 +1776,10 @@
       "高级",
       "获奖作品",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1603,6 +1811,10 @@
       "质量",
       "高级",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1635,6 +1847,10 @@
       "高级",
       "值得评论",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1667,6 +1883,10 @@
       "高级",
       "头版",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1699,6 +1919,10 @@
       "高级",
       "热门艺术",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1731,6 +1955,10 @@
       "高级",
       "请询问",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1762,6 +1990,10 @@
       "质量",
       "动漫",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1794,6 +2026,10 @@
       "动漫",
       "干净上色",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1826,6 +2062,10 @@
       "动漫",
       "细致背景",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1858,6 +2098,10 @@
       "动漫",
       "精细背景",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1890,6 +2134,10 @@
       "动漫",
       "注视观众",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1922,6 +2170,10 @@
       "动漫",
       "最高质量",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1954,6 +2206,10 @@
       "动漫",
       "原创",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1986,6 +2242,10 @@
       "动漫",
       "女孩",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2018,6 +2278,10 @@
       "动漫",
       "男孩",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2050,6 +2314,10 @@
       "技术",
       "光线追踪",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2082,6 +2350,10 @@
       "技术",
       "全局光照",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2113,6 +2385,10 @@
       "质量",
       "技术",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2145,6 +2421,10 @@
       "技术",
       "景深",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2177,6 +2457,10 @@
       "技术",
       "色差",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2209,6 +2493,10 @@
       "技术",
       "动态模糊",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2241,6 +2529,10 @@
       "技术",
       "胶片感",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2273,6 +2565,10 @@
       "技术",
       "电影感",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2305,6 +2601,10 @@
       "技术",
       "影棚质量",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2337,6 +2637,10 @@
       "技术",
       "渲染",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2369,6 +2673,10 @@
       "技术",
       "虚幻引擎",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2400,6 +2708,10 @@
       "质量",
       "技术",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2431,6 +2743,10 @@
       "质量",
       "技术",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2463,6 +2779,10 @@
       "技术",
       "瓷器皮肤",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2495,6 +2815,10 @@
       "技术",
       "毛孔",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2527,6 +2851,10 @@
       "技术",
       "皮肤细节",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2559,6 +2887,10 @@
       "技术",
       "锐利细节",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2591,6 +2923,10 @@
       "技术",
       "细致皮肤",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2623,6 +2959,10 @@
       "技术",
       "精致设计",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2655,6 +2995,10 @@
       "技术",
       "精致",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2687,6 +3031,10 @@
       "构图",
       "对称构图",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2719,6 +3067,10 @@
       "构图",
       "平衡构图",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2751,6 +3103,10 @@
       "构图",
       "戏剧角度",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2783,6 +3139,10 @@
       "构图",
       "动态角度",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2815,6 +3175,10 @@
       "构图",
       "三分法",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2847,6 +3211,10 @@
       "构图",
       "全景",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2879,6 +3247,10 @@
       "构图",
       "上半身",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2910,6 +3282,10 @@
       "质量",
       "构图",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2941,6 +3317,10 @@
       "质量",
       "构图",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2973,6 +3353,10 @@
       "构图",
       "视觉故事",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3005,6 +3389,10 @@
       "大气",
       "氛围",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3037,6 +3425,10 @@
       "大气",
       "体积雾",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3069,6 +3461,10 @@
       "大气",
       "氛围雾",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3101,6 +3497,10 @@
       "大气",
       "烟雾",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3133,6 +3533,10 @@
       "大气",
       "薄雾",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3165,6 +3569,10 @@
       "大气",
       "空灵",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3197,6 +3605,10 @@
       "大气",
       "诡异",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3229,6 +3641,10 @@
       "大气",
       "哥特",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3261,6 +3677,10 @@
       "大气",
       "浪漫氛围",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3293,6 +3713,10 @@
       "大气",
       "梦幻氛围",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3325,6 +3749,10 @@
       "大气",
       "魔幻氛围",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3357,6 +3785,10 @@
       "大气",
       "神秘氛围",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3389,6 +3821,10 @@
       "大气",
       "史诗氛围",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3421,6 +3857,10 @@
       "大气",
       "宁静氛围",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3453,6 +3893,10 @@
       "大气",
       "宁静",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3485,6 +3929,10 @@
       "色彩",
       "丰富色彩",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3517,6 +3965,10 @@
       "色彩",
       "鲜艳色调",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3549,6 +4001,10 @@
       "色彩",
       "粉彩色调",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3581,6 +4037,10 @@
       "色彩",
       "霓虹色调",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3613,6 +4073,10 @@
       "色彩",
       "单色",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3645,6 +4109,10 @@
       "色彩",
       "色彩飞溅",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3677,6 +4145,10 @@
       "色彩",
       "彩色背景",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3709,6 +4181,10 @@
       "色彩",
       "渐变背景",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3741,6 +4217,10 @@
       "纹理",
       "细致面部",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3773,6 +4253,10 @@
       "纹理",
       "精致细节",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3805,6 +4289,10 @@
       "纹理",
       "完美解剖",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3837,6 +4325,10 @@
       "纹理",
       "完美双手",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3869,6 +4361,10 @@
       "纹理",
       "细致双手",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3901,6 +4397,10 @@
       "纹理",
       "细致脚部",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3933,6 +4433,10 @@
       "纹理",
       "逼真解剖",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3964,6 +4468,10 @@
       "质量",
       "纹理",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3996,6 +4504,10 @@
       "纹理",
       "细致虹膜",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4028,6 +4540,10 @@
       "纹理",
       "细致睫毛",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4060,6 +4576,10 @@
       "纹理",
       "精致嘴唇",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4092,6 +4612,10 @@
       "纹理",
       "完美绘制",
       "danbooru"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4118,6 +4642,10 @@
       "引擎",
       "虚幻引擎",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4143,6 +4671,10 @@
       "渲染",
       "引擎",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4168,6 +4700,10 @@
       "渲染",
       "引擎",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4193,6 +4729,10 @@
       "渲染",
       "引擎",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4218,6 +4758,10 @@
       "渲染",
       "其他",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4243,6 +4787,10 @@
       "渲染",
       "其他",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4268,6 +4816,10 @@
       "渲染",
       "其他",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4293,6 +4845,10 @@
       "渲染",
       "引擎",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4320,6 +4876,10 @@
       "ACES",
       "色彩空间",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4345,6 +4905,10 @@
       "渲染",
       "其他",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4370,6 +4934,10 @@
       "渲染",
       "其他",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4396,6 +4964,10 @@
       "技术",
       "全局光照",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4422,6 +4994,10 @@
       "技术",
       "全局光照",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4448,6 +5024,10 @@
       "分辨率",
       "8K",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4475,6 +5055,10 @@
       "4K",
       "UHD",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4501,6 +5085,10 @@
       "分辨率",
       "16K",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4527,6 +5115,10 @@
       "分辨率",
       "超精细",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4554,6 +5146,10 @@
       "RAW",
       "摄影美学",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4579,6 +5175,10 @@
       "渲染",
       "印章",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4605,6 +5205,10 @@
       "印章",
       "获奖作品",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4631,6 +5235,10 @@
       "其他",
       "体积光照",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4657,6 +5265,10 @@
       "其他",
       "全局光照",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4684,6 +5296,10 @@
       "神经网络",
       "AI",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4710,6 +5326,10 @@
       "技术",
       "降噪渲染",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4738,7 +5358,11 @@
       "real-time"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "quality"
+    "category": "quality",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "render_quality_maya_render",
@@ -4765,7 +5389,11 @@
       "studio"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "quality"
+    "category": "quality",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "render_quality_cinema4d_octane",
@@ -4791,7 +5419,11 @@
       "gpu"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "quality"
+    "category": "quality",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "render_quality_blender_cycles",
@@ -4818,7 +5450,11 @@
       "popular"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "quality"
+    "category": "quality",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "render_quality_vray",
@@ -4844,7 +5480,11 @@
       "visualization"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "quality"
+    "category": "quality",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "render_quality_ian_brain",
@@ -4870,7 +5510,11 @@
       "legacy"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "quality"
+    "category": "quality",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "render_quality_8k_uhd",
@@ -4897,7 +5541,11 @@
       "commercial"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "quality"
+    "category": "quality",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "render_quality_4k_hdr",
@@ -4924,7 +5572,11 @@
       "modern"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "quality"
+    "category": "quality",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "render_quality_ray_tracing",
@@ -4951,7 +5603,11 @@
       "realistic"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "quality"
+    "category": "quality",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "render_quality_ambient_occlusion",
@@ -4978,7 +5634,11 @@
       "realistic"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "quality"
+    "category": "quality",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "render_quality_subsurface_scattering",
@@ -5005,6 +5665,10 @@
       "realistic"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "quality"
+    "category": "quality",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   }
 ]

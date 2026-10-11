@@ -29,6 +29,10 @@
       "相机",
       "散景",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -61,6 +65,10 @@
       "相机",
       "电影感",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -93,6 +101,10 @@
       "相机",
       "电影薄雾",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -125,6 +137,10 @@
       "相机",
       "景深",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -157,6 +173,10 @@
       "相机",
       "戏剧",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -189,6 +209,10 @@
       "相机",
       "黄金时段",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -222,6 +246,10 @@
       "1000",
       "万像素",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -255,6 +283,10 @@
       "1000",
       "倍放大",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -287,6 +319,10 @@
       "相机",
       "镜头",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -320,6 +356,10 @@
       "100",
       "倍放大",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -353,6 +393,10 @@
       "1200",
       "万像素",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -386,6 +430,10 @@
       "85mm",
       "镜头",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -419,6 +467,10 @@
       "1600",
       "万像素",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -452,6 +504,10 @@
       "200",
       "万像素",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -485,6 +541,10 @@
       "2000",
       "万像素",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -517,6 +577,10 @@
       "相机",
       "镜头",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -550,6 +614,10 @@
       "200",
       "倍放大",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -583,6 +651,10 @@
       "2200",
       "万像素",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -615,6 +687,10 @@
       "相机",
       "35mm",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -648,6 +724,10 @@
       "85mm",
       "镜头",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -680,6 +760,10 @@
       "相机",
       "360",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -713,6 +797,10 @@
       "360",
       "度全景",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -746,6 +834,10 @@
       "500",
       "倍放大",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -779,6 +871,10 @@
       "85mm",
       "镜头",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -811,6 +907,11 @@
       "透视",
       "加速透视",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -843,6 +944,10 @@
       "相机",
       "动作场景",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -875,6 +980,11 @@
       "透视",
       "空气透视",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -907,6 +1017,11 @@
       "透视",
       "鸟瞰视角",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -938,6 +1053,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -970,6 +1089,11 @@
       "透视",
       "变形画法",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1002,6 +1126,10 @@
       "相机",
       "光圈",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1034,6 +1162,11 @@
       "结构",
       "拱形",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1065,6 +1198,11 @@
       "构图",
       "结构",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1097,6 +1235,11 @@
       "结构",
       "弧形",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1129,6 +1272,11 @@
       "结构",
       "圆润",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1160,6 +1308,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1192,6 +1344,10 @@
       "相机",
       "天文滤镜",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1224,6 +1380,10 @@
       "相机",
       "获奖摄影",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1256,6 +1416,11 @@
       "透视",
       "轴测图",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1288,6 +1453,11 @@
       "透视",
       "轴测投影",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1319,6 +1489,11 @@
       "构图",
       "结构",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1351,6 +1526,11 @@
       "结构",
       "双折",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1383,6 +1563,10 @@
       "相机",
       "蓝调时刻",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1414,6 +1598,11 @@
       "构图",
       "透视",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1446,6 +1635,10 @@
       "相机",
       "卡洛版",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1477,6 +1670,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1509,6 +1706,10 @@
       "相机",
       "闭路电视",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1541,6 +1742,11 @@
       "结构",
       "凯尔特结",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1573,6 +1779,11 @@
       "透视",
       "居中镜头",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1604,6 +1815,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1636,6 +1851,10 @@
       "相机",
       "宽银幕",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1667,6 +1886,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1699,6 +1922,11 @@
       "结构",
       "螺旋",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1731,6 +1959,11 @@
       "结构",
       "圆形",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1763,6 +1996,11 @@
       "结构",
       "圆形",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1795,6 +2033,10 @@
       "相机",
       "黏土动画",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1827,6 +2069,10 @@
       "相机",
       "封闭构图",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1859,6 +2105,11 @@
       "透视",
       "特写",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1891,6 +2142,11 @@
       "透视",
       "特写视图",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1923,6 +2179,11 @@
       "结构",
       "盘绕",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1955,6 +2216,10 @@
       "相机",
       "高坚滤镜",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -1987,6 +2252,10 @@
       "相机",
       "色片",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2019,6 +2288,10 @@
       "相机",
       "色彩分级",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2051,6 +2324,11 @@
       "结构",
       "同心",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2083,6 +2361,11 @@
       "结构",
       "同心圆",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2115,6 +2398,11 @@
       "结构",
       "同心环",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2147,6 +2435,11 @@
       "结构",
       "同心球",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2179,6 +2472,11 @@
       "结构",
       "轮廓",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2211,6 +2509,11 @@
       "透视",
       "横截面",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2243,6 +2546,11 @@
       "结构",
       "螺旋花纹",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2275,6 +2583,11 @@
       "结构",
       "曲线美",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2307,6 +2620,11 @@
       "结构",
       "曲线",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2339,6 +2657,11 @@
       "结构",
       "曲线",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2371,6 +2694,11 @@
       "透视",
       "曲线透视",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2403,6 +2731,11 @@
       "透视",
       "切开图",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2435,6 +2768,11 @@
       "透视",
       "剖视图",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2467,6 +2805,11 @@
       "透视",
       "切开视图",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2499,6 +2842,11 @@
       "透视",
       "圆柱透视",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2531,6 +2879,10 @@
       "相机",
       "达盖尔版",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2562,6 +2914,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2594,6 +2950,11 @@
       "结构",
       "下倾",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2626,6 +2987,10 @@
       "相机",
       "深焦距",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2658,6 +3023,11 @@
       "结构",
       "放气",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2690,6 +3060,10 @@
       "相机",
       "失焦",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2722,6 +3096,10 @@
       "相机",
       "景深",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2754,6 +3132,10 @@
       "相机",
       "双色滤镜",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2786,6 +3168,10 @@
       "相机",
       "柔光滤镜",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2817,6 +3203,11 @@
       "构图",
       "透视",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2849,6 +3240,11 @@
       "结构",
       "凹痕",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2880,6 +3276,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2911,6 +3311,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -2943,6 +3347,11 @@
       "透视",
       "发散透视",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2975,6 +3384,10 @@
       "相机",
       "景深",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3006,6 +3419,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3038,6 +3455,10 @@
       "相机",
       "双重曝光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3070,6 +3491,11 @@
       "结构",
       "双螺旋",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3101,6 +3527,11 @@
       "构图",
       "结构",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3133,6 +3564,10 @@
       "相机",
       "摄影",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3165,6 +3600,10 @@
       "相机",
       "单反",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3197,6 +3636,10 @@
       "相机",
       "编辑摄影",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3228,6 +3671,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3259,6 +3706,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3291,6 +3742,11 @@
       "结构",
       "弓形",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3323,6 +3779,11 @@
       "结构",
       "缠结",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3355,6 +3816,11 @@
       "结构",
       "纠缠",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3387,6 +3853,11 @@
       "透视",
       "广角镜头",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3418,6 +3889,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3450,6 +3925,11 @@
       "结构",
       "欧拉螺旋",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3483,6 +3963,10 @@
       "35mm",
       "胶片",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3516,6 +4000,10 @@
       "35mm",
       "胶片",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3548,6 +4036,11 @@
       "透视",
       "爆炸视图",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3580,6 +4073,11 @@
       "透视",
       "爆炸图",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3612,6 +4110,10 @@
       "相机",
       "曝光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3644,6 +4146,11 @@
       "透视",
       "极特写",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3676,6 +4183,10 @@
       "相机",
       "F2.8",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3708,6 +4219,10 @@
       "相机",
       "F22",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3740,6 +4255,11 @@
       "结构",
       "费马螺旋",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3772,6 +4292,11 @@
       "透视",
       "视野",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3804,6 +4329,10 @@
       "相机",
       "胶片颗粒",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3836,6 +4365,10 @@
       "相机",
       "胶片负片",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3868,6 +4401,10 @@
       "相机",
       "电影感",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3900,6 +4437,10 @@
       "相机",
       "滤镜",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -3932,6 +4473,11 @@
       "透视",
       "第一人称",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3963,6 +4509,11 @@
       "构图",
       "透视",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3995,6 +4546,10 @@
       "相机",
       "鱼眼镜头",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4027,6 +4582,10 @@
       "相机",
       "鱼眼镜头",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4059,6 +4618,10 @@
       "相机",
       "焦点",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4091,6 +4654,11 @@
       "透视",
       "强制透视",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4123,6 +4691,10 @@
       "相机",
       "富士",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4155,6 +4727,10 @@
       "相机",
       "全身",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4187,6 +4763,10 @@
       "相机",
       "全画幅",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4218,6 +4798,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4250,6 +4834,10 @@
       "相机",
       "姿势",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4282,6 +4870,10 @@
       "相机",
       "魅力照",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4313,6 +4905,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4345,6 +4941,11 @@
       "结构",
       "黄金螺旋",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4377,6 +4978,10 @@
       "相机",
       "视频",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4408,6 +5013,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4440,6 +5049,11 @@
       "结构",
       "螺旋",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4472,6 +5086,11 @@
       "几何",
       "六角",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4504,6 +5123,11 @@
       "透视",
       "高角度",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4535,6 +5159,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4567,6 +5195,11 @@
       "结构",
       "空心",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4599,6 +5232,10 @@
       "相机",
       "地平线",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4631,6 +5268,11 @@
       "结构",
       "双曲螺旋",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4662,6 +5304,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4695,6 +5341,10 @@
       "伊尔福",
       "HP5",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4727,6 +5377,11 @@
       "结构",
       "斜面",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4759,6 +5414,11 @@
       "结构",
       "内弯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4791,6 +5451,11 @@
       "结构",
       "内弯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4823,6 +5488,11 @@
       "结构",
       "充气",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4854,6 +5524,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4886,6 +5560,10 @@
       "相机",
       "红外滤镜",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4918,6 +5596,10 @@
       "相机",
       "拍立得",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -4950,6 +5632,11 @@
       "透视",
       "反向透视",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4982,6 +5669,11 @@
       "透视",
       "倒转透视",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5014,6 +5706,11 @@
       "透视",
       "等距视角",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5046,6 +5743,10 @@
       "相机",
       "全景电影",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -5078,6 +5779,11 @@
       "几何",
       "克莱因瓶",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5109,6 +5815,11 @@
       "构图",
       "结构",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5141,6 +5852,10 @@
       "相机",
       "柯达",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -5173,6 +5888,10 @@
       "相机",
       "柯达金色",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -5205,6 +5924,10 @@
       "相机",
       "柯达",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -5237,6 +5960,10 @@
       "相机",
       "镜头畸变",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -5269,6 +5996,10 @@
       "相机",
       "镜头眩光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -5301,6 +6032,11 @@
       "透视",
       "线性透视",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5333,6 +6069,11 @@
       "结构",
       "对数螺旋",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5365,6 +6106,10 @@
       "相机",
       "LOMO",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -5397,6 +6142,10 @@
       "相机",
       "长曝光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -5428,6 +6177,11 @@
       "构图",
       "结构",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5460,6 +6214,11 @@
       "结构",
       "环状",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5492,6 +6251,11 @@
       "透视",
       "低角度",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5524,6 +6288,10 @@
       "相机",
       "微距",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -5556,6 +6324,10 @@
       "相机",
       "微距视图",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -5588,6 +6360,10 @@
       "相机",
       "放大",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -5620,6 +6396,10 @@
       "相机",
       "百万像素",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -5652,6 +6432,10 @@
       "相机",
       "微观",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -5683,6 +6467,11 @@
       "构图",
       "透视",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5715,6 +6504,10 @@
       "相机",
       "动作捕捉",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -5746,6 +6539,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -5777,6 +6574,11 @@
       "构图",
       "透视",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5808,6 +6610,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -5841,6 +6647,10 @@
       "ND",
       "滤镜",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -5872,6 +6682,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -5904,6 +6718,10 @@
       "相机",
       "夜视",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -5936,6 +6754,10 @@
       "相机",
       "夜间摄影",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -5969,6 +6791,10 @@
       "尼康",
       "D750",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -6001,6 +6827,11 @@
       "结构",
       "倾斜",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6033,6 +6864,11 @@
       "透视",
       "斜投影",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6065,6 +6901,11 @@
       "透视",
       "一点透视",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6097,6 +6938,11 @@
       "结构",
       "圆形",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6129,6 +6975,11 @@
       "透视",
       "正交",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6161,6 +7012,10 @@
       "相机",
       "横摇",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -6193,6 +7048,10 @@
       "相机",
       "潘那维申",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -6224,6 +7083,11 @@
       "构图",
       "透视",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6256,6 +7120,10 @@
       "相机",
       "全景",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -6287,6 +7155,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -6319,6 +7191,11 @@
       "透视",
       "平行投影",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6350,6 +7227,11 @@
       "构图",
       "透视",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6382,6 +7264,11 @@
       "透视",
       "透视投影",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6413,6 +7300,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -6445,6 +7336,10 @@
       "相机",
       "摄影",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -6477,6 +7372,10 @@
       "相机",
       "摄影",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -6509,6 +7408,10 @@
       "相机",
       "摄影滤镜",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -6541,6 +7444,10 @@
       "相机",
       "摄影",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -6573,6 +7480,10 @@
       "相机",
       "新闻摄影",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -6605,6 +7516,10 @@
       "相机",
       "摄影拍摄",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -6637,6 +7552,10 @@
       "相机",
       "针孔摄影",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -6669,6 +7588,11 @@
       "结构",
       "尖锐",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6700,6 +7624,11 @@
       "构图",
       "结构",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6732,6 +7661,10 @@
       "相机",
       "偏振滤镜",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -6764,6 +7697,10 @@
       "相机",
       "偏振镜",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -6796,6 +7733,10 @@
       "相机",
       "宝丽来",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -6828,6 +7769,11 @@
       "几何",
       "多边形",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6860,6 +7806,10 @@
       "相机",
       "半身像",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -6892,6 +7842,10 @@
       "相机",
       "肖像画",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -6924,6 +7878,10 @@
       "相机",
       "姿势",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -6955,6 +7913,11 @@
       "构图",
       "结构",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6987,6 +7950,11 @@
       "透视",
       "产品视图",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7019,6 +7987,10 @@
       "相机",
       "侧面",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -7051,6 +8023,10 @@
       "相机",
       "胶片",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -7083,6 +8059,10 @@
       "相机",
       "变焦",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -7115,6 +8095,10 @@
       "相机",
       "摄影",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -7147,6 +8131,11 @@
       "透视",
       "反向透视",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7179,6 +8168,11 @@
       "结构",
       "涟漪",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7211,6 +8205,11 @@
       "结构",
       "圆角",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7243,6 +8242,10 @@
       "相机",
       "三分法",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -7275,6 +8278,10 @@
       "相机",
       "卫星图像",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -7307,6 +8314,11 @@
       "透视",
       "卫星视图",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7339,6 +8351,10 @@
       "相机",
       "扫描摄影",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -7371,6 +8387,10 @@
       "相机",
       "场景",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -7403,6 +8423,10 @@
       "相机",
       "纹影摄影",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -7435,6 +8459,10 @@
       "相机",
       "监控影像",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -7467,6 +8495,11 @@
       "透视",
       "自拍",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7499,6 +8532,11 @@
       "结构",
       "蛇形",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7531,6 +8569,10 @@
       "相机",
       "浅景深",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -7563,6 +8605,10 @@
       "相机",
       "短曝光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -7596,6 +8642,10 @@
       "16mm",
       "拍摄",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -7628,6 +8678,10 @@
       "相机",
       "拍摄",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -7661,6 +8715,10 @@
       "28mm",
       "拍摄",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -7694,6 +8752,10 @@
       "35mm",
       "拍摄",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -7727,6 +8789,10 @@
       "65mm",
       "拍摄",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -7760,6 +8826,10 @@
       "70mm",
       "拍摄",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -7793,6 +8863,10 @@
       "8mm",
       "拍摄",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -7825,6 +8899,10 @@
       "相机",
       "拍摄",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -7859,6 +8937,10 @@
       "70mm",
       "拍摄",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -7891,6 +8973,10 @@
       "相机",
       "快门速度",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -7924,6 +9010,10 @@
       "快门速度",
       "1/2",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -7956,6 +9046,11 @@
       "透视",
       "侧视图",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7987,6 +9082,11 @@
       "构图",
       "结构",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8019,6 +9119,11 @@
       "结构",
       "蜿蜒",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8050,6 +9155,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -8082,6 +9191,10 @@
       "相机",
       "柔焦",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -8114,6 +9227,11 @@
       "几何",
       "球体",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8146,6 +9264,11 @@
       "结构",
       "球形",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8178,6 +9301,11 @@
       "结构",
       "球化",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8210,6 +9338,11 @@
       "结构",
       "螺旋",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8241,6 +9374,11 @@
       "构图",
       "结构",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8273,6 +9411,11 @@
       "结构",
       "螺旋楼梯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8305,6 +9448,11 @@
       "结构",
       "螺旋楼梯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8337,6 +9485,11 @@
       "结构",
       "螺旋",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8369,6 +9522,10 @@
       "相机",
       "分像对焦",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -8401,6 +9558,10 @@
       "相机",
       "分色调",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -8433,6 +9594,11 @@
       "结构",
       "弯曲线条",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8465,6 +9631,10 @@
       "相机",
       "定格动画",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -8497,6 +9667,10 @@
       "相机",
       "定格动画",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -8529,6 +9703,10 @@
       "相机",
       "主体",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -8561,6 +9739,10 @@
       "相机",
       "35",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -8593,6 +9775,10 @@
       "相机",
       "70",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -8624,6 +9810,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -8656,6 +9846,10 @@
       "相机",
       "监控",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -8688,6 +9882,10 @@
       "相机",
       "监控影像",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -8720,6 +9918,10 @@
       "相机",
       "宽银幕",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -8751,6 +9953,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -8783,6 +9989,10 @@
       "相机",
       "长焦",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -8815,6 +10025,10 @@
       "相机",
       "望远镜",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -8846,6 +10060,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -8878,6 +10096,10 @@
       "相机",
       "远摄",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -8910,6 +10132,11 @@
       "透视",
       "第三人称",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8941,6 +10168,11 @@
       "构图",
       "透视",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8973,6 +10205,11 @@
       "透视",
       "三点透视",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9005,6 +10242,10 @@
       "相机",
       "俯仰",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -9037,6 +10278,10 @@
       "相机",
       "倾斜面焦",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -9069,6 +10314,10 @@
       "相机",
       "移轴",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -9101,6 +10350,10 @@
       "相机",
       "延时摄影",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -9133,6 +10386,10 @@
       "相机",
       "锡版照片",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -9165,6 +10422,11 @@
       "透视",
       "俯视图",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9198,6 +10460,10 @@
       "400",
       "TX",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -9229,6 +10495,11 @@
       "构图",
       "透视",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9261,6 +10532,11 @@
       "结构",
       "三曲腿图",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9293,6 +10569,11 @@
       "结构",
       "扭曲",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9325,6 +10606,11 @@
       "透视",
       "两点透视",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9357,6 +10643,10 @@
       "相机",
       "广角",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -9389,6 +10679,10 @@
       "相机",
       "水下摄影",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -9421,6 +10715,10 @@
       "相机",
       "未聚焦",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -9453,6 +10751,11 @@
       "结构",
       "未打结",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9485,6 +10788,10 @@
       "相机",
       "未注册",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -9518,6 +10825,10 @@
       "UV",
       "滤镜",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -9550,6 +10861,10 @@
       "相机",
       "消失点",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -9582,6 +10897,10 @@
       "相机",
       "视角",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -9614,6 +10933,10 @@
       "相机",
       "胶片",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -9645,6 +10968,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -9677,6 +11004,11 @@
       "透视",
       "飞机视角",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9709,6 +11041,10 @@
       "相机",
       "暗角",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -9741,6 +11077,10 @@
       "相机",
       "宽银幕",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -9773,6 +11113,10 @@
       "相机",
       "摄影",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -9805,6 +11149,11 @@
       "结构",
       "波浪",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9837,6 +11186,11 @@
       "结构",
       "波浪",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9869,6 +11223,11 @@
       "结构",
       "旋转",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9901,6 +11260,10 @@
       "相机",
       "白平衡",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -9933,6 +11296,10 @@
       "相机",
       "广角",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -9965,6 +11332,11 @@
       "透视",
       "远景",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9996,6 +11368,10 @@
       "构图",
       "相机",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -10028,6 +11404,11 @@
       "透视",
       "虫瞰",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10060,6 +11441,11 @@
       "结构",
       "之字形",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10092,6 +11478,10 @@
       "相机",
       "Zoom",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -10120,6 +11510,11 @@
     "labels_zh": [
       "构图",
       "镜头"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10148,13 +11543,18 @@
     "labels_zh": [
       "构图",
       "规则"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
     "id": "composition_angles_back_view",
     "term": "back view",
     "category": "composition",
-    "subcategory": "angles",
+    "subcategory": "angle",
     "labels": [
       "angles",
       "back"
@@ -10177,6 +11577,11 @@
       "构图",
       "角度",
       "背面视角"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10206,13 +11611,18 @@
       "构图",
       "镜头",
       "背景模糊"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
     "id": "composition_angles_bird_s_eye_view",
     "term": "bird's-eye view",
     "category": "composition",
-    "subcategory": "angles",
+    "subcategory": "angle",
     "labels": [
       "angles",
       "bird's-eye"
@@ -10235,6 +11645,11 @@
       "构图",
       "角度",
       "鸟瞰"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10264,6 +11679,11 @@
       "构图",
       "镜头",
       "模糊背景"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10293,6 +11713,11 @@
       "构图",
       "镜头",
       "散景"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10322,6 +11747,11 @@
       "构图",
       "规则",
       "居中构图"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10351,6 +11781,11 @@
       "构图",
       "镜头",
       "奶油散景"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10380,13 +11815,18 @@
       "构图",
       "镜头",
       "景深"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
     "id": "composition_angles_dutch_angle",
     "term": "dutch angle",
     "category": "composition",
-    "subcategory": "angles",
+    "subcategory": "angle",
     "labels": [
       "angles",
       "dutch"
@@ -10409,6 +11849,11 @@
       "构图",
       "角度",
       "荷兰角"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10438,6 +11883,11 @@
       "构图",
       "规则",
       "动态构图"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10467,6 +11917,11 @@
       "构图",
       "规则",
       "充满画面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10496,13 +11951,18 @@
       "构图",
       "镜头",
       "鱼眼镜头"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
     "id": "composition_angles_fourth_view",
     "term": "fourth view",
     "category": "composition",
-    "subcategory": "angles",
+    "subcategory": "angle",
     "labels": [
       "angles",
       "fourth"
@@ -10525,13 +11985,18 @@
       "构图",
       "角度",
       "第四视角"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
     "id": "composition_angles_front_view",
     "term": "front view",
     "category": "composition",
-    "subcategory": "angles",
+    "subcategory": "angle",
     "labels": [
       "angles",
       "front"
@@ -10554,6 +12019,11 @@
       "构图",
       "角度",
       "正面视角"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10583,13 +12053,18 @@
       "构图",
       "规则",
       "黄金比例"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
     "id": "composition_angles_hero_shot",
     "term": "hero shot",
     "category": "composition",
-    "subcategory": "angles",
+    "subcategory": "angle",
     "labels": [
       "angles",
       "hero"
@@ -10612,6 +12087,11 @@
       "构图",
       "角度",
       "英雄镜头"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10641,13 +12121,18 @@
       "构图",
       "规则",
       "引导线"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
     "id": "composition_angles_looking_down",
     "term": "looking down",
     "category": "composition",
-    "subcategory": "angles",
+    "subcategory": "angle",
     "labels": [
       "angles",
       "looking"
@@ -10670,13 +12155,18 @@
       "构图",
       "角度",
       "向下看"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
     "id": "composition_angles_looking_up",
     "term": "looking up",
     "category": "composition",
-    "subcategory": "angles",
+    "subcategory": "angle",
     "labels": [
       "angles",
       "looking"
@@ -10699,13 +12189,18 @@
       "构图",
       "角度",
       "向上看"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
     "id": "composition_angles_low_angle_view",
     "term": "low angle view",
     "category": "composition",
-    "subcategory": "angles",
+    "subcategory": "angle",
     "labels": [
       "angles",
       "low"
@@ -10728,6 +12223,11 @@
       "构图",
       "角度",
       "仰视"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10757,6 +12257,11 @@
       "构图",
       "镜头",
       "微距拍摄"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10786,6 +12291,11 @@
       "构图",
       "规则",
       "负空间"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10815,6 +12325,11 @@
       "构图",
       "规则",
       "三分法"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10843,6 +12358,11 @@
     "labels_zh": [
       "构图",
       "镜头"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10871,6 +12391,11 @@
     "labels_zh": [
       "构图",
       "镜头"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10900,6 +12425,11 @@
       "构图",
       "镜头",
       "50mm"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10929,13 +12459,18 @@
       "构图",
       "镜头",
       "85mm"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
     "id": "composition_angles_side_profile",
     "term": "side profile",
     "category": "composition",
-    "subcategory": "angles",
+    "subcategory": "angle",
     "labels": [
       "angles",
       "side"
@@ -10958,6 +12493,11 @@
       "构图",
       "角度",
       "侧面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10987,13 +12527,18 @@
       "构图",
       "规则",
       "对称构图"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
     "id": "composition_angles_three_quarter_view",
     "term": "three-quarter view",
     "category": "composition",
-    "subcategory": "angles",
+    "subcategory": "angle",
     "labels": [
       "angles",
       "three-quarter"
@@ -11015,6 +12560,11 @@
     "labels_zh": [
       "构图",
       "角度"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11044,13 +12594,18 @@
       "构图",
       "镜头",
       "移轴"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
     "id": "composition_angles_top_down_angle",
     "term": "top-down angle",
     "category": "composition",
-    "subcategory": "angles",
+    "subcategory": "angle",
     "labels": [
       "angles",
       "top-down"
@@ -11073,13 +12628,18 @@
       "构图",
       "角度",
       "俯视角度"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
     "id": "composition_angles_viewed_from_above",
     "term": "viewed from above",
     "category": "composition",
-    "subcategory": "angles",
+    "subcategory": "angle",
     "labels": [
       "angles",
       "viewed"
@@ -11102,13 +12662,18 @@
       "构图",
       "角度",
       "从上"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
     "id": "composition_angles_worm_s_eye_view",
     "term": "worm's-eye view",
     "category": "composition",
-    "subcategory": "angles",
+    "subcategory": "angle",
     "labels": [
       "angles",
       "worm's-eye"
@@ -11131,6 +12696,11 @@
       "构图",
       "角度",
       "虫瞰"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11157,6 +12727,11 @@
       "构图",
       "镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11185,6 +12760,11 @@
       "24mm",
       "广角镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11213,6 +12793,11 @@
       "35mm",
       "标准镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11241,6 +12826,11 @@
       "50mm",
       "标准镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11267,6 +12857,11 @@
       "构图",
       "镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11294,6 +12889,11 @@
       "镜头",
       "长焦镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11321,6 +12921,11 @@
       "镜头",
       "长焦镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11348,6 +12953,11 @@
       "镜头",
       "微距镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11374,6 +12984,11 @@
       "构图",
       "镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11401,6 +13016,11 @@
       "镜头",
       "CCTV",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11427,6 +13047,11 @@
       "构图",
       "镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11454,6 +13079,11 @@
       "镜头",
       "浅景深",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11482,6 +13112,11 @@
       "复古",
       "K35",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11509,6 +13144,11 @@
       "镜头",
       "S4",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11535,6 +13175,11 @@
       "构图",
       "镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11561,6 +13206,11 @@
       "构图",
       "镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11589,6 +13239,11 @@
       "35mm",
       "胶片",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11617,6 +13272,11 @@
       "35mm",
       "胶片",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11645,6 +13305,11 @@
       "8mm",
       "胶片",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11674,6 +13339,11 @@
       "70mm",
       "胶片拍摄",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11700,6 +13370,11 @@
       "构图",
       "画幅格式",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11728,6 +13403,11 @@
       "ARRI",
       "拍摄",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11756,6 +13436,11 @@
       "ARRI",
       "65",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11783,6 +13468,11 @@
       "画幅格式",
       "Sony",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11811,6 +13501,11 @@
       "6K",
       "拍摄",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11837,6 +13532,11 @@
       "构图",
       "画幅格式",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11863,6 +13563,11 @@
       "构图",
       "画幅格式",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11890,6 +13595,11 @@
       "画幅格式",
       "Sony",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11918,6 +13628,11 @@
       "EOS",
       "R5",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11944,6 +13659,11 @@
       "构图",
       "画幅格式",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11970,6 +13690,11 @@
       "构图",
       "画幅格式",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11996,6 +13721,11 @@
       "构图",
       "画幅格式",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12024,6 +13754,11 @@
       "X-T4",
       "拍摄",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12050,6 +13785,11 @@
       "构图",
       "画幅格式",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12076,6 +13816,11 @@
       "构图",
       "画幅格式",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12103,6 +13848,11 @@
       "画幅格式",
       "视频通话",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12131,6 +13881,11 @@
       "VHS",
       "拍摄",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12158,6 +13913,11 @@
       "画幅格式",
       "90",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12185,6 +13945,11 @@
       "画幅格式",
       "京胶片",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12212,6 +13977,11 @@
       "画幅格式",
       "京胶片",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12238,6 +14008,11 @@
       "构图",
       "画幅格式",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12264,6 +14039,11 @@
       "构图",
       "画幅格式",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12290,6 +14070,11 @@
       "构图",
       "画幅格式",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12317,6 +14102,11 @@
       "画幅格式",
       "1840",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12344,6 +14134,11 @@
       "画幅格式",
       "CCTV",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12371,6 +14166,11 @@
       "画幅格式",
       "黑白",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12397,6 +14197,11 @@
       "构图",
       "画幅格式",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12423,6 +14228,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12450,6 +14260,11 @@
       "运镜",
       "手持相机",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12476,6 +14291,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12502,6 +14322,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12528,6 +14353,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12554,6 +14384,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12580,6 +14415,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12606,6 +14446,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12632,6 +14477,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12658,6 +14508,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12685,6 +14540,11 @@
       "运镜",
       "快速推进",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12712,6 +14572,11 @@
       "运镜",
       "快速拉远",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12738,6 +14603,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12765,6 +14635,11 @@
       "运镜",
       "推拉摇摆",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12792,6 +14667,11 @@
       "运镜",
       "缓慢潜推",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12819,6 +14699,11 @@
       "运镜",
       "缓慢潜拉",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12845,6 +14730,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12871,6 +14761,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12897,6 +14792,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12923,6 +14823,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12949,6 +14854,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -12975,6 +14885,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13002,6 +14917,11 @@
       "运镜",
       "开头齐平",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13029,6 +14949,11 @@
       "运镜",
       "360",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13055,6 +14980,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13081,6 +15011,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13107,6 +15042,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13133,6 +15073,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13159,6 +15104,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13186,6 +15136,11 @@
       "运镜",
       "上摇",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13213,6 +15168,11 @@
       "运镜",
       "下摇",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13240,6 +15200,11 @@
       "运镜",
       "跟踪镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13267,6 +15232,11 @@
       "运镜",
       "从背后",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13294,6 +15264,11 @@
       "运镜",
       "跟踪镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13320,6 +15295,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13347,6 +15327,11 @@
       "运镜",
       "跟踪镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13373,6 +15358,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13399,6 +15389,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13426,6 +15421,11 @@
       "运镜",
       "跟踪镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13455,6 +15455,11 @@
       "POV",
       "镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13482,6 +15487,11 @@
       "运镜",
       "过肩镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13509,6 +15519,11 @@
       "运镜",
       "鸟瞰",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13536,6 +15551,11 @@
       "运镜",
       "虫瞰",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13562,6 +15582,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13589,6 +15614,11 @@
       "运镜",
       "航拍",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13616,6 +15646,11 @@
       "运镜",
       "低空飞越",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13643,6 +15678,11 @@
       "运镜",
       "穿越镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13669,6 +15709,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13695,6 +15740,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13721,6 +15771,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13747,6 +15802,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13773,6 +15833,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13799,6 +15864,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13825,6 +15895,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13852,6 +15927,11 @@
       "运镜",
       "突触切剪",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13879,6 +15959,11 @@
       "运镜",
       "快速翻切",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13905,6 +15990,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13931,6 +16021,11 @@
       "构图",
       "运镜",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13959,6 +16054,11 @@
     "labels_zh": [
       "构图",
       "特写人像"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -13986,6 +16086,11 @@
     "term_zh": "从大腿向上",
     "labels_zh": [
       "构图"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14014,6 +16119,11 @@
     "labels_zh": [
       "构图",
       "全身镜头"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14041,6 +16151,11 @@
     "term_zh": "头部与肩部",
     "labels_zh": [
       "构图"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14067,6 +16182,11 @@
       "景别",
       "广角镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14093,6 +16213,11 @@
       "景别",
       "远景",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14119,6 +16244,11 @@
       "景别",
       "广角镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14145,6 +16275,11 @@
       "景别",
       "中景",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14171,6 +16306,11 @@
       "景别",
       "中特写",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14197,6 +16337,11 @@
       "景别",
       "特写镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14223,6 +16368,11 @@
       "景别",
       "极特写",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14249,6 +16399,11 @@
       "景别",
       "极特写",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14275,6 +16430,11 @@
       "景别",
       "极特写",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14301,6 +16461,11 @@
       "景别",
       "极特写",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14327,6 +16492,11 @@
       "景别",
       "大特写",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14354,6 +16524,11 @@
       "颈部特写",
       "仅头颈",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14380,6 +16555,11 @@
       "景别",
       "极特写",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14406,6 +16586,11 @@
       "景别",
       "插入镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14432,6 +16617,11 @@
       "景别",
       "微距拍摄",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14458,6 +16648,11 @@
       "景别",
       "全景",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14483,6 +16678,11 @@
       "构图",
       "景别",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14508,6 +16708,11 @@
       "构图",
       "景别",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14534,6 +16739,11 @@
       "景别",
       "半身人像",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14560,6 +16770,11 @@
       "角度",
       "平视",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14586,6 +16801,11 @@
       "角度",
       "俯视",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14612,6 +16832,11 @@
       "角度",
       "仰视",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14639,6 +16864,11 @@
       "俯拍镜头",
       "正直向下",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14665,6 +16895,11 @@
       "角度",
       "虫瞰",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14691,6 +16926,11 @@
       "角度",
       "荷兰角",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14717,6 +16957,11 @@
       "角度",
       "鸟瞰",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14742,6 +16987,11 @@
       "构图",
       "角度",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14767,6 +17017,11 @@
       "构图",
       "覆盖",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14793,6 +17048,11 @@
       "覆盖",
       "双人镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14819,6 +17079,11 @@
       "覆盖",
       "三人镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14845,6 +17110,11 @@
       "覆盖",
       "过肩镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14871,6 +17141,11 @@
       "覆盖",
       "反打镜头",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14896,6 +17171,11 @@
       "构图",
       "覆盖",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14921,6 +17201,11 @@
       "构图",
       "覆盖",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14946,6 +17231,11 @@
       "构图",
       "覆盖",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14971,6 +17261,11 @@
       "构图",
       "覆盖",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -14996,6 +17291,11 @@
       "构图",
       "覆盖",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15021,6 +17321,11 @@
       "构图",
       "覆盖",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15046,6 +17351,11 @@
       "构图",
       "覆盖",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15071,6 +17381,11 @@
       "构图",
       "覆盖",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15095,6 +17410,11 @@
     "labels_zh": [
       "构图",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15120,6 +17440,11 @@
       "构图",
       "居中构图",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15144,6 +17469,11 @@
     "labels_zh": [
       "构图",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15168,6 +17498,11 @@
     "labels_zh": [
       "构图",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15193,6 +17528,11 @@
       "构图",
       "引导线",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15218,6 +17558,11 @@
       "构图",
       "3x3",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15242,6 +17587,11 @@
     "labels_zh": [
       "构图",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15266,6 +17616,11 @@
     "labels_zh": [
       "构图",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15290,6 +17645,11 @@
     "labels_zh": [
       "构图",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15314,6 +17674,11 @@
     "labels_zh": [
       "构图",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15338,6 +17703,11 @@
     "labels_zh": [
       "构图",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15362,6 +17732,11 @@
     "labels_zh": [
       "构图",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15386,6 +17761,11 @@
     "labels_zh": [
       "构图",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15410,6 +17790,11 @@
     "labels_zh": [
       "构图",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15434,6 +17819,11 @@
     "labels_zh": [
       "构图",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15459,6 +17849,11 @@
       "构图",
       "对角构图",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15484,6 +17879,11 @@
       "构图",
       "三角构图",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15508,6 +17908,11 @@
     "labels_zh": [
       "构图",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15533,6 +17938,11 @@
       "构图",
       "暗角构图",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15559,6 +17969,11 @@
       "视角",
       "正面视角",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15585,6 +18000,11 @@
       "视角",
       "正面视角",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15611,6 +18031,11 @@
       "视角",
       "侧面视角",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15637,6 +18062,11 @@
       "视角",
       "侧面视角",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15662,6 +18092,11 @@
       "构图",
       "视角",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15688,6 +18123,11 @@
       "视角",
       "从背后",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15713,6 +18153,11 @@
       "构图",
       "视角",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -15741,7 +18186,12 @@
       "conversation"
     ],
     "created_at": "2026-10-05T22:03:34.340936+00:00",
-    "category": "composition"
+    "category": "composition",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "framing_wide_angle_distortion",
@@ -15769,7 +18219,12 @@
       "creative"
     ],
     "created_at": "2026-10-05T22:03:34.340936+00:00",
-    "category": "composition"
+    "category": "composition",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "framing_dutch_angle_extreme",
@@ -15797,7 +18252,12 @@
       "thriller"
     ],
     "created_at": "2026-10-05T22:03:34.340936+00:00",
-    "category": "composition"
+    "category": "composition",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "framing_worms_eye_view",
@@ -15825,7 +18285,12 @@
       "heroic"
     ],
     "created_at": "2026-10-05T22:03:34.340936+00:00",
-    "category": "composition"
+    "category": "composition",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "framing_billboarding",
@@ -15853,7 +18318,12 @@
       "character"
     ],
     "created_at": "2026-10-05T22:03:34.340936+00:00",
-    "category": "composition"
+    "category": "composition",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "framing_split_screen",
@@ -15881,6 +18351,11 @@
       "modern"
     ],
     "created_at": "2026-10-05T22:03:34.340936+00:00",
-    "category": "composition"
+    "category": "composition",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   }
 ]

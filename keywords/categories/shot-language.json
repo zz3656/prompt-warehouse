@@ -18,7 +18,12 @@
     ],
     "score": 0.9,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "shot_language_shot_size_long_shot",
@@ -37,7 +42,12 @@
     ],
     "score": 0.9,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "shot_language_shot_size_medium_long_shot",
@@ -56,7 +66,12 @@
     ],
     "score": 0.9,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "shot_language_shot_size_medium_shot",
@@ -75,7 +90,12 @@
     ],
     "score": 0.9,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "shot_language_shot_size_medium_close_up",
@@ -94,7 +114,12 @@
     ],
     "score": 0.9,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "shot_language_shot_size_close_up",
@@ -113,7 +138,12 @@
     ],
     "score": 0.9,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "shot_language_shot_size_extreme_close_up",
@@ -133,7 +163,12 @@
     ],
     "score": 0.9,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "shot_language_shot_size_close_up_shot",
@@ -152,7 +187,12 @@
     ],
     "score": 0.85,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "shot_language_shot_size_macro_shot",
@@ -171,7 +211,12 @@
     ],
     "score": 0.85,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "shot_language_shot_size_establishing_shot",
@@ -190,7 +235,12 @@
     ],
     "score": 0.85,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "shot_language_shot_size_full_shot",
@@ -209,7 +259,12 @@
     ],
     "score": 0.85,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "shot_language_shot_size_cowboy_shot",
@@ -228,7 +283,12 @@
     ],
     "score": 0.85,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "shot_language_shot_size_two_shot",
@@ -247,7 +307,12 @@
     ],
     "score": 0.85,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "shot_language_shot_size_over_the_shoulder",
@@ -266,7 +331,12 @@
     ],
     "score": 0.85,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "shot_language_shot_size_point_of_view",
@@ -285,7 +355,12 @@
     ],
     "score": 0.85,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "shot_language_camera_move_fixed",
@@ -305,7 +380,12 @@
     ],
     "score": 0.9,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "kling",
+      "runway",
+      "minimax_h3"
+    ]
   },
   {
     "id": "shot_language_camera_move_push_in",
@@ -325,7 +405,12 @@
     ],
     "score": 0.9,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "kling",
+      "runway",
+      "minimax_h3"
+    ]
   },
   {
     "id": "shot_language_camera_move_pull_out",
@@ -344,7 +429,12 @@
     ],
     "score": 0.9,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "kling",
+      "runway",
+      "minimax_h3"
+    ]
   },
   {
     "id": "shot_language_camera_move_pan_left",
@@ -363,7 +453,12 @@
     ],
     "score": 0.9,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "kling",
+      "runway",
+      "minimax_h3"
+    ]
   },
   {
     "id": "shot_language_camera_move_pan_right",
@@ -382,7 +477,12 @@
     ],
     "score": 0.9,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "kling",
+      "runway",
+      "minimax_h3"
+    ]
   },
   {
     "id": "shot_language_camera_move_tracking_shot",
@@ -402,7 +502,12 @@
     ],
     "score": 0.9,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "kling",
+      "runway",
+      "minimax_h3"
+    ]
   },
   {
     "id": "shot_language_camera_move_crane_up",
@@ -421,7 +526,12 @@
     ],
     "score": 0.85,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "kling",
+      "runway",
+      "minimax_h3"
+    ]
   },
   {
     "id": "shot_language_camera_move_tilt_down",
@@ -440,7 +550,12 @@
     ],
     "score": 0.85,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "kling",
+      "runway",
+      "minimax_h3"
+    ]
   },
   {
     "id": "shot_language_camera_move_zoom_in",
@@ -459,7 +574,12 @@
     ],
     "score": 0.85,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "kling",
+      "runway",
+      "minimax_h3"
+    ]
   },
   {
     "id": "shot_language_camera_move_zoom_out",
@@ -478,7 +598,12 @@
     ],
     "score": 0.85,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "kling",
+      "runway",
+      "minimax_h3"
+    ]
   },
   {
     "id": "shot_language_camera_move_arc",
@@ -498,7 +623,12 @@
     ],
     "score": 0.85,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "kling",
+      "runway",
+      "minimax_h3"
+    ]
   },
   {
     "id": "shot_language_camera_move_dolly_zoom",
@@ -518,7 +648,12 @@
     ],
     "score": 0.8,
     "priority": "medium",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "kling",
+      "runway",
+      "minimax_h3"
+    ]
   },
   {
     "id": "shot_language_lens_14mm",
@@ -537,7 +672,12 @@
     ],
     "score": 0.85,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "shot_language_lens_24mm",
@@ -555,7 +695,12 @@
     ],
     "score": 0.85,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "shot_language_lens_35mm",
@@ -573,7 +718,12 @@
     ],
     "score": 0.85,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "shot_language_lens_50mm",
@@ -593,7 +743,12 @@
     ],
     "score": 0.9,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "shot_language_lens_85mm",
@@ -611,7 +766,12 @@
     ],
     "score": 0.9,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "shot_language_lens_135mm",
@@ -629,7 +789,12 @@
     ],
     "score": 0.85,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "shot_language_lens_200mm",
@@ -647,7 +812,12 @@
     ],
     "score": 0.85,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "shot_language_lens_fisheye",
@@ -665,7 +835,12 @@
     ],
     "score": 0.8,
     "priority": "medium",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "shot_language_lens_tilt_shift",
@@ -684,7 +859,12 @@
     ],
     "score": 0.8,
     "priority": "medium",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "shot_language_lens_macro",
@@ -702,7 +882,12 @@
     ],
     "score": 0.85,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   },
   {
     "id": "shot_language_lens_anamorphic",
@@ -722,6 +907,11 @@
     ],
     "score": 0.85,
     "priority": "high",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ]
   }
 ]

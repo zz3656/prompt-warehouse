@@ -1,0 +1,105 @@
+{
+  "id": "scene.environment",
+  "version": "1.0.0",
+  "description": "Describe a scene/environment with location, objects, and atmosphere.",
+  "description_zh": "描述场景环境：地点、物体、氛围",
+  "variables": [
+    {
+      "name": "location_type",
+      "description": "Type of location",
+      "description_zh": "地点类型",
+      "source": "keyword",
+      "category": "scene",
+      "subcategory": "backdrop",
+      "required": true
+    },
+    {
+      "name": "setting_type",
+      "description": "Indoor/urban/nature/fantastical",
+      "description_zh": "场景类型",
+      "source": "keyword",
+      "category": "scene",
+      "subcategory": [
+        "indoor",
+        "urban",
+        "nature",
+        "fantastical"
+      ],
+      "required": true
+    },
+    {
+      "name": "key_objects",
+      "description": "Key objects in scene",
+      "description_zh": "场景关键物体",
+      "source": "keyword",
+      "category": "scene",
+      "subcategory": "mj_v5_objects",
+      "required": true
+    },
+    {
+      "name": "nature_elements",
+      "description": "Natural elements",
+      "description_zh": "自然元素",
+      "source": "keyword",
+      "category": "scene",
+      "subcategory": "mj_v5_nature",
+      "required": false
+    },
+    {
+      "name": "time_of_day",
+      "description": "Time period",
+      "description_zh": "时间",
+      "source": "keyword",
+      "category": "scene",
+      "subcategory": "time",
+      "required": false
+    },
+    {
+      "name": "weather_condition",
+      "description": "Weather and sky",
+      "description_zh": "天气和天空",
+      "source": "keyword",
+      "category": [
+        "scene",
+        "atmosphere"
+      ],
+      "subcategory": [
+        "weather",
+        "sky"
+      ],
+      "required": false
+    },
+    {
+      "name": "interaction_elements",
+      "description": "Objects and characters interacting",
+      "description_zh": "互动元素",
+      "source": "keyword",
+      "category": "scene",
+      "subcategory": "interaction",
+      "required": false
+    }
+  ],
+  "render": {
+    "format": "comma_separated",
+    "separator": ", ",
+    "order": [
+      "location_type",
+      "setting_type",
+      "key_objects",
+      "nature_elements",
+      "time_of_day",
+      "weather_condition",
+      "interaction_elements"
+    ]
+  },
+  "fallback": "outdoor scene with trees and buildings",
+  "dedupe_group": "scene",
+  "priority": "high",
+  "lifecycle": "active",
+  "api_targets": [
+    "SDXL",
+    "Midjourney",
+    "Flux"
+  ],
+  "created_at": "2026-10-11"
+}

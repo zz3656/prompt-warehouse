@@ -28,6 +28,11 @@
       "灯光",
       "逆光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -58,6 +63,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -89,6 +99,11 @@
       "灯光",
       "直射阳光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -120,6 +135,11 @@
       "灯光",
       "前光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -151,6 +171,11 @@
       "灯光",
       "神光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -182,6 +207,11 @@
       "灯光",
       "情绪照明",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -213,6 +243,11 @@
       "灯光",
       "轮廓光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -244,6 +279,11 @@
       "灯光",
       "轮廓光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -275,6 +315,11 @@
       "灯光",
       "聚光灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -306,6 +351,11 @@
       "灯光",
       "阳光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -337,6 +387,11 @@
       "灯光",
       "体积",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -368,6 +423,11 @@
       "灯光",
       "体积光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -400,6 +460,11 @@
       "特效光",
       "体积雾",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -430,6 +495,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -461,6 +531,11 @@
       "灯光",
       "重点照明",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -491,6 +566,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -522,6 +602,11 @@
       "灯光",
       "弧光灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -553,6 +638,11 @@
       "灯光",
       "阿尔甘灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -584,6 +674,11 @@
       "灯光",
       "氩闪光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -615,6 +710,11 @@
       "灯光",
       "氩灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -645,6 +745,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -676,6 +781,11 @@
       "灯光",
       "美丽照明",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -707,6 +817,11 @@
       "灯光",
       "逆光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -738,6 +853,11 @@
       "灯光",
       "耀眼强光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -769,6 +889,11 @@
       "灯光",
       "明亮",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -800,6 +925,11 @@
       "灯光",
       "泡泡光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -831,6 +961,11 @@
       "灯光",
       "烛光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -862,6 +997,11 @@
       "灯光",
       "电石灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -893,6 +1033,11 @@
       "灯光",
       "焦散光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -924,6 +1069,11 @@
       "灯光",
       "荧光灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -955,6 +1105,11 @@
       "灯光",
       "荧光灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -986,6 +1141,11 @@
       "灯光",
       "圣诞灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1017,6 +1177,11 @@
       "灯光",
       "灯笼",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1047,6 +1212,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1078,6 +1248,11 @@
       "灯光",
       "逆光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1109,6 +1284,11 @@
       "灯光",
       "凹槽灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1139,6 +1319,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1169,6 +1354,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1201,6 +1391,11 @@
       "CRT",
       "显示器",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1232,6 +1427,11 @@
       "灯光",
       "黑暗闪电",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1263,6 +1463,11 @@
       "灯光",
       "十进制管",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1294,6 +1499,11 @@
       "灯光",
       "昏暗",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1325,6 +1535,11 @@
       "灯光",
       "轮廓光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1356,6 +1571,11 @@
       "灯光",
       "油灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1387,6 +1607,11 @@
       "灯光",
       "轮廓光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1417,6 +1642,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1448,6 +1678,11 @@
       "灯光",
       "向下照明",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1479,6 +1714,11 @@
       "灯光",
       "染料激光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1509,6 +1749,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1540,6 +1785,11 @@
       "灯光",
       "电弧",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1571,6 +1821,11 @@
       "灯光",
       "无电极灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1601,6 +1856,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1631,6 +1891,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1662,6 +1927,11 @@
       "灯光",
       "电磁波谱",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1693,6 +1963,11 @@
       "灯光",
       "余烬光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1724,6 +1999,11 @@
       "灯光",
       "史诗光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1755,6 +2035,11 @@
       "灯光",
       "空灵闪电",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1786,6 +2071,11 @@
       "灯光",
       "眩光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1816,6 +2106,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1847,6 +2142,11 @@
       "灯光",
       "闪光管",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1878,6 +2178,11 @@
       "灯光",
       "闪烁光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1909,6 +2214,11 @@
       "灯光",
       "泛光灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1940,6 +2250,11 @@
       "灯光",
       "荧光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -1971,6 +2286,11 @@
       "灯光",
       "荧光灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2002,6 +2322,11 @@
       "灯光",
       "气灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2033,6 +2358,11 @@
       "灯光",
       "气体激光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2064,6 +2394,11 @@
       "灯光",
       "汽灯罩",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2095,6 +2430,11 @@
       "灯光",
       "盖斯勒管",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2126,6 +2466,11 @@
       "灯光",
       "全局光照",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2157,6 +2502,11 @@
       "灯光",
       "荧光棒",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2187,6 +2537,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2218,6 +2573,11 @@
       "灯光",
       "辐射发光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2249,6 +2609,11 @@
       "灯光",
       "遮光图案",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2280,6 +2645,11 @@
       "灯光",
       "图案灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2311,6 +2681,11 @@
       "灯光",
       "背侧光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2342,6 +2717,11 @@
       "灯光",
       "卤素",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2373,6 +2753,11 @@
       "灯光",
       "卤素灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2404,6 +2789,11 @@
       "灯光",
       "硬光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2435,6 +2825,11 @@
       "灯光",
       "氦灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2465,6 +2860,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2495,6 +2895,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2526,6 +2931,11 @@
       "灯光",
       "被照亮",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2557,6 +2967,11 @@
       "灯光",
       "光照",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2588,6 +3003,11 @@
       "灯光",
       "白炽",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2619,6 +3039,11 @@
       "灯光",
       "白炽灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2650,6 +3075,11 @@
       "灯光",
       "红外线",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2681,6 +3111,11 @@
       "灯光",
       "离子激光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2712,6 +3147,11 @@
       "灯光",
       "巨型屏幕",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2743,6 +3183,11 @@
       "灯光",
       "煤油灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2774,6 +3219,11 @@
       "灯光",
       "氪灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2805,6 +3255,11 @@
       "灯光",
       "灯笼",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2836,6 +3291,11 @@
       "灯光",
       "激光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2866,6 +3326,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2897,6 +3362,11 @@
       "灯光",
       "熔岩灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2928,6 +3398,11 @@
       "灯光",
       "LCD",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2959,6 +3434,11 @@
       "灯光",
       "金色",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -2990,6 +3470,11 @@
       "灯光",
       "光污染",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3021,6 +3506,11 @@
       "灯光",
       "闪电",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3052,6 +3542,11 @@
       "灯光",
       "光速",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3082,6 +3577,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3113,6 +3613,11 @@
       "灯光",
       "全局光照",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3144,6 +3649,11 @@
       "灯光",
       "跑马灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3175,6 +3685,11 @@
       "灯光",
       "汞蒸气灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3205,6 +3720,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3236,6 +3756,11 @@
       "灯光",
       "情绪照明",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3267,6 +3792,11 @@
       "灯光",
       "月光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3297,6 +3827,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3327,6 +3862,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3358,6 +3898,11 @@
       "灯光",
       "霓虹色灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3389,6 +3934,11 @@
       "灯光",
       "夜店",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3420,6 +3970,11 @@
       "灯光",
       "夜店灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3451,6 +4006,11 @@
       "灯光",
       "夜灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3482,6 +4042,11 @@
       "灯光",
       "数码管",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3513,6 +4078,11 @@
       "灯光",
       "北极光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3544,6 +4114,11 @@
       "灯光",
       "核废料",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3575,6 +4150,11 @@
       "灯光",
       "油灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3606,6 +4186,11 @@
       "灯光",
       "金色",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3637,6 +4222,11 @@
       "灯光",
       "光纤",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3668,6 +4258,11 @@
       "灯光",
       "过度照明",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3698,6 +4293,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3729,6 +4329,11 @@
       "灯光",
       "光子映射",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3759,6 +4364,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3790,6 +4400,11 @@
       "灯光",
       "等离子球",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3821,6 +4436,11 @@
       "灯光",
       "等离子灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3852,6 +4472,11 @@
       "灯光",
       "量子点",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3882,6 +4507,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3913,6 +4543,11 @@
       "灯光",
       "辐射光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3943,6 +4578,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -3974,6 +4614,11 @@
       "灯光",
       "全局光照",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4005,6 +4650,11 @@
       "灯光",
       "环形灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4036,6 +4686,11 @@
       "灯光",
       "伦勃朗光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4067,6 +4722,11 @@
       "灯光",
       "鲁本斯管",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4098,6 +4758,11 @@
       "灯光",
       "灯笼",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4129,6 +4794,11 @@
       "灯光",
       "全局光照",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4160,6 +4830,11 @@
       "灯光",
       "阴影",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4191,6 +4866,11 @@
       "灯光",
       "阴影",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4222,6 +4902,11 @@
       "灯光",
       "钠蒸气灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4253,6 +4938,11 @@
       "灯光",
       "柔光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4284,6 +4974,11 @@
       "灯光",
       "分裂光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4315,6 +5010,11 @@
       "灯光",
       "星光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4346,6 +5046,11 @@
       "灯光",
       "频闪",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4377,6 +5082,11 @@
       "灯光",
       "频闪灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4408,6 +5118,11 @@
       "灯光",
       "频闪仪",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4438,6 +5153,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4469,6 +5189,11 @@
       "灯光",
       "硫灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4500,6 +5225,11 @@
       "灯光",
       "阳光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4531,6 +5261,11 @@
       "灯光",
       "阳光光柱",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4562,6 +5297,11 @@
       "灯光",
       "阳光射线",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4592,6 +5332,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4622,6 +5367,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4653,6 +5403,11 @@
       "灯光",
       "火炬",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4684,6 +5439,11 @@
       "灯光",
       "火炬光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4715,6 +5475,11 @@
       "灯光",
       "超亮",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4746,6 +5511,11 @@
       "灯光",
       "紫外线",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4777,6 +5547,11 @@
       "灯光",
       "底部照明",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4808,6 +5583,11 @@
       "灯光",
       "闪电",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4839,6 +5619,11 @@
       "灯光",
       "UV",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4869,6 +5654,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4900,6 +5690,11 @@
       "灯光",
       "真空管灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4931,6 +5726,11 @@
       "灯光",
       "面纱眩光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4962,6 +5762,11 @@
       "灯光",
       "衰减光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -4992,6 +5797,11 @@
     "labels_zh": [
       "灯光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5023,6 +5833,11 @@
       "灯光",
       "氙灯",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5055,6 +5870,11 @@
       "特效光",
       "振幅失真",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5088,6 +5908,11 @@
       "立体",
       "3D",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5120,6 +5945,11 @@
       "特效光",
       "抗锯齿",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5152,6 +5982,11 @@
       "特效光",
       "自动立体",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5184,6 +6019,11 @@
       "特效光",
       "桶形畸变",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5216,6 +6056,11 @@
       "特效光",
       "模糊",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5248,6 +6093,11 @@
       "特效光",
       "模糊效果",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5280,6 +6130,11 @@
       "特效光",
       "模糊",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5312,6 +6167,11 @@
       "特效光",
       "模糊",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5343,6 +6203,11 @@
       "灯光",
       "特效光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5375,6 +6240,11 @@
       "特效光",
       "CGI",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5407,6 +6277,11 @@
       "特效光",
       "色差",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5439,6 +6314,11 @@
       "特效光",
       "色带",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5470,6 +6350,11 @@
       "灯光",
       "特效光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5502,6 +6387,11 @@
       "特效光",
       "卷积矩阵",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5534,6 +6424,11 @@
       "特效光",
       "裁剪过度",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5566,6 +6461,11 @@
       "特效光",
       "降噪",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5598,6 +6498,11 @@
       "特效光",
       "衍射光栅",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5630,6 +6535,11 @@
       "特效光",
       "数字增强",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5662,6 +6572,11 @@
       "特效光",
       "膨胀",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5694,6 +6609,11 @@
       "特效光",
       "失真",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5726,6 +6646,11 @@
       "特效光",
       "漂移",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5758,6 +6683,11 @@
       "特效光",
       "边缘检测",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5790,6 +6720,11 @@
       "特效光",
       "浮雕",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5822,6 +6757,11 @@
       "特效光",
       "腐蚀",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5854,6 +6794,11 @@
       "特效光",
       "场模糊",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5886,6 +6831,11 @@
       "特效光",
       "扁平上色",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5917,6 +6867,11 @@
       "灯光",
       "特效光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5949,6 +6904,11 @@
       "特效光",
       "FXAA",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -5981,6 +6941,11 @@
       "特效光",
       "高斯模糊",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6012,6 +6977,11 @@
       "灯光",
       "特效光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6045,6 +7015,11 @@
       "GLSL",
       "着色器",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6077,6 +7052,11 @@
       "特效光",
       "古奇着色",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6108,6 +7088,11 @@
       "灯光",
       "特效光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6139,6 +7124,11 @@
       "灯光",
       "特效光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6171,6 +7161,11 @@
       "特效光",
       "谐波失真",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6202,6 +7197,11 @@
       "灯光",
       "特效光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6234,6 +7234,11 @@
       "特效光",
       "薄雾",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6266,6 +7271,11 @@
       "特效光",
       "隔行扫描",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6298,6 +7308,11 @@
       "特效光",
       "隔行",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6330,6 +7345,11 @@
       "特效光",
       "光栅",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6362,6 +7382,11 @@
       "特效光",
       "流明反射",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6394,6 +7419,11 @@
       "特效光",
       "摩尔纹",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6425,6 +7455,11 @@
       "灯光",
       "特效光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6457,6 +7492,11 @@
       "特效光",
       "变形",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6489,6 +7529,11 @@
       "特效光",
       "变形",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6521,6 +7566,11 @@
       "特效光",
       "运动",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6553,6 +7603,11 @@
       "特效光",
       "动态模糊",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6585,6 +7640,11 @@
       "特效光",
       "多视点",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6616,6 +7676,11 @@
       "灯光",
       "特效光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6648,6 +7713,11 @@
       "特效光",
       "着色器",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6680,6 +7750,11 @@
       "特效光",
       "振荡",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6712,6 +7787,11 @@
       "特效光",
       "视差",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6744,6 +7824,11 @@
       "特效光",
       "相位失真",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6776,6 +7861,11 @@
       "特效光",
       "冯氏着色",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6808,6 +7898,11 @@
       "特效光",
       "枕形畸变",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6840,6 +7935,11 @@
       "特效光",
       "后期处理",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6872,6 +7972,11 @@
       "特效光",
       "后期制作",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6904,6 +8009,11 @@
       "特效光",
       "色调分离",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6936,6 +8046,11 @@
       "特效光",
       "量化",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6967,6 +8082,11 @@
       "灯光",
       "特效光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -6999,6 +8119,11 @@
       "特效光",
       "径向模糊",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7031,6 +8156,11 @@
       "特效光",
       "径向畸变",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7063,6 +8193,11 @@
       "特效光",
       "光线追踪",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7094,6 +8229,11 @@
       "灯光",
       "特效光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7126,6 +8266,11 @@
       "特效光",
       "光线追踪",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7158,6 +8303,11 @@
       "特效光",
       "递归",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7190,6 +8340,11 @@
       "特效光",
       "水洼倒影",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7222,6 +8377,11 @@
       "特效光",
       "重复",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7255,6 +8415,11 @@
       "RGB",
       "位移",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7287,6 +8452,11 @@
       "特效光",
       "RTX",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7318,6 +8488,11 @@
       "灯光",
       "特效光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7350,6 +8525,11 @@
       "特效光",
       "扫描线",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7381,6 +8561,11 @@
       "灯光",
       "特效光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7413,6 +8598,11 @@
       "特效光",
       "特效",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7445,6 +8635,11 @@
       "特效光",
       "着色器",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7477,6 +8672,11 @@
       "特效光",
       "锐化",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7509,6 +8709,11 @@
       "特效光",
       "已锐化",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7541,6 +8746,11 @@
       "特效光",
       "污点",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7573,6 +8783,11 @@
       "特效光",
       "算子",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7605,6 +8820,11 @@
       "特效光",
       "球面像差",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7637,6 +8857,11 @@
       "特效光",
       "污点修复",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7669,6 +8894,11 @@
       "特效光",
       "SSAO",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7701,6 +8931,11 @@
       "特效光",
       "星芒",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7733,6 +8968,11 @@
       "特效光",
       "立体摄影",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7765,6 +9005,11 @@
       "特效光",
       "表面模糊",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7797,6 +9042,11 @@
       "特效光",
       "镶嵌",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7829,6 +9079,11 @@
       "特效光",
       "纹理",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7861,6 +9116,11 @@
       "特效光",
       "倾斜模糊",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7893,6 +9153,11 @@
       "特效光",
       "色调映射",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7925,6 +9190,11 @@
       "特效光",
       "龙卷风状",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7957,6 +9227,11 @@
       "特效光",
       "拖尾",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -7989,6 +9264,11 @@
       "特效光",
       "扭曲光线",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8021,6 +9301,11 @@
       "特效光",
       "TXAA",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8053,6 +9338,11 @@
       "特效光",
       "视觉特效",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8085,6 +9375,11 @@
       "特效光",
       "体积",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8117,6 +9412,11 @@
       "特效光",
       "水面反射",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8146,6 +9446,11 @@
       "灯光",
       "特殊光",
       "大气除雾"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8175,6 +9480,11 @@
       "灯光",
       "动态光",
       "光环效果"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8204,6 +9514,11 @@
       "灯光",
       "天然",
       "逆光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8233,6 +9548,11 @@
       "灯光",
       "特殊光",
       "生物发光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8262,6 +9582,11 @@
       "灯光",
       "氛围光",
       "蓝调时刻"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8291,6 +9616,11 @@
       "灯光",
       "动态光",
       "樱花"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8320,6 +9650,11 @@
       "灯光",
       "戏剧光",
       "明暗对照"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8348,6 +9683,11 @@
     "labels_zh": [
       "灯光",
       "戏剧光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8377,6 +9717,11 @@
       "灯光",
       "氛围光",
       "寒冷氛围"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8405,6 +9750,11 @@
     "labels_zh": [
       "灯光",
       "氛围光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8433,6 +9783,11 @@
     "labels_zh": [
       "灯光",
       "氛围光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8462,6 +9817,11 @@
       "灯光",
       "动态光",
       "闪光效果"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8490,6 +9850,11 @@
     "labels_zh": [
       "灯光",
       "氛围光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8519,6 +9884,11 @@
       "灯光",
       "天然",
       "斑驳阳光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8548,6 +9918,11 @@
       "灯光",
       "氛围光",
       "黑暗氛围"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8577,6 +9952,11 @@
       "灯光",
       "天然",
       "漫射光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8606,6 +9986,11 @@
       "灯光",
       "戏剧光",
       "戏剧照明"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8635,6 +10020,11 @@
       "灯光",
       "动态光",
       "尘埃粒子"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8664,6 +10054,11 @@
       "灯光",
       "动态光",
       "电火花"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8693,6 +10088,11 @@
       "灯光",
       "动态光",
       "能量发光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8722,6 +10122,11 @@
       "灯光",
       "氛围光",
       "空灵发光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8751,6 +10156,11 @@
       "灯光",
       "天然",
       "均匀照明"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8780,6 +10190,11 @@
       "灯光",
       "动态光",
       "火焰粒子"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8809,6 +10224,11 @@
       "灯光",
       "动态光",
       "火焰"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8837,6 +10257,11 @@
     "labels_zh": [
       "灯光",
       "氛围光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8866,6 +10291,11 @@
       "灯光",
       "动态光",
       "飘浮余烬"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8895,6 +10325,11 @@
       "灯光",
       "动态光",
       "飘飞花瓣"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8923,6 +10358,11 @@
     "labels_zh": [
       "灯光",
       "特殊光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8952,6 +10392,11 @@
       "灯光",
       "特殊光",
       "闪光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -8981,6 +10426,11 @@
       "灯光",
       "特殊光",
       "发光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9010,6 +10460,11 @@
       "灯光",
       "动态光",
       "发光符文"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9039,6 +10494,11 @@
       "灯光",
       "天然",
       "神光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9068,6 +10528,11 @@
       "灯光",
       "戏剧光",
       "神光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9097,6 +10562,11 @@
       "灯光",
       "天然",
       "黄金时段"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9125,6 +10595,11 @@
     "labels_zh": [
       "灯光",
       "戏剧光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9154,6 +10629,11 @@
       "灯光",
       "戏剧光",
       "硬光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9183,6 +10663,11 @@
       "灯光",
       "戏剧光",
       "高对比"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9211,6 +10696,11 @@
     "labels_zh": [
       "灯光",
       "氛围光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9240,6 +10730,11 @@
       "灯光",
       "动态光",
       "冰晶"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9269,6 +10764,11 @@
       "灯光",
       "动态光",
       "风吹树叶"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9298,6 +10798,11 @@
       "灯光",
       "天然",
       "镜头眩光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9327,6 +10832,11 @@
       "灯光",
       "特殊光",
       "光束"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9356,6 +10866,11 @@
       "灯光",
       "特殊光",
       "光柱"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9385,6 +10900,11 @@
       "灯光",
       "天然",
       "长影"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9413,6 +10933,11 @@
     "labels_zh": [
       "灯光",
       "氛围光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9442,6 +10967,11 @@
       "灯光",
       "特殊光",
       "发光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9471,6 +11001,11 @@
       "灯光",
       "动态光",
       "魔幻光环"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9500,6 +11035,11 @@
       "灯光",
       "氛围光",
       "魔幻发光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9529,6 +11069,11 @@
       "灯光",
       "特殊光",
       "薄雾"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9558,6 +11103,11 @@
       "灯光",
       "氛围光",
       "阴郁氛围"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9587,6 +11137,11 @@
       "灯光",
       "氛围光",
       "月光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9616,6 +11171,11 @@
       "灯光",
       "动态光",
       "运动拖尾"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9645,6 +11205,11 @@
       "灯光",
       "天然",
       "自然日光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9673,6 +11238,11 @@
     "labels_zh": [
       "灯光",
       "氛围光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9701,6 +11271,11 @@
     "labels_zh": [
       "灯光",
       "氛围光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9730,6 +11305,11 @@
       "灯光",
       "氛围光",
       "轮廓光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9759,6 +11339,11 @@
       "灯光",
       "天然",
       "阴天闪电"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9788,6 +11373,11 @@
       "灯光",
       "特殊光",
       "粒子飘浮"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9817,6 +11407,11 @@
       "灯光",
       "动态光",
       "力量光环"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9846,6 +11441,11 @@
       "灯光",
       "动态光",
       "雨点溅落"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9875,6 +11475,11 @@
       "灯光",
       "天然",
       "光线"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9904,6 +11509,11 @@
       "灯光",
       "戏剧光",
       "光线追踪"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9933,6 +11543,11 @@
       "灯光",
       "天然",
       "轮廓光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9962,6 +11577,11 @@
       "灯光",
       "氛围光",
       "戒指光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -9991,6 +11611,11 @@
       "灯光",
       "戏剧光",
       "侧光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10020,6 +11645,11 @@
       "灯光",
       "动态光",
       "飘落雪花"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10049,6 +11679,11 @@
       "灯光",
       "氛围光",
       "环境光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10078,6 +11713,11 @@
       "灯光",
       "天然",
       "柔光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10107,6 +11747,11 @@
       "灯光",
       "动态光",
       "火花拖尾"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10136,6 +11781,11 @@
       "灯光",
       "特殊光",
       "闪光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10165,6 +11815,11 @@
       "灯光",
       "动态光",
       "灵气粒子"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10194,6 +11849,11 @@
       "灯光",
       "戏剧光",
       "聚光灯"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10222,6 +11882,11 @@
     "labels_zh": [
       "灯光",
       "氛围光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10251,6 +11916,11 @@
       "灯光",
       "天然",
       "太阳眩光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10280,6 +11950,11 @@
       "灯光",
       "天然",
       "阳光光束"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10309,6 +11984,11 @@
       "灯光",
       "戏剧光",
       "戏剧照明"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10338,6 +12018,11 @@
       "灯光",
       "动态光",
       "拖尾粒子"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10367,6 +12052,11 @@
       "灯光",
       "氛围光",
       "暮光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10396,6 +12086,11 @@
       "灯光",
       "特殊光",
       "体积雾"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10425,6 +12120,11 @@
       "灯光",
       "戏剧光",
       "体积光"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10453,6 +12153,11 @@
     "labels_zh": [
       "灯光",
       "天然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10481,6 +12186,11 @@
     "labels_zh": [
       "灯光",
       "天然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10508,6 +12218,11 @@
       "大气",
       "清晰氛围",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10535,6 +12250,11 @@
       "大气",
       "多云天空",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10562,6 +12282,11 @@
       "大气",
       "阴天",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10589,6 +12314,11 @@
       "大气",
       "浓雾",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10616,6 +12346,11 @@
       "大气",
       "光薄雾",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10642,6 +12377,11 @@
       "灯光",
       "大气",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10669,6 +12409,11 @@
       "大气",
       "小雨",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10696,6 +12441,11 @@
       "大气",
       "暴雨",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10723,6 +12473,11 @@
       "大气",
       "雷暴",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10750,6 +12505,11 @@
       "大气",
       "降雪",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10776,6 +12536,11 @@
       "灯光",
       "大气",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10803,6 +12568,11 @@
       "大气",
       "空中灰尘",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10830,6 +12600,11 @@
       "大气",
       "神光",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10857,6 +12632,11 @@
       "大气",
       "飘烟",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10883,6 +12663,11 @@
       "灯光",
       "大气",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10909,6 +12694,11 @@
       "灯光",
       "大气",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10935,6 +12725,11 @@
       "灯光",
       "大气",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10961,6 +12756,11 @@
       "灯光",
       "大气",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -10987,6 +12787,11 @@
       "灯光",
       "大气",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11014,6 +12819,11 @@
       "大气",
       "镜头眩光",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11040,6 +12850,11 @@
       "灯光",
       "大气",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11066,6 +12881,11 @@
       "灯光",
       "大气",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11092,6 +12912,11 @@
       "灯光",
       "大气",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11118,6 +12943,11 @@
       "灯光",
       "大气",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11144,6 +12974,11 @@
       "灯光",
       "大气",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11170,6 +13005,11 @@
       "灯光",
       "大气",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11196,6 +13036,11 @@
       "灯光",
       "大气",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11222,6 +13067,11 @@
       "灯光",
       "大气",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11248,6 +13098,11 @@
       "灯光",
       "大气",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11274,6 +13129,11 @@
       "灯光",
       "大气",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11301,6 +13161,11 @@
       "大气",
       "烛光发光",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11327,6 +13192,11 @@
       "灯光",
       "大气",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11354,6 +13224,11 @@
       "大气",
       "可见星空",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11380,6 +13255,11 @@
       "灯光",
       "大气",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11406,6 +13286,11 @@
       "灯光",
       "大气",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11432,6 +13317,11 @@
       "灯光",
       "大气",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11458,6 +13348,11 @@
       "灯光",
       "大气",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11484,6 +13379,11 @@
       "灯光",
       "大气",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11510,6 +13410,11 @@
       "灯光",
       "大气",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   },
   {
@@ -11537,6 +13442,11 @@
       "大气",
       "运动模糊",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
     ]
   }
 ]

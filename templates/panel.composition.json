@@ -1,0 +1,63 @@
+{
+  "id": "panel.composition",
+  "version": "1.0.0",
+  "description": "Describe panel layout and comic composition.",
+  "description_zh": "描述分镜布局和漫画构图",
+  "variables": [
+    {
+      "name": "layout",
+      "description": "Panel layout type",
+      "description_zh": "分镜布局类型",
+      "source": "keyword",
+      "category": "panel",
+      "subcategory": "panelLayout",
+      "required": true
+    },
+    {
+      "name": "effects",
+      "description": "Comic effects",
+      "description_zh": "漫画特效",
+      "source": "keyword",
+      "category": "panel",
+      "subcategory": "comicEffects",
+      "required": false
+    },
+    {
+      "name": "animation_style",
+      "description": "Animation style",
+      "description_zh": "动画风格",
+      "source": "keyword",
+      "category": "panel",
+      "subcategory": "animation",
+      "required": false
+    },
+    {
+      "name": "mood",
+      "description": "Panel mood",
+      "description_zh": "分镜氛围",
+      "source": "keyword",
+      "category": "panel",
+      "subcategory": "panelMood",
+      "required": false
+    }
+  ],
+  "render": {
+    "format": "comma_separated",
+    "separator": ", ",
+    "order": [
+      "layout",
+      "effects",
+      "animation_style",
+      "mood"
+    ]
+  },
+  "fallback": "dynamic comic panel layout",
+  "dedupe_group": "panel",
+  "priority": "high",
+  "lifecycle": "active",
+  "api_targets": [
+    "SDXL",
+    "Midjourney"
+  ],
+  "created_at": "2026-10-11"
+}

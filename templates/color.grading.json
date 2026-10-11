@@ -1,0 +1,54 @@
+{
+  "id": "color.grading",
+  "version": "1.0.0",
+  "description": "Apply color grading and visual tone.",
+  "description_zh": "应用色彩分级和视觉色调",
+  "variables": [
+    {
+      "name": "palette",
+      "description": "Color palette",
+      "description_zh": "调色板",
+      "source": "keyword",
+      "category": "color-look",
+      "subcategory": "palette",
+      "required": true
+    },
+    {
+      "name": "film_emulation",
+      "description": "Film emulation style",
+      "description_zh": "胶片模拟风格",
+      "source": "keyword",
+      "category": "color-look",
+      "subcategory": "film-emulation",
+      "required": false
+    },
+    {
+      "name": "post_process",
+      "description": "Post-processing effects",
+      "description_zh": "后期处理效果",
+      "source": "keyword",
+      "category": "color-look",
+      "subcategory": "post-process",
+      "required": false
+    }
+  ],
+  "render": {
+    "format": "comma_separated",
+    "separator": ", ",
+    "order": [
+      "palette",
+      "film_emulation",
+      "post_process"
+    ]
+  },
+  "fallback": "warm color grading, cinematic look",
+  "dedupe_group": "color-look",
+  "priority": "medium",
+  "lifecycle": "active",
+  "api_targets": [
+    "SDXL",
+    "Midjourney",
+    "Flux"
+  ],
+  "created_at": "2026-10-11"
+}

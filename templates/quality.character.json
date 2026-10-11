@@ -1,0 +1,53 @@
+{
+  "id": "quality.character",
+  "version": "1.0.0",
+  "description": "Apply quality enhancements for character generation.",
+  "description_zh": "角色生成的质量增强",
+  "variables": [
+    {
+      "name": "base_quality",
+      "description": "Base quality level",
+      "description_zh": "基础质量等级",
+      "source": "keyword",
+      "category": "quality",
+      "subcategory": "basic",
+      "required": true
+    },
+    {
+      "name": "detail_level",
+      "description": "Detail level",
+      "description_zh": "细节水平",
+      "source": "keyword",
+      "category": "character",
+      "subcategory": "detail",
+      "required": false
+    },
+    {
+      "name": "effects_quality",
+      "description": "Effects quality",
+      "description_zh": "特效质量",
+      "source": "keyword",
+      "category": "character",
+      "subcategory": "effects",
+      "required": false
+    }
+  ],
+  "render": {
+    "format": "comma_separated",
+    "separator": ", ",
+    "order": [
+      "base_quality",
+      "detail_level",
+      "effects_quality"
+    ]
+  },
+  "fallback": "best quality, highly detailed",
+  "dedupe_group": "quality",
+  "priority": "high",
+  "lifecycle": "active",
+  "api_targets": [
+    "SDXL",
+    "Midjourney"
+  ],
+  "created_at": "2026-10-11"
+}

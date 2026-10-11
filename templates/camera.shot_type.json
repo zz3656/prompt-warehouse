@@ -1,0 +1,54 @@
+{
+  "id": "camera.shot_type",
+  "version": "1.0.0",
+  "description": "Describe camera shot type for video generation.",
+  "description_zh": "描述摄像机景别（视频生成用）",
+  "variables": [
+    {
+      "name": "shot_type",
+      "description": "Type of shot (extreme long, long, medium, close-up, extreme close-up)",
+      "description_zh": "景别类型（大远景、远景、中景、近景、特写）",
+      "source": "static",
+      "category": "camera",
+      "subcategory": null,
+      "required": true
+    },
+    {
+      "name": "framing",
+      "description": "Framing style (rule of thirds, centered, dynamic)",
+      "description_zh": "构图方式（三分法、居中、动态）",
+      "source": "static",
+      "category": "camera",
+      "subcategory": null,
+      "required": false
+    },
+    {
+      "name": "subject_focus",
+      "description": "What the camera focuses on (face, hands, full body)",
+      "description_zh": "对焦主体（面部、手部、全身）",
+      "source": "static",
+      "category": "camera",
+      "subcategory": null,
+      "required": false
+    }
+  ],
+  "render": {
+    "format": "comma_separated",
+    "separator": ", ",
+    "order": [
+      "shot_type",
+      "framing",
+      "subject_focus"
+    ]
+  },
+  "fallback": "medium shot, centered framing",
+  "dedupe_group": "camera",
+  "priority": "high",
+  "lifecycle": "beta",
+  "api_targets": [
+    "Kling",
+    "Runway",
+    "Minimax H3"
+  ],
+  "created_at": "2026-10-11"
+}

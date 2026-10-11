@@ -1,0 +1,114 @@
+{
+  "id": "character.reference_description",
+  "version": "1.0.0",
+  "description": "Generate a character reference description with consistent appearance.",
+  "description_zh": "生成角色外观描述：年龄、发色、瞳色、肤色等",
+  "variables": [
+    {
+      "name": "age",
+      "description": "Character age",
+      "description_zh": "年龄",
+      "source": "keyword",
+      "category": "character",
+      "subcategory": "age",
+      "required": true
+    },
+    {
+      "name": "hair_color",
+      "description": "Hair color",
+      "description_zh": "发色",
+      "source": "keyword",
+      "category": "character",
+      "subcategory": "hairColors",
+      "required": true
+    },
+    {
+      "name": "hair_style",
+      "description": "Hair style and length",
+      "description_zh": "发型和长度",
+      "source": "keyword",
+      "category": "character",
+      "subcategory": "hair",
+      "required": true
+    },
+    {
+      "name": "eye_color",
+      "description": "Eye color",
+      "description_zh": "瞳色",
+      "source": "keyword",
+      "category": "character",
+      "subcategory": "eyeColors",
+      "required": false
+    },
+    {
+      "name": "eye_style",
+      "description": "Eye shape and expression",
+      "description_zh": "眼睛形状和表情",
+      "source": "keyword",
+      "category": "character",
+      "subcategory": "eyes",
+      "required": false
+    },
+    {
+      "name": "skin_tone",
+      "description": "Skin color and texture",
+      "description_zh": "肤色和质感",
+      "source": "keyword",
+      "category": "character",
+      "subcategory": "skin",
+      "required": false
+    },
+    {
+      "name": "facial_features",
+      "description": "Distinctive facial features",
+      "description_zh": "面部特征",
+      "source": "keyword",
+      "category": "character",
+      "subcategory": "face",
+      "required": false
+    },
+    {
+      "name": "expression",
+      "description": "Facial expression",
+      "description_zh": "表情",
+      "source": "keyword",
+      "category": "character",
+      "subcategory": "expression",
+      "required": false
+    },
+    {
+      "name": "body_type",
+      "description": "Body shape and build",
+      "description_zh": "体型",
+      "source": "keyword",
+      "category": "character",
+      "subcategory": "bodyType",
+      "required": false
+    }
+  ],
+  "render": {
+    "format": "comma_separated",
+    "separator": ", ",
+    "order": [
+      "age",
+      "hair_color",
+      "hair_style",
+      "eye_color",
+      "eye_style",
+      "skin_tone",
+      "facial_features",
+      "expression",
+      "body_type"
+    ]
+  },
+  "fallback": "young woman with long hair",
+  "dedupe_group": "character",
+  "priority": "high",
+  "lifecycle": "active",
+  "api_targets": [
+    "SDXL",
+    "Midjourney",
+    "Flux"
+  ],
+  "created_at": "2026-10-11"
+}

@@ -2,7 +2,7 @@
   "version": "1.1.0",
   "schema_version": "pws-1.0",
   "total_templates": 27,
-  "updated_at": "2026-09-30T19:30:00.000000+00:00",
+  "updated_at": "2026-10-11T13:19:03.266004+00:00",
   "updated_by": "extend-translations-13.py",
   "data_sources": {
     "migration_layer": {
@@ -75,6 +75,7 @@
     "Text-Negative-Patterns": 7
   },
   "changelog": [
+    "新增 12 个 workflow template（character.reference_description, scene.environment 等）",
     {
       "version": "1.0.0",
       "date": "2025-09-28",
@@ -178,5 +179,20 @@
       ]
     }
   ],
-  "description": "27 prompt templates. h3-comic-builder (24) is an intermediate migration layer whose templates also came from the web. Direct data sources: H3 Video Prompts (20) + LLM System Prompts (10) + Text Negative Patterns (7). See data_sources for full provenance."
+  "description": "27 prompt templates. h3-comic-builder (24) is an intermediate migration layer whose templates also came from the web. Direct data sources: H3 Video Prompts (20) + LLM System Prompts (10) + Text Negative Patterns (7). See data_sources for full provenance.",
+  "templates": [
+    "action.motion",
+    "atmosphere.weather",
+    "camera.movement",
+    "camera.shot_type",
+    "character.multiple_views",
+    "character.reference_description",
+    "color.grading",
+    "lighting.mood",
+    "panel.composition",
+    "quality.character",
+    "quality.standard",
+    "scene.environment"
+  ],
+  "total": 12
 }

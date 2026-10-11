@@ -23,6 +23,10 @@
       "速度",
       "实时回放",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -49,6 +53,10 @@
       "速度",
       "慢动作",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -74,6 +82,10 @@
       "时间效果",
       "速度",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -100,6 +112,10 @@
       "速度",
       "延时摄影",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -125,6 +141,10 @@
       "时间效果",
       "速度",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -151,6 +171,10 @@
       "速度",
       "速度渐变",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -177,6 +201,10 @@
       "冻结",
       "定格帧",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -202,6 +230,10 @@
       "时间效果",
       "冻结",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -227,6 +259,10 @@
       "时间效果",
       "冻结",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -252,6 +288,10 @@
       "时间效果",
       "冻结",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -278,6 +318,10 @@
       "方向",
       "正向回放",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -304,6 +348,10 @@
       "方向",
       "倒放",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -329,6 +377,10 @@
       "时间效果",
       "方向",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -354,6 +406,10 @@
       "时间效果",
       "快门",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -379,6 +435,10 @@
       "时间效果",
       "快门",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -404,6 +464,10 @@
       "时间效果",
       "快门",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -429,6 +493,10 @@
       "时间效果",
       "快门",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -454,6 +522,10 @@
       "时间效果",
       "快门",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -480,7 +552,11 @@
       "nodaro"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "temporal"
+    "category": "temporal",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "temporal_speed_timelapse",
@@ -505,7 +581,11 @@
       "video"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "temporal"
+    "category": "temporal",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "temporal_speed_hyperlapse",
@@ -530,7 +610,11 @@
       "video"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "temporal"
+    "category": "temporal",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "temporal_speed_undercranked",
@@ -555,7 +639,11 @@
       "video"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "temporal"
+    "category": "temporal",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "temporal_speed_overcranked",
@@ -580,7 +668,11 @@
       "video"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "temporal"
+    "category": "temporal",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "temporal_speed_freeze_frame",
@@ -606,7 +698,11 @@
       "comedy"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "temporal"
+    "category": "temporal",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "temporal_speed_ramp_speed",
@@ -631,7 +727,11 @@
       "video"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "temporal"
+    "category": "temporal",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "temporal_speed_reverse_motion",
@@ -656,7 +756,11 @@
       "video"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "temporal"
+    "category": "temporal",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "temporal_speed_liquify",
@@ -682,7 +786,11 @@
       "experimental"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "temporal"
+    "category": "temporal",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "temporal_motion_blur_trailing",
@@ -708,7 +816,11 @@
       "speed"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "temporal"
+    "category": "temporal",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "temporal_shutter_waterdrop",
@@ -734,7 +846,11 @@
       "photography"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "temporal"
+    "category": "temporal",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "temporal_shutter_chromatic_aura",
@@ -760,6 +876,10 @@
       "video"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "temporal"
+    "category": "temporal",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   }
 ]

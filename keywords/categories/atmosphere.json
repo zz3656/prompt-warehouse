@@ -29,6 +29,10 @@
       "自然",
       "氛围",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -61,6 +65,10 @@
       "自然",
       "极光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -93,6 +101,10 @@
       "自然",
       "南极光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -125,6 +137,10 @@
       "自然",
       "北极光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -157,6 +173,10 @@
       "自然",
       "极光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -189,6 +209,10 @@
       "自然",
       "极光",
       "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   }
 ]

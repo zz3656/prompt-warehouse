@@ -1,9 +1,9 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "schema_version": "pws-1.0",
-  "total_keywords": 5999,
+  "total_keywords": 6037,
   "total_categories": 20,
-  "updated_at": "2026-10-11T11:35:09.852089+00:00",
+  "updated_at": "2026-10-11T13:21:16.500901+00:00",
   "updated_by": "optimization-pr",
   "source_summary": {
     "h3-comic-builder (intermediate, not listed as data source)": 859,
@@ -15,6 +15,8 @@
     "nodaro-prompts": 1149
   },
   "changelog": [
+    "1.5.0 - 新增 compatibility 字段（按分类/子分类默认值批量打标）",
+    "1.4.1 - 合并 composition/angles → angle（14 条）",
     "1.4.0 - 新增 shot-language 分类（40 个镜头语言）",
     "1.3.0 - 新增 subcategories_zh（152 个映射，覆盖 150/156 个子分类）",
     "修正 total_keywords: 6015 → 5999",
@@ -320,7 +322,6 @@
     "mj_v5_objects": "物体",
     "mj_v5_geo": "地理",
     "mj_v5_space": "太空",
-    "angles": "多角度",
     "framing": "景别",
     "lens": "镜头",
     "rules": "构图法则",

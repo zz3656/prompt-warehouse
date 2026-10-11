@@ -22,6 +22,10 @@
       "时代",
       "二十世纪",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -47,6 +51,10 @@
       "时代",
       "二十世纪",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -72,6 +80,10 @@
       "时代",
       "二十世纪",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -100,6 +112,10 @@
       "年代摩登",
       "几何",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -125,6 +141,10 @@
       "时代",
       "二十世纪",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -152,6 +172,10 @@
       "1980",
       "年代霓虹",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -178,6 +202,10 @@
       "前现代",
       "中世纪",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -204,6 +232,10 @@
       "前现代",
       "文艺复兴",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -230,6 +262,10 @@
       "前现代",
       "维多利亚",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -257,6 +293,10 @@
       "爱德华",
       "高领茶服",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -283,6 +323,10 @@
       "前现代",
       "西部荒野",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -309,6 +353,10 @@
       "前现代",
       "古罗马",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -335,6 +383,10 @@
       "前现代",
       "古埃及",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -362,6 +414,10 @@
       "日本封建",
       "多层和服",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -388,6 +444,10 @@
       "推测",
       "近未来",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -413,6 +473,10 @@
       "时代",
       "推测",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -438,6 +502,10 @@
       "时代",
       "推测",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -466,6 +534,10 @@
       "1950",
       "年代未来",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -492,6 +564,10 @@
       "推测",
       "铬饰夹克",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -519,6 +595,10 @@
       "末日废土",
       "补丁皮革",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -544,6 +624,10 @@
       "时代",
       "推测",
       "nodaro"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
     ]
   },
   {
@@ -572,7 +656,11 @@
       "night"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "era"
+    "category": "era",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "era_decade_vintage_1920s",
@@ -600,7 +688,11 @@
       "portrait"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "era"
+    "category": "era",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "era_decade_vintage_1970s",
@@ -628,7 +720,11 @@
       "colorful"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "era"
+    "category": "era",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "era_decade_vintage_1980s_synth",
@@ -656,7 +752,11 @@
       "music"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "era"
+    "category": "era",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "era_decade_vintage_1990s",
@@ -684,7 +784,11 @@
       "tech"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "era"
+    "category": "era",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "era_speculative_biopunk",
@@ -711,7 +815,11 @@
       "sci-fi"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "era"
+    "category": "era",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "era_speculative_arsenic_age",
@@ -739,7 +847,11 @@
       "steampunk"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "era"
+    "category": "era",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "era_speculative_solarpunk",
@@ -767,7 +879,11 @@
       "eco"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "era"
+    "category": "era",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "era_speculative_cottagecore",
@@ -795,7 +911,11 @@
       "popular"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "era"
+    "category": "era",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "era_speculative_goblincore",
@@ -823,7 +943,11 @@
       "niche"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "era"
+    "category": "era",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "era_speculative_dark_academia",
@@ -851,7 +975,11 @@
       "popular"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "era"
+    "category": "era",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   },
   {
     "id": "era_pre_modern_byzantine",
@@ -879,6 +1007,10 @@
       "religion"
     ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "era"
+    "category": "era",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ]
   }
 ]
