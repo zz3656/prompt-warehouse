@@ -27,7 +27,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_fabric_cotton",
@@ -57,7 +58,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_fabric_denim",
@@ -86,7 +88,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_fabric_leather",
@@ -116,7 +119,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_fabric_velvet",
@@ -146,7 +150,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_fabric_satin",
@@ -176,7 +181,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_fabric_lace",
@@ -206,7 +212,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_fabric_wool",
@@ -236,7 +243,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_fabric_linen",
@@ -266,7 +274,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_fabric_tweed",
@@ -296,7 +305,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_fabric_cashmere",
@@ -326,7 +336,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_fabric_chiffon",
@@ -356,7 +367,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_fabric_fur",
@@ -386,7 +398,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_fabric_suede",
@@ -416,7 +429,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_fabric_mesh",
@@ -446,7 +460,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_fabric_patent_leather",
@@ -476,7 +491,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_metal_gold",
@@ -506,7 +522,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_metal_silver",
@@ -536,7 +553,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_metal_bronze",
@@ -565,7 +583,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_metal_chrome",
@@ -595,7 +614,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_metal_copper",
@@ -624,7 +644,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_metal_brass",
@@ -654,7 +675,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_metal_steel",
@@ -683,7 +705,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_metal_iron",
@@ -713,7 +736,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_metal_platinum",
@@ -742,7 +766,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_metal_titanium",
@@ -772,7 +797,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_stone_marble",
@@ -801,7 +827,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_stone_granite",
@@ -830,7 +857,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_stone_obsidian",
@@ -859,7 +887,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_stone_sandstone",
@@ -888,7 +917,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_stone_slate",
@@ -918,7 +948,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_stone_jade",
@@ -948,7 +979,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_stone_onyx",
@@ -977,7 +1009,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_stone_concrete",
@@ -1007,7 +1040,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_stone_terrazzo",
@@ -1036,7 +1070,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_wood_oak",
@@ -1066,7 +1101,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_wood_mahogany",
@@ -1095,7 +1131,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_wood_walnut",
@@ -1125,7 +1162,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_wood_bamboo",
@@ -1155,7 +1193,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_wood_birch",
@@ -1185,7 +1224,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_wood_driftwood",
@@ -1214,7 +1254,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_glass_ceramic_glass",
@@ -1243,7 +1284,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_glass_ceramic_stained_glass",
@@ -1272,7 +1314,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_glass_ceramic_crystal",
@@ -1301,7 +1344,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_glass_ceramic_porcelain",
@@ -1331,7 +1375,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_glass_ceramic_ceramic_glazed",
@@ -1361,7 +1406,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_glass_ceramic_terracotta",
@@ -1390,7 +1436,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_natural_water",
@@ -1420,7 +1467,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_natural_fire",
@@ -1450,7 +1498,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_natural_ice",
@@ -1480,7 +1529,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_natural_smoke",
@@ -1510,7 +1560,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_natural_sand",
@@ -1540,7 +1591,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_natural_moss",
@@ -1570,7 +1622,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_natural_leaves",
@@ -1599,7 +1652,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_exotic_holographic",
@@ -1628,7 +1682,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_exotic_liquid_metal",
@@ -1657,7 +1712,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_exotic_neon",
@@ -1686,7 +1742,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_exotic_translucent",
@@ -1715,7 +1772,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_exotic_subsurface",
@@ -1744,7 +1802,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_exotic_mirror",
@@ -1773,7 +1832,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_exotic_plasma",
@@ -1802,7 +1862,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_exotic_crystal_shard",
@@ -1831,7 +1892,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_exotic_obsidian_glass",
@@ -1860,7 +1922,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_exotic_iridescent",
@@ -1889,7 +1952,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_exotic_mother_of_pearl",
@@ -1919,7 +1983,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_exotic_carbon_fiber",
@@ -1949,7 +2014,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "material_exotic_holographic_film",
@@ -1979,6 +2045,7 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   }
 ]

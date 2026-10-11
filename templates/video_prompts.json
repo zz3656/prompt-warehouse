@@ -1,24 +1,76 @@
 {
-  "id": "h3.video_prompts",
+  "id": "video.prompts",
   "name": "H3 Video Generation Prompts",
   "name_zh": "H3 视频生成提示词",
   "description": "Video generation prompt templates and keywords optimized for Minimax H3 model, covering camera movement, scene transitions, character action, and cinematic styles.",
   "description_zh": "针对 Minimax H3 模型优化的视频生成提示词模板和关键词，涵盖镜头运动、场景转换、角色动作和电影风格。",
   "category": "video-generation",
-  "subcategories": ["camera-movement", "scene-transition", "character-action", "cinematic-style", "atmosphere"],
+  "subcategories": [
+    "camera-movement",
+    "scene-transition",
+    "character-action",
+    "cinematic-style",
+    "atmosphere"
+  ],
   "language": "en",
-  "api_targets": ["Minimax H3"],
+  "api_targets": [
+    "Minimax H3"
+  ],
   "lifecycle": "approved",
   "score": 0.92,
-  "tags": ["h3", "minimax", "video", "cinematic", "camera", "animation"],
+  "tags": [
+    "h3",
+    "minimax",
+    "video",
+    "cinematic",
+    "camera",
+    "animation"
+  ],
   "variables": [
-    {"name": "subject", "type": "string", "required": true, "description": "Main subject of the video"},
-    {"name": "action", "type": "string", "required": true, "description": "What the subject is doing"},
-    {"name": "setting", "type": "string", "required": false, "description": "Where the scene takes place"},
-    {"name": "camera_move", "type": "string", "required": false, "default": "static", "description": "Camera movement type"},
-    {"name": "lighting", "type": "string", "required": false, "description": "Lighting style"},
-    {"name": "mood", "type": "string", "required": false, "description": "Emotional tone of the scene"},
-    {"name": "duration", "type": "string", "required": false, "default": "5s", "description": "Video duration"}
+    {
+      "name": "subject",
+      "type": "string",
+      "required": true,
+      "description": "Main subject of the video"
+    },
+    {
+      "name": "action",
+      "type": "string",
+      "required": true,
+      "description": "What the subject is doing"
+    },
+    {
+      "name": "setting",
+      "type": "string",
+      "required": false,
+      "description": "Where the scene takes place"
+    },
+    {
+      "name": "camera_move",
+      "type": "string",
+      "required": false,
+      "default": "static",
+      "description": "Camera movement type"
+    },
+    {
+      "name": "lighting",
+      "type": "string",
+      "required": false,
+      "description": "Lighting style"
+    },
+    {
+      "name": "mood",
+      "type": "string",
+      "required": false,
+      "description": "Emotional tone of the scene"
+    },
+    {
+      "name": "duration",
+      "type": "string",
+      "required": false,
+      "default": "5s",
+      "description": "Video duration"
+    }
   ],
   "variants": [
     {

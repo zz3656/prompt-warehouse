@@ -27,7 +27,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_speed_slow_motion",
@@ -57,7 +58,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_speed_super_slow_mo",
@@ -86,7 +88,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_speed_time_lapse",
@@ -116,7 +119,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_speed_hyper_lapse",
@@ -145,7 +149,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_speed_speed_ramp",
@@ -175,7 +180,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_freeze_full_freeze",
@@ -205,7 +211,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_freeze_bullet_time",
@@ -234,7 +241,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_freeze_frozen_subject",
@@ -263,7 +271,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_freeze_moving_subject",
@@ -292,7 +301,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_direction_forward",
@@ -322,7 +332,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_direction_reverse",
@@ -352,7 +363,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_direction_loop_boomerang",
@@ -381,7 +393,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_shutter_long_exposure",
@@ -410,7 +423,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_shutter_crisp_shutter",
@@ -439,7 +453,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_shutter_motion_blur",
@@ -468,7 +483,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_shutter_stutter_strobe",
@@ -497,7 +513,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_shutter_stop_motion",
@@ -526,7 +543,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_speed_braam",
@@ -556,7 +574,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_speed_timelapse",
@@ -585,7 +604,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_speed_hyperlapse",
@@ -614,7 +634,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_speed_undercranked",
@@ -643,7 +664,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_speed_overcranked",
@@ -672,7 +694,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_speed_freeze_frame",
@@ -702,7 +725,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_speed_ramp_speed",
@@ -731,7 +755,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_speed_reverse_motion",
@@ -760,7 +785,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_speed_liquify",
@@ -790,7 +816,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_motion_blur_trailing",
@@ -820,7 +847,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "temporal_shutter_waterdrop",
@@ -850,7 +878,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.6
   },
   {
     "id": "temporal_shutter_chromatic_aura",
@@ -880,6 +909,7 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   }
 ]

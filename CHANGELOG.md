@@ -1,3 +1,84 @@
+## [1.6.4] - 2026-10-11
+
+### Fixed
+- subcategories_zh key 统一小写（12 种）
+- 白名单死分类注释清理
+
+### Added
+- docs/missing-source.json（38 条缺 source 清单）
+
+## [1.6.3] - 2026-10-11
+
+### Fixed
+- 子分类大小写统一（253 条）
+- 白名单按实际文件重写（移除 13 个死分类）
+- relation_group 覆盖完整（0 未处理组）
+
+## [1.6.2] - 2026-10-11
+
+### Fixed
+- 文档代码块 + 旧注释清理
+
+### Added
+- bundle_type 字段（schema + 数据）
+- docs/panelcraft-categories.json（白名单分层）
+- docs/audit-report.json（全仓库巡检报告）
+
+## [1.6.1] - 2026-10-11
+
+### Fixed
+- compatibility 文档矛盾（实际 0 空值，全部显式绑定）
+
+### Added
+- bundle.schema.json 补全（templates + keywords 字段定义）
+
+## [1.5.9] - 2026-10-11
+
+### Fixed
+- negative weight 语义修正（降为 0.5 + is_negative）
+
+### Added
+- docs/panelcraft-sorting.md（PanelCraft 排序建议）
+- schema: is_negative 字段
+
+## [1.5.8] - 2026-10-11
+
+### Added
+- weight 字段（schema/keyword.schema.json）
+- 6037 条按分类赋默认 weight，priority 微调
+
+## [1.5.7] - 2026-10-11
+
+### Changed
+- h3.video_prompts → video.prompts（去项目名，保留模板能力）
+- bundle 模板引用统一为 templates 数组（schema/bundle.schema.json 更新）
+
+## [1.5.6] - 2026-10-11
+
+### Fixed
+- 修复缺失清单文件（docs/missing-labels-zh.json → docs/missing-aliases.json）
+
+### Added
+- scripts/validate-json.sh（JSON 语法校验）
+- docs/bundles-api.json（PanelCraft bundles API 定义）
+
+### Removed
+- projects/（死引用）
+- templates/_legacy_all_templates.json（死引用）
+
+## [1.5.5] - 2026-10-11
+
+### Added
+- docs/bundles-api.json（PanelCraft 读写 bundles 的 REST API）
+
+### Changed
+- README / README_en: API 章节改写为 PanelCraft bundles API
+
+### Removed
+- projects/（死引用）
+- snapshots/（不存在，跳过）
+- templates/_legacy_all_templates.json（死引用）
+
 ## [1.5.4] - 2026-10-11
 
 ### Fixed

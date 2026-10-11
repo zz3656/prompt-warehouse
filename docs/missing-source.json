@@ -1,0 +1,192 @@
+[
+  [
+    "shot-language",
+    "shot_language_shot_size_extreme_long_shot",
+    "extreme long shot"
+  ],
+  [
+    "shot-language",
+    "shot_language_shot_size_long_shot",
+    "long shot"
+  ],
+  [
+    "shot-language",
+    "shot_language_shot_size_medium_long_shot",
+    "medium long shot"
+  ],
+  [
+    "shot-language",
+    "shot_language_shot_size_medium_shot",
+    "medium shot"
+  ],
+  [
+    "shot-language",
+    "shot_language_shot_size_medium_close_up",
+    "medium close-up"
+  ],
+  [
+    "shot-language",
+    "shot_language_shot_size_close_up",
+    "close-up"
+  ],
+  [
+    "shot-language",
+    "shot_language_shot_size_extreme_close_up",
+    "extreme close-up"
+  ],
+  [
+    "shot-language",
+    "shot_language_shot_size_close_up_shot",
+    "close-up shot"
+  ],
+  [
+    "shot-language",
+    "shot_language_shot_size_macro_shot",
+    "macro shot"
+  ],
+  [
+    "shot-language",
+    "shot_language_shot_size_establishing_shot",
+    "establishing shot"
+  ],
+  [
+    "shot-language",
+    "shot_language_shot_size_full_shot",
+    "full shot"
+  ],
+  [
+    "shot-language",
+    "shot_language_shot_size_cowboy_shot",
+    "cowboy shot"
+  ],
+  [
+    "shot-language",
+    "shot_language_shot_size_two_shot",
+    "two shot"
+  ],
+  [
+    "shot-language",
+    "shot_language_shot_size_over_the_shoulder",
+    "over the shoulder shot"
+  ],
+  [
+    "shot-language",
+    "shot_language_shot_size_point_of_view",
+    "point of view shot"
+  ],
+  [
+    "shot-language",
+    "shot_language_camera_move_fixed",
+    "static camera"
+  ],
+  [
+    "shot-language",
+    "shot_language_camera_move_push_in",
+    "slow push in"
+  ],
+  [
+    "shot-language",
+    "shot_language_camera_move_pull_out",
+    "slow pull out"
+  ],
+  [
+    "shot-language",
+    "shot_language_camera_move_pan_left",
+    "pan left"
+  ],
+  [
+    "shot-language",
+    "shot_language_camera_move_pan_right",
+    "pan right"
+  ],
+  [
+    "shot-language",
+    "shot_language_camera_move_tracking_shot",
+    "tracking shot"
+  ],
+  [
+    "shot-language",
+    "shot_language_camera_move_crane_up",
+    "crane up"
+  ],
+  [
+    "shot-language",
+    "shot_language_camera_move_tilt_down",
+    "tilt down"
+  ],
+  [
+    "shot-language",
+    "shot_language_camera_move_zoom_in",
+    "zoom in"
+  ],
+  [
+    "shot-language",
+    "shot_language_camera_move_zoom_out",
+    "zoom out"
+  ],
+  [
+    "shot-language",
+    "shot_language_camera_move_arc",
+    "arc shot"
+  ],
+  [
+    "shot-language",
+    "shot_language_camera_move_dolly_zoom",
+    "dolly zoom"
+  ],
+  [
+    "shot-language",
+    "shot_language_lens_14mm",
+    "14mm lens"
+  ],
+  [
+    "shot-language",
+    "shot_language_lens_24mm",
+    "24mm lens"
+  ],
+  [
+    "shot-language",
+    "shot_language_lens_35mm",
+    "35mm lens"
+  ],
+  [
+    "shot-language",
+    "shot_language_lens_50mm",
+    "50mm lens"
+  ],
+  [
+    "shot-language",
+    "shot_language_lens_85mm",
+    "85mm lens"
+  ],
+  [
+    "shot-language",
+    "shot_language_lens_135mm",
+    "135mm lens"
+  ],
+  [
+    "shot-language",
+    "shot_language_lens_200mm",
+    "200mm lens"
+  ],
+  [
+    "shot-language",
+    "shot_language_lens_fisheye",
+    "fisheye lens"
+  ],
+  [
+    "shot-language",
+    "shot_language_lens_tilt_shift",
+    "tilt-shift lens"
+  ],
+  [
+    "shot-language",
+    "shot_language_lens_macro",
+    "macro lens"
+  ],
+  [
+    "shot-language",
+    "shot_language_lens_anamorphic",
+    "anamorphic lens"
+  ]
+]

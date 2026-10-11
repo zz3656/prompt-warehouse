@@ -23,7 +23,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_shot_size_long_shot",
@@ -47,7 +49,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_shot_size_medium_long_shot",
@@ -71,7 +75,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_shot_size_medium_shot",
@@ -97,7 +103,9 @@
       "flux"
     ],
     "relation_group": "medium shot",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_shot_size_medium_close_up",
@@ -123,7 +131,9 @@
       "flux"
     ],
     "relation_group": "medium close-up",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_shot_size_close_up",
@@ -149,7 +159,9 @@
       "flux"
     ],
     "relation_group": "close-up",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_shot_size_extreme_close_up",
@@ -176,7 +188,9 @@
       "flux"
     ],
     "relation_group": "extreme close-up",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_shot_size_close_up_shot",
@@ -202,7 +216,9 @@
       "flux"
     ],
     "relation_group": "close-up shot",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_shot_size_macro_shot",
@@ -228,7 +244,9 @@
       "flux"
     ],
     "relation_group": "macro shot",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_shot_size_establishing_shot",
@@ -254,7 +272,9 @@
       "flux"
     ],
     "relation_group": "establishing shot",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_shot_size_full_shot",
@@ -280,7 +300,9 @@
       "flux"
     ],
     "relation_group": "full shot",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_shot_size_cowboy_shot",
@@ -306,7 +328,9 @@
       "flux"
     ],
     "relation_group": "cowboy shot",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_shot_size_two_shot",
@@ -330,7 +354,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_shot_size_over_the_shoulder",
@@ -356,7 +382,9 @@
       "flux"
     ],
     "relation_group": "over the shoulder shot",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_shot_size_point_of_view",
@@ -382,7 +410,9 @@
       "flux"
     ],
     "relation_group": "point of view shot",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_camera_move_fixed",
@@ -407,7 +437,9 @@
       "kling",
       "runway",
       "minimax_h3"
-    ]
+    ],
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_camera_move_push_in",
@@ -432,7 +464,9 @@
       "kling",
       "runway",
       "minimax_h3"
-    ]
+    ],
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_camera_move_pull_out",
@@ -456,7 +490,9 @@
       "kling",
       "runway",
       "minimax_h3"
-    ]
+    ],
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_camera_move_pan_left",
@@ -480,7 +516,9 @@
       "kling",
       "runway",
       "minimax_h3"
-    ]
+    ],
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_camera_move_pan_right",
@@ -504,7 +542,9 @@
       "kling",
       "runway",
       "minimax_h3"
-    ]
+    ],
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_camera_move_tracking_shot",
@@ -531,7 +571,9 @@
       "minimax_h3"
     ],
     "relation_group": "tracking shot",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_camera_move_crane_up",
@@ -555,7 +597,9 @@
       "kling",
       "runway",
       "minimax_h3"
-    ]
+    ],
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_camera_move_tilt_down",
@@ -579,7 +623,9 @@
       "kling",
       "runway",
       "minimax_h3"
-    ]
+    ],
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_camera_move_zoom_in",
@@ -603,7 +649,9 @@
       "kling",
       "runway",
       "minimax_h3"
-    ]
+    ],
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_camera_move_zoom_out",
@@ -627,7 +675,9 @@
       "kling",
       "runway",
       "minimax_h3"
-    ]
+    ],
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_camera_move_arc",
@@ -652,7 +702,9 @@
       "kling",
       "runway",
       "minimax_h3"
-    ]
+    ],
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_camera_move_dolly_zoom",
@@ -679,7 +731,9 @@
       "minimax_h3"
     ],
     "relation_group": "dolly zoom",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.7,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_lens_14mm",
@@ -703,7 +757,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_lens_24mm",
@@ -726,7 +782,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_lens_35mm",
@@ -751,7 +809,9 @@
       "flux"
     ],
     "relation_group": "35mm lens",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_lens_50mm",
@@ -776,7 +836,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_lens_85mm",
@@ -801,7 +863,9 @@
       "flux"
     ],
     "relation_group": "85mm lens",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_lens_135mm",
@@ -824,7 +888,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_lens_200mm",
@@ -849,7 +915,9 @@
       "flux"
     ],
     "relation_group": "200mm lens",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_lens_fisheye",
@@ -874,7 +942,9 @@
       "flux"
     ],
     "relation_group": "fisheye lens",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.7,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_lens_tilt_shift",
@@ -900,7 +970,9 @@
       "flux"
     ],
     "relation_group": "tilt-shift lens",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.7,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_lens_macro",
@@ -925,7 +997,9 @@
       "flux"
     ],
     "relation_group": "macro lens",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.8,
+    "source": "legacy-migration"
   },
   {
     "id": "shot_language_lens_anamorphic",
@@ -952,6 +1026,8 @@
       "flux"
     ],
     "relation_group": "anamorphic lens",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.8,
+    "source": "legacy-migration"
   }
 ]

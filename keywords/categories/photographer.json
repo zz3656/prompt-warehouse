@@ -26,7 +26,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_paolo_roversi",
@@ -55,7 +56,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_marta_bevacqua",
@@ -84,7 +86,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_patrick_demarchelier",
@@ -113,7 +116,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_nick_knight",
@@ -142,7 +146,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_mario_testino",
@@ -171,7 +176,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_steven_meisel",
@@ -200,7 +206,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_helmut_newton",
@@ -229,7 +236,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_mario_sorrenti",
@@ -258,7 +266,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_annie_leibovitz",
@@ -287,7 +296,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_felicia_simion",
@@ -316,7 +326,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_oleg_oprisco",
@@ -345,7 +356,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_bella_kotak",
@@ -374,7 +386,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_yigal_ozeri",
@@ -403,7 +416,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_jimmy_marble",
@@ -432,7 +446,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_rinko_kawauchi",
@@ -461,7 +476,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_ellen_von_unwerth",
@@ -490,7 +506,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_mapplethorpe",
@@ -519,7 +536,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_sherman",
@@ -548,7 +566,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_crewdson",
@@ -577,7 +596,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_lachapelle",
@@ -606,7 +626,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_klein",
@@ -635,7 +656,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_lindbergh",
@@ -664,7 +686,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_tillmans",
@@ -694,7 +717,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_teller",
@@ -723,7 +747,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_penn",
@@ -752,7 +777,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_mcginley",
@@ -781,7 +807,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_mitchell",
@@ -810,7 +837,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_collins",
@@ -840,7 +868,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_weston",
@@ -869,7 +898,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_editorial_beaton",
@@ -898,7 +928,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_documentary_henri_cartier_bresson",
@@ -927,7 +958,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_documentary_vivian_maier",
@@ -956,7 +988,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_documentary_saul_leiter",
@@ -985,7 +1018,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_documentary_daido_moriyama",
@@ -1014,7 +1048,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_documentary_robert_capa",
@@ -1043,7 +1078,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_documentary_sebastiao_salgado",
@@ -1072,7 +1108,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_documentary_diane_arbus",
@@ -1101,7 +1138,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_cinematographer_roger_deakins",
@@ -1130,7 +1168,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_cinematographer_emmanuel_lubezki",
@@ -1159,7 +1198,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_cinematographer_greig_fraser",
@@ -1188,7 +1228,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_cinematographer_christopher_doyle",
@@ -1217,7 +1258,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_concept_greg_rutkowski",
@@ -1246,7 +1288,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_concept_magali_villeneuve",
@@ -1275,7 +1318,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_concept_charlie_bowater",
@@ -1304,7 +1348,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_concept_sam_spratt",
@@ -1333,7 +1378,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_concept_ruan_jia",
@@ -1363,7 +1409,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_concept_ilya_kuvshinov",
@@ -1392,7 +1439,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_concept_wlop",
@@ -1421,7 +1469,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_concept_artgerm",
@@ -1451,7 +1500,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_illustrator_makoto_shinkai",
@@ -1480,7 +1530,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_illustrator_studio_ghibli",
@@ -1509,7 +1560,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_illustrator_alphonse_mucha",
@@ -1538,7 +1590,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_illustrator_carne_griffiths",
@@ -1567,7 +1620,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_illustrator_conrad_roset",
@@ -1596,7 +1650,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_illustrator_akihito_yoshida",
@@ -1625,7 +1680,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_illustrator_karol_bak",
@@ -1654,7 +1710,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_illustrator_ismail_inceoglu",
@@ -1683,7 +1740,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_illustrator_stefan_gesell",
@@ -1712,7 +1770,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_illustrator_andrew_atroshenko",
@@ -1741,7 +1800,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_illustrator_peter_gric",
@@ -1770,7 +1830,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_illustrator_ingrid_baars",
@@ -1799,7 +1860,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_illustrator_guido_van_helten",
@@ -1828,7 +1890,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_genre_shot_as_a_high_fashion_magazine_editoria",
@@ -1858,7 +1921,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_genre_shot_in_the_language_of_a_vogue_editoria",
@@ -1888,7 +1952,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_genre_shot_as_a_brand_lookbook_image",
@@ -1918,7 +1983,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_genre_composed_as_a_top_down_e_commerce_flat_l",
@@ -1948,7 +2014,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_genre_shot_as_a_beauty_editorial_close_up",
@@ -1978,7 +2045,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_genre_shot_in_the_language_of_a_jil_sander_edi",
@@ -2009,7 +2077,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_genre_shot_in_the_language_of_a_vivienne_tam_e",
@@ -2040,7 +2109,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_genre_shot_in_the_language_of_a_jacquemus_camp",
@@ -2070,7 +2140,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_genre_shot_in_the_signature_language_of_helmut",
@@ -2100,7 +2171,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_genre_shot_in_the_signature_language_of_a_harp",
@@ -2130,7 +2202,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_genre_shot_in_a_street_photography_idiom",
@@ -2160,7 +2233,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_genre_shot_as_editorial_photojournalism_with_a",
@@ -2191,7 +2265,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_genre_shot_as_a_polished_corporate_headshot",
@@ -2221,7 +2296,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_genre_shot_as_a_police_booking_mugshot",
@@ -2251,7 +2327,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_genre_shot_as_a_wedding_portrait",
@@ -2282,7 +2359,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_genre_shot_as_a_posed_family_portrait",
@@ -2312,7 +2390,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_genre_shot_as_a_glamour_portrait_with_soft_dif",
@@ -2342,7 +2421,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_genre_shot_in_a_film_noir_portrait_idiom",
@@ -2372,7 +2452,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_genre_shot_as_a_smartphone_mirror_selfie",
@@ -2402,7 +2483,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_genre_shot_as_a_gym_mirror_selfie",
@@ -2432,7 +2514,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_genre_shot_as_a_bathroom_mirror_selfie_with_a_",
@@ -2462,7 +2545,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_genre_shot_as_a_group_phone_selfie_taken_at_ar",
@@ -2492,7 +2576,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_genre_shot_as_professional_food_photography",
@@ -2523,7 +2608,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_genre_shot_as_a_clean_e_commerce_product_photo",
@@ -2553,7 +2639,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "photographer_portrait_studio",
@@ -2585,7 +2672,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "photographer_street_silhouette",
@@ -2617,6 +2705,7 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   }
 ]

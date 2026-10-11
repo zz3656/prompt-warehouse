@@ -26,7 +26,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_major_earthquake_earthquake_major",
@@ -55,7 +56,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_building_collapse_building_collapse",
@@ -84,7 +86,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_tsunami_wave_tsunami_wave",
@@ -113,7 +116,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_tornado_tornado",
@@ -142,7 +146,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_hurricane_hurricane",
@@ -171,7 +176,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_blizzard_whiteout_blizzard_whiteout",
@@ -200,7 +206,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_sandstorm_sandstorm",
@@ -229,7 +236,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_dust_storm_haboob_dust_storm_haboob",
@@ -258,7 +266,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_distant_wildfire_wildfire_distant",
@@ -287,7 +296,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_engulfing_wildfire_wildfire_engulfing",
@@ -316,7 +326,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_volcanic_eruption_volcanic_eruption",
@@ -346,7 +357,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_lava_flow_lava_flow",
@@ -375,7 +387,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_falling_ash_rain_ash_rain",
@@ -404,7 +417,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_avalanche_avalanche",
@@ -433,7 +447,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_hailstorm_hailstorm",
@@ -462,7 +477,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_small_explosion_explosion_small",
@@ -491,7 +507,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_large_explosion_explosion_large",
@@ -520,7 +537,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_massive_explosion_explosion_massive",
@@ -549,7 +567,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_nuclear_detonation_nuclear_detonation",
@@ -578,7 +597,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_airborne_fireball_fireball_airborne",
@@ -607,7 +627,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_gas_explosion_gas_explosion",
@@ -636,7 +657,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_oil_fire_oil_fire",
@@ -665,7 +687,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_blazing_inferno_blazing_inferno",
@@ -694,7 +717,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_flame_burst_flame_burst",
@@ -723,7 +747,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_ember_shower_ember_shower",
@@ -752,7 +777,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_smoke_pillar_smoke_pillar",
@@ -781,7 +807,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_mushroom_cloud_mushroom_cloud",
@@ -810,7 +837,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_lightning_bolt_lightning_bolt",
@@ -839,7 +867,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_lightning_strike_impact_lightning_strike_impact",
@@ -868,7 +897,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_lightning_storm_lightning_storm",
@@ -897,7 +927,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_ball_lightning_ball_lightning",
@@ -926,7 +957,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_plasma_arc_plasma_arc",
@@ -955,7 +987,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_taser_sparks_taser_sparks",
@@ -984,7 +1017,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_electric_discharge_electric_discharge",
@@ -1013,7 +1047,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_transformer_blowout_transformer_blowout",
@@ -1042,7 +1077,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_st_elmo_s_fire_st_elmos_fire",
@@ -1071,7 +1107,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_static_shock_burst_static_shock_burst",
@@ -1100,7 +1137,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_muzzle_flash_muzzle_flash",
@@ -1129,7 +1167,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_gunshot_impact_gunshot_impact",
@@ -1158,7 +1197,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_bullet_trail_bullet_trail",
@@ -1187,7 +1227,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_sword_spark_sword_spark",
@@ -1216,7 +1257,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_blade_clash_blade_clash",
@@ -1245,7 +1287,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_ricochet_spark_ricochet_spark",
@@ -1274,7 +1317,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_debris_field_debris_field",
@@ -1303,7 +1347,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_airborne_glass_shatter_glass_shatter_airborne",
@@ -1332,7 +1377,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_ground_shockwave_shockwave_ground",
@@ -1361,7 +1407,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_sonic_boom_sonic_boom",
@@ -1390,7 +1437,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_smoke_grenade_smoke_grenade",
@@ -1419,7 +1467,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_flashbang_flashbang",
@@ -1448,7 +1497,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_blood_spray_blood_spray",
@@ -1477,7 +1527,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_arrow_hit_spark_arrow_hit_spark",
@@ -1506,7 +1557,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_laser_blast_laser_blast",
@@ -1535,7 +1587,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_energy_beam_energy_beam",
@@ -1564,7 +1617,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_plasma_bolt_plasma_bolt",
@@ -1593,7 +1647,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_force_field_shimmer_force_field_shimmer",
@@ -1622,7 +1677,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_force_field_impact_force_field_impact",
@@ -1651,7 +1707,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_portal_opening_portal_opening",
@@ -1680,7 +1737,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_warp_distortion_warp_distortion",
@@ -1709,7 +1767,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_hologram_flicker_hologram_flicker",
@@ -1738,7 +1797,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_ion_storm_ion_storm",
@@ -1767,7 +1827,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_antimatter_flash_antimatter_flash",
@@ -1796,7 +1857,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_fireball_spell_fireball_spell",
@@ -1825,7 +1887,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_magic_aura_magic_aura",
@@ -1854,7 +1917,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_summoning_glyph_summoning_glyph",
@@ -1883,7 +1947,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_lightning_magic_lightning_magic",
@@ -1912,7 +1977,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_ice_shard_burst_ice_shard_burst",
@@ -1941,7 +2007,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_energy_rune_energy_rune",
@@ -1970,7 +2037,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_magic_portal_portal_magic",
@@ -2000,7 +2068,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_healing_glow_healing_glow",
@@ -2029,7 +2098,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_dark_vortex_dark_vortex",
@@ -2058,7 +2128,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_light_explosion_light_explosion",
@@ -2087,7 +2158,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "action_fx_magic_circle_ritual",
@@ -2119,7 +2191,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "action_fx_explosion_fireball",
@@ -2151,7 +2224,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "action_fx_wind_blade",
@@ -2183,6 +2257,7 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.65
   }
 ]

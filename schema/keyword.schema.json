@@ -214,6 +214,20 @@
         "variant"
       ],
       "description": "在 relation_group 中的角色：canonical 为主条目，variant 为变体"
+    },
+    "weight": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1,
+      "description": "组合权重，与 score 解耦。PanelCraft 排序用；缺失时回退到 score"
+    },
+    "is_negative": {
+      "type": "boolean",
+      "description": "true 表示负面词，PanelCraft 应走独立通道，不参与正面词排序"
+    },
+    "subcategory_group": {
+      "type": "string",
+      "description": "子分类的逻辑分组，用于 UI 归类。如 midjourney_v5 前缀的归为一组"
     }
   },
   "additionalProperties": true,

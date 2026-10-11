@@ -4,7 +4,13 @@
   "title": "PWS Prompt Bundle",
   "description": "A curated combination of keyword IDs, weights, and template references that form a reusable prompt recipe.",
   "type": "object",
-  "required": ["id", "name", "name_zh", "keywords", "version"],
+  "required": [
+    "id",
+    "name",
+    "name_zh",
+    "keywords",
+    "version"
+  ],
   "properties": {
     "id": {
       "type": "string",
@@ -44,69 +50,71 @@
     },
     "subcategories": {
       "type": "array",
-      "items": { "type": "string" },
+      "items": {
+        "type": "string"
+      },
       "description": "Tags for bundle discoverability."
     },
     "api_targets": {
       "type": "array",
       "items": {
         "type": "string",
-        "enum": ["SDXL", "Midjourney", "DALL-E", "Flux", "Stable Diffusion", "Minimax-H3", "Custom"]
+        "enum": [
+          "SDXL",
+          "Midjourney",
+          "DALL-E",
+          "Flux",
+          "Stable Diffusion",
+          "Minimax-H3",
+          "Custom"
+        ]
       },
       "description": "Target AI models this bundle works best with."
     },
     "keywords": {
       "type": "array",
-      "minItems": 1,
-      "description": "List of keyword references with optional weights and overrides.",
+      "description": "关键词列表，每项含 id 和 weight",
       "items": {
         "type": "object",
-        "required": ["id"],
         "properties": {
           "id": {
-            "type": "string",
-            "description": "Keyword ID from keywords/categories/*.json (e.g. 'quality_basic_masterpiece')."
+            "type": "string"
           },
           "weight": {
             "type": "number",
             "minimum": 0,
-            "maximum": 1,
-            "default": 0.5,
-            "description": "Keyword weight. 0.5 = default priority, 0.9+ = emphasize, 0.1 = background."
-          },
-          "force_include": {
-            "type": "boolean",
-            "default": false,
-            "description": "If true, always include this keyword regardless of context."
-          },
-          "fallback_term": {
-            "type": "string",
-            "description": "Fallback term text if the keyword ID doesn't resolve."
+            "maximum": 1
           }
-        }
+        },
+        "required": [
+          "id"
+        ]
       }
     },
     "templates": {
       "type": "array",
+      "description": "引用的模板，可以是字符串（template_id）或对象 {template_id, variant_id, variables}",
       "items": {
-        "type": "object",
-        "required": ["template_id"],
-        "properties": {
-          "template_id": {
-            "type": "string",
-            "description": "Template ID from templates/*.json (e.g. 'h3.video_prompts.cinematic_reveal')."
+        "oneOf": [
+          {
+            "type": "string"
           },
-          "variant_id": {
-            "type": "string",
-            "description": "Which variant within the template to use."
-          },
-          "variables": {
+          {
             "type": "object",
-            "description": "Override template variables with bundle-specific values."
+            "properties": {
+              "template_id": {
+                "type": "string"
+              },
+              "variant_id": {
+                "type": "string"
+              },
+              "variables": {
+                "type": "object"
+              }
+            }
           }
-        }
-      },
-      "description": "List of template references to combine with keywords."
+        ]
+      }
     },
     "prompt_text": {
       "type": "string",
@@ -117,26 +125,46 @@
       "type": "object",
       "description": "Example input/output showing how the bundle works.",
       "properties": {
-        "description": { "type": "string" },
-        "description_zh": { "type": "string" },
+        "description": {
+          "type": "string"
+        },
+        "description_zh": {
+          "type": "string"
+        },
         "input": {
           "type": "object",
           "properties": {
-            "subject": { "type": "string" },
-            "setting": { "type": "string" },
-            "additional": { "type": "object" }
+            "subject": {
+              "type": "string"
+            },
+            "setting": {
+              "type": "string"
+            },
+            "additional": {
+              "type": "object"
+            }
           }
         },
-        "output": { "type": "string" }
+        "output": {
+          "type": "string"
+        }
       }
     },
     "tags": {
       "type": "array",
-      "items": { "type": "string" }
+      "items": {
+        "type": "string"
+      }
     },
     "lifecycle": {
       "type": "string",
-      "enum": ["draft", "review", "approved", "deprecated", "archived"],
+      "enum": [
+        "draft",
+        "review",
+        "approved",
+        "deprecated",
+        "archived"
+      ],
       "default": "draft"
     },
     "score": {
@@ -149,8 +177,22 @@
       "type": "string",
       "maxLength": 2000
     },
-    "created_at": { "type": "string", "format": "date-time" },
-    "updated_at": { "type": "string", "format": "date-time" }
+    "created_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "bundle_type": {
+      "type": "string",
+      "enum": [
+        "keywords_only",
+        "with_template"
+      ],
+      "description": "纯关键词配方 or 含模板引用"
+    }
   },
   "additionalProperties": false
 }

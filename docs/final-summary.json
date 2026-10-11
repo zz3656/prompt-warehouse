@@ -1,0 +1,29 @@
+{
+  "version": "1.2.0",
+  "total_keywords": 6037,
+  "categories": 20,
+  "subcategories": 156,
+  "bundles": 12,
+  "templates_unique_ids": 15,
+  "templates_files": 17,
+  "coverage": {
+    "term_zh": 1.0,
+    "compatibility": 1.0,
+    "weight": 1.0,
+    "source": 1.0
+  },
+  "by_compatibility": {
+    "sdxl": 6025,
+    "midjourney": 6025,
+    "flux": 1849,
+    "kling": 12,
+    "runway": 12,
+    "minimax_h3": 12
+  },
+  "is_negative_count": 103,
+  "with_relation_group": 314,
+  "lifecycle": {
+    "approved": 5919,
+    "deprecated": 118
+  }
+}

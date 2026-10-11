@@ -33,7 +33,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.8,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_cinematic",
@@ -71,7 +73,9 @@
       "midjourney"
     ],
     "relation_group": "cinematic",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.8,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_cinematic_haze",
@@ -107,7 +111,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.8,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_depth_of_field",
@@ -145,7 +151,9 @@
       "midjourney"
     ],
     "relation_group": "depth of field",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.8,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_dramatic",
@@ -181,7 +189,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.8,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_golden_hour",
@@ -219,7 +229,9 @@
       "midjourney"
     ],
     "relation_group": "golden hour",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.8,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_10_megapixels",
@@ -256,7 +268,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_1000x_magnification",
@@ -293,7 +307,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_100mm_lens",
@@ -329,7 +345,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_100x_magnification",
@@ -366,7 +384,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_12_megapixels",
@@ -403,7 +423,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_15mm_lens",
@@ -440,7 +462,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_16_megapixels",
@@ -477,7 +501,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_2_megapixels",
@@ -514,7 +540,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_20_megapixels",
@@ -551,7 +579,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_200mm_lens",
@@ -589,7 +619,9 @@
       "midjourney"
     ],
     "relation_group": "200mm lens",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_200x_magnification",
@@ -626,7 +658,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_22_megapixels",
@@ -663,7 +697,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_35mm",
@@ -699,7 +735,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_35mm_lens",
@@ -738,7 +776,9 @@
       "midjourney"
     ],
     "relation_group": "35mm lens",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_360_angle",
@@ -774,7 +814,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_360_panorama",
@@ -811,7 +853,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_500x_magnification",
@@ -848,7 +892,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_85mm_lens",
@@ -887,7 +933,9 @@
       "midjourney"
     ],
     "relation_group": "85mm lens",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_accelerated_perspective",
@@ -924,7 +972,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_action_scene",
@@ -960,7 +1010,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_aerial_perspective",
@@ -997,7 +1049,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_aerial_view",
@@ -1034,7 +1088,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_ambrotype",
@@ -1069,7 +1125,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_anamorphosis",
@@ -1106,7 +1164,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_aperture",
@@ -1142,7 +1202,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_arched",
@@ -1179,7 +1241,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_archimedean_spiral",
@@ -1215,7 +1279,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_arciform",
@@ -1252,7 +1318,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_arrondi",
@@ -1289,7 +1357,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_associated_press_photo",
@@ -1324,7 +1394,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_astronomical_filter",
@@ -1360,7 +1432,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_award_winning_photography",
@@ -1396,7 +1470,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_axonometric",
@@ -1433,7 +1509,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_axonometric_projection",
@@ -1470,7 +1548,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_bezier_curve",
@@ -1506,7 +1586,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_biflected",
@@ -1543,7 +1625,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_blue_hour",
@@ -1581,7 +1665,9 @@
       "midjourney"
     ],
     "relation_group": "blue hour",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_brenizer_method",
@@ -1617,7 +1703,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_calotype",
@@ -1653,7 +1741,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_camcorder_effect",
@@ -1688,7 +1778,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_cctv",
@@ -1724,7 +1816,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_celtic_knot",
@@ -1761,7 +1855,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_centered_shot",
@@ -1798,7 +1894,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_cinemascope",
@@ -1833,7 +1931,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_cinemiracle",
@@ -1869,7 +1969,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_cinerama",
@@ -1904,7 +2006,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_circinate",
@@ -1941,7 +2045,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_circle",
@@ -1978,7 +2084,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_circular",
@@ -2015,7 +2123,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_claymation",
@@ -2051,7 +2161,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_closed_composition",
@@ -2087,7 +2199,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_closeup",
@@ -2124,7 +2238,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_closeup_view",
@@ -2161,7 +2277,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_coiled",
@@ -2198,7 +2316,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_cokin_filter",
@@ -2234,7 +2354,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_color_gel",
@@ -2270,7 +2392,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_color_grading",
@@ -2306,7 +2430,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_concentric",
@@ -2343,7 +2469,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_concentric_circles",
@@ -2380,7 +2508,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_concentric_rings",
@@ -2417,7 +2547,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_concentric_spheres",
@@ -2454,7 +2586,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_contour",
@@ -2491,7 +2625,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_cross_section",
@@ -2528,7 +2664,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_curlicue",
@@ -2565,7 +2703,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_curvaceous",
@@ -2602,7 +2742,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_curve",
@@ -2639,7 +2781,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_curvilinear",
@@ -2676,7 +2820,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_curvilinear_perspective",
@@ -2713,7 +2859,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_cutaway",
@@ -2750,7 +2898,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_cutaway_drawing",
@@ -2787,7 +2937,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_cutaway_view",
@@ -2824,7 +2976,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_cylindrical_perspective",
@@ -2861,7 +3015,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_daguerrotype",
@@ -2897,7 +3053,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_dashcam_footage",
@@ -2932,7 +3090,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_declinate",
@@ -2969,7 +3129,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_deep_focus",
@@ -3005,7 +3167,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_deflate",
@@ -3042,7 +3206,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_defocused",
@@ -3078,7 +3244,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_depth",
@@ -3114,7 +3282,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_dichroic_filter",
@@ -3150,7 +3320,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_diffusion_filter",
@@ -3186,7 +3358,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_dimetric_projection",
@@ -3222,7 +3396,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_dimpled",
@@ -3259,7 +3435,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_disposable_camera",
@@ -3294,7 +3472,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_disposable_camera_photo",
@@ -3329,7 +3509,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_divergent_perspective",
@@ -3366,7 +3548,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_dof",
@@ -3402,7 +3586,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_dolly_zoom",
@@ -3439,7 +3625,9 @@
       "midjourney"
     ],
     "relation_group": "dolly zoom",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_double_exposure",
@@ -3477,7 +3665,9 @@
       "midjourney"
     ],
     "relation_group": "double exposure",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_double_helix",
@@ -3514,7 +3704,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_doyle_spiral",
@@ -3550,7 +3742,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_drone_photography",
@@ -3586,7 +3780,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_dslr",
@@ -3622,7 +3818,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_editorial_photography",
@@ -3658,7 +3856,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_ektachrome",
@@ -3693,7 +3893,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_electron_microscope",
@@ -3728,7 +3930,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_enbowed",
@@ -3765,7 +3969,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_entangled",
@@ -3802,7 +4008,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_entanglement",
@@ -3839,7 +4047,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_epic_wide_shot",
@@ -3876,7 +4086,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_establishing_shot",
@@ -3913,7 +4125,9 @@
       "midjourney"
     ],
     "relation_group": "establishing shot",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_euler_spiral",
@@ -3950,7 +4164,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_expired_35mm_film",
@@ -3987,7 +4203,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_expired_65mm_film",
@@ -4024,7 +4242,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_exploded_view",
@@ -4061,7 +4281,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_exploded_view_drawing",
@@ -4098,7 +4320,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_exposure",
@@ -4134,7 +4358,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_extreme_closeup",
@@ -4171,7 +4397,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_f2_8",
@@ -4207,7 +4435,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_f22",
@@ -4243,7 +4473,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_fermats_spiral",
@@ -4280,7 +4512,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_field_of_view",
@@ -4317,7 +4551,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_film_grain",
@@ -4355,7 +4591,9 @@
       "midjourney"
     ],
     "relation_group": "film grain",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_film_negative",
@@ -4391,7 +4629,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_filmic",
@@ -4427,7 +4667,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_filter",
@@ -4463,7 +4705,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_first_person",
@@ -4500,7 +4744,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_first_person_view",
@@ -4536,7 +4782,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_fisheye_lens",
@@ -4574,7 +4822,9 @@
       "midjourney"
     ],
     "relation_group": "fisheye lens",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_fisheye_lens_effect",
@@ -4610,7 +4860,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_focal_point",
@@ -4646,7 +4898,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_forced_perspective",
@@ -4683,7 +4937,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_fujifilm_superia",
@@ -4719,7 +4975,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_full_body_portrait",
@@ -4755,7 +5013,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_full_frame",
@@ -4791,7 +5051,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_gamma",
@@ -4826,7 +5088,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_gesture",
@@ -4862,7 +5126,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_glamor_shot",
@@ -4898,7 +5164,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_gnd_filter",
@@ -4933,7 +5201,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_golden_spiral",
@@ -4970,7 +5240,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_gopro_video",
@@ -5006,7 +5278,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_graduated_neutral_density_filter",
@@ -5041,7 +5315,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_helix",
@@ -5078,7 +5354,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geometry_hexagonal",
@@ -5115,7 +5393,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_high_angle",
@@ -5152,7 +5432,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_high_speed_photograph",
@@ -5187,7 +5469,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_hollow",
@@ -5224,7 +5508,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_horizon_line",
@@ -5260,7 +5546,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_hyperbolic_spiral",
@@ -5297,7 +5585,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_hyperspectral_imaging",
@@ -5332,7 +5622,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_ilford_hp5",
@@ -5369,7 +5661,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_incline",
@@ -5406,7 +5700,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_incurvate",
@@ -5443,7 +5739,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_incurved",
@@ -5480,7 +5778,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_inflate",
@@ -5517,7 +5817,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_infrared_cut_off_filter",
@@ -5552,7 +5854,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_infrared_filter",
@@ -5588,7 +5892,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_instax",
@@ -5624,7 +5930,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_inverse_perspective",
@@ -5661,7 +5969,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_inverted_perspective",
@@ -5698,7 +6008,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_isometric",
@@ -5735,7 +6047,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_kinopanorama",
@@ -5771,7 +6085,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geometry_klein_bottle",
@@ -5808,7 +6124,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_knot",
@@ -5844,7 +6162,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_kodak_ektar",
@@ -5880,7 +6200,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_kodak_gold_200",
@@ -5916,7 +6238,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_kodak_portra",
@@ -5952,7 +6276,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_lens_distortion",
@@ -5988,7 +6314,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_lens_flare",
@@ -6026,7 +6354,9 @@
       "midjourney"
     ],
     "relation_group": "lens flare",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_linear_perspective",
@@ -6063,7 +6393,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_logarithmic_spiral",
@@ -6100,7 +6432,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_lomo",
@@ -6136,7 +6470,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_long_exposure",
@@ -6172,7 +6508,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_loop_de_loop",
@@ -6208,7 +6546,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_loopy",
@@ -6245,7 +6585,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_low_angle",
@@ -6282,7 +6624,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_macro",
@@ -6318,7 +6662,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_macro_view",
@@ -6354,7 +6700,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_magnification",
@@ -6390,7 +6738,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_megapixel",
@@ -6426,7 +6776,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_microscopic",
@@ -6462,7 +6814,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_miniature_faking",
@@ -6498,7 +6852,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_motion_capture",
@@ -6534,7 +6890,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_multispectral_imaging",
@@ -6569,7 +6927,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_multiview_projection",
@@ -6605,7 +6965,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_national_geographic_photo",
@@ -6640,7 +7002,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_nd_filter",
@@ -6677,7 +7041,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_neutral_density_filter",
@@ -6712,7 +7078,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_night_vision",
@@ -6748,7 +7116,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_nightography",
@@ -6784,7 +7154,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_nikon_d750",
@@ -6821,7 +7193,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_oblique",
@@ -6858,7 +7232,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_oblique_projection",
@@ -6895,7 +7271,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_one_point_perspective",
@@ -6932,7 +7310,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_orbicular",
@@ -6969,7 +7349,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_orthographic",
@@ -7006,7 +7388,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_pan",
@@ -7042,7 +7426,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_panavision",
@@ -7078,7 +7464,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_panini_projection",
@@ -7114,7 +7502,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_panorama",
@@ -7150,7 +7540,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_paparazzi_photography",
@@ -7185,7 +7577,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_parallel_projection",
@@ -7222,7 +7616,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_perspective",
@@ -7258,7 +7654,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_perspective_projection",
@@ -7295,7 +7693,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_photogram",
@@ -7330,7 +7730,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_photograph",
@@ -7368,7 +7770,9 @@
       "midjourney"
     ],
     "relation_group": "photograph",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_photographia",
@@ -7404,7 +7808,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_photographic_filter",
@@ -7440,7 +7846,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_photography",
@@ -7476,7 +7884,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_photojournalism",
@@ -7512,7 +7922,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_photoshoot",
@@ -7548,7 +7960,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_pinhole_photography",
@@ -7584,7 +7998,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_pointed",
@@ -7621,7 +8037,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_pointy",
@@ -7657,7 +8075,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_polarization_filter",
@@ -7693,7 +8113,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_polarizer",
@@ -7729,7 +8151,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_polaroid",
@@ -7765,7 +8189,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geometry_polygonal",
@@ -7802,7 +8228,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_portrait",
@@ -7840,7 +8268,9 @@
       "midjourney"
     ],
     "relation_group": "portrait",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_portraiture",
@@ -7876,7 +8306,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_pose",
@@ -7912,7 +8344,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_pretzel_knot",
@@ -7948,7 +8382,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_product_view",
@@ -7985,7 +8421,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_profile",
@@ -8021,7 +8459,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_provia",
@@ -8057,7 +8497,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_rack_focus",
@@ -8093,7 +8535,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_rephotography",
@@ -8129,7 +8573,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_reverse_perspective",
@@ -8166,7 +8612,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_ripple",
@@ -8203,7 +8651,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_rounded",
@@ -8240,7 +8690,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_rule_of_thirds",
@@ -8278,7 +8730,9 @@
       "midjourney"
     ],
     "relation_group": "rule of thirds",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_satellite_imagery",
@@ -8314,7 +8768,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_satellite_view",
@@ -8351,7 +8807,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_scanography",
@@ -8387,7 +8845,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_scene",
@@ -8423,7 +8883,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_schlieren",
@@ -8459,7 +8921,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_security_footage",
@@ -8495,7 +8959,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_selfie",
@@ -8532,7 +8998,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_serpentine",
@@ -8569,7 +9037,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_shallow_focus",
@@ -8605,7 +9075,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_short_exposure",
@@ -8641,7 +9113,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_shot_on_16mm",
@@ -8678,7 +9152,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_shot_on_17_5mm",
@@ -8714,7 +9190,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_shot_on_28mm",
@@ -8751,7 +9229,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_shot_on_35mm",
@@ -8788,7 +9268,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_shot_on_65mm",
@@ -8825,7 +9307,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_shot_on_70mm",
@@ -8862,7 +9346,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_shot_on_8mm",
@@ -8899,7 +9385,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_shot_on_9_5mm",
@@ -8935,7 +9423,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_shot_on_imax_70mm",
@@ -8973,7 +9463,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_shutter_speed_11000",
@@ -9009,7 +9501,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_shutter_speed_12",
@@ -9046,7 +9540,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_side_view",
@@ -9083,7 +9579,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_sigmoid",
@@ -9119,7 +9617,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_sinuous",
@@ -9156,7 +9656,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_slit_scan_photography",
@@ -9191,7 +9693,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_soft_focus",
@@ -9227,7 +9731,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geometry_sphere",
@@ -9264,7 +9770,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_spherical",
@@ -9301,7 +9809,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_spherize",
@@ -9338,7 +9848,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_spiral",
@@ -9375,7 +9887,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_spiral_of_theodorus",
@@ -9411,7 +9925,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_spiral_staircase",
@@ -9448,7 +9964,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_spiral_stairs",
@@ -9485,7 +10003,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_spiraling",
@@ -9522,7 +10042,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_split_diopter",
@@ -9558,7 +10080,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_split_toning",
@@ -9594,7 +10118,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_squiggly",
@@ -9631,7 +10157,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_stop_motion",
@@ -9667,7 +10195,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_stop_motion_animation_frame",
@@ -9703,7 +10233,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_subject",
@@ -9739,7 +10271,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_super_35",
@@ -9775,7 +10309,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_super_panavision_70",
@@ -9811,7 +10347,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_super_resolution_microscopy",
@@ -9846,7 +10384,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_surveillance",
@@ -9882,7 +10422,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_surveillance_footage",
@@ -9918,7 +10460,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_technirama",
@@ -9954,7 +10498,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_techniscope",
@@ -9989,7 +10535,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_telephoto",
@@ -10025,7 +10573,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_telescope",
@@ -10061,7 +10611,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_telescope_photography",
@@ -10096,7 +10648,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_telescopic",
@@ -10132,7 +10686,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_third_person",
@@ -10169,7 +10725,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_third_person_view",
@@ -10205,7 +10763,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_three_point_perspective",
@@ -10242,7 +10802,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_tilt",
@@ -10278,7 +10840,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_tilted_plane_focus",
@@ -10314,7 +10878,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_tiltshift",
@@ -10350,7 +10916,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_time_lapse",
@@ -10386,7 +10954,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_tintype",
@@ -10422,7 +10992,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_top_view",
@@ -10459,7 +11031,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_tri_x_400_tx",
@@ -10496,7 +11070,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_trimetric_projection",
@@ -10532,7 +11108,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_triskelion",
@@ -10569,7 +11147,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_twisted",
@@ -10606,7 +11186,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_two_point_perspective",
@@ -10643,7 +11225,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_ultra_wide_angle",
@@ -10679,7 +11263,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_underwater_photography",
@@ -10715,7 +11301,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_unfocused",
@@ -10751,7 +11339,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_unknot",
@@ -10788,7 +11378,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_unregistered_hypercam_2",
@@ -10824,7 +11416,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_uv_filter",
@@ -10861,7 +11455,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_vanishing_point",
@@ -10897,7 +11493,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_vantage_point",
@@ -10933,7 +11531,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_velvia",
@@ -10969,7 +11569,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_video_frame_capture",
@@ -11004,7 +11606,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_view_from_an_airplane",
@@ -11041,7 +11645,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_vignette",
@@ -11077,7 +11683,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_vistavision",
@@ -11113,7 +11721,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_war_photography",
@@ -11149,7 +11759,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_wave",
@@ -11186,7 +11798,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_wavy",
@@ -11223,7 +11837,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_whirl",
@@ -11260,7 +11876,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_white_balance",
@@ -11296,7 +11914,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_wide_angle",
@@ -11332,7 +11952,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_wide_shot",
@@ -11369,7 +11991,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_wildlife_photography",
@@ -11404,7 +12028,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_perspective_worms_eye_view",
@@ -11441,7 +12067,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_structure_zig_zag",
@@ -11478,7 +12106,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_camera_zoom",
@@ -11514,7 +12144,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "composition_lens_anamorphic_lens",
@@ -11549,7 +12181,8 @@
       "flux"
     ],
     "relation_group": "anamorphic lens",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "composition_rules_asymmetrical_balance",
@@ -11582,7 +12215,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_angles_back_view",
@@ -11616,7 +12250,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_lens_background_blur",
@@ -11650,7 +12285,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_angles_bird_s_eye_view",
@@ -11684,7 +12320,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_lens_blurred_background",
@@ -11718,7 +12355,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_lens_bokeh",
@@ -11753,7 +12391,8 @@
       "midjourney",
       "flux"
     ],
-    "alias_of": "mj_mj_v5_camera_bokeh"
+    "alias_of": "mj_mj_v5_camera_bokeh",
+    "weight": 0.7
   },
   {
     "id": "composition_rules_centered_composition",
@@ -11787,7 +12426,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_lens_creamy_bokeh",
@@ -11821,7 +12461,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_lens_depth_of_field",
@@ -11857,7 +12498,8 @@
       "flux"
     ],
     "relation_group": "depth of field",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "composition_angles_dutch_angle",
@@ -11893,7 +12535,8 @@
       "flux"
     ],
     "relation_group": "dutch angle",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "composition_rules_dynamic_composition",
@@ -11927,7 +12570,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_rules_filling_the_frame",
@@ -11961,7 +12605,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_lens_fisheye_lens",
@@ -11997,7 +12642,8 @@
       "flux"
     ],
     "relation_group": "fisheye lens",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "composition_angles_fourth_view",
@@ -12031,7 +12677,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_angles_front_view",
@@ -12065,7 +12712,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_rules_golden_ratio",
@@ -12099,7 +12747,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_angles_hero_shot",
@@ -12133,7 +12782,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_rules_leading_lines",
@@ -12167,7 +12817,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_angles_looking_down",
@@ -12203,7 +12854,8 @@
       "flux"
     ],
     "relation_group": "looking down",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "composition_angles_looking_up",
@@ -12239,7 +12891,8 @@
       "flux"
     ],
     "relation_group": "looking up",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "composition_angles_low_angle_view",
@@ -12273,7 +12926,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_lens_macro_shot",
@@ -12309,7 +12963,8 @@
       "flux"
     ],
     "relation_group": "macro shot",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "composition_rules_negative_space",
@@ -12345,7 +13000,8 @@
       "flux"
     ],
     "relation_group": "negative space",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "composition_rules_rule_of_thirds",
@@ -12381,7 +13037,8 @@
       "flux"
     ],
     "relation_group": "rule of thirds",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "composition_lens_shot_on_135mm_lens",
@@ -12414,7 +13071,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_lens_shot_on_35mm_lens",
@@ -12447,7 +13105,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_lens_shot_on_50mm_lens",
@@ -12481,7 +13140,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_lens_shot_on_85mm_lens",
@@ -12515,7 +13175,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_angles_side_profile",
@@ -12549,7 +13210,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_rules_symmetrical_composition",
@@ -12585,7 +13247,8 @@
       "flux"
     ],
     "relation_group": "symmetrical composition",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "composition_angles_three_quarter_view",
@@ -12618,7 +13281,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_lens_tilt_shift",
@@ -12652,7 +13316,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_angles_top_down_angle",
@@ -12686,7 +13351,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_angles_viewed_from_above",
@@ -12720,7 +13386,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_angles_worm_s_eye_view",
@@ -12754,7 +13421,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_lens_14mm_ultra_wide_lens",
@@ -12785,7 +13453,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_lens_24mm_wide_angle_lens",
@@ -12818,7 +13487,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_lens_35mm_standard_lens",
@@ -12851,7 +13521,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_lens_50mm_normal_lens",
@@ -12884,7 +13555,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_lens_85mm_portrait_lens",
@@ -12915,7 +13587,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_lens_135mm_telephoto_lens",
@@ -12947,7 +13620,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_lens_400mm_super_telephoto_lens",
@@ -12979,7 +13653,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_lens_macro_lens",
@@ -13013,7 +13688,8 @@
       "flux"
     ],
     "relation_group": "macro lens",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "composition_lens_probe_lens_shot",
@@ -13044,7 +13720,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_lens_cctv_surveillance_camera_look",
@@ -13076,7 +13753,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_lens_tilt_shift_lens",
@@ -13109,7 +13787,8 @@
       "flux"
     ],
     "relation_group": "tilt-shift lens",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "composition_lens_shallow_depth_of_field_2",
@@ -13143,7 +13822,8 @@
       "flux"
     ],
     "relation_group": "shallow depth of field",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "composition_lens_shot_on_a_vintage_canon_k35_cinema_prime",
@@ -13176,7 +13856,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_lens_shot_on_a_cooke_s4_cinema_prime",
@@ -13208,7 +13889,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_lens_vintage_helios_44_lens_swirly_bokeh",
@@ -13239,7 +13921,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_lens_petzval_portrait_lens_swirling_bokeh",
@@ -13270,7 +13953,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_shot_on_35mm_film",
@@ -13303,7 +13987,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_shot_on_16mm_film",
@@ -13336,7 +14021,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_super_8mm_film",
@@ -13369,7 +14055,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_shot_on_imax_70mm_film",
@@ -13403,7 +14090,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_shot_in_anamorphic_scope",
@@ -13434,7 +14122,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_shot_on_arri_alexa",
@@ -13467,7 +14156,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_shot_on_an_arri_alexa_65_large_format_ci",
@@ -13500,7 +14190,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_shot_on_a_sony_venice_full_frame_cinema",
@@ -13532,7 +14223,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_shot_on_a_blackmagic_pocket_cinema_camer",
@@ -13565,7 +14257,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_red_komodo_cinema_camera",
@@ -13596,7 +14289,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_shot_on_dslr",
@@ -13627,7 +14321,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_shot_on_a_sony_a7iii_mirrorless_camera",
@@ -13659,7 +14354,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_shot_on_a_canon_eos_r5_mirrorless_camera",
@@ -13692,7 +14388,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_shot_on_a_hasselblad_medium_format_camer",
@@ -13723,7 +14420,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_shot_on_a_leica_m_series_rangefinder",
@@ -13754,7 +14452,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_voigtlander_rangefinder",
@@ -13785,7 +14484,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_shot_on_a_fujifilm_x_t4",
@@ -13818,7 +14518,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_aerial_drone_footage",
@@ -13849,7 +14550,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_shot_on_a_gopro_action_camera",
@@ -13880,7 +14582,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_webcam_video_call_footage",
@@ -13912,7 +14615,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_shot_on_vhs",
@@ -13945,7 +14649,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_90s_consumer_camcorder",
@@ -13977,7 +14682,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_polaroid_instant_film",
@@ -14009,7 +14715,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_shot_on_fujifilm_instax_instant_film",
@@ -14041,7 +14748,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_shot_on_a_single_use_disposable_film_cam",
@@ -14072,7 +14780,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_holga_toy_camera",
@@ -14103,7 +14812,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_tintype_wet_plate_collodion",
@@ -14134,7 +14844,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_1840s_daguerreotype_photograph",
@@ -14166,7 +14877,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_cctv_security_camera_footage",
@@ -14198,7 +14910,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_black_and_white_film",
@@ -14230,7 +14943,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_format_iphone_camera_footage",
@@ -14261,7 +14975,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_locked_off_static_camera",
@@ -14292,7 +15007,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_handheld_camera",
@@ -14324,7 +15040,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_smooth_steadicam_shot",
@@ -14355,7 +15072,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_the_camera_stays_in_exactly_the_same_pos",
@@ -14386,7 +15104,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_the_camera_stays_in_exactly_the_same_pos_3",
@@ -14417,7 +15136,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_the_camera_is_locked_to_a_tripod_head_at",
@@ -14448,7 +15168,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_the_camera_is_locked_to_a_tripod_planted",
@@ -14479,7 +15200,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_the_camera_glides_steadily_forward_throu",
@@ -14510,7 +15232,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_the_camera_glides_steadily_backward_thro",
@@ -14541,7 +15264,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_two_opposite_things_happen_at_once",
@@ -14572,7 +15296,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_fast_push_in",
@@ -14604,7 +15329,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_fast_pull_out",
@@ -14636,7 +15362,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_the_camera_breathes_it_drifts_gently_for",
@@ -14667,7 +15394,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_push_pull_swing",
@@ -14699,7 +15427,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_slow_creeping_push_in",
@@ -14731,7 +15460,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_slow_creeping_pull_out",
@@ -14763,7 +15493,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_the_camera_glides_steadily_sideways_to_t",
@@ -14794,7 +15525,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_the_camera_glides_steadily_sideways_to_t_2",
@@ -14825,7 +15557,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_the_camera_is_mounted_on_a_column_that_r",
@@ -14856,7 +15589,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_the_camera_is_mounted_on_a_column_that_l",
@@ -14887,7 +15621,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_camera_rolls_counterclockwise_around_the",
@@ -14918,7 +15653,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_camera_rolls_clockwise_around_the_lens_a",
@@ -14949,7 +15685,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_the_shot_begins_level",
@@ -14981,7 +15718,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_full_360_degree_camera_roll",
@@ -15013,7 +15751,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_camera_orbits_around_the_subject_in_a_ci",
@@ -15044,7 +15783,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_slow_camera_arc_around_the_subject_throu",
@@ -15075,7 +15815,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_the_camera_slowly_moves_sideways_to_the",
@@ -15106,7 +15847,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_full_orbit_one_complete_circle_around_th",
@@ -15137,7 +15879,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_the_camera_is_carried_on_the_end_of_a_lo",
@@ -15168,7 +15911,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_boom_up",
@@ -15200,7 +15944,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_boom_down",
@@ -15232,7 +15977,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_tracking_shot",
@@ -15266,7 +16012,8 @@
       "flux"
     ],
     "relation_group": "tracking shot",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_follow_shot_from_behind",
@@ -15298,7 +16045,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_leading_tracking_shot",
@@ -15330,7 +16078,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_aerial_drone_follow_shot",
@@ -15361,7 +16110,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_parallel_dolly_tracking_shot",
@@ -15393,7 +16143,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_smooth_gimbal_walking_shot",
@@ -15424,7 +16175,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_slow_gliding_gimbal_move",
@@ -15455,7 +16207,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_serpentine_tracking_shot",
@@ -15487,7 +16240,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_first_person_pov_shot",
@@ -15521,7 +16275,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_over_the_shoulder_shot",
@@ -15553,7 +16308,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_bird_s_eye_view",
@@ -15585,7 +16341,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_worm_s_eye_view",
@@ -15617,7 +16374,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_high_altitude_aerial_drone_shot",
@@ -15648,7 +16406,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_sweeping_helicopter_aerial_shot",
@@ -15680,7 +16439,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_low_aerial_fly_over_pass",
@@ -15712,7 +16472,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_flythrough_shot",
@@ -15744,7 +16505,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_rising_reveal_shot",
@@ -15775,7 +16537,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_body_mounted_snorricam_shot",
@@ -15806,7 +16569,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_the_camera_itself_never_moves",
@@ -15837,7 +16601,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_handheld_vlog_style_camera",
@@ -15868,7 +16633,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_first_person_walking_pov",
@@ -15899,7 +16665,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_rapid_speed_ramped_camera_move",
@@ -15930,7 +16697,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_a_match_cut_built_on_a_zoom",
@@ -15961,7 +16729,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_abrupt_snap_cut_transition",
@@ -15993,7 +16762,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_fast_flip_cut_transition",
@@ -16025,7 +16795,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_slow_gentle_camera_drift",
@@ -16056,7 +16827,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_camera_motions_lateral_parallax_camera_move",
@@ -16087,7 +16859,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_framing_close_up_portrait",
@@ -16120,7 +16893,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_framing_from_thighs_up",
@@ -16152,7 +16926,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_framing_full_body_shot",
@@ -16185,7 +16960,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "composition_framing_head_and_shoulders",
@@ -16217,7 +16993,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_shot_size_extreme_wide_shot",
@@ -16248,7 +17025,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_shot_size_wide_shot",
@@ -16280,7 +17058,8 @@
       "midjourney",
       "flux"
     ],
-    "alias_of": "mj_mj_v5_perspective_wide_shot"
+    "alias_of": "mj_mj_v5_perspective_wide_shot",
+    "weight": 0.7
   },
   {
     "id": "framing_shot_size_medium_wide_shot",
@@ -16311,7 +17090,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_shot_size_medium_shot",
@@ -16344,7 +17124,8 @@
       "flux"
     ],
     "relation_group": "medium shot",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "framing_shot_size_medium_close_up",
@@ -16377,7 +17158,8 @@
       "flux"
     ],
     "relation_group": "medium close-up",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "framing_shot_size_close_up",
@@ -16410,7 +17192,8 @@
       "flux"
     ],
     "relation_group": "close-up shot",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "framing_shot_size_extreme_close_up",
@@ -16443,7 +17226,8 @@
       "flux"
     ],
     "relation_group": "extreme close-up",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "framing_shot_size_ecu_eye",
@@ -16474,7 +17258,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_shot_size_ecu_mouth",
@@ -16505,7 +17290,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_shot_size_ecu_hands",
@@ -16536,7 +17322,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_shot_size_big_close_up",
@@ -16567,7 +17354,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_shot_size_choker",
@@ -16599,7 +17387,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_shot_size_italian_shot",
@@ -16630,7 +17419,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_shot_size_insert",
@@ -16661,7 +17451,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_shot_size_macro",
@@ -16694,7 +17485,8 @@
       "flux"
     ],
     "relation_group": "macro shot",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "framing_shot_size_full_shot",
@@ -16727,7 +17519,8 @@
       "flux"
     ],
     "relation_group": "full shot",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "framing_shot_size_cowboy_shot",
@@ -16759,7 +17552,8 @@
       "flux"
     ],
     "relation_group": "cowboy shot",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "framing_shot_size_head_to_hip",
@@ -16789,7 +17583,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_shot_size_half_body",
@@ -16820,7 +17615,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_angle_eye_level",
@@ -16851,7 +17647,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_angle_high_angle",
@@ -16882,7 +17679,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_angle_low_angle",
@@ -16913,7 +17711,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_angle_overhead",
@@ -16945,7 +17744,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_angle_worms_eye_angle",
@@ -16977,7 +17777,8 @@
       "midjourney",
       "flux"
     ],
-    "alias_of": "composition_camera_motions_worm_s_eye_view"
+    "alias_of": "composition_camera_motions_worm_s_eye_view",
+    "weight": 0.7
   },
   {
     "id": "framing_angle_dutch_angle",
@@ -17008,7 +17809,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_angle_birds_eye",
@@ -17040,7 +17842,8 @@
       "midjourney",
       "flux"
     ],
-    "alias_of": "composition_camera_motions_bird_s_eye_view"
+    "alias_of": "composition_camera_motions_bird_s_eye_view",
+    "weight": 0.7
   },
   {
     "id": "framing_angle_slightly_downward",
@@ -17070,7 +17873,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_coverage_single",
@@ -17100,7 +17904,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_coverage_two_shot",
@@ -17133,7 +17938,8 @@
       "flux"
     ],
     "relation_group": "two-shot",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "framing_coverage_three_shot",
@@ -17164,7 +17970,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_coverage_over_the_shoulder_framing",
@@ -17196,7 +18003,8 @@
       "midjourney",
       "flux"
     ],
-    "alias_of": "composition_camera_motions_over_the_shoulder_shot"
+    "alias_of": "composition_camera_motions_over_the_shoulder_shot",
+    "weight": 0.7
   },
   {
     "id": "framing_coverage_reverse_shot",
@@ -17227,7 +18035,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_coverage_pov_framing",
@@ -17257,7 +18066,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_coverage_selfie_framing",
@@ -17287,7 +18097,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_coverage_mirror_selfie",
@@ -17317,7 +18128,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_coverage_gym_mirror_selfie",
@@ -17347,7 +18159,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_coverage_through_glass",
@@ -17377,7 +18190,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_coverage_top_down_flat_lay",
@@ -17407,7 +18221,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_coverage_establishing_shot",
@@ -17439,7 +18254,8 @@
       "flux"
     ],
     "relation_group": "establishing shot",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "framing_coverage_dirty_single",
@@ -17469,7 +18285,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_composition_rule_of_thirds",
@@ -17498,7 +18315,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_composition_centered",
@@ -17529,7 +18347,8 @@
       "midjourney",
       "flux"
     ],
-    "alias_of": "composition_rules_centered_composition"
+    "alias_of": "composition_rules_centered_composition",
+    "weight": 0.7
   },
   {
     "id": "framing_composition_headroom_tight",
@@ -17558,7 +18377,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_composition_negative_space",
@@ -17587,7 +18407,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_composition_leading_lines",
@@ -17617,7 +18438,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_composition_3x3_grid_collage",
@@ -17647,7 +18469,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_composition_diptych",
@@ -17676,7 +18499,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_composition_triptych",
@@ -17705,7 +18529,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_composition_multi_frame_mosaic",
@@ -17734,7 +18559,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_composition_contact_sheet",
@@ -17763,7 +18589,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_composition_magazine_spread",
@@ -17792,7 +18619,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_composition_cutaway_cross_section",
@@ -17821,7 +18649,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_composition_golden_spiral",
@@ -17850,7 +18679,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_composition_frame_within_frame",
@@ -17879,7 +18709,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_composition_s_curve",
@@ -17908,7 +18739,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_composition_diagonal_composition",
@@ -17938,7 +18770,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_composition_triangular_composition",
@@ -17968,7 +18801,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_composition_symmetrical_mirror",
@@ -17997,7 +18831,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_composition_vignette_composition",
@@ -18027,7 +18862,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_vantage_front_on",
@@ -18058,7 +18894,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_vantage_three_quarter_front",
@@ -18089,7 +18926,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_vantage_profile_left",
@@ -18120,7 +18958,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_vantage_profile_right",
@@ -18151,7 +18990,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_vantage_three_quarter_back",
@@ -18181,7 +19021,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_vantage_behind",
@@ -18212,7 +19053,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_vantage_side_back_angle",
@@ -18242,7 +19084,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_over_the_shoulder",
@@ -18275,7 +19118,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.8
   },
   {
     "id": "framing_wide_angle_distortion",
@@ -18308,7 +19152,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_dutch_angle_extreme",
@@ -18341,7 +19186,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_worms_eye_view",
@@ -18374,7 +19220,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.8
   },
   {
     "id": "framing_billboarding",
@@ -18407,7 +19254,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "framing_split_screen",
@@ -18440,6 +19288,7 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.7
   }
 ]

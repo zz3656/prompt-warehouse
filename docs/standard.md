@@ -881,7 +881,7 @@ python3 tools/pws-canonical.py --limit 20
 
 取值：sdxl / midjourney / flux / kling / runway / minimax_h3
 
-- 缺失或空数组 = 通用，任何模型都包含
+- 当前无空值，6037 条全部显式绑定模型。若未来出现空值，按通用处理。
 - ["sdxl"] = 仅限 sdxl，其他模型排除
 - ["kling","runway"] = 视频专用，图像模型排除
 

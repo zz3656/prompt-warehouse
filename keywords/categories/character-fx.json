@@ -27,7 +27,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_transformation_vampire",
@@ -56,7 +57,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_transformation_cyborg",
@@ -85,7 +87,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_transformation_ghost_form",
@@ -114,7 +117,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_transformation_statue_stone",
@@ -144,7 +148,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_transformation_liquid_metal",
@@ -173,7 +178,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_transformation_animalization",
@@ -203,7 +209,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_transformation_gorilla_form",
@@ -233,7 +240,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_transformation_mystification",
@@ -262,7 +270,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_transformation_gas_form",
@@ -291,7 +300,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_transformation_diamond_skin",
@@ -320,7 +330,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_transformation_agent_reveal",
@@ -349,7 +360,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_power_fire_breathe",
@@ -379,7 +391,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_power_ice_breathe",
@@ -409,7 +422,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_power_air_bending",
@@ -438,7 +452,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_power_water_bending",
@@ -467,7 +482,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_power_earth_bending",
@@ -496,7 +512,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_power_lightning_hands",
@@ -526,7 +543,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_power_levitation",
@@ -555,7 +573,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_power_telekinesis",
@@ -584,7 +603,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_power_invisibility",
@@ -613,7 +633,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_power_hero_flight",
@@ -642,7 +663,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_power_super_speed",
@@ -671,7 +693,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_power_soul_departure",
@@ -701,7 +724,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_body_mod_wings_grow",
@@ -730,7 +754,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_body_mod_horns_grow",
@@ -760,7 +785,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_body_mod_tail_emerge",
@@ -790,7 +816,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_body_mod_tentacles_emerge",
@@ -819,7 +846,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_body_mod_extra_eyes",
@@ -848,7 +876,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_body_mod_head_explode",
@@ -877,7 +906,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_body_mod_head_off",
@@ -906,7 +936,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_body_mod_spiders_from_mouth",
@@ -935,7 +966,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_body_mod_skin_surge",
@@ -964,7 +996,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_face_expression_horror_face",
@@ -993,7 +1026,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_face_expression_oni_mask",
@@ -1022,7 +1056,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_face_expression_glowing_eyes",
@@ -1051,7 +1086,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_face_expression_floral_eyes",
@@ -1080,7 +1116,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_face_expression_bloom_mouth",
@@ -1109,7 +1146,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_face_expression_x_ray",
@@ -1138,7 +1176,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_face_expression_agent_snap",
@@ -1167,7 +1206,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_face_expression_visor_x",
@@ -1196,7 +1236,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_aura_ambient_paparazzi",
@@ -1225,7 +1266,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_aura_ambient_money_rain",
@@ -1254,7 +1296,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_aura_ambient_color_rain",
@@ -1284,7 +1327,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_aura_ambient_saint_glow",
@@ -1314,7 +1358,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_aura_ambient_fire_aura",
@@ -1343,7 +1388,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_aura_ambient_frost_aura",
@@ -1372,7 +1418,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_aura_ambient_shadow_aura",
@@ -1401,7 +1448,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_aura_ambient_electricity_aura",
@@ -1431,7 +1479,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_aura_ambient_sparkles_around",
@@ -1460,7 +1509,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_aura_ambient_fairies_around",
@@ -1489,7 +1539,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_aura_ambient_objects_orbit",
@@ -1518,7 +1569,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_aura_ambient_petals_around",
@@ -1548,7 +1600,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_aura_ambient_glow_trace",
@@ -1577,7 +1630,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_aura_ambient_tattoo_animation",
@@ -1606,7 +1660,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_aura_ethereal",
@@ -1638,7 +1693,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.6
   },
   {
     "id": "character_fx_transparent_body",
@@ -1670,7 +1726,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_flame_hair",
@@ -1702,7 +1759,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.6
   },
   {
     "id": "character_fx_demonic_wings",
@@ -1734,7 +1792,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "character_fx_electric_wrath",
@@ -1766,6 +1825,7 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.6
   }
 ]

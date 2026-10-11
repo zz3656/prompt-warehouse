@@ -27,7 +27,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_standard_cross_dissolve",
@@ -56,7 +57,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_standard_fade_to_black",
@@ -85,7 +87,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_standard_fade_to_white",
@@ -114,7 +117,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_standard_snap_to_black",
@@ -143,7 +147,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_standard_match_cut",
@@ -172,7 +177,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_standard_smash_cut",
@@ -201,7 +207,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_standard_iris",
@@ -230,7 +237,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_standard_wipe",
@@ -260,7 +268,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_standard_roll_transition",
@@ -289,7 +298,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_standard_seamless_match",
@@ -319,7 +329,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_standard_whip_pan",
@@ -349,7 +360,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_standard_jump_cut",
@@ -379,7 +391,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_time_fast_forward_day_night",
@@ -408,7 +421,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_time_fast_forward_night_day",
@@ -437,7 +451,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_time_seasonal_shift",
@@ -466,7 +481,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_time_aging",
@@ -496,7 +512,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_time_rewind",
@@ -526,7 +543,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_time_freeze_frame_jump",
@@ -556,7 +574,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_time_weather_shift",
@@ -585,7 +604,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_time_flashback",
@@ -614,7 +634,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_element_dissolve_to_mist",
@@ -643,7 +664,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_element_water_splash",
@@ -672,7 +694,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_element_sand_scatter",
@@ -701,7 +724,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_element_fire_burnup",
@@ -730,7 +754,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_element_smoke_puff",
@@ -759,7 +784,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_element_magic_sparkles",
@@ -788,7 +814,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_element_lightning_flash",
@@ -817,7 +844,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_element_ink_splash",
@@ -846,7 +874,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_element_sand_storm",
@@ -875,7 +904,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_element_paint_splash",
@@ -904,7 +934,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_element_aurora_sweep",
@@ -933,7 +964,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_element_sakura_petals",
@@ -962,7 +994,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_element_garden_bloom",
@@ -991,7 +1024,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_element_powder_burst",
@@ -1020,7 +1054,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_morph_liquid_morph",
@@ -1049,7 +1084,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_morph_pixelate_reform",
@@ -1078,7 +1114,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_morph_shatter_glass",
@@ -1107,7 +1144,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_morph_origami_fold",
@@ -1136,7 +1174,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_morph_vortex_swirl",
@@ -1165,7 +1204,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_morph_dream_ripple",
@@ -1194,7 +1234,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_morph_wireframe_morph",
@@ -1223,7 +1264,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_morph_polygon_shatter",
@@ -1252,7 +1294,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_morph_melt_down",
@@ -1281,7 +1324,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_portal_zoom_into_eye",
@@ -1310,7 +1354,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_portal_zoom_into_mirror",
@@ -1339,7 +1384,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_portal_zoom_into_screen",
@@ -1368,7 +1414,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_portal_zoom_into_book",
@@ -1397,7 +1444,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_portal_walk_through_door",
@@ -1426,7 +1474,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_portal_fall_into_hole",
@@ -1455,7 +1504,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_portal_pull_out_reveal",
@@ -1485,7 +1535,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_portal_zoom_into_mouth",
@@ -1514,7 +1565,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_portal_push_through_glass",
@@ -1543,7 +1595,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_portal_soul_jump",
@@ -1572,7 +1625,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_portal_mask_transition",
@@ -1602,7 +1656,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_portal_zoom_through",
@@ -1632,7 +1687,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_physics_explosion_blast",
@@ -1661,7 +1717,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_physics_shockwave",
@@ -1690,7 +1747,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_physics_punch_into_camera",
@@ -1719,7 +1777,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_physics_debris_shower",
@@ -1748,7 +1807,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_physics_gravity_flip",
@@ -1778,7 +1838,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_physics_building_explosion",
@@ -1807,7 +1868,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_physics_vehicle_explosion",
@@ -1836,7 +1898,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_physics_jump_match",
@@ -1865,7 +1928,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_physics_hand_swipe",
@@ -1894,7 +1958,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_physics_action_relay",
@@ -1923,7 +1988,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_light_white_flash",
@@ -1952,7 +2018,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_light_lens_flare_swipe",
@@ -1982,7 +2049,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_light_light_streak",
@@ -2011,7 +2079,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_light_color_invert",
@@ -2040,7 +2109,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_light_sun_glare",
@@ -2069,7 +2139,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_light_lens_crack",
@@ -2098,7 +2169,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_light_dirty_lens_wipe",
@@ -2127,7 +2199,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_light_eye_light_burst",
@@ -2156,7 +2229,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_glitch_digital_glitch",
@@ -2187,7 +2261,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_glitch_vhs_rewind",
@@ -2217,7 +2292,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_glitch_datamosh",
@@ -2246,7 +2322,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_glitch_channel_flip",
@@ -2275,7 +2352,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_glitch_hologram_flicker",
@@ -2304,7 +2382,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_glitch_display_wipe",
@@ -2333,7 +2412,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   },
   {
     "id": "transitions_glitch_double_exposure",
@@ -2362,6 +2442,7 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.5
   }
 ]

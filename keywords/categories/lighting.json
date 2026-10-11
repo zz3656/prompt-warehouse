@@ -33,7 +33,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.85,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_cinematic_lighting",
@@ -68,7 +70,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.85,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_direct_sunlight",
@@ -104,7 +108,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.85,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_frontlight",
@@ -140,7 +146,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.85,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_godrays",
@@ -176,7 +184,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.85,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_moody_lighting",
@@ -212,7 +222,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.85,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_rim_lighting",
@@ -248,7 +260,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.85,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_rim_lights",
@@ -284,7 +298,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.85,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_spotlight",
@@ -320,7 +336,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.85,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_sunlight",
@@ -356,7 +374,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.85,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_volumetric",
@@ -392,7 +412,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.85,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_volumetric_lighting",
@@ -428,7 +450,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.85,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_volumetric_haze",
@@ -465,7 +489,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.85,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_7_segment_display",
@@ -500,7 +526,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_accent_lighting",
@@ -536,7 +564,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_amoled",
@@ -571,7 +601,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_arc_lamp",
@@ -607,7 +639,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_argand_lamp",
@@ -643,7 +677,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_argon_flash",
@@ -679,7 +715,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_argon_lamp",
@@ -715,7 +753,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_artificial_lighting",
@@ -750,7 +790,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_beautiful_lighting",
@@ -788,7 +830,9 @@
       "flux"
     ],
     "relation_group": "beautiful lighting",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_blacklight",
@@ -824,7 +868,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_blinding_light",
@@ -860,7 +906,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_bright",
@@ -896,7 +944,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_bubble_light",
@@ -932,7 +982,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_candlelight",
@@ -970,7 +1022,9 @@
       "flux"
     ],
     "relation_group": "candlelight",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_carbide_lamp",
@@ -1006,7 +1060,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_caustic_lighting",
@@ -1042,7 +1098,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_cfl",
@@ -1078,7 +1136,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_cfl_light",
@@ -1114,7 +1174,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_christmas_lights",
@@ -1150,7 +1212,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_coleman_lantern",
@@ -1186,7 +1250,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_concert_lighting",
@@ -1221,7 +1287,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_contre_jour",
@@ -1257,7 +1325,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_cove_lighting",
@@ -1293,7 +1363,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_crackle_tube",
@@ -1328,7 +1400,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_crepuscular_rays",
@@ -1363,7 +1437,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_crt",
@@ -1400,7 +1476,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_dark_lighting",
@@ -1436,7 +1514,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_dekatron",
@@ -1472,7 +1552,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_dim",
@@ -1508,7 +1590,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_dim_lighting",
@@ -1544,7 +1628,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_diya_lamp",
@@ -1580,7 +1666,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_dj_lighting",
@@ -1616,7 +1704,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_dot_matrix_display",
@@ -1651,7 +1741,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_downlighting",
@@ -1687,7 +1779,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_dye_laser",
@@ -1723,7 +1817,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_edison_bulb",
@@ -1758,7 +1854,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_electric_arc",
@@ -1794,7 +1892,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_electrodeless_lamp",
@@ -1830,7 +1930,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_electroluminescent_display",
@@ -1865,7 +1967,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_electroluminescent_wire",
@@ -1900,7 +2004,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_electromagnetic_spectrum",
@@ -1936,7 +2042,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_ember_light",
@@ -1972,7 +2080,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_epic_light",
@@ -2008,7 +2118,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_ethereal_lighting",
@@ -2044,7 +2156,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_flare",
@@ -2080,7 +2194,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_flash_lamp",
@@ -2115,7 +2231,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_flashtube",
@@ -2151,7 +2269,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_flickering_light",
@@ -2187,7 +2307,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_floodlight",
@@ -2223,7 +2345,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_fluorescent",
@@ -2259,7 +2383,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_fluorescent_lamp",
@@ -2295,7 +2421,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_gas_lamp",
@@ -2331,7 +2459,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_gas_laser",
@@ -2367,7 +2497,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_gas_mantle",
@@ -2403,7 +2535,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_geissler_tube",
@@ -2439,7 +2573,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_global_illumination",
@@ -2477,7 +2613,9 @@
       "flux"
     ],
     "relation_group": "global illumination",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_glow_stick",
@@ -2513,7 +2651,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_glowing_nuclear_waste",
@@ -2548,7 +2688,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_glowing_radioactivity",
@@ -2584,7 +2726,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_gobo",
@@ -2620,7 +2764,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_gobo_light",
@@ -2656,7 +2802,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_halfrear_lighting",
@@ -2692,7 +2840,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_halogen",
@@ -2728,7 +2878,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_halogen_lamp",
@@ -2764,7 +2916,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_hard_lighting",
@@ -2800,7 +2954,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_helium_lamp",
@@ -2836,7 +2992,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_high_key_lighting",
@@ -2871,7 +3029,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_hollow_cathode_lamp",
@@ -2906,7 +3066,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_illuminated",
@@ -2942,7 +3104,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_illumination",
@@ -2978,7 +3142,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_incandescent",
@@ -3014,7 +3180,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_incandescent_lamp",
@@ -3050,7 +3218,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_infrared",
@@ -3086,7 +3256,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_ion_laser",
@@ -3122,7 +3294,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_jumbotron",
@@ -3158,7 +3332,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_kerosene_lamp",
@@ -3194,7 +3370,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_krypton_lamp",
@@ -3230,7 +3408,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_lantern",
@@ -3266,7 +3446,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_laser",
@@ -3302,7 +3484,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_laser_light_show",
@@ -3337,7 +3521,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_lava_lamp",
@@ -3373,7 +3559,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_lcd",
@@ -3409,7 +3597,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_led",
@@ -3445,7 +3635,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_light_pollution",
@@ -3481,7 +3673,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_lighting",
@@ -3517,7 +3711,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_lightspeed",
@@ -3553,7 +3749,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_low_key_lighting",
@@ -3588,7 +3786,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_lumen_global_illumination",
@@ -3624,7 +3824,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_marquee",
@@ -3660,7 +3862,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_mercury_vapor_lamp",
@@ -3696,7 +3900,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_metal_halide_lamp",
@@ -3731,7 +3937,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_mood_lighting",
@@ -3767,7 +3975,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_moonbeams",
@@ -3803,7 +4013,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_museum_lighting",
@@ -3838,7 +4050,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_natural_lighting",
@@ -3873,7 +4087,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_neon_lamp",
@@ -3909,7 +4125,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_nightclub",
@@ -3945,7 +4163,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_nightclub_lighting",
@@ -3981,7 +4201,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_nightlight",
@@ -4017,7 +4239,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_nixie_tube",
@@ -4053,7 +4277,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_northern_lights",
@@ -4091,7 +4317,9 @@
       "flux"
     ],
     "relation_group": "northern lights",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_nuclear_waste",
@@ -4127,7 +4355,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_oil_lamp",
@@ -4163,7 +4393,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_oled",
@@ -4199,7 +4431,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_optical_fiber",
@@ -4235,7 +4469,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_over_illumination",
@@ -4271,7 +4507,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_phosphor_display",
@@ -4306,7 +4544,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_photon_mapping",
@@ -4342,7 +4582,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_plasma_display",
@@ -4377,7 +4619,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_plasma_globe",
@@ -4413,7 +4657,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_plasma_lamp",
@@ -4449,7 +4695,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_quantum_dot",
@@ -4485,7 +4733,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_quantum_dot_display",
@@ -4520,7 +4770,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_radiant_light",
@@ -4556,7 +4808,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_ray_traced_shadows",
@@ -4591,7 +4845,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_ray_tracing_global_illumination",
@@ -4627,7 +4883,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_rays_of_shimmering_light",
@@ -4663,7 +4921,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_rembrandt_lighting",
@@ -4699,7 +4959,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_rubens_tube",
@@ -4735,7 +4997,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_schwarz_lantern",
@@ -4771,7 +5035,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_screen_space_global_illumination",
@@ -4807,7 +5073,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_shadow",
@@ -4843,7 +5111,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_shadows",
@@ -4879,7 +5149,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_sodium_vapor_lamp",
@@ -4915,7 +5187,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_soft_lighting",
@@ -4953,7 +5227,9 @@
       "flux"
     ],
     "relation_group": "soft lighting",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_split_lighting",
@@ -4989,7 +5265,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_starlight",
@@ -5025,7 +5303,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_strobe",
@@ -5061,7 +5341,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_strobe_light",
@@ -5097,7 +5379,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_stroboscope",
@@ -5133,7 +5417,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_studio_lighting",
@@ -5168,7 +5454,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_sulfur_lamp",
@@ -5204,7 +5492,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_sunbeams",
@@ -5240,7 +5530,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_sunshaft",
@@ -5276,7 +5568,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_sunshine_ray",
@@ -5312,7 +5606,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_tesla_coil",
@@ -5347,7 +5643,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_tilley_lamp",
@@ -5382,7 +5680,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_torch",
@@ -5418,7 +5718,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_torch_light",
@@ -5454,7 +5756,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_ultrabright",
@@ -5490,7 +5794,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_ultraviolet",
@@ -5526,7 +5832,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_under_illumination",
@@ -5562,7 +5870,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_uplighting",
@@ -5598,7 +5908,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_uv",
@@ -5634,7 +5946,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_vacuum_fluorescent_display",
@@ -5669,7 +5983,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_vacuum_tube_lamp",
@@ -5705,7 +6021,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_veiling_flare",
@@ -5741,7 +6059,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_waning_light",
@@ -5777,7 +6097,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_x_ray",
@@ -5812,7 +6134,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_lighting_xenon_lamp",
@@ -5848,7 +6172,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_amplitude_distortion",
@@ -5885,7 +6211,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_anaglyph",
@@ -5923,7 +6251,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_anti_aliasing",
@@ -5960,7 +6290,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_autostereoscopy",
@@ -5997,7 +6329,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_barrel_distortion",
@@ -6034,7 +6368,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_blur",
@@ -6071,7 +6407,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_blur_effect",
@@ -6108,7 +6446,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_blurred",
@@ -6145,7 +6485,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_blurry",
@@ -6184,7 +6526,9 @@
       "flux"
     ],
     "relation_group": "blurry",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_cel_shading",
@@ -6222,7 +6566,9 @@
       "flux"
     ],
     "relation_group": "cel shading",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_cgi",
@@ -6259,7 +6605,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_chromatic_aberration",
@@ -6298,7 +6646,9 @@
       "flux"
     ],
     "relation_group": "chromatic aberration",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_color_banding",
@@ -6335,7 +6685,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_continuous_droste",
@@ -6371,7 +6723,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_convolution_matrix",
@@ -6408,7 +6762,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_cropped",
@@ -6445,7 +6801,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_de_noise",
@@ -6482,7 +6840,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_diffraction_grading",
@@ -6519,7 +6879,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_digitally_enhanced",
@@ -6556,7 +6918,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_dilate",
@@ -6593,7 +6957,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_distortion",
@@ -6630,7 +6996,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_drifting",
@@ -6667,7 +7035,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_edge_detection",
@@ -6704,7 +7074,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_emboss",
@@ -6741,7 +7113,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_erode",
@@ -6778,7 +7152,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_field_blur",
@@ -6815,7 +7191,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_flat_shading",
@@ -6854,7 +7232,9 @@
       "flux"
     ],
     "relation_group": "flat shading",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_frequency_response_distortion",
@@ -6890,7 +7270,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_fxaa",
@@ -6927,7 +7309,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_gaussian_blur",
@@ -6964,7 +7348,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_glowing_edges",
@@ -7000,7 +7386,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_glsl_shaders",
@@ -7038,7 +7426,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_gooch_shading",
@@ -7075,7 +7465,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_gouraud_shading",
@@ -7111,7 +7503,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_group_delay_distortion",
@@ -7147,7 +7541,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_harmonic_distortion",
@@ -7184,7 +7580,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_harris_shutter",
@@ -7220,7 +7618,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_haze",
@@ -7257,7 +7657,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_interlace",
@@ -7294,7 +7696,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_interlaced",
@@ -7331,7 +7735,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_lenticular",
@@ -7368,7 +7774,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_lumen_reflections",
@@ -7405,7 +7813,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_moire_patterns",
@@ -7442,7 +7852,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_mordancage",
@@ -7478,7 +7890,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_morph",
@@ -7515,7 +7929,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_morphing",
@@ -7552,7 +7968,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_motion",
@@ -7589,7 +8007,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_motion_blur",
@@ -7628,7 +8048,9 @@
       "flux"
     ],
     "relation_group": "motion blur",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_multiscopy",
@@ -7665,7 +8087,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_mustache_distortion",
@@ -7701,7 +8125,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_opengl_shaders",
@@ -7738,7 +8164,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_oscillation",
@@ -7775,7 +8203,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_parallax",
@@ -7812,7 +8242,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_phase_distortion",
@@ -7849,7 +8281,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_phong_shading",
@@ -7886,7 +8320,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_pincushion_distortion",
@@ -7923,7 +8359,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_post_processing",
@@ -7960,7 +8398,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_post_production",
@@ -7997,7 +8437,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_posterization",
@@ -8034,7 +8476,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_quantization",
@@ -8071,7 +8515,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_quantum_wavetracing",
@@ -8107,7 +8553,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_radial_blur",
@@ -8144,7 +8592,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_radial_distortion",
@@ -8181,7 +8631,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_ray_traced",
@@ -8218,7 +8670,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_ray_tracing_ambient_occlusion",
@@ -8254,7 +8708,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_ray_tracing_reflections",
@@ -8291,7 +8747,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_recursion",
@@ -8328,7 +8786,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_reflection_in_a_puddle",
@@ -8365,7 +8825,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_repetition",
@@ -8402,7 +8864,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_rgb_displacement",
@@ -8440,7 +8904,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_rtx",
@@ -8477,7 +8943,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_sabattier_effect",
@@ -8513,7 +8981,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_scan_lines",
@@ -8550,7 +9020,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_screen_space_reflections",
@@ -8586,7 +9058,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_sfx",
@@ -8623,7 +9097,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_shaders",
@@ -8660,7 +9136,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_sharpen",
@@ -8697,7 +9175,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_sharpened",
@@ -8734,7 +9214,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_smudged",
@@ -8771,7 +9253,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_sobel_operator",
@@ -8808,7 +9292,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_spherical_aberration",
@@ -8845,7 +9331,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_spot_healing",
@@ -8882,7 +9370,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_ssao",
@@ -8919,7 +9409,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_starburst",
@@ -8956,7 +9448,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_stereoscopy",
@@ -8993,7 +9487,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_surface_blur",
@@ -9030,7 +9526,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_tessellated",
@@ -9067,7 +9565,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_textured",
@@ -9104,7 +9604,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_tilt_blur",
@@ -9141,7 +9643,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_tone_mapping",
@@ -9178,7 +9682,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_tornadic",
@@ -9215,7 +9721,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_tracers",
@@ -9252,7 +9760,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_twisted_rays",
@@ -9289,7 +9799,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_txaa",
@@ -9326,7 +9838,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_vfx",
@@ -9363,7 +9877,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_volume",
@@ -9400,7 +9916,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_sfx_water_reflection",
@@ -9437,7 +9955,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "lighting_special_atmospheric_haze",
@@ -9471,7 +9991,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_dynamic_aura_effect",
@@ -9505,7 +10026,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_natural_backlit",
@@ -9539,7 +10061,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_special_bioluminescent_glow",
@@ -9573,7 +10096,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_mood_blue_hour",
@@ -9609,7 +10133,8 @@
       "flux"
     ],
     "relation_group": "blue hour",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.75
   },
   {
     "id": "lighting_dynamic_cherry_blossoms_falling",
@@ -9643,7 +10168,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_dramatic_chiaroscuro",
@@ -9679,7 +10205,8 @@
       "flux"
     ],
     "relation_group": "chiaroscuro",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.75
   },
   {
     "id": "lighting_dramatic_cinematic_lighting",
@@ -9713,7 +10240,8 @@
       "midjourney",
       "flux"
     ],
-    "alias_of": "mj_mj_v5_lighting_cinematic_lighting"
+    "alias_of": "mj_mj_v5_lighting_cinematic_lighting",
+    "weight": 0.75
   },
   {
     "id": "lighting_mood_cold_atmosphere",
@@ -9747,7 +10275,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_mood_cool_blue_lighting",
@@ -9780,7 +10309,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_mood_cool_moonlit_atmosphere",
@@ -9813,7 +10343,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_dynamic_crackle_effect",
@@ -9847,7 +10378,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_mood_cyberpunk_lighting",
@@ -9880,7 +10412,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_natural_dappled_sunlight",
@@ -9914,7 +10447,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_mood_dark_atmosphere",
@@ -9948,7 +10482,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_natural_diffused_light",
@@ -9982,7 +10517,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_dramatic_dramatic_lighting",
@@ -10016,7 +10552,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_dynamic_dust_particles_in_air",
@@ -10050,7 +10587,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_dynamic_electric_sparks",
@@ -10084,7 +10622,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_dynamic_energy_glow",
@@ -10118,7 +10657,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_mood_ethereal_glow",
@@ -10152,7 +10692,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_natural_even_lighting",
@@ -10186,7 +10727,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_dynamic_fire_particles",
@@ -10220,7 +10762,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_dynamic_flames",
@@ -10254,7 +10797,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_mood_flat_even_light",
@@ -10287,7 +10831,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_dynamic_floating_embers",
@@ -10321,7 +10866,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_dynamic_flying_petals",
@@ -10355,7 +10901,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_special_fog",
@@ -10390,7 +10937,8 @@
       "flux"
     ],
     "relation_group": "fog",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.75
   },
   {
     "id": "lighting_special_glittering",
@@ -10424,7 +10972,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_special_glowing",
@@ -10460,7 +11009,8 @@
       "flux"
     ],
     "relation_group": "glowing",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.75
   },
   {
     "id": "lighting_dynamic_glowing_runes",
@@ -10494,7 +11044,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_natural_god_rays",
@@ -10528,7 +11079,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_dramatic_god_rays_through_window",
@@ -10562,7 +11114,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_natural_golden_hour",
@@ -10598,7 +11151,8 @@
       "flux"
     ],
     "relation_group": "golden hour",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.75
   },
   {
     "id": "lighting_dramatic_half_in_shadow",
@@ -10631,7 +11185,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_dramatic_hard_lighting",
@@ -10666,7 +11221,8 @@
       "midjourney",
       "flux"
     ],
-    "alias_of": "mj_mj_v5_lighting_hard_lighting"
+    "alias_of": "mj_mj_v5_lighting_hard_lighting",
+    "weight": 0.75
   },
   {
     "id": "lighting_dramatic_high_contrast",
@@ -10702,7 +11258,8 @@
       "flux"
     ],
     "relation_group": "high contrast",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.75
   },
   {
     "id": "lighting_mood_high_key_lighting",
@@ -10736,7 +11293,8 @@
       "midjourney",
       "flux"
     ],
-    "alias_of": "mj_mj_v5_lighting_high_key_lighting"
+    "alias_of": "mj_mj_v5_lighting_high_key_lighting",
+    "weight": 0.75
   },
   {
     "id": "lighting_dynamic_ice_crystals",
@@ -10770,7 +11328,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_dynamic_leaves_blowing_in_wind",
@@ -10804,7 +11363,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_natural_lens_flare",
@@ -10840,7 +11400,8 @@
       "flux"
     ],
     "relation_group": "lens flare",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.75
   },
   {
     "id": "lighting_special_light_rays",
@@ -10874,7 +11435,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_special_light_shafts",
@@ -10908,7 +11470,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_natural_long_shadows",
@@ -10942,7 +11505,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_mood_low_key_lighting",
@@ -10976,7 +11540,8 @@
       "midjourney",
       "flux"
     ],
-    "alias_of": "mj_mj_v5_lighting_low_key_lighting"
+    "alias_of": "mj_mj_v5_lighting_low_key_lighting",
+    "weight": 0.75
   },
   {
     "id": "lighting_special_luminescent",
@@ -11010,7 +11575,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_dynamic_magical_aura",
@@ -11044,7 +11610,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_mood_magical_glow",
@@ -11078,7 +11645,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_special_mist",
@@ -11114,7 +11682,8 @@
       "flux"
     ],
     "relation_group": "mist",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.75
   },
   {
     "id": "lighting_mood_moody_atmosphere",
@@ -11148,7 +11717,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_mood_moonlight",
@@ -11182,7 +11752,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_dynamic_motion_trails",
@@ -11216,7 +11787,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_natural_natural_daylight",
@@ -11250,7 +11822,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_mood_neon_glow",
@@ -11283,7 +11856,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_mood_neon_lighting",
@@ -11316,7 +11890,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_mood_neon_rim_light",
@@ -11350,7 +11925,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_natural_overcast_lighting",
@@ -11384,7 +11960,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_special_particles_floating",
@@ -11418,7 +11995,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_dynamic_power_aura",
@@ -11452,7 +12030,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_dynamic_rain_splashes",
@@ -11486,7 +12065,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_natural_ray_of_light",
@@ -11520,7 +12100,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_dramatic_ray_tracing",
@@ -11556,7 +12137,8 @@
       "flux"
     ],
     "relation_group": "ray tracing",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.75
   },
   {
     "id": "lighting_natural_rim_light",
@@ -11590,7 +12172,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_mood_ring_light",
@@ -11624,7 +12207,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_dramatic_side_lighting",
@@ -11658,7 +12242,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_dynamic_snowflakes_falling",
@@ -11692,7 +12277,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_mood_soft_ambient_light",
@@ -11726,7 +12312,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_natural_soft_lighting",
@@ -11762,7 +12349,8 @@
       "flux"
     ],
     "relation_group": "soft lighting",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.75
   },
   {
     "id": "lighting_dynamic_spark_trail",
@@ -11796,7 +12384,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_special_sparkling",
@@ -11830,7 +12419,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_dynamic_spirit_particles",
@@ -11864,7 +12454,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_dramatic_spotlight",
@@ -11899,7 +12490,8 @@
       "midjourney",
       "flux"
     ],
-    "alias_of": "mj_mj_v5_lighting_spotlight"
+    "alias_of": "mj_mj_v5_lighting_spotlight",
+    "weight": 0.75
   },
   {
     "id": "lighting_mood_studio_lighting",
@@ -11933,7 +12525,8 @@
       "midjourney",
       "flux"
     ],
-    "alias_of": "mj_mj_v5_lighting_studio_lighting"
+    "alias_of": "mj_mj_v5_lighting_studio_lighting",
+    "weight": 0.75
   },
   {
     "id": "lighting_natural_sun_flare",
@@ -11967,7 +12560,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_natural_sun_rays",
@@ -12001,7 +12595,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_dramatic_theatrical_lighting",
@@ -12035,7 +12630,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_dynamic_trail_particles",
@@ -12069,7 +12665,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_mood_twilight",
@@ -12105,7 +12702,8 @@
       "flux"
     ],
     "relation_group": "twilight",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.75
   },
   {
     "id": "lighting_special_volumetric_fog",
@@ -12141,7 +12739,8 @@
       "flux"
     ],
     "relation_group": "volumetric fog",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.75
   },
   {
     "id": "lighting_dramatic_volumetric_lighting",
@@ -12176,7 +12775,8 @@
       "midjourney",
       "flux"
     ],
-    "alias_of": "mj_mj_v5_lighting_volumetric_lighting"
+    "alias_of": "mj_mj_v5_lighting_volumetric_lighting",
+    "weight": 0.75
   },
   {
     "id": "lighting_natural_warm_amber_tones",
@@ -12209,7 +12809,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_natural_warm_sunset_glow",
@@ -12242,7 +12843,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_clear_atmosphere",
@@ -12274,7 +12876,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_cloudy_sky",
@@ -12308,7 +12911,8 @@
       "flux"
     ],
     "relation_group": "cloudy sky",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_overcast_sky",
@@ -12340,7 +12944,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_dense_fog",
@@ -12372,7 +12977,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_light_mist",
@@ -12404,7 +13010,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_soft_fog_and_mist",
@@ -12435,7 +13042,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_light_rain_falling_softly",
@@ -12467,7 +13075,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_heavy_rainstorm",
@@ -12499,7 +13108,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_thunderstorm",
@@ -12533,7 +13143,8 @@
       "flux"
     ],
     "relation_group": "thunderstorm",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_falling_snow",
@@ -12565,7 +13176,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_blizzard_atmosphere",
@@ -12596,7 +13208,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_airborne_dust",
@@ -12628,7 +13241,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_visible_volumetric_god_rays",
@@ -12660,7 +13274,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_drifting_smoke",
@@ -12692,7 +13307,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_floating_bokeh_particles_in_the_air",
@@ -12723,7 +13339,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_soft_chalk_dust_haze_suspended_in_the_ai",
@@ -12754,7 +13371,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_delicate_flower_petals_drifting_through_",
@@ -12785,7 +13403,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_colorful_confetti_raining_through_the_fr",
@@ -12816,7 +13435,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_sparks_and_embers",
@@ -12847,7 +13467,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_anamorphic_lens_flare",
@@ -12879,7 +13500,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_visible_heat_shimmer_rising_in_the_scene",
@@ -12910,7 +13532,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_rising_steam",
@@ -12941,7 +13564,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_streams_of_bubbles_rising_through_water",
@@ -12972,7 +13596,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_raindrops_beading_and_streaking_down_a_f",
@@ -13003,7 +13628,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_sunlit_pollen_motes",
@@ -13034,7 +13660,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_water_droplets_on_skin",
@@ -13065,7 +13692,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_fine_grey_ash_drifting_slowly_through_th",
@@ -13096,7 +13724,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_fireflies_drifting_in_soft_warm_pulses_t",
@@ -13127,7 +13756,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_thick_incense_smoke_rising_slowly_throug",
@@ -13158,7 +13788,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_exhaled_cigarette_smoke_curling_upward_t",
@@ -13189,7 +13820,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_candlelight_glow",
@@ -13221,7 +13853,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_floating_glitter_particles",
@@ -13252,7 +13885,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_visible_starfield",
@@ -13284,7 +13918,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_drifting_dandelion_seeds",
@@ -13315,7 +13950,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_drifting_golden_pollen",
@@ -13346,7 +13982,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_heavy_thick_snowflakes_filling_the_air_i",
@@ -13377,7 +14014,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_light_drifting_snow",
@@ -13408,7 +14046,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_visible_water_droplets_beading_on_skin_a",
@@ -13439,7 +14078,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_glowing_blue_green_bioluminescent_partic",
@@ -13470,7 +14110,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "lighting_atmosphere_motion_blur_streaks",
@@ -13502,6 +14143,7 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   }
 ]

@@ -2,9 +2,9 @@
 
 **A unified, language-agnostic standard for organizing, versioning, and sharing AI generation prompts across projects.**
 
-> **pws v1.0** | **Data v1.5.4** | [简体中文](README.md) | **English**
+> **pws v1.0** | **Data v1.2.0** | [简体中文](README.md) | **English**
 >
-> **Current data version**: v1.5.4 (6,037 keywords · 20 categories · 156 subcategories · **100% term_zh coverage**)
+> **Current data version**: v1.2.0 (6,037 keywords · 20 categories · 156 subcategories · **100% term_zh coverage**)
 >
 > **Repository**: https://github.com/zz3656/prompt-warehouse
 > **License**: MIT
@@ -77,10 +77,8 @@ prompt-warehouse/
 ├── templates/                  # Prompt templates
 │   ├── _meta.json              # Template metadata
 │   └── _legacy_all_templates.json  # All templates (raw data)
-├── projects/                   # Project configs
-│   └── h3-comic-builder.json   # H3 Comic Builder config
-├── snapshots/                  # Export snapshots
-│   └── YYYY/MM/
+├── bundles/                    # Bundle configs
+│   └── *.json                  # 12 bundles with keyword lists + template refs
 └── docs/standard_en.md              # Full specification
 ```
 
@@ -355,21 +353,13 @@ The warehouse follows semantic versioning:
 
 Each `_meta.json` tracks version, schema version, and changelog entries.
 
-Current version: **v1.5.4** — 6,037 keywords across 20 categories (**all** 6,037 with Chinese translation, **100%** coverage).
+Current version: **v1.2.0** — 6,037 keywords across 20 categories (**all** 6,037 with Chinese translation, **100%** coverage).
 
 ---
 
 ## 🔌 API Integration
 
-PWS is designed to work with a REST API. The h3-comic-builder server already provides:
-
-| Endpoint | Method | Description |
-|----------|--------|-------------|
-| `/api/keywords` | GET | List keywords (paginated, filterable) |
-| `/api/keywords/search` | GET | Full-text search |
-| `/api/templates` | GET | List templates |
-| `/api/templates/:id/render` | POST | Render template with data |
-| `/api/snapshots` | GET/POST | List or create snapshots |
+PWS provides a REST API for bundles, used by PanelCraft to read and write recipe packs. See `docs/bundles-api.json` for details.
 
 ---
 
@@ -433,7 +423,7 @@ MIT License — see [docs/standard_en.md](docs/standard_en.md) for full details.
 - **Project Schema**: [schema/project.schema.json](schema/project.schema.json)
 - **Metadata**: [keywords/_meta.json](keywords/_meta.json)
 - **Data Sources**: see below
-- **Current Stats**: 6,037 keywords · 20 categories · 16 templates · 12 bundles · **6,037 / 6,037** with Chinese translation (100%)
+- **Current Stats**: 6,037 keywords · 20 categories · 15 templates · 12 bundles · **6,037 / 6,037** with Chinese translation (100%)
 
 ## 📥 Data Sources (Permanent Record)
 
@@ -447,7 +437,7 @@ MIT License — see [docs/standard_en.md](docs/standard_en.md) for full details.
 | Danbooru Booster Tags + [Civitai](https://civitai.com) community | Community collected | 101 | quality (boosters, rendering, atmosphere, color, texture) |
 | Web Research — Scene & Environment | Manual curation | 72 | scene (nature, architecture, weather, time-of-day) |
 | Web Research — Art Styles | Manual curation | 41 | styles (painting, anime genres, aesthetics, rendering) |
-| [@nodaro/prompts](https://github.com/nodaroai/app.nodaro.ai) (v1.27.0) | GitHub | 1,149 | 23 new categories — action-fx/aesthetic/atmosphere/camera-format/camera-motions/character-fx/color-look/era/framing/held-prop/lens/material/mood/photo-genre/photographer/pose/post-process/render-quality/setting/style/temporal/transitions/wardrobe |
+| [@nodaro/prompts](https://github.com/nodaroai/app.nodaro.ai) (v1.2.0) | GitHub | 1,149 | 23 new categories — action-fx/aesthetic/atmosphere/camera-format/camera-motions/character-fx/color-look/era/framing/held-prop/lens/material/mood/photo-genre/photographer/pose/post-process/render-quality/setting/style/temporal/transitions/wardrobe |
 
 **Template sources**: see `templates/_meta.json` `data_sources` field.
 
@@ -455,6 +445,6 @@ MIT License — see [docs/standard_en.md](docs/standard_en.md) for full details.
 
 ---
 
-*Prompt Warehouse Standard v1.0 · Data version v1.5.4 · Built for comic/manga prompt generation, applicable to any AI creative tool.*
+*Prompt Warehouse Standard v1.0 · Data version v1.2.0 · Built for comic/manga prompt generation, applicable to any AI creative tool.*
 
 *← [简体中文](README.md)*

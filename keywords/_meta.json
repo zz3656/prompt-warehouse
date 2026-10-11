@@ -1,5 +1,5 @@
 {
-  "version": "1.5.4",
+  "version": "1.2.0",
   "schema_version": "pws-1.0",
   "total_keywords": 6037,
   "total_categories": 20,
@@ -90,6 +90,97 @@
         "/api/stats 加 missing_template_refs（验证为 0）",
         "新增 tools/pws-query.py（统一查询 CLI）",
         "新增 bundles portrait.cinematic / scene.cyberpunk"
+      ]
+    },
+    {
+      "version": "1.5.5",
+      "changes": [
+        "新增 docs/bundles-api.json（PanelCraft 读写 bundles 的 REST API 定义）",
+        "统计 labels_zh / aliases_zh 缺失（labels_zh 完整率 100%，aliases_zh 全缺）",
+        "删除 projects/ snapshots/ _legacy_all_templates.json",
+        "README API 章节改写为 PanelCraft bundles API"
+      ]
+    },
+    {
+      "version": "1.5.6",
+      "changes": [
+        "修复 docs/missing-labels-zh.json → docs/missing-aliases.json（aliases/aliases_zh 同时缺失 6037 条）",
+        "全量校验 bundle template_id（12 个 bundle，引用全部有效）",
+        "新增 scripts/validate-json.sh（JSON 语法校验脚本）"
+      ]
+    },
+    {
+      "version": "1.5.7",
+      "changes": [
+        "h3.video_prompts 改名为 video.prompts（去项目名保留模板能力）",
+        "bundle 模板引用统一为 templates 数组（schema 更新）",
+        "README bundle 数量已与实际一致（12 个）"
+      ]
+    },
+    {
+      "version": "1.5.8",
+      "changes": [
+        "schema 加 weight 字段（组合权重，与 score 解耦）",
+        "6037 条按分类赋默认 weight，priority 微调（high +0.1, low -0.1）",
+        "PanelCraft 排序有依据（weight 分布 0.4–1.0）"
+      ]
+    },
+    {
+      "version": "1.5.9",
+      "changes": [
+        "negative weight 降为 0.5 + is_negative 标记（负面词走独立通道）",
+        "确认 compatibility 视频词边界（12 条 shot-language 词仅兼容 kling/runway/minimax_h3）",
+        "新增 docs/panelcraft-sorting.md（PanelCraft 排序建议文档）"
+      ]
+    },
+    {
+      "version": "1.6.0",
+      "changes": [
+        "加 subcategory_group 字段，mj_v5_ 归为 midjourney_v5（3484 条）",
+        "新增 docs/subcategory-naming.md",
+        "核对 compatibility 分布（0 空值，6037 非空）"
+      ]
+    },
+    {
+      "version": "1.6.1",
+      "changes": [
+        "修正 compatibility 文档（空=通用的矛盾，实际 0 空值）",
+        "核对 bundle ↔ template 引用完整性（12 bundles, 2 refs, 全部存在）",
+        "补全 bundle.schema.json（templates + keywords 字段定义）"
+      ]
+    },
+    {
+      "version": "1.6.2",
+      "changes": [
+        "清理 panelcraft-sorting.md 代码块 + 旧注释",
+        "bundle 加 bundle_type 标记（12/12）",
+        "生成 docs/panelcraft-categories.json（白名单 + 巡检报告）",
+        "全仓库巡检：0 缺失字段，0 重复 id，253 条子分类大小写问题"
+      ]
+    },
+    {
+      "version": "1.6.3",
+      "changes": [
+        "统一子分类小写（253 条，12 种）",
+        "白名单按实际分类文件重写（移除 13 个死分类）",
+        "relation_group 覆盖核对：0 未处理组"
+      ]
+    },
+    {
+      "version": "1.6.4",
+      "changes": [
+        "subcategories_zh key 统一小写（12 种大写 key → 全小写）",
+        "白名单死分类注释清理（13 个已废弃分类明确标注）",
+        "source 覆盖率 99.4%（5999/6037，38 条缺 source）"
+      ]
+    },
+    {
+      "version": "1.2.0",
+      "changes": [
+        "整轮优化完成：P0-P2 全部收口",
+        "补全 38 条缺 source（shot-language 分类）",
+        "统一模板数声明（15 unique IDs, 17 files）",
+        "全轮总结写入 docs/final-summary.json"
       ]
     }
   ],
@@ -333,15 +424,15 @@
     "composition": "构图",
     "face": "面部",
     "anatomy": "解剖",
-    "textRelated": "文字相关",
-    "commonDefects": "常见缺陷",
+    "textrelated": "文字相关",
+    "commondefects": "常见缺陷",
     "hair": "发型",
-    "hairColors": "发色",
+    "haircolors": "发色",
     "eyes": "眼睛",
-    "eyeColors": "瞳色",
+    "eyecolors": "瞳色",
     "expression": "表情",
     "pose": "姿势",
-    "bodyType": "体型",
+    "bodytype": "体型",
     "skin": "肤色",
     "age": "年龄",
     "accessories": "配饰",
@@ -380,7 +471,7 @@
     "art": "艺术风格",
     "realism": "写实风格",
     "specialty": "专业领域",
-    "artistStyle": "艺术家风格",
+    "artiststyle": "艺术家风格",
     "aesthetic": "美学风格",
     "mj_v5_themes": "主题",
     "mj_v5_artists": "参考艺术家",
@@ -391,7 +482,7 @@
     "mj_v5_dimension": "维度表现",
     "mj_v5_intangibles": "抽象概念",
     "mj_v5_mediums": "媒介类型",
-    "animeManga": "动漫漫画",
+    "animemanga": "动漫漫画",
     "cinematographer": "电影摄影师风格",
     "editorial": "编辑风格",
     "decade-20c": "20 世纪",
@@ -414,10 +505,10 @@
     "body-mod": "身体改造",
     "bag-accessory": "包袋",
     "instrument": "乐器",
-    "panelLayout": "分镜布局",
-    "comicEffects": "漫画特效",
+    "panellayout": "分镜布局",
+    "comiceffects": "漫画特效",
     "animation": "动画风格",
-    "panelMood": "分镜氛围",
+    "panelmood": "分镜氛围",
     "render-engines": "渲染引擎",
     "render-resolution": "分辨率",
     "render-stamps": "标记",
@@ -431,7 +522,7 @@
     "color": "色彩质量",
     "texture": "纹理质量",
     "scene": "场景",
-    "artStyles": "艺术流派",
+    "artstyles": "艺术流派",
     "wardrobe-accessories": "服装配饰",
     "wardrobe-archetype": "服装原型",
     "wardrobe-bottom": "下装款式",
@@ -468,7 +559,7 @@
     "genre": "类型风格",
     "illustrator": "插画师风格",
     "speculative": "推测风格",
-    "animeSpecific": "动漫特定",
+    "animespecific": "动漫特定",
     "face-expression": "面部表情",
     "glass-ceramic": "玻璃陶瓷",
     "mj_v5_lighting": "灯光效果",

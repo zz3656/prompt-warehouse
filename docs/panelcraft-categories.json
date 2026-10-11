@@ -1,0 +1,53 @@
+{
+  "whitelist": {
+    "core": [
+      "character",
+      "clothing",
+      "composition",
+      "lighting",
+      "negative",
+      "panel",
+      "quality",
+      "scene",
+      "shot-language",
+      "styles"
+    ],
+    "extended": [
+      "atmosphere",
+      "color-look",
+      "material"
+    ],
+    "optional": [
+      "action-fx",
+      "character-fx",
+      "era",
+      "held-prop",
+      "photographer",
+      "temporal",
+      "transitions"
+    ]
+  },
+  "category_counts": {
+    "shot-language": 38,
+    "negative": 103,
+    "quality": 166,
+    "panel": 74,
+    "atmosphere": 6,
+    "color-look": 69,
+    "lighting": 382,
+    "character": 477,
+    "clothing": 703,
+    "scene": 995,
+    "action-fx": 75,
+    "character-fx": 60,
+    "styles": 1990,
+    "transitions": 81,
+    "photographer": 89,
+    "era": 33,
+    "held-prop": 66,
+    "material": 67,
+    "composition": 533,
+    "temporal": 30
+  },
+  "note": "白名单只列实际存在的分类文件。已废弃的分类（aesthetic, backdrop, camera-format, camera-motions, framing, mood, photo-genre, pose, post-process, render-quality, setting, style, wardrobe）不在白名单中，文件也不存在。"
+}

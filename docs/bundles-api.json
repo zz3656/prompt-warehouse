@@ -1,0 +1,65 @@
+{
+  "version": "1.0",
+  "description": "PanelCraft 通过此 API 读取和更新 bundles",
+  "endpoints": [
+    {
+      "method": "GET",
+      "path": "/api/bundles",
+      "description": "列出所有 bundle 的 id / name / name_zh / keyword_count",
+      "response_example": {
+        "bundles": [
+          {
+            "id": "photography.cinematic_portrait",
+            "name": "Cinematic Portrait",
+            "name_zh": "电影感人像",
+            "keyword_count": 39
+          }
+        ]
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/api/bundles/:id",
+      "description": "读取单个 bundle 完整内容",
+      "response_example": {
+        "id": "photography.cinematic_portrait",
+        "name": "Cinematic Portrait",
+        "keywords": [
+          {
+            "id": "quality_basic_masterpiece",
+            "weight": 1.0
+          }
+        ],
+        "template_id": "character.reference_description"
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/api/bundles/:id",
+      "description": "整体替换一个 bundle（PanelCraft 用此更新权重 / 关键词列表）",
+      "body_schema": "见 schema/bundle.schema.json",
+      "response_example": {
+        "ok": true,
+        "id": "photography.cinematic_portrait"
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/api/bundles",
+      "description": "新建 bundle",
+      "response_example": {
+        "ok": true,
+        "id": "new.bundle.id"
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/api/bundles/:id",
+      "description": "删除 bundle",
+      "response_example": {
+        "ok": true
+      }
+    }
+  ],
+  "note": "PanelCraft 更新的是 bundle 的 keywords 权重列表和 template_id，不修改 keywords/categories/ 下的关键词"
+}

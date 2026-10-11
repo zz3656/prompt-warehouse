@@ -3,7 +3,7 @@
     "id": "panel_panellayout_single_panel",
     "term": "single panel",
     "category": "panel",
-    "subcategory": "panelLayout",
+    "subcategory": "panellayout",
     "labels": [
       "panelLayout",
       "single"
@@ -30,13 +30,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_panellayout_close_up_shot",
     "term": "close-up shot",
     "category": "panel",
-    "subcategory": "panelLayout",
+    "subcategory": "panellayout",
     "labels": [
       "panelLayout",
       "close-up"
@@ -65,13 +66,14 @@
       "midjourney"
     ],
     "relation_group": "close-up shot",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "panel_panellayout_wide_establishing_shot",
     "term": "wide establishing shot",
     "category": "panel",
-    "subcategory": "panelLayout",
+    "subcategory": "panellayout",
     "labels": [
       "panelLayout",
       "wide"
@@ -97,13 +99,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_panellayout_medium_shot",
     "term": "medium shot",
     "category": "panel",
-    "subcategory": "panelLayout",
+    "subcategory": "panellayout",
     "labels": [
       "panelLayout",
       "medium"
@@ -132,13 +135,14 @@
       "midjourney"
     ],
     "relation_group": "medium shot",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "panel_panellayout_reaction_shot",
     "term": "reaction shot",
     "category": "panel",
-    "subcategory": "panelLayout",
+    "subcategory": "panellayout",
     "labels": [
       "panelLayout",
       "reaction"
@@ -165,13 +169,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_panellayout_two_shot",
     "term": "two-shot",
     "category": "panel",
-    "subcategory": "panelLayout",
+    "subcategory": "panellayout",
     "labels": [
       "panelLayout",
       "two-shot"
@@ -200,13 +205,14 @@
       "midjourney"
     ],
     "relation_group": "two-shot",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.7
   },
   {
     "id": "panel_panellayout_over_the_shoulder_shot",
     "term": "over the shoulder shot",
     "category": "panel",
-    "subcategory": "panelLayout",
+    "subcategory": "panellayout",
     "labels": [
       "panelLayout",
       "over"
@@ -235,13 +241,14 @@
       "midjourney"
     ],
     "relation_group": "over the shoulder shot",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "panel_panellayout_point_of_view_shot",
     "term": "point of view shot",
     "category": "panel",
-    "subcategory": "panelLayout",
+    "subcategory": "panellayout",
     "labels": [
       "panelLayout",
       "point"
@@ -270,13 +277,14 @@
       "midjourney"
     ],
     "relation_group": "point of view shot",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "panel_panellayout_pov_shot",
     "term": "POV shot",
     "category": "panel",
-    "subcategory": "panelLayout",
+    "subcategory": "panellayout",
     "labels": [
       "panelLayout",
       "POV"
@@ -304,13 +312,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_panellayout_dutch_angle",
     "term": "dutch angle",
     "category": "panel",
-    "subcategory": "panelLayout",
+    "subcategory": "panellayout",
     "labels": [
       "panelLayout",
       "dutch"
@@ -339,13 +348,14 @@
       "midjourney"
     ],
     "relation_group": "dutch angle",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.7
   },
   {
     "id": "panel_panellayout_dynamic_angle",
     "term": "dynamic angle",
     "category": "panel",
-    "subcategory": "panelLayout",
+    "subcategory": "panellayout",
     "labels": [
       "panelLayout",
       "dynamic"
@@ -374,13 +384,14 @@
       "midjourney"
     ],
     "relation_group": "dynamic angle",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "panel_panellayout_dramatic_angle",
     "term": "dramatic angle",
     "category": "panel",
-    "subcategory": "panelLayout",
+    "subcategory": "panellayout",
     "labels": [
       "panelLayout",
       "dramatic"
@@ -409,13 +420,14 @@
       "midjourney"
     ],
     "relation_group": "dramatic angle",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "panel_panellayout_split_screen",
     "term": "split screen",
     "category": "panel",
-    "subcategory": "panelLayout",
+    "subcategory": "panellayout",
     "labels": [
       "panelLayout",
       "split"
@@ -442,13 +454,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_panellayout_double_page_spread",
     "term": "double page spread",
     "category": "panel",
-    "subcategory": "panelLayout",
+    "subcategory": "panellayout",
     "labels": [
       "panelLayout",
       "double"
@@ -475,13 +488,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_panellayout_splash_page",
     "term": "splash page",
     "category": "panel",
-    "subcategory": "panelLayout",
+    "subcategory": "panellayout",
     "labels": [
       "panelLayout",
       "splash"
@@ -508,13 +522,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_comiceffects_speed_lines",
     "term": "speed lines",
     "category": "panel",
-    "subcategory": "comicEffects",
+    "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
       "speed"
@@ -541,13 +556,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_comiceffects_action_lines",
     "term": "action lines",
     "category": "panel",
-    "subcategory": "comicEffects",
+    "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
       "action"
@@ -574,13 +590,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_comiceffects_impact_lines",
     "term": "impact lines",
     "category": "panel",
-    "subcategory": "comicEffects",
+    "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
       "impact"
@@ -607,13 +624,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_comiceffects_concentric_lines",
     "term": "concentric lines",
     "category": "panel",
-    "subcategory": "comicEffects",
+    "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
       "concentric"
@@ -640,13 +658,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_comiceffects_emphasis_lines",
     "term": "emphasis lines",
     "category": "panel",
-    "subcategory": "comicEffects",
+    "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
       "emphasis"
@@ -673,13 +692,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_comiceffects_screentone",
     "term": "screentone",
     "category": "panel",
-    "subcategory": "comicEffects",
+    "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
       "screentone"
@@ -706,13 +726,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_comiceffects_halftone",
     "term": "halftone",
     "category": "panel",
-    "subcategory": "comicEffects",
+    "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
       "halftone"
@@ -741,13 +762,14 @@
       "midjourney"
     ],
     "relation_group": "halftone",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.7
   },
   {
     "id": "panel_comiceffects_stippling",
     "term": "stippling",
     "category": "panel",
-    "subcategory": "comicEffects",
+    "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
       "stippling"
@@ -774,13 +796,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_comiceffects_comic_effect",
     "term": "comic effect",
     "category": "panel",
-    "subcategory": "comicEffects",
+    "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
       "comic"
@@ -807,13 +830,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_comiceffects_visual_effect",
     "term": "visual effect",
     "category": "panel",
-    "subcategory": "comicEffects",
+    "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
       "visual"
@@ -840,13 +864,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_comiceffects_sound_effect_text",
     "term": "sound effect text",
     "category": "panel",
-    "subcategory": "comicEffects",
+    "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
       "sound"
@@ -873,13 +898,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_comiceffects_onomatopoeia",
     "term": "onomatopoeia",
     "category": "panel",
-    "subcategory": "comicEffects",
+    "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
       "onomatopoeia"
@@ -906,13 +932,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_comiceffects_thought_bubble",
     "term": "thought bubble",
     "category": "panel",
-    "subcategory": "comicEffects",
+    "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
       "thought"
@@ -939,13 +966,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_comiceffects_speech_balloon",
     "term": "speech balloon",
     "category": "panel",
-    "subcategory": "comicEffects",
+    "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
       "speech"
@@ -972,13 +1000,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_comiceffects_manga_panel_border",
     "term": "manga panel border",
     "category": "panel",
-    "subcategory": "comicEffects",
+    "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
       "manga"
@@ -1004,13 +1033,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_comiceffects_manga_panel",
     "term": "manga panel",
     "category": "panel",
-    "subcategory": "comicEffects",
+    "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
       "manga"
@@ -1037,13 +1067,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_comiceffects_focus_line",
     "term": "focus line",
     "category": "panel",
-    "subcategory": "comicEffects",
+    "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
       "focus"
@@ -1070,13 +1101,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_comiceffects_radial_lines",
     "term": "radial lines",
     "category": "panel",
-    "subcategory": "comicEffects",
+    "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
       "radial"
@@ -1103,13 +1135,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_comiceffects_flash_background",
     "term": "flash background",
     "category": "panel",
-    "subcategory": "comicEffects",
+    "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
       "flash"
@@ -1136,13 +1169,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_comiceffects_abstract_background",
     "term": "abstract background",
     "category": "panel",
-    "subcategory": "comicEffects",
+    "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
       "abstract"
@@ -1169,13 +1203,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_comiceffects_narration_box",
     "term": "narration box",
     "category": "panel",
-    "subcategory": "comicEffects",
+    "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
       "narration"
@@ -1202,13 +1237,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_comiceffects_chapter_title",
     "term": "chapter title",
     "category": "panel",
-    "subcategory": "comicEffects",
+    "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
       "chapter"
@@ -1235,7 +1271,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_animation_key_frame",
@@ -1268,7 +1305,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_animation_animation_cel",
@@ -1300,7 +1338,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_animation_animation_test",
@@ -1333,7 +1372,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_animation_in_between_frame",
@@ -1366,7 +1406,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_animation_smear_frame",
@@ -1399,7 +1440,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_animation_motion_blur",
@@ -1434,7 +1476,8 @@
       "midjourney"
     ],
     "relation_group": "motion blur",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.7
   },
   {
     "id": "panel_animation_squash_and_stretch",
@@ -1467,7 +1510,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_animation_follow_through",
@@ -1500,7 +1544,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_animation_overlap",
@@ -1533,7 +1578,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_animation_anticipation_pose",
@@ -1566,7 +1612,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_animation_breakdown_pose",
@@ -1599,7 +1646,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_animation_hold_frame",
@@ -1632,7 +1680,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_animation_tween_frame",
@@ -1664,7 +1713,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_animation_animated_pose",
@@ -1697,7 +1747,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_animation_limited_animation",
@@ -1730,7 +1781,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_animation_full_animation",
@@ -1763,7 +1815,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_animation_center_of_gravity_shift",
@@ -1796,7 +1849,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_animation_weight_shift_pose",
@@ -1828,7 +1882,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_animation_secondary_action",
@@ -1861,13 +1916,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_panelmood_dramatic_panel",
     "term": "dramatic panel",
     "category": "panel",
-    "subcategory": "panelMood",
+    "subcategory": "panelmood",
     "labels": [
       "panelMood",
       "dramatic"
@@ -1894,13 +1950,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_panelmood_tension_panel",
     "term": "tension panel",
     "category": "panel",
-    "subcategory": "panelMood",
+    "subcategory": "panelmood",
     "labels": [
       "panelMood",
       "tension"
@@ -1927,13 +1984,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_panelmood_romantic_panel",
     "term": "romantic panel",
     "category": "panel",
-    "subcategory": "panelMood",
+    "subcategory": "panelmood",
     "labels": [
       "panelMood",
       "romantic"
@@ -1960,13 +2018,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_panelmood_comedic_panel",
     "term": "comedic panel",
     "category": "panel",
-    "subcategory": "panelMood",
+    "subcategory": "panelmood",
     "labels": [
       "panelMood",
       "comedic"
@@ -1993,13 +2052,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_panelmood_sad_panel",
     "term": "sad panel",
     "category": "panel",
-    "subcategory": "panelMood",
+    "subcategory": "panelmood",
     "labels": [
       "panelMood",
       "sad"
@@ -2026,13 +2086,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_panelmood_epic_panel",
     "term": "epic panel",
     "category": "panel",
-    "subcategory": "panelMood",
+    "subcategory": "panelmood",
     "labels": [
       "panelMood",
       "epic"
@@ -2059,13 +2120,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_panelmood_quiet_moment",
     "term": "quiet moment",
     "category": "panel",
-    "subcategory": "panelMood",
+    "subcategory": "panelmood",
     "labels": [
       "panelMood",
       "quiet"
@@ -2092,13 +2154,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_panelmood_punchline_panel",
     "term": "punchline panel",
     "category": "panel",
-    "subcategory": "panelMood",
+    "subcategory": "panelmood",
     "labels": [
       "panelMood",
       "punchline"
@@ -2125,13 +2188,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_panelmood_reveal_panel",
     "term": "reveal panel",
     "category": "panel",
-    "subcategory": "panelMood",
+    "subcategory": "panelmood",
     "labels": [
       "panelMood",
       "reveal"
@@ -2158,13 +2222,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_panelmood_cliffhanger_panel",
     "term": "cliffhanger panel",
     "category": "panel",
-    "subcategory": "panelMood",
+    "subcategory": "panelmood",
     "labels": [
       "panelMood",
       "cliffhanger"
@@ -2191,13 +2256,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_panelmood_emotional_climax",
     "term": "emotional climax",
     "category": "panel",
-    "subcategory": "panelMood",
+    "subcategory": "panelmood",
     "labels": [
       "panelMood",
       "emotional"
@@ -2224,13 +2290,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_panelmood_establishing_panel",
     "term": "establishing panel",
     "category": "panel",
-    "subcategory": "panelMood",
+    "subcategory": "panelmood",
     "labels": [
       "panelMood",
       "establishing"
@@ -2257,13 +2324,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_panelmood_transition_panel",
     "term": "transition panel",
     "category": "panel",
-    "subcategory": "panelMood",
+    "subcategory": "panelmood",
     "labels": [
       "panelMood",
       "transition"
@@ -2290,13 +2358,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_speed_lines_radial",
     "term": "radial speed lines burst",
     "term_zh": "径向速度线爆发",
-    "subcategory": "comicEffects",
+    "subcategory": "comiceffects",
     "labels": [
       "radial",
       "speed-lines",
@@ -2322,13 +2391,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.8
   },
   {
     "id": "panel_screentone_halo",
     "term": "screentone gradient halo",
     "term_zh": "网点纸渐变光晕",
-    "subcategory": "comicEffects",
+    "subcategory": "comiceffects",
     "labels": [
       "screentone",
       "gradient",
@@ -2354,13 +2424,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_koma_manga",
     "term": "manga-style panel gutter",
     "term_zh": "漫画风格分镜留白",
-    "subcategory": "panelLayout",
+    "subcategory": "panellayout",
     "labels": [
       "manga",
       "panel",
@@ -2386,13 +2457,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_emotion_exclamation",
     "term": "comic emotion exclamation burst",
     "term_zh": "漫画情绪感叹爆发",
-    "subcategory": "panelMood",
+    "subcategory": "panelmood",
     "labels": [
       "emotion",
       "exclamation",
@@ -2418,13 +2490,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   },
   {
     "id": "panel_shadownet_detailed",
     "term": "detailed shadow-net cross-hatching",
     "term_zh": "精细阴影交叉线稿",
-    "subcategory": "comicEffects",
+    "subcategory": "comiceffects",
     "labels": [
       "shadow-net",
       "cross-hatching",
@@ -2450,6 +2523,7 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.7
   }
 ]

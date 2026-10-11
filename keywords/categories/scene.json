@@ -34,7 +34,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_acorn",
@@ -71,7 +73,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_acropora_secale",
@@ -108,7 +112,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_afternoon",
@@ -145,7 +151,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_agar",
@@ -182,7 +190,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_airplane",
@@ -219,7 +229,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_alfredo",
@@ -255,7 +267,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_aloe",
@@ -292,7 +306,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_amanita_muscaria",
@@ -329,7 +345,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_american_propaganda",
@@ -365,7 +383,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_amulet",
@@ -402,7 +422,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_analog_clock",
@@ -439,7 +461,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_animal",
@@ -476,7 +500,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_animals",
@@ -513,7 +539,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_ant",
@@ -550,7 +578,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_anthropomorphic",
@@ -587,7 +617,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_antimatter",
@@ -624,7 +656,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_aquascape",
@@ -661,7 +695,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_arabic",
@@ -698,7 +734,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_arctic",
@@ -735,7 +773,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_armenian",
@@ -772,7 +812,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_artist",
@@ -809,7 +851,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_asteroid",
@@ -846,7 +890,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_atom",
@@ -883,7 +929,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_auto",
@@ -920,7 +968,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_autumn",
@@ -956,7 +1006,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_backdrop",
@@ -993,7 +1045,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_bacon",
@@ -1030,7 +1084,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_bacteria",
@@ -1067,7 +1123,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_badge",
@@ -1104,7 +1162,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_bagan",
@@ -1141,7 +1201,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_balinese",
@@ -1178,7 +1240,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_ball_pit",
@@ -1215,7 +1279,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_balloon",
@@ -1252,7 +1318,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_bamboo",
@@ -1289,7 +1357,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_band_aid",
@@ -1326,7 +1396,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_bandage",
@@ -1363,7 +1435,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_bard",
@@ -1399,7 +1473,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_baseball",
@@ -1436,7 +1512,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_basketball",
@@ -1473,7 +1551,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_bauble",
@@ -1510,7 +1590,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_bavarian",
@@ -1547,7 +1629,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_bayou",
@@ -1584,7 +1668,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_beach",
@@ -1621,7 +1707,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_beach_ball",
@@ -1658,7 +1746,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_bean_bag",
@@ -1695,7 +1785,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_beans",
@@ -1732,7 +1824,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_bear",
@@ -1768,7 +1862,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_bee",
@@ -1805,7 +1901,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_beef",
@@ -1842,7 +1940,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_bench",
@@ -1879,7 +1979,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_benin",
@@ -1916,7 +2018,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_biome",
@@ -1953,7 +2057,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_biopunk",
@@ -1990,7 +2096,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_bird",
@@ -2026,7 +2134,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_blackhole",
@@ -2063,7 +2173,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_blimp",
@@ -2100,7 +2212,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_bling",
@@ -2137,7 +2251,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_blobject",
@@ -2174,7 +2290,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_bloom",
@@ -2211,7 +2329,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_bloomcore",
@@ -2248,7 +2368,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_blu_ray_disc",
@@ -2285,7 +2407,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_blue_pinkgill",
@@ -2322,7 +2446,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_bog",
@@ -2359,7 +2485,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_boss",
@@ -2396,7 +2524,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_botanical",
@@ -2433,7 +2563,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_bow_tie",
@@ -2469,7 +2601,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_bowtie",
@@ -2505,7 +2639,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_bracelet",
@@ -2544,7 +2680,9 @@
       "flux"
     ],
     "relation_group": "bracelet",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_branches",
@@ -2581,7 +2719,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_bread",
@@ -2618,7 +2758,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_breeze",
@@ -2655,7 +2797,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_brownies",
@@ -2692,7 +2836,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_bubble",
@@ -2729,7 +2875,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_bulldog",
@@ -2766,7 +2914,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_bunsen_burner",
@@ -2803,7 +2953,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_butter",
@@ -2840,7 +2992,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_butterfly",
@@ -2877,7 +3031,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_byzantine",
@@ -2914,7 +3070,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_byzantine_icon",
@@ -2950,7 +3108,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_cables",
@@ -2987,7 +3147,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_cactus",
@@ -3024,7 +3186,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_cage",
@@ -3061,7 +3225,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_cake",
@@ -3098,7 +3264,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_cake_decorating",
@@ -3135,7 +3303,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_calico",
@@ -3172,7 +3342,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_camera",
@@ -3209,7 +3381,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_candy",
@@ -3246,7 +3420,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_candy_floss",
@@ -3283,7 +3459,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_cannoli",
@@ -3320,7 +3498,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_canyon",
@@ -3357,7 +3537,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_capacitance_electronic_disc",
@@ -3393,7 +3575,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_capybara",
@@ -3430,7 +3614,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_car",
@@ -3467,7 +3653,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_caramel",
@@ -3504,7 +3692,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_cards",
@@ -3541,7 +3731,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_caribbean",
@@ -3578,7 +3770,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_cat",
@@ -3615,7 +3809,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_caterpillar",
@@ -3652,7 +3848,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_catholicpunk",
@@ -3688,7 +3886,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_caulastraea_furcata",
@@ -3724,7 +3924,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_cauliflower",
@@ -3761,7 +3963,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_cave",
@@ -3798,7 +4002,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_cd",
@@ -3836,7 +4042,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_celestial",
@@ -3873,7 +4081,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_cells",
@@ -3910,7 +4120,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_cellular",
@@ -3947,7 +4159,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_champagne",
@@ -3984,7 +4198,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_chaparral",
@@ -4021,7 +4237,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_charm",
@@ -4058,7 +4276,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_cheese",
@@ -4095,7 +4315,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_cheese_grater",
@@ -4131,7 +4353,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_chess",
@@ -4168,7 +4392,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_chihuahua",
@@ -4205,7 +4431,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_chlorociboria",
@@ -4242,7 +4470,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_chocolate",
@@ -4279,7 +4509,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_choux_pastry",
@@ -4316,7 +4548,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_christian_icon",
@@ -4352,7 +4586,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_christmas",
@@ -4389,7 +4625,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_churros",
@@ -4426,7 +4664,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_cinnamon",
@@ -4463,7 +4703,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_clam",
@@ -4500,7 +4742,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_clathrus_ruber",
@@ -4537,7 +4781,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_clavaria_zollingeri",
@@ -4574,7 +4820,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_cleric",
@@ -4611,7 +4859,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_clock",
@@ -4648,7 +4898,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_clownpunk",
@@ -4685,7 +4937,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_coconut",
@@ -4722,7 +4976,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_coffee",
@@ -4759,7 +5015,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_computer",
@@ -4796,7 +5054,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_coniferous_forest",
@@ -4833,7 +5093,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_constellation",
@@ -4870,7 +5132,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_coral",
@@ -4907,7 +5171,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_coral_reef",
@@ -4944,7 +5210,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_corgi",
@@ -4981,7 +5249,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_corona",
@@ -5018,7 +5288,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_corona_phenomenon",
@@ -5055,7 +5327,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_corynactis",
@@ -5092,7 +5366,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_corynactis_annulata",
@@ -5128,7 +5404,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_corynactis_californica",
@@ -5164,7 +5442,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_cosmic",
@@ -5201,7 +5481,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_cotton_candy",
@@ -5238,7 +5520,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_country",
@@ -5275,7 +5559,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_cow",
@@ -5311,7 +5597,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_crab_pulsar",
@@ -5347,7 +5635,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_crag",
@@ -5384,7 +5674,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_cream",
@@ -5421,7 +5713,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_creature",
@@ -5458,7 +5752,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_creme_brule",
@@ -5495,7 +5791,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_crinoid",
@@ -5532,7 +5830,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_crow",
@@ -5569,7 +5869,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_crowcore",
@@ -5606,7 +5908,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_curio",
@@ -5643,7 +5947,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_cycladic",
@@ -5680,7 +5986,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_cyptotrama_asprata",
@@ -5717,7 +6025,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_cystoagaricus_trisulphuratus",
@@ -5753,7 +6063,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_daffodil",
@@ -5790,7 +6102,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_dandelion",
@@ -5827,7 +6141,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_dark_matter",
@@ -5864,7 +6180,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_dawn",
@@ -5901,7 +6219,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_day",
@@ -5938,7 +6258,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_deciduous_forest",
@@ -5975,7 +6297,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_deep_fried",
@@ -6012,7 +6336,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_deep_sea",
@@ -6049,7 +6375,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_deer",
@@ -6085,7 +6413,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_desert",
@@ -6122,7 +6452,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_desertwave",
@@ -6159,7 +6491,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_dessertwave",
@@ -6196,7 +6530,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_dichroic_prism",
@@ -6233,7 +6569,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_digital_clock",
@@ -6270,7 +6608,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_dinosaur",
@@ -6307,7 +6647,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_diode",
@@ -6344,7 +6686,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_dispersive_prism",
@@ -6381,7 +6725,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_display",
@@ -6418,7 +6764,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_dna",
@@ -6455,7 +6803,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_dog",
@@ -6491,7 +6841,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_dominoes",
@@ -6527,7 +6879,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_doodad",
@@ -6564,7 +6918,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_dove",
@@ -6601,7 +6957,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_downpour",
@@ -6638,7 +6996,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_dragon",
@@ -6674,7 +7034,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_dreamcatcher",
@@ -6711,7 +7073,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_dress",
@@ -6750,7 +7114,9 @@
       "flux"
     ],
     "relation_group": "dress",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_dressed",
@@ -6787,7 +7153,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_dryland",
@@ -6824,7 +7192,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_duck",
@@ -6861,7 +7231,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_dunes",
@@ -6898,7 +7270,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_dusk",
@@ -6935,7 +7309,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_dvd",
@@ -6972,7 +7348,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_eagle",
@@ -7008,7 +7386,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_earth",
@@ -7045,7 +7425,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_earthcore",
@@ -7082,7 +7464,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_earthworm",
@@ -7119,7 +7503,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_eclair",
@@ -7156,7 +7542,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_eclipse",
@@ -7193,7 +7581,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_edible_ink",
@@ -7230,7 +7620,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_egg",
@@ -7266,7 +7658,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_egg_yolk",
@@ -7303,7 +7697,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_egyptian_art",
@@ -7340,7 +7736,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_elephant",
@@ -7377,7 +7775,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_elevation",
@@ -7414,7 +7814,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_elf",
@@ -7451,7 +7853,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_entities",
@@ -7488,7 +7892,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_entoloma_hochstetteri",
@@ -7524,7 +7930,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_environment",
@@ -7561,7 +7969,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_enzyme",
@@ -7597,7 +8007,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_eruption",
@@ -7634,7 +8046,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_estuary",
@@ -7671,7 +8085,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_etch_a_sketch",
@@ -7707,7 +8123,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_euphyllia_ancora",
@@ -7744,7 +8162,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_euphyllia_divisa",
@@ -7781,7 +8201,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_euphyllia_glabrescens",
@@ -7818,7 +8240,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_euphylliidae",
@@ -7855,7 +8279,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_europunk",
@@ -7892,7 +8318,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_favites_halicora",
@@ -7929,7 +8357,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_favites_pentagona",
@@ -7965,7 +8395,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_favolaschia_calocera",
@@ -8002,7 +8434,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_fedora",
@@ -8039,7 +8473,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_fen",
@@ -8076,7 +8512,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_fern",
@@ -8113,7 +8551,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_fettuccine",
@@ -8149,7 +8589,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_fig",
@@ -8186,7 +8628,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_film",
@@ -8223,7 +8667,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_fingerprint",
@@ -8260,7 +8706,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_fish",
@@ -8296,7 +8744,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_fish_eye",
@@ -8333,7 +8783,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_flag",
@@ -8370,7 +8822,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_flaky_pastry",
@@ -8407,7 +8861,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_flamingo",
@@ -8444,7 +8900,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_flood",
@@ -8481,7 +8939,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_flooded",
@@ -8518,7 +8978,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_floodplain",
@@ -8555,7 +9017,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_floral",
@@ -8592,7 +9056,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_flowercore",
@@ -8629,7 +9095,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_flowers",
@@ -8666,7 +9134,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_flux_capacitor",
@@ -8702,7 +9172,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_fogbow",
@@ -8739,7 +9211,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_fondant_icing",
@@ -8776,7 +9250,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_food",
@@ -8813,7 +9289,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_food_coloring",
@@ -8850,7 +9328,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_food_dye",
@@ -8887,7 +9367,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_football",
@@ -8924,7 +9406,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_foothills",
@@ -8961,7 +9445,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_forest",
@@ -8998,7 +9484,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_forestpunk",
@@ -9035,7 +9523,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_fox",
@@ -9072,7 +9562,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_frog",
@@ -9109,7 +9601,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_frogcore",
@@ -9146,7 +9640,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_frostpunk",
@@ -9183,7 +9679,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_frozen_in_time_photograph",
@@ -9219,7 +9717,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_fruit",
@@ -9256,7 +9756,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_fruit_tart",
@@ -9293,7 +9795,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_fullerene",
@@ -9330,7 +9834,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_fungi",
@@ -9367,7 +9873,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_galactic",
@@ -9404,7 +9912,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_galaxy",
@@ -9441,7 +9951,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_garden",
@@ -9478,7 +9990,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_gauze",
@@ -9515,7 +10029,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_gelatin",
@@ -9552,7 +10068,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_german_romanticism",
@@ -9588,7 +10106,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_giraffe",
@@ -9625,7 +10145,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_glacier",
@@ -9662,7 +10184,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_glasses",
@@ -9701,7 +10225,9 @@
       "flux"
     ],
     "relation_group": "glasses",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_global",
@@ -9738,7 +10264,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_gnocchi",
@@ -9775,7 +10303,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_goat",
@@ -9812,7 +10342,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_goblin",
@@ -9849,7 +10381,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_golden_scruffy_collybia",
@@ -9885,7 +10419,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_golf",
@@ -9922,7 +10458,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_golf_ball",
@@ -9959,7 +10497,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_good_luck_charm",
@@ -9996,7 +10536,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_goose",
@@ -10032,7 +10574,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_gorget_patch",
@@ -10069,7 +10613,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_gorilla",
@@ -10106,7 +10652,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_grass",
@@ -10143,7 +10691,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_grasshopper",
@@ -10180,7 +10730,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_grassland",
@@ -10217,7 +10769,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_grassy",
@@ -10254,7 +10808,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_greek_god",
@@ -10291,7 +10847,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_greek_goddess",
@@ -10328,7 +10886,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_greek_icon",
@@ -10365,7 +10925,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_greenscreen",
@@ -10402,7 +10964,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_grizzly_bear",
@@ -10439,7 +11003,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_groundcore",
@@ -10476,7 +11042,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_grove",
@@ -10513,7 +11081,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_guinea_pig",
@@ -10550,7 +11120,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_gum",
@@ -10587,7 +11159,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_gum_paste",
@@ -10624,7 +11198,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_gumdrop",
@@ -10661,7 +11237,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_gummies",
@@ -10698,7 +11276,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_gummy_candy",
@@ -10735,7 +11315,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_hail",
@@ -10772,7 +11354,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_halfling",
@@ -10809,7 +11393,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_halloween",
@@ -10846,7 +11432,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_hat",
@@ -10883,7 +11471,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_hay",
@@ -10920,7 +11510,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_hay_bale",
@@ -10957,7 +11549,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_heat",
@@ -10994,7 +11588,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_heathland",
@@ -11031,7 +11627,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_heatwave",
@@ -11068,7 +11666,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_hemp",
@@ -11105,7 +11705,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_heraldic_badge",
@@ -11142,7 +11744,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_hermitpunk",
@@ -11179,7 +11783,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_hockey",
@@ -11216,7 +11822,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_hockey_puck",
@@ -11253,7 +11861,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_holiday",
@@ -11290,7 +11900,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_holographic_versatile_disc",
@@ -11326,7 +11938,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_honeycomb",
@@ -11363,7 +11977,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_horse",
@@ -11399,7 +12015,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_horseshoe",
@@ -11436,7 +12054,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_hot_air_balloon",
@@ -11472,7 +12092,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_hot_springs",
@@ -11509,7 +12131,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_hotdog",
@@ -11546,7 +12170,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_human",
@@ -11583,7 +12209,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_humanoid",
@@ -11620,7 +12248,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_humanoid_forms",
@@ -11657,7 +12287,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_hurricane",
@@ -11694,7 +12326,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_hygrocybe_cantharellus",
@@ -11731,7 +12365,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_hypernova",
@@ -11767,7 +12403,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_ice_cream",
@@ -11804,7 +12442,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_icepunk",
@@ -11841,7 +12481,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_incan",
@@ -11878,7 +12520,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_instrument",
@@ -11915,7 +12559,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_interstellar",
@@ -11952,7 +12598,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_interstellar_space",
@@ -11989,7 +12637,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_islandpunk",
@@ -12026,7 +12676,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_items",
@@ -12063,7 +12715,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_japanese",
@@ -12100,7 +12754,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_japanese_garden",
@@ -12137,7 +12793,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_japonism",
@@ -12174,7 +12832,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_jeans",
@@ -12211,7 +12871,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_jelly",
@@ -12248,7 +12910,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_jellyfish",
@@ -12285,7 +12949,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_jigsaw",
@@ -12322,7 +12988,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_jumpsuit",
@@ -12359,7 +13027,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_jungle",
@@ -12396,7 +13066,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_junglecore",
@@ -12433,7 +13105,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_jupiter",
@@ -12470,7 +13144,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_kangaroo",
@@ -12507,7 +13183,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_kelp",
@@ -12544,7 +13222,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_kelp_forest",
@@ -12581,7 +13261,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_ketchup",
@@ -12618,7 +13300,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_khmer",
@@ -12655,7 +13339,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_kinetic_sand",
@@ -12692,7 +13378,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_knickknack",
@@ -12729,7 +13417,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_koosh",
@@ -12766,7 +13456,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_koosh_ball",
@@ -12803,7 +13495,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_laccaria_amethystina",
@@ -12840,7 +13534,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_lactarius_indigo",
@@ -12877,7 +13573,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_lake",
@@ -12914,7 +13612,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_landscape",
@@ -12951,7 +13651,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_laserdisc",
@@ -12988,7 +13690,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_latticed_stinkhorn",
@@ -13025,7 +13729,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_leaves",
@@ -13062,7 +13768,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_lego",
@@ -13099,7 +13807,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_lego_mindstorms",
@@ -13136,7 +13846,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_lego_mindstorms_nxt",
@@ -13174,7 +13886,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_lens",
@@ -13211,7 +13925,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_leopard",
@@ -13247,7 +13963,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_lightning",
@@ -13286,7 +14004,9 @@
       "flux"
     ],
     "relation_group": "lightning",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_lightning_bolt",
@@ -13323,7 +14043,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_lightningwave",
@@ -13360,7 +14082,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_lilac",
@@ -13397,7 +14121,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_lily_pad",
@@ -13434,7 +14160,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_lily_pads",
@@ -13471,7 +14199,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_lincoln_logs",
@@ -13508,7 +14238,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_lion",
@@ -13545,7 +14277,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_lipstick",
@@ -13582,7 +14316,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_lite_brite",
@@ -13619,7 +14355,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_llama",
@@ -13656,7 +14394,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_lollipop",
@@ -13693,7 +14433,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_lunar",
@@ -13729,7 +14471,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_lunarpunk",
@@ -13766,7 +14510,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_lush",
@@ -13803,7 +14549,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_macaroni",
@@ -13840,7 +14588,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_macaroni_and_cheese",
@@ -13876,7 +14626,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_made_of_bread",
@@ -13913,7 +14665,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_madrepora_oculata",
@@ -13949,7 +14703,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_magnetar",
@@ -13986,7 +14742,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_mali",
@@ -14023,7 +14781,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_mammal",
@@ -14060,7 +14820,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_mango",
@@ -14097,7 +14859,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_mangrove",
@@ -14134,7 +14898,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_maple_syrup",
@@ -14171,7 +14937,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_marasmius_haematocephalus",
@@ -14207,7 +14975,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_marbles",
@@ -14244,7 +15014,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_margarine",
@@ -14281,7 +15053,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_mars",
@@ -14318,7 +15092,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_marsh",
@@ -14355,7 +15131,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_marzipan",
@@ -14392,7 +15170,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_master",
@@ -14429,7 +15209,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_mat",
@@ -14466,7 +15248,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_mayan",
@@ -14503,7 +15287,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_mayo",
@@ -14540,7 +15326,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_mayonnaise",
@@ -14577,7 +15365,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_maze",
@@ -14614,7 +15404,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_meadow",
@@ -14651,7 +15443,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_mediterranean",
@@ -14688,7 +15482,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_megablocks",
@@ -14725,7 +15521,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_mermaid",
@@ -14762,7 +15560,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_mesa",
@@ -14799,7 +15599,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_mesa_bryce",
@@ -14835,7 +15637,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_metal_nail",
@@ -14872,7 +15676,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_microburst",
@@ -14908,7 +15714,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_microquasar",
@@ -14945,7 +15753,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_midday",
@@ -14982,7 +15792,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_midnight",
@@ -15019,7 +15831,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_minoan",
@@ -15056,7 +15870,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_minotaur",
@@ -15093,7 +15909,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_mitochondria",
@@ -15130,7 +15948,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_mitosis",
@@ -15167,7 +15987,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_modeling_chocolate",
@@ -15203,7 +16025,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_moldy",
@@ -15240,7 +16064,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_molecular_gastronomy",
@@ -15277,7 +16103,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_monkey",
@@ -15314,7 +16142,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_moonbow",
@@ -15351,7 +16181,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_morning",
@@ -15388,7 +16220,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_moss",
@@ -15425,7 +16259,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_mosscore",
@@ -15462,7 +16298,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_mountains",
@@ -15499,7 +16337,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_mushroom",
@@ -15536,7 +16376,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_mushroomcore",
@@ -15573,7 +16415,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_mushrooms",
@@ -15610,7 +16454,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_muskeg",
@@ -15647,7 +16493,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_mustard",
@@ -15684,7 +16532,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_mycelium",
@@ -15721,7 +16571,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_mycena_acicula",
@@ -15758,7 +16610,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_nail",
@@ -15795,7 +16649,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_nanoparticle",
@@ -15832,7 +16688,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_nasa",
@@ -15869,7 +16727,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_nation",
@@ -15906,7 +16766,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_natural",
@@ -15942,7 +16804,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_nature",
@@ -15978,7 +16842,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_naturecore",
@@ -16015,7 +16881,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_nautical",
@@ -16052,7 +16920,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_nautical_nonsense",
@@ -16089,7 +16959,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_nebula",
@@ -16126,7 +16998,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_necktie",
@@ -16163,7 +17037,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_needle",
@@ -16199,7 +17075,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_neptune",
@@ -16236,7 +17114,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_neutron_star",
@@ -16273,7 +17153,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_newtons_cradle",
@@ -16310,7 +17192,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_nick_nack",
@@ -16347,7 +17231,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_night",
@@ -16384,7 +17270,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_nonpareils",
@@ -16421,7 +17309,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_noon",
@@ -16458,7 +17348,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_nordic_mythology",
@@ -16495,7 +17387,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_northern_lights",
@@ -16534,7 +17428,9 @@
       "flux"
     ],
     "relation_group": "northern lights",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_object",
@@ -16571,7 +17467,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_ocean",
@@ -16608,7 +17506,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_ocean_grunge",
@@ -16644,7 +17544,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_olive_oil",
@@ -16681,7 +17583,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_orbital",
@@ -16718,7 +17622,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_orc",
@@ -16755,7 +17661,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_orchard",
@@ -16792,7 +17700,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_organic",
@@ -16829,7 +17739,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_outer_space",
@@ -16866,7 +17778,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_outfit",
@@ -16903,7 +17817,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_overcast",
@@ -16940,7 +17856,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_owl",
@@ -16977,7 +17895,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_oyster",
@@ -17014,7 +17934,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_ozone",
@@ -17051,7 +17973,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_paleocore",
@@ -17088,7 +18012,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_panda",
@@ -17125,7 +18051,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_paper_clips",
@@ -17162,7 +18090,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_park",
@@ -17199,7 +18129,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_parrot",
@@ -17236,7 +18168,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_pasta",
@@ -17273,7 +18207,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_pasta_sauce",
@@ -17310,7 +18246,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_pasture",
@@ -17347,7 +18285,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_peacock",
@@ -17384,7 +18324,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_peanut",
@@ -17421,7 +18363,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_peanut_butter",
@@ -17458,7 +18402,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_pegasus",
@@ -17495,7 +18441,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_penguin",
@@ -17532,7 +18480,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_phyllo",
@@ -17569,7 +18519,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_piano",
@@ -17606,7 +18558,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_pig",
@@ -17642,7 +18596,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_pilgrim",
@@ -17679,7 +18635,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_pinecone",
@@ -17716,7 +18674,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_pinwheel",
@@ -17753,7 +18713,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_pizza",
@@ -17790,7 +18752,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_plains",
@@ -17827,7 +18791,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_planet",
@@ -17864,7 +18830,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_planet_earth",
@@ -17901,7 +18869,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_planet_jupiter",
@@ -17938,7 +18908,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_planet_mars",
@@ -17975,7 +18947,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_planet_mercury",
@@ -18012,7 +18986,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_planet_neptune",
@@ -18048,7 +19024,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_planet_pluto",
@@ -18084,7 +19062,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_planet_saturn",
@@ -18121,7 +19101,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_planet_uranus",
@@ -18157,7 +19139,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_planet_venus",
@@ -18194,7 +19178,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_planetary",
@@ -18231,7 +19217,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_planets",
@@ -18268,7 +19256,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_plant",
@@ -18305,7 +19295,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_plants",
@@ -18342,7 +19334,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_plume",
@@ -18379,7 +19373,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_pluto",
@@ -18416,7 +19412,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_pogs",
@@ -18453,7 +19451,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_polar",
@@ -18490,7 +19490,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_polar_bear",
@@ -18527,7 +19529,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_police",
@@ -18564,7 +19568,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_polo",
@@ -18601,7 +19607,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_pond",
@@ -18638,7 +19646,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_porcupine",
@@ -18675,7 +19685,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_pork",
@@ -18712,7 +19724,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_prairie",
@@ -18749,7 +19763,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_pretzel",
@@ -18786,7 +19802,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_propaganda",
@@ -18823,7 +19841,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_pseudodiploria_strigosa",
@@ -18859,7 +19879,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_puebloan",
@@ -18896,7 +19918,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_puff_pastry",
@@ -18933,7 +19957,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_puzzle",
@@ -18970,7 +19996,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_quarterback",
@@ -19007,7 +20035,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_quasar",
@@ -19044,7 +20074,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_rabbit",
@@ -19081,7 +20113,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_rain",
@@ -19117,7 +20151,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_rainforest",
@@ -19154,7 +20190,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_rangeland",
@@ -19191,7 +20229,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_ravencore",
@@ -19228,7 +20268,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_red_wine",
@@ -19265,7 +20307,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_reefwave",
@@ -19302,7 +20346,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_reptile",
@@ -19339,7 +20385,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_ribbons",
@@ -19376,7 +20424,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_ricordea",
@@ -19413,7 +20463,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_river",
@@ -19450,7 +20502,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_rocket_ship",
@@ -19487,7 +20541,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_roman_god",
@@ -19524,7 +20580,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_roman_goddess",
@@ -19561,7 +20619,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_roman_icon",
@@ -19598,7 +20658,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_roman_mythology",
@@ -19635,7 +20697,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_rose",
@@ -19672,7 +20736,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_royal_icing",
@@ -19709,7 +20775,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_rubber_band",
@@ -19746,7 +20814,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_rubber_band_ball",
@@ -19783,7 +20853,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_rubiks_cube",
@@ -19820,7 +20892,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_rugby",
@@ -19857,7 +20931,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_rugby_ball",
@@ -19894,7 +20970,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_rural",
@@ -19931,7 +21009,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_samurai",
@@ -19968,7 +21048,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_samurai_warrior",
@@ -20005,7 +21087,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_sandstorm",
@@ -20042,7 +21126,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_sandworm",
@@ -20079,7 +21165,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_santa",
@@ -20116,7 +21204,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_sapling",
@@ -20153,7 +21243,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_saturn",
@@ -20189,7 +21281,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_sauce",
@@ -20225,7 +21319,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_savanna",
@@ -20262,7 +21358,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_saxophone",
@@ -20299,7 +21397,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_screw",
@@ -20336,7 +21436,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_scrubland",
@@ -20373,7 +21475,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_sea",
@@ -20410,7 +21514,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_sea_anemone",
@@ -20447,7 +21553,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_sea_urchin",
@@ -20484,7 +21592,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_sealife",
@@ -20521,7 +21631,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_seapunk",
@@ -20558,7 +21670,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_seashell",
@@ -20595,7 +21709,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_seaside",
@@ -20632,7 +21748,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_seasons",
@@ -20669,7 +21787,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_seaweed",
@@ -20706,7 +21826,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_selkiecore",
@@ -20742,7 +21864,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_setting",
@@ -20778,7 +21902,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_settings",
@@ -20814,7 +21940,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_shark",
@@ -20851,7 +21979,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_sheep",
@@ -20888,7 +22018,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_shih_tzu",
@@ -20925,7 +22057,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_shoe",
@@ -20962,7 +22096,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_shoes",
@@ -20999,7 +22135,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_shortcrust_pastry",
@@ -21036,7 +22174,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_shrubland",
@@ -21073,7 +22213,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_silly_band",
@@ -21110,7 +22252,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_skydiving",
@@ -21147,7 +22291,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_sleet",
@@ -21184,7 +22330,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_slinky",
@@ -21221,7 +22369,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_snake",
@@ -21257,7 +22407,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_snow",
@@ -21295,7 +22447,9 @@
       "flux"
     ],
     "relation_group": "snow",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_soap",
@@ -21332,7 +22486,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_soccer",
@@ -21369,7 +22525,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_soccer_ball",
@@ -21406,7 +22564,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_soda",
@@ -21443,7 +22603,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_solar_eclipse",
@@ -21480,7 +22642,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_solarpunk",
@@ -21517,7 +22681,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_sour_cream",
@@ -21554,7 +22720,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_southern_lights",
@@ -21591,7 +22759,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_soviet_propaganda",
@@ -21627,7 +22797,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_spacecore",
@@ -21664,7 +22836,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_spaghetti",
@@ -21700,7 +22874,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_sport",
@@ -21737,7 +22913,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_sports",
@@ -21774,7 +22952,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_spring",
@@ -21810,7 +22990,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_springs",
@@ -21846,7 +23028,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_sprinkles",
@@ -21883,7 +23067,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_squirrel",
@@ -21920,7 +23106,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_starry",
@@ -21957,7 +23145,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_stellar",
@@ -21994,7 +23184,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_stellar_corona",
@@ -22031,7 +23223,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_steppe",
@@ -22068,7 +23262,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_stonepunk",
@@ -22105,7 +23301,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_storm",
@@ -22142,7 +23340,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_stormy",
@@ -22179,7 +23379,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_straw",
@@ -22216,7 +23418,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_straw_bale",
@@ -22253,7 +23457,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_stress_ball",
@@ -22290,7 +23496,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_stuff",
@@ -22327,7 +23535,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_summer",
@@ -22363,7 +23573,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_sun",
@@ -22400,7 +23612,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_sunglasses",
@@ -22439,7 +23653,9 @@
       "flux"
     ],
     "relation_group": "sunglasses",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_supernova",
@@ -22476,7 +23692,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_surroundings",
@@ -22513,7 +23731,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_swamp",
@@ -22550,7 +23770,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_syrup",
@@ -22587,7 +23809,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_taffy",
@@ -22624,7 +23848,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_taisho_period",
@@ -22661,7 +23887,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_tallow",
@@ -22698,7 +23926,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_tang_dynasty",
@@ -22735,7 +23965,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_tangram",
@@ -22772,7 +24004,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_tavernwave",
@@ -22809,7 +24043,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_tchotchke",
@@ -22846,7 +24082,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_tea",
@@ -22882,7 +24120,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_teapot",
@@ -22919,7 +24159,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_tendrils",
@@ -22956,7 +24198,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_tennis",
@@ -22993,7 +24237,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_tennis_ball",
@@ -23030,7 +24276,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_tesla_valve",
@@ -23067,7 +24315,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_thai",
@@ -23104,7 +24354,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_thicket",
@@ -23141,7 +24393,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_things",
@@ -23178,7 +24432,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_thunderbolt",
@@ -23215,7 +24471,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_tibetan",
@@ -23252,7 +24510,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_tiger",
@@ -23288,7 +24548,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_timurid",
@@ -23325,7 +24587,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_tincture",
@@ -23362,7 +24626,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_tiwanaku",
@@ -23399,7 +24665,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_toad",
@@ -23436,7 +24704,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_toilet",
@@ -23473,7 +24743,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_toothpaste",
@@ -23510,7 +24782,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_tornado",
@@ -23547,7 +24821,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_toy",
@@ -23584,7 +24860,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_transistor",
@@ -23621,7 +24899,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_tree",
@@ -23657,7 +24937,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_tree_bark",
@@ -23694,7 +24976,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_tremella_fuciformis",
@@ -23731,7 +25015,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_tremella_mesenterica",
@@ -23768,7 +25054,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_trinket",
@@ -23805,7 +25093,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_trophy",
@@ -23842,7 +25132,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_tropical",
@@ -23879,7 +25171,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_tsunami",
@@ -23916,7 +25210,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_tubastraea_faulkneri",
@@ -23953,7 +25249,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_tulip",
@@ -23990,7 +25288,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_tundra",
@@ -24027,7 +25327,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_turkey",
@@ -24064,7 +25366,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_turtle",
@@ -24101,7 +25405,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_tuxedo",
@@ -24138,7 +25444,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_twilight",
@@ -24177,7 +25485,9 @@
       "flux"
     ],
     "relation_group": "twilight",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_underwater",
@@ -24214,7 +25524,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_uniform",
@@ -24251,7 +25563,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_universe",
@@ -24288,7 +25602,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_upper_atmospheric_lightning",
@@ -24324,7 +25640,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_uranus",
@@ -24361,7 +25679,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_urban",
@@ -24398,7 +25718,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_urban_exploration",
@@ -24435,7 +25757,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_valley",
@@ -24472,7 +25796,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_vegetable",
@@ -24509,7 +25835,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_vegetable_oil",
@@ -24546,7 +25874,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_veins",
@@ -24583,7 +25913,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_vela_pulsar",
@@ -24619,7 +25951,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_victorian",
@@ -24655,7 +25989,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_videocasette",
@@ -24691,7 +26027,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_viking",
@@ -24728,7 +26066,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_vines",
@@ -24765,7 +26105,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_vinyl_record",
@@ -24802,7 +26144,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_volcanic",
@@ -24839,7 +26183,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_volcano",
@@ -24876,7 +26222,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_volleyball",
@@ -24913,7 +26261,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_wagyu",
@@ -24950,7 +26300,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_warlock",
@@ -24987,7 +26339,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_warrior",
@@ -25024,7 +26378,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_wasteland",
@@ -25061,7 +26417,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_water_lilies",
@@ -25098,7 +26456,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_waterfall",
@@ -25135,7 +26495,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_wearable",
@@ -25172,7 +26534,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_wearing_glasses",
@@ -25211,7 +26575,9 @@
       "flux"
     ],
     "relation_group": "wearing glasses",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_wearing_sunglasses",
@@ -25250,7 +26616,9 @@
       "flux"
     ],
     "relation_group": "wearing sunglasses",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_weather",
@@ -25287,7 +26655,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_weathercore",
@@ -25324,7 +26694,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_wedding_cake",
@@ -25361,7 +26733,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_wetcore",
@@ -25398,7 +26772,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_wetland",
@@ -25435,7 +26811,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_whale",
@@ -25472,7 +26850,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_wheat",
@@ -25509,7 +26889,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_whipped_cream",
@@ -25546,7 +26928,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_white_wine",
@@ -25583,7 +26967,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_wind",
@@ -25620,7 +27006,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_wine",
@@ -25657,7 +27045,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_winter",
@@ -25693,7 +27083,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_wires",
@@ -25730,7 +27122,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_geo_wizard",
@@ -25767,7 +27161,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_wolf",
@@ -25803,7 +27199,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_woodland",
@@ -25840,7 +27238,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_space_wormhole",
@@ -25877,7 +27277,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_worms",
@@ -25914,7 +27316,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_wristwatch",
@@ -25951,7 +27355,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_yardstick",
@@ -25988,7 +27394,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_zebra",
@@ -26025,7 +27433,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_zebrafish",
@@ -26062,7 +27472,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_zoanthid",
@@ -26099,7 +27511,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_nature_zodiacal_light",
@@ -26136,7 +27550,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "mj_mj_v5_objects_zorb",
@@ -26173,7 +27589,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65,
+    "subcategory_group": "midjourney_v5"
   },
   {
     "id": "scene_interaction_adopting_pet",
@@ -26207,7 +27625,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_time_afternoon",
@@ -26242,7 +27661,8 @@
       "midjourney",
       "flux"
     ],
-    "alias_of": "mj_mj_v5_nature_afternoon"
+    "alias_of": "mj_mj_v5_nature_afternoon",
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_aiming_weapon",
@@ -26276,7 +27696,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_relationship_allies",
@@ -26310,7 +27731,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_arguing_passionately",
@@ -26344,7 +27766,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_argument",
@@ -26378,7 +27801,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_aurora",
@@ -26414,7 +27838,8 @@
       "flux"
     ],
     "relation_group": "aurora",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_bandaging_wounds",
@@ -26448,7 +27873,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_relationship_best_friends",
@@ -26482,7 +27908,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_blizzard",
@@ -26516,7 +27943,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_blowing_clothes",
@@ -26549,7 +27977,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_blowing_hair",
@@ -26583,7 +28012,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_time_blue_hour",
@@ -26619,7 +28049,8 @@
       "flux"
     ],
     "relation_group": "blue hour",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_bowing",
@@ -26653,7 +28084,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_relationship_buddy_dynamic",
@@ -26687,7 +28119,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_time_candlelight",
@@ -26723,7 +28156,8 @@
       "flux"
     ],
     "relation_group": "candlelight",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.65
   },
   {
     "id": "scene_relationship_captain_and_subordinate",
@@ -26756,7 +28190,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_caring_for",
@@ -26790,7 +28225,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_casting_spells_together",
@@ -26824,7 +28260,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_character_interacting",
@@ -26858,7 +28295,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_chasing",
@@ -26892,7 +28330,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_relationship_childhood_friends",
@@ -26926,7 +28365,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_clear_sky",
@@ -26960,7 +28400,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_cloudy_sky",
@@ -26996,7 +28437,8 @@
       "flux"
     ],
     "relation_group": "cloudy sky",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_confronting",
@@ -27030,7 +28472,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_conversation",
@@ -27064,7 +28507,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_cooking_together",
@@ -27098,7 +28542,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_dancing",
@@ -27134,7 +28579,8 @@
       "flux"
     ],
     "relation_group": "dancing",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.65
   },
   {
     "id": "scene_time_dawn",
@@ -27169,7 +28615,8 @@
       "midjourney",
       "flux"
     ],
-    "alias_of": "mj_mj_v5_nature_dawn"
+    "alias_of": "mj_mj_v5_nature_dawn",
+    "weight": 0.65
   },
   {
     "id": "scene_time_daytime",
@@ -27203,7 +28650,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_drinking",
@@ -27237,7 +28685,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_drinking_tea_together",
@@ -27271,7 +28720,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_time_dusk",
@@ -27306,7 +28756,8 @@
       "midjourney",
       "flux"
     ],
-    "alias_of": "mj_mj_v5_nature_dusk"
+    "alias_of": "mj_mj_v5_nature_dusk",
+    "weight": 0.65
   },
   {
     "id": "scene_time_early_morning",
@@ -27340,7 +28791,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_eating",
@@ -27374,7 +28826,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_embracing",
@@ -27408,7 +28861,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_relationship_enemies",
@@ -27442,7 +28896,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_time_evening",
@@ -27476,7 +28931,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_examining_map",
@@ -27510,7 +28966,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_fighting",
@@ -27544,7 +29001,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_fighting_back_to_back",
@@ -27577,7 +29035,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_fighting_together",
@@ -27611,7 +29070,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_fog",
@@ -27646,7 +29106,8 @@
       "flux"
     ],
     "relation_group": "fog",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.65
   },
   {
     "id": "scene_relationship_friends",
@@ -27680,7 +29141,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_full_moon",
@@ -27714,7 +29176,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_giving_gift",
@@ -27748,7 +29211,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_time_golden_hour",
@@ -27784,7 +29248,8 @@
       "flux"
     ],
     "relation_group": "golden hour",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_group_hug",
@@ -27818,7 +29283,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_group_scene",
@@ -27852,7 +29318,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_heat_haze",
@@ -27886,7 +29353,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_heavy_rain",
@@ -27920,7 +29388,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_holding_hands",
@@ -27954,7 +29423,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_holding_swords",
@@ -27988,7 +29458,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_hugging",
@@ -28022,7 +29493,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_time_lantern_light",
@@ -28056,7 +29528,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_time_late_night",
@@ -28090,7 +29563,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_laughing_together",
@@ -28124,7 +29598,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_lightning",
@@ -28160,7 +29635,8 @@
       "flux"
     ],
     "relation_group": "lightning",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.65
   },
   {
     "id": "scene_relationship_lovers",
@@ -28194,7 +29670,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_making_peace",
@@ -28228,7 +29705,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_relationship_master_and_servant",
@@ -28261,7 +29739,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_relationship_mentor_and_student",
@@ -28294,7 +29773,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_meteor_shower",
@@ -28328,7 +29808,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_time_midnight",
@@ -28363,7 +29844,8 @@
       "midjourney",
       "flux"
     ],
-    "alias_of": "mj_mj_v5_nature_midnight"
+    "alias_of": "mj_mj_v5_nature_midnight",
+    "weight": 0.65
   },
   {
     "id": "scene_weather_mist",
@@ -28399,7 +29881,8 @@
       "flux"
     ],
     "relation_group": "mist",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.65
   },
   {
     "id": "scene_weather_moon",
@@ -28433,7 +29916,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_time_morning",
@@ -28468,7 +29952,8 @@
       "midjourney",
       "flux"
     ],
-    "alias_of": "mj_mj_v5_nature_morning"
+    "alias_of": "mj_mj_v5_nature_morning",
+    "weight": 0.65
   },
   {
     "id": "scene_time_night",
@@ -28503,7 +29988,8 @@
       "midjourney",
       "flux"
     ],
-    "alias_of": "mj_mj_v5_nature_night"
+    "alias_of": "mj_mj_v5_nature_night",
+    "weight": 0.65
   },
   {
     "id": "scene_weather_night_sky",
@@ -28537,7 +30023,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_time_noon",
@@ -28572,7 +30059,8 @@
       "midjourney",
       "flux"
     ],
-    "alias_of": "mj_mj_v5_nature_noon"
+    "alias_of": "mj_mj_v5_nature_noon",
+    "weight": 0.65
   },
   {
     "id": "scene_relationship_parent_and_child",
@@ -28605,7 +30093,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_partly_cloudy",
@@ -28639,7 +30128,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_playing_games",
@@ -28673,7 +30163,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_playing_instrument",
@@ -28707,7 +30198,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_practicing_martial_arts",
@@ -28741,7 +30233,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_protecting",
@@ -28775,7 +30268,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_relationship_protector_and_protected",
@@ -28808,7 +30302,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_pulling_trigger",
@@ -28842,7 +30337,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_rain",
@@ -28876,7 +30372,8 @@
       "midjourney",
       "flux"
     ],
-    "alias_of": "mj_mj_v5_nature_rain"
+    "alias_of": "mj_mj_v5_nature_rain",
+    "weight": 0.65
   },
   {
     "id": "scene_weather_rainbow",
@@ -28912,7 +30409,8 @@
       "flux"
     ],
     "relation_group": "rainbow",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.65
   },
   {
     "id": "scene_weather_raindrops",
@@ -28946,7 +30444,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_reading",
@@ -28980,7 +30479,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_reading_book_together",
@@ -29014,7 +30514,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_reading_letter",
@@ -29048,7 +30549,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_reconciling",
@@ -29082,7 +30584,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_relationship_rivals",
@@ -29116,7 +30619,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_relationship_rivals_to_lovers",
@@ -29149,7 +30653,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_relationship_romantic_partners",
@@ -29183,7 +30688,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_running_away",
@@ -29217,7 +30723,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_saluting",
@@ -29251,7 +30758,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_sharing_umbrella",
@@ -29285,7 +30793,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_relationship_sibling",
@@ -29319,7 +30828,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_singing",
@@ -29353,7 +30863,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_sitting_together",
@@ -29387,7 +30898,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_sleeping",
@@ -29421,7 +30933,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_snow",
@@ -29456,7 +30969,8 @@
       "flux"
     ],
     "relation_group": "snow",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.65
   },
   {
     "id": "scene_weather_snow_globe_effect",
@@ -29489,7 +31003,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_snowfall",
@@ -29523,7 +31038,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_standing_together",
@@ -29557,7 +31073,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_starry_sky",
@@ -29591,7 +31108,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_studying",
@@ -29625,7 +31143,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_sunrise",
@@ -29659,7 +31178,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_sunset",
@@ -29693,7 +31213,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_relationship_sword_brothers",
@@ -29727,7 +31248,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_relationship_sworn_enemies",
@@ -29761,7 +31283,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_relationship_teacher_and_student",
@@ -29795,7 +31318,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_team",
@@ -29828,7 +31352,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_relationship_team_member",
@@ -29862,7 +31387,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_teasing",
@@ -29896,7 +31422,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_thunderstorm",
@@ -29932,7 +31459,8 @@
       "flux"
     ],
     "relation_group": "thunderstorm",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_touching_face",
@@ -29966,7 +31494,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_training_together",
@@ -30000,7 +31529,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_time_twilight",
@@ -30036,7 +31566,8 @@
       "flux"
     ],
     "relation_group": "twilight",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.65
   },
   {
     "id": "scene_relationship_twin_siblings",
@@ -30069,7 +31600,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_two_people",
@@ -30103,7 +31635,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_umbrella",
@@ -30138,7 +31671,8 @@
       "flux"
     ],
     "relation_group": "umbrella",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.65
   },
   {
     "id": "scene_relationship_unrequited_love",
@@ -30172,7 +31706,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_waking_up",
@@ -30206,7 +31741,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_walking_together",
@@ -30240,7 +31776,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_watching_sunset_together",
@@ -30274,7 +31811,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_whispering",
@@ -30308,7 +31846,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_windy",
@@ -30342,7 +31881,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_interaction_working",
@@ -30376,7 +31916,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_cherry_blossom_trees",
@@ -30414,7 +31955,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_rose_garden",
@@ -30451,7 +31993,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_sunflower_field",
@@ -30488,7 +32031,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_lavender_field",
@@ -30525,7 +32069,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_mountain_range",
@@ -30562,7 +32107,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_waterfall_inside_cave",
@@ -30598,7 +32144,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_tropical_beach",
@@ -30636,7 +32183,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_crystal_cave",
@@ -30673,7 +32221,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_grotto",
@@ -30710,7 +32259,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_ruins",
@@ -30748,7 +32298,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_ancient_temple",
@@ -30785,7 +32336,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_castle",
@@ -30824,7 +32376,8 @@
       "flux"
     ],
     "relation_group": "castle",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.75
   },
   {
     "id": "scene_nature_dense_forest",
@@ -30862,7 +32415,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_bamboo_forest",
@@ -30899,7 +32453,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_enchanted_forest",
@@ -30936,7 +32491,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_fairy_forest",
@@ -30973,7 +32529,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_whimsical_forest",
@@ -31010,7 +32567,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_polar_forest",
@@ -31047,7 +32605,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_snowy_forest",
@@ -31084,7 +32643,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_mushroom_forest",
@@ -31121,7 +32681,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_flower_forest",
@@ -31158,7 +32719,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_autumn_leaves",
@@ -31196,7 +32758,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_cherry_blossom_season",
@@ -31234,7 +32797,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_cottage",
@@ -31271,7 +32835,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_lighthouse",
@@ -31308,7 +32873,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_windmill",
@@ -31345,7 +32911,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_greenhouse",
@@ -31384,7 +32951,8 @@
       "flux"
     ],
     "relation_group": "greenhouse",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.65
   },
   {
     "id": "scene_nature_greenhouse_interior",
@@ -31421,7 +32989,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_library",
@@ -31460,7 +33029,8 @@
       "flux"
     ],
     "relation_group": "library",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.75
   },
   {
     "id": "scene_nature_old_library",
@@ -31497,7 +33067,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_bookshelf",
@@ -31533,7 +33104,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_bookstore",
@@ -31570,7 +33142,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_cafe",
@@ -31607,7 +33180,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_coffee_shop",
@@ -31644,7 +33218,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_restaurant",
@@ -31681,7 +33256,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_lab",
@@ -31718,7 +33294,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_science_lab",
@@ -31754,7 +33331,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_computer_lab",
@@ -31790,7 +33368,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_control_room",
@@ -31827,7 +33406,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_bridge",
@@ -31862,7 +33442,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_stone_bridge",
@@ -31899,7 +33480,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_stone_path",
@@ -31936,7 +33518,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_cobblestone",
@@ -31975,7 +33558,8 @@
       "flux"
     ],
     "relation_group": "cobblestone",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.75
   },
   {
     "id": "scene_nature_road",
@@ -32013,7 +33597,8 @@
       "flux"
     ],
     "relation_group": "road",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.75
   },
   {
     "id": "scene_nature_stone_wall",
@@ -32049,7 +33634,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_stone_stairs",
@@ -32086,7 +33672,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_fence",
@@ -32124,7 +33711,8 @@
       "flux"
     ],
     "relation_group": "fence",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.65
   },
   {
     "id": "scene_nature_ferris_wheel",
@@ -32161,7 +33749,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_treehouse",
@@ -32198,7 +33787,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_island",
@@ -32233,7 +33823,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_lagoon",
@@ -32270,7 +33861,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_stream",
@@ -32306,7 +33898,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_cliff",
@@ -32342,7 +33935,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_cliff_edge",
@@ -32379,7 +33973,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_field",
@@ -32415,7 +34010,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_wildflower_field",
@@ -32452,7 +34048,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_snowy_field",
@@ -32489,7 +34086,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_frozen_lake",
@@ -32527,7 +34125,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_ice_field",
@@ -32565,7 +34164,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_milky_way",
@@ -32603,7 +34203,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_nature_lightning_storm",
@@ -32639,7 +34240,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_weather_light_rain",
@@ -32676,7 +34278,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_drizzle",
@@ -32713,7 +34316,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_misty",
@@ -32752,7 +34356,8 @@
       "flux"
     ],
     "relation_group": "misty",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.75
   },
   {
     "id": "scene_weather_foggy",
@@ -32789,7 +34394,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_weather_hazy",
@@ -32826,7 +34432,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_cloudy",
@@ -32863,7 +34470,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_weather_sunny",
@@ -32900,7 +34508,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "scene_time_autumn_season",
@@ -32937,7 +34546,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_time_spring_season",
@@ -32974,7 +34584,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_time_summer_season",
@@ -33011,7 +34622,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_time_winter_season",
@@ -33048,7 +34660,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_indoor_set_in_a_cozy_coffee_shop_interior_with_",
@@ -33079,7 +34692,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_indoor_set_in_a_grand_library_interior_with_tal",
@@ -33110,7 +34724,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_indoor_set_in_a_bright_modern_office_with_floor",
@@ -33141,7 +34756,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_indoor_set_in_a_cozy_home_office_with_a_wooden_",
@@ -33172,7 +34788,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_indoor_set_in_an_intimate_bedroom_with_soft_dif",
@@ -33203,7 +34820,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_indoor_set_in_a_cozy_residential_living_room_wi",
@@ -33234,7 +34852,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_indoor_home_bathroom",
@@ -33266,7 +34885,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_indoor_set_in_an_elegant_hotel_room_with_a_neat",
@@ -33297,7 +34917,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_indoor_set_in_an_intimate_restaurant_interior_w",
@@ -33328,7 +34949,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_indoor_set_in_a_dark_nightclub_interior_with_a_",
@@ -33359,7 +34981,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_indoor_set_in_a_modern_fitness_gym_with_rubber_",
@@ -33390,7 +35013,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_indoor_set_in_a_bright_school_classroom_with_ro",
@@ -33421,7 +35045,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_indoor_set_in_a_modern_research_laboratory_with",
@@ -33452,7 +35077,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_indoor_set_in_a_formal_wood_paneled_courtroom_w",
@@ -33483,7 +35109,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_indoor_set_in_a_cavernous_industrial_warehouse_",
@@ -33515,7 +35142,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_indoor_set_inside_the_back_seat_of_a_city_taxi_",
@@ -33546,7 +35174,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_indoor_parked_car_interior",
@@ -33578,7 +35207,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_indoor_set_in_a_minimalist_white_cube_art_galle",
@@ -33609,7 +35239,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_indoor_set_in_a_wooden_beam_dusty_attic_with_a_",
@@ -33640,7 +35271,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_indoor_set_in_a_concrete_basement_with_exposed_",
@@ -33671,7 +35303,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_indoor_set_in_a_wood_paneled_sauna_with_rising_",
@@ -33702,7 +35335,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_indoor_set_in_a_cluttered_college_dorm_room_wit",
@@ -33733,7 +35367,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_indoor_set_in_a_tiled_gym_locker_room_with_rows",
@@ -33765,7 +35400,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_urban_set_on_a_bustling_city_street_with_pedes",
@@ -33797,7 +35433,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_urban_set_in_a_narrow_urban_back_alley_with_du",
@@ -33828,7 +35465,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_urban_set_in_a_leafy_urban_park_with_winding_f",
@@ -33859,7 +35497,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_urban_set_in_a_warm_backyard_patio_with_a_wood",
@@ -33890,7 +35529,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_urban_set_on_a_sweeping_open_highway_with_lane",
@@ -33921,7 +35561,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_urban_set_on_a_long_suspension_bridge_with_tow",
@@ -33953,7 +35594,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_urban_set_in_a_vast_airport_terminal_with_glea",
@@ -33984,7 +35626,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_urban_set_in_an_empty_suburban_parking_lot_at_",
@@ -34015,7 +35658,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_urban_set_in_a_luxury_penthouse_interior_with_",
@@ -34046,7 +35690,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_urban_set_at_a_lonely_highway_gas_station_at_n",
@@ -34078,7 +35723,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_set_in_a_sunlit_forest_clearing_with_mos",
@@ -34109,7 +35755,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_set_on_a_wide_sandy_beach_with_gentle_br",
@@ -34140,7 +35787,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_set_on_a_dramatic_rocky_mountain_peak_ab",
@@ -34171,7 +35819,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_set_among_endless_windblown_desert_dunes",
@@ -34202,7 +35851,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_set_in_a_dense_humid_jungle_interior_wit",
@@ -34233,7 +35883,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_set_in_an_open_windswept_grassland_under",
@@ -34264,7 +35915,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_set_in_a_vast_frozen_tundra_with_wind_ca",
@@ -34295,7 +35947,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_set_on_a_still_mountain_lake_shoreline_w",
@@ -34326,7 +35979,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_set_on_a_meandering_riverbank_with_slow_",
@@ -34357,7 +36011,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_set_at_a_thundering_waterfall_cascading_",
@@ -34388,7 +36043,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_nature_set_inside_a_vast_rocky_cave_with_drippi",
@@ -34419,7 +36075,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_fantastical_set_on_an_otherworldly_alien_planet_land",
@@ -34450,7 +36107,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_fantastical_set_inside_a_sleek_spaceship_interior_wi",
@@ -34481,7 +36139,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_fantastical_set_among_vine_choked_ancient_stone_ruin",
@@ -34512,7 +36171,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_fantastical_set_on_an_elevated_walkway_over_a_sprawl",
@@ -34543,7 +36203,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_fantastical_set_inside_a_decaying_gothic_haunted_man",
@@ -34574,7 +36235,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_fantastical_set_in_a_surreal_dreamscape_with_floatin",
@@ -34605,7 +36267,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_fantastical_set_in_a_bleak_post_apocalyptic_wastelan",
@@ -34636,7 +36299,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_white_seamless_backdrop",
@@ -34667,7 +36331,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_black_seamless_backdrop",
@@ -34698,7 +36363,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_grey_seamless_backdrop",
@@ -34729,7 +36395,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_ivory_seamless_backdrop",
@@ -34760,7 +36427,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_deep_red_studio_backdrop",
@@ -34791,7 +36459,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_royal_blue_studio_backdrop",
@@ -34822,7 +36491,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_emerald_green_studio_backdrop",
@@ -34853,7 +36523,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_dusty_pink_studio_backdrop",
@@ -34884,7 +36555,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_mustard_yellow_studio_backdrop",
@@ -34915,7 +36587,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_against_a_painted_teal_wall_with_subtle_",
@@ -34946,7 +36619,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_chroma_green_screen",
@@ -34978,7 +36652,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_chroma_blue_screen",
@@ -35010,7 +36685,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_seamless_paper_roll_backdrop",
@@ -35041,7 +36717,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_red_to_orange_gradient_backdrop",
@@ -35072,7 +36749,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_pink_to_orange_gradient_backdrop",
@@ -35103,7 +36781,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_blue_to_emerald_gradient_backdrop",
@@ -35134,7 +36813,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_sunset_gradient_backdrop",
@@ -35165,7 +36845,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_two_tone_split_color_backdrop",
@@ -35196,7 +36877,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_against_an_exposed_red_brick_wall_with_w",
@@ -35227,7 +36909,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_against_a_raw_cast_concrete_wall_with_su",
@@ -35258,7 +36941,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_hand_troweled_plaster_wall",
@@ -35289,7 +36973,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_peeling_paint_wall",
@@ -35321,7 +37006,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_against_warm_wood_paneled_wall_with_hori",
@@ -35352,7 +37038,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_square_tiled_wall",
@@ -35384,7 +37071,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_against_a_luxury_veined_marble_wall",
@@ -35415,7 +37103,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_against_a_vibrant_urban_wall_covered_in_",
@@ -35447,7 +37136,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_against_an_exposed_stone_wall_of_raw_ash",
@@ -35478,7 +37168,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_mottled_muslin_backdrop",
@@ -35509,7 +37200,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_draped_velvet_backdrop",
@@ -35540,7 +37232,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_draped_satin_backdrop",
@@ -35571,7 +37264,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_hand_painted_canvas_backdrop",
@@ -35602,7 +37296,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_out_of_focus_bokeh_background",
@@ -35634,7 +37329,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_neon_bokeh_background",
@@ -35665,7 +37361,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_glowing_halo_ring_behind_the_subject",
@@ -35696,7 +37393,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_against_a_backdrop_washed_by_a_warm_oran",
@@ -35727,7 +37425,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_against_a_deep_darkened_backdrop_with_a_",
@@ -35758,7 +37457,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_backlit_window_with_daylight_streaming_t",
@@ -35789,7 +37489,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_city_skyline_seen_from_a_rooftop",
@@ -35821,7 +37522,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_mirrored_floor_with_reflection",
@@ -35852,7 +37554,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   },
   {
     "id": "scene_backdrop_against_a_glossy_polished_floor_with_a_s",
@@ -35883,6 +37586,7 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "weight": 0.65
   }
 ]

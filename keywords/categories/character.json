@@ -32,7 +32,8 @@
       "midjourney"
     ],
     "relation_group": "flowing hair",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.85
   },
   {
     "id": "character_hair_wind_blown_hair",
@@ -65,7 +66,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_hair_long_hair",
@@ -100,7 +102,8 @@
       "midjourney"
     ],
     "relation_group": "long hair",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.85
   },
   {
     "id": "character_hair_short_hair",
@@ -135,7 +138,8 @@
       "midjourney"
     ],
     "relation_group": "short hair",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.85
   },
   {
     "id": "character_hair_curly_hair",
@@ -170,7 +174,8 @@
       "midjourney"
     ],
     "relation_group": "curly hair",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.85
   },
   {
     "id": "character_hair_wavy_hair",
@@ -205,7 +210,8 @@
       "midjourney"
     ],
     "relation_group": "wavy hair",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.85
   },
   {
     "id": "character_hair_straight_hair",
@@ -240,7 +246,8 @@
       "midjourney"
     ],
     "relation_group": "straight hair",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.85
   },
   {
     "id": "character_hair_spiky_hair",
@@ -273,7 +280,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_hair_messy_hair",
@@ -306,7 +314,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_hair_neatly_styled_hair",
@@ -339,7 +348,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_hair_hair_over_shoulder",
@@ -372,7 +382,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_hair_hair_pulled_back",
@@ -405,7 +416,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_hair_twintails",
@@ -438,7 +450,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_hair_side_ponytail",
@@ -471,7 +484,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_hair_braided_hair",
@@ -504,7 +518,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_hair_butterfly_hair_clip",
@@ -537,7 +552,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_hair_hair_ribbon",
@@ -570,7 +586,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_hair_gradient_hair",
@@ -603,7 +620,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_hair_two_tone_hair",
@@ -636,7 +654,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_hair_highlighted_hair",
@@ -669,7 +688,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_hair_fluffy_hair",
@@ -702,7 +722,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_hair_hair_covering_one_eye",
@@ -735,7 +756,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_hair_hair_between_eyes",
@@ -768,7 +790,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_eyes_detailed_eyes",
@@ -801,7 +824,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_expressive_eyes",
@@ -833,7 +857,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_sparkling_eyes",
@@ -866,7 +891,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_gleaming_eyes",
@@ -899,7 +925,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_sharp_gaze",
@@ -932,7 +959,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_soft_eyes",
@@ -965,7 +993,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_determined_eyes",
@@ -998,7 +1027,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_looking_at_viewer",
@@ -1031,7 +1061,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_looking_away",
@@ -1064,7 +1095,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_looking_to_the_side",
@@ -1097,7 +1129,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_looking_up",
@@ -1132,7 +1165,8 @@
       "midjourney"
     ],
     "relation_group": "looking up",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.75
   },
   {
     "id": "character_eyes_looking_down",
@@ -1167,7 +1201,8 @@
       "midjourney"
     ],
     "relation_group": "looking down",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.75
   },
   {
     "id": "character_eyes_eye_contact",
@@ -1200,7 +1235,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_half_closed_eyes",
@@ -1233,7 +1269,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_wide_eyed",
@@ -1266,7 +1303,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_twitching_eye",
@@ -1299,7 +1337,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_head_tilt",
@@ -1332,7 +1371,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_glowing_eyes",
@@ -1364,7 +1404,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_teary_eyes",
@@ -1397,7 +1438,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_sleepy_eyes",
@@ -1430,7 +1472,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_dilated_pupils",
@@ -1463,7 +1506,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_glowing_pupils",
@@ -1496,7 +1540,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_smiling",
@@ -1529,7 +1574,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_smirk",
@@ -1562,7 +1608,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_fierce_expression",
@@ -1595,7 +1642,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_determined_look",
@@ -1628,7 +1676,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_surprised_expression",
@@ -1661,7 +1710,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_shocked_expression",
@@ -1694,7 +1744,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_angry_expression",
@@ -1727,7 +1778,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_angry_eyes",
@@ -1760,7 +1812,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_blushing",
@@ -1793,7 +1846,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_embarrassed",
@@ -1826,7 +1880,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_crying",
@@ -1859,7 +1914,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_tears",
@@ -1892,7 +1948,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_smug_expression",
@@ -1924,7 +1981,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_serene_expression",
@@ -1957,7 +2015,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_serious_expression",
@@ -1990,7 +2049,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_skeptical_look",
@@ -2023,7 +2083,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_confident_smile",
@@ -2056,7 +2117,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_nervous_expression",
@@ -2089,7 +2151,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_tired_look",
@@ -2122,7 +2185,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_yawning",
@@ -2155,7 +2219,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_talking",
@@ -2188,7 +2253,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_open_mouth",
@@ -2221,7 +2287,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_closed_mouth",
@@ -2254,7 +2321,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_frown",
@@ -2287,7 +2355,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_grin",
@@ -2320,7 +2389,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_laughing",
@@ -2353,7 +2423,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_winking",
@@ -2386,7 +2457,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_scared_expression",
@@ -2419,7 +2491,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_worried_expression",
@@ -2452,7 +2525,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_derpy_expression",
@@ -2485,7 +2559,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_speechless",
@@ -2518,7 +2593,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_narrowed_eyes",
@@ -2551,7 +2627,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_raised_eyebrows",
@@ -2584,7 +2661,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_dynamic_pose",
@@ -2617,7 +2695,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_action_pose",
@@ -2650,7 +2729,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_powerful_stance",
@@ -2683,7 +2763,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_confident_pose",
@@ -2716,7 +2797,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_relaxed_pose",
@@ -2749,7 +2831,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_casual_stance",
@@ -2782,7 +2865,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_mid_stride",
@@ -2815,7 +2899,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_sitting",
@@ -2847,7 +2932,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_standing",
@@ -2880,7 +2966,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_crouching",
@@ -2913,7 +3000,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_jumping",
@@ -2946,7 +3034,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_leaning",
@@ -2979,7 +3068,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_reaching_out",
@@ -3012,7 +3102,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_pointing",
@@ -3045,7 +3136,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_arms_crossed",
@@ -3078,7 +3170,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_hands_on_hips",
@@ -3111,7 +3204,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_hands_in_pockets",
@@ -3144,7 +3238,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_hands_behind_back",
@@ -3177,7 +3272,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_holding_weapon",
@@ -3210,7 +3306,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_holding_object",
@@ -3243,7 +3340,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_holding_item",
@@ -3276,7 +3374,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_sitting_on_ground",
@@ -3309,7 +3408,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_lying_down",
@@ -3342,7 +3442,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_floating",
@@ -3375,7 +3476,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_flying",
@@ -3408,7 +3510,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_flying_hair",
@@ -3441,7 +3544,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_dynamic_angle",
@@ -3476,7 +3580,8 @@
       "midjourney"
     ],
     "relation_group": "dynamic angle",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.75
   },
   {
     "id": "character_pose_looking_back_over_shoulder",
@@ -3509,7 +3614,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_kneeling",
@@ -3542,7 +3648,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_standing_on_one_leg",
@@ -3575,7 +3682,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_arms_raised",
@@ -3608,7 +3716,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_back_turned",
@@ -3641,7 +3750,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_from_behind",
@@ -3674,7 +3784,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_anatomy_detailed_hands",
@@ -3709,7 +3820,8 @@
       "midjourney"
     ],
     "relation_group": "detailed hands",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.75
   },
   {
     "id": "character_anatomy_fingers",
@@ -3742,7 +3854,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_anatomy_well_proportioned",
@@ -3775,7 +3888,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_anatomy_perfect_anatomy",
@@ -3810,7 +3924,8 @@
       "midjourney"
     ],
     "relation_group": "perfect anatomy",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.75
   },
   {
     "id": "character_anatomy_beautiful_face",
@@ -3843,7 +3958,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_anatomy_perfect_facial_symmetry",
@@ -3875,7 +3991,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_anatomy_clean_anatomy",
@@ -3908,7 +4025,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_anatomy_no_extra_fingers",
@@ -3941,7 +4059,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_anatomy_accurate_proportions",
@@ -3974,13 +4093,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_bodytype_slim_body",
     "term": "slim body",
     "category": "character",
-    "subcategory": "bodyType",
+    "subcategory": "bodytype",
     "labels": [
       "bodyType",
       "slim"
@@ -4007,13 +4127,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_bodytype_athletic_build",
     "term": "athletic build",
     "category": "character",
-    "subcategory": "bodyType",
+    "subcategory": "bodytype",
     "labels": [
       "bodyType",
       "athletic"
@@ -4040,13 +4161,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_bodytype_muscular_build",
     "term": "muscular build",
     "category": "character",
-    "subcategory": "bodyType",
+    "subcategory": "bodytype",
     "labels": [
       "bodyType",
       "muscular"
@@ -4073,13 +4195,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_bodytype_curvy_body",
     "term": "curvy body",
     "category": "character",
-    "subcategory": "bodyType",
+    "subcategory": "bodytype",
     "labels": [
       "bodyType",
       "curvy"
@@ -4106,13 +4229,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_bodytype_petite_frame",
     "term": "petite frame",
     "category": "character",
-    "subcategory": "bodyType",
+    "subcategory": "bodytype",
     "labels": [
       "bodyType",
       "petite"
@@ -4139,13 +4263,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_bodytype_tall_and_slender",
     "term": "tall and slender",
     "category": "character",
-    "subcategory": "bodyType",
+    "subcategory": "bodytype",
     "labels": [
       "bodyType",
       "tall"
@@ -4172,13 +4297,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_bodytype_stocky_build",
     "term": "stocky build",
     "category": "character",
-    "subcategory": "bodyType",
+    "subcategory": "bodytype",
     "labels": [
       "bodyType",
       "stocky"
@@ -4205,13 +4331,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_bodytype_lean_physique",
     "term": "lean physique",
     "category": "character",
-    "subcategory": "bodyType",
+    "subcategory": "bodytype",
     "labels": [
       "bodyType",
       "lean"
@@ -4238,13 +4365,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_bodytype_heavyset",
     "term": "heavyset",
     "category": "character",
-    "subcategory": "bodyType",
+    "subcategory": "bodytype",
     "labels": [
       "bodyType",
       "heavyset"
@@ -4271,13 +4399,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_bodytype_toned_body",
     "term": "toned body",
     "category": "character",
-    "subcategory": "bodyType",
+    "subcategory": "bodytype",
     "labels": [
       "bodyType",
       "toned"
@@ -4304,13 +4433,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_bodytype_athletic_physique",
     "term": "athletic physique",
     "category": "character",
-    "subcategory": "bodyType",
+    "subcategory": "bodytype",
     "labels": [
       "bodyType",
       "athletic"
@@ -4337,7 +4467,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_skin_pale_skin",
@@ -4370,7 +4501,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_skin_fair_skin",
@@ -4403,7 +4535,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_skin_olive_skin",
@@ -4435,7 +4568,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_skin_tan_skin",
@@ -4468,7 +4602,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_skin_dark_skin",
@@ -4501,7 +4636,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_skin_ebony_skin",
@@ -4534,7 +4670,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_skin_warm_skin_tone",
@@ -4567,7 +4704,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_skin_cool_skin_tone",
@@ -4600,7 +4738,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_age_child",
@@ -4633,7 +4772,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_age_young_child",
@@ -4666,7 +4806,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_age_pre_teen",
@@ -4699,7 +4840,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_age_teenager",
@@ -4732,7 +4874,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_age_young_adult",
@@ -4765,7 +4908,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_age_adult",
@@ -4798,7 +4942,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_age_middle_aged",
@@ -4831,7 +4976,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_age_elderly",
@@ -4864,7 +5010,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_age_ancient",
@@ -4897,7 +5044,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_age_immortal_looking",
@@ -4930,7 +5078,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_age_ageless",
@@ -4963,7 +5112,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_age_baby",
@@ -4996,7 +5146,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_age_toddler",
@@ -5029,13 +5180,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_haircolors_black_hair",
     "term": "black hair",
     "category": "character",
-    "subcategory": "hairColors",
+    "subcategory": "haircolors",
     "labels": [
       "hairColors",
       "black"
@@ -5062,13 +5214,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_haircolors_jet_black_hair",
     "term": "jet black hair",
     "category": "character",
-    "subcategory": "hairColors",
+    "subcategory": "haircolors",
     "labels": [
       "hairColors",
       "jet"
@@ -5095,13 +5248,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_haircolors_white_hair",
     "term": "white hair",
     "category": "character",
-    "subcategory": "hairColors",
+    "subcategory": "haircolors",
     "labels": [
       "hairColors",
       "white"
@@ -5128,13 +5282,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_haircolors_silver_hair",
     "term": "silver hair",
     "category": "character",
-    "subcategory": "hairColors",
+    "subcategory": "haircolors",
     "labels": [
       "hairColors",
       "silver"
@@ -5161,13 +5316,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_haircolors_blonde_hair",
     "term": "blonde hair",
     "category": "character",
-    "subcategory": "hairColors",
+    "subcategory": "haircolors",
     "labels": [
       "hairColors",
       "blonde"
@@ -5194,13 +5350,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_haircolors_platinum_blonde_hair",
     "term": "platinum blonde hair",
     "category": "character",
-    "subcategory": "hairColors",
+    "subcategory": "haircolors",
     "labels": [
       "hairColors",
       "platinum"
@@ -5227,13 +5384,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_haircolors_strawberry_blonde_hair",
     "term": "strawberry blonde hair",
     "category": "character",
-    "subcategory": "hairColors",
+    "subcategory": "haircolors",
     "labels": [
       "hairColors",
       "strawberry"
@@ -5260,13 +5418,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_haircolors_brown_hair",
     "term": "brown hair",
     "category": "character",
-    "subcategory": "hairColors",
+    "subcategory": "haircolors",
     "labels": [
       "hairColors",
       "brown"
@@ -5293,13 +5452,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_haircolors_red_hair",
     "term": "red hair",
     "category": "character",
-    "subcategory": "hairColors",
+    "subcategory": "haircolors",
     "labels": [
       "hairColors",
       "red"
@@ -5326,13 +5486,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_haircolors_auburn_hair",
     "term": "auburn hair",
     "category": "character",
-    "subcategory": "hairColors",
+    "subcategory": "haircolors",
     "labels": [
       "hairColors",
       "auburn"
@@ -5358,13 +5519,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_haircolors_blue_hair",
     "term": "blue hair",
     "category": "character",
-    "subcategory": "hairColors",
+    "subcategory": "haircolors",
     "labels": [
       "hairColors",
       "blue"
@@ -5391,13 +5553,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_haircolors_pink_hair",
     "term": "pink hair",
     "category": "character",
-    "subcategory": "hairColors",
+    "subcategory": "haircolors",
     "labels": [
       "hairColors",
       "pink"
@@ -5424,13 +5587,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_haircolors_green_hair",
     "term": "green hair",
     "category": "character",
-    "subcategory": "hairColors",
+    "subcategory": "haircolors",
     "labels": [
       "hairColors",
       "green"
@@ -5457,13 +5621,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_haircolors_purple_hair",
     "term": "purple hair",
     "category": "character",
-    "subcategory": "hairColors",
+    "subcategory": "haircolors",
     "labels": [
       "hairColors",
       "purple"
@@ -5490,13 +5655,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_haircolors_orange_hair",
     "term": "orange hair",
     "category": "character",
-    "subcategory": "hairColors",
+    "subcategory": "haircolors",
     "labels": [
       "hairColors",
       "orange"
@@ -5523,13 +5689,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_haircolors_yellow_hair",
     "term": "yellow hair",
     "category": "character",
-    "subcategory": "hairColors",
+    "subcategory": "haircolors",
     "labels": [
       "hairColors",
       "yellow"
@@ -5556,13 +5723,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_haircolors_gray_hair",
     "term": "gray hair",
     "category": "character",
-    "subcategory": "hairColors",
+    "subcategory": "haircolors",
     "labels": [
       "hairColors",
       "gray"
@@ -5589,13 +5757,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_haircolors_rainbow_hair",
     "term": "rainbow hair",
     "category": "character",
-    "subcategory": "hairColors",
+    "subcategory": "haircolors",
     "labels": [
       "hairColors",
       "rainbow"
@@ -5622,13 +5791,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_haircolors_multicolored_hair",
     "term": "multicolored hair",
     "category": "character",
-    "subcategory": "hairColors",
+    "subcategory": "haircolors",
     "labels": [
       "hairColors",
       "multicolored"
@@ -5655,13 +5825,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_haircolors_black_hair_with_pink_tips",
     "term": "black hair with pink tips",
     "category": "character",
-    "subcategory": "hairColors",
+    "subcategory": "haircolors",
     "labels": [
       "hairColors",
       "black"
@@ -5688,13 +5859,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_haircolors_white_hair_with_blue_streaks",
     "term": "white hair with blue streaks",
     "category": "character",
-    "subcategory": "hairColors",
+    "subcategory": "haircolors",
     "labels": [
       "hairColors",
       "white"
@@ -5721,13 +5893,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_haircolors_dark_brown_hair",
     "term": "dark brown hair",
     "category": "character",
-    "subcategory": "hairColors",
+    "subcategory": "haircolors",
     "labels": [
       "hairColors",
       "dark"
@@ -5753,13 +5926,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_haircolors_light_brown_hair",
     "term": "light brown hair",
     "category": "character",
-    "subcategory": "hairColors",
+    "subcategory": "haircolors",
     "labels": [
       "hairColors",
       "light"
@@ -5786,13 +5960,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_haircolors_dark_blonde_hair",
     "term": "dark blonde hair",
     "category": "character",
-    "subcategory": "hairColors",
+    "subcategory": "haircolors",
     "labels": [
       "hairColors",
       "dark"
@@ -5819,13 +5994,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyecolors_red_eyes",
     "term": "red eyes",
     "category": "character",
-    "subcategory": "eyeColors",
+    "subcategory": "eyecolors",
     "labels": [
       "eyeColors",
       "red"
@@ -5852,13 +6028,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_eyecolors_blue_eyes",
     "term": "blue eyes",
     "category": "character",
-    "subcategory": "eyeColors",
+    "subcategory": "eyecolors",
     "labels": [
       "eyeColors",
       "blue"
@@ -5885,13 +6062,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_eyecolors_green_eyes",
     "term": "green eyes",
     "category": "character",
-    "subcategory": "eyeColors",
+    "subcategory": "eyecolors",
     "labels": [
       "eyeColors",
       "green"
@@ -5918,13 +6096,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_eyecolors_brown_eyes",
     "term": "brown eyes",
     "category": "character",
-    "subcategory": "eyeColors",
+    "subcategory": "eyecolors",
     "labels": [
       "eyeColors",
       "brown"
@@ -5951,13 +6130,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_eyecolors_golden_eyes",
     "term": "golden eyes",
     "category": "character",
-    "subcategory": "eyeColors",
+    "subcategory": "eyecolors",
     "labels": [
       "eyeColors",
       "golden"
@@ -5984,13 +6164,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_eyecolors_amber_eyes",
     "term": "amber eyes",
     "category": "character",
-    "subcategory": "eyeColors",
+    "subcategory": "eyecolors",
     "labels": [
       "eyeColors",
       "amber"
@@ -6016,13 +6197,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_eyecolors_purple_eyes",
     "term": "purple eyes",
     "category": "character",
-    "subcategory": "eyeColors",
+    "subcategory": "eyecolors",
     "labels": [
       "eyeColors",
       "purple"
@@ -6049,13 +6231,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_eyecolors_silver_eyes",
     "term": "silver eyes",
     "category": "character",
-    "subcategory": "eyeColors",
+    "subcategory": "eyecolors",
     "labels": [
       "eyeColors",
       "silver"
@@ -6082,13 +6265,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_eyecolors_gray_eyes",
     "term": "gray eyes",
     "category": "character",
-    "subcategory": "eyeColors",
+    "subcategory": "eyecolors",
     "labels": [
       "eyeColors",
       "gray"
@@ -6115,13 +6299,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_eyecolors_black_eyes",
     "term": "black eyes",
     "category": "character",
-    "subcategory": "eyeColors",
+    "subcategory": "eyecolors",
     "labels": [
       "eyeColors",
       "black"
@@ -6148,13 +6333,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_eyecolors_pink_eyes",
     "term": "pink eyes",
     "category": "character",
-    "subcategory": "eyeColors",
+    "subcategory": "eyecolors",
     "labels": [
       "eyeColors",
       "pink"
@@ -6181,13 +6367,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_eyecolors_orange_eyes",
     "term": "orange eyes",
     "category": "character",
-    "subcategory": "eyeColors",
+    "subcategory": "eyecolors",
     "labels": [
       "eyeColors",
       "orange"
@@ -6214,13 +6401,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_eyecolors_heterochromia",
     "term": "heterochromia",
     "category": "character",
-    "subcategory": "eyeColors",
+    "subcategory": "eyecolors",
     "labels": [
       "eyeColors",
       "heterochromia"
@@ -6247,13 +6435,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_eyecolors_multicolored_eyes",
     "term": "multicolored eyes",
     "category": "character",
-    "subcategory": "eyeColors",
+    "subcategory": "eyecolors",
     "labels": [
       "eyeColors",
       "multicolored"
@@ -6280,13 +6469,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_eyecolors_crystal_clear_eyes",
     "term": "crystal clear eyes",
     "category": "character",
-    "subcategory": "eyeColors",
+    "subcategory": "eyecolors",
     "labels": [
       "eyeColors",
       "crystal"
@@ -6312,13 +6502,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_eyecolors_ruby_eyes",
     "term": "ruby eyes",
     "category": "character",
-    "subcategory": "eyeColors",
+    "subcategory": "eyecolors",
     "labels": [
       "eyeColors",
       "ruby"
@@ -6344,13 +6535,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_eyecolors_sapphire_eyes",
     "term": "sapphire eyes",
     "category": "character",
-    "subcategory": "eyeColors",
+    "subcategory": "eyecolors",
     "labels": [
       "eyeColors",
       "sapphire"
@@ -6376,13 +6568,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_eyecolors_emerald_green_eyes",
     "term": "emerald green eyes",
     "category": "character",
-    "subcategory": "eyeColors",
+    "subcategory": "eyecolors",
     "labels": [
       "eyeColors",
       "emerald"
@@ -6409,13 +6602,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_eyecolors_violet_eyes",
     "term": "violet eyes",
     "category": "character",
-    "subcategory": "eyeColors",
+    "subcategory": "eyecolors",
     "labels": [
       "eyeColors",
       "violet"
@@ -6441,13 +6635,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_eyecolors_metallic_eyes",
     "term": "metallic eyes",
     "category": "character",
-    "subcategory": "eyeColors",
+    "subcategory": "eyecolors",
     "labels": [
       "eyeColors",
       "metallic"
@@ -6473,13 +6668,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_eyecolors_glowing_red_eyes",
     "term": "glowing red eyes",
     "category": "character",
-    "subcategory": "eyeColors",
+    "subcategory": "eyecolors",
     "labels": [
       "eyeColors",
       "glowing"
@@ -6505,13 +6701,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_eyecolors_glowing_blue_eyes",
     "term": "glowing blue eyes",
     "category": "character",
-    "subcategory": "eyeColors",
+    "subcategory": "eyecolors",
     "labels": [
       "eyeColors",
       "glowing"
@@ -6537,13 +6734,14 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_eyecolors_cat_like_pupils",
     "term": "cat-like pupils",
     "category": "character",
-    "subcategory": "eyeColors",
+    "subcategory": "eyecolors",
     "labels": [
       "eyeColors",
       "cat-like"
@@ -6570,7 +6768,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_hair_indigo_hair",
@@ -6607,7 +6806,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_hair_olive_hair",
@@ -6643,7 +6843,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_hair_light_blue_hair",
@@ -6680,7 +6881,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_hair_lavender_hair",
@@ -6716,7 +6918,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_hair_maroon_hair",
@@ -6753,7 +6956,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_hair_mint_green_hair",
@@ -6790,7 +6994,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_yellow_eyes",
@@ -6827,7 +7032,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_pupils",
@@ -6863,7 +7069,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_long_eyelashes",
@@ -6900,7 +7107,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_eyes_cat_eyes",
@@ -6937,7 +7145,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_round_eyes",
@@ -6973,7 +7182,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_closed_eyes",
@@ -7009,7 +7219,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_eyes_open_eyes",
@@ -7045,7 +7256,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_eyes_closed",
@@ -7081,7 +7293,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_face_dark_circles_under_eyes",
@@ -7117,7 +7330,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_face_freckles",
@@ -7153,7 +7367,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_face_dimples",
@@ -7189,7 +7404,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_monolids",
@@ -7225,7 +7441,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_double_eyelids",
@@ -7261,7 +7478,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_droopy_eyes",
@@ -7297,7 +7515,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_narrow_eyes",
@@ -7333,7 +7552,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_eyes_sharp_eyes",
@@ -7369,7 +7589,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_arrogant_look",
@@ -7405,7 +7626,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_tsundere_expression",
@@ -7440,7 +7662,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_yandere_expression",
@@ -7475,7 +7698,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_kuudere_expression",
@@ -7510,7 +7734,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_deredere_expression",
@@ -7545,7 +7770,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_menhera",
@@ -7581,7 +7807,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_stern_look",
@@ -7617,7 +7844,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_melancholy",
@@ -7653,7 +7881,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_bright_smile",
@@ -7689,7 +7918,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_expression_gentle_smile",
@@ -7725,7 +7955,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_expression_wicked_smile",
@@ -7761,7 +7992,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_foolish_smile",
@@ -7797,7 +8029,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_evil_smile",
@@ -7833,7 +8066,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_blood",
@@ -7869,7 +8103,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_scratches",
@@ -7905,7 +8140,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_bandages",
@@ -7941,7 +8177,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_forehead_vein",
@@ -7977,7 +8214,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_blush",
@@ -8013,7 +8251,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_expression_heavy_blush",
@@ -8049,7 +8288,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_hair_single_hair_strand",
@@ -8085,7 +8325,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_hair_ahoge",
@@ -8122,7 +8363,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_clothing_shorts",
@@ -8158,7 +8400,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_clothing_skirt",
@@ -8194,7 +8437,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_clothing_pleated_skirt",
@@ -8230,7 +8474,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_clothing_pantyhose",
@@ -8266,7 +8511,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_clothing_thighhighs",
@@ -8302,7 +8548,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_clothing_zettai_ryouiki",
@@ -8338,7 +8585,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_clothing_gloves",
@@ -8376,7 +8624,8 @@
       "midjourney"
     ],
     "relation_group": "gloves",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.85
   },
   {
     "id": "character_clothing_fingerless_gloves",
@@ -8412,7 +8661,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_clothing_mukuroizumi_skirt",
@@ -8448,7 +8698,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_clothing_jumper_skirt",
@@ -8484,7 +8735,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_clothing_knee_high_socks",
@@ -8520,7 +8772,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_clothing_ankle_socks",
@@ -8555,7 +8808,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_clothing_loafers",
@@ -8591,7 +8845,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_clothing_converse",
@@ -8627,7 +8882,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_clothing_combat_boots",
@@ -8665,7 +8921,8 @@
       "midjourney"
     ],
     "relation_group": "combat boots",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.75
   },
   {
     "id": "character_clothing_high_heels",
@@ -8703,7 +8960,8 @@
       "midjourney"
     ],
     "relation_group": "high heels",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.85
   },
   {
     "id": "character_clothing_sandals",
@@ -8741,7 +8999,8 @@
       "midjourney"
     ],
     "relation_group": "sandals",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.75
   },
   {
     "id": "character_effects_magic_circle",
@@ -8777,7 +9036,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_effects_magic",
@@ -8815,7 +9075,8 @@
       "midjourney"
     ],
     "relation_group": "magic",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.85
   },
   {
     "id": "character_effects_fire",
@@ -8852,7 +9113,8 @@
       "midjourney"
     ],
     "relation_group": "fire",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.85
   },
   {
     "id": "character_effects_lightning",
@@ -8891,7 +9153,8 @@
       "midjourney"
     ],
     "relation_group": "lightning",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.85
   },
   {
     "id": "character_effects_ice",
@@ -8929,7 +9192,8 @@
       "midjourney"
     ],
     "relation_group": "ice",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.85
   },
   {
     "id": "character_effects_water",
@@ -8966,7 +9230,8 @@
       "midjourney"
     ],
     "relation_group": "water",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.85
   },
   {
     "id": "character_effects_wings_magic",
@@ -9002,7 +9267,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_composition_solo",
@@ -9038,7 +9304,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_character_1boy",
@@ -9075,7 +9342,8 @@
       "midjourney"
     ],
     "relation_group": "1boy",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.85
   },
   {
     "id": "character_character_1girl",
@@ -9112,7 +9380,8 @@
       "midjourney"
     ],
     "relation_group": "1girl",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.85
   },
   {
     "id": "character_composition_moresolo",
@@ -9148,7 +9417,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_composition_group",
@@ -9184,7 +9454,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_composition_close_up",
@@ -9222,7 +9493,8 @@
       "midjourney"
     ],
     "relation_group": "close-up",
-    "relation_role": "variant"
+    "relation_role": "variant",
+    "weight": 0.85
   },
   {
     "id": "character_pose_hand_on_cheek",
@@ -9258,7 +9530,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_pose_hand_on_hip",
@@ -9294,7 +9567,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_pose_arms_behind_head",
@@ -9330,7 +9604,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_crossed_legs",
@@ -9366,7 +9641,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_pose_legs_up",
@@ -9402,7 +9678,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_composition_from_side",
@@ -9438,7 +9715,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_pose_looking_at_another",
@@ -9474,7 +9752,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_looking_back",
@@ -9510,7 +9789,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_smug",
@@ -9545,7 +9825,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_flustered",
@@ -9581,7 +9862,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_expression_imouto_face",
@@ -9617,7 +9899,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_glasses_adjusted",
@@ -9653,7 +9936,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_clothing_hoodie",
@@ -9689,7 +9973,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_clothing_turtleneck",
@@ -9725,7 +10010,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_clothing_crop_top",
@@ -9761,7 +10047,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_clothing_hooded_cloak",
@@ -9797,7 +10084,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_clothing_apron",
@@ -9833,7 +10121,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_clothing_maid_apron",
@@ -9869,7 +10158,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_clothing_cape",
@@ -9907,7 +10197,8 @@
       "midjourney"
     ],
     "relation_group": "cape",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.85
   },
   {
     "id": "character_clothing_coat",
@@ -9943,7 +10234,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_clothing_vest",
@@ -9979,7 +10271,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_clothing_collared_shirt",
@@ -10015,7 +10308,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_clothing_school_uniform",
@@ -10053,7 +10347,8 @@
       "midjourney"
     ],
     "relation_group": "school uniform",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.85
   },
   {
     "id": "character_clothing_white_shirt",
@@ -10089,7 +10384,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_clothing_black_shirt",
@@ -10125,7 +10421,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_clothing_long_sleeves",
@@ -10161,7 +10458,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_clothing_short_sleeves",
@@ -10197,7 +10495,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_clothing_off_shoulder",
@@ -10233,7 +10532,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_clothing_strapless",
@@ -10269,7 +10569,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_clothing_dress",
@@ -10307,7 +10608,8 @@
       "midjourney"
     ],
     "relation_group": "dress",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.85
   },
   {
     "id": "character_clothing_gown",
@@ -10343,7 +10645,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_clothing_kimono",
@@ -10381,7 +10684,8 @@
       "midjourney"
     ],
     "relation_group": "kimono",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.85
   },
   {
     "id": "character_clothing_hanbok",
@@ -10419,7 +10723,8 @@
       "midjourney"
     ],
     "relation_group": "hanbok",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.75
   },
   {
     "id": "character_clothing_cheongsam",
@@ -10457,7 +10762,8 @@
       "midjourney"
     ],
     "relation_group": "cheongsam",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.75
   },
   {
     "id": "character_clothing_leotard",
@@ -10492,7 +10798,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_clothing_bikini",
@@ -10528,7 +10835,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_clothing_suit",
@@ -10564,7 +10872,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_clothing_dress_shirt",
@@ -10599,7 +10908,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_clothing_tie",
@@ -10635,7 +10945,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_clothing_scarf",
@@ -10673,7 +10984,8 @@
       "midjourney"
     ],
     "relation_group": "scarf",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.85
   },
   {
     "id": "character_clothing_belt",
@@ -10711,7 +11023,8 @@
       "midjourney"
     ],
     "relation_group": "belt",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.75
   },
   {
     "id": "character_clothing_fishnets",
@@ -10747,7 +11060,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_clothing_boots",
@@ -10785,7 +11099,8 @@
       "midjourney"
     ],
     "relation_group": "boots",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.85
   },
   {
     "id": "character_clothing_leggings",
@@ -10821,7 +11136,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_clothing_stockings",
@@ -10857,7 +11173,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_detail_nails",
@@ -10893,7 +11210,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_detail_red_nails",
@@ -10929,7 +11247,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_clothing_bikini_top",
@@ -10964,7 +11283,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_clothing_no_blouse",
@@ -11000,7 +11320,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_clothing_wet_clothes",
@@ -11036,7 +11357,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_clothing_wet",
@@ -11071,7 +11393,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_clothing_translucent_clothes",
@@ -11106,7 +11429,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_clothing_undone_collar",
@@ -11141,7 +11465,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_anatomy_cleavage",
@@ -11177,7 +11502,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_body_flat_chest",
@@ -11213,7 +11539,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_body_small_breasts",
@@ -11249,7 +11576,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_body_medium_breasts",
@@ -11285,7 +11613,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_body_large_breasts",
@@ -11321,7 +11650,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_body_huge_breasts",
@@ -11357,7 +11687,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_body_thick_thighs",
@@ -11393,7 +11724,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.85
   },
   {
     "id": "character_body_muscular",
@@ -11429,7 +11761,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_body_skinny",
@@ -11464,7 +11797,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_body_petite",
@@ -11500,7 +11834,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_body_tall",
@@ -11536,7 +11871,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_body_chubby",
@@ -11572,7 +11908,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_body_child_body",
@@ -11608,7 +11945,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_age_young",
@@ -11643,7 +11981,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_age_old",
@@ -11678,7 +12017,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_happy_expression",
@@ -11709,7 +12049,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_radiant_joyful_expression",
@@ -11739,7 +12080,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_relieved_expression",
@@ -11769,7 +12111,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_serene_expression",
@@ -11801,7 +12144,8 @@
       "sdxl",
       "midjourney"
     ],
-    "alias_of": "character_expression_serene_expression"
+    "alias_of": "character_expression_serene_expression",
+    "weight": 0.75
   },
   {
     "id": "character_mood_playful_expression",
@@ -11832,7 +12176,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_confident_self_assured_demeanor",
@@ -11862,7 +12207,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_tender_loving_expression",
@@ -11892,7 +12238,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_faintly_amused_expression",
@@ -11922,7 +12269,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_cocky_smirk",
@@ -11952,7 +12300,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_quirky_eccentric_energy",
@@ -11982,7 +12331,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_hopeful_expression",
@@ -12012,7 +12362,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_sad_downcast_expression",
@@ -12042,7 +12393,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_angry_expression",
@@ -12074,7 +12426,8 @@
       "sdxl",
       "midjourney"
     ],
-    "alias_of": "character_expression_angry_expression"
+    "alias_of": "character_expression_angry_expression",
+    "weight": 0.75
   },
   {
     "id": "character_mood_fearful_expression",
@@ -12105,7 +12458,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_anxious_nervous_expression",
@@ -12135,7 +12489,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_melancholic_expression",
@@ -12166,7 +12521,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_devastated_heartbroken_expression",
@@ -12196,7 +12552,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_grief_stricken_expression",
@@ -12226,7 +12583,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_caught_off_guard_expression",
@@ -12256,7 +12614,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_aloof_detached_expression",
@@ -12286,7 +12645,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_vulnerable_exposed_expression",
@@ -12316,7 +12676,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_coy_bashful_expression",
@@ -12346,7 +12707,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_bored_deadpan_expression",
@@ -12376,7 +12738,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_embarrassed_flushed_expression",
@@ -12407,7 +12770,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_disgusted_expression",
@@ -12438,7 +12802,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_bewildered_expression",
@@ -12469,7 +12834,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_thoughtful_contemplative_expression",
@@ -12500,7 +12866,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_stoic_impassive_expression",
@@ -12530,7 +12897,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_calm_expression",
@@ -12561,7 +12929,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_curious_expression",
@@ -12592,7 +12961,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_mysterious_enigmatic_expression",
@@ -12622,7 +12992,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_dazed_dreamy_expression",
@@ -12652,7 +13023,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_sleepy_expression",
@@ -12683,7 +13055,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_unbothered_self_possessed_calm",
@@ -12713,7 +13086,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_fierce_commanding_intensity",
@@ -12743,7 +13117,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_determined_resolute_expression",
@@ -12773,7 +13148,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_passionate_expression",
@@ -12804,7 +13180,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_brooding_expression",
@@ -12835,7 +13212,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_seductive_expression",
@@ -12866,7 +13244,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_defiant_expression",
@@ -12897,7 +13276,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_sultry_expression",
@@ -12928,7 +13308,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_smoldering_intensity",
@@ -12959,7 +13340,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_sinister_expression",
@@ -12990,7 +13372,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_occult_otherworldly_mystical_expression",
@@ -13020,7 +13403,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_drowsy_half_shy_expression",
@@ -13051,7 +13435,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_awestruck_wonder",
@@ -13082,7 +13467,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_shocked_expression",
@@ -13114,7 +13500,8 @@
       "sdxl",
       "midjourney"
     ],
-    "alias_of": "character_expression_shocked_expression"
+    "alias_of": "character_expression_shocked_expression",
+    "weight": 0.75
   },
   {
     "id": "character_mood_flirty_expression",
@@ -13145,7 +13532,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_suspicious_wary_expression",
@@ -13175,7 +13563,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_resigned_expression_of_quiet_acceptance",
@@ -13205,7 +13594,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_conflicted_torn_expression",
@@ -13235,7 +13625,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_standing_upright_in_a_relaxed_natural_po",
@@ -13265,7 +13656,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_standing_in_a_confident_stance_with_feet",
@@ -13295,7 +13687,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_standing_with_hands_on_hips",
@@ -13326,7 +13719,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_standing_with_arms_crossed_over_the_ches",
@@ -13357,7 +13751,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_leaning_casually_against_a_surface",
@@ -13388,7 +13783,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_standing_in_a_dramatic_heroic_pose",
@@ -13418,7 +13814,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_standing_in_contrapposto",
@@ -13448,7 +13845,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_leaning_against_a_wall",
@@ -13479,7 +13877,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_hands_clasped_behind_the_head",
@@ -13510,7 +13909,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_hands_clasped_behind_the_back",
@@ -13540,7 +13940,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_sitting_naturally",
@@ -13571,7 +13972,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_sitting_cross_legged",
@@ -13602,7 +14004,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_kneeling_on_one_or_both_knees",
@@ -13632,7 +14035,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_crouched_low_with_knees_bent",
@@ -13663,7 +14067,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_lounging_in_a_relaxed",
@@ -13693,7 +14098,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_sitting_on_the_edge_of_a_bed",
@@ -13724,7 +14130,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_legs_draped_over_the_chair_arm",
@@ -13754,7 +14161,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_cheek_resting_on_a_propped_elbow",
@@ -13784,7 +14192,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_lying_prone_propped_on_elbows_reading",
@@ -13814,7 +14223,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_walking_2",
@@ -13845,7 +14255,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_running_2",
@@ -13876,7 +14287,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_mid_jump",
@@ -13907,7 +14319,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_dancing",
@@ -13940,7 +14353,8 @@
       "midjourney"
     ],
     "relation_group": "dancing",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.75
   },
   {
     "id": "character_pose_climbing_with_arms_extended",
@@ -13970,7 +14384,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_caught_mid_fall_through_the_air",
@@ -14000,7 +14415,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_twirling_mid_spin_with_hair_and_clothing",
@@ -14030,7 +14446,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_in_a_full_body_stretch_with_both_arms_re",
@@ -14060,7 +14477,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_one_or_both_arms_extended_overhead",
@@ -14090,7 +14508,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_locked_in_a_kiss",
@@ -14121,7 +14540,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_riding_astride",
@@ -14152,7 +14572,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_driving_hands_on_the_wheel",
@@ -14183,7 +14604,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_in_a_combat_ready_fighting_stance",
@@ -14213,7 +14635,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_reaching_outward_arm_extended",
@@ -14244,7 +14667,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_caught_mid_throw",
@@ -14275,7 +14699,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_leaping_forward_dynamically_with_body_ex",
@@ -14305,7 +14730,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_dramatic_exaggerated_action_pose",
@@ -14335,7 +14761,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_biting_lower_lip",
@@ -14366,7 +14793,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_caught_mid_laugh_with_head_tipped_back",
@@ -14396,7 +14824,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_pointing_directly_at_the_camera",
@@ -14427,7 +14856,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_sticking_the_tongue_out_playfully",
@@ -14458,7 +14888,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_thinking_pose_hand_on_chin",
@@ -14490,7 +14921,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_lying_down_flat",
@@ -14521,7 +14953,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_sleeping_peacefully_with_eyes_closed",
@@ -14552,7 +14985,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_hugging_or_embracing_another_person",
@@ -14583,7 +15017,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_head_turned",
@@ -14614,7 +15049,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_gazing_upward_at_the_sky_or_off_camera",
@@ -14644,7 +15080,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_eyes_downcast",
@@ -14675,7 +15112,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_looking_back_over_the_shoulder",
@@ -14706,7 +15144,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_wading_mid_thigh_deep_through_water",
@@ -14736,7 +15175,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_with_both_hands_tucked_into_pockets",
@@ -14767,7 +15207,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_with_one_hand_resting_on_the_hip",
@@ -14798,7 +15239,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_both_hands_planted_on_the_hips",
@@ -14829,7 +15271,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_with_one_hand_resting_under_the_chin",
@@ -14859,7 +15302,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_with_one_hand_resting_lightly_across_the",
@@ -14889,7 +15333,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_hand_running_through_the_hair",
@@ -14920,7 +15365,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_fingertip_pressed_to_the_lower_lip",
@@ -14950,7 +15396,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_arms_wrapped_around_the_torso",
@@ -14980,7 +15427,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_hands_clasped_in_front",
@@ -15011,7 +15459,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_torso_leaning_slightly_back",
@@ -15041,7 +15490,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_torso_leaning_forward",
@@ -15072,7 +15522,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_contrapposto_hip_pushed_out",
@@ -15104,7 +15555,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_with_the_back_gently_arched",
@@ -15135,7 +15587,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_one_shoulder_rolled_forward",
@@ -15166,7 +15619,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_head_tipped_slightly_up",
@@ -15197,7 +15651,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_head_tipped_slightly_down",
@@ -15228,7 +15683,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_head_tilted_toward_one_shoulder",
@@ -15259,7 +15715,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_head_tipped_fully_back",
@@ -15289,7 +15746,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_chin_lifted",
@@ -15320,7 +15778,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_with_the_chin_tucked_toward_the_chest",
@@ -15350,7 +15809,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_smoking_a_cigarette",
@@ -15381,7 +15841,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_drinking_from_a_glass",
@@ -15412,7 +15873,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_caught_mid_bite",
@@ -15443,7 +15905,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_talking_on_the_phone",
@@ -15474,7 +15937,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_looking_down_at_a_phone_held_in_both_han",
@@ -15505,7 +15969,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_typing_on_a_laptop",
@@ -15535,7 +16000,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_holding_open_a_book_or_magazine_in_both_",
@@ -15565,7 +16031,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_writing_in_a_notebook",
@@ -15595,7 +16062,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_painting_on_a_canvas",
@@ -15625,7 +16093,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_playing_a_musical_instrument",
@@ -15655,7 +16124,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_cooking_at_a_kitchen_counter_or_stove",
@@ -15685,7 +16155,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_pose_behind_the_wheel_of_a_vehicle",
@@ -15716,7 +16187,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_with_main_character_energy_unbothered_co",
@@ -15747,7 +16219,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_soft_easygoing_mood",
@@ -15777,7 +16250,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_casual_lived_in_mood",
@@ -15807,7 +16281,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_in_an_effortless_cool_mood_slouchy_knits",
@@ -15837,7 +16312,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   },
   {
     "id": "character_mood_in_a_retro_90s_mood_flannel_shirts",
@@ -15868,6 +16344,7 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.75
   }
 ]

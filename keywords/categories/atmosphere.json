@@ -33,7 +33,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "mj_mj_v5_nature_aurora",
@@ -71,7 +72,8 @@
       "midjourney"
     ],
     "relation_group": "aurora",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.55
   },
   {
     "id": "mj_mj_v5_nature_aurora_australis",
@@ -107,7 +109,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   },
   {
     "id": "mj_mj_v5_nature_aurora_borealis",
@@ -145,7 +148,8 @@
       "midjourney"
     ],
     "relation_group": "aurora borealis",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.55
   },
   {
     "id": "mj_mj_v5_nature_aurorae",
@@ -183,7 +187,8 @@
       "midjourney"
     ],
     "relation_group": "aurorae",
-    "relation_role": "canonical"
+    "relation_role": "canonical",
+    "weight": 0.55
   },
   {
     "id": "mj_mj_v5_nature_auroral_light",
@@ -219,6 +224,7 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "weight": 0.55
   }
 ]
