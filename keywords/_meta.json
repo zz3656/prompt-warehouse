@@ -1,9 +1,9 @@
 {
-  "version": "1.1.3",
+  "version": "1.2.0",
   "schema_version": "pws-1.0",
   "total_keywords": 6015,
   "total_categories": 19,
-  "updated_at": "2026-10-11T06:06:26.447579+00:00",
+  "updated_at": "2026-10-11T09:20:11.849795+00:00",
   "updated_by": "optimization-pr",
   "source_summary": {
     "h3-comic-builder (intermediate, not listed as data source)": 859,
@@ -15,6 +15,7 @@
     "nodaro-prompts": 1149
   },
   "changelog": [
+    "1.2.0 - 新增 workflows（4 个模板组合）",
     "1.1.3 - scene 分类重分类（83 条词移到 atmosphere/styles）",
     "1.1.2 - 新增 categories_zh 字段（分类中文名）",
     "1.1.1 - 修复 styles 分类 term 的 / 前缀（112 条）",
@@ -261,5 +262,10 @@
     "styles",
     "temporal",
     "transitions"
-  ]
+  ],
+  "workflows": {
+    "total": 4,
+    "index_file": "workflows/_meta.json",
+    "directory": "workflows/"
+  }
 }

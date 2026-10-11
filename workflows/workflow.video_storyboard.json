@@ -1,0 +1,44 @@
+{
+  "id": "workflow.video_storyboard",
+  "name": "Video Storyboard Workflow",
+  "name_zh": "视频分镜流程",
+  "description": "Generate a video storyboard with camera movements and timing.",
+  "description_zh": "生成视频分镜：镜头 + 动作 + 时长",
+  "use_case": ["video", "storyboard"],
+  "api_targets": ["Minimax H3", "Kling", "Runway"],
+  "output_format": "structured",
+  "steps": [
+    {
+      "order": 1,
+      "template_id": "character.reference_description",
+      "required": true,
+      "description_zh": "角色锚点"
+    },
+    {
+      "order": 2,
+      "template_id": "scene.environment",
+      "required": true,
+      "description_zh": "场景"
+    },
+    {
+      "order": 3,
+      "template_id": "camera.shot_type",
+      "required": true,
+      "description_zh": "景别"
+    },
+    {
+      "order": 4,
+      "template_id": "camera.movement",
+      "required": true,
+      "description_zh": "运镜"
+    },
+    {
+      "order": 5,
+      "template_id": "action.motion",
+      "required": false,
+      "description_zh": "动作"
+    }
+  ],
+  "created_at": "2026-10-11",
+  "version": "1.0.0"
+}

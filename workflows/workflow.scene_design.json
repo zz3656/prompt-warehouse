@@ -1,0 +1,38 @@
+{
+  "id": "workflow.scene_design",
+  "name": "Scene Design Workflow",
+  "name_zh": "场景设计流程",
+  "description": "Create a complete scene/environment asset.",
+  "description_zh": "生成完整的场景图：环境 + 大气 + 灯光 + 色彩",
+  "use_case": ["scene", "environment"],
+  "api_targets": ["SDXL", "Midjourney", "Flux"],
+  "output_format": "comma_separated",
+  "steps": [
+    {
+      "order": 1,
+      "template_id": "scene.environment",
+      "required": true,
+      "description_zh": "场景环境"
+    },
+    {
+      "order": 2,
+      "template_id": "atmosphere.weather",
+      "required": false,
+      "description_zh": "大气效果"
+    },
+    {
+      "order": 3,
+      "template_id": "lighting.mood",
+      "required": true,
+      "description_zh": "灯光氛围"
+    },
+    {
+      "order": 4,
+      "template_id": "color.grading",
+      "required": false,
+      "description_zh": "色彩分级"
+    }
+  ],
+  "created_at": "2026-10-11",
+  "version": "1.0.0"
+}

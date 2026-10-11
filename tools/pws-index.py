@@ -102,6 +102,46 @@ def build_template_index():
     return index
 
 
+def build_workflow_index():
+    """Build a flat index of all workflows."""
+    index = []
+    meta_path = "workflows/_meta.json"
+    if not os.path.exists(meta_path):
+        print("⚠️ No workflows/_meta.json found, skipping workflow index")
+        return index
+
+    meta = safe_load_json(meta_path)
+    for wf_id in meta.get("workflows", []):
+        wf_file = f"workflows/{wf_id}.json"
+        if not os.path.exists(wf_file):
+            print(f"⚠️ {wf_file} not found, skipping")
+            continue
+        data = safe_load_json(wf_file)
+        entry = {
+            "id": data.get("id", ""),
+            "name": data.get("name", ""),
+            "name_zh": data.get("name_zh", ""),
+            "description": data.get("description", ""),
+            "description_zh": data.get("description_zh", ""),
+            "use_case": data.get("use_case", []),
+            "api_targets": data.get("api_targets", []),
+            "output_format": data.get("output_format", ""),
+            "steps": [
+                {
+                    "order": s.get("order"),
+                    "template_id": s.get("template_id", ""),
+                    "required": s.get("required", False),
+                    "description_zh": s.get("description_zh", ""),
+                }
+                for s in data.get("steps", [])
+            ],
+            "example_output": data.get("example_output", ""),
+            "version": data.get("version", ""),
+        }
+        index.append(entry)
+    return index
+
+
 def main():
     parser = argparse.ArgumentParser(description="Build PWS flat index")
     parser.add_argument(
@@ -119,6 +159,11 @@ def main():
         "--templates-only",
         action="store_true",
         help="Output only template index",
+    )
+    parser.add_argument(
+        "--workflows-only",
+        action="store_true",
+        help="Output only workflow index",
     )
     args = parser.parse_args()
 
@@ -144,6 +189,15 @@ def main():
             {"version": 1, "type": "templates", "count": len(tp_index), "items": tp_index},
         )
         print(f"📝 Template index: {len(tp_index)} entries → {out}")
+
+    if not args.keywords_only and not args.templates_only:
+        wf_index = build_workflow_index()
+        out = args.output.replace("pws_index.json", "pws_workflows_index.json")
+        safe_write_json(
+            out,
+            {"version": 1, "type": "workflows", "count": len(wf_index), "items": wf_index},
+        )
+        print(f"🔀 Workflow index: {len(wf_index)} entries → {out}")
 
     if args.keywords_only and args.templates_only:
         print("Error: specify one of --keywords-only or --templates-only")

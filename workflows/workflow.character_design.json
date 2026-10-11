@@ -1,0 +1,32 @@
+{
+  "id": "workflow.character_design",
+  "name": "Character Design Workflow",
+  "name_zh": "角色设计流程",
+  "description": "Create a complete character reference sheet with consistent look.",
+  "description_zh": "生成完整的角色参考图：多视角 + 一致性锚点",
+  "use_case": ["character", "comic"],
+  "api_targets": ["SDXL", "Midjourney"],
+  "output_format": "comma_separated",
+  "steps": [
+    {
+      "order": 1,
+      "template_id": "character.reference_description",
+      "required": true,
+      "description_zh": "角色外观描述"
+    },
+    {
+      "order": 2,
+      "template_id": "character.multiple_views",
+      "required": true,
+      "description_zh": "多视角参考"
+    },
+    {
+      "order": 3,
+      "template_id": "quality.character",
+      "required": false,
+      "description_zh": "角色质量词"
+    }
+  ],
+  "created_at": "2026-10-11",
+  "version": "1.0.0"
+}
