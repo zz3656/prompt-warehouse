@@ -1,101 +1,1124 @@
 {
-  "version": "1.2.1",
+  "version": "1.3.0",
   "total": 19,
+  "subcategories_zh": {
+    "basic": "基础质量",
+    "advanced": "高级质量",
+    "anime": "动漫风格",
+    "technical": "技术参数",
+    "atmosphere": "氛围质量",
+    "mood": "情绪",
+    "natural": "自然",
+    "dramatic": "戏剧",
+    "dynamic": "动态",
+    "special": "特殊",
+    "quality": "质量",
+    "style": "风格",
+    "composition": "构图",
+    "face": "面部",
+    "anatomy": "解剖",
+    "textRelated": "文字相关",
+    "commonDefects": "常见缺陷",
+    "hair": "发型",
+    "hairColors": "发色",
+    "eyes": "眼睛",
+    "eyeColors": "瞳色",
+    "expression": "表情",
+    "pose": "姿势",
+    "bodyType": "体型",
+    "skin": "肤色",
+    "age": "年龄",
+    "accessories": "配饰",
+    "body": "身体",
+    "tops": "上衣",
+    "bottoms": "下装",
+    "outfits": "套装",
+    "mj_v5_materials": "材质类型",
+    "mj_v5_matprops": "材质属性",
+    "nature": "自然场景",
+    "weather": "天气",
+    "time": "时间控制",
+    "interaction": "互动",
+    "relationship": "关系",
+    "backdrop": "背景",
+    "indoor": "室内",
+    "urban": "城市",
+    "fantastical": "奇幻",
+    "mj_v5_nature": "自然元素",
+    "mj_v5_objects": "物体",
+    "mj_v5_geo": "地理",
+    "mj_v5_space": "太空",
+    "angles": "多角度",
+    "framing": "景别",
+    "lens": "镜头",
+    "rules": "构图法则",
+    "camera-format": "画幅格式",
+    "camera-motions": "镜头运动",
+    "mj_v5_camera": "相机设置",
+    "mj_v5_geometry": "几何关系",
+    "mj_v5_perspective": "透视效果",
+    "mj_v5_structure": "结构",
+    "angle": "角度",
+    "coverage": "镜头覆盖",
+    "vantage": "视角位置",
+    "shot-size": "景别大小",
+    "art": "艺术风格",
+    "realism": "写实风格",
+    "specialty": "专业领域",
+    "artistStyle": "艺术家风格",
+    "aesthetic": "美学风格",
+    "mj_v5_themes": "主题",
+    "mj_v5_artists": "参考艺术家",
+    "mj_v5_colors": "主色调",
+    "mj_v5_colors2": "辅助色",
+    "mj_v5_design": "设计主题",
+    "mj_v5_digital": "数字风格",
+    "mj_v5_dimension": "维度表现",
+    "mj_v5_intangibles": "抽象概念",
+    "mj_v5_mediums": "媒介类型",
+    "animeManga": "动漫漫画",
+    "cinematographer": "电影摄影师风格",
+    "editorial": "编辑风格",
+    "decade-20c": "20 世纪",
+    "pre-modern": "前现代",
+    "sky": "天空",
+    "palette": "调色板",
+    "film-emulation": "胶片模拟",
+    "fabric": "织物",
+    "stone": "石材",
+    "wood": "木材",
+    "metal": "金属",
+    "exotic": "奇特材质",
+    "direction": "方向控制",
+    "freeze": "冻结效果",
+    "element": "元素类型",
+    "glitch": "故障效果",
+    "combat": "战斗",
+    "fire-blasts": "火焰爆发",
+    "aura-ambient": "光环氛围",
+    "body-mod": "身体改造",
+    "bag-accessory": "包袋",
+    "instrument": "乐器",
+    "panelLayout": "分镜布局",
+    "comicEffects": "漫画特效",
+    "animation": "动画风格",
+    "panelMood": "分镜氛围",
+    "render-engines": "渲染引擎",
+    "render-resolution": "分辨率",
+    "render-stamps": "标记",
+    "render-other": "其他渲染",
+    "render-technical": "技术渲染",
+    "text": "文字",
+    "clothing": "服装",
+    "detail": "细节",
+    "effects": "特效",
+    "character": "角色设定",
+    "color": "色彩质量",
+    "texture": "纹理质量",
+    "scene": "场景",
+    "artStyles": "艺术流派",
+    "wardrobe-accessories": "服装配饰",
+    "wardrobe-archetype": "服装原型",
+    "wardrobe-bottom": "下装款式",
+    "wardrobe-color-palette": "配色方案",
+    "wardrobe-era": "时代风格",
+    "wardrobe-footwear": "鞋履",
+    "wardrobe-headwear": "头饰",
+    "wardrobe-material": "面料材质",
+    "wardrobe-outerwear": "外套",
+    "wardrobe-top": "上装款式",
+    "post-process": "后期处理",
+    "social-preset": "社交预设",
+    "disaster": "灾难",
+    "electric": "电击效果",
+    "magic": "魔法效果",
+    "misc": "其他特效",
+    "sci-fi": "科幻效果",
+    "shutter": "快门效果",
+    "speed": "速度感",
+    "light": "光线效果",
+    "morph": "变形效果",
+    "physics": "物理效果",
+    "portal": "传送门",
+    "standard": "标准转场",
+    "companion": "伙伴",
+    "device": "设备",
+    "drink": "饮品",
+    "floral-nature": "花卉自然",
+    "occupational": "职业相关",
+    "reading-writing": "阅读书写",
+    "smoking": "吸烟",
+    "concept": "概念艺术",
+    "documentary": "纪实风格",
+    "genre": "类型风格",
+    "illustrator": "插画师风格",
+    "speculative": "推测风格",
+    "animeSpecific": "动漫特定",
+    "face-expression": "面部表情",
+    "glass-ceramic": "玻璃陶瓷",
+    "mj_v5_lighting": "灯光效果",
+    "mj_v5_sfx": "特效灯光",
+    "power": "力量感",
+    "transformation": "变形效果"
+  },
   "categories": [
     {
       "slug": "action-fx",
       "name_zh": "动作特效",
-      "count": 75
+      "count": 75,
+      "subcategories": [
+        {
+          "slug": "disaster",
+          "name_zh": "灾难",
+          "count": 18
+        },
+        {
+          "slug": "misc",
+          "name_zh": "其他特效",
+          "count": 12
+        },
+        {
+          "slug": "fire-blasts",
+          "name_zh": "火焰爆发",
+          "count": 12
+        },
+        {
+          "slug": "combat",
+          "name_zh": "战斗",
+          "count": 11
+        },
+        {
+          "slug": "electric",
+          "name_zh": "电击效果",
+          "count": 10
+        },
+        {
+          "slug": "sci-fi",
+          "name_zh": "科幻效果",
+          "count": 9
+        },
+        {
+          "slug": "magic",
+          "name_zh": "魔法效果",
+          "count": 3
+        }
+      ]
     },
     {
       "slug": "atmosphere",
       "name_zh": "大气效果",
-      "count": 6
+      "count": 6,
+      "subcategories": [
+        {
+          "slug": "sky",
+          "name_zh": "天空",
+          "count": 6
+        }
+      ]
     },
     {
       "slug": "character",
       "name_zh": "角色",
-      "count": 477
+      "count": 477,
+      "subcategories": [
+        {
+          "slug": "pose",
+          "name_zh": "姿势",
+          "count": 122
+        },
+        {
+          "slug": "clothing",
+          "name_zh": "服装",
+          "count": 56
+        },
+        {
+          "slug": "mood",
+          "name_zh": "情绪",
+          "count": 56
+        },
+        {
+          "slug": "expression",
+          "name_zh": "表情",
+          "count": 55
+        },
+        {
+          "slug": "eyes",
+          "name_zh": "眼睛",
+          "count": 35
+        },
+        {
+          "slug": "hair",
+          "name_zh": "发型",
+          "count": 31
+        },
+        {
+          "slug": "hairColors",
+          "name_zh": "发色",
+          "count": 24
+        },
+        {
+          "slug": "eyeColors",
+          "name_zh": "瞳色",
+          "count": 23
+        },
+        {
+          "slug": "age",
+          "name_zh": "年龄",
+          "count": 15
+        },
+        {
+          "slug": "body",
+          "name_zh": "身体",
+          "count": 12
+        },
+        {
+          "slug": "bodyType",
+          "name_zh": "体型",
+          "count": 11
+        },
+        {
+          "slug": "anatomy",
+          "name_zh": "解剖",
+          "count": 10
+        },
+        {
+          "slug": "skin",
+          "name_zh": "肤色",
+          "count": 8
+        },
+        {
+          "slug": "effects",
+          "name_zh": "特效",
+          "count": 7
+        },
+        {
+          "slug": "composition",
+          "name_zh": "构图",
+          "count": 5
+        },
+        {
+          "slug": "face",
+          "name_zh": "面部",
+          "count": 3
+        },
+        {
+          "slug": "character",
+          "name_zh": "角色设定",
+          "count": 2
+        },
+        {
+          "slug": "detail",
+          "name_zh": "细节",
+          "count": 2
+        }
+      ]
     },
     {
       "slug": "character-fx",
       "name_zh": "角色特效",
-      "count": 60
+      "count": 60,
+      "subcategories": [
+        {
+          "slug": "aura-ambient",
+          "name_zh": "光环氛围",
+          "count": 15
+        },
+        {
+          "slug": "transformation",
+          "name_zh": "变形效果",
+          "count": 13
+        },
+        {
+          "slug": "power",
+          "name_zh": "力量感",
+          "count": 13
+        },
+        {
+          "slug": "body-mod",
+          "name_zh": "身体改造",
+          "count": 10
+        },
+        {
+          "slug": "face-expression",
+          "name_zh": "面部表情",
+          "count": 9
+        }
+      ]
     },
     {
       "slug": "clothing",
       "name_zh": "服装",
-      "count": 703
+      "count": 703,
+      "subcategories": [
+        {
+          "slug": "mj_v5_materials",
+          "name_zh": "材质类型",
+          "count": 377
+        },
+        {
+          "slug": "mj_v5_matprops",
+          "name_zh": "材质属性",
+          "count": 134
+        },
+        {
+          "slug": "accessories",
+          "name_zh": "配饰",
+          "count": 66
+        },
+        {
+          "slug": "outfits",
+          "name_zh": "套装",
+          "count": 34
+        },
+        {
+          "slug": "tops",
+          "name_zh": "上衣",
+          "count": 13
+        },
+        {
+          "slug": "wardrobe-archetype",
+          "name_zh": "服装原型",
+          "count": 10
+        },
+        {
+          "slug": "bottoms",
+          "name_zh": "下装",
+          "count": 9
+        },
+        {
+          "slug": "wardrobe-top",
+          "name_zh": "上装款式",
+          "count": 7
+        },
+        {
+          "slug": "wardrobe-outerwear",
+          "name_zh": "外套",
+          "count": 7
+        },
+        {
+          "slug": "wardrobe-accessories",
+          "name_zh": "服装配饰",
+          "count": 7
+        },
+        {
+          "slug": "wardrobe-color-palette",
+          "name_zh": "配色方案",
+          "count": 7
+        },
+        {
+          "slug": "wardrobe-material",
+          "name_zh": "面料材质",
+          "count": 7
+        },
+        {
+          "slug": "wardrobe-era",
+          "name_zh": "时代风格",
+          "count": 7
+        },
+        {
+          "slug": "wardrobe-bottom",
+          "name_zh": "下装款式",
+          "count": 6
+        },
+        {
+          "slug": "wardrobe-footwear",
+          "name_zh": "鞋履",
+          "count": 6
+        },
+        {
+          "slug": "wardrobe-headwear",
+          "name_zh": "头饰",
+          "count": 6
+        }
+      ]
     },
     {
       "slug": "color-look",
       "name_zh": "色彩分级",
-      "count": 69
+      "count": 69,
+      "subcategories": [
+        {
+          "slug": "film-emulation",
+          "name_zh": "胶片模拟",
+          "count": 24
+        },
+        {
+          "slug": "post-process",
+          "name_zh": "后期处理",
+          "count": 19
+        },
+        {
+          "slug": "palette",
+          "name_zh": "调色板",
+          "count": 18
+        },
+        {
+          "slug": "social-preset",
+          "name_zh": "社交预设",
+          "count": 8
+        }
+      ]
     },
     {
       "slug": "composition",
       "name_zh": "构图",
-      "count": 533
+      "count": 533,
+      "subcategories": [
+        {
+          "slug": "mj_v5_camera",
+          "name_zh": "相机设置",
+          "count": 190
+        },
+        {
+          "slug": "mj_v5_structure",
+          "name_zh": "结构",
+          "count": 67
+        },
+        {
+          "slug": "camera-motions",
+          "name_zh": "镜头运动",
+          "count": 58
+        },
+        {
+          "slug": "mj_v5_perspective",
+          "name_zh": "透视效果",
+          "count": 55
+        },
+        {
+          "slug": "camera-format",
+          "name_zh": "画幅格式",
+          "count": 31
+        },
+        {
+          "slug": "lens",
+          "name_zh": "镜头",
+          "count": 29
+        },
+        {
+          "slug": "shot-size",
+          "name_zh": "景别大小",
+          "count": 20
+        },
+        {
+          "slug": "composition",
+          "name_zh": "构图",
+          "count": 19
+        },
+        {
+          "slug": "coverage",
+          "name_zh": "镜头覆盖",
+          "count": 15
+        },
+        {
+          "slug": "angles",
+          "name_zh": "多角度",
+          "count": 14
+        },
+        {
+          "slug": "angle",
+          "name_zh": "角度",
+          "count": 10
+        },
+        {
+          "slug": "rules",
+          "name_zh": "构图法则",
+          "count": 9
+        },
+        {
+          "slug": "vantage",
+          "name_zh": "视角位置",
+          "count": 8
+        },
+        {
+          "slug": "mj_v5_geometry",
+          "name_zh": "几何关系",
+          "count": 4
+        },
+        {
+          "slug": "framing",
+          "name_zh": "景别",
+          "count": 4
+        }
+      ]
     },
     {
       "slug": "era",
       "name_zh": "历史时代",
-      "count": 33
+      "count": 33,
+      "subcategories": [
+        {
+          "slug": "speculative",
+          "name_zh": "推测风格",
+          "count": 14
+        },
+        {
+          "slug": "decade-20c",
+          "name_zh": "20 世纪",
+          "count": 10
+        },
+        {
+          "slug": "pre-modern",
+          "name_zh": "前现代",
+          "count": 9
+        }
+      ]
     },
     {
       "slug": "held-prop",
       "name_zh": "手持道具",
-      "count": 66
+      "count": 66,
+      "subcategories": [
+        {
+          "slug": "device",
+          "name_zh": "设备",
+          "count": 10
+        },
+        {
+          "slug": "drink",
+          "name_zh": "饮品",
+          "count": 10
+        },
+        {
+          "slug": "occupational",
+          "name_zh": "职业相关",
+          "count": 10
+        },
+        {
+          "slug": "reading-writing",
+          "name_zh": "阅读书写",
+          "count": 9
+        },
+        {
+          "slug": "bag-accessory",
+          "name_zh": "包袋",
+          "count": 7
+        },
+        {
+          "slug": "floral-nature",
+          "name_zh": "花卉自然",
+          "count": 7
+        },
+        {
+          "slug": "smoking",
+          "name_zh": "吸烟",
+          "count": 5
+        },
+        {
+          "slug": "instrument",
+          "name_zh": "乐器",
+          "count": 5
+        },
+        {
+          "slug": "companion",
+          "name_zh": "伙伴",
+          "count": 3
+        }
+      ]
     },
     {
       "slug": "lighting",
       "name_zh": "灯光",
-      "count": 382
+      "count": 382,
+      "subcategories": [
+        {
+          "slug": "mj_v5_lighting",
+          "name_zh": "灯光效果",
+          "count": 162
+        },
+        {
+          "slug": "mj_v5_sfx",
+          "name_zh": "特效灯光",
+          "count": 98
+        },
+        {
+          "slug": "atmosphere",
+          "name_zh": "氛围质量",
+          "count": 40
+        },
+        {
+          "slug": "dynamic",
+          "name_zh": "动态",
+          "count": 21
+        },
+        {
+          "slug": "mood",
+          "name_zh": "情绪",
+          "count": 20
+        },
+        {
+          "slug": "natural",
+          "name_zh": "自然",
+          "count": 17
+        },
+        {
+          "slug": "special",
+          "name_zh": "特殊",
+          "count": 12
+        },
+        {
+          "slug": "dramatic",
+          "name_zh": "戏剧",
+          "count": 12
+        }
+      ]
     },
     {
       "slug": "material",
       "name_zh": "材质预设",
-      "count": 67
+      "count": 67,
+      "subcategories": [
+        {
+          "slug": "fabric",
+          "name_zh": "织物",
+          "count": 16
+        },
+        {
+          "slug": "exotic",
+          "name_zh": "奇特材质",
+          "count": 13
+        },
+        {
+          "slug": "metal",
+          "name_zh": "金属",
+          "count": 10
+        },
+        {
+          "slug": "stone",
+          "name_zh": "石材",
+          "count": 9
+        },
+        {
+          "slug": "natural",
+          "name_zh": "自然",
+          "count": 7
+        },
+        {
+          "slug": "wood",
+          "name_zh": "木材",
+          "count": 6
+        },
+        {
+          "slug": "glass-ceramic",
+          "name_zh": "玻璃陶瓷",
+          "count": 6
+        }
+      ]
     },
     {
       "slug": "negative",
       "name_zh": "负面",
-      "count": 103
+      "count": 103,
+      "subcategories": [
+        {
+          "slug": "anatomy",
+          "name_zh": "解剖",
+          "count": 23
+        },
+        {
+          "slug": "face",
+          "name_zh": "面部",
+          "count": 19
+        },
+        {
+          "slug": "commonDefects",
+          "name_zh": "常见缺陷",
+          "count": 18
+        },
+        {
+          "slug": "composition",
+          "name_zh": "构图",
+          "count": 15
+        },
+        {
+          "slug": "quality",
+          "name_zh": "质量",
+          "count": 10
+        },
+        {
+          "slug": "textRelated",
+          "name_zh": "文字相关",
+          "count": 10
+        },
+        {
+          "slug": "style",
+          "name_zh": "风格",
+          "count": 8
+        }
+      ]
     },
     {
       "slug": "panel",
       "name_zh": "分镜",
-      "count": 74
+      "count": 74,
+      "subcategories": [
+        {
+          "slug": "comicEffects",
+          "name_zh": "漫画特效",
+          "count": 25
+        },
+        {
+          "slug": "animation",
+          "name_zh": "动画风格",
+          "count": 19
+        },
+        {
+          "slug": "panelLayout",
+          "name_zh": "分镜布局",
+          "count": 16
+        },
+        {
+          "slug": "panelMood",
+          "name_zh": "分镜氛围",
+          "count": 14
+        }
+      ]
     },
     {
       "slug": "photographer",
       "name_zh": "摄影师风格",
-      "count": 89
+      "count": 89,
+      "subcategories": [
+        {
+          "slug": "editorial",
+          "name_zh": "编辑风格",
+          "count": 32
+        },
+        {
+          "slug": "genre",
+          "name_zh": "类型风格",
+          "count": 24
+        },
+        {
+          "slug": "illustrator",
+          "name_zh": "插画师风格",
+          "count": 13
+        },
+        {
+          "slug": "documentary",
+          "name_zh": "纪实风格",
+          "count": 8
+        },
+        {
+          "slug": "concept",
+          "name_zh": "概念艺术",
+          "count": 8
+        },
+        {
+          "slug": "cinematographer",
+          "name_zh": "电影摄影师风格",
+          "count": 4
+        }
+      ]
     },
     {
       "slug": "quality",
       "name_zh": "质量",
-      "count": 166
+      "count": 166,
+      "subcategories": [
+        {
+          "slug": "advanced",
+          "name_zh": "高级质量",
+          "count": 27
+        },
+        {
+          "slug": "basic",
+          "name_zh": "基础质量",
+          "count": 20
+        },
+        {
+          "slug": "technical",
+          "name_zh": "技术参数",
+          "count": 20
+        },
+        {
+          "slug": "atmosphere",
+          "name_zh": "氛围质量",
+          "count": 15
+        },
+        {
+          "slug": "texture",
+          "name_zh": "纹理质量",
+          "count": 12
+        },
+        {
+          "slug": "render-engines",
+          "name_zh": "渲染引擎",
+          "count": 11
+        },
+        {
+          "slug": "animeSpecific",
+          "name_zh": "动漫特定",
+          "count": 10
+        },
+        {
+          "slug": "composition",
+          "name_zh": "构图",
+          "count": 10
+        },
+        {
+          "slug": "anime",
+          "name_zh": "动漫风格",
+          "count": 9
+        },
+        {
+          "slug": "render-other",
+          "name_zh": "其他渲染",
+          "count": 9
+        },
+        {
+          "slug": "color",
+          "name_zh": "色彩质量",
+          "count": 8
+        },
+        {
+          "slug": "render-technical",
+          "name_zh": "技术渲染",
+          "count": 6
+        },
+        {
+          "slug": "render-resolution",
+          "name_zh": "分辨率",
+          "count": 6
+        },
+        {
+          "slug": "render-stamps",
+          "name_zh": "标记",
+          "count": 3
+        }
+      ]
     },
     {
       "slug": "scene",
       "name_zh": "场景",
-      "count": 995
+      "count": 995,
+      "subcategories": [
+        {
+          "slug": "mj_v5_nature",
+          "name_zh": "自然元素",
+          "count": 318
+        },
+        {
+          "slug": "mj_v5_objects",
+          "name_zh": "物体",
+          "count": 248
+        },
+        {
+          "slug": "mj_v5_geo",
+          "name_zh": "地理",
+          "count": 90
+        },
+        {
+          "slug": "nature",
+          "name_zh": "自然场景",
+          "count": 72
+        },
+        {
+          "slug": "interaction",
+          "name_zh": "互动",
+          "count": 57
+        },
+        {
+          "slug": "mj_v5_space",
+          "name_zh": "太空",
+          "count": 53
+        },
+        {
+          "slug": "backdrop",
+          "name_zh": "背景",
+          "count": 40
+        },
+        {
+          "slug": "weather",
+          "name_zh": "天气",
+          "count": 35
+        },
+        {
+          "slug": "indoor",
+          "name_zh": "室内",
+          "count": 23
+        },
+        {
+          "slug": "relationship",
+          "name_zh": "关系",
+          "count": 22
+        },
+        {
+          "slug": "time",
+          "name_zh": "时间控制",
+          "count": 20
+        },
+        {
+          "slug": "urban",
+          "name_zh": "城市",
+          "count": 10
+        },
+        {
+          "slug": "fantastical",
+          "name_zh": "奇幻",
+          "count": 7
+        }
+      ]
     },
     {
       "slug": "styles",
       "name_zh": "风格",
-      "count": 1990
+      "count": 1990,
+      "subcategories": [
+        {
+          "slug": "mj_v5_design",
+          "name_zh": "设计主题",
+          "count": 417
+        },
+        {
+          "slug": "mj_v5_digital",
+          "name_zh": "数字风格",
+          "count": 366
+        },
+        {
+          "slug": "mj_v5_mediums",
+          "name_zh": "媒介类型",
+          "count": 318
+        },
+        {
+          "slug": "mj_v5_themes",
+          "name_zh": "主题",
+          "count": 307
+        },
+        {
+          "slug": "mj_v5_colors",
+          "name_zh": "主色调",
+          "count": 180
+        },
+        {
+          "slug": "mj_v5_colors2",
+          "name_zh": "辅助色",
+          "count": 68
+        },
+        {
+          "slug": "realism",
+          "name_zh": "写实风格",
+          "count": 67
+        },
+        {
+          "slug": "aesthetic",
+          "name_zh": "美学风格",
+          "count": 61
+        },
+        {
+          "slug": "art",
+          "name_zh": "艺术风格",
+          "count": 49
+        },
+        {
+          "slug": "artStyles",
+          "name_zh": "艺术流派",
+          "count": 42
+        },
+        {
+          "slug": "animeManga",
+          "name_zh": "动漫漫画",
+          "count": 30
+        },
+        {
+          "slug": "artistStyle",
+          "name_zh": "艺术家风格",
+          "count": 30
+        },
+        {
+          "slug": "mj_v5_dimension",
+          "name_zh": "维度表现",
+          "count": 28
+        },
+        {
+          "slug": "specialty",
+          "name_zh": "专业领域",
+          "count": 23
+        },
+        {
+          "slug": "mj_v5_artists",
+          "name_zh": "参考艺术家",
+          "count": 2
+        },
+        {
+          "slug": "mj_v5_intangibles",
+          "name_zh": "抽象概念",
+          "count": 2
+        }
+      ]
     },
     {
       "slug": "temporal",
       "name_zh": "时间效果",
-      "count": 30
+      "count": 30,
+      "subcategories": [
+        {
+          "slug": "speed",
+          "name_zh": "速度感",
+          "count": 12
+        },
+        {
+          "slug": "freeze",
+          "name_zh": "冻结效果",
+          "count": 8
+        },
+        {
+          "slug": "shutter",
+          "name_zh": "快门效果",
+          "count": 6
+        },
+        {
+          "slug": "direction",
+          "name_zh": "方向控制",
+          "count": 4
+        }
+      ]
     },
     {
       "slug": "transitions",
       "name_zh": "转场效果",
-      "count": 81
+      "count": 81,
+      "subcategories": [
+        {
+          "slug": "element",
+          "name_zh": "元素类型",
+          "count": 14
+        },
+        {
+          "slug": "standard",
+          "name_zh": "标准转场",
+          "count": 13
+        },
+        {
+          "slug": "portal",
+          "name_zh": "传送门",
+          "count": 12
+        },
+        {
+          "slug": "physics",
+          "name_zh": "物理效果",
+          "count": 10
+        },
+        {
+          "slug": "morph",
+          "name_zh": "变形效果",
+          "count": 9
+        },
+        {
+          "slug": "time",
+          "name_zh": "时间控制",
+          "count": 8
+        },
+        {
+          "slug": "light",
+          "name_zh": "光线效果",
+          "count": 8
+        },
+        {
+          "slug": "glitch",
+          "name_zh": "故障效果",
+          "count": 7
+        }
+      ]
     }
   ]
 }

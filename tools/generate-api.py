@@ -44,15 +44,18 @@ def generate_categories():
     meta = json.load(open(REPO / "keywords" / "_meta.json", encoding="utf-8"))
     categories = meta.get("categories", [])
     categories_zh = meta.get("categories_zh", {})
+    subcategories_zh = meta.get("subcategories_zh", {})
 
     result = {
         "version": meta.get("version"),
         "total": len(categories),
+        "subcategories_zh": subcategories_zh,
         "categories": [
             {
                 "slug": cat,
                 "name_zh": categories_zh.get(cat, cat),
-                "count": 0
+                "count": 0,
+                "subcategories": []
             }
             for cat in categories
         ]
@@ -63,6 +66,22 @@ def generate_categories():
         if cat_file.exists():
             data = json.load(open(cat_file, encoding="utf-8"))
             item["count"] = len(data)
+
+            # 聚合子分类
+            subs = {}
+            for kw in data:
+                sub = kw.get("subcategory")
+                if sub:
+                    subs[sub] = subs.get(sub, 0) + 1
+
+            item["subcategories"] = [
+                {
+                    "slug": sub,
+                    "name_zh": subcategories_zh.get(sub, sub),
+                    "count": count
+                }
+                for sub, count in sorted(subs.items(), key=lambda x: -x[1])
+            ]
 
     with open(API_DIR / "categories.json", "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
