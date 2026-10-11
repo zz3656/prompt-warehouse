@@ -2,9 +2,9 @@
 
 **A unified, language-agnostic standard for organizing, versioning, and sharing AI generation prompts across projects.**
 
-> **pws v1.0** | **Data v1.1.0** | [简体中文](README.md) | **English**
+> **pws v1.0** | **Data v1.5.4** | [简体中文](README.md) | **English**
 >
-> **Current data version**: v1.5.0 (6,037 keywords · 20 categories · 156 subcategories · **100% term_zh coverage**)
+> **Current data version**: v1.5.4 (6,037 keywords · 20 categories · 156 subcategories · **100% term_zh coverage**)
 >
 > **Repository**: https://github.com/zz3656/prompt-warehouse
 > **License**: MIT
@@ -355,7 +355,7 @@ The warehouse follows semantic versioning:
 
 Each `_meta.json` tracks version, schema version, and changelog entries.
 
-Current version: **v1.1.0** — 6,015 keywords across 20 categories (**all** 6,015 with Chinese translation, **100%** coverage).
+Current version: **v1.5.4** — 6,037 keywords across 20 categories (**all** 6,037 with Chinese translation, **100%** coverage).
 
 ---
 
@@ -397,7 +397,7 @@ Keywords and templates support multiple languages:
 | **Phase 1: Schema Definition** | ✅ Complete | 3 JSON schemas defined and validated |
 | **Phase 2: Migration** | ✅ Complete | 6,015 keywords migrated from h3-comic-builder + MJ reference |
 | **Phase 3: Tooling** | ✅ Complete | 13+ CLI tools (indexing, auditing, translation, dedup, Bundle management) |
-| **Phase 4: Sharing** | ✅ Complete | Remote sync, bundle system (10 bundles), template marketplace base |
+| **Phase 4: Sharing** | ✅ Complete | Remote sync, bundle system (12 bundles), template marketplace base |
 
 ---
 
@@ -433,7 +433,7 @@ MIT License — see [docs/standard_en.md](docs/standard_en.md) for full details.
 - **Project Schema**: [schema/project.schema.json](schema/project.schema.json)
 - **Metadata**: [keywords/_meta.json](keywords/_meta.json)
 - **Data Sources**: see below
-- **Current Stats**: 5,999 keywords · 18 categories · 3 templates · 10 bundles · **6,015 / 6,015** with Chinese translation (100%)
+- **Current Stats**: 6,037 keywords · 20 categories · 16 templates · 12 bundles · **6,037 / 6,037** with Chinese translation (100%)
 
 ## 📥 Data Sources (Permanent Record)
 
@@ -455,6 +455,6 @@ MIT License — see [docs/standard_en.md](docs/standard_en.md) for full details.
 
 ---
 
-*Prompt Warehouse Standard v1.0 · Built for comic/manga prompt generation, applicable to any AI creative tool.*
+*Prompt Warehouse Standard v1.0 · Data version v1.5.4 · Built for comic/manga prompt generation, applicable to any AI creative tool.*
 
 *← [简体中文](README.md)*

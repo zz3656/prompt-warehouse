@@ -1,8 +1,8 @@
 {
-  "name": "Prompt Warehouse Stats",
-  "version": "1.5.0",
-  "generated_at": "2026-10-11T13:22:34.880007+00:00",
-  "total": 6037,
+  "version": "1.5.4",
+  "total_keywords": 6037,
+  "total_categories": 20,
+  "total_workflows": 4,
   "by_category": {
     "styles": 1990,
     "scene": 995,
@@ -25,15 +25,6 @@
     "temporal": 30,
     "atmosphere": 6
   },
-  "by_lifecycle": {
-    "approved": 6037
-  },
-  "by_score_bucket": {
-    "< 0.5": 0,
-    "0.5-0.7": 0,
-    "0.7-0.9": 5723,
-    ">= 0.9": 314
-  },
   "by_compatibility": {
     "sdxl": 6025,
     "midjourney": 6025,
@@ -42,12 +33,19 @@
     "runway": 12,
     "minimax_h3": 12
   },
-  "missing_template_refs": [],
-  "bundle_count": 10,
-  "data_quality": {
-    "missing_term_zh": 0,
-    "missing_labels_zh": 0,
-    "duplicate_terms": 256,
-    "orphan_template_refs": 0
-  }
+  "relation": {
+    "canonical": 139,
+    "variant": 175,
+    "alias_of": 118,
+    "relation_group": 139
+  },
+  "by_score_bucket": {
+    "<0.5": 0,
+    "0.5-0.7": 0,
+    "0.7-0.9": 5723,
+    ">=0.9": 314
+  },
+  "missing_term_zh": 0,
+  "generated_at": "2026-10-11T14:28:09.499245+00:00",
+  "missing_template_refs": []
 }

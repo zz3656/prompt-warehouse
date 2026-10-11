@@ -265,7 +265,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "black and white",
+    "relation_role": "canonical"
   },
   {
     "id": "color_look_palette_sepia",

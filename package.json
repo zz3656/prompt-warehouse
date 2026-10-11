@@ -1,4 +1,6 @@
 {
+  "name": "prompt-warehouse-standard",
+  "version": "1.5.4",
   "dependencies": {
     "playwright": "^1.63.0"
   }

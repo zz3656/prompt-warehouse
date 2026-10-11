@@ -106,13 +106,22 @@ def load_bundles() -> list:
 
 
 def resolve_keyword_ids(bundle: dict, keywords: dict) -> str:
-    """Resolve keyword IDs to their term text, sorted by weight."""
+    """Resolve keyword IDs to their term text, sorted by weight.
+
+    批次 7：接入 canonical 去重，过滤 variant 和 alias_of。
+    """
+    # 懒加载 pws_canonical（避免顶层 import 路径问题）
+    from pws_canonical import is_canonical
+
     parts = []
     forced = []
     for kw_ref in bundle.get("keywords", []):
         kw_id = kw_ref.get("id", "")
         weight = kw_ref.get("weight", 0.5)
         kw = keywords.get(kw_id, {})
+        # 批次 7：跳过 variant 和 alias_of（不在 bundle 中直接引用）
+        if not is_canonical(kw):
+            continue
         term = kw.get("term", kw_ref.get("fallback_term", kw_id))
         entry = (term, weight, kw_ref.get("force_include", False))
         if kw_ref.get("force_include", False):
@@ -125,7 +134,7 @@ def resolve_keyword_ids(bundle: dict, keywords: dict) -> str:
     return ", ".join(result)
 
 
-def resolve_templates(bundle: dict, templates: dict) -> str | None:
+def resolve_templates(bundle: dict, templates: dict) -> "str | None":
     """Resolve template references and return prompt text."""
     template_refs = bundle.get("templates", [])
     if not template_refs:
@@ -157,7 +166,7 @@ def resolve_templates(bundle: dict, templates: dict) -> str | None:
 
 
 def generate_prompt(bundle: dict, keywords: dict, templates: dict,
-                    extra_vars: dict | None = None) -> str:
+                    extra_vars: "dict | None" = None) -> str:
     """Generate a complete prompt from a bundle."""
     extra_vars = extra_vars or {}
 

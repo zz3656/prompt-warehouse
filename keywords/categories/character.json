@@ -30,7 +30,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "flowing hair",
+    "relation_role": "canonical"
   },
   {
     "id": "character_hair_wind_blown_hair",
@@ -96,7 +98,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "long hair",
+    "relation_role": "canonical"
   },
   {
     "id": "character_hair_short_hair",
@@ -129,7 +133,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "short hair",
+    "relation_role": "canonical"
   },
   {
     "id": "character_hair_curly_hair",
@@ -162,7 +168,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "curly hair",
+    "relation_role": "canonical"
   },
   {
     "id": "character_hair_wavy_hair",
@@ -195,7 +203,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "wavy hair",
+    "relation_role": "canonical"
   },
   {
     "id": "character_hair_straight_hair",
@@ -228,7 +238,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "straight hair",
+    "relation_role": "canonical"
   },
   {
     "id": "character_hair_spiky_hair",
@@ -1118,7 +1130,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "looking up",
+    "relation_role": "canonical"
   },
   {
     "id": "character_eyes_looking_down",
@@ -1151,7 +1165,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "looking down",
+    "relation_role": "canonical"
   },
   {
     "id": "character_eyes_eye_contact",
@@ -3458,7 +3474,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "dynamic angle",
+    "relation_role": "variant"
   },
   {
     "id": "character_pose_looking_back_over_shoulder",
@@ -3689,7 +3707,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "detailed hands",
+    "relation_role": "variant"
   },
   {
     "id": "character_anatomy_fingers",
@@ -3788,7 +3808,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "perfect anatomy",
+    "relation_role": "variant"
   },
   {
     "id": "character_anatomy_beautiful_face",
@@ -8352,7 +8374,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "gloves",
+    "relation_role": "canonical"
   },
   {
     "id": "character_clothing_fingerless_gloves",
@@ -8639,7 +8663,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "combat boots",
+    "relation_role": "canonical"
   },
   {
     "id": "character_clothing_high_heels",
@@ -8675,7 +8701,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "high heels",
+    "relation_role": "canonical"
   },
   {
     "id": "character_clothing_sandals",
@@ -8711,7 +8739,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "sandals",
+    "relation_role": "canonical"
   },
   {
     "id": "character_effects_magic_circle",
@@ -8783,7 +8813,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "magic",
+    "relation_role": "canonical"
   },
   {
     "id": "character_effects_fire",
@@ -8818,7 +8850,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "fire",
+    "relation_role": "canonical"
   },
   {
     "id": "character_effects_lightning",
@@ -8855,7 +8889,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "lightning",
+    "relation_role": "canonical"
   },
   {
     "id": "character_effects_ice",
@@ -8891,7 +8927,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "ice",
+    "relation_role": "canonical"
   },
   {
     "id": "character_effects_water",
@@ -8926,7 +8964,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "water",
+    "relation_role": "canonical"
   },
   {
     "id": "character_effects_wings_magic",
@@ -9033,7 +9073,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "1boy",
+    "relation_role": "variant"
   },
   {
     "id": "character_character_1girl",
@@ -9068,7 +9110,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "1girl",
+    "relation_role": "variant"
   },
   {
     "id": "character_composition_moresolo",
@@ -9176,7 +9220,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "close-up",
+    "relation_role": "variant"
   },
   {
     "id": "character_pose_hand_on_cheek",
@@ -9859,7 +9905,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "cape",
+    "relation_role": "canonical"
   },
   {
     "id": "character_clothing_coat",
@@ -10003,7 +10051,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "school uniform",
+    "relation_role": "canonical"
   },
   {
     "id": "character_clothing_white_shirt",
@@ -10255,7 +10305,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "dress",
+    "relation_role": "canonical"
   },
   {
     "id": "character_clothing_gown",
@@ -10327,7 +10379,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "kimono",
+    "relation_role": "canonical"
   },
   {
     "id": "character_clothing_hanbok",
@@ -10363,7 +10417,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "hanbok",
+    "relation_role": "canonical"
   },
   {
     "id": "character_clothing_cheongsam",
@@ -10399,7 +10455,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "cheongsam",
+    "relation_role": "canonical"
   },
   {
     "id": "character_clothing_leotard",
@@ -10613,7 +10671,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "scarf",
+    "relation_role": "canonical"
   },
   {
     "id": "character_clothing_belt",
@@ -10649,7 +10709,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "belt",
+    "relation_role": "canonical"
   },
   {
     "id": "character_clothing_fishnets",
@@ -10721,7 +10783,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "boots",
+    "relation_role": "canonical"
   },
   {
     "id": "character_clothing_leggings",
@@ -11717,7 +11781,7 @@
     ],
     "score": 0.85,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "nodaro-prompts"
     ],
@@ -11736,7 +11800,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "character_expression_serene_expression"
   },
   {
     "id": "character_mood_playful_expression",
@@ -11989,7 +12054,7 @@
     ],
     "score": 0.85,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "nodaro-prompts"
     ],
@@ -12008,7 +12073,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "character_expression_angry_expression"
   },
   {
     "id": "character_mood_fearful_expression",
@@ -13028,7 +13094,7 @@
     ],
     "score": 0.85,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "nodaro-prompts"
     ],
@@ -13047,7 +13113,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "character_expression_shocked_expression"
   },
   {
     "id": "character_mood_flirty_expression",
@@ -13871,7 +13938,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "dancing",
+    "relation_role": "canonical"
   },
   {
     "id": "character_pose_climbing_with_arms_extended",

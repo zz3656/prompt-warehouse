@@ -2542,7 +2542,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "bracelet",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_nature_branches",
@@ -6746,7 +6748,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "dress",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_objects_dressed",
@@ -9695,7 +9699,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "glasses",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_space_global",
@@ -13278,7 +13284,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "lightning",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_nature_lightning_bolt",
@@ -16524,7 +16532,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "northern lights",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_objects_object",
@@ -21283,7 +21293,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "snow",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_objects_soap",
@@ -22425,7 +22437,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "sunglasses",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_space_supernova",
@@ -24161,7 +24175,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "twilight",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_nature_underwater",
@@ -25193,7 +25209,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "wearing glasses",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_objects_wearing_sunglasses",
@@ -25230,7 +25248,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "wearing sunglasses",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_nature_weather",
@@ -26200,7 +26220,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "migrated",
       "scene"
@@ -26221,7 +26241,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_nature_afternoon"
   },
   {
     "id": "scene_interaction_aiming_weapon",
@@ -26391,7 +26412,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "aurora",
+    "relation_role": "variant"
   },
   {
     "id": "scene_interaction_bandaging_wounds",
@@ -26594,7 +26617,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "blue hour",
+    "relation_role": "variant"
   },
   {
     "id": "scene_interaction_bowing",
@@ -26696,7 +26721,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "candlelight",
+    "relation_role": "variant"
   },
   {
     "id": "scene_relationship_captain_and_subordinate",
@@ -26967,7 +26994,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "cloudy sky",
+    "relation_role": "variant"
   },
   {
     "id": "scene_interaction_confronting",
@@ -27103,7 +27132,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "dancing",
+    "relation_role": "variant"
   },
   {
     "id": "scene_time_dawn",
@@ -27116,7 +27147,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "migrated",
       "scene"
@@ -27137,7 +27168,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_nature_dawn"
   },
   {
     "id": "scene_time_daytime",
@@ -27252,7 +27284,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "migrated",
       "scene"
@@ -27273,7 +27305,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_nature_dusk"
   },
   {
     "id": "scene_time_early_morning",
@@ -27611,7 +27644,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "fog",
+    "relation_role": "variant"
   },
   {
     "id": "scene_relationship_friends",
@@ -27747,7 +27782,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "golden hour",
+    "relation_role": "variant"
   },
   {
     "id": "scene_interaction_group_hug",
@@ -28121,7 +28158,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "lightning",
+    "relation_role": "variant"
   },
   {
     "id": "scene_relationship_lovers",
@@ -28302,7 +28341,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "migrated",
       "scene"
@@ -28323,7 +28362,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_nature_midnight"
   },
   {
     "id": "scene_weather_mist",
@@ -28357,7 +28397,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "mist",
+    "relation_role": "variant"
   },
   {
     "id": "scene_weather_moon",
@@ -28404,7 +28446,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "migrated",
       "scene"
@@ -28425,7 +28467,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_nature_morning"
   },
   {
     "id": "scene_time_night",
@@ -28438,7 +28481,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "migrated",
       "scene"
@@ -28459,7 +28502,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_nature_night"
   },
   {
     "id": "scene_weather_night_sky",
@@ -28506,7 +28550,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "migrated",
       "scene"
@@ -28527,7 +28571,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_nature_noon"
   },
   {
     "id": "scene_relationship_parent_and_child",
@@ -28810,7 +28855,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "migrated",
       "scene"
@@ -28830,7 +28875,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_nature_rain"
   },
   {
     "id": "scene_weather_rainbow",
@@ -28864,7 +28910,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "rainbow",
+    "relation_role": "canonical"
   },
   {
     "id": "scene_weather_raindrops",
@@ -29406,7 +29454,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "snow",
+    "relation_role": "variant"
   },
   {
     "id": "scene_weather_snow_globe_effect",
@@ -29880,7 +29930,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "thunderstorm",
+    "relation_role": "variant"
   },
   {
     "id": "scene_interaction_touching_face",
@@ -29982,7 +30034,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "twilight",
+    "relation_role": "variant"
   },
   {
     "id": "scene_relationship_twin_siblings",
@@ -30082,7 +30136,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "umbrella",
+    "relation_role": "variant"
   },
   {
     "id": "scene_relationship_unrequited_love",
@@ -30766,7 +30822,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "castle",
+    "relation_role": "canonical"
   },
   {
     "id": "scene_nature_dense_forest",
@@ -31324,7 +31382,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "greenhouse",
+    "relation_role": "canonical"
   },
   {
     "id": "scene_nature_greenhouse_interior",
@@ -31398,7 +31458,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "library",
+    "relation_role": "canonical"
   },
   {
     "id": "scene_nature_old_library",
@@ -31911,7 +31973,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "cobblestone",
+    "relation_role": "variant"
   },
   {
     "id": "scene_nature_road",
@@ -31947,7 +32011,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "road",
+    "relation_role": "variant"
   },
   {
     "id": "scene_nature_stone_wall",
@@ -32056,7 +32122,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "fence",
+    "relation_role": "variant"
   },
   {
     "id": "scene_nature_ferris_wheel",
@@ -32682,7 +32750,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "misty",
+    "relation_role": "variant"
   },
   {
     "id": "scene_weather_foggy",

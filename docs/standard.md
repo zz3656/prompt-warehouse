@@ -764,6 +764,8 @@ var QUALITY = {
 | 18 | 构图（高级） | `framing` | `framing.json` | 0.70 | approved |
 | 19 | 时间效果 | `temporal` | `temporal.json` | 0.65 | approved |
 | 20 | 转场效果 | `transitions` | `transitions.json` | 0.65 | approved |
+| 21 | 镜头语言 | `shot-language` | `shot-language.json` | 0.65 | approved |
+| 22 | 氛围效果 | `atmosphere` | `atmosphere.json` | 0.65 | approved |
 
 ## 附录 B：评分解读
 
@@ -774,6 +776,63 @@ var QUALITY = {
 | 0.50 - 0.69 | 情境有用，依赖模型 |
 | 0.30 - 0.49 | 实验性，小众，低置信度 |
 | 0.00 - 0.29 | 未验证，需要测试 |
+
+## 关系组（relation_group）
+
+跨分类重复的 term 通过 `relation_group` 关联，`relation_role` 区分主次：
+
+- `relation_role: "canonical"` —— 主条目，组合器默认保留
+- `relation_role: "variant"` —— 变体，组合器默认过滤
+- `alias_of` —— 指向 canonical 的 id，同义条目用此字段
+
+### 下游用法
+
+```python
+from tools.pws_canonical import is_canonical
+kws = [k for k in all_keywords if is_canonical(k)]
+```
+
+### 数据结构
+
+| 字段 | 类型 | 说明 |
+|------|------|------|
+| `relation_group` | string | 跨分类重复的分组标识（同 term 共享此 ID） |
+| `relation_role` | string (enum) | `"canonical"` 或 `"variant"` |
+| `alias_of` | string (pattern: `^[a-z0-9_]+$`) | 指向 canonical 的 id（同义重复时标记） |
+
+### 统计查询
+
+```bash
+# 组合器：只保留 canonical
+python3 tools/pws-canonical.py --limit 20
+
+# 按模型过滤（compatibility）
+python3 tools/pws-keywords.py --model sdxl --category composition
+
+# API 统计（含 relation + compatibility）
+curl https://zz3656.github.io/prompt-warehouse/api/stats.json | jq .relation
+```
+
+**API 响应示例（`/api/stats.json`）：**
+
+```json
+{
+  "relation": {
+    "canonical": 139,
+    "variant": 175,
+    "alias_of": 118,
+    "relation_group": 139
+  },
+  "by_compatibility": {
+    "sdxl": 6025,
+    "midjourney": 6025,
+    "flux": 1849,
+    "kling": 12,
+    "runway": 12,
+    "minimax_h3": 12
+  }
+}
+```
 
 ## 附录 C：未来扩展
 
@@ -787,3 +846,49 @@ var QUALITY = {
 ---
 
 *← [English](standard_en.md)*
+
+
+
+
+## CLI 工具
+
+所有查询工具统一在 `tools/pws-query.py`（合并了 pws-keywords 和 pws-canonical）：
+
+```bash
+# 按模型过滤（含 canonical 去重）
+python3 tools/pws-query.py --model sdxl --category composition --canonical-only
+
+# 按分类+子分类过滤
+python3 tools/pws-query.py --category quality --subcategory render-quality
+
+# 输出到文件
+python3 tools/pws-query.py --model kling --output kling_results.json
+
+# 旧 CLI 仍可用（向后兼容）
+python3 tools/pws-keywords.py --model sdxl --category composition
+python3 tools/pws-canonical.py --limit 20
+```
+
+| 工具 | 说明 |
+|------|------|
+| `pws-query.py` | 统一查询（按模型 / 分类 / canonical 过滤） |
+| `pws-keywords.py` | 按模型过滤（兼容旧版） |
+| `pws-canonical.py` | canonical 去重（组合器使用） |
+| `pws-bundles.py` | 配方包管理（list / show / resolve / info / validate） |
+| `generate-api.py` | 生成 /api/stats.json 等 API 文件 |
+
+## compatibility 语义
+
+取值：sdxl / midjourney / flux / kling / runway / minimax_h3
+
+- 缺失或空数组 = 通用，任何模型都包含
+- ["sdxl"] = 仅限 sdxl，其他模型排除
+- ["kling","runway"] = 视频专用，图像模型排除
+
+注意：sdxl=6025、total=6037，差 12 条是视频专用词（kling/runway/minimax_h3 各 12 条），属预期。
+
+下游过滤（Python）：
+
+    def supports(kw, model):
+        compat = kw.get("compatibility") or []
+        return not compat or model in compat

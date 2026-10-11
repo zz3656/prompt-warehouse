@@ -125,7 +125,7 @@ def build_index(entries):
     return idx
 
 
-def find_translation(term: str, index: dict) -> str | None:
+def find_translation(term: str, index: dict) -> "str |" None:
     """Find Chinese translation for an English term.
     Priority: pre_translations > index > word_compose > similar_match > None
     """

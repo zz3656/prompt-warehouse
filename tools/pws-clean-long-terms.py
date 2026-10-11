@@ -146,7 +146,7 @@ def scan_keywords(max_len: int = 40, file_path: Optional[str] = None,
     return issues
 
 
-def report_issues(issues: list[LongTermIssue]):
+def report_issues(issues: "list[LongTermIssue]"):
     """Print a formatted report of all issues."""
     if not issues:
         print("✅ No long/corrupted terms found.")
@@ -184,7 +184,7 @@ def report_issues(issues: list[LongTermIssue]):
     print(f"     python3 tools/pws-clean-short-terms.py --apply")
 
 
-def apply_fixes(issues: list[LongTermIssue], fix_crudely: bool = False) -> int:
+def apply_fixes(issues: "list[LongTermIssue]", fix_crudely: bool = False) -> int:
     """Apply fixes to keyword files. Returns number of fixes applied."""
     # Group by file
     by_file = {}
@@ -235,7 +235,7 @@ def apply_fixes(issues: list[LongTermIssue], fix_crudely: bool = False) -> int:
     return fixes_applied
 
 
-def save_report(issues: list[LongTermIssue], output_path: str):
+def save_report(issues: "list[LongTermIssue]", output_path: str):
     """Save issues as JSON report."""
     report = {
         "version": "1.0",

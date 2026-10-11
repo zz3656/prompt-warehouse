@@ -31,7 +31,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "masterpiece",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_basic_best_quality",
@@ -97,7 +99,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "high quality",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_basic_high_resolution",
@@ -163,7 +167,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "detailed",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_basic_highly_detailed",
@@ -459,7 +465,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "trending on artstation",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_advanced_finely_detailed",
@@ -692,7 +700,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "vivid colors",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_animespecific_colorful",
@@ -725,7 +735,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "colorful",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_animespecific_beautiful_lighting",
@@ -758,7 +770,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "beautiful lighting",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_animespecific_official_art",
@@ -824,7 +838,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "key visual",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_animespecific_anime_screencap",
@@ -857,7 +873,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "anime screencap",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_animespecific_anime_still",
@@ -890,7 +908,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "anime still",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_animespecific_clean_lineart",
@@ -1132,7 +1152,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "photograph",
+    "relation_role": "variant"
   },
   {
     "id": "quality_basic_super_details",
@@ -1204,7 +1226,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "soft lighting",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_basic_shallow_depth_of_field",
@@ -1240,7 +1264,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "shallow depth of field",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_basic_photographic",
@@ -1312,7 +1338,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "film grain",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_basic_hdr",
@@ -1348,7 +1376,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "hdr",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_advanced_concept_art",
@@ -1384,7 +1414,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "concept art",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_advanced_digital_art",
@@ -1420,7 +1452,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "digital art",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_advanced_illustration",
@@ -1456,7 +1490,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "illustration",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_advanced_finely_painted",
@@ -2246,7 +2282,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "1girl",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_anime_1boy",
@@ -2282,7 +2320,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "1boy",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_technical_ray_tracing",
@@ -2318,7 +2358,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "ray tracing",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_technical_global_illumination",
@@ -2354,7 +2396,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "global illumination",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_technical_ambient_occlusion",
@@ -2389,7 +2433,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "ambient occlusion",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_technical_depth_of_field",
@@ -2425,7 +2471,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "depth of field",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_technical_chromatic_aberration",
@@ -2461,7 +2509,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "chromatic aberration",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_technical_motion_blur",
@@ -2497,7 +2547,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "motion blur",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_technical_film_look",
@@ -2999,7 +3051,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "intricate",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_composition_symmetrical_composition",
@@ -3035,7 +3089,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "symmetrical composition",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_composition_balanced_composition",
@@ -3107,7 +3163,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "dramatic angle",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_composition_dynamic_angle",
@@ -3143,7 +3201,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "dynamic angle",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_composition_rule_of_thirds",
@@ -3179,7 +3239,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "rule of thirds",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_composition_full_shot",
@@ -3215,7 +3277,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "full shot",
+    "relation_role": "variant"
   },
   {
     "id": "quality_composition_upper_body",
@@ -3321,7 +3385,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "cowboy shot",
+    "relation_role": "variant"
   },
   {
     "id": "quality_composition_visual_story",
@@ -3429,7 +3495,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "volumetric fog",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_atmosphere_atmospheric_fog",
@@ -3501,7 +3569,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "smoke",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_atmosphere_misty",
@@ -3537,7 +3607,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "misty",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_atmosphere_ethereal",
@@ -3573,7 +3645,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "ethereal",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_atmosphere_eerie",
@@ -3645,7 +3719,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "gothic",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_atmosphere_romantic_atmosphere",
@@ -3969,7 +4045,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "vibrant colors",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_color_pastel_colors",
@@ -4077,7 +4155,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "monochrome",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_color_color_splash",
@@ -4293,7 +4373,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "perfect anatomy",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_texture_perfect_hands",
@@ -4365,7 +4447,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "detailed hands",
+    "relation_role": "canonical"
   },
   {
     "id": "quality_texture_detailed_feet",
@@ -4968,7 +5052,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "global illumination",
+    "relation_role": "variant"
   },
   {
     "id": "render_quality_technical_lumen_reflections",
@@ -5102,7 +5188,7 @@
     ],
     "score": 0.85,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "nodaro-prompts"
     ],
@@ -5119,7 +5205,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "quality_advanced_ultra_detailed"
   },
   {
     "id": "render_quality_stamps_raw_photo",

@@ -143,7 +143,7 @@ def scan_file(file_path: str) -> list[ArtifactIssue]:
     return issues
 
 
-def apply_fixes(issues: list[ArtifactIssue]) -> int:
+def apply_fixes(issues: "list[ArtifactIssue]") -> int:
     """Apply fixes to source files."""
     fixes = 0
     by_file = {}
@@ -191,7 +191,7 @@ def apply_fixes(issues: list[ArtifactIssue]) -> int:
     return fixes
 
 
-def report(issues: list[ArtifactIssue]):
+def report(issues: "list[ArtifactIssue]"):
     """Print report of detected artifacts."""
     if not issues:
         print("✅ No MJ scraping artifacts found.")

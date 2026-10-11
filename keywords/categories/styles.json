@@ -130,7 +130,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "anime screencap",
+    "relation_role": "variant"
   },
   {
     "id": "styles_animemanga_anime_still",
@@ -163,7 +165,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "anime still",
+    "relation_role": "variant"
   },
   {
     "id": "styles_animemanga_anime_style",
@@ -228,7 +232,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "cel shading",
+    "relation_role": "variant"
   },
   {
     "id": "styles_animemanga_classic_anime_style",
@@ -760,7 +766,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "chiaroscuro",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_mediums_concept_art",
@@ -796,7 +804,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "concept art",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_digital_digital_art",
@@ -832,7 +842,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "digital art",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_mediums_illustration",
@@ -868,7 +880,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "illustration",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_mediums_line_art",
@@ -940,7 +954,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "oil painting",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_digital_photoillustration",
@@ -1296,7 +1312,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "black and white",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_colors__bright_colors",
@@ -1766,7 +1784,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "colorful",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_colors__colorized",
@@ -2810,7 +2830,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "hdr",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_colors__hsl",
@@ -2992,7 +3014,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "high contrast",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_colors__high_saturation",
@@ -3563,7 +3587,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "monochrome",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_colors__multicolored",
@@ -4101,7 +4127,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "rainbow",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_colors__saturated",
@@ -4927,7 +4955,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "vibrant colors",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_colors__vivid",
@@ -6896,7 +6926,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "3d",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_digital_3d_model",
@@ -10927,7 +10959,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "aurora",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_themes_aurora_borealis",
@@ -10963,7 +10997,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "aurora borealis",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_themes_auroracore",
@@ -11035,7 +11071,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "aurorae",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_themes_autonomous",
@@ -14180,7 +14218,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "castle",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_digital_castlevania_style",
@@ -15948,7 +15988,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -15970,7 +16010,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_black_black"
   },
   {
     "id": "mj_mj_v5_colors_colors_black_light_black",
@@ -16018,7 +16059,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -16040,7 +16081,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_black_light_black"
   },
   {
     "id": "mj_mj_v5_colors_colors_blue_aqua_aqua",
@@ -16088,7 +16130,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -16110,7 +16152,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_blue_aqua_aqua"
   },
   {
     "id": "mj_mj_v5_colors_colors_blue_azure_azure",
@@ -16158,7 +16201,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -16180,7 +16223,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_blue_azure_azure"
   },
   {
     "id": "mj_mj_v5_colors_colors_blue_blue",
@@ -16228,7 +16272,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -16250,7 +16294,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_blue_blue"
   },
   {
     "id": "mj_mj_v5_colors_colors_blue_cyan_cyan",
@@ -16298,7 +16343,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -16320,7 +16365,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_blue_cyan_cyan"
   },
   {
     "id": "mj_mj_v5_colors_colors_blue_cyan_dark_cyan",
@@ -16368,7 +16414,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -16390,7 +16436,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_blue_cyan_dark_cyan"
   },
   {
     "id": "mj_mj_v5_colors_colors_blue_cyan_light_cyan",
@@ -16438,7 +16485,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -16460,7 +16507,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_blue_cyan_light_cyan"
   },
   {
     "id": "mj_mj_v5_colors_colors_blue_cyan_vivid_cyan",
@@ -16508,7 +16556,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -16530,7 +16578,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_blue_cyan_vivid_cyan"
   },
   {
     "id": "mj_mj_v5_colors_colors_blue_dark_blue",
@@ -16578,7 +16627,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -16600,7 +16649,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_blue_dark_blue"
   },
   {
     "id": "mj_mj_v5_colors_colors_blue_indigo_indigo",
@@ -16648,7 +16698,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -16670,7 +16720,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_blue_indigo_indigo"
   },
   {
     "id": "mj_mj_v5_colors_colors_blue_light_blue",
@@ -16718,7 +16769,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -16740,7 +16791,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_blue_light_blue"
   },
   {
     "id": "mj_mj_v5_colors_colors_blue_vivid_blue",
@@ -16788,7 +16840,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -16810,7 +16862,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_blue_vivid_blue"
   },
   {
     "id": "mj_mj_v5_colors_colors_brown_beige_beige",
@@ -16858,7 +16911,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -16880,7 +16933,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_brown_beige_beige"
   },
   {
     "id": "mj_mj_v5_colors_colors_brown_brown",
@@ -16928,7 +16982,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -16950,7 +17004,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_brown_brown"
   },
   {
     "id": "mj_mj_v5_colors_colors_brown_dark_brown",
@@ -16998,7 +17053,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -17020,7 +17075,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_brown_dark_brown"
   },
   {
     "id": "mj_mj_v5_colors_colors_brown_light_brown",
@@ -17068,7 +17124,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -17090,7 +17146,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_brown_light_brown"
   },
   {
     "id": "mj_mj_v5_colors_colors_brown_tan_tan",
@@ -17138,7 +17195,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -17160,7 +17217,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_brown_tan_tan"
   },
   {
     "id": "mj_mj_v5_colors_colors_brown_vivid_brown",
@@ -17208,7 +17266,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -17230,7 +17288,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_brown_vivid_brown"
   },
   {
     "id": "mj_mj_v5_colors_colors_gray_dark_gray",
@@ -17278,7 +17337,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -17300,7 +17359,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_gray_dark_gray"
   },
   {
     "id": "mj_mj_v5_colors_colors_gray_gray",
@@ -17348,7 +17408,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -17370,7 +17430,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_gray_gray"
   },
   {
     "id": "mj_mj_v5_colors_colors_gray_light_gray",
@@ -17418,7 +17479,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -17440,7 +17501,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_gray_light_gray"
   },
   {
     "id": "mj_mj_v5_colors_colors_green_chartreuse",
@@ -17488,7 +17550,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -17510,7 +17572,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_green_chartreuse"
   },
   {
     "id": "mj_mj_v5_colors_colors_green_dark_green",
@@ -17558,7 +17621,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -17580,7 +17643,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_green_dark_green"
   },
   {
     "id": "mj_mj_v5_colors_colors_green_green",
@@ -17628,7 +17692,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -17650,7 +17714,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_green_green"
   },
   {
     "id": "mj_mj_v5_colors_colors_green_light_green",
@@ -17698,7 +17763,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -17720,7 +17785,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_green_light_green"
   },
   {
     "id": "mj_mj_v5_colors_colors_green_lime_dark_lime",
@@ -17768,7 +17834,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -17790,7 +17856,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_green_lime_dark_lime"
   },
   {
     "id": "mj_mj_v5_colors_colors_green_lime_light_lime",
@@ -17838,7 +17905,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -17860,7 +17927,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_green_lime_light_lime"
   },
   {
     "id": "mj_mj_v5_colors_colors_green_lime_lime",
@@ -17908,7 +17976,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -17930,7 +17998,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_green_lime_lime"
   },
   {
     "id": "mj_mj_v5_colors_colors_green_lime_vivid_lime",
@@ -17978,7 +18047,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -18000,7 +18069,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_green_lime_vivid_lime"
   },
   {
     "id": "mj_mj_v5_colors_colors_green_olive_olive_green",
@@ -18048,7 +18118,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -18070,7 +18140,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_green_olive_olive_green"
   },
   {
     "id": "mj_mj_v5_colors_colors_green_vivid_green",
@@ -18118,7 +18189,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -18140,7 +18211,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_green_vivid_green"
   },
   {
     "id": "mj_mj_v5_colors_colors_magenta_dark_magenta",
@@ -18188,7 +18260,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -18210,7 +18282,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_magenta_dark_magenta"
   },
   {
     "id": "mj_mj_v5_colors_colors_magenta_light_magenta",
@@ -18258,7 +18331,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -18280,7 +18353,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_magenta_light_magenta"
   },
   {
     "id": "mj_mj_v5_colors_colors_magenta_magenta",
@@ -18328,7 +18402,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -18350,7 +18424,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_magenta_magenta"
   },
   {
     "id": "mj_mj_v5_colors_colors_magenta_vivid_magenta",
@@ -18398,7 +18473,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -18420,7 +18495,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_magenta_vivid_magenta"
   },
   {
     "id": "mj_mj_v5_colors_colors_orange_dark_orange",
@@ -18468,7 +18544,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -18490,7 +18566,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_orange_dark_orange"
   },
   {
     "id": "mj_mj_v5_colors_colors_orange_light_orange",
@@ -18538,7 +18615,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -18560,7 +18637,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_orange_light_orange"
   },
   {
     "id": "mj_mj_v5_colors_colors_orange_orange",
@@ -18608,7 +18686,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -18630,7 +18708,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_orange_orange"
   },
   {
     "id": "mj_mj_v5_colors_colors_orange_vivid_orange",
@@ -18678,7 +18757,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -18700,7 +18779,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_orange_vivid_orange"
   },
   {
     "id": "mj_mj_v5_colors_colors_pink_blush_blush",
@@ -18748,7 +18828,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -18770,7 +18850,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_pink_blush_blush"
   },
   {
     "id": "mj_mj_v5_colors_colors_pink_dark_pink",
@@ -18818,7 +18899,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -18840,7 +18921,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_pink_dark_pink"
   },
   {
     "id": "mj_mj_v5_colors_colors_pink_fuchsia_fuchsia",
@@ -18888,7 +18970,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -18910,7 +18992,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_pink_fuchsia_fuchsia"
   },
   {
     "id": "mj_mj_v5_colors_colors_pink_light_pink",
@@ -18958,7 +19041,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -18980,7 +19063,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_pink_light_pink"
   },
   {
     "id": "mj_mj_v5_colors_colors_pink_pink",
@@ -19028,7 +19112,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -19050,7 +19134,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_pink_pink"
   },
   {
     "id": "mj_mj_v5_colors_colors_pink_vivid_pink",
@@ -19098,7 +19183,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -19120,7 +19205,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_pink_vivid_pink"
   },
   {
     "id": "mj_mj_v5_colors_colors_purple_dark_purple",
@@ -19168,7 +19254,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -19190,7 +19276,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_purple_dark_purple"
   },
   {
     "id": "mj_mj_v5_colors_colors_purple_light_purple",
@@ -19238,7 +19325,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -19260,7 +19347,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_purple_light_purple"
   },
   {
     "id": "mj_mj_v5_colors_colors_purple_purple",
@@ -19308,7 +19396,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -19330,7 +19418,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_purple_purple"
   },
   {
     "id": "mj_mj_v5_colors_colors_purple_vivid_purple",
@@ -19378,7 +19467,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -19400,7 +19489,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_purple_vivid_purple"
   },
   {
     "id": "mj_mj_v5_colors_colors_red_dark_red",
@@ -19448,7 +19538,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -19470,7 +19560,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_red_dark_red"
   },
   {
     "id": "mj_mj_v5_colors_colors_red_light_red",
@@ -19518,7 +19609,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -19540,7 +19631,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_red_light_red"
   },
   {
     "id": "mj_mj_v5_colors_colors_red_maroon_dark_maroon",
@@ -19588,7 +19680,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -19610,7 +19702,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_red_maroon_dark_maroon"
   },
   {
     "id": "mj_mj_v5_colors_colors_red_maroon_light_maroon",
@@ -19658,7 +19751,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -19680,7 +19773,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_red_maroon_light_maroon"
   },
   {
     "id": "mj_mj_v5_colors_colors_red_maroon_maroon",
@@ -19728,7 +19822,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -19750,7 +19844,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_red_maroon_maroon"
   },
   {
     "id": "mj_mj_v5_colors_colors_red_maroon_vivid_maroon",
@@ -19798,7 +19893,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -19820,7 +19915,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_red_maroon_vivid_maroon"
   },
   {
     "id": "mj_mj_v5_colors_colors_red_red",
@@ -19868,7 +19964,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -19890,7 +19986,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_red_red"
   },
   {
     "id": "mj_mj_v5_colors_colors_red_scarlet",
@@ -19938,7 +20035,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -19960,7 +20057,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_red_scarlet"
   },
   {
     "id": "mj_mj_v5_colors_colors_red_vivid_red",
@@ -20008,7 +20106,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -20030,7 +20128,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_red_vivid_red"
   },
   {
     "id": "mj_mj_v5_colors_colors_teal_teal",
@@ -20078,7 +20177,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -20100,7 +20199,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_teal_teal"
   },
   {
     "id": "mj_mj_v5_colors_colors_teal_turquoise_turquoise",
@@ -20148,7 +20248,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -20170,7 +20270,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_teal_turquoise_turquoise"
   },
   {
     "id": "mj_mj_v5_colors_colors_violet_violet",
@@ -20218,7 +20319,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -20240,7 +20341,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_violet_violet"
   },
   {
     "id": "mj_mj_v5_colors_colors_white_dark_white",
@@ -20288,7 +20390,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -20310,7 +20412,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_white_dark_white"
   },
   {
     "id": "mj_mj_v5_colors_colors_white_white",
@@ -20358,7 +20461,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -20380,7 +20483,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_white_white"
   },
   {
     "id": "mj_mj_v5_colors_colors_yellow_dark_yellow",
@@ -20428,7 +20532,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -20450,7 +20554,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_yellow_dark_yellow"
   },
   {
     "id": "mj_mj_v5_colors_colors_yellow_light_yellow",
@@ -20498,7 +20603,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -20520,7 +20625,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_yellow_light_yellow"
   },
   {
     "id": "mj_mj_v5_colors_colors_yellow_vivid_yellow",
@@ -20568,7 +20674,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -20590,7 +20696,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_yellow_vivid_yellow"
   },
   {
     "id": "mj_mj_v5_colors_colors_yellow_yellow",
@@ -20638,7 +20745,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -20660,7 +20767,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_colors_colors_yellow_yellow"
   },
   {
     "id": "mj_mj_v5_design_combination",
@@ -23377,7 +23485,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "detailed",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_design_details",
@@ -23949,7 +24059,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "dithering",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_design_divine",
@@ -25883,7 +25995,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "ethereal",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_themes_ethereal_fantasy",
@@ -27425,7 +27539,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "flat shading",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_digital_flaticon",
@@ -28244,7 +28360,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "frame",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_mediums_framed",
@@ -30328,7 +30446,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "gothic",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_mediums_gouache_paint",
@@ -31253,7 +31373,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "greenhouse",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_design_grid",
@@ -31645,7 +31767,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "halftone",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_design_hallucination",
@@ -32256,7 +32380,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "high quality",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_themes_hip_hop",
@@ -33132,7 +33258,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -33155,7 +33281,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_design_ideogram"
   },
   {
     "id": "mj_mj_v5_digital_iigs_graphics",
@@ -34589,7 +34716,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "intricate",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_design_intricate_maximalism",
@@ -35447,7 +35576,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "key visual",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_mediums_kids_book",
@@ -37044,7 +37175,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "library",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_mediums_light_art",
@@ -37583,7 +37716,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "logo",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_design_lossy",
@@ -37799,7 +37934,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "low quality",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_design_lowbrow",
@@ -38658,7 +38795,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "magic",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_themes_magic_realism",
@@ -39376,7 +39515,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "masterpiece",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_themes_materialisimo",
@@ -41605,7 +41746,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -41628,7 +41769,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_design_multiplex"
   },
   {
     "id": "mj_mj_v5_dimension_multiverse",
@@ -42447,7 +42589,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "negative space",
+    "relation_role": "canonical"
   },
   {
     "id": "mj_mj_v5_design_neo",
@@ -46425,7 +46569,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "photorealistic",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_digital_photoshop",
@@ -50004,7 +50150,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "realistic",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_digital_recaptcha",
@@ -55830,7 +55978,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "tattoo",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_design_teleidoscope",
@@ -56293,7 +56443,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "text",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_digital_texture",
@@ -57079,7 +57231,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "trending on artstation",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_design_trippy",
@@ -61113,7 +61267,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "migrated",
       "styles"
@@ -61133,7 +61287,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_mediums_acrylic_painting"
   },
   {
     "id": "styles_realism_analog_photo",
@@ -61199,7 +61354,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "black and white",
+    "relation_role": "variant"
   },
   {
     "id": "styles_artiststyle_by_clamp",
@@ -62216,7 +62373,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "migrated",
       "styles"
@@ -62236,7 +62393,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_digital_character_design"
   },
   {
     "id": "styles_artstyles_character_design_sheet",
@@ -62368,7 +62526,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "cinematic",
+    "relation_role": "canonical"
   },
   {
     "id": "styles_realism_cinematic_still",
@@ -62434,7 +62594,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "concept art",
+    "relation_role": "variant"
   },
   {
     "id": "styles_artstyles_digital_art",
@@ -62467,7 +62629,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "digital art",
+    "relation_role": "variant"
   },
   {
     "id": "styles_artstyles_digital_illustration",
@@ -62598,7 +62762,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "film grain",
+    "relation_role": "variant"
   },
   {
     "id": "styles_realism_film_photo",
@@ -62730,7 +62896,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "flat shading",
+    "relation_role": "variant"
   },
   {
     "id": "styles_specialty_gothic_art",
@@ -62776,7 +62944,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "migrated",
       "styles"
@@ -62796,7 +62964,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_themes_hyperrealistic"
   },
   {
     "id": "styles_artstyles_illustrated",
@@ -62862,7 +63031,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "illustration",
+    "relation_role": "variant"
   },
   {
     "id": "styles_artstyles_in_the_style_of",
@@ -62974,7 +63145,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "migrated",
       "styles"
@@ -62994,7 +63165,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_mediums_line_art"
   },
   {
     "id": "styles_specialty_monochrome",
@@ -63027,7 +63199,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "monochrome",
+    "relation_role": "variant"
   },
   {
     "id": "styles_specialty_oil_painting",
@@ -63060,7 +63234,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "oil painting",
+    "relation_role": "variant"
   },
   {
     "id": "styles_artstyles_original_character",
@@ -63225,7 +63401,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "photograph",
+    "relation_role": "variant"
   },
   {
     "id": "styles_realism_photorealistic",
@@ -63257,7 +63435,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "photorealistic",
+    "relation_role": "variant"
   },
   {
     "id": "styles_specialty_pixel_art",
@@ -63270,7 +63450,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "migrated",
       "styles"
@@ -63290,7 +63470,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_digital_pixel_art"
   },
   {
     "id": "styles_specialty_pop_art",
@@ -63303,7 +63484,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "migrated",
       "styles"
@@ -63323,7 +63504,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_design_pop_art"
   },
   {
     "id": "styles_artstyles_portrait",
@@ -63356,7 +63538,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "portrait",
+    "relation_role": "canonical"
   },
   {
     "id": "styles_realism_realistic",
@@ -63388,7 +63572,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "realistic",
+    "relation_role": "variant"
   },
   {
     "id": "styles_realism_realistic_lighting",
@@ -63532,7 +63718,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "migrated",
       "styles"
@@ -63552,7 +63738,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_mediums_watercolor"
   },
   {
     "id": "styles_specialty_watercolor_painting",
@@ -63565,7 +63752,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "migrated",
       "styles"
@@ -63585,7 +63772,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_mediums_watercolor_painting"
   },
   {
     "id": "styles_artstyles_ink_wash_painting",
@@ -63871,7 +64059,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "stained glass",
+    "relation_role": "variant"
   },
   {
     "id": "styles_artstyles_mosaic_art",
@@ -64513,7 +64703,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "vibrant colors",
+    "relation_role": "variant"
   },
   {
     "id": "styles_animemanga_punchy_colors",
@@ -64873,7 +65065,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "double exposure",
+    "relation_role": "canonical"
   },
   {
     "id": "styles_artstyles_sfotorrealismo",
@@ -65053,7 +65247,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "vivid colors",
+    "relation_role": "variant"
   },
   {
     "id": "styles_art_3d_rendered_style",
@@ -65097,7 +65293,7 @@
     ],
     "score": 0.85,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "nodaro-prompts"
     ],
@@ -65115,7 +65311,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "styles_animemanga_anime_style"
   },
   {
     "id": "styles_art_children_s_book_illustration",
@@ -65248,7 +65445,7 @@
     ],
     "score": 0.85,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "nodaro-prompts"
     ],
@@ -65267,7 +65464,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "styles_artstyles_fantasy_art"
   },
   {
     "id": "styles_art_minimalist_style",
@@ -66444,7 +66642,7 @@
     ],
     "score": 0.85,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "nodaro-prompts"
     ],
@@ -66462,7 +66660,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_mediums_acrylic_painting"
   },
   {
     "id": "styles_art_rendered_as_a_mixed_media_artwork_combin",

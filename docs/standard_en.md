@@ -70,7 +70,7 @@ prompt-warehouse/
 │   ├── llm_system_prompts.json
 │   ├── new_keyword_template.json
 │   └── text_negative_patterns.json
-├── bundles/                    # Prompt bundles (10 bundles)
+├── bundles/                    # Prompt bundles (12 bundles)
 │   ├── character.animesque_portrait.json
 │   ├── character.cosplay_portrait.json
 │   ├── environment.architectural_interior.json
@@ -610,7 +610,7 @@ var QUALITY = {
 
 ### Phase 4: Sharing
 - [x] Remote repository sync
-- [x] Bundle system (10 bundles published)
+- [x] Bundle system (12 bundles published)
 - [x] Team collaboration features
 - [ ] Prompt rating and feedback
 - [ ] Template marketplace
@@ -643,6 +643,8 @@ var QUALITY = {
 | 18 | Framing (Advanced) | `framing` | `framing.json` | 0.70 | approved |
 | 19 | Temporal | `temporal` | `temporal.json` | 0.65 | approved |
 | 20 | Transitions | `transitions` | `transitions.json` | 0.65 | approved |
+| 21 | Shot Language | `shot-language` | `shot-language.json` | 0.65 | approved |
+| 22 | Atmosphere Effects | `atmosphere` | `atmosphere.json` | 0.65 | approved |
 
 ## Appendix B: Score Interpretation
 
@@ -666,3 +668,55 @@ var QUALITY = {
 ---
 
 *← [简体中文](standard.md)*
+
+
+
+## Relation Groups (relation_group)
+
+Cross-category duplicate terms are linked via `relation_group`, with `relation_role` distinguishing primary/variant:
+
+- `relation_role: "canonical"` — primary entry, kept by combiners by default
+- `relation_role: "variant"` — variant, filtered by combiners by default
+- `alias_of` — points to canonical keyword id (for synonymous duplicates)
+
+### Downstream Usage
+
+```python
+from tools.pws_canonical import is_canonical
+kws = [k for k in all_keywords if is_canonical(k)]
+```
+
+### Data Structure
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `relation_group` | string | Group identifier for cross-category duplicate terms |
+| `relation_role` | string (enum) | `"canonical"` or `"variant"` |
+| `alias_of` | string (pattern: `^[a-z0-9_]+$`) | ID pointing to canonical keyword |
+
+## CLI Tools
+
+All query tools are unified in `tools/pws-query.py` (merged from pws-keywords and pws-canonical):
+
+```bash
+# Filter by model (with canonical deduplication)
+python3 tools/pws-query.py --model sdxl --category composition --canonical-only
+
+# Filter by category + subcategory
+python3 tools/pws-query.py --category quality --subcategory render-quality
+
+# Output to file
+python3 tools/pws-query.py --model kling --output kling_results.json
+
+# Legacy CLI still available (backward compatible)
+python3 tools/pws-keywords.py --model sdxl --category composition
+python3 tools/pws-canonical.py --limit 20
+```
+
+| Tool | Description |
+|------|-------------|
+| `pws-query.py` | Unified query (by model / category / canonical) |
+| `pws-keywords.py` | Filter by model (legacy compat) |
+| `pws-canonical.py` | Canonical deduplication (for combiners) |
+| `pws-bundles.py` | Bundle management (list / show / resolve / info / validate) |
+| `generate-api.py` | Generate /api/stats.json and other API files |

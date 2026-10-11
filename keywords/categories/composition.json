@@ -69,7 +69,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "cinematic",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_camera_cinematic_haze",
@@ -141,7 +143,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "depth of field",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_camera_dramatic",
@@ -213,7 +217,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "golden hour",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_camera_10_megapixels",
@@ -581,7 +587,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "200mm lens",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_camera_200x_magnification",
@@ -728,7 +736,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "35mm lens",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_camera_360_angle",
@@ -875,7 +885,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "85mm lens",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_perspective_accelerated_perspective",
@@ -1567,7 +1579,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "blue hour",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_perspective_brenizer_method",
@@ -3423,7 +3437,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "dolly zoom",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_camera_double_exposure",
@@ -3459,7 +3475,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "double exposure",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_structure_double_helix",
@@ -3893,7 +3911,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "establishing shot",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_structure_euler_spiral",
@@ -4333,7 +4353,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "film grain",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_camera_film_negative",
@@ -4550,7 +4572,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "fisheye lens",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_camera_fisheye_lens_effect",
@@ -6000,7 +6024,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "lens flare",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_perspective_linear_perspective",
@@ -7340,7 +7366,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "photograph",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_camera_photographia",
@@ -7810,7 +7838,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "portrait",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_camera_portraiture",
@@ -8246,7 +8276,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "rule of thirds",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_camera_satellite_imagery",
@@ -11515,7 +11547,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "anamorphic lens",
+    "relation_role": "variant"
   },
   {
     "id": "composition_rules_asymmetrical_balance",
@@ -11697,7 +11731,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "migrated",
       "composition"
@@ -11718,7 +11752,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_camera_bokeh"
   },
   {
     "id": "composition_rules_centered_composition",
@@ -11820,7 +11855,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "depth of field",
+    "relation_role": "variant"
   },
   {
     "id": "composition_angles_dutch_angle",
@@ -11854,7 +11891,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "dutch angle",
+    "relation_role": "variant"
   },
   {
     "id": "composition_rules_dynamic_composition",
@@ -11956,7 +11995,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "fisheye lens",
+    "relation_role": "variant"
   },
   {
     "id": "composition_angles_fourth_view",
@@ -12160,7 +12201,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "looking down",
+    "relation_role": "variant"
   },
   {
     "id": "composition_angles_looking_up",
@@ -12194,7 +12237,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "looking up",
+    "relation_role": "variant"
   },
   {
     "id": "composition_angles_low_angle_view",
@@ -12262,7 +12307,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "macro shot",
+    "relation_role": "variant"
   },
   {
     "id": "composition_rules_negative_space",
@@ -12296,7 +12343,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "negative space",
+    "relation_role": "variant"
   },
   {
     "id": "composition_rules_rule_of_thirds",
@@ -12330,7 +12379,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "rule of thirds",
+    "relation_role": "variant"
   },
   {
     "id": "composition_lens_shot_on_135mm_lens",
@@ -12532,7 +12583,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "symmetrical composition",
+    "relation_role": "variant"
   },
   {
     "id": "composition_angles_three_quarter_view",
@@ -12958,7 +13011,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "macro lens",
+    "relation_role": "variant"
   },
   {
     "id": "composition_lens_probe_lens_shot",
@@ -13052,7 +13107,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "tilt-shift lens",
+    "relation_role": "variant"
   },
   {
     "id": "composition_lens_shallow_depth_of_field_2",
@@ -13084,7 +13141,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "shallow depth of field",
+    "relation_role": "variant"
   },
   {
     "id": "composition_lens_shot_on_a_vintage_canon_k35_cinema_prime",
@@ -15205,7 +15264,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "tracking shot",
+    "relation_role": "variant"
   },
   {
     "id": "composition_camera_motions_follow_shot_from_behind",
@@ -16200,7 +16261,7 @@
     ],
     "score": 0.85,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "nodaro-prompts"
     ],
@@ -16218,7 +16279,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_perspective_wide_shot"
   },
   {
     "id": "framing_shot_size_medium_wide_shot",
@@ -16280,7 +16342,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "medium shot",
+    "relation_role": "variant"
   },
   {
     "id": "framing_shot_size_medium_close_up",
@@ -16311,7 +16375,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "medium close-up",
+    "relation_role": "variant"
   },
   {
     "id": "framing_shot_size_close_up",
@@ -16342,7 +16408,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "close-up shot",
+    "relation_role": "variant"
   },
   {
     "id": "framing_shot_size_extreme_close_up",
@@ -16373,7 +16441,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "extreme close-up",
+    "relation_role": "variant"
   },
   {
     "id": "framing_shot_size_ecu_eye",
@@ -16622,7 +16692,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "macro shot",
+    "relation_role": "variant"
   },
   {
     "id": "framing_shot_size_full_shot",
@@ -16653,7 +16725,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "full shot",
+    "relation_role": "variant"
   },
   {
     "id": "framing_shot_size_cowboy_shot",
@@ -16683,7 +16757,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "cowboy shot",
+    "relation_role": "variant"
   },
   {
     "id": "framing_shot_size_head_to_hip",
@@ -16882,7 +16958,7 @@
     ],
     "score": 0.85,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "nodaro-prompts"
     ],
@@ -16900,7 +16976,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "alias_of": "composition_camera_motions_worm_s_eye_view"
   },
   {
     "id": "framing_angle_dutch_angle",
@@ -16944,7 +17021,7 @@
     ],
     "score": 0.85,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "nodaro-prompts"
     ],
@@ -16962,7 +17039,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "alias_of": "composition_camera_motions_bird_s_eye_view"
   },
   {
     "id": "framing_angle_slightly_downward",
@@ -17053,7 +17131,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "two-shot",
+    "relation_role": "variant"
   },
   {
     "id": "framing_coverage_three_shot",
@@ -17096,7 +17176,7 @@
     ],
     "score": 0.85,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "nodaro-prompts"
     ],
@@ -17115,7 +17195,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "alias_of": "composition_camera_motions_over_the_shoulder_shot"
   },
   {
     "id": "framing_coverage_reverse_shot",
@@ -17356,7 +17437,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "establishing shot",
+    "relation_role": "variant"
   },
   {
     "id": "framing_coverage_dirty_single",
@@ -17427,7 +17510,7 @@
     ],
     "score": 0.85,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "nodaro-prompts"
     ],
@@ -17445,7 +17528,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "alias_of": "composition_rules_centered_composition"
   },
   {
     "id": "framing_composition_headroom_tight",

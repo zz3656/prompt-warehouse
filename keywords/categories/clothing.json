@@ -194,7 +194,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "belt",
+    "relation_role": "variant"
   },
   {
     "id": "clothing_accessories_beret",
@@ -293,7 +295,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "boots",
+    "relation_role": "variant"
   },
   {
     "id": "clothing_accessories_bow",
@@ -358,7 +362,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "bracelet",
+    "relation_role": "canonical"
   },
   {
     "id": "clothing_accessories_cap",
@@ -523,7 +529,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "combat boots",
+    "relation_role": "variant"
   },
   {
     "id": "clothing_accessories_demon_wings",
@@ -820,7 +828,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "gloves",
+    "relation_role": "variant"
   },
   {
     "id": "clothing_accessories_hair_ornament",
@@ -1050,7 +1060,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "high heels",
+    "relation_role": "variant"
   },
   {
     "id": "clothing_accessories_jewelry",
@@ -1314,7 +1326,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "sandals",
+    "relation_role": "variant"
   },
   {
     "id": "clothing_accessories_scar",
@@ -1380,7 +1394,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "scarf",
+    "relation_role": "variant"
   },
   {
     "id": "clothing_accessories_sunglasses",
@@ -1413,7 +1429,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "sunglasses",
+    "relation_role": "canonical"
   },
   {
     "id": "clothing_accessories_tail",
@@ -1512,7 +1530,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "tattoo",
+    "relation_role": "canonical"
   },
   {
     "id": "clothing_accessories_thigh_high_socks",
@@ -1610,7 +1630,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "wearing glasses",
+    "relation_role": "canonical"
   },
   {
     "id": "clothing_accessories_wings",
@@ -2107,7 +2129,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "ambient occlusion",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_materials_amethyst",
@@ -4791,7 +4815,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "cobblestone",
+    "relation_role": "canonical"
   },
   {
     "id": "mj_mj_v5_materials_collagen",
@@ -5686,7 +5712,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "curly hair",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_materials_damascus_steel",
@@ -7046,7 +7074,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "fence",
+    "relation_role": "canonical"
   },
   {
     "id": "mj_mj_v5_materials_ferro_fluid",
@@ -7261,7 +7291,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "fire",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_materials_fireball",
@@ -7513,7 +7545,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "flowing hair",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_materials_flubber",
@@ -7729,7 +7763,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "fog",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_materials_foil",
@@ -8589,7 +8625,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "glowing",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_matprops_glowing_neon",
@@ -9374,7 +9412,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "ice",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_matprops_icy",
@@ -9781,7 +9821,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "midjourney-v5",
       "migrated",
@@ -9804,7 +9844,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "clothing_accessories_jewelry"
   },
   {
     "id": "mj_mj_v5_materials_jute_cloth",
@@ -10557,7 +10598,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "long hair",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_materials_low_vibrational_energy",
@@ -11921,7 +11964,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "mist",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_materials_moganite",
@@ -15082,7 +15127,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "road",
+    "relation_role": "canonical"
   },
   {
     "id": "mj_mj_v5_materials_rock",
@@ -15981,7 +16028,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "short hair",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_materials_sidewalk",
@@ -16233,7 +16282,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "smoke",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_materials_smoke_plume",
@@ -16339,7 +16390,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "snow",
+    "relation_role": "canonical"
   },
   {
     "id": "mj_mj_v5_materials_snowflake",
@@ -17128,7 +17181,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "stained glass",
+    "relation_role": "canonical"
   },
   {
     "id": "mj_mj_v5_materials_stained_glass_windows",
@@ -17449,7 +17504,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "straight hair",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_matprops_sublimation",
@@ -19384,7 +19441,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "water",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_materials_wavy_hair",
@@ -19420,7 +19479,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "wavy hair",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_materials_wax",
@@ -20122,7 +20183,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "cape",
+    "relation_role": "variant"
   },
   {
     "id": "clothing_outfits_casual_clothing",
@@ -20188,7 +20251,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "cheongsam",
+    "relation_role": "variant"
   },
   {
     "id": "clothing_outfits_cloak",
@@ -20352,7 +20417,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "hanbok",
+    "relation_role": "variant"
   },
   {
     "id": "clothing_outfits_hunter_outfit",
@@ -20418,7 +20485,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "kimono",
+    "relation_role": "variant"
   },
   {
     "id": "clothing_outfits_knight_armor",
@@ -20846,7 +20915,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "school uniform",
+    "relation_role": "variant"
   },
   {
     "id": "clothing_outfits_sports_uniform",
@@ -22323,7 +22394,7 @@
     ],
     "score": 0.85,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "nodaro-prompts"
     ],
@@ -22341,7 +22412,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "clothing_bottoms_wearing_jeans"
   },
   {
     "id": "clothing_wardrobe_bottom_wearing_tailored_trousers",
@@ -22414,7 +22486,7 @@
     ],
     "score": 0.85,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "nodaro-prompts"
     ],
@@ -22433,7 +22505,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "clothing_bottoms_wearing_shorts"
   },
   {
     "id": "clothing_wardrobe_bottom_wearing_leggings",
@@ -22445,7 +22518,7 @@
     ],
     "score": 0.85,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "nodaro-prompts"
     ],
@@ -22463,7 +22536,8 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "alias_of": "clothing_bottoms_wearing_leggings"
   },
   {
     "id": "clothing_wardrobe_bottom_wearing_cargo_pants",
@@ -23106,7 +23180,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "wearing glasses",
+    "relation_role": "variant"
   },
   {
     "id": "clothing_wardrobe_accessories_wearing_sunglasses",
@@ -23137,7 +23213,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "wearing sunglasses",
+    "relation_role": "canonical"
   },
   {
     "id": "clothing_wardrobe_accessories_wearing_a_scarf",
@@ -24082,7 +24160,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "glasses",
+    "relation_role": "canonical"
   },
   {
     "id": "clothing_accessories_rimless_glasses",
@@ -24261,7 +24341,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "umbrella",
+    "relation_role": "canonical"
   },
   {
     "id": "clothing_accessories_weapon",

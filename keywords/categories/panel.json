@@ -63,7 +63,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "close-up shot",
+    "relation_role": "variant"
   },
   {
     "id": "panel_panellayout_wide_establishing_shot",
@@ -128,7 +130,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "medium shot",
+    "relation_role": "variant"
   },
   {
     "id": "panel_panellayout_reaction_shot",
@@ -194,7 +198,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "two-shot",
+    "relation_role": "canonical"
   },
   {
     "id": "panel_panellayout_over_the_shoulder_shot",
@@ -227,7 +233,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "over the shoulder shot",
+    "relation_role": "variant"
   },
   {
     "id": "panel_panellayout_point_of_view_shot",
@@ -260,7 +268,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "point of view shot",
+    "relation_role": "variant"
   },
   {
     "id": "panel_panellayout_pov_shot",
@@ -327,7 +337,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "dutch angle",
+    "relation_role": "canonical"
   },
   {
     "id": "panel_panellayout_dynamic_angle",
@@ -360,7 +372,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "dynamic angle",
+    "relation_role": "variant"
   },
   {
     "id": "panel_panellayout_dramatic_angle",
@@ -393,7 +407,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "dramatic angle",
+    "relation_role": "variant"
   },
   {
     "id": "panel_panellayout_split_screen",
@@ -723,7 +739,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "halftone",
+    "relation_role": "canonical"
   },
   {
     "id": "panel_comiceffects_stippling",
@@ -1414,7 +1432,9 @@
     "compatibility": [
       "sdxl",
       "midjourney"
-    ]
+    ],
+    "relation_group": "motion blur",
+    "relation_role": "variant"
   },
   {
     "id": "panel_animation_squash_and_stretch",

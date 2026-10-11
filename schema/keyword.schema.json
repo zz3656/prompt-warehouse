@@ -200,7 +200,8 @@
     },
     "alias_of": {
       "type": "string",
-      "description": "指向 canonical 关键词的 ID（同义重复时，非 canonical 项标记此项）"
+      "pattern": "^[a-z0-9_]+$",
+      "description": "指向 canonical 关键词的 id（同义重复时，非 canonical 项标记此项）"
     },
     "relation_group": {
       "type": "string",
@@ -208,7 +209,11 @@
     },
     "relation_role": {
       "type": "string",
-      "description": "在 relation_group 中的角色（如 'composition' vs 'shot-language'）"
+      "enum": [
+        "canonical",
+        "variant"
+      ],
+      "description": "在 relation_group 中的角色：canonical 为主条目，variant 为变体"
     }
   },
   "additionalProperties": true,

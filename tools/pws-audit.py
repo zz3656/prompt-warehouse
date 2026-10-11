@@ -336,7 +336,7 @@ def main():
     items, by_file = load_keywords()
     schema = load_schema()
 
-    issues: list[Issue] = []
+    issues: "list[Issue]" = []
 
     print(f"  Loaded {len(items)} keywords from {len(by_file)} files")
 

@@ -1,3 +1,38 @@
+## [1.5.4] - 2026-10-11
+
+### Fixed
+- 全仓库 Python 3.9 不兼容语法修复（list[] / dict[] / str|int|None）
+
+### Added
+- /api/stats 加 missing_template_refs（已验证为 0）
+- tools/pws-query.py：统一查询 CLI
+- bundles: portrait.cinematic、scene.cyberpunk
+## [1.5.3] - 2026-10-11
+
+### Added
+- `pws-bundles.py` resolve 接入 canonical 去重（过滤 variant + alias_of）
+- `docs/standard.md` 补 compatibility 语义说明
+- `/api/stats.json` 加 `by_score_bucket` + `missing_term_zh`
+## [1.5.2] - 2026-10-11
+
+### Added
+- `tools/pws-canonical.py`：组合器按 canonical 去重（只保留 canonical，过滤 variant + alias_of）
+- `/api/stats` 加 `relation` 和 `by_compatibility` 字段
+- `docs/standard.md` 补充 relation_group / relation_role 用法说明
+## [1.5.1] - 2026-10-11
+
+### Changed
+- relation_role 规范为 canonical / variant（139 组跨分类重复）
+- schema 加 relation_role 枚举与 alias_of 格式校验
+- 批次 5 收尾：报告可追溯、schema 完整性保障
+
+## [1.5.0] - 2026-10-11
+
+### Fixed
+- README 关键词数 6,015 → 6,037
+- 版本号统一为 1.5.0（README / README_en / package.json / _meta.json）
+- 子分类数 156 → 167
+
 # Changelog
 All notable changes to the Prompt Warehouse keyword database.
 Format is based on [Keep a Changelog](https://keepachangelog.com/).

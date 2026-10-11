@@ -786,7 +786,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "beautiful lighting",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_lighting_blacklight",
@@ -966,7 +968,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "candlelight",
+    "relation_role": "canonical"
   },
   {
     "id": "mj_mj_v5_lighting_carbide_lamp",
@@ -2471,7 +2475,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "global illumination",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_lighting_glow_stick",
@@ -4083,7 +4089,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "northern lights",
+    "relation_role": "canonical"
   },
   {
     "id": "mj_mj_v5_lighting_nuclear_waste",
@@ -4943,7 +4951,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "soft lighting",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_lighting_split_lighting",
@@ -6172,7 +6182,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "blurry",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_sfx_cel_shading",
@@ -6208,7 +6220,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "cel shading",
+    "relation_role": "canonical"
   },
   {
     "id": "mj_mj_v5_sfx_cgi",
@@ -6282,7 +6296,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "chromatic aberration",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_sfx_color_banding",
@@ -6836,7 +6852,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "flat shading",
+    "relation_role": "canonical"
   },
   {
     "id": "mj_mj_v5_sfx_frequency_response_distortion",
@@ -7608,7 +7626,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "motion blur",
+    "relation_role": "variant"
   },
   {
     "id": "mj_mj_v5_sfx_multiscopy",
@@ -9587,7 +9607,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "blue hour",
+    "relation_role": "canonical"
   },
   {
     "id": "lighting_dynamic_cherry_blossoms_falling",
@@ -9655,7 +9677,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "chiaroscuro",
+    "relation_role": "canonical"
   },
   {
     "id": "lighting_dramatic_cinematic_lighting",
@@ -9668,7 +9692,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "migrated",
       "lighting"
@@ -9688,7 +9712,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_lighting_cinematic_lighting"
   },
   {
     "id": "lighting_mood_cold_atmosphere",
@@ -10363,7 +10388,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "fog",
+    "relation_role": "canonical"
   },
   {
     "id": "lighting_special_glittering",
@@ -10431,7 +10458,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "glowing",
+    "relation_role": "canonical"
   },
   {
     "id": "lighting_dynamic_glowing_runes",
@@ -10567,7 +10596,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "golden hour",
+    "relation_role": "canonical"
   },
   {
     "id": "lighting_dramatic_half_in_shadow",
@@ -10613,7 +10644,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "migrated",
       "lighting"
@@ -10634,7 +10665,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_lighting_hard_lighting"
   },
   {
     "id": "lighting_dramatic_high_contrast",
@@ -10668,7 +10700,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "high contrast",
+    "relation_role": "canonical"
   },
   {
     "id": "lighting_mood_high_key_lighting",
@@ -10681,7 +10715,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "migrated",
       "lighting"
@@ -10701,7 +10735,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_lighting_high_key_lighting"
   },
   {
     "id": "lighting_dynamic_ice_crystals",
@@ -10803,7 +10838,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "lens flare",
+    "relation_role": "canonical"
   },
   {
     "id": "lighting_special_light_rays",
@@ -10918,7 +10955,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "migrated",
       "lighting"
@@ -10938,7 +10975,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_lighting_low_key_lighting"
   },
   {
     "id": "lighting_special_luminescent",
@@ -11074,7 +11112,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "mist",
+    "relation_role": "canonical"
   },
   {
     "id": "lighting_mood_moody_atmosphere",
@@ -11514,7 +11554,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "ray tracing",
+    "relation_role": "variant"
   },
   {
     "id": "lighting_natural_rim_light",
@@ -11718,7 +11760,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "soft lighting",
+    "relation_role": "variant"
   },
   {
     "id": "lighting_dynamic_spark_trail",
@@ -11833,7 +11877,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "migrated",
       "lighting"
@@ -11854,7 +11898,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_lighting_spotlight"
   },
   {
     "id": "lighting_mood_studio_lighting",
@@ -11867,7 +11912,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "migrated",
       "lighting"
@@ -11887,7 +11932,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_lighting_studio_lighting"
   },
   {
     "id": "lighting_natural_sun_flare",
@@ -12057,7 +12103,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "twilight",
+    "relation_role": "canonical"
   },
   {
     "id": "lighting_special_volumetric_fog",
@@ -12091,7 +12139,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "volumetric fog",
+    "relation_role": "variant"
   },
   {
     "id": "lighting_dramatic_volumetric_lighting",
@@ -12104,7 +12154,7 @@
     ],
     "score": 0.7,
     "priority": "medium",
-    "lifecycle": "approved",
+    "lifecycle": "deprecated",
     "tags": [
       "migrated",
       "lighting"
@@ -12125,7 +12175,8 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "alias_of": "mj_mj_v5_lighting_volumetric_lighting"
   },
   {
     "id": "lighting_natural_warm_amber_tones",
@@ -12255,7 +12306,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "cloudy sky",
+    "relation_role": "canonical"
   },
   {
     "id": "lighting_atmosphere_overcast_sky",
@@ -12478,7 +12531,9 @@
       "sdxl",
       "midjourney",
       "flux"
-    ]
+    ],
+    "relation_group": "thunderstorm",
+    "relation_role": "canonical"
   },
   {
     "id": "lighting_atmosphere_falling_snow",

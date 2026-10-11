@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
+  "version": "1.5.4",
   "schema_version": "pws-1.0",
   "total_keywords": 6037,
   "total_categories": 20,
@@ -50,6 +50,47 @@
       "added": 35,
       "before": 6015,
       "after": 6015
+    },
+    {
+      "version": "1.5.0",
+      "date": "2026-10-11",
+      "changes": [
+        "README 关键词数 6,015 → 6,037",
+        "版本号统一为 1.5.0",
+        "子分类从 156 更新为 167"
+      ]
+    },
+    {
+      "version": "1.5.1",
+      "changes": [
+        "规范化 relation_role 为 canonical / variant（139 组跨分类重复）",
+        "schema 加 relation_role 枚举与 alias_of 格式校验"
+      ]
+    },
+    {
+      "version": "1.5.2",
+      "changes": [
+        "新增 pws-canonical.py：组合器按 canonical 去重",
+        "/api/stats 加 relation / compatibility 统计字段",
+        "docs/standard.md 补充 relation_group / relation_role 用法"
+      ]
+    },
+    {
+      "version": "1.5.3",
+      "changes": [
+        "pws-bundles resolve 接入 canonical 去重（过滤 variant + alias_of）",
+        "docs/standard.md 补 compatibility 语义说明",
+        "/api/stats 加 by_score_bucket + missing_term_zh"
+      ]
+    },
+    {
+      "version": "1.5.4",
+      "changes": [
+        "修复 Python 3.9 不兼容语法（list[] / dict[] / str|int|None）",
+        "/api/stats 加 missing_template_refs（验证为 0）",
+        "新增 tools/pws-query.py（统一查询 CLI）",
+        "新增 bundles portrait.cinematic / scene.cyberpunk"
+      ]
     }
   ],
   "description": "6,015 structured keywords across 20 categories. Sources: MidJourney Reference + Danbooru + Danbooru Booster/Civitai + Web Research + @nodaro/prompts (v1.27.0). v1.1.0 consolidated 33 → 20 categories; v1.1.1 removed 14 true-duplicate terms (see docs/CATEGORY_CONSOLIDATION.md). Additional high-quality keywords added in v1.8.1 including quality (27), held-prop (6), framing (6), panel (5), character-fx (5), action-fx (3), photographer (2). pws-translate.py optimized (9,130 lines removed, data externalized).",
