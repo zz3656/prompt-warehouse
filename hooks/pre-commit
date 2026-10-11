@@ -62,39 +62,53 @@ PYEOF
 fi
 
 # 5. Quick dedup check on staged files only (fast mode)
-staged_files=$(git diff --cached --diff-filter=ACM --name-only | grep 'keywords/categories/' || true)
-if [ -n "$staged_files" ]; then
+if git diff --cached --name-only | grep -q 'keywords/categories/'; then
     echo "🔄 Checking staged files for duplicates..."
-    python3 - <<PYEOF
-import json, glob, sys, os
-staged_files_list = """$staged_files""".strip().split() if "$staged_files".strip() else []
-staged_items = []
-for fp in staged_files_list:
-    if not os.path.exists(fp):
-        continue
-    data = json.load(open(fp))
-    if isinstance(data, list):
-        staged_items.extend(data)
-    else:
-        staged_items.append(data)
-# Load all existing keywords
-existing_items = []
-for fp in sorted(glob.glob("keywords/categories/*.json")):
-    if fp not in staged_files_list:
+    python3 - <<'PYEOF'
+import json, glob, sys, os, subprocess
+
+def get_staged_files():
+    try:
+        out = subprocess.check_output(
+            ["git", "diff", "--cached", "--diff-filter=ACM", "--name-only"],
+            stderr=subprocess.DEVNULL
+        ).decode().strip()
+        return [f for f in out.splitlines() if "keywords/categories/" in f]
+    except Exception:
+        return []
+
+staged_files_list = get_staged_files()
+if not staged_files_list:
+    print("  ✅ No category files staged")
+else:
+    staged_items = []
+    for fp in staged_files_list:
+        if not os.path.exists(fp):
+            continue
         data = json.load(open(fp))
         if isinstance(data, list):
-            existing_items.extend(data)
+            staged_items.extend(data)
         else:
-            existing_items.append(data)
-# Check by ID
-existing_ids = {i.get("id","") for i in existing_items if i.get("id")}
-new_ids = {i.get("id","") for i in staged_items if i.get("id")}
-conflicts = new_ids & existing_ids
-if conflicts:
-    for c in sorted(conflicts):
-        print(f"  ❌ ID conflict: {c}")
-    sys.exit(1)
-print(f"  ✅ No conflicts with existing keywords")
+            staged_items.append(data)
+    # Load all existing keywords (exclude staged files to avoid self-conflict)
+    existing_items = []
+    all_json = sorted(glob.glob("keywords/categories/*.json"))
+    for fp in all_json:
+        if fp not in staged_files_list:
+            data = json.load(open(fp))
+            if isinstance(data, list):
+                existing_items.extend(data)
+            else:
+                existing_items.append(data)
+    # Check by ID
+    existing_ids = {i.get("id","") for i in existing_items if i.get("id")}
+    new_ids = {i.get("id","") for i in staged_items if i.get("id")}
+    conflicts = new_ids & existing_ids
+    if conflicts:
+        for c in sorted(conflicts):
+            print(f"  ❌ ID conflict: {c}")
+        sys.exit(1)
+    print(f"  ✅ No conflicts with existing keywords")
 PYEOF
 fi
 
