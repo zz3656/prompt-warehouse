@@ -60044,5 +60044,2441 @@
       "美学",
       "nodaro"
     ]
+  },
+  {
+    "id": "mj_mj_v5_geo_adventurecore",
+    "term": "Adventurecore",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "mj_v5_geo",
+      "adventurecore"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010161+00:00",
+    "updated_at": "2026-09-28T15:15:10.010162+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "冒险核心",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "冒险核心",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_african_realism",
+    "term": "African Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "african"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010179+00:00",
+    "updated_at": "2026-09-28T15:15:10.010180+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "非洲写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "非洲写实",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_african_style",
+    "term": "African Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "african"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010169+00:00",
+    "updated_at": "2026-09-28T15:15:10.010170+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "非洲风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "非洲风格",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_american_realism",
+    "term": "American Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "american"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010207+00:00",
+    "updated_at": "2026-09-28T15:15:10.010208+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "美国写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "美国写实",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_american_style",
+    "term": "American Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "american"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010187+00:00",
+    "updated_at": "2026-09-28T15:15:10.010188+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "美国风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "美国风格",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_australian_realism",
+    "term": "Australian Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "australian"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010244+00:00",
+    "updated_at": "2026-09-28T15:15:10.010245+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "澳大利亚写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_australian_style",
+    "term": "Australian Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "australian"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010236+00:00",
+    "updated_at": "2026-09-28T15:15:10.010237+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "澳大利亚风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_brazilian_realism",
+    "term": "Brazilian Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "brazilian"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010323+00:00",
+    "updated_at": "2026-09-28T15:15:10.010324+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "巴西写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "巴西写实",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_brazilian_style",
+    "term": "Brazilian Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "brazilian"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010312+00:00",
+    "updated_at": "2026-09-28T15:15:10.010313+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "巴西风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "巴西风格",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_british_realism",
+    "term": "British Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "british"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010341+00:00",
+    "updated_at": "2026-09-28T15:15:10.010342+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "英国写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "英国写实",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_british_style",
+    "term": "British Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "british"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010330+00:00",
+    "updated_at": "2026-09-28T15:15:10.010331+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "英国风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "英国风格",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_brocore",
+    "term": "Brocore",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "mj_v5_geo",
+      "brocore"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010347+00:00",
+    "updated_at": "2026-09-28T15:15:10.010348+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "兄弟核心",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "兄弟核心",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_cabincore",
+    "term": "Cabincore",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "mj_v5_geo",
+      "cabincore"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010375+00:00",
+    "updated_at": "2026-09-28T15:15:10.010376+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "小屋核心",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "小屋核心",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_canadian_realism",
+    "term": "Canadian Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "canadian"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010390+00:00",
+    "updated_at": "2026-09-28T15:15:10.010391+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "加拿大写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_canadian_style",
+    "term": "Canadian Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "canadian"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010383+00:00",
+    "updated_at": "2026-09-28T15:15:10.010384+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "加拿大风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_chinese_realism",
+    "term": "Chinese Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "chinese"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010427+00:00",
+    "updated_at": "2026-09-28T15:15:10.010428+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "中国写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "中国写实",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_chinese_style",
+    "term": "Chinese Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "chinese"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010417+00:00",
+    "updated_at": "2026-09-28T15:15:10.010418+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "中国风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "中国风格",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_clowncore",
+    "term": "Clowncore",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "mj_v5_geo",
+      "clowncore"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010461+00:00",
+    "updated_at": "2026-09-28T15:15:10.010462+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "小丑核心",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "小丑核心",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_cottagecore",
+    "term": "Cottagecore",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "mj_v5_geo",
+      "cottagecore"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010475+00:00",
+    "updated_at": "2026-09-28T15:15:10.010476+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "乡村小屋核心",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_countrycore",
+    "term": "Countrycore",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "mj_v5_geo",
+      "countrycore"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010490+00:00",
+    "updated_at": "2026-09-28T15:15:10.010490+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "乡村核心",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "乡村核心",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_dominican_realism",
+    "term": "Dominican Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "dominican"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010517+00:00",
+    "updated_at": "2026-09-28T15:15:10.010518+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "多米尼加写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_dominican_style",
+    "term": "Dominican Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "dominican"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010509+00:00",
+    "updated_at": "2026-09-28T15:15:10.010510+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "多米尼加风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_farmcore",
+    "term": "Farmcore",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "mj_v5_geo",
+      "farmcore"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010561+00:00",
+    "updated_at": "2026-09-28T15:15:10.010562+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "农庄核心",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "农庄核心",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_french_realism",
+    "term": "French Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "french"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010587+00:00",
+    "updated_at": "2026-09-28T15:15:10.010588+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "法国写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "法国写实",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_french_style",
+    "term": "French Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "french"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010579+00:00",
+    "updated_at": "2026-09-28T15:15:10.010580+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "法国风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "法国风格",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_german_realism",
+    "term": "German Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "german"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010603+00:00",
+    "updated_at": "2026-09-28T15:15:10.010604+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "德国写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "德国写实",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_german_style",
+    "term": "German Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "german"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010595+00:00",
+    "updated_at": "2026-09-28T15:15:10.010596+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "德国风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "德国风格",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_grandparentcore",
+    "term": "Grandparentcore",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "mj_v5_geo",
+      "grandparentcore"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010642+00:00",
+    "updated_at": "2026-09-28T15:15:10.010643+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "祖父母核心",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_greek_realism",
+    "term": "Greek Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "greek"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010684+00:00",
+    "updated_at": "2026-09-28T15:15:10.010685+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "希腊写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "希腊写实",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_greek_style",
+    "term": "Greek Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "greek"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010654+00:00",
+    "updated_at": "2026-09-28T15:15:10.010655+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "希腊风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "希腊风格",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_hikecore",
+    "term": "Hikecore",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "mj_v5_geo",
+      "hikecore"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010716+00:00",
+    "updated_at": "2026-09-28T15:15:10.010717+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "徒步核心",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "徒步核心",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_hungarian_realism",
+    "term": "Hungarian Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "hungarian"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010756+00:00",
+    "updated_at": "2026-09-28T15:15:10.010757+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "匈牙利写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_hungarian_style",
+    "term": "Hungarian Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "hungarian"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010748+00:00",
+    "updated_at": "2026-09-28T15:15:10.010749+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "匈牙利风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_indian_realism",
+    "term": "Indian Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "indian"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010778+00:00",
+    "updated_at": "2026-09-28T15:15:10.010779+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "印度写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "印度写实",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_indian_style",
+    "term": "Indian Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "indian"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010771+00:00",
+    "updated_at": "2026-09-28T15:15:10.010772+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "印度风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "印度风格",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_indonesian_realism",
+    "term": "Indonesian Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "indonesian"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010795+00:00",
+    "updated_at": "2026-09-28T15:15:10.010795+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "印度尼西亚写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_indonesian_style",
+    "term": "Indonesian Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "indonesian"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010787+00:00",
+    "updated_at": "2026-09-28T15:15:10.010788+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "印度尼西亚风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_irish_realism",
+    "term": "Irish Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "irish"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010812+00:00",
+    "updated_at": "2026-09-28T15:15:10.010813+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "爱尔兰写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_irish_style",
+    "term": "Irish Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "irish"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010804+00:00",
+    "updated_at": "2026-09-28T15:15:10.010805+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "爱尔兰风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_italian_realism",
+    "term": "Italian Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "italian"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010833+00:00",
+    "updated_at": "2026-09-28T15:15:10.010834+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "意大利写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_italian_style",
+    "term": "Italian Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "italian"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010825+00:00",
+    "updated_at": "2026-09-28T15:15:10.010826+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "意大利风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_japanese_realism",
+    "term": "Japanese Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "japanese"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010859+00:00",
+    "updated_at": "2026-09-28T15:15:10.010860+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "日本写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "日本写实",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_japanese_style",
+    "term": "Japanese Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "japanese"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010841+00:00",
+    "updated_at": "2026-09-28T15:15:10.010842+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "日本风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "日本风格",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_kidcore",
+    "term": "Kidcore",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "mj_v5_geo",
+      "kidcore"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010887+00:00",
+    "updated_at": "2026-09-28T15:15:10.010888+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "儿童核心",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "儿童核心",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_kingcore",
+    "term": "Kingcore",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "mj_v5_geo",
+      "kingcore"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010893+00:00",
+    "updated_at": "2026-09-28T15:15:10.010894+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "王者核心",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "王者核心",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_knightcore",
+    "term": "Knightcore",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "mj_v5_geo",
+      "knightcore"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010901+00:00",
+    "updated_at": "2026-09-28T15:15:10.010902+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "骑士核心",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "骑士核心",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_mexican_realism",
+    "term": "Mexican Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "mexican"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010951+00:00",
+    "updated_at": "2026-09-28T15:15:10.010952+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "墨西哥写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_mexican_style",
+    "term": "Mexican Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "mexican"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.010942+00:00",
+    "updated_at": "2026-09-28T15:15:10.010943+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "墨西哥风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_poetcore",
+    "term": "Poetcore",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "mj_v5_geo",
+      "poetcore"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011001+00:00",
+    "updated_at": "2026-09-28T15:15:10.011002+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "诗人核心",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "诗人核心",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_polish_realism",
+    "term": "Polish Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "polish"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011023+00:00",
+    "updated_at": "2026-09-28T15:15:10.011024+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "波兰写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "波兰写实",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_polish_style",
+    "term": "Polish Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "polish"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011016+00:00",
+    "updated_at": "2026-09-28T15:15:10.011016+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "波兰风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "波兰风格",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_prairiecore",
+    "term": "Prairiecore",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "mj_v5_geo",
+      "prairiecore"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011031+00:00",
+    "updated_at": "2026-09-28T15:15:10.011032+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "草原核心",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "草原核心",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_princecore",
+    "term": "Princecore",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "mj_v5_geo",
+      "princecore"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011038+00:00",
+    "updated_at": "2026-09-28T15:15:10.011039+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "王子核心",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "王子核心",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_princesscore",
+    "term": "Princesscore",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "mj_v5_geo",
+      "princesscore"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011045+00:00",
+    "updated_at": "2026-09-28T15:15:10.011046+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "公主核心",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "公主核心",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_roguecore",
+    "term": "Roguecore",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "mj_v5_geo",
+      "roguecore"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011075+00:00",
+    "updated_at": "2026-09-28T15:15:10.011076+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "流氓核心",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "流氓核心",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_roman_realism",
+    "term": "Roman Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "roman"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011127+00:00",
+    "updated_at": "2026-09-28T15:15:10.011128+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "罗马写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "罗马写实",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_roman_style",
+    "term": "Roman Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "roman"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011083+00:00",
+    "updated_at": "2026-09-28T15:15:10.011084+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "罗马风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "罗马风格",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_royalcore",
+    "term": "Royalcore",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "mj_v5_geo",
+      "royalcore"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011134+00:00",
+    "updated_at": "2026-09-28T15:15:10.011135+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "皇家核心",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "皇家核心",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_ruralcore",
+    "term": "Ruralcore",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "mj_v5_geo",
+      "ruralcore"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011161+00:00",
+    "updated_at": "2026-09-28T15:15:10.011162+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "乡村核心",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "乡村核心",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_russian_realism",
+    "term": "Russian Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "russian"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011177+00:00",
+    "updated_at": "2026-09-28T15:15:10.011177+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "俄罗斯写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_russian_style",
+    "term": "Russian Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "russian"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011169+00:00",
+    "updated_at": "2026-09-28T15:15:10.011170+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "俄罗斯风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_scoutcore",
+    "term": "Scoutcore",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "mj_v5_geo",
+      "scoutcore"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011212+00:00",
+    "updated_at": "2026-09-28T15:15:10.011213+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "侦察兵核心",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_socialist_realism",
+    "term": "Socialist Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "socialist"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011249+00:00",
+    "updated_at": "2026-09-28T15:15:10.011250+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "社会主义写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_spanish_realism",
+    "term": "Spanish Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "spanish"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011287+00:00",
+    "updated_at": "2026-09-28T15:15:10.011288+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "西班牙写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_spanish_style",
+    "term": "Spanish Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "spanish"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011277+00:00",
+    "updated_at": "2026-09-28T15:15:10.011278+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "西班牙风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_swedish_realism",
+    "term": "Swedish Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "swedish"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011321+00:00",
+    "updated_at": "2026-09-28T15:15:10.011322+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "瑞典写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "瑞典写实",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_swedish_style",
+    "term": "Swedish Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "swedish"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011311+00:00",
+    "updated_at": "2026-09-28T15:15:10.011312+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "瑞典风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "瑞典风格",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_swiss_realism",
+    "term": "Swiss Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "swiss"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011337+00:00",
+    "updated_at": "2026-09-28T15:15:10.011338+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "瑞士写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "瑞士写实",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_swiss_style",
+    "term": "Swiss Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "swiss"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011329+00:00",
+    "updated_at": "2026-09-28T15:15:10.011330+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "瑞士风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "瑞士风格",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_turkish_realism",
+    "term": "Turkish Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "turkish"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011434+00:00",
+    "updated_at": "2026-09-28T15:15:10.011435+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "土耳其写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_turkish_style",
+    "term": "Turkish Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "turkish"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011426+00:00",
+    "updated_at": "2026-09-28T15:15:10.011427+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "土耳其风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_tweencore",
+    "term": "Tweencore",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "mj_v5_geo",
+      "tweencore"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011444+00:00",
+    "updated_at": "2026-09-28T15:15:10.011445+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "少女核心",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "少女核心",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_ukrainian_realism",
+    "term": "Ukrainian Realism",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "ukrainian"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011462+00:00",
+    "updated_at": "2026-09-28T15:15:10.011463+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "乌克兰写实",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_ukrainian_style",
+    "term": "Ukrainian Style",
+    "category": "styles",
+    "subcategory": "realism",
+    "labels": [
+      "mj_v5_geo",
+      "ukrainian"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011452+00:00",
+    "updated_at": "2026-09-28T15:15:10.011453+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "乌克兰风格",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_urbancore",
+    "term": "Urbancore",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "mj_v5_geo",
+      "urbancore"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011487+00:00",
+    "updated_at": "2026-09-28T15:15:10.011488+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "都市核心",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "都市核心",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_villagecore",
+    "term": "Villagecore",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "mj_v5_geo",
+      "villagecore"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011510+00:00",
+    "updated_at": "2026-09-28T15:15:10.011511+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "村庄核心",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "村庄核心",
+      "mj"
+    ]
+  },
+  {
+    "id": "mj_mj_v5_geo_villaincore",
+    "term": "Villaincore",
+    "category": "styles",
+    "subcategory": "aesthetic",
+    "labels": [
+      "mj_v5_geo",
+      "villaincore"
+    ],
+    "score": 0.7,
+    "priority": "medium",
+    "lifecycle": "approved",
+    "tags": [
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "created_at": "2026-09-28T15:15:10.011533+00:00",
+    "updated_at": "2026-09-28T15:15:10.011534+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Geography_and_Culture",
+    "term_zh": "反派核心",
+    "labels_zh": [
+      "场景",
+      "地形",
+      "反派核心",
+      "mj"
+    ]
   }
 ]
