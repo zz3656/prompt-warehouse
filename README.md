@@ -3,7 +3,7 @@
 **一个统一的、与语言无关的标准，用于跨项目组织、版本控制和共享 AI 生成提示词。**
 
 > **pws v1.0** | **简体中文** | [English](README_en.md)
-**当前数据版本**: v1.2.0 (6,282 关键词 · 22 分类 · 277 个子分类 · **100% term_zh 覆盖**)
+**当前数据版本**: 1.0.1 (6,282 关键词 · 22 分类 · 277 个子分类 · **100% term_zh 覆盖**)
 >
 > **仓库地址**: https://github.com/zz3656/prompt-warehouse
 > **许可证**: MIT
@@ -356,7 +356,7 @@ girl 16 years old white long twin tails hair blue almond eyes fair skin, red rib
 
 每个 `_meta.json` 都跟踪版本、结构版本和变更日志。
 
-当前版本：**v1.2.0** — 22 个分类共 6,282 个关键词（**全部** 6,282 个有中文翻译，**100%** 覆盖)。
+当前版本：**1.0.1** — 22 个分类共 6,282 个关键词（**全部** 6,282 个有中文翻译，**100%** 覆盖)。
 
 ### 新增功能
 
@@ -497,7 +497,7 @@ MIT 许可证 — 详见 [docs/standard.md](docs/standard.md)。
 | Danbooru Booster Tags + [Civitai](https://civitai.com) 社区 | 社区收集 | 101 | quality (质量词/渲染技术/氛围/色彩/纹理) |
 | Web 研究 — 场景与环境 | 手动整理 | 72 | scene (自然/建筑/天气/时间) |
 | Web 研究 — 艺术风格 | 手动整理 | 41 | styles (绘画风格/动漫类型/美学流派/渲染技术) |
-| [@nodaro/prompts](https://github.com/nodaroai/app.nodaro.ai) (v1.2.0) | GitHub | 1,149 | 23 个新分类 — 动作特效/美学微趋势/大气效果/镜头运动/姿态手势/转场效果等 |
+| [@nodaro/prompts](https://github.com/nodaroai/app.nodaro.ai) (1.0.1) | GitHub | 1,149 | 23 个新分类 — 动作特效/美学微趋势/大气效果/镜头运动/姿态手势/转场效果等 |
 
 **模板来源**：见 `templates/_meta.json` 的 `data_sources` 字段。
 
@@ -505,6 +505,6 @@ MIT 许可证 — 详见 [docs/standard.md](docs/standard.md)。
 
 ---
 
-*提示词仓库标准 v1.0 · 数据版本 v1.2.0 · 为漫画/手绘提示词生成而设计，适用于任何 AI 创意工具。*
+*提示词仓库标准 v1.0 · 数据版本 1.0.1 · 为漫画/手绘提示词生成而设计，适用于任何 AI 创意工具。*
 
 *← [English](README_en.md)*

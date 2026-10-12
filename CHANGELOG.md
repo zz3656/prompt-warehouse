@@ -7,10 +7,10 @@
 ### Added
 - docs/missing-source.json（38 条缺 source 清单）
 
-## v1.3.0 (2026-10-12)
+## 1.0.1 (2026-10-12)
 
-- 统一所有版本号到 1.3.0
-- 修复 keywords/_meta.json 版本从 1.0.0 → 1.3.0
+- 统一所有版本号到 1.0.1
+- 修复 keywords/_meta.json 版本从 1.0.0 → 1.0.1
 - 修复 docs/api/stats.json 版本更新
 - 生成 CHANGELOG 版本号条目
 
@@ -310,7 +310,7 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/).
 - Updated README with correct version/category/keyword counts
 - Expanded translation dictionary: ~200 → 488 entries
 
-## [1.3.0] - 2026-09-30
+## [1.0.1] - 2026-09-30
 - Expanded translation dictionary: ~200 → 488 entries, term_zh coverage 5.1% → 8.1% (+176 keywords)
 - Generated flat keyword index (data/pws_index.json) with 5,943 entries
 - Added pws-index.py tool for building searchable flat indexes

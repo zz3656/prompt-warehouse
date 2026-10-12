@@ -2,9 +2,9 @@
 
 **A unified, language-agnostic standard for organizing, versioning, and sharing AI generation prompts across projects.**
 
-> **pws v1.0** | **Data v1.2.0** | [简体中文](README.md) | **English**
+> **pws v1.0** | **Data 1.0.1** | [简体中文](README.md) | **English**
 >
-| **Current data version**: v1.2.0 (6,282 keywords · 22 categories · 277 subcategories · **100% term_zh coverage**)
+| **Current data version**: 1.0.1 (6,282 keywords · 22 categories · 277 subcategories · **100% term_zh coverage**)
 >
 > **Repository**: https://github.com/zz3656/prompt-warehouse
 > **License**: MIT
@@ -325,7 +325,7 @@ The warehouse follows semantic versioning:
 
 Each `_meta.json` tracks version, schema version, and changelog entries.
 
-Current version: **v1.2.0** — 6,282 keywords across 22 categories (**all** 6,282 with Chinese translation, **100%** coverage).
+Current version: **1.0.1** — 6,282 keywords across 22 categories (**all** 6,282 with Chinese translation, **100%** coverage).
 
 ---
 
@@ -409,7 +409,7 @@ MIT License — see [docs/standard_en.md](docs/standard_en.md) for full details.
 | Danbooru Booster Tags + [Civitai](https://civitai.com) community | Community collected | 101 | quality (boosters, rendering, atmosphere, color, texture) |
 | Web Research — Scene & Environment | Manual curation | 72 | scene (nature, architecture, weather, time-of-day) |
 | Web Research — Art Styles | Manual curation | 41 | styles (painting, anime genres, aesthetics, rendering) |
-| [@nodaro/prompts](https://github.com/nodaroai/app.nodaro.ai) (v1.2.0) | GitHub | 1,149 | 23 new categories — action-fx/aesthetic/atmosphere/camera-format/camera-motions/character-fx/color-look/era/framing/held-prop/lens/material/mood/photo-genre/photographer/pose/post-process/render-quality/setting/style/temporal/transitions/wardrobe |
+| [@nodaro/prompts](https://github.com/nodaroai/app.nodaro.ai) (1.0.1) | GitHub | 1,149 | 23 new categories — action-fx/aesthetic/atmosphere/camera-format/camera-motions/character-fx/color-look/era/framing/held-prop/lens/material/mood/photo-genre/photographer/pose/post-process/render-quality/setting/style/temporal/transitions/wardrobe |
 
 **Template sources**: see `templates/_meta.json` `data_sources` field.
 
@@ -417,6 +417,6 @@ MIT License — see [docs/standard_en.md](docs/standard_en.md) for full details.
 
 ---
 
-*Prompt Warehouse Standard v1.0 · Data version v1.2.0 · Built for comic/manga prompt generation, applicable to any AI creative tool.*
+*Prompt Warehouse Standard v1.0 · Data version 1.0.1 · Built for comic/manga prompt generation, applicable to any AI creative tool.*
 
 *← [简体中文](README.md)*
