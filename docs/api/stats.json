@@ -49,12 +49,8 @@
     ">=0.9": 314
   },
   "missing_term_zh": 143,
-  "generated_at": "2026-10-12T08:06:57.964822+00:00",
+  "generated_at": "2026-10-12T10:10:10.743778+00:00",
   "missing_template_refs": [],
   "total_bundles": 17,
-  "total_templates": 16,
-  "aliases_en": 1123,
-  "aliases_zh": 729,
-  "labels_zh": 6124,
-  "aliases_both": 425
+  "total_templates": 16
 }
