@@ -125,7 +125,7 @@ def build_index(entries):
     return idx
 
 
-def find_translation(term: str, index: dict) -> "str |" None:
+def find_translation(term: str, index: dict) -> "str | None":
     """Find Chinese translation for an English term.
     Priority: pre_translations > index > word_compose > similar_match > None
     """
@@ -243,52 +243,6 @@ def interactive_translate(kw, index):
 
 
 # ---------- report ----------
-
-def generate_labels_zh(item):
-    """Generate labels_zh for a single keyword."""
-    labels = []
-
-    # Category names (dedicated dict, separate from SUBCATEGORY_LABELS)
-    cat_names = {
-        "quality": "质量", "composition": "构图", "lighting": "灯光",
-        "character": "角色", "clothing": "服装", "styles": "风格",
-        "negative": "负面", "scene": "场景", "panel": "分镜",
-        "action-fx": "动作特效", "character-fx": "角色特效",
-        "color-look": "色彩", "era": "时代", "framing": "构图",
-        "held-prop": "手持道具", "material": "材质",
-        "photographer": "摄影", "render-quality": "渲染",
-        "temporal": "时间效果", "transitions": "转场",
-    }
-    cat = item.get("category", "")
-
-    # 1. From category name (insert first)
-    cat_name = cat_names.get(cat, "")
-    if cat_name:
-        labels.insert(0, cat_name)
-
-    # 2. From subcategory
-    sub = item.get("subcategory", "")
-    if sub and sub in SUBCATEGORY_LABELS:
-        sub_label = SUBCATEGORY_LABELS[sub]
-        if sub_label not in labels:
-            labels.insert(1, sub_label)
-
-    # 3. From term_zh
-    term_zh = item.get("term_zh", "")
-    if term_zh:
-        zh_labels = extract_labels_from_term_zh(term_zh)
-        for zl in zh_labels:
-            if zl not in labels:
-                labels.append(zl)
-
-    # 4. From source
-    src_tag = get_source_tag(item.get("source", ""))
-    if src_tag and src_tag not in labels:
-        labels.append(src_tag)
-
-    return labels
-
-
 
 def print_report(translated_count, skipped_count, total, file_counts):
     print("\n" + "=" * 60)
