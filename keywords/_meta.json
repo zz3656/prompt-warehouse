@@ -436,7 +436,13 @@
     "mj_v5_sfx": "特效灯光",
     "power": "力量感",
     "transformation": "变形效果",
-    "camera-move": "运镜"
+    "camera-move": "运镜",
+    "character_female": "女性",
+    "character_handdrawn_illustration": "手绘插画",
+    "character_minimalist_female": "极简女性",
+    "character_cute_anime": "可爱动漫",
+    "character_graffiti_handdrawn": "涂鸦手绘",
+    "character_anime_illustration": "动漫插画"
   },
   "keywords_count": 6282
 }
