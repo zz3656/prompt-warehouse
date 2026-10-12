@@ -5799,13 +5799,15 @@
   {
     "id": "quality_engines_unreal_engine_5",
     "term": "rendered in Unreal Engine 5",
-    "term_zh": null,
+    "term_zh": "虚幻引擎5渲染",
     "category": "quality",
     "subcategory": "engines",
     "labels": [
       "unreal-engine-5"
     ],
-    "labels_zh": [],
+    "labels_zh": [
+      "虚幻引擎5渲染"
+    ],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -5823,13 +5825,15 @@
   {
     "id": "quality_engines_blender_cycles",
     "term": "rendered in Blender Cycles",
-    "term_zh": null,
+    "term_zh": "Blender Cycles渲染",
     "category": "quality",
     "subcategory": "engines",
     "labels": [
       "blender-cycles"
     ],
-    "labels_zh": [],
+    "labels_zh": [
+      "Blender Cycles渲染"
+    ],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -5847,13 +5851,15 @@
   {
     "id": "quality_engines_octane_render",
     "term": "rendered in Octane",
-    "term_zh": null,
+    "term_zh": "Octane渲染",
     "category": "quality",
     "subcategory": "engines",
     "labels": [
       "octane-render"
     ],
-    "labels_zh": [],
+    "labels_zh": [
+      "Octane渲染"
+    ],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -5871,13 +5877,15 @@
   {
     "id": "quality_engines_redshift",
     "term": "redshift render",
-    "term_zh": null,
+    "term_zh": "Redshift渲染",
     "category": "quality",
     "subcategory": "engines",
     "labels": [
       "redshift"
     ],
-    "labels_zh": [],
+    "labels_zh": [
+      "Redshift渲染"
+    ],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -5895,13 +5903,15 @@
   {
     "id": "quality_other_houdini_mantra",
     "term": "rendered in Houdini Mantra",
-    "term_zh": null,
+    "term_zh": "Houdini Mantra渲染",
     "category": "quality",
     "subcategory": "other",
     "labels": [
       "houdini-mantra"
     ],
-    "labels_zh": [],
+    "labels_zh": [
+      "Houdini Mantra渲染"
+    ],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -5919,13 +5929,15 @@
   {
     "id": "quality_other_arnold_render",
     "term": "rendered in Solid Angle Arnold",
-    "term_zh": null,
+    "term_zh": "Solid Angle Arnold渲染",
     "category": "quality",
     "subcategory": "other",
     "labels": [
       "arnold-render"
     ],
-    "labels_zh": [],
+    "labels_zh": [
+      "Solid Angle Arnold渲染"
+    ],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -5967,13 +5979,15 @@
   {
     "id": "quality_engines_vray",
     "term": "rendered in Chaos V-Ray",
-    "term_zh": null,
+    "term_zh": "Chaos V-Ray渲染",
     "category": "quality",
     "subcategory": "engines",
     "labels": [
       "vray"
     ],
-    "labels_zh": [],
+    "labels_zh": [
+      "Chaos V-Ray渲染"
+    ],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -5991,13 +6005,15 @@
   {
     "id": "quality_other_aces",
     "term": "aces color space",
-    "term_zh": null,
+    "term_zh": "ACES色彩空间",
     "category": "quality",
     "subcategory": "other",
     "labels": [
       "aces"
     ],
-    "labels_zh": [],
+    "labels_zh": [
+      "ACES色彩空间"
+    ],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -6012,13 +6028,15 @@
   {
     "id": "quality_other_raytracing",
     "term": "ray-traced rendering",
-    "term_zh": null,
+    "term_zh": "光线追踪渲染",
     "category": "quality",
     "subcategory": "other",
     "labels": [
       "raytracing"
     ],
-    "labels_zh": [],
+    "labels_zh": [
+      "光线追踪渲染"
+    ],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",

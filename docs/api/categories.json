@@ -159,7 +159,13 @@
     "mj_v5_sfx": "特效灯光",
     "power": "力量感",
     "transformation": "变形效果",
-    "camera-move": "运镜"
+    "camera-move": "运镜",
+    "character_female": "女性",
+    "character_handdrawn_illustration": "手绘插画",
+    "character_minimalist_female": "极简女性",
+    "character_cute_anime": "可爱动漫",
+    "character_graffiti_handdrawn": "涂鸦手绘",
+    "character_anime_illustration": "动漫插画"
   },
   "categories": [
     {
@@ -302,6 +308,11 @@
           "count": 3
         },
         {
+          "slug": "character_graffiti_handdrawn",
+          "name_zh": "涂鸦手绘",
+          "count": 3
+        },
+        {
           "slug": "character",
           "name_zh": "角色设定",
           "count": 2
@@ -312,28 +323,33 @@
           "count": 2
         },
         {
-          "slug": "角色涂鸦手绘",
-          "name_zh": "角色涂鸦手绘",
-          "count": 1
+          "slug": "character_anime_illustration",
+          "name_zh": "动漫插画",
+          "count": 2
+        },
+        {
+          "slug": "character_female",
+          "name_zh": "女性",
+          "count": 2
+        },
+        {
+          "slug": "character_cute_anime",
+          "name_zh": "可爱动漫",
+          "count": 2
+        },
+        {
+          "slug": "character_handdrawn_illustration",
+          "name_zh": "手绘插画",
+          "count": 2
+        },
+        {
+          "slug": "character_minimalist_female",
+          "name_zh": "极简女性",
+          "count": 2
         },
         {
           "slug": "角色插画温暖可爱",
           "name_zh": "角色插画温暖可爱",
-          "count": 1
-        },
-        {
-          "slug": "手绘人物涂鸦插画",
-          "name_zh": "手绘人物涂鸦插画",
-          "count": 1
-        },
-        {
-          "slug": "少女动漫插画优雅",
-          "name_zh": "少女动漫插画优雅",
-          "count": 1
-        },
-        {
-          "slug": "角色涂鸦手绘可爱",
-          "name_zh": "角色涂鸦手绘可爱",
           "count": 1
         },
         {
@@ -352,33 +368,8 @@
           "count": 1
         },
         {
-          "slug": "绝美成年东亚女性",
-          "name_zh": "绝美成年东亚女性",
-          "count": 1
-        },
-        {
-          "slug": "女孩动漫插画可爱",
-          "name_zh": "女孩动漫插画可爱",
-          "count": 1
-        },
-        {
           "slug": "女孩写实街头可爱",
           "name_zh": "女孩写实街头可爱",
-          "count": 1
-        },
-        {
-          "slug": "角色动漫可爱",
-          "name_zh": "角色动漫可爱",
-          "count": 1
-        },
-        {
-          "slug": "角色插画手绘可爱",
-          "name_zh": "角色插画手绘可爱",
-          "count": 1
-        },
-        {
-          "slug": "女性极简品牌",
-          "name_zh": "女性极简品牌",
           "count": 1
         },
         {
@@ -407,18 +398,8 @@
           "count": 1
         },
         {
-          "slug": "少女插画手绘",
-          "name_zh": "少女插画手绘",
-          "count": 1
-        },
-        {
           "slug": "极简女生插画",
           "name_zh": "极简女生插画",
-          "count": 1
-        },
-        {
-          "slug": "可爱动漫",
-          "name_zh": "可爱动漫",
           "count": 1
         },
         {
@@ -459,11 +440,6 @@
         {
           "slug": "食物手绘",
           "name_zh": "食物手绘",
-          "count": 1
-        },
-        {
-          "slug": "极简女性",
-          "name_zh": "极简女性",
           "count": 1
         },
         {
@@ -614,11 +590,6 @@
         {
           "slug": "电影感儿童",
           "name_zh": "电影感儿童",
-          "count": 1
-        },
-        {
-          "slug": "赛博朋克女性",
-          "name_zh": "赛博朋克女性",
           "count": 1
         },
         {

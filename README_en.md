@@ -4,7 +4,7 @@
 
 > **pws v1.0** | **Data v1.2.0** | [简体中文](README.md) | **English**
 >
-| **Current data version**: v1.2.0 (6,282 keywords · 22 categories · 167 subcategories · **100% term_zh coverage**)
+| **Current data version**: v1.2.0 (6,282 keywords · 22 categories · 277 subcategories · **100% term_zh coverage**)
 >
 > **Repository**: https://github.com/zz3656/prompt-warehouse
 > **License**: MIT
