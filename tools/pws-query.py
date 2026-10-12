@@ -21,6 +21,19 @@ def load_all():
     return kws
 
 
+def filter_by_model(keywords, target_model):
+    """过滤兼容指定模型的关键词。
+    
+    规则：compatibility 包含 target_model，或 compatibility 为空（通用）。
+    """
+    results = []
+    for kw in keywords:
+        compat = kw.get("compatibility", [])
+        if not compat or target_model in compat:
+            results.append(kw)
+    return results
+
+
 def is_canonical(kw):
     if kw.get("alias_of"):
         return False

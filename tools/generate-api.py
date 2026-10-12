@@ -1,3 +1,240 @@
+
+
+def keyword_stats(kws, detailed=False):
+    total = len(kws)
+    if total == 0:
+        print("No keywords found.")
+        return
+
+    # Required field coverage
+    fields = {
+        "id": lambda x: bool(x.get("id")),
+        "term": lambda x: bool(x.get("term")),
+        "term_zh": lambda x: bool(x.get("term_zh")),
+        "category": lambda x: bool(x.get("category")),
+        "subcategory": lambda x: bool(x.get("subcategory")),
+        "aliases": lambda x: bool(x.get("aliases")),
+        "aliases_zh": lambda x: bool(x.get("aliases_zh")),
+        "labels": lambda x: bool(x.get("labels")),
+        "labels_zh": lambda x: bool(x.get("labels_zh")),
+        "score": lambda x: x.get("score") is not None,
+        "priority": lambda x: bool(x.get("priority")),
+        "lifecycle": lambda x: bool(x.get("lifecycle")),
+        "tags": lambda x: bool(x.get("tags")),
+        "created_at": lambda x: bool(x.get("created_at")),
+        "updated_at": lambda x: bool(x.get("updated_at")),
+        "source": lambda x: bool(x.get("source")),
+    }
+
+    print("=" * 60)
+    print("  PWS Keyword Statistics")
+    print("=" * 60)
+    print(f"\n📊 Total keywords: {total}")
+
+    print(f"\n📝 Required field coverage:")
+    for field, check in fields.items():
+        if field in ("id", "term", "category", "subcategory"):
+            continue  # already required by schema
+        count = sum(1 for kw in kws if check(kw))
+        pct = count / total * 100
+        bar = "█" * int(pct / 5) + "░" * (20 - int(pct / 5))
+        print(f"  {field:<15s} {count:>5d}/{total} ({pct:5.1f}%) {bar}")
+
+    print(f"\n🌍 Bilingual coverage:")
+    zh_only = sum(1 for kw in kws if kw.get("term_zh") and not kw.get("term"))
+    en_only = sum(1 for kw in kws if kw.get("term") and not kw.get("term_zh"))
+    both = sum(1 for kw in kws if kw.get("term") and kw.get("term_zh"))
+    neither = sum(1 for kw in kws if not kw.get("term") and not kw.get("term_zh"))
+    print(f"  Both en + zh: {both} ({both/total*100:.1f}%)")
+    print(f"  EN only:      {en_only} ({en_only/total*100:.1f}%)")
+    print(f"  ZH only:      {zh_only} ({zh_only/total*100:.1f}%)")
+    print(f"  Neither:      {neither} ({neither/total*100:.1f}%)")
+
+    print(f"\n📈 Score distribution:")
+    score_bins = defaultdict(int)
+    for kw in kws:
+        s = kw.get("score", 0)
+        if s is None:
+            score_bins["null"] += 1
+        elif s >= 0.9:
+            score_bins["0.9-1.0"] += 1
+        elif s >= 0.75:
+            score_bins["0.75-0.9"] += 1
+        elif s >= 0.5:
+            score_bins["0.5-0.75"] += 1
+        else:
+            score_bins["<0.5"] += 1
+    for bin_name in ["0.9-1.0", "0.75-0.9", "0.5-0.75", "<0.5", "null"]:
+        if bin_name in score_bins:
+            print(f"  {bin_name:<12s} {score_bins[bin_name]:>5d}")
+
+    print(f"\n🔄 Lifecycle distribution:")
+    life_counts = Counter(kw.get("lifecycle", "unknown") for kw in kws)
+    for lc, count in life_counts.most_common():
+        print(f"  {lc:<12s} {count:>5d} ({count/total*100:.1f}%)")
+
+    print(f"\n📁 Category breakdown:")
+    cat_counts = Counter(kw.get("category", "unknown") for kw in kws)
+    for cat, count in cat_counts.most_common():
+        print(f"  {cat:<18s} {count:>5d}")
+
+    if detailed:
+        print(f"\n📋 Subcategory breakdown:")
+        sub_counts = Counter(
+            f"{kw.get('category','?')}/{kw.get('subcategory','?')}" for kw in kws
+        )
+        for sub, count in sub_counts.most_common():
+            print(f"  {sub:<35s} {count:>5d}")
+
+    # Print coverage tip
+    zh_pct = both / total * 100 if total > 0 else 0
+    print(f"\n💡 term_zh coverage: {zh_pct:.1f}%")
+    if zh_pct < 20:
+        print("   Run: python3 tools/pws-translate.py --translate-all")
+    elif zh_pct < 50:
+        print("   Recommend: manual review of remaining untranslated keywords")
+
+    # Translation index stats
+    idx_path = os.path.join("keywords", "_translations.jsonl")
+    if os.path.exists(idx_path):
+        try:
+            with open(idx_path, encoding="utf-8") as fh:
+                entries = [json.loads(line) for line in fh if line.strip()]
+        except (json.JSONDecodeError, OSError) as e:
+            print(f"⚠️  Could not read translation index: {e}")
+            entries = []
+        print(f"\n📖 Translation index: {len(entries)} entries")
+
+
+def build_keyword_index():
+    """Build a flat index of all keywords."""
+    index = []
+    for fp in sorted(glob.glob("keywords/categories/*.json")):
+        category = fp.split("/")[-1].replace(".json", "")
+        data = safe_load_json(fp)
+        if not isinstance(data, list):
+            data = [data]
+
+        for item in data:
+            entry = {
+                "id": item.get("id", ""),
+                "term": item.get("term", ""),
+                "term_zh": item.get("term_zh", ""),
+                "category": item.get("category", ""),
+                "subcategory": item.get("subcategory", ""),
+                "labels": item.get("labels", []),
+                "labels_zh": item.get("labels_zh", []),
+                "aliases": item.get("aliases", []),
+                "score": item.get("score"),
+                "priority": item.get("priority"),
+                "lifecycle": item.get("lifecycle"),
+                "tags": item.get("tags", []),
+                "source": item.get("source", ""),
+            }
+            index.append(entry)
+
+    # Sort by category, then subcategory, then term
+    index.sort(key=lambda x: (x["category"], x["subcategory"], x["term"].lower()))
+    return index
+
+
+
+def build_template_index():
+    """Build a flat index of all templates."""
+    index = []
+    for fp in sorted(glob.glob("templates/*.json")):
+        if "_meta" in fp or "_legacy" in fp:
+            continue
+        data = safe_load_json(fp)
+        if isinstance(data, dict) and "variants" in data:
+            entry = {
+                "id": data.get("id", ""),
+                "name": data.get("name", ""),
+                "name_zh": data.get("name_zh", ""),
+                "description": data.get("description", ""),
+                "description_zh": data.get("description_zh", ""),
+                "category": data.get("category", ""),
+                "api_targets": data.get("api_targets", []),
+                "lifecycle": data.get("lifecycle"),
+                "score": data.get("score"),
+                "variants": [
+                    {
+                        "id": v.get("id", ""),
+                        "description": v.get("description", ""),
+                        "description_zh": v.get("description_zh", ""),
+                    }
+                    for v in data.get("variants", [])
+                ],
+            }
+            index.append(entry)
+    return index
+
+
+
+def build_workflow_index():
+    """Build a flat index of all workflows."""
+    index = []
+    meta_path = "workflows/_meta.json"
+    if not os.path.exists(meta_path):
+        print("⚠️ No workflows/_meta.json found, skipping workflow index")
+        return index
+
+    meta = safe_load_json(meta_path)
+    for wf_id in meta.get("workflows", []):
+        wf_file = f"workflows/{wf_id}.json"
+        if not os.path.exists(wf_file):
+            print(f"⚠️ {wf_file} not found, skipping")
+            continue
+        data = safe_load_json(wf_file)
+        entry = {
+            "id": data.get("id", ""),
+            "name": data.get("name", ""),
+            "name_zh": data.get("name_zh", ""),
+            "description": data.get("description", ""),
+            "description_zh": data.get("description_zh", ""),
+            "use_case": data.get("use_case", []),
+            "api_targets": data.get("api_targets", []),
+            "output_format": data.get("output_format", ""),
+            "steps": [
+                {
+                    "order": s.get("order"),
+                    "template_id": s.get("template_id", ""),
+                    "required": s.get("required", False),
+                    "description_zh": s.get("description_zh", ""),
+                }
+                for s in data.get("steps", [])
+            ],
+            "example_output": data.get("example_output", ""),
+            "version": data.get("version", ""),
+        }
+        index.append(entry)
+    return index
+
+
+
+def template_stats(templates):
+    if not templates:
+        print("No templates found.")
+        return
+    print(f"\n{'=' * 60}")
+    print("  PWS Template Statistics")
+    print(f"{'=' * 60}")
+    total = len(templates)
+    print(f"\n📊 Total templates: {total}")
+
+    zh_names = sum(1 for t in templates if t.get("name_zh"))
+    zh_desc = sum(1 for t in templates if t.get("description_zh"))
+    variants_total = sum(len(t.get("variants", [])) for t in templates)
+    variants_zh = sum(
+        1
+        for t in templates
+        for v in t.get("variants", [])
+        if v.get("description_zh")
+    )
+
+    print(f"  name_zh:       {zh_names}/{total} ({zh_names/total*100:.1f}%)")
+    print(f"  description_zh:{zh_desc}/{total} ({zh_desc/total*100:.1f}%)")
+    print(f"  Variants:      {variants_total} total, {variants_zh} with zh descriptions")
 #!/usr/bin/env python3
 """生成静态 API 文件（JSON）—— 供 GitHub Pages 部署后 HTTP 访问。"""
 import json
