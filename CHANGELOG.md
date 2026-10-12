@@ -310,6 +310,14 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/).
 - Updated README with correct version/category/keyword counts
 - Expanded translation dictionary: ~200 → 488 entries
 
+## [1.0.2] - 2026-10-12
+
+### Added
+- **P7**: 自动生成 workflow 模板 (21 个分类工作流)
+- workflows/ 目录: 包含各分类的关键词模板
+
+### Fixed
+- 修复 pws-translate.py 类型注解语法错误 (Python 3.9+)
 ## [1.0.1] - 2026-09-30
 - Expanded translation dictionary: ~200 → 488 entries, term_zh coverage 5.1% → 8.1% (+176 keywords)
 - Generated flat keyword index (data/pws_index.json) with 5,943 entries
@@ -324,7 +332,15 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/).
 - Added Chinese translation support (term_zh, aliases_zh, labels_zh) to keyword schema- Added deduplication tool (tools/pws-dedup.py) for duplicate detection- Added batch translation tool (tools/pws-translate.py) for Chinese field population## [1.0.4] - 2026-09-29
 - Added data_sources section to _meta.json - permanent record of all keyword sources- Updated individual keyword source/notes fields for traceability- No new keywords added, metadata only## [1.0.3] - 2026-09-29
 - Added 101 quality keywords (Danbooru-style boosters, rendering techniques, atmosphere, color, texture, composition)- Added 167 character keywords (Danbooru tags: hair/eye colors, expressions, clothing, accessories, poses, anatomy)- Added 72 scene keywords (nature, architecture, weather, time-of-day, environments)- Added 41 style keywords (art styles, anime genres, aesthetic movements, rendering techniques)## [1.0.2] - 2026-09-28
-- Added 3,494 MJ V5 keywords from 21 pages (willwulfken repo)- 17 new MJ V5 subcategories across 5 PWS categories## [1.0.1] - 2026-09-28
+- Added 3,494 MJ V5 keywords from 21 pages (willwulfken repo)- 17 new MJ V5 subcategories across 5 PWS categories## [1.0.2] - 2026-10-12
+
+### Added
+- **P7**: 自动生成 workflow 模板 (21 个分类工作流)
+- workflows/ 目录: 包含各分类的关键词模板
+
+### Fixed
+- 修复 pws-translate.py 类型注解语法错误 (Python 3.9+)
+## [1.0.1] - 2026-09-28
 - Added 1116 keywords from willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)- Fixed term formatting (underscore to space)- Added mj_* subcategories for MJ-specific keywords## [1.0.5] - 2026-09-29
 - Added 760 keywords from @nodaro/prompts (v1.27.0) — comprehensive prompt engineering catalog- 17 new categories: action-fx, aesthetic, atmosphere, camera-format, character-fx, color-look, era, framing, held-prop, lens, mood, pose, post-process, render-quality, style- Coverage expanded: environmental effects, character moods, historical eras, material presets, photographic equipment, camera framing, render engines, color grading, and more## [1.0.6] - 2026-09-29
 - Added 389 additional keywords from @nodaro/prompts batch 2- Added categories: backdrop (40), camera-motions (66), photographer (63), setting (51), wardrobe (70), temporal (18), transitions (81)- Total project keywords now: 5,948 across 34 categories

@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "schema_version": "pws-1.0",
   "total_keywords": 6256,
   "total_categories": 22,
@@ -16,7 +16,7 @@
   },
   "changelog": [
     {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "date": "2026-10-12",
       "changes": [
         "统一版本号到 1.0.1（小更新）",
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "version": "1.0.0",
+      "version": "1.0.2",
       "date": "2026-10-12",
       "changes": [
         "P0: 大规模 aliases 补全 — 三轮规则批量生成，en 覆盖 18% (1123条), zh 覆盖 11% (729条)",

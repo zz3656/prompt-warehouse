@@ -1,12 +1,6 @@
 {
-  "version": "1.0.0",
-  "total_workflows": 4,
-  "updated_at": "2026-10-11",
-  "workflows": [
-    "workflow.comic_panel_full",
-    "workflow.character_design",
-    "workflow.scene_design",
-    "workflow.video_storyboard"
-  ],
-  "description": "模板组合（workflow）索引"
+  "version": "1.0.2",
+  "generated_at": "2026-10-12",
+  "total_keywords": 6256,
+  "templates_count": 21
 }
