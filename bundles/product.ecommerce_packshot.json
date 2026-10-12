@@ -101,7 +101,16 @@
       "force_include": true
     }
   ],
-  "templates": [],
+  "templates": [
+    {
+      "template_id": "quality.standard",
+      "variant_id": "product_photography"
+    },
+    {
+      "template_id": "camera.shot_type",
+      "variant_id": "camera.shot_type.medium"
+    }
+  ],
   "prompt_text": "masterpiece, best quality, high quality, high resolution, detailed, 5K UHD, 4K UHD, 8K UHD, ultra-detailed, RAW photo, product photography, centered product, studio lighting, soft lighting, high key lighting, raytracing, sharp focus, clean edges",
   "prompt_text_zh": "杰作，最高质量，高质量，高分辨率，高细节，5K UHD，4K UHD，8K 超高清，超精细，RAW 摄影，产品展示图，居中产品，灯光摄影，柔和灯光，高关键照明，光线追踪，清晰聚焦，干净边缘",
   "example": {
@@ -127,5 +136,12 @@
   "notes": "This bundle is optimized for Amazon/Shopify compliant product images. Key differentiators: high key lighting (0.9) for pure white background, studio lighting (0.9) for even illumination. Rendering engines (Unreal, Blender Cycles, Octane) add 3D realism. Use guidance_scale 8-10 for best product detail adherence. No pure_white_background or no_shadow keywords exist in the keyword database.",
   "created_at": "2026-10-06T18:30:00+00:00",
   "updated_at": "2026-10-06T18:30:00+00:00",
-  "bundle_type": "keywords_only"
+  "bundle_type": "keywords_only",
+  "keyword_count": 17,
+  "keyword_categories": [
+    "composition",
+    "lighting",
+    "negative",
+    "quality"
+  ]
 }

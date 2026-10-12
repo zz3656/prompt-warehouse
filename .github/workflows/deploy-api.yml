@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'keywords/**'
+      - 'bundles/**'
       - 'workflows/**'
       - 'templates/**'
       - 'tools/generate-api.py'

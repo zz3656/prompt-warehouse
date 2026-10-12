@@ -7,6 +7,13 @@
 ### Added
 - docs/missing-source.json（38 条缺 source 清单）
 
+## v1.3.0 (2026-10-12)
+
+- 统一所有版本号到 1.3.0
+- 修复 keywords/_meta.json 版本从 1.0.0 → 1.3.0
+- 修复 docs/api/stats.json 版本更新
+- 生成 CHANGELOG 版本号条目
+
 ## [1.6.3] - 2026-10-11
 
 ### Fixed

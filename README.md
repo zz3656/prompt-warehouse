@@ -3,7 +3,7 @@
 **一个统一的、与语言无关的标准，用于跨项目组织、版本控制和共享 AI 生成提示词。**
 
 > **pws v1.0** | **简体中文** | [English](README_en.md)
-> **当前数据版本**: v1.2.0 (6,037 关键词 · 20 分类 · 167 子分类 · **100% term_zh 覆盖**)
+**当前数据版本**: v1.2.0 (6,282 关键词 · 22 分类 · 167 子分类 · **100% term_zh 覆盖**)
 >
 > **仓库地址**: https://github.com/zz3656/prompt-warehouse
 > **许可证**: MIT
@@ -45,7 +45,7 @@
 | 功能 | 说明 |
 |------|------|
 | **结构化关键词** | 每个关键词都是一个富对象，带有元数据——评分、优先级、生命周期、使用统计 |
-| **分类体系** | 20 个顶级分类及其嵌套子分类（质量、角色、服装、风格等） |
+|| **分类体系** | 22 个顶级分类及其嵌套子分类（质量、角色、服装、风格等） |
 | **模板引擎** | 类 Mustache 语法，支持条件（`{{#if}}`）、迭代（`{{#each}}`）和辅助函数 |
 | **项目配置** | 每个项目的 JSON 配置文件，可启用/禁用分类和模板 |
 | **快照系统** | 导出带有完整上下文的快照，用于追踪生成结果 |
@@ -61,7 +61,6 @@ prompt-warehouse/
 ├── schema/                     # JSON Schema 定义（机器可读）
 │   ├── keyword.schema.json     # 关键词数据结构
 │   ├── template.schema.json    # 模板数据结构
-│   └── project.schema.json     # 项目配置结构
 ├── keywords/                   # 关键词词典（"数据库"）
 │   ├── _meta.json              # 全局元数据 + 版本信息
 │   └── categories/             # 每个顶级分类一个文件
@@ -74,11 +73,8 @@ prompt-warehouse/
 │       ├── negative.json       # 负面提示词
 │       ├── scene.json          # 场景与环境
 │       └── panel.json          # 漫画分镜特效
-├── templates/                  # 提示词模板
-│   ├── _meta.json              # 模板元数据
-│   └── _legacy_all_templates.json  # 全部模板（原始数据）
 ├── bundles/                    # 配方包（Prompt Bundles）
-│   └── *.json                  # 12 个 bundle，每个含关键词列表 + 模板引用
+│   └── *.json                  # 17 个 bundle，每个含关键词列表 + 模板引用
 └── docs/standard.md                 # 完整标准文档
 ```
 
@@ -100,8 +96,6 @@ grep -r '"term": "blonde hair"' keywords/categories/character.json
 
 ### 2. 使用模板
 
-模板支持变量替换。`_legacy_all_templates.json` 文件包含所有模板的完整元数据：
-
 ```json
 // 角色参考描述模板
 {
@@ -111,14 +105,6 @@ grep -r '"term": "blonde hair"' keywords/categories/character.json
   "variables": ["gender", "age", "hair_color", "hair_style", "eye_color", "skin_tone"],
   "example_output": "girl 16 years old white long hair blue eyes fair skin"
 }
-```
-
-### 3. 配置项目
-
-编辑项目配置文件以启用/禁用分类和模板：
-
-```bash
-cat projects/h3-comic-builder.json
 ```
 
 ---
@@ -185,17 +171,6 @@ cat projects/h3-comic-builder.json
 | `variants` | array | ✅ | 变体列表，每个含 `id`, `description`, `description_zh`, `template` |
 | `examples` | array | | 使用示例 |
 
-### 项目配置字段说明
-
-| 字段 | 类型 | 说明 |
-|------|------|------|
-| `id` / `name` | string | 项目唯一标识符和名称 |
-| `project_type` | enum | `comic` / `video` / `game` / `web` / `text` / `music` / `general` |
-| `keywords.enabled_categories` | string[] | 启用的关键词分类 |
-| `templates.enabled` | string[] | 启用的模板 ID 列表 |
-| `settings.default_api` | string | 默认 AI 模型 |
-| `settings.max_prompt_length` | integer | 最大提示词长度 |
-
 ### 其他项目调用示例
 
 其他项目可以直接读取 `keywords/categories/` 下的 JSON 文件，每个关键词都包含 **中英双语字段**，方便跨语言检索：
@@ -233,29 +208,16 @@ cat projects/h3-comic-builder.json
 | 场景 | `scene` | 场景与环境 |
 | 分镜 | `panel` | 分镜特效 |
 | 动作特效 | `action-fx` | 动作与特效（灾害、火焰、战斗、魔法）— @nodaro/prompts |
-| 美学微趋势 | `aesthetic` | Y2K, dark academia, cottagecore 等 — @nodaro/prompts |
 | 大气效果 | `atmosphere` | 雾、雨、粒子、神光 — @nodaro/prompts |
-| 背景预设 | `backdrop` | 纯色、渐变、纹理背景 — @nodaro/prompts |
-| 画幅格式 | `camera-format` | IMAX、电影宽屏等 — @nodaro/prompts |
-| 镜头运动 | `camera-motions` | 推拉摇移跟 — @nodaro/prompts |
 | 角色特效 | `character-fx` | 狼人、吸血鬼、赛博格等 — @nodaro/prompts |
 | 色彩分级 | `color-look` | 暖色、冷色、胶片模拟 — @nodaro/prompts |
 | 历史时代 | `era` | 中世纪、维多利亚、赛博朋克等 — @nodaro/prompts |
-| 构图与景别 | `framing` | 特写、中景、全景 — @nodaro/prompts |
 | 手持道具 | `held-prop` | 武器与道具 — @nodaro/prompts |
-| 镜头与焦距 | `lens` | 14mm-400mm — @nodaro/prompts |
 | 材质预设 | `material` | 织物、金属、石材、木材 — @nodaro/prompts |
-| 角色情绪 | `mood` | 喜怒哀乐等情绪 — @nodaro/prompts |
-| 摄影类型 | `photo-genre` | 时尚、纪实、证件照等 — @nodaro/prompts |
 | 摄影师风格 | `photographer` | Ansel Adams, Annie Leibovitz 等 — @nodaro/prompts |
-| 姿态手势 | `pose` | 站姿、坐姿、行走等 — @nodaro/prompts |
-| 后期特效 | `post-process` | 暗角、胶片颗粒、色散等 — @nodaro/prompts |
-| 渲染引擎 | `render-quality` | Unreal 5, Octane, Cycles 等 — @nodaro/prompts |
-| 场景环境 | `setting` | 室内、城市、自然、奇幻 — @nodaro/prompts |
-| 艺术风格 | `style` | 3D 渲染、动漫、水彩等 — @nodaro/prompts |
+| 镜头语言 | `shot-language` | 景别、角度、镜头运动、覆盖范围 — @nodaro/prompts |
 | 时间效果 | `temporal` | 慢动作、快速、时间冻结 — @nodaro/prompts |
 | 转场效果 | `transitions` | 溶解、缩放、滑动 — @nodaro/prompts |
-| 服装搭配 | `wardrobe` | 服装搭配方案 — @nodaro/prompts |
 
 ### 子分类亮点
 
@@ -394,7 +356,7 @@ girl 16 years old white long twin tails hair blue almond eyes fair skin, red rib
 
 每个 `_meta.json` 都跟踪版本、结构版本和变更日志。
 
-当前版本：**v1.2.0** — 20 个分类共 6,037 个关键词（**全部** 6,037 个有中文翻译，**100%** 覆盖）。
+当前版本：**v1.2.0** — 22 个分类共 6,282 个关键词（**全部** 6,282 个有中文翻译，**100%** 覆盖)。
 
 ### 新增功能
 
@@ -483,7 +445,7 @@ PWS 提供 bundles 的 REST API，供 PanelCraft 读写配方包。详见 `docs/
 | **阶段一：结构定义** | ✅ 完成 | 定义了 3 个 JSON 结构并验证 |
 | **阶段二：数据迁移** | ✅ 完成 | 从 h3-comic-builder + MJ 参考迁移了 6,015 个关键词 |
 | **阶段三：工具开发** | ✅ 完成 | 13+ CLI 工具（索引、审计、翻译、去重、Bundle 管理等） |
-| **阶段四：共享发布** | ✅ 完成 | 远程同步、配方包系统（12 bundles）、模板市场基础 |
+| **阶段四：共享发布** | ✅ 完成 | 远程同步、配方包系统（17 bundles）、模板市场基础 |
 
 ---
 
@@ -521,7 +483,7 @@ MIT 许可证 — 详见 [docs/standard.md](docs/standard.md)。
 - **创建配方包**: [docs/adding-bundles.md](docs/adding-bundles.md)
 - **元数据**: [keywords/_meta.json](keywords/_meta.json)
 - **数据来源**: 见下文
-- **当前统计**: 6,037 个关键词 · 20 个分类 · 15 个模板 · 10 个配方包
+|- **当前统计**: 6,282 个关键词 · 22 个分类 · 15 个模板 · 17 个配方包
 
 ## 📥 数据来源（永久记录）
 

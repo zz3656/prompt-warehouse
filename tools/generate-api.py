@@ -197,6 +197,60 @@ def generate_workflows():
     print(f"✅ workflows.json: {len(workflows)} workflows")
 
 
+def generate_bundles():
+    """生成 bundles API: 列表 + 单个 bundle。
+
+    PanelCraft 通过以下端点读写 bundles：
+      GET /api/bundles.json          — 列表（id/name/name_zh/keyword_count）
+      GET /api/bundle_{safe_id}.json — 单个 bundle 完整内容（对应 bundles/:id）
+    PUT/POST/DELETE 需要后端支持，静态 API 仅支持读取。
+    """
+    bundles_dir = REPO / "bundles"
+    if not bundles_dir.exists():
+        print("⚠️  bundles/ directory not found, skipping")
+        return
+
+    all_bundles = []
+    for f in sorted(glob.glob(str(bundles_dir / "*.json"))):
+        try:
+            b = json.load(open(f, encoding="utf-8"))
+            all_bundles.append(b)
+        except Exception:
+            pass
+
+    # 列表端点
+    bundle_list = {
+        "version": "1.0",
+        "total": len(all_bundles),
+        "bundles": [
+            {
+                "id": b.get("id"),
+                "name": b.get("name"),
+                "name_zh": b.get("name_zh"),
+                "description": b.get("description", "")[:200],
+                "description_zh": b.get("description_zh", "")[:200],
+                "category": b.get("category"),
+                "keyword_count": len(b.get("keywords", [])),
+                "template_count": len(b.get("templates", [])),
+                "api_targets": b.get("api_targets", []),
+                "bundle_type": b.get("bundle_type"),
+            }
+            for b in all_bundles
+        ]
+    }
+
+    with open(API_DIR / "bundles.json", "w", encoding="utf-8") as f:
+        json.dump(bundle_list, f, ensure_ascii=False, indent=2)
+    print(f"✅ bundles.json: {len(all_bundles)} bundles")
+
+    # 单个 bundle 端点（PanelCraft GET /api/bundles/:id → 文件模拟）
+    for b in all_bundles:
+        bid = b.get("id", "unknown")
+        safe_id = bid.replace(".", "_").replace("-", "_")
+        with open(API_DIR / f"bundle_{safe_id}.json", "w", encoding="utf-8") as f:
+            json.dump(b, f, ensure_ascii=False, indent=2)
+
+
 def generate_index_json():
     """API 索引（入口）"""
     index = {
@@ -207,6 +261,8 @@ def generate_index_json():
             "stats": "api/stats.json",
             "categories": "api/categories.json",
             "workflows": "api/workflows.json",
+            "bundles": "api/bundles.json",
+            "bundle_detail": "api/bundle_{id}.json (replace {id} with bundle id)",
             "keywords": "https://cdn.jsdelivr.net/gh/zz3656/prompt-warehouse@main/keywords/",
             "templates": "https://cdn.jsdelivr.net/gh/zz3656/prompt-warehouse@main/templates/"
         },
@@ -219,11 +275,45 @@ def generate_index_json():
     print("✅ index.json: API 入口")
 
 
+def update_stats_with_bundles():
+    """在 stats.json 中补充 total_bundles 和 total_templates。"""
+    stats_path = API_DIR / "stats.json"
+    if not stats_path.exists():
+        return
+
+    stats = json.load(open(stats_path, encoding="utf-8"))
+
+    # bundles 计数
+    bundles_dir = REPO / "bundles"
+    if bundles_dir.exists():
+        stats["total_bundles"] = len(list(glob.glob(str(bundles_dir / "*.json"))))
+    else:
+        stats["total_bundles"] = 0
+
+    # templates 计数（排除 _meta 和 _legacy）
+    tpl_dir = REPO / "templates"
+    if tpl_dir.exists():
+        stats["total_templates"] = len([
+            f for f in glob.glob(str(tpl_dir / "*.json"))
+            if "_meta" not in f and "_legacy" not in f
+        ])
+    else:
+        stats["total_templates"] = 0
+
+    with open(stats_path, "w", encoding="utf-8") as f:
+        json.dump(stats, f, ensure_ascii=False, indent=2)
+
+    print(f"✅ stats.json updated: total_bundles={stats.get('total_bundles')}, "
+          f"total_templates={stats.get('total_templates')}")
+
+
 def main():
     generate_stats()
+    update_stats_with_bundles()  # P1: stats 补充 bundles/templates 统计
     generate_categories()
     generate_workflows()
-    generate_index_json()
+    generate_bundles()           # P0: 新增 bundles API 生成
+    generate_index_json()        # P0: index 添加 bundles 端点
     print("\n✅ API 生成完成")
 
 

@@ -1,6 +1,6 @@
 # 提示词仓库标准规范
 
-> **pws v1.0** — 提示词仓库标准
+> **pws v1.0.0** — 提示词仓库标准
 >
 > 一个统一的、与语言无关的标准，用于跨项目组织、版本控制和共享 AI 生成提示词。为漫画/手绘提示词生成而设计，适用于任何 AI 创意工具（图像、视频、文本、音乐）。
 >
@@ -36,8 +36,7 @@
 | `keyword` | 带有元数据的结构化标签（分类、子分类、标签、评分） |
 | `template` | 带有变量占位符的可复用提示词模板 |
 | `prompt` | 具体的提示词实例（模板渲染后的值） |
-| `project` | 引用关键词和模板的应用级配置 |
-| `snapshot` | 导出的提示词输出，包含使用上下文和结果 |
+|| `prompt` | 具体的提示词实例（模板渲染后的值） |
 
 ---
 
@@ -48,7 +47,6 @@ prompt-warehouse/
 ├── schema/                     # JSON Schema 定义（机器可读）
 │   ├── keyword.schema.json
 │   ├── template.schema.json
-│   └── project.schema.json
 ├── keywords/                   # 关键词词典（"数据库"）
 │   ├── _meta.json              # 全局元数据 + 版本信息
 │   └── categories/             # 每个顶级分类一个文件
@@ -61,13 +59,6 @@ prompt-warehouse/
 │       ├── negative.json
 │       ├── scene.json
 │       └── panel.json
-├── templates/                  # 提示词模板
-│   ├── _meta.json
-│   ├── _legacy_all_templates.json
-│   ├── h3_video_prompts.json
-│   ├── llm_system_prompts.json
-│   ├── new_keyword_template.json
-│   └── text_negative_patterns.json
 ├── bundles/                    # 配方包（10 bundles）
 │   ├── character.animesque_portrait.json
 │   ├── character.cosplay_portrait.json
@@ -79,10 +70,6 @@ prompt-warehouse/
 │   ├── product.ecommerce_packshot.json
 │   ├── product.packaging_mockup.json
 │   └── scene.fantasy_landscape.json
-├── projects/                   # 项目配置
-│   └── h3-comic-builder.json
-├── snapshots/                  # 导出快照
-│   └── YYYY/MM/
 └── README.md                # 本文件
 ```
 
@@ -99,14 +86,11 @@ prompt-warehouse/
   "id": "qc_blonde_hair",
   "term": "blonde hair",
   "term_zh": "金发",
-  "aliases": ["yellow hair", "golden hair"],
   "category": "character",
   "subcategory": "hairColors",
   "labels": ["hair", "color", "blonde", "platinum"],
   "score": 0.95,
-  "priority": "high",
   "lifecycle": "approved",
-  "tags": ["frequently-used", "anime"],
   "created_at": "2025-01-15T10:00:00Z",
   "updated_at": "2025-06-20T14:30:00Z",
   "source": "prompt-engineering-wiki",
@@ -127,14 +111,11 @@ prompt-warehouse/
 | `id` | string | ✅ | 唯一标识符。格式：`{category}_{subcategory}_{slug}` |
 | `term` | string | ✅ | 标准提示词（英文） |
 | `term_zh` | string | | 中文翻译 |
-| `aliases` | string[] | | 替代术语（非英文、口语化） |
 | `category` | string | ✅ | 顶级分类（参见分类体系） |
 | `subcategory` | string | ✅ | 分类内的子分类 |
 | `labels` | string[] | | 扁平搜索标签（自动索引） |
 | `score` | number | | 质量评分 0-1（默认：0.5） |
-| `priority` | enum | | `high` / `medium` / `low` / `experimental` |
 | `lifecycle` | enum | | `draft` / `review` / `approved` / `deprecated` / `archived` |
-| `tags` | string[] | | 用户定义的标签，用于跨切面关注点 |
 | `created_at` | iso-date | | ISO 8601 时间戳 |
 | `updated_at` | iso-date | | ISO 8601 时间戳 |
 | `source` | string | | 关键词来源（来源归属） |
@@ -636,7 +617,7 @@ DELETE /api/snapshots/:id          删除快照
 {
   "id": "qc_graceful_lighting",
   "term": "beautiful lighting",
-  "term_zh": "美丽的光线",
+  "name_zh": "美丽的光线",
   "labels": ["lighting", "glow", "illumination"],
   "labels_zh": ["灯光", "光影", "光线", "美丽"],
   "labels_ja": ["照明", "光", "影", "美しい"],
@@ -677,28 +658,24 @@ var QUALITY = {
   {
     "id": "qc_basic_masterpiece",
     "term": "masterpiece",
-    "term_zh": "杰作",
+    "name_zh": "杰作",
     "category": "quality",
     "subcategory": "basic",
     "labels": ["quality", "booster", "masterpiece"],
     "score": 0.99,
-    "priority": "high",
     "lifecycle": "approved",
-    "tags": ["frequently-used", "universal"],
     "usage_count": 45230,
     "success_rate": 0.94
   },
   {
     "id": "qc_basic_best_quality",
     "term": "best quality",
-    "term_zh": "最高质量",
+    "name_zh": "最高质量",
     "category": "quality",
     "subcategory": "basic",
     "labels": ["quality", "booster", "best"],
     "score": 0.99,
-    "priority": "high",
     "lifecycle": "approved",
-    "tags": ["frequently-used", "universal"],
     "usage_count": 43180,
     "success_rate": 0.93
   },
@@ -718,7 +695,7 @@ var QUALITY = {
 ### 阶段二：迁移
 - [x] 创建从 `.js` 文件到 JSON 的迁移脚本
 - [x] 在 h3-comic-builder 数据上运行迁移（6,015 关键词）
-- [x] 验证所有 6,015 个关键词都已保留
+- [x] 验证所有 6,256 个关键词都已保留
 - [x] 更新管理后台以提供 JSON 而非解析 `.js` 文件
 
 ### 阶段三：工具开发
@@ -740,32 +717,30 @@ var QUALITY = {
 
 ## 附录 A：分类参考
 
-> v1.1.0 更新：从 9 个核心分类扩展为 20 个独立分类文件（详情见 docs/CATEGORY_CONSOLIDATION.md）。
+> v1.0.0 更新：当前 22 个独立分类文件（含 bundles API）（详情见 docs/CATEGORY_CONSOLIDATION.md）。
 
 | # | 分类 | Slug | 文件 | 默认评分 | 生命周期 |
 |---|------|------|------|----------|----------|
-| 1 | 质量 | `quality` | `quality.json` | 0.85 | approved |
-| 2 | 构图 | `composition` | `composition.json` | 0.75 | approved |
-| 3 | 灯光 | `lighting` | `lighting.json` | 0.80 | approved |
-| 4 | 角色 | `character` | `character.json` | 0.70 | approved |
-| 5 | 服装 | `clothing` | `clothing.json` | 0.65 | approved |
-| 6 | 风格 | `styles` | `styles.json` | 0.75 | approved |
-| 7 | 负面 | `negative` | `negative.json` | 0.90 | approved |
-| 8 | 场景 | `scene` | `scene.json` | 0.60 | approved |
-| 9 | 分镜 | `panel` | `panel.json` | 0.65 | approved |
-| 10 | 色彩 | `color-look` | `color-look.json` | 0.70 | approved |
-| 11 | 摄影师 | `photographer` | `photographer.json` | 0.65 | approved |
-| 12 | 材质 | `material` | `material.json` | 0.60 | approved |
-| 13 | 渲染质量 | `render-quality` | `render-quality.json` | 0.70 | approved |
-| 14 | 动作特效 | `action-fx` | `action-fx.json` | 0.70 | approved |
-| 15 | 角色特效 | `character-fx` | `character-fx.json` | 0.70 | approved |
-| 16 | 手持道具 | `held-prop` | `held-prop.json` | 0.60 | approved |
-| 17 | 时代 | `era` | `era.json` | 0.65 | approved |
-| 18 | 构图（高级） | `framing` | `framing.json` | 0.70 | approved |
-| 19 | 时间效果 | `temporal` | `temporal.json` | 0.65 | approved |
-| 20 | 转场效果 | `transitions` | `transitions.json` | 0.65 | approved |
-| 21 | 镜头语言 | `shot-language` | `shot-language.json` | 0.65 | approved |
-| 22 | 氛围效果 | `atmosphere` | `atmosphere.json` | 0.65 | approved |
+|| 1 | 质量 | `quality` | `quality.json` | 0.85 | approved |
+|| 2 | 构图 | `composition` | `composition.json` | 0.75 | approved |
+|| 3 | 灯光 | `lighting` | `lighting.json` | 0.80 | approved |
+|| 4 | 角色 | `character` | `character.json` | 0.70 | approved |
+|| 5 | 服装 | `clothing` | `clothing.json` | 0.65 | approved |
+|| 6 | 风格 | `styles` | `styles.json` | 0.75 | approved |
+|| 7 | 负面 | `negative` | `negative.json` | 0.90 | approved |
+|| 8 | 场景 | `scene` | `scene.json` | 0.60 | approved |
+|| 9 | 分镜 | `panel` | `panel.json` | 0.65 | approved |
+|| 10 | 动作特效 | `action-fx` | `action-fx.json` | 0.70 | approved |
+|| 11 | 大气效果 | `atmosphere` | `atmosphere.json` | 0.65 | approved |
+|| 12 | 角色特效 | `character-fx` | `character-fx.json` | 0.70 | approved |
+|| 13 | 色彩分级 | `color-look` | `color-look.json` | 0.70 | approved |
+|| 14 | 历史时代 | `era` | `era.json` | 0.65 | approved |
+|| 15 | 手持道具 | `held-prop` | `held-prop.json` | 0.60 | approved |
+|| 16 | 材质 | `material` | `material.json` | 0.60 | approved |
+|| 17 | 摄影师风格 | `photographer` | `photographer.json` | 0.65 | approved |
+|| 18 | 镜头语言 | `shot-language` | `shot-language.json` | 0.65 | approved |
+|| 19 | 时间效果 | `temporal` | `temporal.json` | 0.65 | approved |
+|| 20 | 转场效果 | `transitions` | `transitions.json` | 0.65 | approved |
 
 ## 附录 B：评分解读
 
@@ -846,6 +821,7 @@ curl https://zz3656.github.io/prompt-warehouse/api/stats.json | jq .relation
 ---
 
 *← [English](standard_en.md)*
+*最后更新：v1.0.0 · 提示词仓库标准*
 
 
 

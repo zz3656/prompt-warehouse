@@ -6,22 +6,18 @@
     "subcategory": "panellayout",
     "labels": [
       "panelLayout",
-      "single"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "single",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "单格分镜",
     "labels_zh": [
       "分镜",
       "分镜布局",
@@ -29,9 +25,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "单格分镜"
   },
   {
     "id": "panel_panellayout_close_up_shot",
@@ -40,22 +41,18 @@
     "subcategory": "panellayout",
     "labels": [
       "panelLayout",
-      "close-up"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "close-up",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "特写镜头",
     "labels_zh": [
       "分镜",
       "分镜布局",
@@ -63,11 +60,24 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
     "relation_group": "close-up shot",
     "relation_role": "variant",
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "特写镜头",
+    "aliases": [
+      "close up shot",
+      "closeup"
+    ],
+    "aliases_zh": [
+      "特写镜头",
+      "近景"
+    ]
   },
   {
     "id": "panel_panellayout_wide_establishing_shot",
@@ -76,31 +86,32 @@
     "subcategory": "panellayout",
     "labels": [
       "panelLayout",
-      "wide"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "wide",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "全景开场镜头",
     "labels_zh": [
       "分镜",
       "分镜布局"
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.785,
+    "score_v2": 0.785,
+    "term_zh": "全景开场镜头"
   },
   {
     "id": "panel_panellayout_medium_shot",
@@ -109,34 +120,38 @@
     "subcategory": "panellayout",
     "labels": [
       "panelLayout",
-      "medium"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "medium",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "中景",
     "labels_zh": [
+      "中景",
       "分镜",
-      "分镜布局",
-      "中景"
+      "分镜布局"
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
     "relation_group": "medium shot",
     "relation_role": "variant",
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "中景",
+    "aliases_zh": [
+      "中景镜头"
+    ]
   },
   {
     "id": "panel_panellayout_reaction_shot",
@@ -145,22 +160,18 @@
     "subcategory": "panellayout",
     "labels": [
       "panelLayout",
-      "reaction"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "reaction",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "反应镜头",
     "labels_zh": [
       "分镜",
       "分镜布局",
@@ -168,9 +179,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "反应镜头"
   },
   {
     "id": "panel_panellayout_two_shot",
@@ -179,22 +195,18 @@
     "subcategory": "panellayout",
     "labels": [
       "panelLayout",
-      "two-shot"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "two-shot",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "双人镜头",
     "labels_zh": [
       "分镜",
       "分镜布局",
@@ -202,11 +214,16 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
     "relation_group": "two-shot",
     "relation_role": "canonical",
-    "weight": 0.7
+    "weight": 0.625,
+    "score_v2": 0.625,
+    "term_zh": "双人镜头"
   },
   {
     "id": "panel_panellayout_over_the_shoulder_shot",
@@ -215,22 +232,18 @@
     "subcategory": "panellayout",
     "labels": [
       "panelLayout",
-      "over"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "over",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "过肩镜头",
     "labels_zh": [
       "分镜",
       "分镜布局",
@@ -238,11 +251,16 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
     "relation_group": "over the shoulder shot",
     "relation_role": "variant",
-    "weight": 0.7
+    "weight": 0.825,
+    "score_v2": 0.825,
+    "term_zh": "过肩镜头"
   },
   {
     "id": "panel_panellayout_point_of_view_shot",
@@ -251,22 +269,18 @@
     "subcategory": "panellayout",
     "labels": [
       "panelLayout",
-      "point"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "point",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "视角",
     "labels_zh": [
       "分镜",
       "分镜布局",
@@ -274,11 +288,16 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
     "relation_group": "point of view shot",
     "relation_role": "variant",
-    "weight": 0.7
+    "weight": 0.825,
+    "score_v2": 0.825,
+    "term_zh": "视角"
   },
   {
     "id": "panel_panellayout_pov_shot",
@@ -287,33 +306,34 @@
     "subcategory": "panellayout",
     "labels": [
       "panelLayout",
-      "POV"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "POV",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "POV 镜头",
     "labels_zh": [
+      "POV",
       "分镜",
       "分镜布局",
-      "POV",
       "镜头"
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "POV 镜头"
   },
   {
     "id": "panel_panellayout_dutch_angle",
@@ -322,22 +342,18 @@
     "subcategory": "panellayout",
     "labels": [
       "panelLayout",
-      "dutch"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "dutch",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "荷兰角",
     "labels_zh": [
       "分镜",
       "分镜布局",
@@ -345,11 +361,20 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
     "relation_group": "dutch angle",
     "relation_role": "canonical",
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "荷兰角",
+    "aliases": [
+      "canted frame",
+      "tilted composition"
+    ]
   },
   {
     "id": "panel_panellayout_dynamic_angle",
@@ -358,22 +383,18 @@
     "subcategory": "panellayout",
     "labels": [
       "panelLayout",
-      "dynamic"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "dynamic",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "动态角度",
     "labels_zh": [
       "分镜",
       "分镜布局",
@@ -381,11 +402,16 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
     "relation_group": "dynamic angle",
     "relation_role": "variant",
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "动态角度"
   },
   {
     "id": "panel_panellayout_dramatic_angle",
@@ -394,22 +420,18 @@
     "subcategory": "panellayout",
     "labels": [
       "panelLayout",
-      "dramatic"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "dramatic",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "戏剧角度",
     "labels_zh": [
       "分镜",
       "分镜布局",
@@ -417,11 +439,19 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
     "relation_group": "dramatic angle",
     "relation_role": "variant",
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "戏剧角度",
+    "aliases": [
+      "dramatic lighting"
+    ]
   },
   {
     "id": "panel_panellayout_split_screen",
@@ -430,32 +460,33 @@
     "subcategory": "panellayout",
     "labels": [
       "panelLayout",
-      "split"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "split",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "分屏",
     "labels_zh": [
+      "分屏",
       "分镜",
-      "分镜布局",
-      "分屏"
+      "分镜布局"
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "分屏"
   },
   {
     "id": "panel_panellayout_double_page_spread",
@@ -464,22 +495,18 @@
     "subcategory": "panellayout",
     "labels": [
       "panelLayout",
-      "double"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "double",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "跨页",
     "labels_zh": [
       "分镜",
       "分镜布局",
@@ -487,9 +514,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.785,
+    "score_v2": 0.785,
+    "term_zh": "跨页"
   },
   {
     "id": "panel_panellayout_splash_page",
@@ -498,22 +530,18 @@
     "subcategory": "panellayout",
     "labels": [
       "panelLayout",
-      "splash"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "splash",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "整页",
     "labels_zh": [
       "分镜",
       "分镜布局",
@@ -521,9 +549,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "整页"
   },
   {
     "id": "panel_comiceffects_speed_lines",
@@ -532,22 +565,18 @@
     "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
-      "speed"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "speed",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "速度线",
     "labels_zh": [
       "分镜",
       "漫画特效",
@@ -555,9 +584,17 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "速度线",
+    "aliases": [
+      "dynamic motion lines"
+    ]
   },
   {
     "id": "panel_comiceffects_action_lines",
@@ -566,32 +603,33 @@
     "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
-      "action"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "action",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "动作线",
     "labels_zh": [
       "分镜",
-      "漫画特效",
-      "动作线"
+      "动作线",
+      "漫画特效"
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "动作线"
   },
   {
     "id": "panel_comiceffects_impact_lines",
@@ -600,32 +638,33 @@
     "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
-      "impact"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "impact",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "冲击线",
     "labels_zh": [
+      "冲击线",
       "分镜",
-      "漫画特效",
-      "冲击线"
+      "漫画特效"
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "冲击线"
   },
   {
     "id": "panel_comiceffects_concentric_lines",
@@ -634,32 +673,33 @@
     "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
-      "concentric"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "concentric",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "同心线",
     "labels_zh": [
       "分镜",
-      "漫画特效",
-      "同心线"
+      "同心线",
+      "漫画特效"
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "同心线"
   },
   {
     "id": "panel_comiceffects_emphasis_lines",
@@ -668,32 +708,33 @@
     "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
-      "emphasis"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "emphasis",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "强调线",
     "labels_zh": [
       "分镜",
-      "漫画特效",
-      "强调线"
+      "强调线",
+      "漫画特效"
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "强调线"
   },
   {
     "id": "panel_comiceffects_screentone",
@@ -702,22 +743,18 @@
     "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
-      "screentone"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "screentone",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "网点",
     "labels_zh": [
       "分镜",
       "漫画特效",
@@ -725,9 +762,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.625,
+    "score_v2": 0.625,
+    "term_zh": "网点"
   },
   {
     "id": "panel_comiceffects_halftone",
@@ -736,34 +778,35 @@
     "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
-      "halftone"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "halftone",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "半色调",
     "labels_zh": [
       "分镜",
-      "漫画特效",
-      "半色调"
+      "半色调",
+      "漫画特效"
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
     "relation_group": "halftone",
     "relation_role": "canonical",
-    "weight": 0.7
+    "weight": 0.625,
+    "score_v2": 0.625,
+    "term_zh": "半色调"
   },
   {
     "id": "panel_comiceffects_stippling",
@@ -772,22 +815,18 @@
     "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
-      "stippling"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "stippling",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "点画",
     "labels_zh": [
       "分镜",
       "漫画特效",
@@ -795,9 +834,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.625,
+    "score_v2": 0.625,
+    "term_zh": "点画"
   },
   {
     "id": "panel_comiceffects_comic_effect",
@@ -806,32 +850,33 @@
     "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
-      "comic"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "comic",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "漫画效果",
     "labels_zh": [
       "分镜",
-      "漫画特效",
-      "漫画效果"
+      "漫画效果",
+      "漫画特效"
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "漫画效果"
   },
   {
     "id": "panel_comiceffects_visual_effect",
@@ -840,22 +885,18 @@
     "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
-      "visual"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "visual",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "视觉效果",
     "labels_zh": [
       "分镜",
       "漫画特效",
@@ -863,9 +904,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "视觉效果"
   },
   {
     "id": "panel_comiceffects_sound_effect_text",
@@ -874,22 +920,18 @@
     "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
-      "sound"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "sound",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "音效文字",
     "labels_zh": [
       "分镜",
       "漫画特效",
@@ -897,9 +939,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.785,
+    "score_v2": 0.785,
+    "term_zh": "音效文字"
   },
   {
     "id": "panel_comiceffects_onomatopoeia",
@@ -908,32 +955,33 @@
     "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
-      "onomatopoeia"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "onomatopoeia",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "拟声词",
     "labels_zh": [
       "分镜",
-      "漫画特效",
-      "拟声词"
+      "拟声词",
+      "漫画特效"
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.625,
+    "score_v2": 0.625,
+    "term_zh": "拟声词"
   },
   {
     "id": "panel_comiceffects_thought_bubble",
@@ -942,32 +990,33 @@
     "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
-      "thought"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "thought",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "思维气泡",
     "labels_zh": [
       "分镜",
-      "漫画特效",
-      "思维气泡"
+      "思维气泡",
+      "漫画特效"
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "思维气泡"
   },
   {
     "id": "panel_comiceffects_speech_balloon",
@@ -976,32 +1025,33 @@
     "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
-      "speech"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "speech",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "对话气泡",
     "labels_zh": [
       "分镜",
-      "漫画特效",
-      "对话气泡"
+      "对话气泡",
+      "漫画特效"
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "对话气泡"
   },
   {
     "id": "panel_comiceffects_manga_panel_border",
@@ -1010,31 +1060,32 @@
     "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
-      "manga"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "manga",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "漫画panel边框",
     "labels_zh": [
       "分镜",
       "漫画特效"
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.785,
+    "score_v2": 0.785,
+    "term_zh": "漫画panel边框"
   },
   {
     "id": "panel_comiceffects_manga_panel",
@@ -1043,22 +1094,18 @@
     "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
-      "manga"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "manga",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "漫画页",
     "labels_zh": [
       "分镜",
       "漫画特效",
@@ -1066,9 +1113,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "漫画页"
   },
   {
     "id": "panel_comiceffects_focus_line",
@@ -1077,22 +1129,18 @@
     "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
-      "focus"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "focus",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "聚焦线",
     "labels_zh": [
       "分镜",
       "漫画特效",
@@ -1100,9 +1148,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "聚焦线"
   },
   {
     "id": "panel_comiceffects_radial_lines",
@@ -1111,32 +1164,33 @@
     "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
-      "radial"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "radial",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "放射线",
     "labels_zh": [
       "分镜",
-      "漫画特效",
-      "放射线"
+      "放射线",
+      "漫画特效"
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "放射线"
   },
   {
     "id": "panel_comiceffects_flash_background",
@@ -1145,22 +1199,18 @@
     "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
-      "flash"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "flash",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "闪光背景",
     "labels_zh": [
       "分镜",
       "漫画特效",
@@ -1168,9 +1218,17 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "闪光背景",
+    "aliases_zh": [
+      "金属光泽表面"
+    ]
   },
   {
     "id": "panel_comiceffects_abstract_background",
@@ -1179,32 +1237,33 @@
     "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
-      "abstract"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "abstract",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "抽象背景",
     "labels_zh": [
       "分镜",
-      "漫画特效",
-      "抽象背景"
+      "抽象背景",
+      "漫画特效"
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "抽象背景"
   },
   {
     "id": "panel_comiceffects_narration_box",
@@ -1213,32 +1272,33 @@
     "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
-      "narration"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "narration",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "叙述框",
     "labels_zh": [
       "分镜",
-      "漫画特效",
-      "叙述框"
+      "叙述框",
+      "漫画特效"
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "叙述框"
   },
   {
     "id": "panel_comiceffects_chapter_title",
@@ -1247,22 +1307,18 @@
     "subcategory": "comiceffects",
     "labels": [
       "comicEffects",
-      "chapter"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "chapter",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "章节标题",
     "labels_zh": [
       "分镜",
       "漫画特效",
@@ -1270,9 +1326,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "章节标题"
   },
   {
     "id": "panel_animation_key_frame",
@@ -1281,22 +1342,18 @@
     "subcategory": "animation",
     "labels": [
       "animation",
-      "key"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "key",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "钥匙画框",
     "labels_zh": [
       "分镜",
       "动画",
@@ -1304,9 +1361,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "钥匙画框"
   },
   {
     "id": "panel_animation_animation_cel",
@@ -1315,31 +1377,35 @@
     "subcategory": "animation",
     "labels": [
       "animation",
-      "animation"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "动画赛璐珞",
     "labels_zh": [
       "分镜",
       "动画"
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "动画赛璐珞",
+    "aliases": [
+      "animated sequence",
+      "motion graphics"
+    ]
   },
   {
     "id": "panel_animation_animation_test",
@@ -1348,22 +1414,17 @@
     "subcategory": "animation",
     "labels": [
       "animation",
-      "animation"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "动画测试",
     "labels_zh": [
       "分镜",
       "动画",
@@ -1371,9 +1432,18 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "动画测试",
+    "aliases": [
+      "animated sequence",
+      "motion graphics"
+    ]
   },
   {
     "id": "panel_animation_in_between_frame",
@@ -1382,32 +1452,33 @@
     "subcategory": "animation",
     "labels": [
       "animation",
-      "in-between"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "in-between",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "中间帧",
     "labels_zh": [
+      "中间帧",
       "分镜",
-      "动画",
-      "中间帧"
+      "动画"
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "中间帧"
   },
   {
     "id": "panel_animation_smear_frame",
@@ -1416,22 +1487,18 @@
     "subcategory": "animation",
     "labels": [
       "animation",
-      "smear"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "smear",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "拖影帧",
     "labels_zh": [
       "分镜",
       "动画",
@@ -1439,9 +1506,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "拖影帧"
   },
   {
     "id": "panel_animation_motion_blur",
@@ -1450,34 +1522,39 @@
     "subcategory": "animation",
     "labels": [
       "animation",
-      "motion"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "motion",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "动态模糊",
     "labels_zh": [
       "分镜",
-      "动画",
-      "动态模糊"
+      "动态模糊",
+      "动画"
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
     "relation_group": "motion blur",
     "relation_role": "variant",
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "动态模糊",
+    "aliases": [
+      "moving blur",
+      "speed blur"
+    ]
   },
   {
     "id": "panel_animation_squash_and_stretch",
@@ -1486,22 +1563,18 @@
     "subcategory": "animation",
     "labels": [
       "animation",
-      "squash"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "squash",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "挤压拉伸",
     "labels_zh": [
       "分镜",
       "动画",
@@ -1509,9 +1582,17 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.785,
+    "score_v2": 0.785,
+    "term_zh": "挤压拉伸",
+    "aliases": [
+      "elastic squash and stretch animation"
+    ]
   },
   {
     "id": "panel_animation_follow_through",
@@ -1520,22 +1601,18 @@
     "subcategory": "animation",
     "labels": [
       "animation",
-      "follow"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "follow",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "跟随动作",
     "labels_zh": [
       "分镜",
       "动画",
@@ -1543,9 +1620,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "跟随动作"
   },
   {
     "id": "panel_animation_overlap",
@@ -1554,22 +1636,18 @@
     "subcategory": "animation",
     "labels": [
       "animation",
-      "overlap"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "overlap",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "重叠",
     "labels_zh": [
       "分镜",
       "动画",
@@ -1577,9 +1655,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.625,
+    "score_v2": 0.625,
+    "term_zh": "重叠"
   },
   {
     "id": "panel_animation_anticipation_pose",
@@ -1588,22 +1671,18 @@
     "subcategory": "animation",
     "labels": [
       "animation",
-      "anticipation"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "anticipation",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "预备姿势",
     "labels_zh": [
       "分镜",
       "动画",
@@ -1611,9 +1690,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "预备姿势"
   },
   {
     "id": "panel_animation_breakdown_pose",
@@ -1622,32 +1706,33 @@
     "subcategory": "animation",
     "labels": [
       "animation",
-      "breakdown"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "breakdown",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "分解姿势",
     "labels_zh": [
+      "分解姿势",
       "分镜",
-      "动画",
-      "分解姿势"
+      "动画"
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "分解姿势"
   },
   {
     "id": "panel_animation_hold_frame",
@@ -1656,22 +1741,18 @@
     "subcategory": "animation",
     "labels": [
       "animation",
-      "hold"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "hold",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "定格帧",
     "labels_zh": [
       "分镜",
       "动画",
@@ -1679,9 +1760,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "定格帧"
   },
   {
     "id": "panel_animation_tween_frame",
@@ -1690,31 +1776,32 @@
     "subcategory": "animation",
     "labels": [
       "animation",
-      "tween"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "tween",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "十来岁画框",
     "labels_zh": [
       "分镜",
       "动画"
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "十来岁画框"
   },
   {
     "id": "panel_animation_animated_pose",
@@ -1723,22 +1810,18 @@
     "subcategory": "animation",
     "labels": [
       "animation",
-      "animated"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "animated",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "动画姿势",
     "labels_zh": [
       "分镜",
       "动画",
@@ -1746,9 +1829,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "动画姿势"
   },
   {
     "id": "panel_animation_limited_animation",
@@ -1757,22 +1845,18 @@
     "subcategory": "animation",
     "labels": [
       "animation",
-      "limited"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "limited",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "有限动画",
     "labels_zh": [
       "分镜",
       "动画",
@@ -1780,9 +1864,18 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "有限动画",
+    "aliases": [
+      "animated sequence",
+      "motion graphics"
+    ]
   },
   {
     "id": "panel_animation_full_animation",
@@ -1791,32 +1884,37 @@
     "subcategory": "animation",
     "labels": [
       "animation",
-      "full"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "full",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "全动画",
     "labels_zh": [
+      "全动画",
       "分镜",
-      "动画",
-      "全动画"
+      "动画"
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "全动画",
+    "aliases": [
+      "animated sequence",
+      "motion graphics"
+    ]
   },
   {
     "id": "panel_animation_center_of_gravity_shift",
@@ -1825,22 +1923,18 @@
     "subcategory": "animation",
     "labels": [
       "animation",
-      "center"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "center",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "重心偏移",
     "labels_zh": [
       "分镜",
       "动画",
@@ -1848,9 +1942,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.825,
+    "score_v2": 0.825,
+    "term_zh": "重心偏移"
   },
   {
     "id": "panel_animation_weight_shift_pose",
@@ -1859,31 +1958,32 @@
     "subcategory": "animation",
     "labels": [
       "animation",
-      "weight"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "weight",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "重心偏移姿势",
     "labels_zh": [
       "分镜",
       "动画"
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.785,
+    "score_v2": 0.785,
+    "term_zh": "重心偏移姿势"
   },
   {
     "id": "panel_animation_secondary_action",
@@ -1892,22 +1992,18 @@
     "subcategory": "animation",
     "labels": [
       "animation",
-      "secondary"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "secondary",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "次要动作",
     "labels_zh": [
       "分镜",
       "动画",
@@ -1915,9 +2011,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "次要动作"
   },
   {
     "id": "panel_panelmood_dramatic_panel",
@@ -1926,22 +2027,18 @@
     "subcategory": "panelmood",
     "labels": [
       "panelMood",
-      "dramatic"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "dramatic",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "戏剧分镜",
     "labels_zh": [
       "分镜",
       "分镜氛围",
@@ -1949,9 +2046,17 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "戏剧分镜",
+    "aliases": [
+      "dramatic lighting"
+    ]
   },
   {
     "id": "panel_panelmood_tension_panel",
@@ -1960,22 +2065,18 @@
     "subcategory": "panelmood",
     "labels": [
       "panelMood",
-      "tension"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "tension",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "紧张分镜",
     "labels_zh": [
       "分镜",
       "分镜氛围",
@@ -1983,9 +2084,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "紧张分镜"
   },
   {
     "id": "panel_panelmood_romantic_panel",
@@ -1994,22 +2100,18 @@
     "subcategory": "panelmood",
     "labels": [
       "panelMood",
-      "romantic"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "romantic",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "浪漫分镜",
     "labels_zh": [
       "分镜",
       "分镜氛围",
@@ -2017,9 +2119,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "浪漫分镜"
   },
   {
     "id": "panel_panelmood_comedic_panel",
@@ -2028,22 +2135,18 @@
     "subcategory": "panelmood",
     "labels": [
       "panelMood",
-      "comedic"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "comedic",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "喜剧分镜",
     "labels_zh": [
       "分镜",
       "分镜氛围",
@@ -2051,9 +2154,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "喜剧分镜"
   },
   {
     "id": "panel_panelmood_sad_panel",
@@ -2062,22 +2170,18 @@
     "subcategory": "panelmood",
     "labels": [
       "panelMood",
-      "sad"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "sad",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "悲伤分镜",
     "labels_zh": [
       "分镜",
       "分镜氛围",
@@ -2085,9 +2189,20 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "悲伤分镜",
+    "aliases": [
+      "melancholy sad mood"
+    ],
+    "aliases_zh": [
+      "忧郁悲伤情绪"
+    ]
   },
   {
     "id": "panel_panelmood_epic_panel",
@@ -2096,22 +2211,18 @@
     "subcategory": "panelmood",
     "labels": [
       "panelMood",
-      "epic"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "epic",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "史诗分镜",
     "labels_zh": [
       "分镜",
       "分镜氛围",
@@ -2119,9 +2230,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "史诗分镜"
   },
   {
     "id": "panel_panelmood_quiet_moment",
@@ -2130,22 +2246,18 @@
     "subcategory": "panelmood",
     "labels": [
       "panelMood",
-      "quiet"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "quiet",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "宁静时刻",
     "labels_zh": [
       "分镜",
       "分镜氛围",
@@ -2153,9 +2265,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "宁静时刻"
   },
   {
     "id": "panel_panelmood_punchline_panel",
@@ -2164,22 +2281,18 @@
     "subcategory": "panelmood",
     "labels": [
       "panelMood",
-      "punchline"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "punchline",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "包袱分镜",
     "labels_zh": [
       "分镜",
       "分镜氛围",
@@ -2187,9 +2300,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "包袱分镜"
   },
   {
     "id": "panel_panelmood_reveal_panel",
@@ -2198,22 +2316,18 @@
     "subcategory": "panelmood",
     "labels": [
       "panelMood",
-      "reveal"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "reveal",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "揭示分镜",
     "labels_zh": [
       "分镜",
       "分镜氛围",
@@ -2221,9 +2335,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "揭示分镜"
   },
   {
     "id": "panel_panelmood_cliffhanger_panel",
@@ -2232,22 +2351,18 @@
     "subcategory": "panelmood",
     "labels": [
       "panelMood",
-      "cliffhanger"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "cliffhanger",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "悬念分镜",
     "labels_zh": [
       "分镜",
       "分镜氛围",
@@ -2255,9 +2370,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "悬念分镜"
   },
   {
     "id": "panel_panelmood_emotional_climax",
@@ -2266,22 +2386,18 @@
     "subcategory": "panelmood",
     "labels": [
       "panelMood",
-      "emotional"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "emotional",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "情感高潮",
     "labels_zh": [
       "分镜",
       "分镜氛围",
@@ -2289,9 +2405,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "情感高潮"
   },
   {
     "id": "panel_panelmood_establishing_panel",
@@ -2300,22 +2421,18 @@
     "subcategory": "panelmood",
     "labels": [
       "panelMood",
-      "establishing"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "establishing",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "建立分镜",
     "labels_zh": [
       "分镜",
       "分镜氛围",
@@ -2323,9 +2440,14 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "建立分镜"
   },
   {
     "id": "panel_panelmood_transition_panel",
@@ -2334,22 +2456,18 @@
     "subcategory": "panelmood",
     "labels": [
       "panelMood",
-      "transition"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "transition",
       "migrated",
       "panel"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.754Z",
     "updated_at": "2026-09-27T17:25:55.754Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "过渡分镜",
     "labels_zh": [
       "分镜",
       "分镜氛围",
@@ -2357,119 +2475,133 @@
     ],
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "过渡分镜"
   },
   {
     "id": "panel_speed_lines_radial",
     "term": "radial speed lines burst",
-    "term_zh": "径向速度线爆发",
     "subcategory": "comiceffects",
     "labels": [
       "radial",
       "speed-lines",
       "burst",
-      "impact"
-    ],
-    "labels_zh": [
-      "分镜",
-      "径向",
-      "速度线",
-      "冲击"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
+      "impact",
       "manga",
       "action"
     ],
+    "labels_zh": [
+      "冲击",
+      "分镜",
+      "径向",
+      "速度线"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
     "created_at": "2026-10-05T22:03:34.340936+00:00",
     "category": "panel",
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.8
+    "weight": 0.825,
+    "score_v2": 0.825,
+    "term_zh": "径向速度线爆发",
+    "aliases": [
+      "dynamic motion lines"
+    ]
   },
   {
     "id": "panel_screentone_halo",
     "term": "screentone gradient halo",
-    "term_zh": "网点纸渐变光晕",
     "subcategory": "comiceffects",
     "labels": [
       "screentone",
       "gradient",
       "halo",
-      "glow"
-    ],
-    "labels_zh": [
-      "分镜",
-      "网点纸",
-      "渐变",
-      "光晕"
-    ],
-    "score": 0.75,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
+      "glow",
       "manga",
       "aesthetic"
     ],
+    "labels_zh": [
+      "光晕",
+      "分镜",
+      "渐变",
+      "网点纸"
+    ],
+    "score": 0.75,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
     "created_at": "2026-10-05T22:03:34.340936+00:00",
     "category": "panel",
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.785,
+    "score_v2": 0.785,
+    "term_zh": "网点纸渐变光晕"
   },
   {
     "id": "panel_koma_manga",
     "term": "manga-style panel gutter",
-    "term_zh": "漫画风格分镜留白",
     "subcategory": "panellayout",
     "labels": [
       "manga",
       "panel",
       "gutter",
-      "white-space"
+      "white-space",
+      "layout"
     ],
     "labels_zh": [
       "分镜",
       "漫画",
-      "分镜",
       "留白"
     ],
     "score": 0.8,
-    "priority": "medium",
     "lifecycle": "approved",
     "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
-      "manga",
-      "layout"
-    ],
     "created_at": "2026-10-05T22:03:34.340936+00:00",
     "category": "panel",
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.785,
+    "score_v2": 0.785,
+    "term_zh": "漫画风格分镜留白",
+    "aliases_zh": [
+      "纯白色",
+      "象牙白"
+    ]
   },
   {
     "id": "panel_emotion_exclamation",
     "term": "comic emotion exclamation burst",
-    "term_zh": "漫画情绪感叹爆发",
     "subcategory": "panelmood",
     "labels": [
       "emotion",
       "exclamation",
       "burst",
-      "expression"
+      "expression",
+      "manga",
+      "emotional"
     ],
     "labels_zh": [
       "分镜",
@@ -2478,52 +2610,56 @@
       "表达"
     ],
     "score": 0.75,
-    "priority": "medium",
     "lifecycle": "approved",
     "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
-      "manga",
-      "emotional"
-    ],
     "created_at": "2026-10-05T22:03:34.340936+00:00",
     "category": "panel",
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.825,
+    "score_v2": 0.825,
+    "term_zh": "漫画情绪感叹爆发"
   },
   {
     "id": "panel_shadownet_detailed",
     "term": "detailed shadow-net cross-hatching",
-    "term_zh": "精细阴影交叉线稿",
     "subcategory": "comiceffects",
     "labels": [
       "shadow-net",
       "cross-hatching",
       "detailed",
-      "ink"
+      "ink",
+      "manga"
     ],
     "labels_zh": [
-      "分镜",
-      "阴影网",
       "交叉线稿",
-      "精细"
+      "分镜",
+      "精细",
+      "阴影网"
     ],
     "score": 0.8,
-    "priority": "medium",
     "lifecycle": "approved",
     "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
-      "manga",
-      "ink"
-    ],
     "created_at": "2026-10-05T22:03:34.340936+00:00",
     "category": "panel",
     "compatibility": [
       "sdxl",
-      "midjourney"
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
     ],
-    "weight": 0.7
+    "weight": 0.785,
+    "score_v2": 0.785,
+    "term_zh": "精细阴影交叉线稿",
+    "aliases": [
+      "highly detailed",
+      "intricate details"
+    ]
   }
 ]

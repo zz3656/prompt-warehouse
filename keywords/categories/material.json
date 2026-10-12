@@ -5,30 +5,28 @@
     "category": "material",
     "subcategory": "fabric",
     "labels": [
-      "silk"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "silk",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Smooth glossy silk. Prompt hint: made of smooth glossy silk with a subtle natural sheen and delicate fluid drape",
-    "term_zh": "丝绸制",
     "labels_zh": [
-      "材质",
-      "织物",
+      "nodaro",
       "丝绸制",
-      "nodaro"
+      "材质",
+      "织物"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.62,
+    "score_v2": 0.62,
+    "term_zh": "丝绸制"
   },
   {
     "id": "material_fabric_cotton",
@@ -36,30 +34,28 @@
     "category": "material",
     "subcategory": "fabric",
     "labels": [
-      "cotton"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "cotton",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Soft matte cotton. Prompt hint: made of soft matte cotton fabric with a natural woven texture and subtle wrinkles",
-    "term_zh": "棉制",
     "labels_zh": [
+      "nodaro",
       "材质",
-      "织物",
       "棉制",
-      "nodaro"
+      "织物"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.62,
+    "score_v2": 0.62,
+    "term_zh": "棉制"
   },
   {
     "id": "material_fabric_denim",
@@ -67,29 +63,27 @@
     "category": "material",
     "subcategory": "fabric",
     "labels": [
-      "denim"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "denim",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Heavy indigo denim. Prompt hint: made of heavy indigo denim with visible diagonal weave, worn edges and subtle fading",
-    "term_zh": "厚重蓙青牛仔制",
     "labels_zh": [
+      "nodaro",
       "材质",
-      "织物",
-      "nodaro"
+      "织物"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "厚重蓙青牛仔制"
   },
   {
     "id": "material_fabric_leather",
@@ -97,30 +91,28 @@
     "category": "material",
     "subcategory": "fabric",
     "labels": [
-      "leather"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "leather",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Rich supple leather. Prompt hint: made of rich supple leather with a soft satin sheen, natural grain and warm brown tones",
-    "term_zh": "皮革制",
     "labels_zh": [
+      "nodaro",
       "材质",
-      "织物",
       "皮革制",
-      "nodaro"
+      "织物"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.62,
+    "score_v2": 0.62,
+    "term_zh": "皮革制"
   },
   {
     "id": "material_fabric_velvet",
@@ -128,30 +120,28 @@
     "category": "material",
     "subcategory": "fabric",
     "labels": [
-      "velvet"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "velvet",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Plush velvet. Prompt hint: made of plush velvet with a deep soft nap, rich saturated color and directional sheen",
-    "term_zh": "天鹅绒制",
     "labels_zh": [
-      "材质",
-      "织物",
+      "nodaro",
       "天鹅绒制",
-      "nodaro"
+      "材质",
+      "织物"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.62,
+    "score_v2": 0.62,
+    "term_zh": "天鹅绒制"
   },
   {
     "id": "material_fabric_satin",
@@ -159,30 +149,28 @@
     "category": "material",
     "subcategory": "fabric",
     "labels": [
-      "satin"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "satin",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Glossy satin. Prompt hint: made of glossy satin with a lustrous mirror-like surface and fluid draping folds",
-    "term_zh": "缎制",
     "labels_zh": [
+      "nodaro",
       "材质",
       "织物",
-      "缎制",
-      "nodaro"
+      "缎制"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.62,
+    "score_v2": 0.62,
+    "term_zh": "缎制"
   },
   {
     "id": "material_fabric_lace",
@@ -190,30 +178,28 @@
     "category": "material",
     "subcategory": "fabric",
     "labels": [
-      "lace"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "lace",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Delicate patterned lace. Prompt hint: made of delicate patterned lace with intricate floral openwork and a fine translucent texture",
-    "term_zh": "蕾丝制",
     "labels_zh": [
+      "nodaro",
       "材质",
       "织物",
-      "蕾丝制",
-      "nodaro"
+      "蕾丝制"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.62,
+    "score_v2": 0.62,
+    "term_zh": "蕾丝制"
   },
   {
     "id": "material_fabric_wool",
@@ -221,30 +207,28 @@
     "category": "material",
     "subcategory": "fabric",
     "labels": [
-      "wool"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "wool",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Warm woven wool. Prompt hint: made of warm woven wool with a soft matte surface, visible fibers and a cozy textured feel",
-    "term_zh": "羊毛制",
     "labels_zh": [
+      "nodaro",
       "材质",
       "织物",
-      "羊毛制",
-      "nodaro"
+      "羊毛制"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.62,
+    "score_v2": 0.62,
+    "term_zh": "羊毛制"
   },
   {
     "id": "material_fabric_linen",
@@ -252,30 +236,28 @@
     "category": "material",
     "subcategory": "fabric",
     "labels": [
-      "linen"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "linen",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Natural textured linen. Prompt hint: made of natural linen with a loose open weave, slight slubs and a slightly wrinkled airy drape",
-    "term_zh": "亚麻制",
     "labels_zh": [
-      "材质",
-      "织物",
+      "nodaro",
       "亚麻制",
-      "nodaro"
+      "材质",
+      "织物"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.62,
+    "score_v2": 0.62,
+    "term_zh": "亚麻制"
   },
   {
     "id": "material_fabric_tweed",
@@ -283,30 +265,28 @@
     "category": "material",
     "subcategory": "fabric",
     "labels": [
-      "tweed"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "tweed",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Rustic woven tweed. Prompt hint: made of rustic tweed with a flecked multi-color woven texture and a rough heritage feel",
-    "term_zh": "粗花呢制",
     "labels_zh": [
+      "nodaro",
       "材质",
-      "织物",
       "粗花呢制",
-      "nodaro"
+      "织物"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.62,
+    "score_v2": 0.62,
+    "term_zh": "粗花呢制"
   },
   {
     "id": "material_fabric_cashmere",
@@ -314,30 +294,28 @@
     "category": "material",
     "subcategory": "fabric",
     "labels": [
-      "cashmere"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "cashmere",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Luxurious soft cashmere. Prompt hint: made of luxurious cashmere with an ultra-soft matte texture and a fine dense weave",
-    "term_zh": "羊绒制",
     "labels_zh": [
+      "nodaro",
       "材质",
       "织物",
-      "羊绒制",
-      "nodaro"
+      "羊绒制"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.62,
+    "score_v2": 0.62,
+    "term_zh": "羊绒制"
   },
   {
     "id": "material_fabric_chiffon",
@@ -345,30 +323,32 @@
     "category": "material",
     "subcategory": "fabric",
     "labels": [
-      "chiffon"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "chiffon",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Sheer flowing chiffon. Prompt hint: made of sheer chiffon with a lightweight floating drape, soft translucent layers and a gentle shimmer",
-    "term_zh": "雪纺制",
     "labels_zh": [
+      "nodaro",
       "材质",
       "织物",
-      "雪纺制",
-      "nodaro"
+      "雪纺制"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.62,
+    "score_v2": 0.62,
+    "term_zh": "雪纺制",
+    "aliases_zh": [
+      "snowy weather",
+      "下雪天"
+    ]
   },
   {
     "id": "material_fabric_fur",
@@ -376,30 +356,28 @@
     "category": "material",
     "subcategory": "fabric",
     "labels": [
-      "fur"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "fur",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Thick plush fur. Prompt hint: made of thick plush fur with long dense strands, natural variation and a soft directional flow",
-    "term_zh": "毛皮制",
     "labels_zh": [
+      "nodaro",
       "材质",
-      "织物",
       "毛皮制",
-      "nodaro"
+      "织物"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.62,
+    "score_v2": 0.62,
+    "term_zh": "毛皮制"
   },
   {
     "id": "material_fabric_suede",
@@ -407,30 +385,28 @@
     "category": "material",
     "subcategory": "fabric",
     "labels": [
-      "suede"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "suede",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Soft napped suede. Prompt hint: made of soft napped suede with a matte velvety surface, fine fuzzy texture and a warm leather feel",
-    "term_zh": "麂皮制",
     "labels_zh": [
+      "nodaro",
       "材质",
       "织物",
-      "麂皮制",
-      "nodaro"
+      "麂皮制"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.62,
+    "score_v2": 0.62,
+    "term_zh": "麂皮制"
   },
   {
     "id": "material_fabric_mesh",
@@ -438,30 +414,28 @@
     "category": "material",
     "subcategory": "fabric",
     "labels": [
-      "mesh"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "mesh",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: See-through net mesh. Prompt hint: made of see-through net mesh with an open woven grid, sheer transparency and an athletic technical feel",
-    "term_zh": "薄纱制",
     "labels_zh": [
+      "nodaro",
       "材质",
       "织物",
-      "薄纱制",
-      "nodaro"
+      "薄纱制"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "薄纱制"
   },
   {
     "id": "material_fabric_patent_leather",
@@ -469,30 +443,28 @@
     "category": "material",
     "subcategory": "fabric",
     "labels": [
-      "patent-leather"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "patent-leather",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: High-gloss patent leather. Prompt hint: made of high-gloss patent leather with a mirror-bright reflective surface, deep saturated color and a slick lacquered finish",
-    "term_zh": "漆皮制",
     "labels_zh": [
+      "nodaro",
       "材质",
-      "织物",
       "漆皮制",
-      "nodaro"
+      "织物"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "漆皮制"
   },
   {
     "id": "material_metal_gold",
@@ -500,30 +472,31 @@
     "category": "material",
     "subcategory": "metal",
     "labels": [
-      "gold"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "gold",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Polished gold. Prompt hint: made of polished gold with a warm yellow metallic sheen and rich mirror-like reflections",
-    "term_zh": "魔光金制",
     "labels_zh": [
+      "nodaro",
       "材质",
       "金属",
-      "魔光金制",
-      "nodaro"
+      "魔光金制"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "魔光金制",
+    "aliases": [
+      "metallic gold"
+    ]
   },
   {
     "id": "material_metal_silver",
@@ -531,30 +504,31 @@
     "category": "material",
     "subcategory": "metal",
     "labels": [
-      "silver"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "silver",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Polished silver. Prompt hint: made of polished silver with a cool bright metallic sheen and clean mirror-like reflections",
-    "term_zh": "魔光银制",
     "labels_zh": [
+      "nodaro",
       "材质",
       "金属",
-      "魔光银制",
-      "nodaro"
+      "魔光银制"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "魔光银制",
+    "aliases": [
+      "metallic silver"
+    ]
   },
   {
     "id": "material_metal_bronze",
@@ -562,29 +536,30 @@
     "category": "material",
     "subcategory": "metal",
     "labels": [
-      "bronze"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "bronze",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Patinaed cast bronze. Prompt hint: made of cast bronze with a warm brown-gold metallic surface and a mottled greenish patina in the recesses",
-    "term_zh": "铜绿青铜制",
     "labels_zh": [
+      "nodaro",
       "材质",
-      "金属",
-      "nodaro"
+      "金属"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "铜绿青铜制",
+    "aliases": [
+      "antique bronze"
+    ]
   },
   {
     "id": "material_metal_chrome",
@@ -592,30 +567,31 @@
     "category": "material",
     "subcategory": "metal",
     "labels": [
-      "chrome"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "chrome",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Hyper-reflective chrome. Prompt hint: made of hyper-reflective polished chrome with liquid mirror surfaces and sharp environmental reflections",
-    "term_zh": "魔光铬制",
     "labels_zh": [
+      "nodaro",
       "材质",
       "金属",
-      "魔光铬制",
-      "nodaro"
+      "魔光铬制"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "魔光铬制",
+    "aliases": [
+      "polished smooth surface"
+    ]
   },
   {
     "id": "material_metal_copper",
@@ -623,29 +599,30 @@
     "category": "material",
     "subcategory": "metal",
     "labels": [
-      "copper"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "copper",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Warm copper with patina. Prompt hint: made of warm copper with a rich rose-orange metallic gleam and touches of blue-green oxidation",
-    "term_zh": "铜绿紫铜制",
     "labels_zh": [
+      "nodaro",
       "材质",
-      "金属",
-      "nodaro"
+      "金属"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "铜绿紫铜制",
+    "aliases": [
+      "copper-toned metal"
+    ]
   },
   {
     "id": "material_metal_brass",
@@ -653,30 +630,28 @@
     "category": "material",
     "subcategory": "metal",
     "labels": [
-      "brass"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "brass",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Antique brass. Prompt hint: made of antique brass with a warm yellow-gold hue, brushed texture and slight tarnish in the crevices",
-    "term_zh": "古黄铜制",
     "labels_zh": [
-      "材质",
-      "金属",
+      "nodaro",
       "古黄铜制",
-      "nodaro"
+      "材质",
+      "金属"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "古黄铜制"
   },
   {
     "id": "material_metal_steel",
@@ -684,29 +659,27 @@
     "category": "material",
     "subcategory": "metal",
     "labels": [
-      "steel"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "steel",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Brushed stainless steel. Prompt hint: made of brushed stainless steel with fine directional grain and cool soft reflections",
-    "term_zh": "魔拉丝不锈钢制",
     "labels_zh": [
+      "nodaro",
       "材质",
-      "金属",
-      "nodaro"
+      "金属"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "魔拉丝不锈钢制"
   },
   {
     "id": "material_metal_iron",
@@ -714,30 +687,28 @@
     "category": "material",
     "subcategory": "metal",
     "labels": [
-      "iron"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "iron",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Rough wrought iron. Prompt hint: made of rough wrought iron with a dark matte surface, hammered texture and traces of rust",
-    "term_zh": "熟铁",
     "labels_zh": [
+      "nodaro",
       "材质",
-      "金属",
       "熟铁",
-      "nodaro"
+      "金属"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "熟铁"
   },
   {
     "id": "material_metal_platinum",
@@ -745,29 +716,30 @@
     "category": "material",
     "subcategory": "metal",
     "labels": [
-      "platinum"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "platinum",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Lustrous platinum. Prompt hint: made of lustrous platinum with a cool white-grey metallic sheen and premium polished finish",
-    "term_zh": "魔光铂金制",
     "labels_zh": [
+      "nodaro",
       "材质",
-      "金属",
-      "nodaro"
+      "金属"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "魔光铂金制",
+    "aliases": [
+      "polished smooth surface"
+    ]
   },
   {
     "id": "material_metal_titanium",
@@ -775,30 +747,34 @@
     "category": "material",
     "subcategory": "metal",
     "labels": [
-      "titanium"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "titanium",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Matte industrial titanium. Prompt hint: made of matte titanium with a cool silvery-grey surface, subtle anodized tints and an industrial precision finish",
-    "term_zh": "哑光钛制",
     "labels_zh": [
-      "材质",
-      "金属",
+      "nodaro",
       "哑光钛制",
-      "nodaro"
+      "材质",
+      "金属"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "哑光钛制",
+    "aliases": [
+      "matte non-reflective surface"
+    ],
+    "aliases_zh": [
+      "哑光无反光表面"
+    ]
   },
   {
     "id": "material_stone_marble",
@@ -806,29 +782,30 @@
     "category": "material",
     "subcategory": "stone",
     "labels": [
-      "marble"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "marble",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: White marble with veins. Prompt hint: made of polished white marble with grey-blue veining, a smooth glossy surface and classical elegance",
-    "term_zh": "魔光大理石制",
     "labels_zh": [
+      "nodaro",
       "材质",
-      "石材",
-      "nodaro"
+      "石材"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "魔光大理石制",
+    "aliases": [
+      "polished smooth surface"
+    ]
   },
   {
     "id": "material_stone_granite",
@@ -836,29 +813,30 @@
     "category": "material",
     "subcategory": "stone",
     "labels": [
-      "granite"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "granite",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Speckled polished granite. Prompt hint: made of polished granite with a speckled grey-black crystalline surface and a cool glossy finish",
-    "term_zh": "魔光花岗岩制",
     "labels_zh": [
+      "nodaro",
       "材质",
-      "石材",
-      "nodaro"
+      "石材"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "魔光花岗岩制",
+    "aliases": [
+      "polished smooth surface"
+    ]
   },
   {
     "id": "material_stone_obsidian",
@@ -866,29 +844,33 @@
     "category": "material",
     "subcategory": "stone",
     "labels": [
-      "obsidian"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "obsidian",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Glossy black obsidian. Prompt hint: made of polished black obsidian with a deep glassy surface, subtle rainbow flecks and razor-sharp highlights",
-    "term_zh": "魔光黑曜石制",
     "labels_zh": [
+      "nodaro",
       "材质",
-      "石材",
-      "nodaro"
+      "石材"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "魔光黑曜石制",
+    "aliases": [
+      "polished smooth surface"
+    ],
+    "aliases_zh": [
+      "黑色调"
+    ]
   },
   {
     "id": "material_stone_sandstone",
@@ -896,29 +878,30 @@
     "category": "material",
     "subcategory": "stone",
     "labels": [
-      "sandstone"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "sandstone",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Warm layered sandstone. Prompt hint: made of warm weathered sandstone with horizontal layered striations, soft ochre tones and a rough grainy surface",
-    "term_zh": "风化砂岩制",
     "labels_zh": [
+      "nodaro",
       "材质",
-      "石材",
-      "nodaro"
+      "石材"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "风化砂岩制",
+    "aliases": [
+      "crimson red"
+    ]
   },
   {
     "id": "material_stone_slate",
@@ -926,30 +909,28 @@
     "category": "material",
     "subcategory": "stone",
     "labels": [
-      "slate"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "slate",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Dark flat slate. Prompt hint: made of dark slate with flat matte grey-blue surfaces, subtle cleavage lines and a cool sedimentary texture",
-    "term_zh": "板岩制",
     "labels_zh": [
+      "nodaro",
       "材质",
-      "石材",
       "板岩制",
-      "nodaro"
+      "石材"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.62,
+    "score_v2": 0.62,
+    "term_zh": "板岩制"
   },
   {
     "id": "material_stone_jade",
@@ -957,30 +938,31 @@
     "category": "material",
     "subcategory": "stone",
     "labels": [
-      "jade"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "jade",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Translucent green jade. Prompt hint: made of polished jade with a translucent green glow, fine internal veining and a smooth waxy surface",
-    "term_zh": "魔光玉制",
     "labels_zh": [
+      "nodaro",
       "材质",
       "石材",
-      "魔光玉制",
-      "nodaro"
+      "魔光玉制"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "魔光玉制",
+    "aliases": [
+      "polished smooth surface"
+    ]
   },
   {
     "id": "material_stone_onyx",
@@ -988,29 +970,34 @@
     "category": "material",
     "subcategory": "stone",
     "labels": [
-      "onyx"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "onyx",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Banded polished onyx. Prompt hint: made of polished onyx with dramatic black-and-white banding, translucent depth and a glossy finish",
-    "term_zh": "魔光红木制",
     "labels_zh": [
+      "nodaro",
       "材质",
-      "石材",
-      "nodaro"
+      "石材"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "魔光红木制",
+    "aliases": [
+      "polished smooth surface"
+    ],
+    "aliases_zh": [
+      "深红色",
+      "绯红色"
+    ]
   },
   {
     "id": "material_stone_concrete",
@@ -1018,30 +1005,28 @@
     "category": "material",
     "subcategory": "stone",
     "labels": [
-      "concrete"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "concrete",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Cast industrial concrete. Prompt hint: made of cast concrete with a rough grey surface, visible formwork lines, scattered aggregate and an industrial brutalist feel",
-    "term_zh": "混泥土制",
     "labels_zh": [
+      "nodaro",
       "材质",
-      "石材",
       "混泥土制",
-      "nodaro"
+      "石材"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "混泥土制"
   },
   {
     "id": "material_stone_terrazzo",
@@ -1049,29 +1034,30 @@
     "category": "material",
     "subcategory": "stone",
     "labels": [
-      "terrazzo"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "terrazzo",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Composite terrazzo with chips. Prompt hint: made of polished terrazzo with embedded marble and glass chips suspended in a smooth cement matrix, a mid-century speckled surface and a glossy finish",
-    "term_zh": "魔光水磨石制",
     "labels_zh": [
+      "nodaro",
       "材质",
-      "石材",
-      "nodaro"
+      "石材"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "魔光水磨石制",
+    "aliases": [
+      "polished smooth surface"
+    ]
   },
   {
     "id": "material_wood_oak",
@@ -1079,30 +1065,28 @@
     "category": "material",
     "subcategory": "wood",
     "labels": [
-      "oak"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "oak",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Rich grained oak. Prompt hint: made of rich grained oak with warm honey-brown tones, strong vertical grain lines and a satin finish",
-    "term_zh": "橡木制",
     "labels_zh": [
-      "材质",
+      "nodaro",
       "木材",
-      "橡木制",
-      "nodaro"
+      "材质",
+      "橡木制"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.62,
+    "score_v2": 0.62,
+    "term_zh": "橡木制"
   },
   {
     "id": "material_wood_mahogany",
@@ -1110,29 +1094,34 @@
     "category": "material",
     "subcategory": "wood",
     "labels": [
-      "mahogany"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "mahogany",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Deep red mahogany. Prompt hint: made of polished mahogany with a deep reddish-brown tone, tight swirling grain and a glossy heirloom finish",
-    "term_zh": "魔光红木制",
     "labels_zh": [
-      "材质",
+      "nodaro",
       "木材",
-      "nodaro"
+      "材质"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "魔光红木制",
+    "aliases": [
+      "polished smooth surface"
+    ],
+    "aliases_zh": [
+      "深红色",
+      "绯红色"
+    ]
   },
   {
     "id": "material_wood_walnut",
@@ -1140,30 +1129,28 @@
     "category": "material",
     "subcategory": "wood",
     "labels": [
-      "walnut"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "walnut",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Dark walnut. Prompt hint: made of walnut with deep chocolate-brown tones, flowing grain patterns and a soft satin sheen",
-    "term_zh": "胡桃木制",
     "labels_zh": [
-      "材质",
+      "nodaro",
       "木材",
-      "胡桃木制",
-      "nodaro"
+      "材质",
+      "胡桃木制"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.62,
+    "score_v2": 0.62,
+    "term_zh": "胡桃木制"
   },
   {
     "id": "material_wood_bamboo",
@@ -1171,30 +1158,28 @@
     "category": "material",
     "subcategory": "wood",
     "labels": [
-      "bamboo"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "bamboo",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Light segmented bamboo. Prompt hint: made of pale bamboo with visible horizontal node segments, clean vertical grain and a light natural finish",
-    "term_zh": "竹制",
     "labels_zh": [
-      "材质",
+      "nodaro",
       "木材",
-      "竹制",
-      "nodaro"
+      "材质",
+      "竹制"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.62,
+    "score_v2": 0.62,
+    "term_zh": "竹制"
   },
   {
     "id": "material_wood_birch",
@@ -1202,30 +1187,28 @@
     "category": "material",
     "subcategory": "wood",
     "labels": [
-      "birch"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "birch",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Pale smooth birch. Prompt hint: made of pale birch with fine close grain, a smooth cream-white surface and subtle warmth",
-    "term_zh": "桦木制",
     "labels_zh": [
-      "材质",
+      "nodaro",
       "木材",
-      "桦木制",
-      "nodaro"
+      "材质",
+      "桦木制"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.62,
+    "score_v2": 0.62,
+    "term_zh": "桦木制"
   },
   {
     "id": "material_wood_driftwood",
@@ -1233,29 +1216,30 @@
     "category": "material",
     "subcategory": "wood",
     "labels": [
-      "driftwood"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "driftwood",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Weathered driftwood. Prompt hint: made of weathered driftwood with silver-grey sun-bleached surfaces, smoothed edges and a raw organic texture",
-    "term_zh": "风化漂流木制",
     "labels_zh": [
-      "材质",
+      "nodaro",
       "木材",
-      "nodaro"
+      "材质"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "风化漂流木制",
+    "aliases": [
+      "crimson red"
+    ]
   },
   {
     "id": "material_glass_ceramic_glass",
@@ -1263,29 +1247,30 @@
     "category": "material",
     "subcategory": "glass-ceramic",
     "labels": [
-      "glass"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "glass",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Clear transparent glass. Prompt hint: made of clear transparent glass with sharp refracted highlights, crisp edge caustics and subtle internal reflections",
-    "term_zh": "透明玻璃制",
     "labels_zh": [
+      "nodaro",
       "材质",
-      "玻璃陶瓷",
-      "nodaro"
+      "玻璃陶瓷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "透明玻璃制",
+    "aliases_zh": [
+      "半透明质感"
+    ]
   },
   {
     "id": "material_glass_ceramic_stained_glass",
@@ -1293,29 +1278,31 @@
     "category": "material",
     "subcategory": "glass-ceramic",
     "labels": [
-      "stained-glass"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "stained-glass",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Jewel-toned stained glass. Prompt hint: made of stained glass with jewel-toned panels, dark lead caming and vibrant light filtering through saturated color",
-    "term_zh": "彩绘玻璃制",
     "labels_zh": [
+      "nodaro",
       "材质",
-      "玻璃陶瓷",
-      "nodaro"
+      "玻璃陶瓷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "彩绘玻璃制",
+    "aliases": [
+      "colorful stained glass",
+      "gothic window"
+    ]
   },
   {
     "id": "material_glass_ceramic_crystal",
@@ -1323,29 +1310,27 @@
     "category": "material",
     "subcategory": "glass-ceramic",
     "labels": [
-      "crystal"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "crystal",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Faceted clear crystal. Prompt hint: made of faceted clear crystal with sharp prismatic facets, rainbow caustics and brilliant internal reflections",
-    "term_zh": "多面水晶制",
     "labels_zh": [
+      "nodaro",
       "材质",
-      "玻璃陶瓷",
-      "nodaro"
+      "玻璃陶瓷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "多面水晶制"
   },
   {
     "id": "material_glass_ceramic_porcelain",
@@ -1353,30 +1338,32 @@
     "category": "material",
     "subcategory": "glass-ceramic",
     "labels": [
-      "porcelain"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "porcelain",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Smooth white porcelain. Prompt hint: made of smooth white porcelain with a soft satin glaze, delicate translucency and a fine ceramic finish",
-    "term_zh": "瓷器制",
     "labels_zh": [
+      "nodaro",
       "材质",
       "玻璃陶瓷",
-      "瓷器制",
-      "nodaro"
+      "瓷器制"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.62,
+    "score_v2": 0.62,
+    "term_zh": "瓷器制",
+    "aliases": [
+      "brutal orc",
+      "warrior orc"
+    ]
   },
   {
     "id": "material_glass_ceramic_ceramic_glazed",
@@ -1384,30 +1371,28 @@
     "category": "material",
     "subcategory": "glass-ceramic",
     "labels": [
-      "ceramic-glazed"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "ceramic-glazed",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Earthy glazed ceramic. Prompt hint: made of glazed ceramic with warm earth tones, a glossy vitrified surface and subtle kiln-fired variation",
-    "term_zh": "釉陶瓷制",
     "labels_zh": [
+      "nodaro",
       "材质",
       "玻璃陶瓷",
-      "釉陶瓷制",
-      "nodaro"
+      "釉陶瓷制"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "釉陶瓷制"
   },
   {
     "id": "material_glass_ceramic_terracotta",
@@ -1415,29 +1400,27 @@
     "category": "material",
     "subcategory": "glass-ceramic",
     "labels": [
-      "terracotta"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "terracotta",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Warm unglazed terracotta. Prompt hint: made of unglazed terracotta with a warm orange-brown matte surface, fine clay texture and a rustic handmade feel",
-    "term_zh": "无釉陶土制",
     "labels_zh": [
+      "nodaro",
       "材质",
-      "玻璃陶瓷",
-      "nodaro"
+      "玻璃陶瓷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "无釉陶土制"
   },
   {
     "id": "material_natural_water",
@@ -1445,30 +1428,28 @@
     "category": "material",
     "subcategory": "natural",
     "labels": [
-      "water"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "water",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Flowing translucent water. Prompt hint: made of flowing translucent water with dynamic refractions, moving highlights and rippled internal caustics",
-    "term_zh": "流水制",
     "labels_zh": [
-      "材质",
+      "nodaro",
       "天然",
-      "流水制",
-      "nodaro"
+      "材质",
+      "流水制"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "流水制"
   },
   {
     "id": "material_natural_fire",
@@ -1476,30 +1457,28 @@
     "category": "material",
     "subcategory": "natural",
     "labels": [
-      "fire"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "fire",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Living flame. Prompt hint: made of living flame with dancing orange-yellow tongues, glowing ember cores and wisps of drifting smoke",
-    "term_zh": "活焰制",
     "labels_zh": [
-      "材质",
+      "nodaro",
       "天然",
-      "活焰制",
-      "nodaro"
+      "材质",
+      "活焰制"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "活焰制"
   },
   {
     "id": "material_natural_ice",
@@ -1507,30 +1486,28 @@
     "category": "material",
     "subcategory": "natural",
     "labels": [
-      "ice"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "ice",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Translucent crystalline ice. Prompt hint: made of translucent crystalline ice with internal fractures, cool blue highlights and a frosted glossy surface",
-    "term_zh": "结晶冰制",
     "labels_zh": [
-      "材质",
+      "nodaro",
       "天然",
-      "结晶冰制",
-      "nodaro"
+      "材质",
+      "结晶冰制"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "结晶冰制"
   },
   {
     "id": "material_natural_smoke",
@@ -1538,30 +1515,28 @@
     "category": "material",
     "subcategory": "natural",
     "labels": [
-      "smoke"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "smoke",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Drifting ethereal smoke. Prompt hint: made of drifting ethereal smoke with soft volumetric wisps, translucent layers and a slow hypnotic flow",
-    "term_zh": "漂烟制",
     "labels_zh": [
-      "材质",
+      "nodaro",
       "天然",
-      "漂烟制",
-      "nodaro"
+      "材质",
+      "漂烟制"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "漂烟制"
   },
   {
     "id": "material_natural_sand",
@@ -1569,30 +1544,28 @@
     "category": "material",
     "subcategory": "natural",
     "labels": [
-      "sand"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "sand",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Fine granular sand. Prompt hint: made of fine granular sand with a soft golden matte surface, subtle grain texture and gentle shifting edges",
-    "term_zh": "细沙制",
     "labels_zh": [
-      "材质",
+      "nodaro",
       "天然",
-      "细沙制",
-      "nodaro"
+      "材质",
+      "细沙制"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "细沙制"
   },
   {
     "id": "material_natural_moss",
@@ -1600,30 +1573,28 @@
     "category": "material",
     "subcategory": "natural",
     "labels": [
-      "moss"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "moss",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Lush living moss. Prompt hint: made of lush living moss with a soft velvety green surface, fine plant texture and an organic overgrown feel",
-    "term_zh": "活苔制",
     "labels_zh": [
-      "材质",
+      "nodaro",
       "天然",
-      "活苔制",
-      "nodaro"
+      "材质",
+      "活苔制"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "活苔制"
   },
   {
     "id": "material_natural_leaves",
@@ -1631,29 +1602,30 @@
     "category": "material",
     "subcategory": "natural",
     "labels": [
-      "leaves"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "leaves",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Layered plant leaves. Prompt hint: made of layered plant leaves with overlapping green foliage, visible veining and a natural dappled texture",
-    "term_zh": "层叠植物叶制",
     "labels_zh": [
-      "材质",
+      "nodaro",
       "天然",
-      "nodaro"
+      "材质"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "层叠植物叶制",
+    "aliases": [
+      "crimson red"
+    ]
   },
   {
     "id": "material_exotic_holographic",
@@ -1661,29 +1633,27 @@
     "category": "material",
     "subcategory": "exotic",
     "labels": [
-      "holographic"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "holographic",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Iridescent hologram. Prompt hint: made of holographic iridescent material with shifting rainbow sheen, prismatic highlights and a futuristic shimmer",
-    "term_zh": "全息彩虹色材料制",
     "labels_zh": [
-      "材质",
       " exotic",
-      "nodaro"
+      "nodaro",
+      "材质"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "全息彩虹色材料制"
   },
   {
     "id": "material_exotic_liquid_metal",
@@ -1691,29 +1661,27 @@
     "category": "material",
     "subcategory": "exotic",
     "labels": [
-      "liquid-metal"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "liquid-metal",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Reflective liquid chrome. Prompt hint: made of reflective liquid metal with a flowing mercury-like chrome surface, seamless reflections and metallic pooling highlights",
-    "term_zh": "液态金属制",
     "labels_zh": [
-      "材质",
       " exotic",
-      "nodaro"
+      "nodaro",
+      "材质"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "液态金属制"
   },
   {
     "id": "material_exotic_neon",
@@ -1721,29 +1689,35 @@
     "category": "material",
     "subcategory": "exotic",
     "labels": [
-      "neon"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "neon",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Glowing neon tubing. Prompt hint: made of glowing neon tubing with saturated magenta and cyan light, a soft halo glow and a cybernetic futuristic feel",
-    "term_zh": "霓虹发光管制",
     "labels_zh": [
-      "材质",
       " exotic",
-      "nodaro"
+      "nodaro",
+      "材质"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "霓虹发光管制",
+    "aliases": [
+      "luminous",
+      "radiant glow"
+    ],
+    "aliases_zh": [
+      "luminous",
+      "发光效果"
+    ]
   },
   {
     "id": "material_exotic_translucent",
@@ -1751,29 +1725,33 @@
     "category": "material",
     "subcategory": "exotic",
     "labels": [
-      "translucent"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "translucent",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Frosted glowing resin. Prompt hint: made of frosted translucent resin with soft internal glow, milky subsurface scattering and a smooth cast finish",
-    "term_zh": "半透明树脂制",
     "labels_zh": [
-      "材质",
       " exotic",
-      "nodaro"
+      "nodaro",
+      "材质"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "半透明树脂制",
+    "aliases": [
+      "semi-transparent translucent"
+    ],
+    "aliases_zh": [
+      "半透明质感"
+    ]
   },
   {
     "id": "material_exotic_subsurface",
@@ -1781,29 +1759,30 @@
     "category": "material",
     "subcategory": "exotic",
     "labels": [
-      "subsurface"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "subsurface",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Light glows beneath the surface. Prompt hint: made of a soft translucent material with pronounced subsurface scattering, light penetrating beneath the surface and glowing warmly from within",
-    "term_zh": "半透次表面散射材质制",
     "labels_zh": [
-      "材质",
       " exotic",
-      "nodaro"
+      "nodaro",
+      "材质"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "半透次表面散射材质制",
+    "aliases": [
+      "semi-transparent translucent"
+    ]
   },
   {
     "id": "material_exotic_mirror",
@@ -1811,29 +1790,27 @@
     "category": "material",
     "subcategory": "exotic",
     "labels": [
-      "mirror"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "mirror",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Perfect mirror surface. Prompt hint: made of perfect mirror surface with flawless reflections, no tint and razor-sharp reflected detail",
-    "term_zh": "完美镜面制",
     "labels_zh": [
-      "材质",
       " exotic",
-      "nodaro"
+      "nodaro",
+      "材质"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "完美镜面制"
   },
   {
     "id": "material_exotic_plasma",
@@ -1841,29 +1818,31 @@
     "category": "material",
     "subcategory": "exotic",
     "labels": [
-      "plasma"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "plasma",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Glowing electric plasma. Prompt hint: made of glowing electric plasma with arcing internal bolts, a radiant violet-pink core and a haze of ionized energy",
-    "term_zh": "磁电等离子体制",
     "labels_zh": [
-      "材质",
       " exotic",
-      "nodaro"
+      "nodaro",
+      "材质"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "磁电等离子体制",
+    "aliases": [
+      "luminous",
+      "radiant glow"
+    ]
   },
   {
     "id": "material_exotic_crystal_shard",
@@ -1871,29 +1850,35 @@
     "category": "material",
     "subcategory": "exotic",
     "labels": [
-      "crystal-shard"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "crystal-shard",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Shattered glowing crystal. Prompt hint: made of fractured glowing crystal shards with sharp prismatic facets, internal luminescence and dynamic rainbow refraction",
-    "term_zh": "碎裂发光水晶制",
     "labels_zh": [
-      "材质",
       " exotic",
-      "nodaro"
+      "nodaro",
+      "材质"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "碎裂发光水晶制",
+    "aliases": [
+      "luminous",
+      "radiant glow"
+    ],
+    "aliases_zh": [
+      "luminous",
+      "发光效果"
+    ]
   },
   {
     "id": "material_exotic_obsidian_glass",
@@ -1901,29 +1886,31 @@
     "category": "material",
     "subcategory": "exotic",
     "labels": [
-      "obsidian-glass"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "obsidian-glass",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Dark volcanic glass. Prompt hint: made of dark obsidian volcanic glass with a glossy black surface, razor-sharp edges and subtle iridescent highlights",
-    "term_zh": "火山黑曜玻璃制",
     "labels_zh": [
-      "材质",
       " exotic",
-      "nodaro"
+      "nodaro",
+      "材质"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "火山黑曜玻璃制",
+    "aliases_zh": [
+      "fire effects",
+      "火焰"
+    ]
   },
   {
     "id": "material_exotic_iridescent",
@@ -1931,29 +1918,27 @@
     "category": "material",
     "subcategory": "exotic",
     "labels": [
-      "iridescent"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "iridescent",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Color-shifting iridescent surface. Prompt hint: made of iridescent rainbow-shifting surface, the kind of color play seen on oil slicks, butterfly wings and mother-of-pearl, with hues that shift as the angle changes",
-    "term_zh": "彩虹变色材料制",
     "labels_zh": [
-      "材质",
       " exotic",
-      "nodaro"
+      "nodaro",
+      "材质"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "彩虹变色材料制"
   },
   {
     "id": "material_exotic_mother_of_pearl",
@@ -1961,30 +1946,28 @@
     "category": "material",
     "subcategory": "exotic",
     "labels": [
-      "mother-of-pearl"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "mother-of-pearl",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Pearlescent inner shell layer. Prompt hint: made of mother-of-pearl with a pearlescent cream surface, soft iridescent shimmer and the layered nacre depth seen in inlay work and fine jewelry",
-    "term_zh": "珠母贝制",
     "labels_zh": [
-      "材质",
       " exotic",
-      "珠母贝制",
-      "nodaro"
+      "nodaro",
+      "材质",
+      "珠母贝制"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.62,
+    "score_v2": 0.62,
+    "term_zh": "珠母贝制"
   },
   {
     "id": "material_exotic_carbon_fiber",
@@ -1992,30 +1975,32 @@
     "category": "material",
     "subcategory": "exotic",
     "labels": [
-      "carbon-fiber"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "carbon-fiber",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Woven black carbon-fiber composite. Prompt hint: made of woven carbon-fiber composite with a glossy black checkered weave pattern, a hi-tech aerospace feel and subtle directional sheen",
-    "term_zh": "碳纤维",
     "labels_zh": [
-      "材质",
       " exotic",
-      "碳纤维",
-      "nodaro"
+      "nodaro",
+      "材质",
+      "碳纤维"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "碳纤维",
+    "aliases": [
+      "luxury vehicle",
+      "sports car"
+    ]
   },
   {
     "id": "material_exotic_holographic_film",
@@ -2023,29 +2008,27 @@
     "category": "material",
     "subcategory": "exotic",
     "labels": [
-      "holographic-film"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "holographic-film",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Light-refracting holographic film. Prompt hint: made of light-refracting holographic film with a thin reflective sheet surface, prismatic rainbow shimmer and shifting spectral highlights as the angle changes",
-    "term_zh": "全息膜制",
     "labels_zh": [
-      "材质",
       " exotic",
+      "nodaro",
       "全息膜制",
-      "nodaro"
+      "材质"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.66,
+    "score_v2": 0.66,
+    "term_zh": "全息膜制"
   }
 ]

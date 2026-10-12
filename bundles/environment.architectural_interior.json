@@ -122,7 +122,12 @@
       "force_include": true
     }
   ],
-  "templates": [],
+  "templates": [
+    {
+      "template_id": "scene.environment",
+      "variant_id": "interior_space"
+    }
+  ],
   "prompt_text": "masterpiece, best quality, highly detailed, high resolution, Unreal Engine 5, Blender Cycles, Redshift, Arnold render, raytracing, ACES, minimalist interior, concrete, studio lighting, natural soft lighting, cinematic lighting, wide-angle interior photography, centered composition",
   "prompt_text_zh": "杰作，最高质量，高细节，高分辨率，虚幻引擎5，Blender Cycles，Redshift，Arnold渲染，光线追踪，ACES，极简室内，混凝土，灯光摄影，柔和自然灯光，电影感灯光，广角室内摄影，居中对齐构图",
   "example": {
@@ -147,5 +152,16 @@
   "notes": "This bundle targets architectural visualization and real estate photography. Key differentiators: Unreal Engine 5 / Blender Cycles (0.9) + raytracing (0.9) + ACES (0.85) for professional-grade rendering, studio lighting (0.9) as primary key light, wide-angle (0.9) for spatial context. minimalist design (0.85) + concrete (0.8) form the base. Note: no exact 'modern interior' or 'hardwood' keywords exist; closest is 'minimalist' (0.85) and 'concrete' (0.8).",
   "created_at": "2026-10-06T18:30:00+00:00",
   "updated_at": "2026-10-06T18:30:00+00:00",
-  "bundle_type": "keywords_only"
+  "bundle_type": "keywords_only",
+  "keyword_count": 23,
+  "keyword_categories": [
+    "color-look",
+    "composition",
+    "lighting",
+    "material",
+    "negative",
+    "quality",
+    "scene",
+    "styles"
+  ]
 }

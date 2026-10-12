@@ -7,14 +7,28 @@
       "term_zh": "示例术语",
       "category": "quality",
       "subcategory": "basic",
-      "labels": ["quality", "example"],
-      "labels_zh": ["质量", "示例"],
-      "aliases": ["another name", "synonym"],
-      "aliases_zh": ["另一个名字", "同义词"],
+      "labels": [
+        "quality",
+        "example"
+      ],
+      "labels_zh": [
+        "质量",
+        "示例"
+      ],
+      "aliases": [
+        "another name",
+        "synonym"
+      ],
+      "aliases_zh": [
+        "另一个名字",
+        "同义词"
+      ],
       "score": 0.85,
       "priority": "high",
       "lifecycle": "approved",
-      "tags": ["example"],
+      "tags": [
+        "example"
+      ],
       "source": "manual",
       "notes": "Optional notes about this keyword.",
       "created_at": "2026-10-06T00:00:00+00:00",
@@ -43,5 +57,9 @@
     "updated_at": "Optional. ISO 8601 timestamp.",
     "usage_count": "Optional. Integer, default 0.",
     "success_rate": "Optional. 0–1 or null."
-  }
+  },
+  "id": "template.new_keyword",
+  "name": "New Keyword Template",
+  "name_zh": "新建关键词模板",
+  "variants": []
 }

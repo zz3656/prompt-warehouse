@@ -107,7 +107,16 @@
       "force_include": true
     }
   ],
-  "templates": [],
+  "templates": [
+    {
+      "template_id": "scene.environment",
+      "variant_id": "studio_white_background"
+    },
+    {
+      "template_id": "quality.standard",
+      "variant_id": "product_photography"
+    }
+  ],
   "prompt_text": "masterpiece, best quality, highly detailed, Unreal Engine 5, Blender Cycles, Octane render, raytracing, physically-based rendering, studio lighting, natural soft lighting, centered product, three-quarter angle, matte finish, glossy finish",
   "prompt_text_zh": "杰作，最高质量，高细节，虚幻引擎5，Blender Cycles，Octane渲染，光线追踪，基于物理的渲染，灯光摄影，柔和自然灯光，居中产品，四分之三角度，哑光表面，光泽表面",
   "example": {
@@ -133,5 +142,13 @@
   "notes": "This bundle is for packaging design and 3D mockup generation. Key differentiators: Unreal Engine 5 / Blender Cycles / Octane (0.9) for photorealistic rendering, matte (0.85) + glossy (0.85) + aluminum (0.8) + foil (0.8) for surface treatment variety, studio lighting (0.9). Use with high guidance_scale (8-10) for text/label adherence. Note: no exact 'frosted glass' or 'embossing' keywords exist; closest is 'matte' (0.85) and 'emboss' (0.8).",
   "created_at": "2026-10-06T18:30:00+00:00",
   "updated_at": "2026-10-06T18:30:00+00:00",
-  "bundle_type": "keywords_only"
+  "bundle_type": "keywords_only",
+  "keyword_count": 19,
+  "keyword_categories": [
+    "clothing",
+    "composition",
+    "lighting",
+    "negative",
+    "quality"
+  ]
 }

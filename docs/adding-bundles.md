@@ -50,6 +50,7 @@ Each bundle is a standalone JSON file in the `bundles/` directory:
   "api_targets": ["SDXL", "Midjourney", "Flux"],
 
   // Reference existing keywords with weights and force flags
+// Keywords may have aliases/aliases_zh for synonym matching
   "keywords": [
     {"id": "quality_basic_masterpiece", "weight": 0.95, "force_include": true},
     {"id": "composition_lens_85mm_portrait_lens", "weight": 0.9},

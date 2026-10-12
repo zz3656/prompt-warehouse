@@ -7,26 +7,21 @@
     "labels": [
       "basic",
       "masterpiece",
-      "quality"
+      "quality",
+      "migrated"
     ],
     "score": 0.95,
-    "priority": "high",
     "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "quality"
-    ],
     "created_at": "2026-09-27T17:25:55.751Z",
     "updated_at": "2026-09-29T09:32:45.856496+00:00",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "杰作",
     "labels_zh": [
-      "质量",
       "基础",
-      "杰作"
+      "杰作",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -34,7 +29,16 @@
     ],
     "relation_group": "masterpiece",
     "relation_role": "canonical",
-    "weight": 1.0
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "杰作",
+    "aliases": [
+      "test1",
+      "test2"
+    ],
+    "aliases_zh": [
+      "测试1"
+    ]
   },
   {
     "id": "quality_basic_best_quality",
@@ -43,32 +47,33 @@
     "subcategory": "basic",
     "labels": [
       "basic",
-      "best"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "best",
       "migrated",
       "quality"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "最高质量",
     "labels_zh": [
-      "质量",
       "基础",
-      "最高质量"
+      "最高质量",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "最高质量",
+    "aliases": [
+      "top quality"
+    ]
   },
   {
     "id": "quality_basic_high_quality",
@@ -77,25 +82,21 @@
     "subcategory": "basic",
     "labels": [
       "basic",
-      "high"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "high",
       "migrated",
       "quality"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "高质量",
     "labels_zh": [
-      "质量",
       "基础",
+      "质量",
       "高质量"
     ],
     "compatibility": [
@@ -104,7 +105,13 @@
     ],
     "relation_group": "high quality",
     "relation_role": "canonical",
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "高质量",
+    "aliases": [
+      "highres",
+      "super detailed"
+    ]
   },
   {
     "id": "quality_basic_high_resolution",
@@ -113,32 +120,34 @@
     "subcategory": "basic",
     "labels": [
       "basic",
-      "high"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "high",
       "migrated",
       "quality"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "高分辨率",
     "labels_zh": [
-      "质量",
       "基础",
+      "质量",
       "高分辨率"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "高分辨率",
+    "aliases_zh": [
+      "高清",
+      "高解析度"
+    ]
   },
   {
     "id": "quality_basic_detailed",
@@ -147,26 +156,22 @@
     "subcategory": "basic",
     "labels": [
       "basic",
-      "detailed"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "detailed",
       "migrated",
       "quality"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "细致",
     "labels_zh": [
-      "质量",
       "基础",
-      "细致"
+      "细致",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -174,7 +179,13 @@
     ],
     "relation_group": "detailed",
     "relation_role": "canonical",
-    "weight": 1.0
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "细致",
+    "aliases": [
+      "highly detailed",
+      "intricate details"
+    ]
   },
   {
     "id": "quality_basic_highly_detailed",
@@ -183,32 +194,38 @@
     "subcategory": "basic",
     "labels": [
       "basic",
-      "highly"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "highly",
       "migrated",
       "quality"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "高细节",
     "labels_zh": [
-      "质量",
       "基础",
+      "质量",
       "高细节"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "高细节",
+    "aliases": [
+      "highly detailed",
+      "intricate details"
+    ],
+    "aliases_zh": [
+      "精细细节",
+      "高度细节"
+    ]
   },
   {
     "id": "quality_basic_sharp_focus",
@@ -217,32 +234,34 @@
     "subcategory": "basic",
     "labels": [
       "basic",
-      "sharp"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "sharp",
       "migrated",
       "quality"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "清晰聚焦",
     "labels_zh": [
-      "质量",
       "基础",
-      "清晰聚焦"
+      "清晰聚焦",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "清晰聚焦",
+    "aliases": [
+      "clear focus",
+      "in focus"
+    ]
   },
   {
     "id": "quality_basic_crisp",
@@ -251,32 +270,30 @@
     "subcategory": "basic",
     "labels": [
       "basic",
-      "crisp"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "crisp",
       "migrated",
       "quality"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "锐利",
     "labels_zh": [
-      "质量",
       "基础",
+      "质量",
       "锐利"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "锐利"
   },
   {
     "id": "quality_basic_clear",
@@ -285,32 +302,30 @@
     "subcategory": "basic",
     "labels": [
       "basic",
-      "clear"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "clear",
       "migrated",
       "quality"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "清晰",
     "labels_zh": [
-      "质量",
       "基础",
-      "清晰"
+      "清晰",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "清晰"
   },
   {
     "id": "quality_basic_clean",
@@ -319,32 +334,30 @@
     "subcategory": "basic",
     "labels": [
       "basic",
-      "clean"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "clean",
       "migrated",
       "quality"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "干净",
     "labels_zh": [
-      "质量",
       "基础",
-      "干净"
+      "干净",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "干净"
   },
   {
     "id": "quality_advanced_professional",
@@ -353,32 +366,30 @@
     "subcategory": "advanced",
     "labels": [
       "advanced",
-      "professional"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "professional",
       "migrated",
       "quality"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "专业",
     "labels_zh": [
+      "专业",
       "质量",
-      "高级",
-      "专业"
+      "高级"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "专业"
   },
   {
     "id": "quality_advanced_professional_grade",
@@ -387,32 +398,30 @@
     "subcategory": "advanced",
     "labels": [
       "advanced",
-      "professional"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "professional",
       "migrated",
       "quality"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "专业级",
     "labels_zh": [
+      "专业级",
       "质量",
-      "高级",
-      "专业级"
+      "高级"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "专业级"
   },
   {
     "id": "quality_advanced_award_winning",
@@ -421,32 +430,30 @@
     "subcategory": "advanced",
     "labels": [
       "advanced",
-      "award"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "award",
       "migrated",
       "quality"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "获奖作品",
     "labels_zh": [
+      "获奖作品",
       "质量",
-      "高级",
-      "获奖作品"
+      "高级"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "获奖作品"
   },
   {
     "id": "quality_advanced_trending_on_artstation",
@@ -455,22 +462,18 @@
     "subcategory": "advanced",
     "labels": [
       "advanced",
-      "trending"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "trending",
       "migrated",
       "quality"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "艺术站热门",
     "labels_zh": [
       "质量",
       "高级"
@@ -481,7 +484,9 @@
     ],
     "relation_group": "trending on artstation",
     "relation_role": "canonical",
-    "weight": 0.95
+    "weight": 0.755,
+    "score_v2": 0.755,
+    "term_zh": "艺术站热门"
   },
   {
     "id": "quality_advanced_finely_detailed",
@@ -490,32 +495,38 @@
     "subcategory": "advanced",
     "labels": [
       "advanced",
-      "finely"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "finely",
       "migrated",
       "quality"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "精细细节",
     "labels_zh": [
+      "精细细节",
       "质量",
-      "高级",
-      "精细细节"
+      "高级"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "精细细节",
+    "aliases": [
+      "highly detailed",
+      "intricate details"
+    ],
+    "aliases_zh": [
+      "精细细节",
+      "高度细节"
+    ]
   },
   {
     "id": "quality_advanced_intricate_details",
@@ -524,32 +535,34 @@
     "subcategory": "advanced",
     "labels": [
       "advanced",
-      "intricate"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "intricate",
       "migrated",
       "quality"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "精细细节",
     "labels_zh": [
+      "精细细节",
       "质量",
-      "高级",
-      "精细细节"
+      "高级"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "精细细节",
+    "aliases_zh": [
+      "精细细节",
+      "高度细节"
+    ]
   },
   {
     "id": "quality_advanced_ultra_detailed",
@@ -560,32 +573,33 @@
       "advanced",
       "detail",
       "quality",
-      "ultra-detailed"
+      "ultra-detailed",
+      "migrated"
     ],
     "score": 0.7,
-    "priority": "medium",
     "lifecycle": "approved",
-    "tags": [
-      "migrated",
-      "quality"
-    ],
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-29T09:32:45.856337+00:00",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "超精细",
     "labels_zh": [
       "质量",
-      "高级",
-      "超精细"
+      "超精细",
+      "高级"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "超精细",
+    "aliases": [
+      "highly detailed",
+      "intricate details"
+    ]
   },
   {
     "id": "quality_advanced_8k_uhd",
@@ -594,33 +608,31 @@
     "subcategory": "advanced",
     "labels": [
       "advanced",
-      "8k"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "8k",
       "migrated",
       "quality"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "8K UHD",
     "labels_zh": [
-      "质量",
-      "高级",
       "8K",
-      "UHD"
+      "UHD",
+      "质量",
+      "高级"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "8K UHD"
   },
   {
     "id": "quality_advanced_photorealistic_rendering",
@@ -629,22 +641,18 @@
     "subcategory": "advanced",
     "labels": [
       "advanced",
-      "photorealistic"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "photorealistic",
       "migrated",
       "quality"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "照片级写实渲染",
     "labels_zh": [
       "质量",
       "高级"
@@ -653,7 +661,17 @@
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "照片级写实渲染",
+    "aliases": [
+      "photorealistic",
+      "realistic rendering"
+    ],
+    "aliases_zh": [
+      "照片级真实",
+      "逼真渲染"
+    ]
   },
   {
     "id": "quality_advanced_premium_quality",
@@ -662,32 +680,30 @@
     "subcategory": "advanced",
     "labels": [
       "advanced",
-      "premium"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "premium",
       "migrated",
       "quality"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "顶级质量",
     "labels_zh": [
       "质量",
-      "高级",
-      "顶级质量"
+      "顶级质量",
+      "高级"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "顶级质量"
   },
   {
     "id": "quality_animespecific_vivid_colors",
@@ -696,25 +712,21 @@
     "subcategory": "animespecific",
     "labels": [
       "animeSpecific",
-      "vivid"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "vivid",
       "migrated",
       "quality"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "鲜艳颜色",
     "labels_zh": [
-      "质量",
       "动漫专用",
+      "质量",
       "鲜艳颜色"
     ],
     "compatibility": [
@@ -723,7 +735,9 @@
     ],
     "relation_group": "vivid colors",
     "relation_role": "canonical",
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "鲜艳颜色"
   },
   {
     "id": "quality_animespecific_colorful",
@@ -732,26 +746,22 @@
     "subcategory": "animespecific",
     "labels": [
       "animeSpecific",
-      "colorful"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "colorful",
       "migrated",
       "quality"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "色彩丰富",
     "labels_zh": [
-      "质量",
       "动漫专用",
-      "色彩丰富"
+      "色彩丰富",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -759,7 +769,9 @@
     ],
     "relation_group": "colorful",
     "relation_role": "canonical",
-    "weight": 0.95
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "色彩丰富"
   },
   {
     "id": "quality_animespecific_beautiful_lighting",
@@ -768,26 +780,22 @@
     "subcategory": "animespecific",
     "labels": [
       "animeSpecific",
-      "beautiful"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "beautiful",
       "migrated",
       "quality"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "美丽照明",
     "labels_zh": [
-      "质量",
       "动漫专用",
-      "美丽照明"
+      "美丽照明",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -795,7 +803,9 @@
     ],
     "relation_group": "beautiful lighting",
     "relation_role": "canonical",
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "美丽照明"
   },
   {
     "id": "quality_animespecific_official_art",
@@ -804,32 +814,30 @@
     "subcategory": "animespecific",
     "labels": [
       "animeSpecific",
-      "official"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "official",
       "migrated",
       "quality"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "官方艺术",
     "labels_zh": [
-      "质量",
       "动漫专用",
-      "官方艺术"
+      "官方艺术",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "官方艺术"
   },
   {
     "id": "quality_animespecific_key_visual",
@@ -838,25 +846,21 @@
     "subcategory": "animespecific",
     "labels": [
       "animeSpecific",
-      "key"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "key",
       "migrated",
       "quality"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "钥匙视觉",
     "labels_zh": [
-      "质量",
       "动漫专用",
+      "质量",
       "钥匙视觉"
     ],
     "compatibility": [
@@ -865,7 +869,9 @@
     ],
     "relation_group": "key visual",
     "relation_role": "canonical",
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "钥匙视觉"
   },
   {
     "id": "quality_animespecific_anime_screencap",
@@ -874,26 +880,22 @@
     "subcategory": "animespecific",
     "labels": [
       "animeSpecific",
-      "anime"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "anime",
       "migrated",
       "quality"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "动漫截图",
     "labels_zh": [
-      "质量",
       "动漫专用",
-      "动漫截图"
+      "动漫截图",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -901,7 +903,9 @@
     ],
     "relation_group": "anime screencap",
     "relation_role": "canonical",
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "动漫截图"
   },
   {
     "id": "quality_animespecific_anime_still",
@@ -910,26 +914,22 @@
     "subcategory": "animespecific",
     "labels": [
       "animeSpecific",
-      "anime"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "anime",
       "migrated",
       "quality"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "动漫静帧",
     "labels_zh": [
-      "质量",
       "动漫专用",
-      "动漫静帧"
+      "动漫静帧",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -937,7 +937,9 @@
     ],
     "relation_group": "anime still",
     "relation_role": "canonical",
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "动漫静帧"
   },
   {
     "id": "quality_animespecific_clean_lineart",
@@ -946,32 +948,30 @@
     "subcategory": "animespecific",
     "labels": [
       "animeSpecific",
-      "clean"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "clean",
       "migrated",
       "quality"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "干净线稿",
     "labels_zh": [
-      "质量",
       "动漫专用",
-      "干净线稿"
+      "干净线稿",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "干净线稿"
   },
   {
     "id": "quality_animespecific_smooth_coloring",
@@ -980,32 +980,30 @@
     "subcategory": "animespecific",
     "labels": [
       "animeSpecific",
-      "smooth"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "smooth",
       "migrated",
       "quality"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "平滑上色",
     "labels_zh": [
-      "质量",
       "动漫专用",
-      "平滑上色"
+      "平滑上色",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "平滑上色"
   },
   {
     "id": "quality_animespecific_detailed_cel_shading",
@@ -1014,31 +1012,33 @@
     "subcategory": "animespecific",
     "labels": [
       "animeSpecific",
-      "detailed"
-    ],
-    "score": 0.7,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "detailed",
       "migrated",
       "quality"
     ],
+    "score": 0.7,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.752Z",
     "updated_at": "2026-09-27T17:25:55.752Z",
     "source": "h3-comic-builder (original JS migration)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "赛璐珞上色",
     "labels_zh": [
-      "质量",
-      "动漫专用"
+      "动漫专用",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.755,
+    "score_v2": 0.755,
+    "term_zh": "赛璐珞上色",
+    "aliases": [
+      "highly detailed",
+      "intricate details"
+    ]
   },
   {
     "id": "quality_basic_highres",
@@ -1048,34 +1048,36 @@
     "labels": [
       "resolution",
       "highres",
-      "detail"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "detail",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.497Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "高分辨率",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "基础",
-      "高分辨率",
-      "danbooru"
+      "质量",
+      "高分辨率"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "高分辨率",
+    "aliases_zh": [
+      "高清",
+      "高解析度"
+    ]
   },
   {
     "id": "quality_basic_absurdres",
@@ -1085,33 +1087,35 @@
     "labels": [
       "resolution",
       "absurdres",
-      "ultra"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "ultra",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "超高分辨率",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "基础",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "超高分辨率",
+    "aliases_zh": [
+      "高清",
+      "高解析度"
+    ]
   },
   {
     "id": "quality_basic_raw_photo",
@@ -1121,35 +1125,33 @@
     "labels": [
       "photo",
       "raw",
-      "photographic"
-    ],
-    "score": 0.9,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "photographic",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.9,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "RAW 照片",
     "labels_zh": [
-      "质量",
-      "基础",
       "RAW",
+      "danbooru",
+      "基础",
       "照片",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "RAW 照片"
   },
   {
     "id": "quality_basic_photograph",
@@ -1159,28 +1161,24 @@
     "labels": [
       "photo",
       "photograph",
-      "photographic"
-    ],
-    "score": 0.9,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "photographic",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.9,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "摄影",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "基础",
       "摄影",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -1188,7 +1186,9 @@
     ],
     "relation_group": "photograph",
     "relation_role": "variant",
-    "weight": 1.0
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "摄影"
   },
   {
     "id": "quality_basic_super_details",
@@ -1198,34 +1198,36 @@
     "labels": [
       "detail",
       "super",
-      "super-details"
-    ],
-    "score": 0.9,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "super-details",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.9,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "超级细节",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "基础",
-      "超级细节",
-      "danbooru"
+      "质量",
+      "超级细节"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "超级细节",
+    "aliases_zh": [
+      "精细细节",
+      "高度细节"
+    ]
   },
   {
     "id": "quality_basic_soft_lighting",
@@ -1235,28 +1237,24 @@
     "labels": [
       "lighting",
       "soft",
-      "gentle"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "gentle",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "柔光",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "基础",
       "柔光",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -1264,7 +1262,9 @@
     ],
     "relation_group": "soft lighting",
     "relation_role": "canonical",
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "柔光"
   },
   {
     "id": "quality_basic_shallow_depth_of_field",
@@ -1274,28 +1274,24 @@
     "labels": [
       "depth",
       "dof",
-      "blur"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "blur",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "浅景深",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "基础",
       "浅景深",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -1303,7 +1299,13 @@
     ],
     "relation_group": "shallow depth of field",
     "relation_role": "canonical",
-    "weight": 1.0
+    "weight": 0.795,
+    "score_v2": 0.795,
+    "term_zh": "浅景深",
+    "aliases": [
+      "DOF",
+      "focus range"
+    ]
   },
   {
     "id": "quality_basic_photographic",
@@ -1313,34 +1315,32 @@
     "labels": [
       "photo",
       "photographic",
-      "camera"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "camera",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "摄影",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "基础",
       "摄影",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "摄影"
   },
   {
     "id": "quality_basic_film_grain",
@@ -1350,28 +1350,24 @@
     "labels": [
       "film",
       "grain",
-      "analog"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "analog",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "胶片颗粒",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "基础",
       "胶片颗粒",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -1379,7 +1375,13 @@
     ],
     "relation_group": "film grain",
     "relation_role": "canonical",
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "胶片颗粒",
+    "aliases": [
+      "raindrops",
+      "rainy weather"
+    ]
   },
   {
     "id": "quality_basic_hdr",
@@ -1389,28 +1391,24 @@
     "labels": [
       "hdr",
       "dynamic-range",
-      "lighting"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "lighting",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "HDR",
     "labels_zh": [
-      "质量",
-      "基础",
       "HDR",
-      "danbooru"
+      "danbooru",
+      "基础",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -1418,7 +1416,9 @@
     ],
     "relation_group": "hdr",
     "relation_role": "canonical",
-    "weight": 0.95
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "HDR"
   },
   {
     "id": "quality_advanced_concept_art",
@@ -1428,28 +1428,24 @@
     "labels": [
       "concept",
       "art",
-      "digital-art"
-    ],
-    "score": 0.9,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "digital-art",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.9,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "概念艺术",
     "labels_zh": [
-      "质量",
-      "高级",
+      "danbooru",
       "概念艺术",
-      "danbooru"
+      "质量",
+      "高级"
     ],
     "compatibility": [
       "sdxl",
@@ -1457,7 +1453,9 @@
     ],
     "relation_group": "concept art",
     "relation_role": "canonical",
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "概念艺术"
   },
   {
     "id": "quality_advanced_digital_art",
@@ -1467,28 +1465,24 @@
     "labels": [
       "digital",
       "art",
-      "illustration"
-    ],
-    "score": 0.9,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "illustration",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.9,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "数字艺术",
     "labels_zh": [
-      "质量",
-      "高级",
+      "danbooru",
       "数字艺术",
-      "danbooru"
+      "质量",
+      "高级"
     ],
     "compatibility": [
       "sdxl",
@@ -1496,7 +1490,9 @@
     ],
     "relation_group": "digital art",
     "relation_role": "canonical",
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "数字艺术"
   },
   {
     "id": "quality_advanced_illustration",
@@ -1506,28 +1502,24 @@
     "labels": [
       "illustration",
       "art",
-      "drawing"
-    ],
-    "score": 0.9,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "drawing",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.9,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "插画",
     "labels_zh": [
-      "质量",
-      "高级",
+      "danbooru",
       "插画",
-      "danbooru"
+      "质量",
+      "高级"
     ],
     "compatibility": [
       "sdxl",
@@ -1535,7 +1527,9 @@
     ],
     "relation_group": "illustration",
     "relation_role": "canonical",
-    "weight": 1.0
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "插画"
   },
   {
     "id": "quality_advanced_finely_painted",
@@ -1545,34 +1539,32 @@
     "labels": [
       "painted",
       "finely",
-      "brush"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "brush",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "精细绘制",
     "labels_zh": [
-      "质量",
-      "高级",
+      "danbooru",
       "精细绘制",
-      "danbooru"
+      "质量",
+      "高级"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "精细绘制"
   },
   {
     "id": "quality_advanced_smooth_shading",
@@ -1582,34 +1574,32 @@
     "labels": [
       "shading",
       "smooth",
-      "color"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "color",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "平滑阴影",
     "labels_zh": [
-      "质量",
-      "高级",
+      "danbooru",
       "平滑阴影",
-      "danbooru"
+      "质量",
+      "高级"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "平滑阴影"
   },
   {
     "id": "quality_advanced_masterful_coloring",
@@ -1619,34 +1609,32 @@
     "labels": [
       "coloring",
       "masterful",
-      "color"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "color",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "精湛上色",
     "labels_zh": [
-      "质量",
-      "高级",
+      "danbooru",
       "精湛上色",
-      "danbooru"
+      "质量",
+      "高级"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "精湛上色"
   },
   {
     "id": "quality_advanced_beautiful_composition",
@@ -1656,34 +1644,32 @@
     "labels": [
       "composition",
       "beautiful",
-      "arrangement"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "arrangement",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "美丽构图",
     "labels_zh": [
-      "质量",
-      "高级",
+      "danbooru",
       "美丽构图",
-      "danbooru"
+      "质量",
+      "高级"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "美丽构图"
   },
   {
     "id": "quality_advanced_professional_illustration",
@@ -1693,34 +1679,32 @@
     "labels": [
       "professional",
       "illustration",
-      "art"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "art",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "专业插画",
     "labels_zh": [
-      "质量",
-      "高级",
+      "danbooru",
       "专业插画",
-      "danbooru"
+      "质量",
+      "高级"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "专业插画"
   },
   {
     "id": "quality_advanced_professional_concept_art",
@@ -1730,34 +1714,32 @@
     "labels": [
       "professional",
       "concept",
-      "art"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "art",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "概念艺术",
     "labels_zh": [
-      "质量",
-      "高级",
+      "danbooru",
       "概念艺术",
-      "danbooru"
+      "质量",
+      "高级"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.755,
+    "score_v2": 0.755,
+    "term_zh": "概念艺术"
   },
   {
     "id": "quality_advanced_best_masterpiece",
@@ -1767,34 +1749,35 @@
     "labels": [
       "best",
       "masterpiece",
-      "booster"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "booster",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "最佳杰作",
     "labels_zh": [
-      "质量",
-      "高级",
+      "danbooru",
       "最佳杰作",
-      "danbooru"
+      "质量",
+      "高级"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "最佳杰作",
+    "aliases": [
+      "award-winning artwork"
+    ]
   },
   {
     "id": "quality_advanced_fav",
@@ -1804,34 +1787,32 @@
     "labels": [
       "fav",
       "favorite",
-      "booster"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "booster",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "收藏",
     "labels_zh": [
-      "质量",
-      "高级",
+      "danbooru",
       "收藏",
-      "danbooru"
+      "质量",
+      "高级"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "收藏"
   },
   {
     "id": "quality_advanced_awards_winner",
@@ -1841,34 +1822,32 @@
     "labels": [
       "awards",
       "winner",
-      "prize"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "prize",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "获奖作品",
     "labels_zh": [
-      "质量",
-      "高级",
+      "danbooru",
       "获奖作品",
-      "danbooru"
+      "质量",
+      "高级"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "获奖作品"
   },
   {
     "id": "quality_advanced_award_winning_illustration",
@@ -1878,33 +1857,31 @@
     "labels": [
       "award",
       "winning",
-      "illustration"
-    ],
-    "score": 0.9,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "illustration",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.9,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "获奖作品插画",
     "labels_zh": [
+      "danbooru",
       "质量",
-      "高级",
-      "danbooru"
+      "高级"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "获奖作品插画"
   },
   {
     "id": "quality_advanced_comment_worthy",
@@ -1914,34 +1891,31 @@
     "labels": [
       "comment-worthy",
       "quality",
-      "feedback"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "feedback",
       "added",
-      "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "值得评论",
     "labels_zh": [
-      "质量",
-      "高级",
+      "danbooru",
       "值得评论",
-      "danbooru"
+      "质量",
+      "高级"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "值得评论"
   },
   {
     "id": "quality_advanced_front_page",
@@ -1951,34 +1925,32 @@
     "labels": [
       "front-page",
       "popular",
-      "trending"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "trending",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "头版",
     "labels_zh": [
-      "质量",
-      "高级",
+      "danbooru",
       "头版",
-      "danbooru"
+      "质量",
+      "高级"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "头版"
   },
   {
     "id": "quality_advanced_trending_art",
@@ -1988,34 +1960,32 @@
     "labels": [
       "trending",
       "art",
-      "popular"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "popular",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "热门艺术",
     "labels_zh": [
-      "质量",
-      "高级",
+      "danbooru",
       "热门艺术",
-      "danbooru"
+      "质量",
+      "高级"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "热门艺术"
   },
   {
     "id": "quality_advanced_inquire_within",
@@ -2025,34 +1995,32 @@
     "labels": [
       "inquire-within",
       "art",
-      "booru"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "booru",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "请询问",
     "labels_zh": [
-      "质量",
-      "高级",
+      "danbooru",
       "请询问",
-      "danbooru"
+      "质量",
+      "高级"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "请询问"
   },
   {
     "id": "quality_anime_colorful_lighting",
@@ -2062,33 +2030,31 @@
     "labels": [
       "anime",
       "colorful",
-      "lighting"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "lighting",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "色彩丰富照明",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "动漫",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "色彩丰富照明"
   },
   {
     "id": "quality_anime_clean_coloring",
@@ -2098,34 +2064,32 @@
     "labels": [
       "anime",
       "coloring",
-      "clean"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "clean",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "干净上色",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "动漫",
       "干净上色",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "干净上色"
   },
   {
     "id": "quality_anime__detailed_background",
@@ -2135,34 +2099,36 @@
     "labels": [
       "anime",
       "background",
-      "detailed"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "detailed",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "细致背景",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "动漫",
       "细致背景",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "细致背景",
+    "aliases": [
+      "highly detailed",
+      "intricate details"
+    ]
   },
   {
     "id": "quality_anime__elaborate_background",
@@ -2172,34 +2138,32 @@
     "labels": [
       "anime",
       "background",
-      "elaborate"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "elaborate",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "精细背景",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "动漫",
       "精细背景",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "精细背景"
   },
   {
     "id": "quality_anime_look_at_viewer",
@@ -2209,34 +2173,32 @@
     "labels": [
       "anime",
       "viewer",
-      "eye-contact"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "eye-contact",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "注视观众",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "动漫",
       "注视观众",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.755,
+    "score_v2": 0.755,
+    "term_zh": "注视观众"
   },
   {
     "id": "quality_anime_masterpiece_best_quality",
@@ -2246,34 +2208,35 @@
     "labels": [
       "anime",
       "booster",
-      "masterpiece"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "masterpiece",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "最高质量",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "动漫",
       "最高质量",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "最高质量",
+    "aliases": [
+      "award-winning artwork"
+    ]
   },
   {
     "id": "quality_anime_original",
@@ -2283,34 +2246,32 @@
     "labels": [
       "anime",
       "original",
-      "oc"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "oc",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "原创",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "动漫",
       "原创",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "原创"
   },
   {
     "id": "quality_anime_1girl",
@@ -2320,28 +2281,24 @@
     "labels": [
       "anime",
       "solo",
-      "female"
-    ],
-    "score": 0.9,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "female",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.9,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "1 女孩",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "动漫",
       "女孩",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -2349,7 +2306,9 @@
     ],
     "relation_group": "1girl",
     "relation_role": "canonical",
-    "weight": 1.0
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "1 女孩"
   },
   {
     "id": "quality_anime_1boy",
@@ -2359,28 +2318,24 @@
     "labels": [
       "anime",
       "solo",
-      "male"
-    ],
-    "score": 0.9,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "male",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.9,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "1 男孩",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "动漫",
       "男孩",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -2388,7 +2343,9 @@
     ],
     "relation_group": "1boy",
     "relation_role": "canonical",
-    "weight": 1.0
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "1 男孩"
   },
   {
     "id": "quality_technical_ray_tracing",
@@ -2398,28 +2355,24 @@
     "labels": [
       "ray-tracing",
       "rendering",
-      "realistic"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "realistic",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "光线追踪",
     "labels_zh": [
-      "质量",
-      "技术",
+      "danbooru",
       "光线追踪",
-      "danbooru"
+      "技术",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -2427,7 +2380,9 @@
     ],
     "relation_group": "ray tracing",
     "relation_role": "canonical",
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "光线追踪"
   },
   {
     "id": "quality_technical_global_illumination",
@@ -2437,28 +2392,24 @@
     "labels": [
       "gi",
       "lighting",
-      "rendering"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "rendering",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "全局光照",
     "labels_zh": [
-      "质量",
-      "技术",
+      "danbooru",
       "全局光照",
-      "danbooru"
+      "技术",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -2466,7 +2417,9 @@
     ],
     "relation_group": "global illumination",
     "relation_role": "canonical",
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "全局光照"
   },
   {
     "id": "quality_technical_ambient_occlusion",
@@ -2476,27 +2429,23 @@
     "labels": [
       "ao",
       "lighting",
-      "shadow"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "shadow",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "环境光遮蔽",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "技术",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -2504,7 +2453,9 @@
     ],
     "relation_group": "ambient occlusion",
     "relation_role": "canonical",
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "环境光遮蔽"
   },
   {
     "id": "quality_technical_depth_of_field",
@@ -2514,28 +2465,24 @@
     "labels": [
       "dof",
       "bokeh",
-      "blur"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "blur",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "景深",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "技术",
       "景深",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -2543,7 +2490,13 @@
     ],
     "relation_group": "depth of field",
     "relation_role": "canonical",
-    "weight": 1.0
+    "weight": 0.755,
+    "score_v2": 0.755,
+    "term_zh": "景深",
+    "aliases": [
+      "DOF",
+      "focus range"
+    ]
   },
   {
     "id": "quality_technical_chromatic_aberration",
@@ -2553,28 +2506,24 @@
     "labels": [
       "chromatic",
       "aberration",
-      "lens"
-    ],
-    "score": 0.75,
-    "priority": "low",
-    "lifecycle": "approved",
-    "tags": [
+      "lens",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.75,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "色差",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "技术",
       "色差",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -2582,7 +2531,13 @@
     ],
     "relation_group": "chromatic aberration",
     "relation_role": "canonical",
-    "weight": 0.85
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "色差",
+    "aliases": [
+      "color fringing",
+      "lens distortion"
+    ]
   },
   {
     "id": "quality_technical_motion_blur",
@@ -2592,28 +2547,24 @@
     "labels": [
       "motion",
       "blur",
-      "action"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "action",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "动态模糊",
     "labels_zh": [
-      "质量",
-      "技术",
+      "danbooru",
       "动态模糊",
-      "danbooru"
+      "技术",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -2621,7 +2572,13 @@
     ],
     "relation_group": "motion blur",
     "relation_role": "canonical",
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "动态模糊",
+    "aliases": [
+      "moving blur",
+      "speed blur"
+    ]
   },
   {
     "id": "quality_technical_film_look",
@@ -2631,34 +2588,32 @@
     "labels": [
       "film",
       "look",
-      "cinematic"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "cinematic",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "胶片感",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "技术",
       "胶片感",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "胶片感"
   },
   {
     "id": "quality_technical_cinematic_look",
@@ -2668,34 +2623,40 @@
     "labels": [
       "cinematic",
       "look",
-      "movie"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "movie",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "电影感",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "技术",
       "电影感",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "电影感",
+    "aliases": [
+      "film-like",
+      "movie-style"
+    ],
+    "aliases_zh": [
+      " cinematic",
+      "电影风格"
+    ]
   },
   {
     "id": "quality_technical_studio_quality",
@@ -2705,34 +2666,31 @@
     "labels": [
       "studio",
       "quality",
-      "professional"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "professional",
       "added",
-      "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "影棚质量",
     "labels_zh": [
-      "质量",
-      "技术",
+      "danbooru",
       "影棚质量",
-      "danbooru"
+      "技术",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "影棚质量"
   },
   {
     "id": "quality_technical_octane_render",
@@ -2742,34 +2700,32 @@
     "labels": [
       "octane",
       "render",
-      "3d"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "3d",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "Octane 渲染",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "技术",
       "渲染",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "Octane 渲染"
   },
   {
     "id": "quality_technical_unreal_engine",
@@ -2779,34 +2735,32 @@
     "labels": [
       "unreal",
       "engine",
-      "3d"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "3d",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "虚幻引擎",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "技术",
       "虚幻引擎",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "虚幻引擎"
   },
   {
     "id": "quality_technical_blender",
@@ -2816,33 +2770,31 @@
     "labels": [
       "blender",
       "3d",
-      "render"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "render",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "Blender",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "技术",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "Blender"
   },
   {
     "id": "quality_technical_vray",
@@ -2852,33 +2804,31 @@
     "labels": [
       "vray",
       "render",
-      "3d"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "3d",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "V-Ray",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "技术",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "V-Ray"
   },
   {
     "id": "quality_technical_porcelain_skin",
@@ -2888,34 +2838,36 @@
     "labels": [
       "porcelain",
       "skin",
-      "smooth"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "smooth",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "瓷器皮肤",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "技术",
       "瓷器皮肤",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "瓷器皮肤",
+    "aliases": [
+      "brutal orc",
+      "warrior orc"
+    ]
   },
   {
     "id": "quality_technical_pores",
@@ -2925,34 +2877,32 @@
     "labels": [
       "pores",
       "skin",
-      "texture"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "texture",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "毛孔",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "技术",
       "毛孔",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "毛孔"
   },
   {
     "id": "quality_technical_skin_details",
@@ -2962,34 +2912,36 @@
     "labels": [
       "skin",
       "details",
-      "texture"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "texture",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "皮肤细节",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "技术",
       "皮肤细节",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "皮肤细节",
+    "aliases_zh": [
+      "精细细节",
+      "高度细节"
+    ]
   },
   {
     "id": "quality_technical_sharp_details",
@@ -2999,34 +2951,36 @@
     "labels": [
       "sharp",
       "details",
-      "texture"
-    ],
-    "score": 0.9,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "texture",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.9,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "锐利细节",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "技术",
-      "锐利细节",
-      "danbooru"
+      "质量",
+      "锐利细节"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "锐利细节",
+    "aliases_zh": [
+      "精细细节",
+      "高度细节"
+    ]
   },
   {
     "id": "quality_technical_detailed_skin",
@@ -3036,34 +2990,36 @@
     "labels": [
       "detailed",
       "skin",
-      "texture"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "texture",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "细致皮肤",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "技术",
       "细致皮肤",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "细致皮肤",
+    "aliases": [
+      "highly detailed",
+      "intricate details"
+    ]
   },
   {
     "id": "quality_technical__intricate_design",
@@ -3073,34 +3029,32 @@
     "labels": [
       "intricate",
       "design",
-      "pattern"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "pattern",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "精致设计",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "技术",
       "精致设计",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "精致设计"
   },
   {
     "id": "quality_technical_intricate",
@@ -3110,28 +3064,24 @@
     "labels": [
       "intricate",
       "detail",
-      "complex"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "complex",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "精致",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "技术",
       "精致",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -3139,7 +3089,9 @@
     ],
     "relation_group": "intricate",
     "relation_role": "canonical",
-    "weight": 1.0
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "精致"
   },
   {
     "id": "quality_composition_symmetrical_composition",
@@ -3149,28 +3101,24 @@
     "labels": [
       "symmetrical",
       "composition",
-      "balance"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "balance",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "对称构图",
     "labels_zh": [
-      "质量",
-      "构图",
+      "danbooru",
       "对称构图",
-      "danbooru"
+      "构图",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -3178,7 +3126,13 @@
     ],
     "relation_group": "symmetrical composition",
     "relation_role": "canonical",
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "对称构图",
+    "aliases": [
+      "balanced composition",
+      "symmetry composition"
+    ]
   },
   {
     "id": "quality_composition_balanced_composition",
@@ -3188,34 +3142,32 @@
     "labels": [
       "balanced",
       "composition",
-      "arrangement"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "arrangement",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "平衡构图",
     "labels_zh": [
-      "质量",
-      "构图",
+      "danbooru",
       "平衡构图",
-      "danbooru"
+      "构图",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "平衡构图"
   },
   {
     "id": "quality_composition_dramatic_angle",
@@ -3225,28 +3177,24 @@
     "labels": [
       "dramatic",
       "angle",
-      "camera"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "camera",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "戏剧角度",
     "labels_zh": [
-      "质量",
-      "构图",
+      "danbooru",
       "戏剧角度",
-      "danbooru"
+      "构图",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -3254,7 +3202,12 @@
     ],
     "relation_group": "dramatic angle",
     "relation_role": "canonical",
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "戏剧角度",
+    "aliases": [
+      "dramatic lighting"
+    ]
   },
   {
     "id": "quality_composition_dynamic_angle",
@@ -3264,28 +3217,24 @@
     "labels": [
       "dynamic",
       "angle",
-      "camera"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "camera",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "动态角度",
     "labels_zh": [
-      "质量",
-      "构图",
+      "danbooru",
       "动态角度",
-      "danbooru"
+      "构图",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -3293,7 +3242,9 @@
     ],
     "relation_group": "dynamic angle",
     "relation_role": "canonical",
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "动态角度"
   },
   {
     "id": "quality_composition_rule_of_thirds",
@@ -3303,28 +3254,24 @@
     "labels": [
       "rule",
       "thirds",
-      "composition"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "composition",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "三分法",
     "labels_zh": [
-      "质量",
-      "构图",
+      "danbooru",
       "三分法",
-      "danbooru"
+      "构图",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -3332,7 +3279,12 @@
     ],
     "relation_group": "rule of thirds",
     "relation_role": "canonical",
-    "weight": 0.95
+    "weight": 0.755,
+    "score_v2": 0.755,
+    "term_zh": "三分法",
+    "aliases": [
+      "thirds composition"
+    ]
   },
   {
     "id": "quality_composition_full_shot",
@@ -3342,28 +3294,24 @@
     "labels": [
       "full",
       "shot",
-      "body"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "body",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "全景",
     "labels_zh": [
-      "质量",
-      "构图",
+      "danbooru",
       "全景",
-      "danbooru"
+      "构图",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -3371,7 +3319,9 @@
     ],
     "relation_group": "full shot",
     "relation_role": "variant",
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "全景"
   },
   {
     "id": "quality_composition_upper_body",
@@ -3381,34 +3331,32 @@
     "labels": [
       "upper",
       "body",
-      "portrait"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "portrait",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "上半身",
     "labels_zh": [
-      "质量",
-      "构图",
+      "danbooru",
       "上半身",
-      "danbooru"
+      "构图",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "上半身"
   },
   {
     "id": "quality_composition_three_quarter_shot",
@@ -3418,33 +3366,31 @@
     "labels": [
       "three-quarter",
       "shot",
-      "body"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "body",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "四分之三镜头",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "构图",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "四分之三镜头"
   },
   {
     "id": "quality_composition_cowboy_shot",
@@ -3454,27 +3400,23 @@
     "labels": [
       "cowboy",
       "shot",
-      "thighs"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "thighs",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "七分身镜头",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "构图",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -3482,7 +3424,9 @@
     ],
     "relation_group": "cowboy shot",
     "relation_role": "variant",
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "七分身镜头"
   },
   {
     "id": "quality_composition_visual_story",
@@ -3492,34 +3436,32 @@
     "labels": [
       "visual",
       "story",
-      "narrative"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "narrative",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "视觉故事",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "构图",
       "视觉故事",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "视觉故事"
   },
   {
     "id": "quality_atmosphere_atmospheric",
@@ -3529,34 +3471,32 @@
     "labels": [
       "atmospheric",
       "mood",
-      "vibe"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "vibe",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "氛围",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "大气",
       "氛围",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "氛围"
   },
   {
     "id": "quality_atmosphere_volumetric_fog",
@@ -3566,28 +3506,24 @@
     "labels": [
       "volumetric",
       "fog",
-      "mist"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "mist",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "体积雾",
     "labels_zh": [
-      "质量",
-      "大气",
+      "danbooru",
       "体积雾",
-      "danbooru"
+      "大气",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -3595,7 +3531,9 @@
     ],
     "relation_group": "volumetric fog",
     "relation_role": "canonical",
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "体积雾"
   },
   {
     "id": "quality_atmosphere_atmospheric_fog",
@@ -3605,34 +3543,32 @@
     "labels": [
       "atmospheric",
       "fog",
-      "mist"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "mist",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "氛围雾",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "大气",
       "氛围雾",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "氛围雾"
   },
   {
     "id": "quality_atmosphere_smoke",
@@ -3642,28 +3578,24 @@
     "labels": [
       "smoke",
       "vapor",
-      "atmosphere"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "atmosphere",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "烟雾",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "大气",
       "烟雾",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -3671,7 +3603,9 @@
     ],
     "relation_group": "smoke",
     "relation_role": "canonical",
-    "weight": 1.0
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "烟雾"
   },
   {
     "id": "quality_atmosphere_misty",
@@ -3681,28 +3615,24 @@
     "labels": [
       "misty",
       "fog",
-      "haze"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "haze",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "薄雾",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "大气",
       "薄雾",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -3710,7 +3640,9 @@
     ],
     "relation_group": "misty",
     "relation_role": "canonical",
-    "weight": 1.0
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "薄雾"
   },
   {
     "id": "quality_atmosphere_ethereal",
@@ -3720,28 +3652,24 @@
     "labels": [
       "ethereal",
       "dreamy",
-      "otherworldly"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "otherworldly",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "空灵",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "大气",
       "空灵",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -3749,7 +3677,9 @@
     ],
     "relation_group": "ethereal",
     "relation_role": "canonical",
-    "weight": 1.0
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "空灵"
   },
   {
     "id": "quality_atmosphere_eerie",
@@ -3759,34 +3689,32 @@
     "labels": [
       "eerie",
       "creepy",
-      "spooky"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "spooky",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "诡异",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "大气",
       "诡异",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "诡异"
   },
   {
     "id": "quality_atmosphere_gothic",
@@ -3796,28 +3724,24 @@
     "labels": [
       "gothic",
       "dark",
-      "medieval"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "medieval",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "哥特",
     "labels_zh": [
-      "质量",
-      "大气",
+      "danbooru",
       "哥特",
-      "danbooru"
+      "大气",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -3825,7 +3749,9 @@
     ],
     "relation_group": "gothic",
     "relation_role": "canonical",
-    "weight": 0.95
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "哥特"
   },
   {
     "id": "quality_atmosphere_romantic_atmosphere",
@@ -3835,34 +3761,32 @@
     "labels": [
       "romantic",
       "atmosphere",
-      "love"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "love",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "浪漫氛围",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "大气",
       "浪漫氛围",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "浪漫氛围"
   },
   {
     "id": "quality_atmosphere_dreamy_atmosphere",
@@ -3872,34 +3796,32 @@
     "labels": [
       "dreamy",
       "atmosphere",
-      "fantasy"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "fantasy",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "梦幻氛围",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "大气",
       "梦幻氛围",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "梦幻氛围"
   },
   {
     "id": "quality_atmosphere_magical_atmosphere",
@@ -3909,34 +3831,32 @@
     "labels": [
       "magical",
       "atmosphere",
-      "fantasy"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "fantasy",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "魔幻氛围",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "大气",
-      "魔幻氛围",
-      "danbooru"
+      "质量",
+      "魔幻氛围"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "魔幻氛围"
   },
   {
     "id": "quality_atmosphere_mysterious_atmosphere",
@@ -3946,34 +3866,32 @@
     "labels": [
       "mysterious",
       "atmosphere",
-      "secret"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "secret",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "神秘氛围",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "大气",
       "神秘氛围",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "神秘氛围"
   },
   {
     "id": "quality_atmosphere_epic_atmosphere",
@@ -3983,34 +3901,32 @@
     "labels": [
       "epic",
       "atmosphere",
-      "grand"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "grand",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "史诗氛围",
     "labels_zh": [
-      "质量",
-      "大气",
+      "danbooru",
       "史诗氛围",
-      "danbooru"
+      "大气",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "史诗氛围"
   },
   {
     "id": "quality_atmosphere_peaceful_atmosphere",
@@ -4020,34 +3936,32 @@
     "labels": [
       "peaceful",
       "atmosphere",
-      "calm"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "calm",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "宁静氛围",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "大气",
       "宁静氛围",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "宁静氛围"
   },
   {
     "id": "quality_atmosphere_serene",
@@ -4057,34 +3971,32 @@
     "labels": [
       "serene",
       "peaceful",
-      "calm"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "calm",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "宁静",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "大气",
       "宁静",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "宁静"
   },
   {
     "id": "quality_color_rich_colors",
@@ -4094,34 +4006,32 @@
     "labels": [
       "rich",
       "colors",
-      "vibrant"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "vibrant",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "丰富色彩",
     "labels_zh": [
-      "质量",
-      "色彩",
+      "danbooru",
       "丰富色彩",
-      "danbooru"
+      "色彩",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "丰富色彩"
   },
   {
     "id": "quality_color_vibrant_colors",
@@ -4131,28 +4041,24 @@
     "labels": [
       "vibrant",
       "colors",
-      "colorful"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "colorful",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "鲜艳色调",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "色彩",
-      "鲜艳色调",
-      "danbooru"
+      "质量",
+      "鲜艳色调"
     ],
     "compatibility": [
       "sdxl",
@@ -4160,7 +4066,9 @@
     ],
     "relation_group": "vibrant colors",
     "relation_role": "canonical",
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "鲜艳色调"
   },
   {
     "id": "quality_color_pastel_colors",
@@ -4170,34 +4078,32 @@
     "labels": [
       "pastel",
       "colors",
-      "soft"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "soft",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "粉彩色调",
     "labels_zh": [
-      "质量",
-      "色彩",
+      "danbooru",
       "粉彩色调",
-      "danbooru"
+      "色彩",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "粉彩色调"
   },
   {
     "id": "quality_color_neon_colors",
@@ -4207,34 +4113,32 @@
     "labels": [
       "neon",
       "colors",
-      "bright"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "bright",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "霓虹色调",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "色彩",
-      "霓虹色调",
-      "danbooru"
+      "质量",
+      "霓虹色调"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "霓虹色调"
   },
   {
     "id": "quality_color_monochrome",
@@ -4244,28 +4148,24 @@
     "labels": [
       "monochrome",
       "bw",
-      "grayscale"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "grayscale",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "单色",
     "labels_zh": [
-      "质量",
-      "色彩",
+      "danbooru",
       "单色",
-      "danbooru"
+      "色彩",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -4273,7 +4173,13 @@
     ],
     "relation_group": "monochrome",
     "relation_role": "canonical",
-    "weight": 0.95
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "单色",
+    "aliases": [
+      "B&W",
+      "black and white"
+    ]
   },
   {
     "id": "quality_color_color_splash",
@@ -4283,34 +4189,32 @@
     "labels": [
       "color",
       "splash",
-      "partial-color"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "partial-color",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "色彩飞溅",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "色彩",
       "色彩飞溅",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "色彩飞溅"
   },
   {
     "id": "quality_color_colorful_background",
@@ -4320,34 +4224,32 @@
     "labels": [
       "colorful",
       "background",
-      "pattern"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "pattern",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "彩色背景",
     "labels_zh": [
-      "质量",
-      "色彩",
+      "danbooru",
       "彩色背景",
-      "danbooru"
+      "色彩",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "彩色背景"
   },
   {
     "id": "quality_color_gradient_background",
@@ -4357,34 +4259,32 @@
     "labels": [
       "gradient",
       "background",
-      "blurred"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "blurred",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "渐变背景",
     "labels_zh": [
-      "质量",
-      "色彩",
+      "danbooru",
       "渐变背景",
-      "danbooru"
+      "色彩",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "渐变背景"
   },
   {
     "id": "quality_texture_highly_detailed_face",
@@ -4394,34 +4294,36 @@
     "labels": [
       "detailed",
       "face",
-      "portrait"
-    ],
-    "score": 0.9,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "portrait",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.9,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "细致面部",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "纹理",
       "细致面部",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.755,
+    "score_v2": 0.755,
+    "term_zh": "细致面部",
+    "aliases": [
+      "highly detailed",
+      "intricate details"
+    ]
   },
   {
     "id": "quality_texture_refined_details",
@@ -4431,34 +4333,36 @@
     "labels": [
       "refined",
       "details",
-      "polished"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "polished",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "精致细节",
     "labels_zh": [
-      "质量",
-      "纹理",
+      "danbooru",
       "精致细节",
-      "danbooru"
+      "纹理",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "精致细节",
+    "aliases_zh": [
+      "精细细节",
+      "高度细节"
+    ]
   },
   {
     "id": "quality_texture_perfect_anatomy",
@@ -4468,28 +4372,24 @@
     "labels": [
       "perfect",
       "anatomy",
-      "proportion"
-    ],
-    "score": 0.9,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "proportion",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.9,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "完美解剖",
     "labels_zh": [
-      "质量",
-      "纹理",
+      "danbooru",
       "完美解剖",
-      "danbooru"
+      "纹理",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -4497,7 +4397,9 @@
     ],
     "relation_group": "perfect anatomy",
     "relation_role": "canonical",
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "完美解剖"
   },
   {
     "id": "quality_texture_perfect_hands",
@@ -4507,34 +4409,32 @@
     "labels": [
       "perfect",
       "hands",
-      "anatomy"
-    ],
-    "score": 0.9,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "anatomy",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.9,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "完美双手",
     "labels_zh": [
-      "质量",
-      "纹理",
+      "danbooru",
       "完美双手",
-      "danbooru"
+      "纹理",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "完美双手"
   },
   {
     "id": "quality_texture_detailed_hands",
@@ -4544,28 +4444,24 @@
     "labels": [
       "detailed",
       "hands",
-      "anatomy"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "anatomy",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "细致双手",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "纹理",
       "细致双手",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
@@ -4573,7 +4469,13 @@
     ],
     "relation_group": "detailed hands",
     "relation_role": "canonical",
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "细致双手",
+    "aliases": [
+      "highly detailed",
+      "intricate details"
+    ]
   },
   {
     "id": "quality_texture_detailed_feet",
@@ -4583,34 +4485,36 @@
     "labels": [
       "detailed",
       "feet",
-      "anatomy"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "anatomy",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "细致脚部",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "纹理",
       "细致脚部",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "细致脚部",
+    "aliases": [
+      "highly detailed",
+      "intricate details"
+    ]
   },
   {
     "id": "quality_texture_realistic_anatomy",
@@ -4620,34 +4524,36 @@
     "labels": [
       "realistic",
       "anatomy",
-      "proportion"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "proportion",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "逼真解剖",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "纹理",
-      "逼真解剖",
-      "danbooru"
+      "质量",
+      "逼真解剖"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "逼真解剖",
+    "aliases": [
+      "photorealistic",
+      "realistic rendering"
+    ]
   },
   {
     "id": "quality_texture_symmetrical_eyes",
@@ -4657,33 +4563,35 @@
     "labels": [
       "symmetrical",
       "eyes",
-      "balance"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "balance",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "不对称眼睛",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "纹理",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "不对称眼睛",
+    "aliases": [
+      "balanced composition",
+      "symmetry composition"
+    ]
   },
   {
     "id": "quality_texture_detailed_iris",
@@ -4693,34 +4601,36 @@
     "labels": [
       "detailed",
       "iris",
-      "eye"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "eye",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "细致虹膜",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "纹理",
       "细致虹膜",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "细致虹膜",
+    "aliases": [
+      "highly detailed",
+      "intricate details"
+    ]
   },
   {
     "id": "quality_texture_detailed_eyelashes",
@@ -4730,34 +4640,36 @@
     "labels": [
       "detailed",
       "eyelashes",
-      "eye"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "eye",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "细致睫毛",
     "labels_zh": [
-      "质量",
+      "danbooru",
       "纹理",
       "细致睫毛",
-      "danbooru"
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "细致睫毛",
+    "aliases": [
+      "highly detailed",
+      "intricate details"
+    ]
   },
   {
     "id": "quality_texture_delicate_lips",
@@ -4767,34 +4679,32 @@
     "labels": [
       "delicate",
       "lips",
-      "mouth"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "mouth",
       "added",
       "quality",
       "enhanced-library"
     ],
+    "score": 0.8,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "精致嘴唇",
     "labels_zh": [
-      "质量",
-      "纹理",
+      "danbooru",
       "精致嘴唇",
-      "danbooru"
+      "纹理",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.95
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "精致嘴唇"
   },
   {
     "id": "quality_texture_perfectly_drawn",
@@ -4804,34 +4714,31 @@
     "labels": [
       "perfect",
       "drawn",
-      "quality"
-    ],
-    "score": 0.9,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
-      "added",
       "quality",
+      "added",
       "enhanced-library"
     ],
+    "score": 0.9,
+    "lifecycle": "approved",
     "created_at": "2026-09-29T06:13:54.498Z",
     "updated_at": "2026-09-29T06:59:33.607Z",
     "source": "enhanced-danbooru-tags-civitai-collection",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
-    "term_zh": "完美绘制",
     "labels_zh": [
-      "质量",
-      "纹理",
+      "danbooru",
       "完美绘制",
-      "danbooru"
+      "纹理",
+      "质量"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 1.0
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "完美绘制"
   },
   {
     "id": "render_quality_engines_unreal_engine_5",
@@ -4839,8 +4746,1066 @@
     "category": "quality",
     "subcategory": "render-engines",
     "labels": [
+      "unreal-engine-5",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Real-time path-traced UE5 look. Prompt hint: rendered in Unreal Engine 5, real-time path-traced lighting with Lumen reflections, Nanite-grade micro-detail and cinematic post-processing",
+    "labels_zh": [
+      "nodaro",
+      "引擎",
+      "渲染",
+      "虚幻引擎"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.795,
+    "score_v2": 0.795,
+    "term_zh": "虚幻引擎 5",
+    "aliases": [
+      "crimson red"
+    ]
+  },
+  {
+    "id": "render_quality_engines_blender_cycles",
+    "term": "rendered in Blender Cycles",
+    "category": "quality",
+    "subcategory": "render-engines",
+    "labels": [
+      "blender-cycles",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cycles unbiased path tracing. Prompt hint: rendered in Blender Cycles, unbiased path-traced lighting with physically accurate shadows, soft global illumination and clean denoise",
+    "labels_zh": [
+      "nodaro",
+      "引擎",
+      "渲染"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.795,
+    "score_v2": 0.795,
+    "term_zh": "Blender Cycles 渲染",
+    "aliases": [
+      "crimson red"
+    ]
+  },
+  {
+    "id": "render_quality_engines_octane_render",
+    "term": "rendered in Octane",
+    "category": "quality",
+    "subcategory": "render-engines",
+    "labels": [
+      "octane-render",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: GPU spectral path tracing. Prompt hint: rendered in Octane, GPU spectral path tracing with hyper-realistic materials, vivid color response and crisp specular highlights",
+    "labels_zh": [
+      "nodaro",
+      "引擎",
+      "渲染"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.755,
+    "score_v2": 0.755,
+    "term_zh": "渲染inOctane",
+    "aliases": [
+      "crimson red"
+    ]
+  },
+  {
+    "id": "render_quality_engines_redshift",
+    "term": "redshift render",
+    "category": "quality",
+    "subcategory": "render-engines",
+    "labels": [
+      "redshift",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Production GPU biased renderer. Prompt hint: rendered in Redshift, production-quality GPU rendering with rich material response, controlled GI and film-grade depth",
+    "labels_zh": [
+      "nodaro",
+      "引擎",
+      "渲染"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "Redshift 渲染",
+    "aliases": [
+      "crimson red"
+    ]
+  },
+  {
+    "id": "render_quality_other_houdini_mantra",
+    "term": "rendered in Houdini Mantra",
+    "category": "quality",
+    "subcategory": "render-other",
+    "labels": [
+      "houdini-mantra",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: VFX-grade physical rendering. Prompt hint: rendered in Houdini Mantra, VFX-grade physically-based rendering with subtle volumetric scatter and ultra-clean shading",
+    "labels_zh": [
+      "nodaro",
+      "其他",
+      "渲染"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.795,
+    "score_v2": 0.795,
+    "term_zh": "Houdini Mantra 渲染",
+    "aliases": [
+      "crimson red"
+    ]
+  },
+  {
+    "id": "render_quality_other_arnold_render",
+    "term": "rendered in Solid Angle Arnold",
+    "category": "quality",
+    "subcategory": "render-other",
+    "labels": [
+      "arnold-render",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Industry-standard VFX path tracer. Prompt hint: rendered in Solid Angle Arnold, industry-standard VFX path-traced lighting with physically accurate light transport, smooth noise-free shading, and the flagship Pixar / ILM / Sony feature-film polish",
+    "labels_zh": [
+      "nodaro",
+      "其他",
+      "渲染"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.795,
+    "score_v2": 0.795,
+    "term_zh": "Solid Angle Arnold 渲染",
+    "aliases": [
+      "crimson red"
+    ]
+  },
+  {
+    "id": "render_quality_other_corona_renderer",
+    "term": "rendered in Chaos Corona",
+    "category": "quality",
+    "subcategory": "render-other",
+    "labels": [
+      "corona-renderer",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Photorealistic archviz unbiased renderer. Prompt hint: rendered in Chaos Corona, unbiased photorealistic rendering with crisp daylight global illumination, refined material response and the signature architectural-visualization clarity",
+    "labels_zh": [
+      "nodaro",
+      "其他",
+      "渲染"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.795,
+    "score_v2": 0.795,
+    "term_zh": "Chaos Corona 渲染",
+    "aliases": [
+      "crimson red"
+    ]
+  },
+  {
+    "id": "render_quality_engines_vray",
+    "term": "rendered in Chaos V-Ray",
+    "category": "quality",
+    "subcategory": "render-engines",
+    "labels": [
+      "vray",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Industry-standard product / archviz / VFX renderer. Prompt hint: rendered in Chaos V-Ray, industry-standard hybrid path-traced production rendering with razor-sharp detail, accurate reflections and the polished product-viz / archviz / VFX finish",
+    "labels_zh": [
+      "nodaro",
+      "引擎",
+      "渲染"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.795,
+    "score_v2": 0.795,
+    "term_zh": "Chaos V-Ray 渲染",
+    "aliases": [
+      "crimson red"
+    ]
+  },
+  {
+    "id": "render_quality_other_aces",
+    "term": "aces color space",
+    "category": "quality",
+    "subcategory": "render-other",
+    "labels": [
+      "aces",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cinema-grade ACES color management. Prompt hint: graded through the ACES (Academy Color Encoding System) color management workflow, modern cinema-grade tonal response with consistent wide-gamut color rendering, filmic highlight rolloff and reference-quality color fidelity",
+    "labels_zh": [
+      "ACES",
+      "nodaro",
+      "其他",
+      "渲染",
+      "色彩空间"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.755,
+    "score_v2": 0.755,
+    "term_zh": "ACES 色彩空间"
+  },
+  {
+    "id": "render_quality_other_raytracing",
+    "term": "ray-traced rendering",
+    "category": "quality",
+    "subcategory": "render-other",
+    "labels": [
+      "raytracing",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Accurate reflections + shadows. Prompt hint: ray-traced rendering, physically accurate reflections, refractions and contact shadows with realistic light bounce",
+    "labels_zh": [
+      "nodaro",
+      "其他",
+      "渲染"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "光线追踪渲染"
+  },
+  {
+    "id": "render_quality_other_physically_based_rendering",
+    "term": "physically-based rendering",
+    "category": "quality",
+    "subcategory": "render-other",
+    "labels": [
+      "physically-based-rendering",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Physically-based materials. Prompt hint: physically-based rendering with energy-conserving materials, accurate metallic/roughness response and realistic Fresnel falloff",
+    "labels_zh": [
+      "nodaro",
+      "其他",
+      "渲染"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "基于物理的渲染"
+  },
+  {
+    "id": "render_quality_technical_global_illumination",
+    "term": "global illumination",
+    "category": "quality",
+    "subcategory": "render-technical",
+    "labels": [
+      "global-illumination",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Realistic light bounce. Prompt hint: global illumination, realistic indirect light bounce with soft color bleeding between surfaces and naturally lit shadow regions",
+    "labels_zh": [
+      "nodaro",
+      "全局光照",
+      "技术",
+      "渲染"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "global illumination",
+    "relation_role": "variant",
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "全局光照"
+  },
+  {
+    "id": "render_quality_technical_lumen_reflections",
+    "term": "Lumen-style real-time dynamic global illumination with crisp",
+    "category": "quality",
+    "subcategory": "render-technical",
+    "labels": [
+      "lumen-reflections",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Real-time dynamic GI. Prompt hint: Lumen-style real-time dynamic global illumination with crisp screen-space reflections, soft contact shadows and beautifully lit indirect bounces",
+    "labels_zh": [
+      "nodaro",
+      "全局光照",
+      "技术",
+      "渲染"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.795,
+    "score_v2": 0.795,
+    "term_zh": "全局光照"
+  },
+  {
+    "id": "render_quality_resolution_8k_uhd",
+    "term": "8K ultra-high-definition resolution",
+    "category": "quality",
+    "subcategory": "render-resolution",
+    "labels": [
+      "8k-uhd",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Ultra-sharp 8K resolution. Prompt hint: 8K ultra-high-definition resolution, ultra-sharp detail with every micro-texture preserved and zero softness",
+    "labels_zh": [
+      "8K",
+      "nodaro",
+      "分辨率",
+      "渲染"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.755,
+    "score_v2": 0.755,
+    "term_zh": "8K 超高清分辨率"
+  },
+  {
+    "id": "render_quality_resolution_4k_uhd",
+    "term": "4K UHD resolution",
+    "category": "quality",
+    "subcategory": "render-resolution",
+    "labels": [
+      "4k-uhd",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Crisp 4K resolution. Prompt hint: 4K UHD resolution, crisp detail with cinema-grade clarity and clean edge definition",
+    "labels_zh": [
+      "4K",
+      "UHD",
+      "nodaro",
+      "分辨率",
+      "渲染"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.755,
+    "score_v2": 0.755,
+    "term_zh": "4K UHD 分辨率"
+  },
+  {
+    "id": "render_quality_resolution_16k_megapixel",
+    "term": "16k resolution",
+    "category": "quality",
+    "subcategory": "render-resolution",
+    "labels": [
+      "16k-megapixel",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Insanely high-resolution detail. Prompt hint: 16K megapixel-grade resolution, insanely high-resolution detail with surgically clean edges and microscopic surface fidelity",
+    "labels_zh": [
+      "16K",
+      "nodaro",
+      "分辨率",
+      "渲染"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "16K 分辨率"
+  },
+  {
+    "id": "render_quality_resolution_ultra_detailed",
+    "term": "ultra-detailed",
+    "category": "quality",
+    "subcategory": "render-resolution",
+    "labels": [
+      "ultra-detailed",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "deprecated",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Maximum micro-detail rendering. Prompt hint: ultra-detailed rendering with intricate micro-surface detail, fine pore-level fidelity and meticulously preserved fine structures",
+    "labels_zh": [
+      "nodaro",
+      "分辨率",
+      "渲染",
+      "超精细"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "alias_of": "quality_advanced_ultra_detailed",
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "超精细",
+    "aliases": [
+      "highly detailed",
+      "intricate details"
+    ]
+  },
+  {
+    "id": "render_quality_stamps_raw_photo",
+    "term": "raw photograph aesthetic",
+    "category": "quality",
+    "subcategory": "render-stamps",
+    "labels": [
+      "raw-photo",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Unprocessed photographic feel. Prompt hint: raw photograph aesthetic, unprocessed natural color science, authentic photographic detail and untouched documentary realism",
+    "labels_zh": [
+      "RAW",
+      "nodaro",
+      "印章",
+      "摄影美学",
+      "渲染"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.755,
+    "score_v2": 0.755,
+    "term_zh": "RAW 摄影美学"
+  },
+  {
+    "id": "render_quality_stamps_masterpiece",
+    "term": "masterpiece-quality rendering",
+    "category": "quality",
+    "subcategory": "render-stamps",
+    "labels": [
+      "masterpiece",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hand-of-an-expert quality stamp. Prompt hint: masterpiece-quality rendering, hand-of-an-expert level execution with refined composition, immaculate detail and curated finish",
+    "labels_zh": [
+      "nodaro",
+      "印章",
+      "渲染"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "杰作品质渲染",
+    "aliases": [
+      "award-winning artwork"
+    ]
+  },
+  {
+    "id": "render_quality_stamps_award_winning",
+    "term": "award-winning",
+    "category": "quality",
+    "subcategory": "render-stamps",
+    "labels": [
+      "award-winning",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Award-circuit caliber. Prompt hint: award-winning quality, award-circuit caliber image with editorial-grade composition, magazine-cover finish and signature visual authority",
+    "labels_zh": [
+      "nodaro",
+      "印章",
+      "渲染",
+      "获奖作品"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "获奖作品"
+  },
+  {
+    "id": "render_quality_other_volumetric_lighting",
+    "term": "volumetric lighting with god-ray light shafts cutting throug",
+    "category": "quality",
+    "subcategory": "render-other",
+    "labels": [
+      "volumetric-lighting",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: God-ray volumetric light shafts cutting through atmosphere. Prompt hint: volumetric lighting with god-ray light shafts cutting through atmospheric haze, beams of illuminated dust and particulate scattering through the scene",
+    "labels_zh": [
+      "nodaro",
+      "体积光照",
+      "其他",
+      "渲染"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.795,
+    "score_v2": 0.795,
+    "term_zh": "体积光照"
+  },
+  {
+    "id": "render_quality_other_photon_mapping",
+    "term": "photon-mapped global illumination with caustic-aware light t",
+    "category": "quality",
+    "subcategory": "render-other",
+    "labels": [
+      "photon-mapping",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Caustic-aware photon-mapped global illumination renderer. Prompt hint: photon-mapped global illumination with caustic-aware light transport, accurate refractive light patterns through glass and water and physically correct indirect bounces",
+    "labels_zh": [
+      "nodaro",
+      "全局光照",
+      "其他",
+      "渲染"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.795,
+    "score_v2": 0.795,
+    "term_zh": "全局光照"
+  },
+  {
+    "id": "render_quality_other_ai_upscaled",
+    "term": "neural-network AI-upscaled detail enhancement",
+    "category": "quality",
+    "subcategory": "render-other",
+    "labels": [
+      "ai-upscaled",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Neural-network upscaled detail enhancement, sharp super-resolution. Prompt hint: neural-network AI-upscaled detail enhancement, sharp super-resolution clarity with reconstructed micro-detail and surgically clean edge definition",
+    "labels_zh": [
+      "AI",
+      "nodaro",
+      "其他",
+      "渲染",
+      "神经网络"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.795,
+    "score_v2": 0.795,
+    "term_zh": "神经网络 AI 升采样增强细节",
+    "aliases_zh": [
+      "精细细节",
+      "高度细节"
+    ]
+  },
+  {
+    "id": "render_quality_technical_denoised",
+    "term": "denoised render",
+    "category": "quality",
+    "subcategory": "render-technical",
+    "labels": [
+      "denoised",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Clean noise-removed pristine rendering, no grain or speckle. Prompt hint: clean denoised rendering with noise removed entirely, pristine smooth surfaces and zero grain or speckle across shadows and midtones",
+    "labels_zh": [
+      "nodaro",
+      "技术",
+      "渲染",
+      "降噪渲染"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "降噪渲染"
+  },
+  {
+    "id": "render_quality_unreal_engine_5",
+    "term": "Unreal Engine 5 Lumen",
+    "subcategory": "render-engines",
+    "labels": [
+      "unreal",
+      "engine",
+      "5",
+      "lumen",
+      "ray-tracing",
+      "game-engine",
+      "real-time"
+    ],
+    "labels_zh": [
+      "光线追踪",
+      "渲染质量",
+      "虚幻引擎"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "quality",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.795,
+    "score_v2": 0.795,
+    "term_zh": "虚幻引擎5 Lumen光线追踪"
+  },
+  {
+    "id": "render_quality_maya_render",
+    "term": "Autodesk Arnold renderer",
+    "subcategory": "render-engines",
+    "labels": [
+      "autodesk",
+      "arnold",
+      "renderer",
+      "studio",
+      "film"
+    ],
+    "labels_zh": [
+      "Arnold",
+      "Autodesk",
+      "渲染质量"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "quality",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.755,
+    "score_v2": 0.755,
+    "term_zh": "Autodesk Arnold渲染器"
+  },
+  {
+    "id": "render_quality_cinema4d_octane",
+    "term": "Cinema 4D Octane render",
+    "subcategory": "render-engines",
+    "labels": [
+      "cinema-4d",
+      "octane",
+      "gpu-render",
+      "motion-graphics",
+      "gpu"
+    ],
+    "labels_zh": [
+      "Cinema 4D",
+      "Octane",
+      "渲染质量"
+    ],
+    "score": 0.9,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "quality",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.795,
+    "score_v2": 0.795,
+    "term_zh": "Cinema 4D Octane渲染"
+  },
+  {
+    "id": "render_quality_blender_cycles",
+    "term": "Blender Cycles path-traced",
+    "subcategory": "render-engines",
+    "labels": [
+      "blender",
+      "cycles",
+      "path-traced",
+      "open-source",
+      "popular"
+    ],
+    "labels_zh": [
+      "Blender",
+      "Cycles",
+      "渲染质量"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "quality",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.755,
+    "score_v2": 0.755,
+    "term_zh": "Blender Cycles路径追踪"
+  },
+  {
+    "id": "render_quality_vray",
+    "term": "V-Ray photorealistic",
+    "subcategory": "render-engines",
+    "labels": [
+      "v-ray",
+      "photorealistic",
+      "architectural",
+      "visualization"
+    ],
+    "labels_zh": [
+      "V-Ray",
+      "渲染质量",
+      "照片级"
+    ],
+    "score": 0.9,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "quality",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "V-Ray照片级真实",
+    "aliases": [
+      "photorealistic",
+      "realistic rendering"
+    ]
+  },
+  {
+    "id": "render_quality_ian_brain",
+    "term": "mental ray global illumination",
+    "subcategory": "render-engines",
+    "labels": [
+      "mental-ray",
+      "global-illumination",
+      "renderman",
+      "film",
+      "legacy"
+    ],
+    "labels_zh": [
+      "mental ray",
+      "全局照明",
+      "渲染质量"
+    ],
+    "score": 0.75,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "quality",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.795,
+    "score_v2": 0.795,
+    "term_zh": "mental ray全局照明"
+  },
+  {
+    "id": "render_quality_8k_uhd",
+    "term": "8K UHD resolution",
+    "subcategory": "render-resolution",
+    "labels": [
+      "8k",
+      "uhd",
+      "ultra-high-definition",
+      "resolution",
+      "commercial"
+    ],
+    "labels_zh": [
+      "8K",
+      "渲染质量",
+      "超高清"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "quality",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.755,
+    "score_v2": 0.755,
+    "term_zh": "8K超高清分辨率"
+  },
+  {
+    "id": "render_quality_4k_hdr",
+    "term": "4K HDR tone-mapped",
+    "subcategory": "render-resolution",
+    "labels": [
+      "4k",
+      "hdr",
+      "tone-mapping",
+      "dynamic-range",
+      "video",
+      "modern"
+    ],
+    "labels_zh": [
+      "4K",
+      "HDR",
+      "渲染质量"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "quality",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.755,
+    "score_v2": 0.755,
+    "term_zh": "4K HDR色调映射"
+  },
+  {
+    "id": "render_quality_ray_tracing",
+    "term": "ray-traced global illumination",
+    "subcategory": "render-technical",
+    "labels": [
+      "ray-tracing",
+      "global-illumination",
+      "reflections",
+      "caustics",
+      "modern",
+      "realistic"
+    ],
+    "labels_zh": [
+      "光线追踪",
+      "全局照明",
+      "渲染质量"
+    ],
+    "score": 0.9,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "quality",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.755,
+    "score_v2": 0.755,
+    "term_zh": "光线追踪全局照明"
+  },
+  {
+    "id": "render_quality_ambient_occlusion",
+    "term": "ambient occlusion shadows",
+    "subcategory": "render-technical",
+    "labels": [
+      "ambient-occlusion",
+      "ao",
+      "shadows",
+      "contact",
+      "technical",
+      "realistic"
+    ],
+    "labels_zh": [
+      "渲染质量",
+      "环境遮蔽",
+      "阴影"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "quality",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.755,
+    "score_v2": 0.755,
+    "term_zh": "环境遮蔽阴影"
+  },
+  {
+    "id": "render_quality_subsurface_scattering",
+    "term": "subsurface scattering skin wax",
+    "subcategory": "render-technical",
+    "labels": [
+      "subsurface-scattering",
+      "sss",
+      "translucent",
+      "skin",
+      "character",
+      "realistic"
+    ],
+    "labels_zh": [
+      "半透明",
+      "次表面散射",
+      "渲染质量"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "quality",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.795,
+    "score_v2": 0.795,
+    "term_zh": "次表面散射皮肤蜡质"
+  },
+  {
+    "id": "quality_engines_unreal_engine_5",
+    "term": "rendered in Unreal Engine 5",
+    "term_zh": null,
+    "category": "quality",
+    "subcategory": "engines",
+    "labels": [
       "unreal-engine-5"
     ],
+    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -4851,27 +5816,20 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Real-time path-traced UE5 look. Prompt hint: rendered in Unreal Engine 5, real-time path-traced lighting with Lumen reflections, Nanite-grade micro-detail and cinematic post-processing",
-    "term_zh": "虚幻引擎 5",
-    "labels_zh": [
-      "渲染",
-      "引擎",
-      "虚幻引擎",
-      "nodaro"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 0.95
+    "aliases": [
+      "crimson red"
+    ]
   },
   {
-    "id": "render_quality_engines_blender_cycles",
+    "id": "quality_engines_blender_cycles",
     "term": "rendered in Blender Cycles",
+    "term_zh": null,
     "category": "quality",
-    "subcategory": "render-engines",
+    "subcategory": "engines",
     "labels": [
       "blender-cycles"
     ],
+    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -4882,26 +5840,20 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Cycles unbiased path tracing. Prompt hint: rendered in Blender Cycles, unbiased path-traced lighting with physically accurate shadows, soft global illumination and clean denoise",
-    "term_zh": "Blender Cycles 渲染",
-    "labels_zh": [
-      "渲染",
-      "引擎",
-      "nodaro"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 0.95
+    "aliases": [
+      "crimson red"
+    ]
   },
   {
-    "id": "render_quality_engines_octane_render",
+    "id": "quality_engines_octane_render",
     "term": "rendered in Octane",
+    "term_zh": null,
     "category": "quality",
-    "subcategory": "render-engines",
+    "subcategory": "engines",
     "labels": [
       "octane-render"
     ],
+    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -4912,26 +5864,20 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: GPU spectral path tracing. Prompt hint: rendered in Octane, GPU spectral path tracing with hyper-realistic materials, vivid color response and crisp specular highlights",
-    "term_zh": "渲染inOctane",
-    "labels_zh": [
-      "渲染",
-      "引擎",
-      "nodaro"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 0.95
+    "aliases": [
+      "crimson red"
+    ]
   },
   {
-    "id": "render_quality_engines_redshift",
+    "id": "quality_engines_redshift",
     "term": "redshift render",
+    "term_zh": null,
     "category": "quality",
-    "subcategory": "render-engines",
+    "subcategory": "engines",
     "labels": [
       "redshift"
     ],
+    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -4942,26 +5888,20 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Production GPU biased renderer. Prompt hint: rendered in Redshift, production-quality GPU rendering with rich material response, controlled GI and film-grade depth",
-    "term_zh": "Redshift 渲染",
-    "labels_zh": [
-      "渲染",
-      "引擎",
-      "nodaro"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 0.95
+    "aliases": [
+      "crimson red"
+    ]
   },
   {
-    "id": "render_quality_other_houdini_mantra",
+    "id": "quality_other_houdini_mantra",
     "term": "rendered in Houdini Mantra",
+    "term_zh": null,
     "category": "quality",
-    "subcategory": "render-other",
+    "subcategory": "other",
     "labels": [
       "houdini-mantra"
     ],
+    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -4972,26 +5912,20 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: VFX-grade physical rendering. Prompt hint: rendered in Houdini Mantra, VFX-grade physically-based rendering with subtle volumetric scatter and ultra-clean shading",
-    "term_zh": "Houdini Mantra 渲染",
-    "labels_zh": [
-      "渲染",
-      "其他",
-      "nodaro"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 0.95
+    "aliases": [
+      "crimson red"
+    ]
   },
   {
-    "id": "render_quality_other_arnold_render",
+    "id": "quality_other_arnold_render",
     "term": "rendered in Solid Angle Arnold",
+    "term_zh": null,
     "category": "quality",
-    "subcategory": "render-other",
+    "subcategory": "other",
     "labels": [
       "arnold-render"
     ],
+    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -5002,26 +5936,20 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Industry-standard VFX path tracer. Prompt hint: rendered in Solid Angle Arnold, industry-standard VFX path-traced lighting with physically accurate light transport, smooth noise-free shading, and the flagship Pixar / ILM / Sony feature-film polish",
-    "term_zh": "Solid Angle Arnold 渲染",
-    "labels_zh": [
-      "渲染",
-      "其他",
-      "nodaro"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 0.95
+    "aliases": [
+      "crimson red"
+    ]
   },
   {
-    "id": "render_quality_other_corona_renderer",
+    "id": "quality_other_corona_renderer",
     "term": "rendered in Chaos Corona",
+    "term_zh": null,
     "category": "quality",
-    "subcategory": "render-other",
+    "subcategory": "other",
     "labels": [
       "corona-renderer"
     ],
+    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -5032,26 +5960,20 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Photorealistic archviz unbiased renderer. Prompt hint: rendered in Chaos Corona, unbiased photorealistic rendering with crisp daylight global illumination, refined material response and the signature architectural-visualization clarity",
-    "term_zh": "Chaos Corona 渲染",
-    "labels_zh": [
-      "渲染",
-      "其他",
-      "nodaro"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 0.95
+    "aliases": [
+      "crimson red"
+    ]
   },
   {
-    "id": "render_quality_engines_vray",
+    "id": "quality_engines_vray",
     "term": "rendered in Chaos V-Ray",
+    "term_zh": null,
     "category": "quality",
-    "subcategory": "render-engines",
+    "subcategory": "engines",
     "labels": [
       "vray"
     ],
+    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -5062,26 +5984,20 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Industry-standard product / archviz / VFX renderer. Prompt hint: rendered in Chaos V-Ray, industry-standard hybrid path-traced production rendering with razor-sharp detail, accurate reflections and the polished product-viz / archviz / VFX finish",
-    "term_zh": "Chaos V-Ray 渲染",
-    "labels_zh": [
-      "渲染",
-      "引擎",
-      "nodaro"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 0.95
+    "aliases": [
+      "crimson red"
+    ]
   },
   {
-    "id": "render_quality_other_aces",
+    "id": "quality_other_aces",
     "term": "aces color space",
+    "term_zh": null,
     "category": "quality",
-    "subcategory": "render-other",
+    "subcategory": "other",
     "labels": [
       "aces"
     ],
+    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -5091,29 +6007,18 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Cinema-grade ACES color management. Prompt hint: graded through the ACES (Academy Color Encoding System) color management workflow, modern cinema-grade tonal response with consistent wide-gamut color rendering, filmic highlight rolloff and reference-quality color fidelity",
-    "term_zh": "ACES 色彩空间",
-    "labels_zh": [
-      "渲染",
-      "其他",
-      "ACES",
-      "色彩空间",
-      "nodaro"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 0.95
+    "notes": "Description: Cinema-grade ACES color management. Prompt hint: graded through the ACES (Academy Color Encoding System) color management workflow, modern cinema-grade tonal response with consistent wide-gamut color rendering, filmic highlight rolloff and reference-quality color fidelity"
   },
   {
-    "id": "render_quality_other_raytracing",
+    "id": "quality_other_raytracing",
     "term": "ray-traced rendering",
+    "term_zh": null,
     "category": "quality",
-    "subcategory": "render-other",
+    "subcategory": "other",
     "labels": [
       "raytracing"
     ],
+    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -5123,27 +6028,18 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Accurate reflections + shadows. Prompt hint: ray-traced rendering, physically accurate reflections, refractions and contact shadows with realistic light bounce",
-    "term_zh": "光线追踪渲染",
-    "labels_zh": [
-      "渲染",
-      "其他",
-      "nodaro"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 0.95
+    "notes": "Description: Accurate reflections + shadows. Prompt hint: ray-traced rendering, physically accurate reflections, refractions and contact shadows with realistic light bounce"
   },
   {
-    "id": "render_quality_other_physically_based_rendering",
+    "id": "quality_other_physically_based_rendering",
     "term": "physically-based rendering",
+    "term_zh": null,
     "category": "quality",
-    "subcategory": "render-other",
+    "subcategory": "other",
     "labels": [
       "physically-based-rendering"
     ],
+    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -5153,60 +6049,18 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Physically-based materials. Prompt hint: physically-based rendering with energy-conserving materials, accurate metallic/roughness response and realistic Fresnel falloff",
-    "term_zh": "基于物理的渲染",
-    "labels_zh": [
-      "渲染",
-      "其他",
-      "nodaro"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 0.95
+    "notes": "Description: Physically-based materials. Prompt hint: physically-based rendering with energy-conserving materials, accurate metallic/roughness response and realistic Fresnel falloff"
   },
   {
-    "id": "render_quality_technical_global_illumination",
-    "term": "global illumination",
-    "term_zh": "全局光照",
-    "category": "quality",
-    "subcategory": "render-technical",
-    "labels": [
-      "global-illumination"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
-      "nodaro-prompts"
-    ],
-    "source": "@nodaro/prompts (v1.27.0)",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Description: Realistic light bounce. Prompt hint: global illumination, realistic indirect light bounce with soft color bleeding between surfaces and naturally lit shadow regions",
-    "labels_zh": [
-      "渲染",
-      "技术",
-      "全局光照",
-      "nodaro"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "relation_group": "global illumination",
-    "relation_role": "variant",
-    "weight": 0.95
-  },
-  {
-    "id": "render_quality_technical_lumen_reflections",
+    "id": "quality_technical_lumen_reflections",
     "term": "Lumen-style real-time dynamic global illumination with crisp",
+    "term_zh": null,
     "category": "quality",
-    "subcategory": "render-technical",
+    "subcategory": "technical",
     "labels": [
       "lumen-reflections"
     ],
+    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -5216,28 +6070,18 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Real-time dynamic GI. Prompt hint: Lumen-style real-time dynamic global illumination with crisp screen-space reflections, soft contact shadows and beautifully lit indirect bounces",
-    "term_zh": "全局光照",
-    "labels_zh": [
-      "渲染",
-      "技术",
-      "全局光照",
-      "nodaro"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 0.95
+    "notes": "Description: Real-time dynamic GI. Prompt hint: Lumen-style real-time dynamic global illumination with crisp screen-space reflections, soft contact shadows and beautifully lit indirect bounces"
   },
   {
-    "id": "render_quality_resolution_8k_uhd",
+    "id": "quality_resolution_8k_uhd",
     "term": "8K ultra-high-definition resolution",
+    "term_zh": null,
     "category": "quality",
-    "subcategory": "render-resolution",
+    "subcategory": "resolution",
     "labels": [
       "8k-uhd"
     ],
+    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -5247,28 +6091,18 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Ultra-sharp 8K resolution. Prompt hint: 8K ultra-high-definition resolution, ultra-sharp detail with every micro-texture preserved and zero softness",
-    "term_zh": "8K 超高清分辨率",
-    "labels_zh": [
-      "渲染",
-      "分辨率",
-      "8K",
-      "nodaro"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 0.95
+    "notes": "Description: Ultra-sharp 8K resolution. Prompt hint: 8K ultra-high-definition resolution, ultra-sharp detail with every micro-texture preserved and zero softness"
   },
   {
-    "id": "render_quality_resolution_4k_uhd",
+    "id": "quality_resolution_4k_uhd",
     "term": "4K UHD resolution",
+    "term_zh": null,
     "category": "quality",
-    "subcategory": "render-resolution",
+    "subcategory": "resolution",
     "labels": [
       "4k-uhd"
     ],
+    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -5278,29 +6112,18 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Crisp 4K resolution. Prompt hint: 4K UHD resolution, crisp detail with cinema-grade clarity and clean edge definition",
-    "term_zh": "4K UHD 分辨率",
-    "labels_zh": [
-      "渲染",
-      "分辨率",
-      "4K",
-      "UHD",
-      "nodaro"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 0.95
+    "notes": "Description: Crisp 4K resolution. Prompt hint: 4K UHD resolution, crisp detail with cinema-grade clarity and clean edge definition"
   },
   {
-    "id": "render_quality_resolution_16k_megapixel",
+    "id": "quality_resolution_16k_megapixel",
     "term": "16k resolution",
+    "term_zh": null,
     "category": "quality",
-    "subcategory": "render-resolution",
+    "subcategory": "resolution",
     "labels": [
       "16k-megapixel"
     ],
+    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -5310,32 +6133,23 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Insanely high-resolution detail. Prompt hint: 16K megapixel-grade resolution, insanely high-resolution detail with surgically clean edges and microscopic surface fidelity",
-    "term_zh": "16K 分辨率",
-    "labels_zh": [
-      "渲染",
-      "分辨率",
-      "16K",
-      "nodaro"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 0.95
+    "notes": "Description: Insanely high-resolution detail. Prompt hint: 16K megapixel-grade resolution, insanely high-resolution detail with surgically clean edges and microscopic surface fidelity"
   },
   {
-    "id": "render_quality_resolution_ultra_detailed",
+    "id": "quality_resolution_ultra_detailed",
     "term": "ultra-detailed",
-    "term_zh": "超精细",
+    "term_zh": null,
     "category": "quality",
-    "subcategory": "render-resolution",
+    "subcategory": "resolution",
     "labels": [
       "ultra-detailed"
     ],
+    "labels_zh": [
+      "细节丰富"
+    ],
     "score": 0.85,
     "priority": "medium",
-    "lifecycle": "deprecated",
+    "lifecycle": "approved",
     "tags": [
       "nodaro-prompts"
     ],
@@ -5343,27 +6157,21 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Maximum micro-detail rendering. Prompt hint: ultra-detailed rendering with intricate micro-surface detail, fine pore-level fidelity and meticulously preserved fine structures",
-    "labels_zh": [
-      "渲染",
-      "分辨率",
-      "超精细",
-      "nodaro"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "alias_of": "quality_advanced_ultra_detailed",
-    "weight": 0.95
+    "aliases": [
+      "highly detailed",
+      "intricate details"
+    ]
   },
   {
-    "id": "render_quality_stamps_raw_photo",
+    "id": "quality_stamps_raw_photo",
     "term": "raw photograph aesthetic",
+    "term_zh": null,
     "category": "quality",
-    "subcategory": "render-stamps",
+    "subcategory": "stamps",
     "labels": [
       "raw-photo"
     ],
+    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -5373,28 +6181,19 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Unprocessed photographic feel. Prompt hint: raw photograph aesthetic, unprocessed natural color science, authentic photographic detail and untouched documentary realism",
-    "term_zh": "RAW 摄影美学",
-    "labels_zh": [
-      "渲染",
-      "印章",
-      "RAW",
-      "摄影美学",
-      "nodaro"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 0.95
+    "notes": "Description: Unprocessed photographic feel. Prompt hint: raw photograph aesthetic, unprocessed natural color science, authentic photographic detail and untouched documentary realism"
   },
   {
-    "id": "render_quality_stamps_masterpiece",
+    "id": "quality_stamps_masterpiece",
     "term": "masterpiece-quality rendering",
+    "term_zh": null,
     "category": "quality",
-    "subcategory": "render-stamps",
+    "subcategory": "stamps",
     "labels": [
       "masterpiece"
+    ],
+    "labels_zh": [
+      "杰作"
     ],
     "score": 0.85,
     "priority": "medium",
@@ -5406,27 +6205,20 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Hand-of-an-expert quality stamp. Prompt hint: masterpiece-quality rendering, hand-of-an-expert level execution with refined composition, immaculate detail and curated finish",
-    "term_zh": "杰作品质渲染",
-    "labels_zh": [
-      "渲染",
-      "印章",
-      "nodaro"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 0.95
+    "aliases": [
+      "award-winning artwork"
+    ]
   },
   {
-    "id": "render_quality_stamps_award_winning",
+    "id": "quality_stamps_award_winning",
     "term": "award-winning",
-    "term_zh": "获奖作品",
+    "term_zh": null,
     "category": "quality",
-    "subcategory": "render-stamps",
+    "subcategory": "stamps",
     "labels": [
       "award-winning"
     ],
+    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -5436,27 +6228,18 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Award-circuit caliber. Prompt hint: award-winning quality, award-circuit caliber image with editorial-grade composition, magazine-cover finish and signature visual authority",
-    "labels_zh": [
-      "渲染",
-      "印章",
-      "获奖作品",
-      "nodaro"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 0.95
+    "notes": "Description: Award-circuit caliber. Prompt hint: award-winning quality, award-circuit caliber image with editorial-grade composition, magazine-cover finish and signature visual authority"
   },
   {
-    "id": "render_quality_other_volumetric_lighting",
+    "id": "quality_other_volumetric_lighting",
     "term": "volumetric lighting with god-ray light shafts cutting throug",
+    "term_zh": null,
     "category": "quality",
-    "subcategory": "render-other",
+    "subcategory": "other",
     "labels": [
       "volumetric-lighting"
     ],
+    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -5466,28 +6249,18 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: God-ray volumetric light shafts cutting through atmosphere. Prompt hint: volumetric lighting with god-ray light shafts cutting through atmospheric haze, beams of illuminated dust and particulate scattering through the scene",
-    "term_zh": "体积光照",
-    "labels_zh": [
-      "渲染",
-      "其他",
-      "体积光照",
-      "nodaro"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 0.95
+    "notes": "Description: God-ray volumetric light shafts cutting through atmosphere. Prompt hint: volumetric lighting with god-ray light shafts cutting through atmospheric haze, beams of illuminated dust and particulate scattering through the scene"
   },
   {
-    "id": "render_quality_other_photon_mapping",
+    "id": "quality_other_photon_mapping",
     "term": "photon-mapped global illumination with caustic-aware light t",
+    "term_zh": null,
     "category": "quality",
-    "subcategory": "render-other",
+    "subcategory": "other",
     "labels": [
       "photon-mapping"
     ],
+    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -5497,28 +6270,18 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Caustic-aware photon-mapped global illumination renderer. Prompt hint: photon-mapped global illumination with caustic-aware light transport, accurate refractive light patterns through glass and water and physically correct indirect bounces",
-    "term_zh": "全局光照",
-    "labels_zh": [
-      "渲染",
-      "其他",
-      "全局光照",
-      "nodaro"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 0.95
+    "notes": "Description: Caustic-aware photon-mapped global illumination renderer. Prompt hint: photon-mapped global illumination with caustic-aware light transport, accurate refractive light patterns through glass and water and physically correct indirect bounces"
   },
   {
-    "id": "render_quality_other_ai_upscaled",
+    "id": "quality_other_ai_upscaled",
     "term": "neural-network AI-upscaled detail enhancement",
+    "term_zh": null,
     "category": "quality",
-    "subcategory": "render-other",
+    "subcategory": "other",
     "labels": [
       "ai-upscaled"
     ],
+    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -5528,29 +6291,18 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Neural-network upscaled detail enhancement, sharp super-resolution. Prompt hint: neural-network AI-upscaled detail enhancement, sharp super-resolution clarity with reconstructed micro-detail and surgically clean edge definition",
-    "term_zh": "神经网络 AI 升采样增强细节",
-    "labels_zh": [
-      "渲染",
-      "其他",
-      "神经网络",
-      "AI",
-      "nodaro"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 0.95
+    "notes": "Description: Neural-network upscaled detail enhancement, sharp super-resolution. Prompt hint: neural-network AI-upscaled detail enhancement, sharp super-resolution clarity with reconstructed micro-detail and surgically clean edge definition"
   },
   {
-    "id": "render_quality_technical_denoised",
+    "id": "quality_technical_denoised",
     "term": "denoised render",
+    "term_zh": null,
     "category": "quality",
-    "subcategory": "render-technical",
+    "subcategory": "technical",
     "labels": [
       "denoised"
     ],
+    "labels_zh": [],
     "score": 0.85,
     "priority": "medium",
     "lifecycle": "approved",
@@ -5560,368 +6312,6 @@
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
-    "notes": "Description: Clean noise-removed pristine rendering, no grain or speckle. Prompt hint: clean denoised rendering with noise removed entirely, pristine smooth surfaces and zero grain or speckle across shadows and midtones",
-    "term_zh": "降噪渲染",
-    "labels_zh": [
-      "渲染",
-      "技术",
-      "降噪渲染",
-      "nodaro"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 0.95
-  },
-  {
-    "id": "render_quality_unreal_engine_5",
-    "term": "Unreal Engine 5 Lumen",
-    "term_zh": "虚幻引擎5 Lumen光线追踪",
-    "subcategory": "render-engines",
-    "labels": [
-      "unreal",
-      "engine",
-      "5",
-      "lumen",
-      "ray-tracing"
-    ],
-    "labels_zh": [
-      "渲染质量",
-      "虚幻引擎",
-      "光线追踪"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
-      "game-engine",
-      "real-time"
-    ],
-    "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "quality",
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 1.0
-  },
-  {
-    "id": "render_quality_maya_render",
-    "term": "Autodesk Arnold renderer",
-    "term_zh": "Autodesk Arnold渲染器",
-    "subcategory": "render-engines",
-    "labels": [
-      "autodesk",
-      "arnold",
-      "renderer",
-      "studio"
-    ],
-    "labels_zh": [
-      "渲染质量",
-      "Autodesk",
-      "Arnold"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
-      "film",
-      "studio"
-    ],
-    "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "quality",
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 0.95
-  },
-  {
-    "id": "render_quality_cinema4d_octane",
-    "term": "Cinema 4D Octane render",
-    "term_zh": "Cinema 4D Octane渲染",
-    "subcategory": "render-engines",
-    "labels": [
-      "cinema-4d",
-      "octane",
-      "gpu-render"
-    ],
-    "labels_zh": [
-      "渲染质量",
-      "Cinema 4D",
-      "Octane"
-    ],
-    "score": 0.9,
-    "priority": "high",
-    "lifecycle": "approved",
-    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
-      "motion-graphics",
-      "gpu"
-    ],
-    "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "quality",
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 1.0
-  },
-  {
-    "id": "render_quality_blender_cycles",
-    "term": "Blender Cycles path-traced",
-    "term_zh": "Blender Cycles路径追踪",
-    "subcategory": "render-engines",
-    "labels": [
-      "blender",
-      "cycles",
-      "path-traced",
-      "open-source"
-    ],
-    "labels_zh": [
-      "渲染质量",
-      "Blender",
-      "Cycles"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
-      "open-source",
-      "popular"
-    ],
-    "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "quality",
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 1.0
-  },
-  {
-    "id": "render_quality_vray",
-    "term": "V-Ray photorealistic",
-    "term_zh": "V-Ray照片级真实",
-    "subcategory": "render-engines",
-    "labels": [
-      "v-ray",
-      "photorealistic",
-      "architectural"
-    ],
-    "labels_zh": [
-      "渲染质量",
-      "V-Ray",
-      "照片级"
-    ],
-    "score": 0.9,
-    "priority": "high",
-    "lifecycle": "approved",
-    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
-      "architectural",
-      "visualization"
-    ],
-    "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "quality",
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 1.0
-  },
-  {
-    "id": "render_quality_ian_brain",
-    "term": "mental ray global illumination",
-    "term_zh": "mental ray全局照明",
-    "subcategory": "render-engines",
-    "labels": [
-      "mental-ray",
-      "global-illumination",
-      "renderman"
-    ],
-    "labels_zh": [
-      "渲染质量",
-      "mental ray",
-      "全局照明"
-    ],
-    "score": 0.75,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
-      "film",
-      "legacy"
-    ],
-    "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "quality",
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 0.95
-  },
-  {
-    "id": "render_quality_8k_uhd",
-    "term": "8K UHD resolution",
-    "term_zh": "8K超高清分辨率",
-    "subcategory": "render-resolution",
-    "labels": [
-      "8k",
-      "uhd",
-      "ultra-high-definition",
-      "resolution"
-    ],
-    "labels_zh": [
-      "渲染质量",
-      "8K",
-      "超高清"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
-      "resolution",
-      "commercial"
-    ],
-    "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "quality",
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 1.0
-  },
-  {
-    "id": "render_quality_4k_hdr",
-    "term": "4K HDR tone-mapped",
-    "term_zh": "4K HDR色调映射",
-    "subcategory": "render-resolution",
-    "labels": [
-      "4k",
-      "hdr",
-      "tone-mapping",
-      "dynamic-range"
-    ],
-    "labels_zh": [
-      "渲染质量",
-      "4K",
-      "HDR"
-    ],
-    "score": 0.8,
-    "priority": "high",
-    "lifecycle": "approved",
-    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
-      "video",
-      "modern"
-    ],
-    "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "quality",
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 1.0
-  },
-  {
-    "id": "render_quality_ray_tracing",
-    "term": "ray-traced global illumination",
-    "term_zh": "光线追踪全局照明",
-    "subcategory": "render-technical",
-    "labels": [
-      "ray-tracing",
-      "global-illumination",
-      "reflections",
-      "caustics"
-    ],
-    "labels_zh": [
-      "渲染质量",
-      "光线追踪",
-      "全局照明"
-    ],
-    "score": 0.9,
-    "priority": "high",
-    "lifecycle": "approved",
-    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
-      "modern",
-      "realistic"
-    ],
-    "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "quality",
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 1.0
-  },
-  {
-    "id": "render_quality_ambient_occlusion",
-    "term": "ambient occlusion shadows",
-    "term_zh": "环境遮蔽阴影",
-    "subcategory": "render-technical",
-    "labels": [
-      "ambient-occlusion",
-      "ao",
-      "shadows",
-      "contact"
-    ],
-    "labels_zh": [
-      "渲染质量",
-      "环境遮蔽",
-      "阴影"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
-      "technical",
-      "realistic"
-    ],
-    "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "quality",
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 0.95
-  },
-  {
-    "id": "render_quality_subsurface_scattering",
-    "term": "subsurface scattering skin wax",
-    "term_zh": "次表面散射皮肤蜡质",
-    "subcategory": "render-technical",
-    "labels": [
-      "subsurface-scattering",
-      "sss",
-      "translucent",
-      "skin"
-    ],
-    "labels_zh": [
-      "渲染质量",
-      "次表面散射",
-      "半透明"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
-      "character",
-      "realistic"
-    ],
-    "created_at": "2026-10-05T21:59:50.647041+00:00",
-    "category": "quality",
-    "compatibility": [
-      "sdxl",
-      "midjourney"
-    ],
-    "weight": 1.0
+    "notes": "Description: Clean noise-removed pristine rendering, no grain or speckle. Prompt hint: clean denoised rendering with noise removed entirely, pristine smooth surfaces and zero grain or speckle across shadows and midtones"
   }
 ]

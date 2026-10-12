@@ -1,0 +1,4126 @@
+{
+  "keep": [
+    {
+      "id": "character_shuixian_01836e0d",
+      "term": "minimalist",
+      "term_zh": "角色写实极简冷调",
+      "category": "character",
+      "subcategory": "角色写实极简冷调",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_087ceafc",
+      "term": "graffiti, hand-drawn",
+      "term_zh": "角色涂鸦手绘",
+      "category": "character",
+      "subcategory": "角色涂鸦手绘",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_095ed74c",
+      "term": "graffiti",
+      "term_zh": "角色涂鸦",
+      "category": "character",
+      "subcategory": "角色涂鸦",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_0ebc1294",
+      "term": "illustration, cute",
+      "term_zh": "角色插画可爱",
+      "category": "character",
+      "subcategory": "角色插画可爱",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_107d9bc0",
+      "term": "hand-drawn, graffiti, illustration",
+      "term_zh": "手绘人物涂鸦插画",
+      "category": "character",
+      "subcategory": "手绘人物涂鸦插画",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_12a696ea",
+      "term": "anime, illustration",
+      "term_zh": "角色动漫插画复古",
+      "category": "character",
+      "subcategory": "角色动漫插画复古",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_37db0a82",
+      "term": "graffiti, hand-drawn, cute",
+      "term_zh": "角色涂鸦手绘可爱",
+      "category": "character",
+      "subcategory": "角色涂鸦手绘可爱",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_48eec164",
+      "term": "anime, illustration",
+      "term_zh": "角色动漫插画",
+      "category": "character",
+      "subcategory": "角色动漫插画",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_49a1e737",
+      "term": "anime, illustration",
+      "term_zh": "人像动漫插画优雅",
+      "category": "character",
+      "subcategory": "人像动漫插画优雅",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_4cab85c9",
+      "term": "illustration",
+      "term_zh": "人像插画",
+      "category": "character",
+      "subcategory": "人像插画",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_5aad7d07",
+      "term": "minimalist",
+      "term_zh": "人像写实极简优雅",
+      "category": "character",
+      "subcategory": "人像写实极简优雅",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_5f599efc",
+      "term": "illustration, graffiti",
+      "term_zh": "角色插画涂鸦",
+      "category": "character",
+      "subcategory": "角色插画涂鸦",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_6b274422",
+      "term": "anime, illustration",
+      "term_zh": "角色动漫插画温暖",
+      "category": "character",
+      "subcategory": "角色动漫插画温暖",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_6b45713b",
+      "term": "anime, hand-drawn",
+      "term_zh": "角色动漫手绘",
+      "category": "character",
+      "subcategory": "角色动漫手绘",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_6f22ebe9",
+      "term": "anime, illustration",
+      "term_zh": "人像动漫插画",
+      "category": "character",
+      "subcategory": "人像动漫插画",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_727e13cf",
+      "term": "minimalist, cute",
+      "term_zh": "人像写实极简可爱",
+      "category": "character",
+      "subcategory": "人像写实极简可爱",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_79514270",
+      "term": "anime",
+      "term_zh": "角色动漫漫画",
+      "category": "character",
+      "subcategory": "角色动漫漫画",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_891672bd",
+      "term": "anime",
+      "term_zh": "角色动漫冷调",
+      "category": "character",
+      "subcategory": "角色动漫冷调",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_8b4bec99",
+      "term": "female",
+      "term_zh": "女性人像写真",
+      "category": "character",
+      "subcategory": "女性人像写真",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_9204c272",
+      "term": "anime",
+      "term_zh": "角色动漫",
+      "category": "character",
+      "subcategory": "角色动漫",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_9f910e34",
+      "term": "minimalist",
+      "term_zh": "极简人物",
+      "category": "character",
+      "subcategory": "极简人物",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_a571eae4",
+      "term": "illustration",
+      "term_zh": "角色插画",
+      "category": "character",
+      "subcategory": "角色插画",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_a7152ecd",
+      "term": "anime, illustration, cute",
+      "term_zh": "角色动漫插画可爱",
+      "category": "character",
+      "subcategory": "角色动漫插画可爱",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_b15a56a8",
+      "term": "anime",
+      "term_zh": "角色动漫写实",
+      "category": "character",
+      "subcategory": "角色动漫写实",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_b1a0bbd8",
+      "term": "anime",
+      "term_zh": "人像胶片动漫",
+      "category": "character",
+      "subcategory": "人像胶片动漫",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_b38724c9",
+      "term": "cute",
+      "term_zh": "人像写实夜景可爱",
+      "category": "character",
+      "subcategory": "人像写实夜景可爱",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_b5b3493a",
+      "term": "cyberpunk",
+      "term_zh": "赛博朋克角色",
+      "category": "character",
+      "subcategory": "赛博朋克角色",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_c11f2ec4",
+      "term": "anime, cute",
+      "term_zh": "角色动漫可爱",
+      "category": "character",
+      "subcategory": "角色动漫可爱",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_c9927312",
+      "term": "anime",
+      "term_zh": "人像动漫",
+      "category": "character",
+      "subcategory": "人像动漫",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_ce22f3a6",
+      "term": "illustration, cute",
+      "term_zh": "角色插画温暖可爱",
+      "category": "character",
+      "subcategory": "角色插画温暖可爱",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_cfaa5452",
+      "term": "anime, illustration",
+      "term_zh": "角色动漫插画城市",
+      "category": "character",
+      "subcategory": "角色动漫插画城市",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_d8f813fa",
+      "term": "illustration, hand-drawn, cute",
+      "term_zh": "角色插画手绘可爱",
+      "category": "character",
+      "subcategory": "角色插画手绘可爱",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_e8da6254",
+      "term": "anime",
+      "term_zh": "鬼灭之刃人像动漫",
+      "category": "character",
+      "subcategory": "鬼灭之刃人像动漫",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_ef863536",
+      "term": "minimalist",
+      "term_zh": "人像写实极简室内",
+      "category": "character",
+      "subcategory": "人像写实极简室内",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_f01b1bf0",
+      "term": "minimalist",
+      "term_zh": "人像写实极简",
+      "category": "character",
+      "subcategory": "人像写实极简",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_f751c66f",
+      "term": "anime",
+      "term_zh": "角色动漫写实室内",
+      "category": "character",
+      "subcategory": "角色动漫写实室内",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_ffbacebf",
+      "term": "minimalist",
+      "term_zh": "人像极简胶片冷调",
+      "category": "character",
+      "subcategory": "人像极简胶片冷调",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_ffc3e95c",
+      "term": "portrait",
+      "term_zh": "人像写真",
+      "category": "uncategorized",
+      "subcategory": "人像写真",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "composition_shuixian_1cf24ced",
+      "term": "minimalist",
+      "term_zh": "人像极简海报高级",
+      "category": "character",
+      "subcategory": "人像极简海报高级",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "composition_shuixian_431ad9ab",
+      "term": "minimalist",
+      "term_zh": "人像极简海报优雅",
+      "category": "character",
+      "subcategory": "人像极简海报优雅",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "composition_shuixian_491bf71f",
+      "term": "minimalist",
+      "term_zh": "人像极简海报",
+      "category": "character",
+      "subcategory": "人像极简海报",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "composition_shuixian_4ec209cb",
+      "term": "anime",
+      "term_zh": "动漫个人海报",
+      "category": "character",
+      "subcategory": "动漫个人海报",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "composition_shuixian_66d67942",
+      "term": "female",
+      "term_zh": "女性产品海报",
+      "category": "character",
+      "subcategory": "女性产品海报",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "composition_shuixian_6c1bb77e",
+      "term": "female, minimalist",
+      "term_zh": "女性极简海报优雅",
+      "category": "character",
+      "subcategory": "女性极简海报优雅",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "composition_shuixian_8103e1e5",
+      "term": "female",
+      "term_zh": "女性海报品牌",
+      "category": "character",
+      "subcategory": "女性海报品牌",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "composition_shuixian_9cd9e144",
+      "term": "anime",
+      "term_zh": "角色动漫海报",
+      "category": "character",
+      "subcategory": "角色动漫海报",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "composition_shuixian_a15dd04b",
+      "term": "female",
+      "term_zh": "艺术女性海报",
+      "category": "character",
+      "subcategory": "艺术女性海报",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "composition_shuixian_ad3d8c33",
+      "term": "minimalist",
+      "term_zh": "车海报极简复古",
+      "category": "character",
+      "subcategory": "车海报极简复古",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "composition_shuixian_b30b3152",
+      "term": "anime",
+      "term_zh": "少女动漫海报复古",
+      "category": "character",
+      "subcategory": "少女动漫海报复古",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "composition_shuixian_bcc81f1f",
+      "term": "illustration",
+      "term_zh": "角色插画海报复古",
+      "category": "character",
+      "subcategory": "角色插画海报复古",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "composition_shuixian_d5b1025a",
+      "term": "female",
+      "term_zh": "女性海报街头优雅",
+      "category": "character",
+      "subcategory": "女性海报街头优雅",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "composition_shuixian_da14285a",
+      "term": "minimalist",
+      "term_zh": "食物极简海报复古",
+      "category": "character",
+      "subcategory": "食物极简海报复古",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "composition_shuixian_edf3602f",
+      "term": "hand-drawn",
+      "term_zh": "人像海报手绘",
+      "category": "character",
+      "subcategory": "人像海报手绘",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "composition_shuixian_fc8bface",
+      "term": "male",
+      "term_zh": "男性海报品牌",
+      "category": "character",
+      "subcategory": "男性海报品牌",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "scene_shuixian_afa344d0",
+      "term": "female",
+      "term_zh": "女性写实城市户外",
+      "category": "character",
+      "subcategory": "女性写实城市户外",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "scene_shuixian_c8364843",
+      "term": "female",
+      "term_zh": "女性写实城市街头",
+      "category": "character",
+      "subcategory": "女性写实城市街头",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "scene_shuixian_e66fa144",
+      "term": "female",
+      "term_zh": "女性写实城市",
+      "category": "character",
+      "subcategory": "女性写实城市",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_008cface",
+      "term": "anime",
+      "term_zh": "其他动漫",
+      "category": "character",
+      "subcategory": "其他动漫",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_06e1546d",
+      "term": "female, anime, illustration",
+      "term_zh": "女性动漫插画优雅",
+      "category": "character",
+      "subcategory": "女性动漫插画优雅",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_0e109bfc",
+      "term": "illustration",
+      "term_zh": "猫插画",
+      "category": "character",
+      "subcategory": "猫插画",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_15b8c464",
+      "term": "female, anime",
+      "term_zh": "女性动漫写实温暖",
+      "category": "character",
+      "subcategory": "女性动漫写实温暖",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_22baa806",
+      "term": "female",
+      "term_zh": "女性写实封面",
+      "category": "character",
+      "subcategory": "女性写实封面",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_2be3458b",
+      "term": "anime, illustration",
+      "term_zh": "动漫插画",
+      "category": "character",
+      "subcategory": "动漫插画",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_38dba318",
+      "term": "female, cute",
+      "term_zh": "女性写实户外可爱",
+      "category": "character",
+      "subcategory": "女性写实户外可爱",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_420e0a93",
+      "term": "anime, illustration",
+      "term_zh": "少女动漫插画",
+      "category": "character",
+      "subcategory": "少女动漫插画",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_4223b47a",
+      "term": "female, anime, illustration",
+      "term_zh": "女性动漫插画冷调",
+      "category": "character",
+      "subcategory": "女性动漫插画冷调",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_425360bd",
+      "term": "anime",
+      "term_zh": "少女动漫",
+      "category": "character",
+      "subcategory": "少女动漫",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_45f4639e",
+      "term": "female, anime, illustration",
+      "term_zh": "女性动漫插画",
+      "category": "character",
+      "subcategory": "女性动漫插画",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_535c1daf",
+      "term": "illustration, hand-drawn",
+      "term_zh": "少女插画手绘温柔",
+      "category": "character",
+      "subcategory": "少女插画手绘温柔",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_53e384c7",
+      "term": "female",
+      "term_zh": "女性写实街头",
+      "category": "character",
+      "subcategory": "女性写实街头",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_6127e9d7",
+      "term": "female, anime, illustration",
+      "term_zh": "女性动漫插画忧郁",
+      "category": "character",
+      "subcategory": "女性动漫插画忧郁",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_83595d24",
+      "term": "female",
+      "term_zh": "女性写实温暖夜景",
+      "category": "character",
+      "subcategory": "女性写实温暖夜景",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_91b3e170",
+      "term": "female, anime, illustration",
+      "term_zh": "女性动漫插画温暖",
+      "category": "character",
+      "subcategory": "女性动漫插画温暖",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_960105a0",
+      "term": "anime, illustration, cute",
+      "term_zh": "少女动漫插画可爱",
+      "category": "character",
+      "subcategory": "少女动漫插画可爱",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_981b3838",
+      "term": "minimalist, illustration",
+      "term_zh": "极简女生插画",
+      "category": "character",
+      "subcategory": "极简女生插画",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_9f17c867",
+      "term": "illustration, hand-drawn",
+      "term_zh": "少女插画手绘",
+      "category": "character",
+      "subcategory": "少女插画手绘",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_aa15b1f1",
+      "term": "cute",
+      "term_zh": "女孩写实街头可爱",
+      "category": "character",
+      "subcategory": "女孩写实街头可爱",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_aa515051",
+      "term": "anime, illustration, cute",
+      "term_zh": "女孩动漫插画可爱",
+      "category": "character",
+      "subcategory": "女孩动漫插画可爱",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_b00b1a50",
+      "term": "female",
+      "term_zh": "女性写实",
+      "category": "character",
+      "subcategory": "女性写实",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_b2c2f62f",
+      "term": "female",
+      "term_zh": "女性写实胶片温暖",
+      "category": "character",
+      "subcategory": "女性写实胶片温暖",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_b5d42d92",
+      "term": "female",
+      "term_zh": "女性写实夜景室内",
+      "category": "character",
+      "subcategory": "女性写实夜景室内",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_c176c76e",
+      "term": "female, anime",
+      "term_zh": "女性动漫产品",
+      "category": "character",
+      "subcategory": "女性动漫产品",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_cc6d9384",
+      "term": "hand-drawn",
+      "term_zh": "手绘风格照片标注",
+      "category": "character",
+      "subcategory": "手绘风格照片标注",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_d44eadaf",
+      "term": "female, anime, illustration",
+      "term_zh": "女性动漫插画山",
+      "category": "character",
+      "subcategory": "女性动漫插画山",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_d58b4947",
+      "term": "female, cute",
+      "term_zh": "女性写实可爱",
+      "category": "character",
+      "subcategory": "女性写实可爱",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_d621d296",
+      "term": "cute, anime",
+      "term_zh": "可爱动漫",
+      "category": "character",
+      "subcategory": "可爱动漫",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_d76c60ae",
+      "term": "female, anime, illustration",
+      "term_zh": "女性动漫插画室内",
+      "category": "character",
+      "subcategory": "女性动漫插画室内",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_edb60da0",
+      "term": "female, minimalist",
+      "term_zh": "女性写实极简优雅",
+      "category": "character",
+      "subcategory": "女性写实极简优雅",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_ee13752d",
+      "term": "anime",
+      "term_zh": "二次元动漫美女",
+      "category": "character",
+      "subcategory": "二次元动漫美女",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_eedb0274",
+      "term": "anime, illustration",
+      "term_zh": "少女动漫插画优雅",
+      "category": "character",
+      "subcategory": "少女动漫插画优雅",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "styles_shuixian_f77bcb34",
+      "term": "female",
+      "term_zh": "女性写实优雅",
+      "category": "character",
+      "subcategory": "女性写实优雅",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_001152c8",
+      "term": "vintage newspaper layout",
+      "term_zh": "复古报纸",
+      "category": "composition",
+      "subcategory": "复古报纸",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_0246ca84",
+      "term": "group photo",
+      "term_zh": "多人合照",
+      "category": "character",
+      "subcategory": "多人合照",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_168f7f04",
+      "term": "fashion product photography",
+      "term_zh": "时尚产品",
+      "category": "composition",
+      "subcategory": "时尚产品",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_18362f40",
+      "term": "premium men's magazine style",
+      "term_zh": "高端男性杂志",
+      "category": "character",
+      "subcategory": "高端男性杂志",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_1b559243",
+      "term": "ancient Chinese style",
+      "term_zh": "古风大凶美女",
+      "category": "character",
+      "subcategory": "古风大凶美女",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_1e5e5840",
+      "term": "neon female",
+      "term_zh": "霓虹女性",
+      "category": "character",
+      "subcategory": "霓虹女性",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_1f5442a7",
+      "term": "night scene female",
+      "term_zh": "夜景女性",
+      "category": "character",
+      "subcategory": "夜景女性",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_251a845b",
+      "term": "graffiti art design",
+      "term_zh": "涂鸦画",
+      "category": "character",
+      "subcategory": "涂鸦画",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_251ec47d",
+      "term": "graffiti shadow art",
+      "term_zh": "涂鸦影子",
+      "category": "character",
+      "subcategory": "涂鸦影子",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_2bae6cc2",
+      "term": "hand-drawn food illustration",
+      "term_zh": "食物手绘",
+      "category": "character",
+      "subcategory": "食物手绘",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_3875325d",
+      "term": "minimalist, female",
+      "term_zh": "极简女性",
+      "category": "character",
+      "subcategory": "极简女性",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_38fefc3d",
+      "term": "realistic anime style",
+      "term_zh": "真人日漫",
+      "category": "uncategorized",
+      "subcategory": "真人日漫",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_3d1602a8",
+      "term": "cinematic flower photography",
+      "term_zh": "电影感花",
+      "category": "character",
+      "subcategory": "电影感花",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_3d2eccf3",
+      "term": "handwritten typography",
+      "term_zh": "手写体",
+      "category": "uncategorized",
+      "subcategory": "手写体",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_453597b3",
+      "term": "minimalist male portrait",
+      "term_zh": "极简男性",
+      "category": "character",
+      "subcategory": "极简男性",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_46ef9a71",
+      "term": "paper cutting art design",
+      "term_zh": "手工剪纸",
+      "category": "composition",
+      "subcategory": "手工剪纸",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_46f5ecd3",
+      "term": "cinematic female portrait",
+      "term_zh": "电影感女性",
+      "category": "character",
+      "subcategory": "电影感女性",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_4bf0c6fd",
+      "term": "minimalist female portrait",
+      "term_zh": "女性极简",
+      "category": "character",
+      "subcategory": "女性极简",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_54838a6b",
+      "term": "League of Legends style",
+      "term_zh": "英雄联盟",
+      "category": "character",
+      "subcategory": "英雄联盟",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_56aa7ec8",
+      "term": "street photography female",
+      "term_zh": "街拍女性",
+      "category": "character",
+      "subcategory": "街拍女性",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_5bd1ce8c",
+      "term": "card grid layout design",
+      "term_zh": "卡牌栅格",
+      "category": "composition",
+      "subcategory": "卡牌栅格",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_7298b2a5",
+      "term": "fine art photography",
+      "term_zh": "摄影作品",
+      "category": "character",
+      "subcategory": "摄影作品",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_72ae6f1d",
+      "term": "seductive gaze",
+      "term_zh": "媚眼诱惑",
+      "category": "character",
+      "subcategory": "媚眼诱惑",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_7cfa01ac",
+      "term": "female",
+      "term_zh": "女性夜景",
+      "category": "character",
+      "subcategory": "女性夜景",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_7e911264",
+      "term": "fashion photography",
+      "term_zh": "时尚摄影",
+      "category": "character",
+      "subcategory": "时尚摄影",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_806b492d",
+      "term": "studio portrait female",
+      "term_zh": "棚拍女性",
+      "category": "character",
+      "subcategory": "棚拍女性",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_81521367",
+      "term": "movie poster design",
+      "term_zh": "电影封面",
+      "category": "character",
+      "subcategory": "电影封面",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_88c03364",
+      "term": "high-end female aesthetic",
+      "term_zh": "高级感女性",
+      "category": "character",
+      "subcategory": "高级感女性",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_8deff26f",
+      "term": "casual snapshot",
+      "term_zh": "随手拍",
+      "category": "uncategorized",
+      "subcategory": "随手拍",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_8e85c732",
+      "term": "elegant female portrait",
+      "term_zh": "女性优雅",
+      "category": "character",
+      "subcategory": "女性优雅",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_9d1ee227",
+      "term": "retro style female",
+      "term_zh": "复古女性",
+      "category": "character",
+      "subcategory": "复古女性",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_a63de720",
+      "term": "calligraphy and painting art",
+      "term_zh": "书画作品",
+      "category": "composition",
+      "subcategory": "书画作品",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_a734cbb7",
+      "term": "car exploded view art",
+      "term_zh": "汽车拆解",
+      "category": "composition",
+      "subcategory": "汽车拆解",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_b04733c4",
+      "term": "couple photo",
+      "term_zh": "情侣合照",
+      "category": "character",
+      "subcategory": "情侣合照",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_b2801494",
+      "term": "female, minimalist",
+      "term_zh": "女性极简品牌",
+      "category": "character",
+      "subcategory": "女性极简品牌",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_b294be4a",
+      "term": "refrigerator magnet design",
+      "term_zh": "冰箱贴",
+      "category": "composition",
+      "subcategory": "冰箱贴",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_b2b50ef6",
+      "term": "cute hand-drawn food typography",
+      "term_zh": "食物手绘字体可爱",
+      "category": "character",
+      "subcategory": "食物手绘字体可爱",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_b35efc5e",
+      "term": "warm cozy female portrait",
+      "term_zh": "温馨女性",
+      "category": "character",
+      "subcategory": "温馨女性",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_b9dfe528",
+      "term": "film photography female",
+      "term_zh": "女性胶片",
+      "category": "character",
+      "subcategory": "女性胶片",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_bc48d264",
+      "term": "cinematic male portrait",
+      "term_zh": "电影感男性",
+      "category": "character",
+      "subcategory": "电影感男性",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_bc7bebb3",
+      "term": "ID photo",
+      "term_zh": "证件照",
+      "category": "character",
+      "subcategory": "证件照",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_bd132be3",
+      "term": "hand-drawn annotations",
+      "term_zh": "手绘标注",
+      "category": "character",
+      "subcategory": "手绘标注",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_c026c473",
+      "term": "glamorous woman",
+      "term_zh": "大凶美女",
+      "category": "character",
+      "subcategory": "大凶美女",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_c05a179d",
+      "term": "premium women's magazine style",
+      "term_zh": "高端女性杂志",
+      "category": "character",
+      "subcategory": "高端女性杂志",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_c2845f53",
+      "term": "female",
+      "term_zh": "女性摄影作品",
+      "category": "character",
+      "subcategory": "女性摄影作品",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_c33d5cf5",
+      "term": "ancient Chinese style",
+      "term_zh": "古风女生",
+      "category": "character",
+      "subcategory": "古风女生",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_c99b9a83",
+      "term": "cinematic vehicle photography",
+      "term_zh": "电影感汽车",
+      "category": "character",
+      "subcategory": "电影感汽车",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_cbbfd218",
+      "term": "live stream frame",
+      "term_zh": "直播画面",
+      "category": "character",
+      "subcategory": "直播画面",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_d1c9790b",
+      "term": "alluring pose (typo correction)",
+      "term_zh": "不漏诱惑",
+      "category": "character",
+      "subcategory": "不漏诱惑",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_daf1ff3f",
+      "term": "crouching looking at camera",
+      "term_zh": "蹲在地上直视镜头",
+      "category": "character",
+      "subcategory": "蹲在地上直视镜头",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_e3ef1b80",
+      "term": "minimalist product photography",
+      "term_zh": "女性极简产品",
+      "category": "character",
+      "subcategory": "女性极简产品",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_e9d635db",
+      "term": "female",
+      "term_zh": "女性封面品牌高级",
+      "category": "character",
+      "subcategory": "女性封面品牌高级",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_ecdeb5f6",
+      "term": "women's brand identity",
+      "term_zh": "女性品牌",
+      "category": "character",
+      "subcategory": "女性品牌",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_f553cef8",
+      "term": "female",
+      "term_zh": "绝美成年东亚女性",
+      "category": "character",
+      "subcategory": "绝美成年东亚女性",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_f5942913",
+      "term": "anime glamorous woman",
+      "term_zh": "二次元大凶美女",
+      "category": "character",
+      "subcategory": "二次元大凶美女",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_f5b6fe5f",
+      "term": "cinematic children portrait",
+      "term_zh": "电影感儿童",
+      "category": "character",
+      "subcategory": "电影感儿童",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_f7ec903e",
+      "term": "cyberpunk, female",
+      "term_zh": "赛博朋克女性",
+      "category": "character",
+      "subcategory": "赛博朋克女性",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "character_shuixian_edc751e1",
+      "term": "portrait",
+      "term_zh": "人像",
+      "category": "uncategorized",
+      "subcategory": "人像",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_685510de",
+      "term": "cyberpunk aesthetic",
+      "term_zh": "赛博",
+      "category": "uncategorized",
+      "subcategory": "赛博",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_7eb3b629",
+      "term": "minimalist",
+      "term_zh": "极简",
+      "category": "styles",
+      "subcategory": "极简",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_bc4c08c7",
+      "term": "Japanese style",
+      "term_zh": "日系",
+      "category": "character",
+      "subcategory": "日系",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_cd9fc098",
+      "term": "male",
+      "term_zh": "男性",
+      "category": "character",
+      "subcategory": "男性",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_daefda7f",
+      "term": "funny",
+      "term_zh": "搞怪",
+      "category": "character",
+      "subcategory": "搞怪",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_dd3d212d",
+      "term": "Gundam model art",
+      "term_zh": "高达",
+      "category": "character",
+      "subcategory": "高达",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "uncategorized_shuixian_fc439ded",
+      "term": "Genshin Impact style",
+      "term_zh": "原神",
+      "category": "character",
+      "subcategory": "原神",
+      "source": "BaYue-SYJ/shuixian-prompts",
+      "needs_review": false
+    },
+    {
+      "id": "composition_minimax_h3_509e1a7d",
+      "term": "handheld",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "handheld",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_minimax_h3_e7a44fcb",
+      "term": "fast pan",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "panning",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "transitions_minimax_h3_219f6e23",
+      "term": "dissolve",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "cross-dissolve",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "scene_minimax_h3_40a2319b",
+      "term": "futuristic city",
+      "term_zh": "",
+      "category": "scene",
+      "subcategory": "urban",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "scene_minimax_h3_600b872e",
+      "term": "city skyline",
+      "term_zh": "",
+      "category": "scene",
+      "subcategory": "urban",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "scene_minimax_h3_37ecfbe8",
+      "term": "kitchen at dusk",
+      "term_zh": "",
+      "category": "scene",
+      "subcategory": "interior",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "temporal_minimax_h3_8039777f",
+      "term": "24fps",
+      "term_zh": "",
+      "category": "temporal",
+      "subcategory": "frame-rate",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "scene_minimax_h3_05d04416",
+      "term": "underground nightclub",
+      "term_zh": "",
+      "category": "scene",
+      "subcategory": "urban",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "scene_minimax_h3_32c6fd92",
+      "term": "rainy street",
+      "term_zh": "",
+      "category": "scene",
+      "subcategory": "urban",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_minimax_h3_2c8dfb08",
+      "term": "push in",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "push-in",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "temporal_minimax_h3_18f83e1a",
+      "term": "timelapse",
+      "term_zh": "",
+      "category": "temporal",
+      "subcategory": "time-lapse",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_minimax_h3_9ce16a64",
+      "term": "dynamic camera",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "dynamic",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "lighting_minimax_h3_d085133d",
+      "term": "natural light",
+      "term_zh": "",
+      "category": "lighting",
+      "subcategory": "time-of-day",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_minimax_h3_8096fcd0",
+      "term": "pull back",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "pull-out",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "transitions_minimax_h3_3e2bd65d",
+      "term": "wipe transition",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "wipe",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_minimax_h3_97c98a9c",
+      "term": "50mm",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "prime",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_minimax_h3_af59e94f",
+      "term": "tilt up",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "tilting",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_minimax_h3_6d4f3f3d",
+      "term": "bird's eye",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "aerial",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "lighting_minimax_h3_a5faa7d8",
+      "term": "ambient light",
+      "term_zh": "",
+      "category": "lighting",
+      "subcategory": "atmospheric",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_minimax_h3_5d0e3ec6",
+      "term": "tracking camera",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "tracking",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "temporal_minimax_h3_1996e2bd",
+      "term": "continuous shot",
+      "term_zh": "",
+      "category": "temporal",
+      "subcategory": "long-take",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "styles_minimax_h3_19933c44",
+      "term": "2D cel-shaded",
+      "term_zh": "",
+      "category": "styles",
+      "subcategory": "style",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_minimax_h3_53dad2ee",
+      "term": "85mm",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "portrait",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "styles_minimax_h3_29a0925b",
+      "term": "8K resolution",
+      "term_zh": "",
+      "category": "styles",
+      "subcategory": "style",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_minimax_h3_ef5746e2",
+      "term": "fluid motion",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "stabilized",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_minimax_h3_de4ab376",
+      "term": "anamorphic",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "anamorphic",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_minimax_h3_5184c78b",
+      "term": "smooth pan",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "panning",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "temporal_minimax_h3_1168fc47",
+      "term": "60fps",
+      "term_zh": "",
+      "category": "temporal",
+      "subcategory": "frame-rate",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_minimax_h3_4d0c5db8",
+      "term": "fisheye",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "fisheye",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_minimax_h3_2483ac85",
+      "term": "wide-angle",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "wide-angle",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_minimax_h3_bd15eb74",
+      "term": "24mm",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "wide-angle",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "transitions_minimax_h3_84b433ac",
+      "term": "seamless transition",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "seamless",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "scene_minimax_h3_eeec1154",
+      "term": "industrial warehouse",
+      "term_zh": "",
+      "category": "scene",
+      "subcategory": "commercial",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "scene_minimax_h3_ddef66c6",
+      "term": "suburban street",
+      "term_zh": "",
+      "category": "scene",
+      "subcategory": "suburban",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "styles_minimax_h3_79fbf7be",
+      "term": "documentary style",
+      "term_zh": "",
+      "category": "styles",
+      "subcategory": "documentary",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "transitions_minimax_h3_b5a98037",
+      "term": "flash transition",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "flash-cut",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "transitions_minimax_h3_45b9e921",
+      "term": "match cut",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "jump-cut",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_minimax_h3_807f7ffe",
+      "term": "aerial shot",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "aerial",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "transitions_minimax_h3_a01b9f6b",
+      "term": "light leak",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "light-leak",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "styles_minimax_h3_703b36ec",
+      "term": "stop-motion",
+      "term_zh": "",
+      "category": "styles",
+      "subcategory": "stop-motion",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_minimax_h3_174f448f",
+      "term": "follow cam",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "tracking",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "lighting_minimax_h3_a73e5c91",
+      "term": "practical lighting",
+      "term_zh": "",
+      "category": "lighting",
+      "subcategory": "atmospheric",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "temporal_minimax_h3_197948f4",
+      "term": "frame interpolation",
+      "term_zh": "",
+      "category": "temporal",
+      "subcategory": "interpolation",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "scene_minimax_h3_06de5444",
+      "term": "stone corridor",
+      "term_zh": "",
+      "category": "scene",
+      "subcategory": "interior",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_minimax_h3_e9e68963",
+      "term": "cinema lens",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "anamorphic",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "temporal_minimax_h3_e2fe3e36",
+      "term": "frame-by-frame",
+      "term_zh": "",
+      "category": "temporal",
+      "subcategory": "stop-motion",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_minimax_h3_8ad9e61e",
+      "term": "100mm",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "macro",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "transitions_minimax_h3_925e768a",
+      "term": "fade in",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "fade-in",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "scene_minimax_h3_92c2c52e",
+      "term": "abandoned building",
+      "term_zh": "",
+      "category": "scene",
+      "subcategory": "architecture",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_minimax_h3_00b1fa0d",
+      "term": "spinning camera",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "orbiting",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "scene_minimax_h3_fac7d350",
+      "term": "urban alley",
+      "term_zh": "",
+      "category": "scene",
+      "subcategory": "urban",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "scene_minimax_h3_0573a236",
+      "term": "desert runway",
+      "term_zh": "",
+      "category": "scene",
+      "subcategory": "landscape",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_minimax_h3_7d8443fc",
+      "term": "orbit camera",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "orbiting",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "styles_minimax_h3_ad7e402c",
+      "term": "4K resolution",
+      "term_zh": "",
+      "category": "styles",
+      "subcategory": "style",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_minimax_h3_ef7451cb",
+      "term": "dolly out",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "pull-out",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "styles_minimax_h3_34bc798d",
+      "term": "vintage film",
+      "term_zh": "",
+      "category": "styles",
+      "subcategory": "retro",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_minimax_h3_9e9d77e4",
+      "term": "fpv drone",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "aerial",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_minimax_h3_dfc1c520",
+      "term": "crane shot",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "crane",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_minimax_h3_225416a6",
+      "term": "prime lens",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "prime",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "scene_minimax_h3_cf7e93f1",
+      "term": "snowy mountain",
+      "term_zh": "",
+      "category": "scene",
+      "subcategory": "landscape",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "transitions_minimax_h3_b3bde8ae",
+      "term": "smash cut",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "jump-cut",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "scene_minimax_h3_129f557b",
+      "term": "mountain lake",
+      "term_zh": "",
+      "category": "scene",
+      "subcategory": "landscape",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "temporal_minimax_h3_9a096f74",
+      "term": "30fps",
+      "term_zh": "",
+      "category": "temporal",
+      "subcategory": "frame-rate",
+      "source": "BeatAPI/awesome-minimax-h3-prompts"
+    },
+    {
+      "id": "composition_camerashots_170e65e4",
+      "term": "eye-level",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "angles",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_edd096ff",
+      "term": "low-angle",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "angles",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_29b27546",
+      "term": "high-angle",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "angles",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_6b472ddf",
+      "term": "overhead",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "aerial",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_622413bc",
+      "term": "aerial",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "aerial",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_7977a9c2",
+      "term": "ground-level",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "angles",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_805a5870",
+      "term": "three-quarter",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "shot-language",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_4bcd69d6",
+      "term": "rear view",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "shot-language",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_a2135aaf",
+      "term": "over-the-shoulder",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "shot-language",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_3e509759",
+      "term": "POV",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "pov",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_6193cb51",
+      "term": "wide-angle close-up",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "shot-size",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_4d0c5db8",
+      "term": "fisheye",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "lens",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_97f08efa",
+      "term": "fisheye close-up",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "lens",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_014888f3",
+      "term": "overhead fisheye",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "aerial",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_351a587f",
+      "term": "high-angle close-up",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "angles",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_e15e91e7",
+      "term": "low-angle close-up",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "angles",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_167f6328",
+      "term": "foreground occlusion",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "shot-language",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_ba7d9206",
+      "term": "foreground focus",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "focus-pull",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_b3850d95",
+      "term": "background focus",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "focus-pull",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_424102bf",
+      "term": "prism reflection",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "vfx",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_ff79ae16",
+      "term": "magnifying glass",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "vfx",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_5c762493",
+      "term": "inside a hole",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "shot-language",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_a8772b12",
+      "term": "hoop-level",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "angles",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_b72d093c",
+      "term": "inside-the-fridge",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "shot-language",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_4fa63384",
+      "term": "push-in",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "push-in",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_0b094d5a",
+      "term": "dolly in",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "push-in",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_e482716f",
+      "term": "pull-out",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "pull-out",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_ef7451cb",
+      "term": "dolly out",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "pull-out",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_a9cb430b",
+      "term": "truck",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "tracking",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_119d6ce0",
+      "term": "orbit",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "orbiting",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_b0267358",
+      "term": "crane",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "crane",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_2cc296f8",
+      "term": "pedestal",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "crane",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_dde08b61",
+      "term": "FPV",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "fpv",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_509e1a7d",
+      "term": "handheld",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "handheld",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_56a319d0",
+      "term": "crash zoom",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "zoom-in",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "composition_camerashots_0b03441a",
+      "term": "vertigo effect",
+      "term_zh": "",
+      "category": "composition",
+      "subcategory": "zoom-in",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_58f608fa",
+      "term": "pull-out reveal",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "reveal",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_4fa63384",
+      "term": "push-in",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "push-in",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_56a319d0",
+      "term": "crash zoom",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "zoom-in",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_7b210f2b",
+      "term": "push through a portal",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "portal",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_af9ff9d2",
+      "term": "object wipe",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "wipe",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_96c309a5",
+      "term": "body wipe",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "wipe",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_97e452cf",
+      "term": "lens block",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "fade-out",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_e9db65ff",
+      "term": "dip to dark",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "fade-out",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_7ee9c4f8",
+      "term": "portal",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "portal",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_d8b66cc8",
+      "term": "screen wipe",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "wipe",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_d2f0eeaa",
+      "term": "arc continuation",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "seamless",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_dc7821f3",
+      "term": "roll continuation",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "seamless",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_45b9e921",
+      "term": "match cut",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "jump-cut",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_b3bde8ae",
+      "term": "smash cut",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "jump-cut",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_c31ed914",
+      "term": "filled-frame entry",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "fade-out",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_3443038f",
+      "term": "cut on action",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "hard-cut",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_82dee89f",
+      "term": "exit and enter frame",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "hard-cut",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_830251e4",
+      "term": "graphic wipe",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "wipe",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_729935bb",
+      "term": "J cut",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "j cut",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_235bd658",
+      "term": "L cut",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "l cut",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_ce2527a9",
+      "term": "sound bridge",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "audio-bridge",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_83270b89",
+      "term": "hidden cut",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "seamless",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_1e872e74",
+      "term": "generated bridge",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "morph",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_b414a919",
+      "term": "first and last frame",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "morph",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_b0a22e70",
+      "term": "last-frame handoff",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "seamless",
+      "source": "joost/ai-camera-shots"
+    },
+    {
+      "id": "transitions_camerashots_6e7831c7",
+      "term": "match on the smallest shared shape",
+      "term_zh": "",
+      "category": "transitions",
+      "subcategory": "jump-cut",
+      "source": "joost/ai-camera-shots"
+    }
+  ],
+  "needs_translation": [
+    {
+      "id": "character_shuixian_01836e0d",
+      "term_zh": "角色写实极简冷调",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_087ceafc",
+      "term_zh": "角色涂鸦手绘",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_095ed74c",
+      "term_zh": "角色涂鸦",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_0e16915d",
+      "term_zh": "人像写实",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_0ebc1294",
+      "term_zh": "角色插画可爱",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_107d9bc0",
+      "term_zh": "手绘人物涂鸦插画",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_12a696ea",
+      "term_zh": "角色动漫插画复古",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_37db0a82",
+      "term_zh": "角色涂鸦手绘可爱",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_444151a8",
+      "term_zh": "人像写实户外忧郁",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_48eec164",
+      "term_zh": "角色动漫插画",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_49a1e737",
+      "term_zh": "人像动漫插画优雅",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_4cab85c9",
+      "term_zh": "人像插画",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_5aad7d07",
+      "term_zh": "人像写实极简优雅",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_5e722e86",
+      "term_zh": "角色高级",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_5f599efc",
+      "term_zh": "角色插画涂鸦",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_68d24a79",
+      "term_zh": "电影感人物",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_6b274422",
+      "term_zh": "角色动漫插画温暖",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_6b45713b",
+      "term_zh": "角色动漫手绘",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_6ca372d5",
+      "term_zh": "人像复古",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_6f22ebe9",
+      "term_zh": "人像动漫插画",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_70146e70",
+      "term_zh": "人像胶片写实",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_727e13cf",
+      "term_zh": "人像写实极简可爱",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_742923c4",
+      "term_zh": "二次元角色",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_79514270",
+      "term_zh": "角色动漫漫画",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_7bcbe3af",
+      "term_zh": "人像封面字体优雅",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_8590221b",
+      "term_zh": "纯人物摄影",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_891672bd",
+      "term_zh": "角色动漫冷调",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_8b4bec99",
+      "term_zh": "女性人像写真",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_9204c272",
+      "term_zh": "角色动漫",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_97ebb1f6",
+      "term_zh": "电影感角色",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_9f910e34",
+      "term_zh": "极简人物",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_a571eae4",
+      "term_zh": "角色插画",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_a7152ecd",
+      "term_zh": "角色动漫插画可爱",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_ae941d4e",
+      "term_zh": "角色一致性设定表",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_b15a56a8",
+      "term_zh": "角色动漫写实",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_b1a0bbd8",
+      "term_zh": "人像胶片动漫",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_b38724c9",
+      "term_zh": "人像写实夜景可爱",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_b5b3493a",
+      "term_zh": "赛博朋克角色",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_b6e2072c",
+      "term_zh": "人像写实室内温暖",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_b6f219c0",
+      "term_zh": "人像写实温暖优雅",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_c11f2ec4",
+      "term_zh": "角色动漫可爱",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_c9927312",
+      "term_zh": "人像动漫",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_cdaabb91",
+      "term_zh": "人像街头夜景",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_ce1ded14",
+      "term_zh": "人像写实优雅",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_ce22f3a6",
+      "term_zh": "角色插画温暖可爱",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_cfaa5452",
+      "term_zh": "角色动漫插画城市",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_d8f813fa",
+      "term_zh": "角色插画手绘可爱",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_e1e4851c",
+      "term_zh": "霓虹人物",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_e2e7c383",
+      "term_zh": "人物背景",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_e8da6254",
+      "term_zh": "鬼灭之刃人像动漫",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_ef863536",
+      "term_zh": "人像写实极简室内",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_f01b1bf0",
+      "term_zh": "人像写实极简",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_f751c66f",
+      "term_zh": "角色动漫写实室内",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_ffbacebf",
+      "term_zh": "人像极简胶片冷调",
+      "category": "character"
+    },
+    {
+      "id": "character_shuixian_ffc3e95c",
+      "term_zh": "人像写真",
+      "category": "character"
+    },
+    {
+      "id": "composition_shuixian_0bb67ac8",
+      "term_zh": "城市海报",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_0c0f8f34",
+      "term_zh": "美食产品海报",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_12abdaa8",
+      "term_zh": "人像海报字体高级",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_14413fc4",
+      "term_zh": "东方文字海报",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_1cf24ced",
+      "term_zh": "人像极简海报高级",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_1e3f9ac4",
+      "term_zh": "人像海报封面",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_22d6dd95",
+      "term_zh": "字体设计",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_311ad7d6",
+      "term_zh": "车海报品牌",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_431ad9ab",
+      "term_zh": "人像极简海报优雅",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_491bf71f",
+      "term_zh": "人像极简海报",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_4ec209cb",
+      "term_zh": "动漫个人海报",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_504f81c5",
+      "term_zh": "商业海报",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_590e2654",
+      "term_zh": "鸟等距海报城市",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_669963f6",
+      "term_zh": "体育海报",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_66d67942",
+      "term_zh": "女性产品海报",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_6c1bb77e",
+      "term_zh": "女性极简海报优雅",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_6c3b67f2",
+      "term_zh": "多文字海报",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_6d8cdb53",
+      "term_zh": "电影感字体设计",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_6ec8721b",
+      "term_zh": "运动海报",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_7fcc269d",
+      "term_zh": "电子产品海报",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_8103e1e5",
+      "term_zh": "女性海报品牌",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_85d2b5a8",
+      "term_zh": "高级时尚杂志海报",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_86d396c1",
+      "term_zh": "龙井茶信息图海报",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_97029836",
+      "term_zh": "海报产品",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_98b74d6d",
+      "term_zh": "人像海报字体",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_9b8341c4",
+      "term_zh": "饮料甜品海报",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_9cd9e144",
+      "term_zh": "角色动漫海报",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_a15dd04b",
+      "term_zh": "艺术女性海报",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_ad3d8c33",
+      "term_zh": "车海报极简复古",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_b141f689",
+      "term_zh": "角色海报",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_b30b3152",
+      "term_zh": "少女动漫海报复古",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_bcc81f1f",
+      "term_zh": "角色插画海报复古",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_c21383b4",
+      "term_zh": "餐饮产品设计",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_c88146f1",
+      "term_zh": "食物海报",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_ced9fe00",
+      "term_zh": "东方美学剪影海报",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_d5b1025a",
+      "term_zh": "女性海报街头优雅",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_da14285a",
+      "term_zh": "食物极简海报复古",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_da4a0fea",
+      "term_zh": "新媒体海报",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_e3ab071d",
+      "term_zh": "车海报品牌温暖",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_edf3602f",
+      "term_zh": "人像海报手绘",
+      "category": "composition"
+    },
+    {
+      "id": "composition_shuixian_fc8bface",
+      "term_zh": "男性海报品牌",
+      "category": "composition"
+    },
+    {
+      "id": "scene_shuixian_afa344d0",
+      "term_zh": "女性写实城市户外",
+      "category": "scene"
+    },
+    {
+      "id": "scene_shuixian_c8364843",
+      "term_zh": "女性写实城市街头",
+      "category": "scene"
+    },
+    {
+      "id": "scene_shuixian_dfebc8f6",
+      "term_zh": "电影感建筑",
+      "category": "scene"
+    },
+    {
+      "id": "scene_shuixian_e66fa144",
+      "term_zh": "女性写实城市",
+      "category": "scene"
+    },
+    {
+      "id": "styles_shuixian_008cface",
+      "term_zh": "其他动漫",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_06e1546d",
+      "term_zh": "女性动漫插画优雅",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_0e109bfc",
+      "term_zh": "猫插画",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_15b8c464",
+      "term_zh": "女性动漫写实温暖",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_22baa806",
+      "term_zh": "女性写实封面",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_2be3458b",
+      "term_zh": "动漫插画",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_2cd39585",
+      "term_zh": "治愈风格",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_38dba318",
+      "term_zh": "女性写实户外可爱",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_420e0a93",
+      "term_zh": "少女动漫插画",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_4223b47a",
+      "term_zh": "女性动漫插画冷调",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_425360bd",
+      "term_zh": "少女动漫",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_45f4639e",
+      "term_zh": "女性动漫插画",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_535c1daf",
+      "term_zh": "少女插画手绘温柔",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_53e384c7",
+      "term_zh": "女性写实街头",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_6127e9d7",
+      "term_zh": "女性动漫插画忧郁",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_83595d24",
+      "term_zh": "女性写实温暖夜景",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_91b3e170",
+      "term_zh": "女性动漫插画温暖",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_960105a0",
+      "term_zh": "少女动漫插画可爱",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_981b3838",
+      "term_zh": "极简女生插画",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_98bdd3af",
+      "term_zh": "女孩写实温暖街头",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_9f17c867",
+      "term_zh": "少女插画手绘",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_aa15b1f1",
+      "term_zh": "女孩写实街头可爱",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_aa25212d",
+      "term_zh": "敦煌壁画艺术模板",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_aa515051",
+      "term_zh": "女孩动漫插画可爱",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_b00b1a50",
+      "term_zh": "女性写实",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_b2c2f62f",
+      "term_zh": "女性写实胶片温暖",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_b5d42d92",
+      "term_zh": "女性写实夜景室内",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_c176c76e",
+      "term_zh": "女性动漫产品",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_c9eccf0a",
+      "term_zh": "车写实",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_cc6d9384",
+      "term_zh": "手绘风格照片标注",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_d44eadaf",
+      "term_zh": "女性动漫插画山",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_d58b4947",
+      "term_zh": "女性写实可爱",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_d621d296",
+      "term_zh": "可爱动漫",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_d76c60ae",
+      "term_zh": "女性动漫插画室内",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_edb60da0",
+      "term_zh": "女性写实极简优雅",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_ee13752d",
+      "term_zh": "二次元动漫美女",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_eedb0274",
+      "term_zh": "少女动漫插画优雅",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_f77bcb34",
+      "term_zh": "女性写实优雅",
+      "category": "styles"
+    },
+    {
+      "id": "styles_shuixian_fe81f096",
+      "term_zh": "日漫艺术创作",
+      "category": "styles"
+    },
+    {
+      "id": "uncategorized_shuixian_001152c8",
+      "term_zh": "复古报纸",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_0246ca84",
+      "term_zh": "多人合照",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_168f7f04",
+      "term_zh": "时尚产品",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_18362f40",
+      "term_zh": "高端男性杂志",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_1b559243",
+      "term_zh": "古风大凶美女",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_1e5e5840",
+      "term_zh": "霓虹女性",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_1f5442a7",
+      "term_zh": "夜景女性",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_2294acca",
+      "term_zh": "撕纸照片框",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_251a845b",
+      "term_zh": "涂鸦画",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_251ec47d",
+      "term_zh": "涂鸦影子",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_2bae6cc2",
+      "term_zh": "食物手绘",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_3875325d",
+      "term_zh": "极简女性",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_38fefc3d",
+      "term_zh": "真人日漫",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_3d1602a8",
+      "term_zh": "电影感花",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_3d2eccf3",
+      "term_zh": "手写体",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_453597b3",
+      "term_zh": "极简男性",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_46ef9a71",
+      "term_zh": "手工剪纸",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_46f5ecd3",
+      "term_zh": "电影感女性",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_4bf0c6fd",
+      "term_zh": "女性极简",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_54838a6b",
+      "term_zh": "英雄联盟",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_56aa7ec8",
+      "term_zh": "街拍女性",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_5bd1ce8c",
+      "term_zh": "卡牌栅格",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_7298b2a5",
+      "term_zh": "摄影作品",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_72ae6f1d",
+      "term_zh": "媚眼诱惑",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_7cfa01ac",
+      "term_zh": "女性夜景",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_7e911264",
+      "term_zh": "时尚摄影",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_806b492d",
+      "term_zh": "棚拍女性",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_81521367",
+      "term_zh": "电影封面",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_88c03364",
+      "term_zh": "高级感女性",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_8deff26f",
+      "term_zh": "随手拍",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_8e85c732",
+      "term_zh": "女性优雅",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_9d1ee227",
+      "term_zh": "复古女性",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_a63de720",
+      "term_zh": "书画作品",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_a734cbb7",
+      "term_zh": "汽车拆解",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_b04733c4",
+      "term_zh": "情侣合照",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_b2801494",
+      "term_zh": "女性极简品牌",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_b294be4a",
+      "term_zh": "冰箱贴",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_b2b50ef6",
+      "term_zh": "食物手绘字体可爱",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_b35efc5e",
+      "term_zh": "温馨女性",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_b9dfe528",
+      "term_zh": "女性胶片",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_bc48d264",
+      "term_zh": "电影感男性",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_bc7bebb3",
+      "term_zh": "证件照",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_bd132be3",
+      "term_zh": "手绘标注",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_c026c473",
+      "term_zh": "大凶美女",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_c05a179d",
+      "term_zh": "高端女性杂志",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_c2845f53",
+      "term_zh": "女性摄影作品",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_c2d77d83",
+      "term_zh": "中国古代",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_c33d5cf5",
+      "term_zh": "古风女生",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_c3461969",
+      "term_zh": "旅游攻略",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_c78dea7c",
+      "term_zh": "腿比命长系列",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_c99b9a83",
+      "term_zh": "电影感汽车",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_cbbfd218",
+      "term_zh": "直播画面",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_d1c9790b",
+      "term_zh": "不漏诱惑",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_daf1ff3f",
+      "term_zh": "蹲在地上直视镜头",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_e3ef1b80",
+      "term_zh": "女性极简产品",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_e9d635db",
+      "term_zh": "女性封面品牌高级",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_ecdeb5f6",
+      "term_zh": "女性品牌",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_f15c1e47",
+      "term_zh": "表情包",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_f553cef8",
+      "term_zh": "绝美成年东亚女性",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_f5942913",
+      "term_zh": "二次元大凶美女",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_f5b6fe5f",
+      "term_zh": "电影感儿童",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_f7ec903e",
+      "term_zh": "赛博朋克女性",
+      "category": "uncategorized"
+    },
+    {
+      "id": "character_shuixian_edc751e1",
+      "term_zh": "人像",
+      "category": "character"
+    },
+    {
+      "id": "uncategorized_shuixian_4e27986e",
+      "term_zh": "美甲",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_685510de",
+      "term_zh": "赛博",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_7eb3b629",
+      "term_zh": "极简",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_bc4c08c7",
+      "term_zh": "日系",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_cd9fc098",
+      "term_zh": "男性",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_d79dfa40",
+      "term_zh": "晓兰",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_daefda7f",
+      "term_zh": "搞怪",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_dd3d212d",
+      "term_zh": "高达",
+      "category": "uncategorized"
+    },
+    {
+      "id": "uncategorized_shuixian_fc439ded",
+      "term_zh": "原神",
+      "category": "uncategorized"
+    }
+  ],
+  "discard": [
+    {
+      "entry": {
+        "id": "character_shuixian_22e67682",
+        "term": "",
+        "term_zh": "海贼王角色胶片动漫",
+        "category": "character",
+        "subcategory": "海贼王角色胶片动漫",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 2
+      },
+      "reason": "composite",
+      "detail": "term_zh='海贼王角色胶片动漫' (9 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "character_shuixian_247dea08",
+        "term": "",
+        "term_zh": "角色插画手绘氛围感",
+        "category": "character",
+        "subcategory": "角色插画手绘氛围感",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 2
+      },
+      "reason": "composite",
+      "detail": "term_zh='角色插画手绘氛围感' (9 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "character_shuixian_3b455eef",
+        "term": "",
+        "term_zh": "角色动漫插画冷调优雅",
+        "category": "character",
+        "subcategory": "角色动漫插画冷调优雅",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 3
+      },
+      "reason": "composite",
+      "detail": "term_zh='角色动漫插画冷调优雅' (10 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "character_shuixian_591331d5",
+        "term": "",
+        "term_zh": "人像封面电影感高级",
+        "category": "character",
+        "subcategory": "人像封面电影感高级",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 3
+      },
+      "reason": "composite",
+      "detail": "term_zh='人像封面电影感高级' (9 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "character_shuixian_713fa9a5",
+        "term": "",
+        "term_zh": "人像电影感写实优雅",
+        "category": "character",
+        "subcategory": "人像电影感写实优雅",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 2
+      },
+      "reason": "composite",
+      "detail": "term_zh='人像电影感写实优雅' (9 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "character_shuixian_773784cf",
+        "term": "",
+        "term_zh": "人像动漫写实暗黑优雅",
+        "category": "character",
+        "subcategory": "人像动漫写实暗黑优雅",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 2
+      },
+      "reason": "composite",
+      "detail": "term_zh='人像动漫写实暗黑优雅' (10 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "character_shuixian_901bbbae",
+        "term": "",
+        "term_zh": "角色动漫插画城市街头",
+        "category": "character",
+        "subcategory": "角色动漫插画城市街头",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 2
+      },
+      "reason": "composite",
+      "detail": "term_zh='角色动漫插画城市街头' (10 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "character_shuixian_96ad51b6",
+        "term": "",
+        "term_zh": "角色动漫插画温暖优雅",
+        "category": "character",
+        "subcategory": "角色动漫插画温暖优雅",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 2
+      },
+      "reason": "composite",
+      "detail": "term_zh='角色动漫插画温暖优雅' (10 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "character_shuixian_97687c9d",
+        "term": "",
+        "term_zh": "角色插画极简温暖可爱",
+        "category": "character",
+        "subcategory": "角色插画极简温暖可爱",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 7
+      },
+      "reason": "composite",
+      "detail": "term_zh='角色插画极简温暖可爱' (10 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "character_shuixian_9f468063",
+        "term": "",
+        "term_zh": "人像动漫插画暗黑优雅",
+        "category": "character",
+        "subcategory": "人像动漫插画暗黑优雅",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 3
+      },
+      "reason": "composite",
+      "detail": "term_zh='人像动漫插画暗黑优雅' (10 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "character_shuixian_aa36ed1a",
+        "term": "",
+        "term_zh": "人像动漫插画温暖优雅",
+        "category": "character",
+        "subcategory": "人像动漫插画温暖优雅",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 3
+      },
+      "reason": "composite",
+      "detail": "term_zh='人像动漫插画温暖优雅' (10 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "character_shuixian_d7513030",
+        "term": "",
+        "term_zh": "角色动漫插画温暖可爱",
+        "category": "character",
+        "subcategory": "角色动漫插画温暖可爱",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 3
+      },
+      "reason": "composite",
+      "detail": "term_zh='角色动漫插画温暖可爱' (10 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "composition_shuixian_45824389",
+        "term": "",
+        "term_zh": "建筑插画海报城市复古",
+        "category": "composition",
+        "subcategory": "建筑插画海报城市复古",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 2
+      },
+      "reason": "composite",
+      "detail": "term_zh='建筑插画海报城市复古' (10 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "composition_shuixian_7eb3c637",
+        "term": "",
+        "term_zh": "建筑极简海报城市优雅",
+        "category": "composition",
+        "subcategory": "建筑极简海报城市优雅",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 2
+      },
+      "reason": "composite",
+      "detail": "term_zh='建筑极简海报城市优雅' (10 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "composition_shuixian_aa153cff",
+        "term": "",
+        "term_zh": "人像电影感海报高级",
+        "category": "composition",
+        "subcategory": "人像电影感海报高级",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 2
+      },
+      "reason": "composite",
+      "detail": "term_zh='人像电影感海报高级' (9 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "composition_shuixian_ad916a97",
+        "term": "",
+        "term_zh": "建筑海报信息图城市",
+        "category": "composition",
+        "subcategory": "建筑海报信息图城市",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 3
+      },
+      "reason": "composite",
+      "detail": "term_zh='建筑海报信息图城市' (9 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "composition_shuixian_ce3930ba",
+        "term": "",
+        "term_zh": "内马尔世界杯金色海报",
+        "category": "composition",
+        "subcategory": "内马尔世界杯金色海报",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 2
+      },
+      "reason": "composite",
+      "detail": "term_zh='内马尔世界杯金色海报' (10 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "composition_shuixian_e1a29440",
+        "term": "",
+        "term_zh": "极简主义黑色电影海报",
+        "category": "composition",
+        "subcategory": "极简主义黑色电影海报",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 2
+      },
+      "reason": "composite",
+      "detail": "term_zh='极简主义黑色电影海报' (10 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "scene_shuixian_111e298c",
+        "term": "",
+        "term_zh": "女性写实动漫城市街头",
+        "category": "scene",
+        "subcategory": "女性写实动漫城市街头",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 2
+      },
+      "reason": "composite",
+      "detail": "term_zh='女性写实动漫城市街头' (10 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "scene_shuixian_6cd0378d",
+        "term": "",
+        "term_zh": "女性动漫写实未来城市",
+        "category": "scene",
+        "subcategory": "女性动漫写实未来城市",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 2
+      },
+      "reason": "composite",
+      "detail": "term_zh='女性动漫写实未来城市' (10 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "scene_shuixian_6ec410ed",
+        "term": "",
+        "term_zh": "女性动漫插画梦幻城市",
+        "category": "scene",
+        "subcategory": "女性动漫插画梦幻城市",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 2
+      },
+      "reason": "composite",
+      "detail": "term_zh='女性动漫插画梦幻城市' (10 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "scene_shuixian_87b49f1d",
+        "term": "",
+        "term_zh": "女性壁纸胶片城市冷调",
+        "category": "scene",
+        "subcategory": "女性壁纸胶片城市冷调",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 2
+      },
+      "reason": "composite",
+      "detail": "term_zh='女性壁纸胶片城市冷调' (10 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "styles_shuixian_1aec3146",
+        "term": "",
+        "term_zh": "女性动漫插画温暖室内",
+        "category": "styles",
+        "subcategory": "女性动漫插画温暖室内",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 3
+      },
+      "reason": "composite",
+      "detail": "term_zh='女性动漫插画温暖室内' (10 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "styles_shuixian_3b31af61",
+        "term": "",
+        "term_zh": "女性写实包装温暖室内",
+        "category": "styles",
+        "subcategory": "女性写实包装温暖室内",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 2
+      },
+      "reason": "composite",
+      "detail": "term_zh='女性写实包装温暖室内' (10 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "styles_shuixian_3dbce918",
+        "term": "",
+        "term_zh": "女性动漫插画车站温暖",
+        "category": "styles",
+        "subcategory": "女性动漫插画车站温暖",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 2
+      },
+      "reason": "composite",
+      "detail": "term_zh='女性动漫插画车站温暖' (10 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "styles_shuixian_8bf97af1",
+        "term": "",
+        "term_zh": "男性动漫插画夜景优雅",
+        "category": "styles",
+        "subcategory": "男性动漫插画夜景优雅",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 2
+      },
+      "reason": "composite",
+      "detail": "term_zh='男性动漫插画夜景优雅' (10 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "styles_shuixian_b2bb3007",
+        "term": "",
+        "term_zh": "女性动漫插画未来冷调",
+        "category": "styles",
+        "subcategory": "女性动漫插画未来冷调",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 3
+      },
+      "reason": "composite",
+      "detail": "term_zh='女性动漫插画未来冷调' (10 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "styles_shuixian_e0936022",
+        "term": "",
+        "term_zh": "日式生活方式素描插画",
+        "category": "styles",
+        "subcategory": "日式生活方式素描插画",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 2
+      },
+      "reason": "composite",
+      "detail": "term_zh='日式生活方式素描插画' (10 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "uncategorized_shuixian_0e177703",
+        "term": "",
+        "term_zh": "女性电影感极简优雅",
+        "category": "uncategorized",
+        "subcategory": "女性电影感极简优雅",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 2
+      },
+      "reason": "composite",
+      "detail": "term_zh='女性电影感极简优雅' (9 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "uncategorized_shuixian_37fc84fb",
+        "term": "",
+        "term_zh": "世界杯奖杯揭幕视角",
+        "category": "uncategorized",
+        "subcategory": "世界杯奖杯揭幕视角",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 2
+      },
+      "reason": "composite",
+      "detail": "term_zh='世界杯奖杯揭幕视角' (9 chars) is multiple tags concatenated"
+    },
+    {
+      "entry": {
+        "id": "uncategorized_shuixian_a32ef70f",
+        "term": "",
+        "term_zh": "勺子上的粉色软冰淇淋",
+        "category": "uncategorized",
+        "subcategory": "勺子上的粉色软冰淇淋",
+        "weight": 0.5,
+        "score": 0.5,
+        "source": "BaYue-SYJ/shuixian-prompts",
+        "compatibility": [
+          "sdxl",
+          "midjourney"
+        ],
+        "is_negative": false,
+        "needs_en_translation": true,
+        "occurrence_count": 2
+      },
+      "reason": "composite",
+      "detail": "term_zh='勺子上的粉色软冰淇淋' (10 chars) is multiple tags concatenated"
+    }
+  ],
+  "summary": {
+    "total": 367,
+    "keep_count": 281,
+    "needs_translation_count": 211,
+    "discard_count": 31,
+    "discard_from_keep": 0,
+    "translated_count": 0
+  }
+}

@@ -110,7 +110,16 @@
       "force_include": true
     }
   ],
-  "templates": [],
+  "templates": [
+    {
+      "template_id": "character.multiple_views",
+      "variant_id": "three_view_sheet"
+    },
+    {
+      "template_id": "camera.shot_type",
+      "variant_id": "camera.shot_type.medium"
+    }
+  ],
   "prompt_text": "masterpiece, best quality, highly detailed, sharp focus, fantasy costume, confident demeanor, bright eyes, castle, forest, waterfall, backlight, dramatic chiaroscuro, moody atmosphere, ethereal glow, half body, portrait, depth of field",
   "prompt_text_zh": "杰作，最高质量，高细节，清晰聚焦，奇幻服装，自信风范，明亮的眼睛，城堡，森林，瀑布，逆光，戏剧性明暗对照，情绪氛围，空灵光芒，半身材，肖像，景深",
   "example": {
@@ -135,5 +144,15 @@
   "notes": "This bundle is for cosplay photography combining costume accuracy with environmental storytelling. Key differentiators: fantasy_costume (0.9), castle/forest/waterfall environments (0.85), backlight (0.85) + moody + ethereal (0.85) for dramatic mood, half body framing (0.9). Negative prompt includes anatomy_deformed for cleaner character outputs. Note: no exact 'prop creative' or 'accessories detailed' keywords exist; closest is 'fantasy_costume' (0.9).",
   "created_at": "2026-10-06T18:30:00+00:00",
   "updated_at": "2026-10-06T18:30:00+00:00",
-  "bundle_type": "keywords_only"
+  "bundle_type": "keywords_only",
+  "keyword_count": 20,
+  "keyword_categories": [
+    "character",
+    "clothing",
+    "composition",
+    "lighting",
+    "negative",
+    "quality",
+    "scene"
+  ]
 }

@@ -13,12 +13,24 @@
     "description_zh": { "type": "string", "maxLength": 1000, "description": "中文描述 — Chinese description for the template" },
     "category": { "type": "string" },
     "subcategories": { "type": "array", "items": { "type": "string" } },
-    "language": { "type": "string", "default": "en" },
+    "language": {
+      "oneOf": [
+        { "type": "string" },
+        { "type": "array", "items": { "type": "string" } }
+      ],
+      "default": "en",
+      "description": "支持的语言（字符串或数组）"
+    },
     "api_targets": {
       "type": "array",
       "items": {
         "type": "string",
-        "enum": ["SDXL", "Midjourney", "DALL-E", "Flux", "Stable Diffusion", "Custom"]
+        "enum": [
+          "SDXL", "Midjourney", "DALL-E", "Flux", "Stable Diffusion",
+          "Minimax-H3", "Minimax H3", "GPT Image",
+          "Runway", "Kling", "Gemini", "OpenAI", "Claude",
+          "Custom"
+        ]
       }
     },
     "lifecycle": {
@@ -35,7 +47,7 @@
         "required": ["name", "type"],
         "properties": {
           "name": { "type": "string", "pattern": "^[a-z_][a-z0-9_]*$" },
-          "type": { "type": "string", "enum": ["string", "string[]", "number", "boolean"] },
+          "type": { "type": "string", "enum": ["string", "string[]", "number", "boolean", "keyword", "static"] },
           "required": { "type": "boolean", "default": false },
           "default": {},
           "description": { "type": "string" }
@@ -44,31 +56,53 @@
     },
     "variants": {
       "type": "array",
-      "minItems": 1,
+      "minItems": 0,
       "items": {
         "type": "object",
-        "required": ["id", "template"],
         "properties": {
-          "id": { "type": "string", "pattern": "^[a-z_]+$" },
+          "id": { "type": "string", "pattern": "^[a-z0-9_]+(?:-[a-z0-9_]+)*(?:\\.[a-z][a-z0-9_]*)*$" },
           "description": { "type": "string" },
           "description_zh": { "type": "string", "description": "中文描述 — Chinese description for this variant" },
-          "template": { "type": "string" }
+          "template": { "type": "string", "description": "Prompt template text (optional for descriptive-only variants)" }
         }
       }
     },
     "examples": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "properties": {
-          "input": { "type": "object" },
-          "output": { "type": "string" }
+      "oneOf": [
+        {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "input": { "type": "object" },
+              "output": { "type": "string" }
+            }
+          }
+        },
+        {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "简化的字符串示例列表"
         }
-      }
+      ]
     },
     "created_at": { "type": "string", "format": "date-time" },
     "updated_at": { "type": "string", "format": "date-time" },
-    "notes": { "type": "string", "maxLength": 2000 }
+    "notes": { "type": "string", "maxLength": 2000 },
+    "example": {
+      "oneOf": [
+        { "type": "object" },
+        { "type": "array" }
+      ],
+      "description": "示例 — 可以是对象或数组"
+    },
+    "fields": {
+      "oneOf": [
+        { "type": "array", "items": { "type": "object" } },
+        { "type": "object", "additionalProperties": { "type": "string" }, "description": "字段名→描述映射" }
+      ],
+      "description": "关键词字段模板定义"
+    }
   },
-  "additionalProperties": false
+  "additionalProperties": true
 }

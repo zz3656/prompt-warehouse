@@ -66,6 +66,10 @@
           "Flux",
           "Stable Diffusion",
           "Minimax-H3",
+          "Minimax H3",
+          "GPT Image",
+          "Runway",
+          "Kling",
           "Custom"
         ]
       },
@@ -192,7 +196,19 @@
         "with_template"
       ],
       "description": "纯关键词配方 or 含模板引用"
+    },
+    "keyword_categories": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "该 bundle 引用的关键词所属的分类（由系统自动生成，不手动编辑）"
+    },
+    "prompt_text_zh": {
+      "type": "string",
+      "maxLength": 3000,
+      "description": "预建中文提示词文本"
     }
   },
-  "additionalProperties": false
+  "additionalProperties": true
 }

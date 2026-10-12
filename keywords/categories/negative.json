@@ -6,26 +6,22 @@
     "subcategory": "quality",
     "labels": [
       "quality",
-      "low"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "low",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "低质量",
     "labels_zh": [
+      "低质量",
       "负面",
-      "质量缺陷",
-      "低质量"
+      "质量缺陷"
     ],
     "compatibility": [
       "sdxl",
@@ -34,8 +30,14 @@
     ],
     "relation_group": "low quality",
     "relation_role": "canonical",
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "低质量",
+    "aliases": [
+      "low res",
+      "poor quality"
+    ]
   },
   {
     "id": "negative_quality_worst_quality",
@@ -44,34 +46,35 @@
     "subcategory": "quality",
     "labels": [
       "quality",
-      "worst"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "worst",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "最差质量",
     "labels_zh": [
+      "最差质量",
       "负面",
-      "质量缺陷",
-      "最差质量"
+      "质量缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "最差质量",
+    "aliases": [
+      "terrible quality"
+    ]
   },
   {
     "id": "negative_quality_bad_quality",
@@ -80,34 +83,35 @@
     "subcategory": "quality",
     "labels": [
       "quality",
-      "bad"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "bad",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "糟糕质量",
     "labels_zh": [
+      "糟糕质量",
       "负面",
-      "质量缺陷",
-      "糟糕质量"
+      "质量缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "糟糕质量",
+    "aliases": [
+      "poor quality rendering"
+    ]
   },
   {
     "id": "negative_quality_low_resolution",
@@ -116,34 +120,35 @@
     "subcategory": "quality",
     "labels": [
       "quality",
-      "low"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "low",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "低分辨率",
     "labels_zh": [
+      "低分辨率",
       "负面",
-      "质量缺陷",
-      "低分辨率"
+      "质量缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "低分辨率",
+    "aliases": [
+      "low-res blurry image"
+    ]
   },
   {
     "id": "negative_quality_blurry",
@@ -152,26 +157,22 @@
     "subcategory": "quality",
     "labels": [
       "quality",
-      "blurry"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "blurry",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "模糊",
     "labels_zh": [
+      "模糊",
       "负面",
-      "质量缺陷",
-      "模糊"
+      "质量缺陷"
     ],
     "compatibility": [
       "sdxl",
@@ -180,8 +181,13 @@
     ],
     "relation_group": "blurry",
     "relation_role": "canonical",
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "模糊",
+    "aliases": [
+      "out-of-focus blur effect"
+    ]
   },
   {
     "id": "negative_quality_blurry_background",
@@ -190,34 +196,35 @@
     "subcategory": "quality",
     "labels": [
       "quality",
-      "blurry"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "blurry",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "模糊背景",
     "labels_zh": [
+      "模糊背景",
       "负面",
-      "质量缺陷",
-      "模糊背景"
+      "质量缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "模糊背景",
+    "aliases": [
+      "out-of-focus blur effect"
+    ]
   },
   {
     "id": "negative_quality_out_of_focus",
@@ -226,34 +233,35 @@
     "subcategory": "quality",
     "labels": [
       "quality",
-      "out"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "out",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "失焦",
     "labels_zh": [
+      "失焦",
       "负面",
-      "质量缺陷",
-      "失焦"
+      "质量缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.65,
+    "is_negative": true,
+    "score_v2": 0.65,
+    "term_zh": "失焦",
+    "aliases": [
+      "defocused blurry image"
+    ]
   },
   {
     "id": "negative_quality_dithering",
@@ -262,26 +270,22 @@
     "subcategory": "quality",
     "labels": [
       "quality",
-      "dithering"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "dithering",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "抖动",
     "labels_zh": [
+      "抖动",
       "负面",
-      "质量缺陷",
-      "抖动"
+      "质量缺陷"
     ],
     "compatibility": [
       "sdxl",
@@ -290,8 +294,10 @@
     ],
     "relation_group": "dithering",
     "relation_role": "canonical",
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "抖动"
   },
   {
     "id": "negative_quality_jpeg_artifacts",
@@ -300,35 +306,36 @@
     "subcategory": "quality",
     "labels": [
       "quality",
-      "jpeg"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "jpeg",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "JPEG 压缩",
     "labels_zh": [
-      "负面",
-      "质量缺陷",
       "JPEG",
-      "压缩"
+      "压缩",
+      "负面",
+      "质量缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "JPEG 压缩",
+    "aliases": [
+      "compressed jpeg noise"
+    ]
   },
   {
     "id": "negative_quality_pixelated",
@@ -337,34 +344,32 @@
     "subcategory": "quality",
     "labels": [
       "quality",
-      "pixelated"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "pixelated",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "像素化",
     "labels_zh": [
+      "像素化",
       "负面",
-      "质量缺陷",
-      "像素化"
+      "质量缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "像素化"
   },
   {
     "id": "negative_anatomy_deformed",
@@ -373,34 +378,35 @@
     "subcategory": "anatomy",
     "labels": [
       "anatomy",
-      "deformed"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "deformed",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "变形",
     "labels_zh": [
-      "负面",
+      "变形",
       "解剖缺陷",
-      "变形"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "变形",
+    "aliases": [
+      "distorted malformed features"
+    ]
   },
   {
     "id": "negative_anatomy_distorted",
@@ -409,34 +415,32 @@
     "subcategory": "anatomy",
     "labels": [
       "anatomy",
-      "distorted"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "distorted",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "失真",
     "labels_zh": [
-      "负面",
+      "失真",
       "解剖缺陷",
-      "失真"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "失真"
   },
   {
     "id": "negative_anatomy_disfigured",
@@ -445,34 +449,35 @@
     "subcategory": "anatomy",
     "labels": [
       "anatomy",
-      "disfigured"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "disfigured",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "毁容",
     "labels_zh": [
-      "负面",
+      "毁容",
       "解剖缺陷",
-      "毁容"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "毁容",
+    "aliases": [
+      "scars disfigurement marks"
+    ]
   },
   {
     "id": "negative_anatomy_bad_anatomy",
@@ -481,34 +486,35 @@
     "subcategory": "anatomy",
     "labels": [
       "anatomy",
-      "bad"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "bad",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "畸形解剖",
     "labels_zh": [
-      "负面",
+      "畸形解剖",
       "解剖缺陷",
-      "畸形解剖"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "畸形解剖",
+    "aliases": [
+      "incorrect anatomical proportions"
+    ]
   },
   {
     "id": "negative_anatomy_wrong_anatomy",
@@ -517,25 +523,21 @@
     "subcategory": "anatomy",
     "labels": [
       "anatomy",
-      "wrong"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "wrong",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "错误解剖",
     "labels_zh": [
-      "负面",
       "解剖缺陷",
+      "负面",
       "错误解剖"
     ],
     "compatibility": [
@@ -543,8 +545,10 @@
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "错误解剖"
   },
   {
     "id": "negative_anatomy_extra_limbs",
@@ -553,34 +557,35 @@
     "subcategory": "anatomy",
     "labels": [
       "anatomy",
-      "extra"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "extra",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "多余肢体",
     "labels_zh": [
-      "负面",
+      "多余肢体",
       "解剖缺陷",
-      "多余肢体"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "多余肢体",
+    "aliases": [
+      "additional extra limbs error"
+    ]
   },
   {
     "id": "negative_anatomy_extra_arms",
@@ -589,34 +594,32 @@
     "subcategory": "anatomy",
     "labels": [
       "anatomy",
-      "extra"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "extra",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "多余手臂",
     "labels_zh": [
-      "负面",
+      "多余手臂",
       "解剖缺陷",
-      "多余手臂"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "多余手臂"
   },
   {
     "id": "negative_anatomy_extra_legs",
@@ -625,34 +628,32 @@
     "subcategory": "anatomy",
     "labels": [
       "anatomy",
-      "extra"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "extra",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "多余腿",
     "labels_zh": [
-      "负面",
+      "多余腿",
       "解剖缺陷",
-      "多余腿"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "多余腿"
   },
   {
     "id": "negative_anatomy_missing_limbs",
@@ -661,34 +662,32 @@
     "subcategory": "anatomy",
     "labels": [
       "anatomy",
-      "missing"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "missing",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "缺失肢体",
     "labels_zh": [
-      "负面",
+      "缺失肢体",
       "解剖缺陷",
-      "缺失肢体"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "缺失肢体"
   },
   {
     "id": "negative_anatomy_missing_fingers",
@@ -697,34 +696,32 @@
     "subcategory": "anatomy",
     "labels": [
       "anatomy",
-      "missing"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "missing",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "缺少手指",
     "labels_zh": [
-      "负面",
+      "缺少手指",
       "解剖缺陷",
-      "缺少手指"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "缺少手指"
   },
   {
     "id": "negative_anatomy_extra_digits",
@@ -733,34 +730,32 @@
     "subcategory": "anatomy",
     "labels": [
       "anatomy",
-      "extra"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "extra",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "多余指",
     "labels_zh": [
-      "负面",
+      "多余指",
       "解剖缺陷",
-      "多余指"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "多余指"
   },
   {
     "id": "negative_anatomy_fewer_digits",
@@ -769,34 +764,32 @@
     "subcategory": "anatomy",
     "labels": [
       "anatomy",
-      "fewer"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "fewer",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "缺失指",
     "labels_zh": [
-      "负面",
+      "缺失指",
       "解剖缺陷",
-      "缺失指"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "缺失指"
   },
   {
     "id": "negative_anatomy_wrong_fingers",
@@ -805,25 +798,21 @@
     "subcategory": "anatomy",
     "labels": [
       "anatomy",
-      "wrong"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "wrong",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "错误手指",
     "labels_zh": [
-      "负面",
       "解剖缺陷",
+      "负面",
       "错误手指"
     ],
     "compatibility": [
@@ -831,8 +820,10 @@
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "错误手指"
   },
   {
     "id": "negative_anatomy_bad_hands",
@@ -841,34 +832,32 @@
     "subcategory": "anatomy",
     "labels": [
       "anatomy",
-      "bad"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "bad",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "手部畸形",
     "labels_zh": [
-      "负面",
+      "手部畸形",
       "解剖缺陷",
-      "手部畸形"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "手部畸形"
   },
   {
     "id": "negative_anatomy_poorly_drawn_hands",
@@ -877,34 +866,32 @@
     "subcategory": "anatomy",
     "labels": [
       "anatomy",
-      "poorly"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "poorly",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "糟糕双手",
     "labels_zh": [
-      "负面",
+      "糟糕双手",
       "解剖缺陷",
-      "糟糕双手"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.65,
+    "is_negative": true,
+    "score_v2": 0.65,
+    "term_zh": "糟糕双手"
   },
   {
     "id": "negative_anatomy_mutation",
@@ -913,34 +900,32 @@
     "subcategory": "anatomy",
     "labels": [
       "anatomy",
-      "mutation"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "mutation",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "变异",
     "labels_zh": [
-      "负面",
+      "变异",
       "解剖缺陷",
-      "变异"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "变异"
   },
   {
     "id": "negative_anatomy_mutated_hands",
@@ -949,34 +934,35 @@
     "subcategory": "anatomy",
     "labels": [
       "anatomy",
-      "mutated"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "mutated",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "变形手",
     "labels_zh": [
-      "负面",
+      "变形手",
       "解剖缺陷",
-      "变形手"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "变形手",
+    "aliases": [
+      "genetically mutated form"
+    ]
   },
   {
     "id": "negative_anatomy_fused_fingers",
@@ -985,34 +971,35 @@
     "subcategory": "anatomy",
     "labels": [
       "anatomy",
-      "fused"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "fused",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "融合手指",
     "labels_zh": [
-      "负面",
+      "融合手指",
       "解剖缺陷",
-      "融合手指"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "融合手指",
+    "aliases": [
+      "merged fused finger digits"
+    ]
   },
   {
     "id": "negative_anatomy_too_many_fingers",
@@ -1021,34 +1008,32 @@
     "subcategory": "anatomy",
     "labels": [
       "anatomy",
-      "too"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "too",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "手指过多",
     "labels_zh": [
-      "负面",
+      "手指过多",
       "解剖缺陷",
-      "手指过多"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.65,
+    "is_negative": true,
+    "score_v2": 0.65,
+    "term_zh": "手指过多"
   },
   {
     "id": "negative_anatomy_long_neck",
@@ -1057,25 +1042,21 @@
     "subcategory": "anatomy",
     "labels": [
       "anatomy",
-      "long"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "long",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "长颈",
     "labels_zh": [
-      "负面",
       "解剖缺陷",
+      "负面",
       "长颈"
     ],
     "compatibility": [
@@ -1083,8 +1064,10 @@
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "长颈"
   },
   {
     "id": "negative_anatomy_conjoined_fingers",
@@ -1093,25 +1076,21 @@
     "subcategory": "anatomy",
     "labels": [
       "anatomy",
-      "conjoined"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "conjoined",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "连体手指",
     "labels_zh": [
-      "负面",
       "解剖缺陷",
+      "负面",
       "连体手指"
     ],
     "compatibility": [
@@ -1119,8 +1098,10 @@
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "连体手指"
   },
   {
     "id": "negative_anatomy_extra_toe",
@@ -1129,34 +1110,32 @@
     "subcategory": "anatomy",
     "labels": [
       "anatomy",
-      "extra"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "extra",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "多余脚趾",
     "labels_zh": [
-      "负面",
+      "多余脚趾",
       "解剖缺陷",
-      "多余脚趾"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "多余脚趾"
   },
   {
     "id": "negative_anatomy_wrong_feet",
@@ -1165,34 +1144,32 @@
     "subcategory": "anatomy",
     "labels": [
       "anatomy",
-      "wrong"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "wrong",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "脚部错误",
     "labels_zh": [
-      "负面",
+      "脚部错误",
       "解剖缺陷",
-      "脚部错误"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "脚部错误"
   },
   {
     "id": "negative_face_ugly",
@@ -1201,34 +1178,35 @@
     "subcategory": "face",
     "labels": [
       "face",
-      "ugly"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "ugly",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "丑陋",
     "labels_zh": [
+      "丑陋",
       "负面",
-      "面部缺陷",
-      "丑陋"
+      "面部缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "丑陋",
+    "aliases": [
+      "unattractive appearance"
+    ]
   },
   {
     "id": "negative_face_duplicate",
@@ -1237,34 +1215,32 @@
     "subcategory": "face",
     "labels": [
       "face",
-      "duplicate"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "duplicate",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "重复",
     "labels_zh": [
       "负面",
-      "面部缺陷",
-      "重复"
+      "重复",
+      "面部缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "重复"
   },
   {
     "id": "negative_face_morbid",
@@ -1273,34 +1249,32 @@
     "subcategory": "face",
     "labels": [
       "face",
-      "morbid"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "morbid",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "病态",
     "labels_zh": [
+      "病态",
       "负面",
-      "面部缺陷",
-      "病态"
+      "面部缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "病态"
   },
   {
     "id": "negative_face_mutilated",
@@ -1309,34 +1283,32 @@
     "subcategory": "face",
     "labels": [
       "face",
-      "mutilated"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "mutilated",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "残害",
     "labels_zh": [
+      "残害",
       "负面",
-      "面部缺陷",
-      "残害"
+      "面部缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "残害"
   },
   {
     "id": "negative_face_plastic_skin",
@@ -1345,34 +1317,32 @@
     "subcategory": "face",
     "labels": [
       "face",
-      "plastic"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "plastic",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "塑料皮肤",
     "labels_zh": [
+      "塑料皮肤",
       "负面",
-      "面部缺陷",
-      "塑料皮肤"
+      "面部缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "塑料皮肤"
   },
   {
     "id": "negative_face_bad_face",
@@ -1381,34 +1351,32 @@
     "subcategory": "face",
     "labels": [
       "face",
-      "bad"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "bad",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "糟糕脸",
     "labels_zh": [
+      "糟糕脸",
       "负面",
-      "面部缺陷",
-      "糟糕脸"
+      "面部缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "糟糕脸"
   },
   {
     "id": "negative_face_deformed_face",
@@ -1417,34 +1385,35 @@
     "subcategory": "face",
     "labels": [
       "face",
-      "deformed"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "deformed",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "变形脸",
     "labels_zh": [
+      "变形脸",
       "负面",
-      "面部缺陷",
-      "变形脸"
+      "面部缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "变形脸",
+    "aliases": [
+      "distorted malformed features"
+    ]
   },
   {
     "id": "negative_face_ugly_face",
@@ -1453,34 +1422,35 @@
     "subcategory": "face",
     "labels": [
       "face",
-      "ugly"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "ugly",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "丑陋脸",
     "labels_zh": [
+      "丑陋脸",
       "负面",
-      "面部缺陷",
-      "丑陋脸"
+      "面部缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "丑陋脸",
+    "aliases": [
+      "unattractive appearance"
+    ]
   },
   {
     "id": "negative_face_poorly_drawn_face",
@@ -1489,34 +1459,32 @@
     "subcategory": "face",
     "labels": [
       "face",
-      "poorly"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "poorly",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "糟糕面部",
     "labels_zh": [
+      "糟糕面部",
       "负面",
-      "面部缺陷",
-      "糟糕面部"
+      "面部缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.65,
+    "is_negative": true,
+    "score_v2": 0.65,
+    "term_zh": "糟糕面部"
   },
   {
     "id": "negative_face_bad_proportions",
@@ -1525,34 +1493,32 @@
     "subcategory": "face",
     "labels": [
       "face",
-      "bad"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "bad",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "比例失调",
     "labels_zh": [
+      "比例失调",
       "负面",
-      "面部缺陷",
-      "比例失调"
+      "面部缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "比例失调"
   },
   {
     "id": "negative_face_gross_proportions",
@@ -1561,34 +1527,32 @@
     "subcategory": "face",
     "labels": [
       "face",
-      "gross"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "gross",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "比例失调",
     "labels_zh": [
+      "比例失调",
       "负面",
-      "面部缺陷",
-      "比例失调"
+      "面部缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "比例失调"
   },
   {
     "id": "negative_face_malformed_limbs",
@@ -1597,34 +1561,32 @@
     "subcategory": "face",
     "labels": [
       "face",
-      "malformed"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "malformed",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "畸形肢体",
     "labels_zh": [
+      "畸形肢体",
       "负面",
-      "面部缺陷",
-      "畸形肢体"
+      "面部缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "畸形肢体"
   },
   {
     "id": "negative_face_extra_arms_and_legs",
@@ -1633,34 +1595,32 @@
     "subcategory": "face",
     "labels": [
       "face",
-      "extra"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "extra",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "多余四肢",
     "labels_zh": [
+      "多余四肢",
       "负面",
-      "面部缺陷",
-      "多余四肢"
+      "面部缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.69,
+    "is_negative": true,
+    "score_v2": 0.69,
+    "term_zh": "多余四肢"
   },
   {
     "id": "negative_face_asymmetrical_eyes",
@@ -1669,22 +1629,18 @@
     "subcategory": "face",
     "labels": [
       "face",
-      "asymmetrical"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "asymmetrical",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "不对称眼睛",
     "labels_zh": [
       "负面",
       "面部缺陷"
@@ -1694,8 +1650,14 @@
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "不对称眼睛",
+    "aliases": [
+      "balanced composition",
+      "symmetry composition"
+    ]
   },
   {
     "id": "negative_face_crossed_eyes",
@@ -1704,34 +1666,32 @@
     "subcategory": "face",
     "labels": [
       "face",
-      "crossed"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "crossed",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "闭眼",
     "labels_zh": [
       "负面",
-      "面部缺陷",
-      "闭眼"
+      "闭眼",
+      "面部缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "闭眼"
   },
   {
     "id": "negative_face_strabismus",
@@ -1740,34 +1700,32 @@
     "subcategory": "face",
     "labels": [
       "face",
-      "strabismus"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "strabismus",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "斜视",
     "labels_zh": [
+      "斜视",
       "负面",
-      "面部缺陷",
-      "斜视"
+      "面部缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "斜视"
   },
   {
     "id": "negative_face_uneven_eyes",
@@ -1776,22 +1734,18 @@
     "subcategory": "face",
     "labels": [
       "face",
-      "uneven"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "uneven",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "不对称眼睛",
     "labels_zh": [
       "负面",
       "面部缺陷"
@@ -1801,8 +1755,10 @@
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "不对称眼睛"
   },
   {
     "id": "negative_face_extra_eye",
@@ -1811,34 +1767,32 @@
     "subcategory": "face",
     "labels": [
       "face",
-      "extra"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "extra",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "多眼",
     "labels_zh": [
+      "多眼",
       "负面",
-      "面部缺陷",
-      "多眼"
+      "面部缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "多眼"
   },
   {
     "id": "negative_face_missing_eye",
@@ -1847,34 +1801,32 @@
     "subcategory": "face",
     "labels": [
       "face",
-      "missing"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "missing",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "缺眼",
     "labels_zh": [
+      "缺眼",
       "负面",
-      "面部缺陷",
-      "缺眼"
+      "面部缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "缺眼"
   },
   {
     "id": "negative_composition_watermark",
@@ -1883,34 +1835,35 @@
     "subcategory": "composition",
     "labels": [
       "composition",
-      "watermark"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "watermark",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "水印",
     "labels_zh": [
-      "负面",
       "构图",
-      "水印"
+      "水印",
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "水印",
+    "aliases": [
+      "visible watermark overlay"
+    ]
   },
   {
     "id": "negative_composition_text",
@@ -1919,26 +1872,22 @@
     "subcategory": "composition",
     "labels": [
       "composition",
-      "text"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "text",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "文字",
     "labels_zh": [
-      "负面",
+      "文字",
       "构图",
-      "文字"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
@@ -1947,8 +1896,10 @@
     ],
     "relation_group": "text",
     "relation_role": "canonical",
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "文字"
   },
   {
     "id": "negative_composition_username",
@@ -1957,34 +1908,32 @@
     "subcategory": "composition",
     "labels": [
       "composition",
-      "username"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "username",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "用户名",
     "labels_zh": [
-      "负面",
       "构图",
-      "用户名"
+      "用户名",
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "用户名"
   },
   {
     "id": "negative_composition_error",
@@ -1993,25 +1942,21 @@
     "subcategory": "composition",
     "labels": [
       "composition",
-      "error"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "error",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "错误",
     "labels_zh": [
-      "负面",
       "构图",
+      "负面",
       "错误"
     ],
     "compatibility": [
@@ -2019,8 +1964,10 @@
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "错误"
   },
   {
     "id": "negative_composition_crop",
@@ -2029,34 +1976,32 @@
     "subcategory": "composition",
     "labels": [
       "composition",
-      "crop"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "crop",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "裁剪",
     "labels_zh": [
-      "负面",
       "构图",
-      "裁剪"
+      "裁剪",
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "裁剪"
   },
   {
     "id": "negative_composition_out_of_frame",
@@ -2065,34 +2010,32 @@
     "subcategory": "composition",
     "labels": [
       "composition",
-      "out"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "out",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "出框",
     "labels_zh": [
-      "负面",
+      "出框",
       "构图",
-      "出框"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.65,
+    "is_negative": true,
+    "score_v2": 0.65,
+    "term_zh": "出框"
   },
   {
     "id": "negative_composition_cut_off",
@@ -2101,34 +2044,32 @@
     "subcategory": "composition",
     "labels": [
       "composition",
-      "cut"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "cut",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "切断",
     "labels_zh": [
-      "负面",
+      "切断",
       "构图",
-      "切断"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "切断"
   },
   {
     "id": "negative_composition_lowres",
@@ -2137,34 +2078,32 @@
     "subcategory": "composition",
     "labels": [
       "composition",
-      "lowres"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "lowres",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "低分辨率",
     "labels_zh": [
-      "负面",
+      "低分辨率",
       "构图",
-      "低分辨率"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "低分辨率"
   },
   {
     "id": "negative_composition_signature",
@@ -2173,34 +2112,35 @@
     "subcategory": "composition",
     "labels": [
       "composition",
-      "signature"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "signature",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "签名",
     "labels_zh": [
-      "负面",
       "构图",
-      "签名"
+      "签名",
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "签名",
+    "aliases": [
+      "artist signature text overlay"
+    ]
   },
   {
     "id": "negative_composition_extra_limbs",
@@ -2209,26 +2149,22 @@
     "subcategory": "composition",
     "labels": [
       "composition",
-      "extra"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "deprecated",
-    "tags": [
+      "extra",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "deprecated",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "多余肢体",
     "labels_zh": [
-      "负面",
+      "多余肢体",
       "构图",
-      "多余肢体"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
@@ -2236,8 +2172,13 @@
       "flux"
     ],
     "alias_of": "negative_anatomy_extra_limbs",
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "多余肢体",
+    "aliases": [
+      "additional extra limbs error"
+    ]
   },
   {
     "id": "negative_composition_bad_hands",
@@ -2246,26 +2187,22 @@
     "subcategory": "composition",
     "labels": [
       "composition",
-      "bad"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "deprecated",
-    "tags": [
+      "bad",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "deprecated",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "手部畸形",
     "labels_zh": [
-      "负面",
+      "手部畸形",
       "构图",
-      "手部畸形"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
@@ -2273,8 +2210,10 @@
       "flux"
     ],
     "alias_of": "negative_anatomy_bad_hands",
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "手部畸形"
   },
   {
     "id": "negative_composition_wrong_size",
@@ -2283,25 +2222,21 @@
     "subcategory": "composition",
     "labels": [
       "composition",
-      "wrong"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "wrong",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "错误尺寸",
     "labels_zh": [
-      "负面",
       "构图",
+      "负面",
       "错误尺寸"
     ],
     "compatibility": [
@@ -2309,8 +2244,10 @@
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "错误尺寸"
   },
   {
     "id": "negative_composition_border",
@@ -2319,25 +2256,21 @@
     "subcategory": "composition",
     "labels": [
       "composition",
-      "border"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "border",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "边框",
     "labels_zh": [
-      "负面",
       "构图",
+      "负面",
       "边框"
     ],
     "compatibility": [
@@ -2345,8 +2278,10 @@
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "边框"
   },
   {
     "id": "negative_composition_frame",
@@ -2355,26 +2290,22 @@
     "subcategory": "composition",
     "labels": [
       "composition",
-      "frame"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "frame",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "画框",
     "labels_zh": [
-      "负面",
       "构图",
-      "画框"
+      "画框",
+      "负面"
     ],
     "compatibility": [
       "sdxl",
@@ -2383,8 +2314,10 @@
     ],
     "relation_group": "frame",
     "relation_role": "canonical",
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "画框"
   },
   {
     "id": "negative_composition_multiple_panels",
@@ -2393,34 +2326,32 @@
     "subcategory": "composition",
     "labels": [
       "composition",
-      "multiple"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "multiple",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "多格分镜",
     "labels_zh": [
-      "负面",
+      "多格分镜",
       "构图",
-      "多格分镜"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "多格分镜"
   },
   {
     "id": "negative_style_3d",
@@ -2429,26 +2360,22 @@
     "subcategory": "style",
     "labels": [
       "style",
-      "3d"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "3d",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "3D",
     "labels_zh": [
+      "3D",
       "负面",
-      "风格缺陷",
-      "3D"
+      "风格缺陷"
     ],
     "compatibility": [
       "sdxl",
@@ -2457,8 +2384,10 @@
     ],
     "relation_group": "3d",
     "relation_role": "canonical",
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "3D"
   },
   {
     "id": "negative_style_realistic",
@@ -2467,26 +2396,22 @@
     "subcategory": "style",
     "labels": [
       "style",
-      "realistic"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "realistic",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "写实",
     "labels_zh": [
+      "写实",
       "负面",
-      "风格缺陷",
-      "写实"
+      "风格缺陷"
     ],
     "compatibility": [
       "sdxl",
@@ -2495,8 +2420,18 @@
     ],
     "relation_group": "realistic",
     "relation_role": "canonical",
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "写实",
+    "aliases": [
+      "photorealistic",
+      "realistic rendering"
+    ],
+    "aliases_zh": [
+      "照片级真实",
+      "逼真渲染"
+    ]
   },
   {
     "id": "negative_style_photorealistic",
@@ -2505,22 +2440,18 @@
     "subcategory": "style",
     "labels": [
       "style",
-      "photorealistic"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "photorealistic",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "照片级写实",
     "labels_zh": [
       "负面",
       "风格缺陷"
@@ -2532,8 +2463,18 @@
     ],
     "relation_group": "photorealistic",
     "relation_role": "canonical",
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "照片级写实",
+    "aliases": [
+      "photorealistic",
+      "realistic rendering"
+    ],
+    "aliases_zh": [
+      "照片级真实",
+      "逼真渲染"
+    ]
   },
   {
     "id": "negative_style_photograph",
@@ -2542,26 +2483,22 @@
     "subcategory": "style",
     "labels": [
       "style",
-      "photograph"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "photograph",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "摄影",
     "labels_zh": [
+      "摄影",
       "负面",
-      "风格缺陷",
-      "摄影"
+      "风格缺陷"
     ],
     "compatibility": [
       "sdxl",
@@ -2570,8 +2507,10 @@
     ],
     "relation_group": "photograph",
     "relation_role": "canonical",
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "摄影"
   },
   {
     "id": "negative_style_realistic_noise",
@@ -2580,34 +2519,40 @@
     "subcategory": "style",
     "labels": [
       "style",
-      "realistic"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "realistic",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "写实噪点",
     "labels_zh": [
+      "写实噪点",
       "负面",
-      "风格缺陷",
-      "写实噪点"
+      "风格缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "写实噪点",
+    "aliases": [
+      "photorealistic",
+      "realistic rendering"
+    ],
+    "aliases_zh": [
+      "照片级真实",
+      "逼真渲染"
+    ]
   },
   {
     "id": "negative_style_realistic_camera",
@@ -2616,34 +2561,40 @@
     "subcategory": "style",
     "labels": [
       "style",
-      "realistic"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "realistic",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "写实相机",
     "labels_zh": [
+      "写实相机",
       "负面",
-      "风格缺陷",
-      "写实相机"
+      "风格缺陷"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "写实相机",
+    "aliases": [
+      "photorealistic",
+      "realistic rendering"
+    ],
+    "aliases_zh": [
+      "照片级真实",
+      "逼真渲染"
+    ]
   },
   {
     "id": "negative_style_out_of_focus",
@@ -2652,26 +2603,22 @@
     "subcategory": "style",
     "labels": [
       "style",
-      "out"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "deprecated",
-    "tags": [
+      "out",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "deprecated",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "失焦",
     "labels_zh": [
+      "失焦",
       "负面",
-      "风格缺陷",
-      "失焦"
+      "风格缺陷"
     ],
     "compatibility": [
       "sdxl",
@@ -2679,8 +2626,13 @@
       "flux"
     ],
     "alias_of": "negative_quality_out_of_focus",
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.65,
+    "is_negative": true,
+    "score_v2": 0.65,
+    "term_zh": "失焦",
+    "aliases": [
+      "defocused blurry image"
+    ]
   },
   {
     "id": "negative_style_oil_painting",
@@ -2689,26 +2641,22 @@
     "subcategory": "style",
     "labels": [
       "style",
-      "oil"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "oil",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "油画",
     "labels_zh": [
+      "油画",
       "负面",
-      "风格缺陷",
-      "油画"
+      "风格缺陷"
     ],
     "compatibility": [
       "sdxl",
@@ -2717,8 +2665,17 @@
     ],
     "relation_group": "oil painting",
     "relation_role": "canonical",
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "油画",
+    "aliases": [
+      "classical oil painting"
+    ],
+    "aliases_zh": [
+      "canvas painting",
+      "古典油画"
+    ]
   },
   {
     "id": "negative_textrelated_watermark",
@@ -2727,26 +2684,22 @@
     "subcategory": "textrelated",
     "labels": [
       "textRelated",
-      "watermark"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "deprecated",
-    "tags": [
+      "watermark",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "deprecated",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "水印",
     "labels_zh": [
-      "负面",
       "文字",
-      "水印"
+      "水印",
+      "负面"
     ],
     "compatibility": [
       "sdxl",
@@ -2754,8 +2707,13 @@
       "flux"
     ],
     "alias_of": "negative_composition_watermark",
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "水印",
+    "aliases": [
+      "visible watermark overlay"
+    ]
   },
   {
     "id": "negative_textrelated_username",
@@ -2764,26 +2722,22 @@
     "subcategory": "textrelated",
     "labels": [
       "textRelated",
-      "username"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "deprecated",
-    "tags": [
+      "username",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "deprecated",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "用户名",
     "labels_zh": [
-      "负面",
       "文字",
-      "用户名"
+      "用户名",
+      "负面"
     ],
     "compatibility": [
       "sdxl",
@@ -2791,8 +2745,10 @@
       "flux"
     ],
     "alias_of": "negative_composition_username",
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "用户名"
   },
   {
     "id": "negative_textrelated_signature",
@@ -2801,26 +2757,22 @@
     "subcategory": "textrelated",
     "labels": [
       "textRelated",
-      "signature"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "deprecated",
-    "tags": [
+      "signature",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "deprecated",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "签名",
     "labels_zh": [
-      "负面",
       "文字",
-      "签名"
+      "签名",
+      "负面"
     ],
     "compatibility": [
       "sdxl",
@@ -2828,8 +2780,13 @@
       "flux"
     ],
     "alias_of": "negative_composition_signature",
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "签名",
+    "aliases": [
+      "artist signature text overlay"
+    ]
   },
   {
     "id": "negative_textrelated_logo",
@@ -2838,26 +2795,22 @@
     "subcategory": "textrelated",
     "labels": [
       "textRelated",
-      "logo"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "logo",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "标志",
     "labels_zh": [
-      "负面",
       "文字",
-      "标志"
+      "标志",
+      "负面"
     ],
     "compatibility": [
       "sdxl",
@@ -2866,8 +2819,10 @@
     ],
     "relation_group": "logo",
     "relation_role": "canonical",
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "标志"
   },
   {
     "id": "negative_textrelated_text",
@@ -2876,25 +2831,21 @@
     "subcategory": "textrelated",
     "labels": [
       "textRelated",
-      "text"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "text",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "文字",
     "labels_zh": [
-      "负面",
-      "文字"
+      "文字",
+      "负面"
     ],
     "compatibility": [
       "sdxl",
@@ -2903,8 +2854,10 @@
     ],
     "relation_group": "text",
     "relation_role": "variant",
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "文字"
   },
   {
     "id": "negative_textrelated_lettering",
@@ -2913,34 +2866,32 @@
     "subcategory": "textrelated",
     "labels": [
       "textRelated",
-      "lettering"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "lettering",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "字体",
     "labels_zh": [
-      "负面",
+      "字体",
       "文字",
-      "字体"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "字体"
   },
   {
     "id": "negative_textrelated_subtitle",
@@ -2949,34 +2900,32 @@
     "subcategory": "textrelated",
     "labels": [
       "textRelated",
-      "subtitle"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "subtitle",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "字幕",
     "labels_zh": [
-      "负面",
+      "字幕",
       "文字",
-      "字幕"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "字幕"
   },
   {
     "id": "negative_textrelated_chapter_number",
@@ -2985,34 +2934,32 @@
     "subcategory": "textrelated",
     "labels": [
       "textRelated",
-      "chapter"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "chapter",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "章节号",
     "labels_zh": [
-      "负面",
       "文字",
-      "章节号"
+      "章节号",
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "章节号"
   },
   {
     "id": "negative_textrelated_comic_title",
@@ -3021,34 +2968,32 @@
     "subcategory": "textrelated",
     "labels": [
       "textRelated",
-      "comic"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "comic",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "漫画标题",
     "labels_zh": [
-      "负面",
       "文字",
-      "漫画标题"
+      "漫画标题",
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "漫画标题"
   },
   {
     "id": "negative_textrelated_series_name",
@@ -3057,34 +3002,32 @@
     "subcategory": "textrelated",
     "labels": [
       "textRelated",
-      "series"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "series",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "系列名",
     "labels_zh": [
-      "负面",
       "文字",
-      "系列名"
+      "系列名",
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "系列名"
   },
   {
     "id": "negative_commondefects_skin_marks",
@@ -3093,34 +3036,32 @@
     "subcategory": "commondefects",
     "labels": [
       "commonDefects",
-      "skin"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "skin",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "皮肤瑕疵",
     "labels_zh": [
-      "负面",
       "常见缺陷",
-      "皮肤瑕疵"
+      "皮肤瑕疵",
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "皮肤瑕疵"
   },
   {
     "id": "negative_commondefects_fat_rolls",
@@ -3129,34 +3070,32 @@
     "subcategory": "commondefects",
     "labels": [
       "commonDefects",
-      "fat"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "fat",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "脂肪堆积",
     "labels_zh": [
-      "负面",
       "常见缺陷",
-      "脂肪堆积"
+      "脂肪堆积",
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "脂肪堆积"
   },
   {
     "id": "negative_commondefects_stray_hair",
@@ -3165,34 +3104,32 @@
     "subcategory": "commondefects",
     "labels": [
       "commonDefects",
-      "stray"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "stray",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "杂发",
     "labels_zh": [
-      "负面",
       "常见缺陷",
-      "杂发"
+      "杂发",
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "杂发"
   },
   {
     "id": "negative_commondefects_cropped_head",
@@ -3201,34 +3138,32 @@
     "subcategory": "commondefects",
     "labels": [
       "commonDefects",
-      "cropped"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "cropped",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "头部裁切",
     "labels_zh": [
-      "负面",
+      "头部裁切",
       "常见缺陷",
-      "头部裁切"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "头部裁切"
   },
   {
     "id": "negative_commondefects_bad_feet",
@@ -3237,34 +3172,32 @@
     "subcategory": "commondefects",
     "labels": [
       "commonDefects",
-      "bad"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "bad",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "糟糕脚部",
     "labels_zh": [
-      "负面",
       "常见缺陷",
-      "糟糕脚部"
+      "糟糕脚部",
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "糟糕脚部"
   },
   {
     "id": "negative_commondefects_deformed_feet",
@@ -3273,34 +3206,35 @@
     "subcategory": "commondefects",
     "labels": [
       "commonDefects",
-      "deformed"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "deformed",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "畸形脚部",
     "labels_zh": [
-      "负面",
       "常见缺陷",
-      "畸形脚部"
+      "畸形脚部",
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "畸形脚部",
+    "aliases": [
+      "distorted malformed features"
+    ]
   },
   {
     "id": "negative_commondefects_extra_toe",
@@ -3309,26 +3243,22 @@
     "subcategory": "commondefects",
     "labels": [
       "commonDefects",
-      "extra"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "deprecated",
-    "tags": [
+      "extra",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "deprecated",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "多余脚趾",
     "labels_zh": [
-      "负面",
+      "多余脚趾",
       "常见缺陷",
-      "多余脚趾"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
@@ -3336,8 +3266,10 @@
       "flux"
     ],
     "alias_of": "negative_anatomy_extra_toe",
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "多余脚趾"
   },
   {
     "id": "negative_commondefects_wrong_feet",
@@ -3346,26 +3278,22 @@
     "subcategory": "commondefects",
     "labels": [
       "commonDefects",
-      "wrong"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "deprecated",
-    "tags": [
+      "wrong",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "deprecated",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "脚部错误",
     "labels_zh": [
-      "负面",
       "常见缺陷",
-      "脚部错误"
+      "脚部错误",
+      "负面"
     ],
     "compatibility": [
       "sdxl",
@@ -3373,8 +3301,10 @@
       "flux"
     ],
     "alias_of": "negative_anatomy_wrong_feet",
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "脚部错误"
   },
   {
     "id": "negative_commondefects_toes_merging",
@@ -3383,34 +3313,32 @@
     "subcategory": "commondefects",
     "labels": [
       "commonDefects",
-      "toes"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "toes",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "脚趾融合",
     "labels_zh": [
-      "负面",
       "常见缺陷",
-      "脚趾融合"
+      "脚趾融合",
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "脚趾融合"
   },
   {
     "id": "negative_commondefects_muscle_lump",
@@ -3419,34 +3347,32 @@
     "subcategory": "commondefects",
     "labels": [
       "commonDefects",
-      "muscle"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "muscle",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "肌肉肿块",
     "labels_zh": [
-      "负面",
       "常见缺陷",
-      "肌肉肿块"
+      "肌肉肿块",
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "肌肉肿块"
   },
   {
     "id": "negative_commondefects_dimpled_skin",
@@ -3455,34 +3381,32 @@
     "subcategory": "commondefects",
     "labels": [
       "commonDefects",
-      "dimpled"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "dimpled",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "凹陷皮肤",
     "labels_zh": [
-      "负面",
+      "凹陷皮肤",
       "常见缺陷",
-      "凹陷皮肤"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "凹陷皮肤"
   },
   {
     "id": "negative_commondefects_patchy_skin",
@@ -3491,34 +3415,32 @@
     "subcategory": "commondefects",
     "labels": [
       "commonDefects",
-      "patchy"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "patchy",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "斑驳皮肤",
     "labels_zh": [
-      "负面",
       "常见缺陷",
-      "斑驳皮肤"
+      "斑驳皮肤",
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "斑驳皮肤"
   },
   {
     "id": "negative_commondefects_visible_tattoo",
@@ -3527,34 +3449,32 @@
     "subcategory": "commondefects",
     "labels": [
       "commonDefects",
-      "visible"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "visible",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "可见纹身",
     "labels_zh": [
-      "负面",
+      "可见纹身",
       "常见缺陷",
-      "可见纹身"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "可见纹身"
   },
   {
     "id": "negative_commondefects_shoulder_bumps",
@@ -3563,34 +3483,32 @@
     "subcategory": "commondefects",
     "labels": [
       "commonDefects",
-      "shoulder"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "shoulder",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "肩部肿块",
     "labels_zh": [
-      "负面",
       "常见缺陷",
-      "肩部肿块"
+      "肩部肿块",
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "肩部肿块"
   },
   {
     "id": "negative_commondefects_extra_nipple",
@@ -3599,34 +3517,32 @@
     "subcategory": "commondefects",
     "labels": [
       "commonDefects",
-      "extra"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "extra",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "多乳头",
     "labels_zh": [
-      "负面",
+      "多乳头",
       "常见缺陷",
-      "多乳头"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "多乳头"
   },
   {
     "id": "negative_commondefects_pubic_hair",
@@ -3635,25 +3551,21 @@
     "subcategory": "commondefects",
     "labels": [
       "commonDefects",
-      "pubic"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "pubic",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "阴毛",
     "labels_zh": [
-      "负面",
       "常见缺陷",
+      "负面",
       "阴毛"
     ],
     "compatibility": [
@@ -3661,8 +3573,10 @@
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "阴毛"
   },
   {
     "id": "negative_commondefects_breast_sagging",
@@ -3671,34 +3585,32 @@
     "subcategory": "commondefects",
     "labels": [
       "commonDefects",
-      "breast"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "breast",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "乳房下垂",
     "labels_zh": [
-      "负面",
+      "乳房下垂",
       "常见缺陷",
-      "乳房下垂"
+      "负面"
     ],
     "compatibility": [
       "sdxl",
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "乳房下垂"
   },
   {
     "id": "negative_commondefects_misaligned_hips",
@@ -3707,25 +3619,21 @@
     "subcategory": "commondefects",
     "labels": [
       "commonDefects",
-      "misaligned"
-    ],
-    "score": 0.95,
-    "priority": "high",
-    "lifecycle": "approved",
-    "tags": [
+      "misaligned",
       "migrated",
       "negative"
     ],
+    "score": 0.95,
+    "lifecycle": "approved",
     "created_at": "2026-09-27T17:25:55.753Z",
     "updated_at": "2026-09-27T17:25:55.753Z",
     "source": "h3-comic-builder-migration",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
-    "term_zh": "骨盆错位",
     "labels_zh": [
-      "负面",
       "常见缺陷",
+      "负面",
       "骨盆错位"
     ],
     "compatibility": [
@@ -3733,7 +3641,9 @@
       "midjourney",
       "flux"
     ],
-    "weight": 0.5,
-    "is_negative": true
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "骨盆错位"
   }
 ]

@@ -118,7 +118,16 @@
       "force_include": true
     }
   ],
-  "templates": [],
+  "templates": [
+    {
+      "template_id": "scene.environment",
+      "variant_id": "exterior_cityscape"
+    },
+    {
+      "template_id": "atmosphere.weather",
+      "variant_id": "golden_hour_light"
+    }
+  ],
   "prompt_text": "masterpiece, best quality, highly detailed, high resolution, sharp focus, city skyline, bustling city street, night sky, sunset, cyberpunk lighting, moody atmosphere, cinematic lighting, teal and orange palette, high contrast, ultra-wide angle",
   "prompt_text_zh": "杰作，最高质量，高细节，高分辨率，清晰聚焦，城市天际线，繁忙城市街道，夜空，日落，赛博朋克灯光，情绪氛围，电影感灯光，青橙调色板，高对比度，超广角",
   "example": {
@@ -143,5 +152,16 @@
   "notes": "This bundle covers urban and cityscape photography from photorealistic to stylized. Key differentiators: city_skyline (0.9) + bustling_city_street (0.8) form the core. Golden hour (0.9) + cyberpunk lighting (0.85) + moody atmosphere (0.85) for dramatic mood. Ultra-wide angle (0.9) is key for dramatic cityscapes. film_noir (0.8) for noir styling. Note: no exact 'scene_nature_skyline' or 'scene_city_buildings' keywords exist; closest is 'city_skyline_seen_from_rooftop' (0.9).",
   "created_at": "2026-10-06T18:30:00+00:00",
   "updated_at": "2026-10-06T18:30:00+00:00",
-  "bundle_type": "keywords_only"
+  "bundle_type": "keywords_only",
+  "keyword_count": 22,
+  "keyword_categories": [
+    "color-look",
+    "composition",
+    "lighting",
+    "negative",
+    "photographer",
+    "quality",
+    "scene",
+    "styles"
+  ]
 }

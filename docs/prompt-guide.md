@@ -232,7 +232,7 @@ dark clouds, lightning, battle scene
 
 ## 参考
 
-- **关键词词典**：`keywords/categories/` — 33 个分类，5,959 个关键词
+- **关键词词典**：`keywords/categories/` — 22 个分类，6,256 个关键词
 - **模板**：`templates/` — 27 个模板
 - **数据模型**：[README.md](../README.md) | [docs/standard.md](standard.md)
 - **JSON Schema**：`schema/`

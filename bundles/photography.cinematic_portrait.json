@@ -203,6 +203,10 @@
       "template_id": "video.prompts",
       "variant_id": "character_closeup",
       "variables": {}
+    },
+    {
+      "template_id": "camera.movement",
+      "variant_id": "camera.movement.push"
     }
   ],
   "prompt_text": "masterpiece, best quality, high quality, high resolution, highly detailed, sharp focus, crisp, 85mm portrait lens, close-up portrait, petzval portrait lens, swirling bokeh, depth of field, cinematic lighting, rim lighting, moody lighting, soft diffused lighting, cinematic portrait, film grain, Kodak Portra 400, elegant pose, subtle emotion, --v 6 --ar 2:3 --style raw",
@@ -232,5 +236,15 @@
   "notes": "This bundle combines the essential quality boosters (weight 0.95+), the 85mm portrait lens (weight 0.9), close-up framing (weight 0.95), and cinematic lighting keywords (rim, back, moody). The negative prompt block ensures bad outputs are filtered. The prompt_text is pre-built for quick use, while the keywords array allows granular customization.",
   "created_at": "2026-10-06T00:00:00+00:00",
   "updated_at": "2026-10-06T00:00:00+00:00",
-  "bundle_type": "with_template"
+  "bundle_type": "with_template",
+  "keyword_count": 39,
+  "keyword_categories": [
+    "character",
+    "composition",
+    "lighting",
+    "negative",
+    "photographer",
+    "quality",
+    "styles"
+  ]
 }

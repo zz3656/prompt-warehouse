@@ -1,0 +1,1105 @@
+[
+  {
+    "id": "shot_language_shot_size_extreme_long_shot",
+    "term": "extreme long shot",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "wide",
+      "establishing"
+    ],
+    "labels_zh": [
+      "定场",
+      "景别",
+      "远景"
+    ],
+    "score": 0.9,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.74,
+    "source": "legacy-migration",
+    "score_v2": 0.74,
+    "term_zh": "大远景"
+  },
+  {
+    "id": "shot_language_shot_size_long_shot",
+    "term": "long shot",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "wide"
+    ],
+    "labels_zh": [
+      "景别",
+      "远景"
+    ],
+    "score": 0.9,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "远景"
+  },
+  {
+    "id": "shot_language_shot_size_medium_long_shot",
+    "term": "medium long shot",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "medium"
+    ],
+    "labels_zh": [
+      "中远景",
+      "景别"
+    ],
+    "score": 0.9,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.74,
+    "source": "legacy-migration",
+    "score_v2": 0.74,
+    "term_zh": "中远景"
+  },
+  {
+    "id": "shot_language_shot_size_medium_shot",
+    "term": "medium shot",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "medium"
+    ],
+    "labels_zh": [
+      "中景",
+      "景别"
+    ],
+    "score": 0.9,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "medium shot",
+    "relation_role": "canonical",
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "中景",
+    "aliases_zh": [
+      "中景镜头"
+    ]
+  },
+  {
+    "id": "shot_language_shot_size_medium_close_up",
+    "term": "medium close-up",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "close"
+    ],
+    "labels_zh": [
+      "中近景",
+      "景别"
+    ],
+    "score": 0.9,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "medium close-up",
+    "relation_role": "canonical",
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "中近景",
+    "aliases": [
+      "close up shot",
+      "closeup"
+    ],
+    "aliases_zh": [
+      "中特写"
+    ]
+  },
+  {
+    "id": "shot_language_shot_size_close_up",
+    "term": "close-up",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "close"
+    ],
+    "labels_zh": [
+      "景别",
+      "近景"
+    ],
+    "score": 0.9,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "close-up",
+    "relation_role": "canonical",
+    "weight": 0.58,
+    "source": "legacy-migration",
+    "score_v2": 0.58,
+    "term_zh": "近景",
+    "aliases": [
+      "close up shot",
+      "closeup"
+    ],
+    "aliases_zh": [
+      "特写"
+    ]
+  },
+  {
+    "id": "shot_language_shot_size_extreme_close_up",
+    "term": "extreme close-up",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "extreme",
+      "close"
+    ],
+    "labels_zh": [
+      "景别",
+      "特写"
+    ],
+    "score": 0.9,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "extreme close-up",
+    "relation_role": "canonical",
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "特写",
+    "aliases": [
+      "close up shot",
+      "closeup"
+    ],
+    "aliases_zh": [
+      "极特写"
+    ]
+  },
+  {
+    "id": "shot_language_shot_size_close_up_shot",
+    "term": "close-up shot",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "close"
+    ],
+    "labels_zh": [
+      "景别",
+      "特写"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "close-up shot",
+    "relation_role": "canonical",
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "特写镜头",
+    "aliases": [
+      "close up shot",
+      "closeup"
+    ],
+    "aliases_zh": [
+      "特写镜头",
+      "近景"
+    ]
+  },
+  {
+    "id": "shot_language_shot_size_macro_shot",
+    "term": "macro shot",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "macro"
+    ],
+    "labels_zh": [
+      "微距",
+      "景别"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "macro shot",
+    "relation_role": "canonical",
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "微距镜头",
+    "aliases_zh": [
+      "微距拍摄"
+    ]
+  },
+  {
+    "id": "shot_language_shot_size_establishing_shot",
+    "term": "establishing shot",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "establishing"
+    ],
+    "labels_zh": [
+      "定场",
+      "景别"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "establishing shot",
+    "relation_role": "canonical",
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "定场镜头",
+    "aliases_zh": [
+      "全景开场镜头"
+    ]
+  },
+  {
+    "id": "shot_language_shot_size_full_shot",
+    "term": "full shot",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "full"
+    ],
+    "labels_zh": [
+      "全身",
+      "景别"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "full shot",
+    "relation_role": "canonical",
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "全身镜头",
+    "aliases_zh": [
+      "全景"
+    ]
+  },
+  {
+    "id": "shot_language_shot_size_cowboy_shot",
+    "term": "cowboy shot",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "cowboy"
+    ],
+    "labels_zh": [
+      "景别",
+      "牛仔"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "cowboy shot",
+    "relation_role": "canonical",
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "牛仔镜头",
+    "aliases_zh": [
+      "七分身镜头"
+    ]
+  },
+  {
+    "id": "shot_language_shot_size_two_shot",
+    "term": "two shot",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "two"
+    ],
+    "labels_zh": [
+      "双人",
+      "景别"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "双人镜头"
+  },
+  {
+    "id": "shot_language_shot_size_over_the_shoulder",
+    "term": "over the shoulder shot",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "shoulder"
+    ],
+    "labels_zh": [
+      "景别",
+      "过肩"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "over the shoulder shot",
+    "relation_role": "canonical",
+    "weight": 0.78,
+    "source": "legacy-migration",
+    "score_v2": 0.78,
+    "term_zh": "过肩镜头"
+  },
+  {
+    "id": "shot_language_shot_size_point_of_view",
+    "term": "point of view shot",
+    "category": "shot-language",
+    "subcategory": "shot-size",
+    "labels": [
+      "shot",
+      "size",
+      "pov"
+    ],
+    "labels_zh": [
+      "主观",
+      "景别"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "point of view shot",
+    "relation_role": "canonical",
+    "weight": 0.78,
+    "source": "legacy-migration",
+    "score_v2": 0.78,
+    "term_zh": "主观镜头",
+    "aliases_zh": [
+      "视角"
+    ]
+  },
+  {
+    "id": "shot_language_camera_move_fixed",
+    "term": "static camera",
+    "category": "shot-language",
+    "subcategory": "camera-move",
+    "labels": [
+      "camera",
+      "move",
+      "static",
+      "fixed"
+    ],
+    "labels_zh": [
+      "固定",
+      "运镜"
+    ],
+    "score": 0.9,
+    "lifecycle": "approved",
+    "compatibility": [
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "固定镜头"
+  },
+  {
+    "id": "shot_language_camera_move_push_in",
+    "term": "slow push in",
+    "category": "shot-language",
+    "subcategory": "camera-move",
+    "labels": [
+      "camera",
+      "move",
+      "push",
+      "dolly"
+    ],
+    "labels_zh": [
+      "推近",
+      "运镜"
+    ],
+    "score": 0.9,
+    "lifecycle": "approved",
+    "compatibility": [
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.74,
+    "source": "legacy-migration",
+    "score_v2": 0.74,
+    "term_zh": "缓慢推近"
+  },
+  {
+    "id": "shot_language_camera_move_pull_out",
+    "term": "slow pull out",
+    "category": "shot-language",
+    "subcategory": "camera-move",
+    "labels": [
+      "camera",
+      "move",
+      "pull"
+    ],
+    "labels_zh": [
+      "拉远",
+      "运镜"
+    ],
+    "score": 0.9,
+    "lifecycle": "approved",
+    "compatibility": [
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.74,
+    "source": "legacy-migration",
+    "score_v2": 0.74,
+    "term_zh": "缓慢拉远"
+  },
+  {
+    "id": "shot_language_camera_move_pan_left",
+    "term": "pan left",
+    "category": "shot-language",
+    "subcategory": "camera-move",
+    "labels": [
+      "camera",
+      "move",
+      "pan"
+    ],
+    "labels_zh": [
+      "左摇",
+      "运镜"
+    ],
+    "score": 0.9,
+    "lifecycle": "approved",
+    "compatibility": [
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "左摇"
+  },
+  {
+    "id": "shot_language_camera_move_pan_right",
+    "term": "pan right",
+    "category": "shot-language",
+    "subcategory": "camera-move",
+    "labels": [
+      "camera",
+      "move",
+      "pan"
+    ],
+    "labels_zh": [
+      "右摇",
+      "运镜"
+    ],
+    "score": 0.9,
+    "lifecycle": "approved",
+    "compatibility": [
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "右摇"
+  },
+  {
+    "id": "shot_language_camera_move_tracking_shot",
+    "term": "tracking shot",
+    "category": "shot-language",
+    "subcategory": "camera-move",
+    "labels": [
+      "camera",
+      "move",
+      "tracking",
+      "follow"
+    ],
+    "labels_zh": [
+      "跟拍",
+      "运镜"
+    ],
+    "score": 0.9,
+    "lifecycle": "approved",
+    "compatibility": [
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "relation_group": "tracking shot",
+    "relation_role": "canonical",
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "跟拍",
+    "aliases_zh": [
+      "跟踪镜头"
+    ]
+  },
+  {
+    "id": "shot_language_camera_move_crane_up",
+    "term": "crane up",
+    "category": "shot-language",
+    "subcategory": "camera-move",
+    "labels": [
+      "camera",
+      "move",
+      "crane"
+    ],
+    "labels_zh": [
+      "上摇",
+      "运镜"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "compatibility": [
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "上摇"
+  },
+  {
+    "id": "shot_language_camera_move_tilt_down",
+    "term": "tilt down",
+    "category": "shot-language",
+    "subcategory": "camera-move",
+    "labels": [
+      "camera",
+      "move",
+      "tilt"
+    ],
+    "labels_zh": [
+      "下摇",
+      "运镜"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "compatibility": [
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "下摇"
+  },
+  {
+    "id": "shot_language_camera_move_zoom_in",
+    "term": "zoom in",
+    "category": "shot-language",
+    "subcategory": "camera-move",
+    "labels": [
+      "camera",
+      "move",
+      "zoom"
+    ],
+    "labels_zh": [
+      "变焦推近",
+      "运镜"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "compatibility": [
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "变焦推近"
+  },
+  {
+    "id": "shot_language_camera_move_zoom_out",
+    "term": "zoom out",
+    "category": "shot-language",
+    "subcategory": "camera-move",
+    "labels": [
+      "camera",
+      "move",
+      "zoom"
+    ],
+    "labels_zh": [
+      "变焦拉远",
+      "运镜"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "compatibility": [
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "变焦拉远"
+  },
+  {
+    "id": "shot_language_camera_move_arc",
+    "term": "arc shot",
+    "category": "shot-language",
+    "subcategory": "camera-move",
+    "labels": [
+      "camera",
+      "move",
+      "arc",
+      "orbit"
+    ],
+    "labels_zh": [
+      "环绕",
+      "运镜"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "compatibility": [
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "环绕镜头"
+  },
+  {
+    "id": "shot_language_camera_move_dolly_zoom",
+    "term": "dolly zoom",
+    "category": "shot-language",
+    "subcategory": "camera-move",
+    "labels": [
+      "camera",
+      "move",
+      "dolly",
+      "zoom"
+    ],
+    "labels_zh": [
+      "推拉变焦",
+      "运镜"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "compatibility": [
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "relation_group": "dolly zoom",
+    "relation_role": "canonical",
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "推拉变焦",
+    "aliases_zh": [
+      "推车Zoom"
+    ],
+    "aliases": [
+      "vertigo dolly zoom effect"
+    ]
+  },
+  {
+    "id": "shot_language_lens_14mm",
+    "term": "14mm lens",
+    "category": "shot-language",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "wide",
+      "ultra"
+    ],
+    "labels_zh": [
+      "超广角",
+      "镜头"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "14mm 镜头"
+  },
+  {
+    "id": "shot_language_lens_24mm",
+    "term": "24mm lens",
+    "category": "shot-language",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "wide"
+    ],
+    "labels_zh": [
+      "广角",
+      "镜头"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "24mm 镜头"
+  },
+  {
+    "id": "shot_language_lens_35mm",
+    "term": "35mm lens",
+    "category": "shot-language",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "standard"
+    ],
+    "labels_zh": [
+      "标准",
+      "镜头"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "35mm lens",
+    "relation_role": "canonical",
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "35mm 镜头",
+    "aliases_zh": [
+      "85mm 镜头"
+    ]
+  },
+  {
+    "id": "shot_language_lens_50mm",
+    "term": "50mm lens",
+    "category": "shot-language",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "standard",
+      "prime"
+    ],
+    "labels_zh": [
+      "定焦",
+      "标准",
+      "镜头"
+    ],
+    "score": 0.9,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "50mm 镜头"
+  },
+  {
+    "id": "shot_language_lens_85mm",
+    "term": "85mm lens",
+    "category": "shot-language",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "portrait"
+    ],
+    "labels_zh": [
+      "人像",
+      "镜头"
+    ],
+    "score": 0.9,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "85mm lens",
+    "relation_role": "canonical",
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "85mm 镜头"
+  },
+  {
+    "id": "shot_language_lens_135mm",
+    "term": "135mm lens",
+    "category": "shot-language",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "telephoto"
+    ],
+    "labels_zh": [
+      "中长焦",
+      "镜头"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "135mm 镜头"
+  },
+  {
+    "id": "shot_language_lens_200mm",
+    "term": "200mm lens",
+    "category": "shot-language",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "telephoto"
+    ],
+    "labels_zh": [
+      "镜头",
+      "长焦"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "200mm lens",
+    "relation_role": "canonical",
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "200mm 镜头"
+  },
+  {
+    "id": "shot_language_lens_fisheye",
+    "term": "fisheye lens",
+    "category": "shot-language",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "fisheye"
+    ],
+    "labels_zh": [
+      "镜头",
+      "鱼眼"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "fisheye lens",
+    "relation_role": "canonical",
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "鱼眼镜头"
+  },
+  {
+    "id": "shot_language_lens_tilt_shift",
+    "term": "tilt-shift lens",
+    "category": "shot-language",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "tilt",
+      "shift"
+    ],
+    "labels_zh": [
+      "移轴",
+      "镜头"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "tilt-shift lens",
+    "relation_role": "canonical",
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "移轴镜头",
+    "aliases_zh": [
+      "移轴晶状体"
+    ],
+    "aliases": [
+      "miniature effect",
+      "selective focus"
+    ]
+  },
+  {
+    "id": "shot_language_lens_macro",
+    "term": "macro lens",
+    "category": "shot-language",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "macro"
+    ],
+    "labels_zh": [
+      "微距",
+      "镜头"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "macro lens",
+    "relation_role": "canonical",
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "微距镜头"
+  },
+  {
+    "id": "shot_language_lens_anamorphic",
+    "term": "anamorphic lens",
+    "category": "shot-language",
+    "subcategory": "lens",
+    "labels": [
+      "lens",
+      "anamorphic",
+      "cinematic"
+    ],
+    "labels_zh": [
+      "宽银幕",
+      "电影感",
+      "镜头"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "anamorphic lens",
+    "relation_role": "canonical",
+    "weight": 0.66,
+    "source": "legacy-migration",
+    "score_v2": 0.66,
+    "term_zh": "变形宽银幕镜头",
+    "aliases_zh": [
+      "变形宽银幕晶状体"
+    ],
+    "aliases": [
+      "cinematic anamorphic lensing"
+    ]
+  }
+]

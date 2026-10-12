@@ -1,10 +1,10 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "schema_version": "pws-1.0",
-  "total_keywords": 6037,
-  "total_categories": 20,
-  "updated_at": "2026-10-11T13:43:50.155638+00:00",
-  "updated_by": "optimization-pr",
+  "total_keywords": 6256,
+  "total_categories": 22,
+  "updated_at": "2026-10-12T14:30:00.000000+00:00",
+  "updated_by": "p3-1-recovery",
   "source_summary": {
     "h3-comic-builder (intermediate, not listed as data source)": 859,
     "MidJourney-Reference": 4600,
@@ -15,176 +15,29 @@
     "nodaro-prompts": 1149
   },
   "changelog": [
-    "1.6.0 - 新增 schema 字段 alias_of/relation_group/relation_role，支持跨分类重复处理",
-    "1.5.0 - 新增 compatibility 字段（按分类/子分类默认值批量打标）",
-    "1.4.1 - 合并 composition/angles → angle（14 条）",
-    "1.4.0 - 新增 shot-language 分类（40 个镜头语言）",
-    "1.3.0 - 新增 subcategories_zh（152 个映射，覆盖 150/156 个子分类）",
-    "修正 total_keywords: 6015 → 5999",
-    "1.2.0 - 新增 workflows（4 个模板组合）",
-    "1.1.3 - scene 分类重分类（83 条词移到 atmosphere/styles）",
-    "1.1.2 - 新增 categories_zh 字段（分类中文名）",
-    "1.1.1 - 修复 styles 分类 term 的 / 前缀（112 条）",
-    "v1.1.0 - 分类优化里程碑\n- character.accessories (26) 合并到 clothing.accessories（16 移动，10 term 冲突跳过）",
-    "character.accessories (26) 合并到 clothing.accessories（16 移动，10 term 冲突跳过）",
     {
-      "version": "1.0.0",
-      "date": "2026-10-11",
+      "version": "1.3.0",
+      "date": "2026-10-12",
       "changes": [
-        "合并 framing → composition（framing 72 个高质量替代 composition 中 10 个低质量重叠）",
-        "composition: 467 → 529（= 457 非 framing + 4 独有 + 72 framing）",
-        "总分类数：19 → 18"
-      ],
-      "added": 72,
-      "before": 6015,
-      "after": 6015
+        "统一所有版本号到 1.3.0",
+        "修复 keywords/_meta.json 版本从 1.0.0 → 1.3.0",
+        "修复 docs/api/stats.json 版本从 1.0.0 → 1.3.0",
+        "生成 CHANGELOG 版本号条目"
+      ]
     },
     {
       "version": "1.0.0",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "changes": [
-        "合并 render-quality → quality（35 个关键词）",
-        "子分类保留 render- 前缀（render-engines, render-resolution 等）",
-        "总分类数 20 → 19"
-      ],
-      "added": 35,
-      "before": 6015,
-      "after": 6015
-    },
-    {
-      "version": "1.5.0",
-      "date": "2026-10-11",
-      "changes": [
-        "README 关键词数 6,015 → 6,037",
-        "版本号统一为 1.5.0",
-        "子分类从 156 更新为 167"
-      ]
-    },
-    {
-      "version": "1.5.1",
-      "changes": [
-        "规范化 relation_role 为 canonical / variant（139 组跨分类重复）",
-        "schema 加 relation_role 枚举与 alias_of 格式校验"
-      ]
-    },
-    {
-      "version": "1.5.2",
-      "changes": [
-        "新增 pws-canonical.py：组合器按 canonical 去重",
-        "/api/stats 加 relation / compatibility 统计字段",
-        "docs/standard.md 补充 relation_group / relation_role 用法"
-      ]
-    },
-    {
-      "version": "1.5.3",
-      "changes": [
-        "pws-bundles resolve 接入 canonical 去重（过滤 variant + alias_of）",
-        "docs/standard.md 补 compatibility 语义说明",
-        "/api/stats 加 by_score_bucket + missing_term_zh"
-      ]
-    },
-    {
-      "version": "1.5.4",
-      "changes": [
-        "修复 Python 3.9 不兼容语法（list[] / dict[] / str|int|None）",
-        "/api/stats 加 missing_template_refs（验证为 0）",
-        "新增 tools/pws-query.py（统一查询 CLI）",
-        "新增 bundles portrait.cinematic / scene.cyberpunk"
-      ]
-    },
-    {
-      "version": "1.5.5",
-      "changes": [
-        "新增 docs/bundles-api.json（PanelCraft 读写 bundles 的 REST API 定义）",
-        "统计 labels_zh / aliases_zh 缺失（labels_zh 完整率 100%，aliases_zh 全缺）",
-        "删除 projects/ snapshots/ _legacy_all_templates.json",
-        "README API 章节改写为 PanelCraft bundles API"
-      ]
-    },
-    {
-      "version": "1.5.6",
-      "changes": [
-        "修复 docs/missing-labels-zh.json → docs/missing-aliases.json（aliases/aliases_zh 同时缺失 6037 条）",
-        "全量校验 bundle template_id（12 个 bundle，引用全部有效）",
-        "新增 scripts/validate-json.sh（JSON 语法校验脚本）"
-      ]
-    },
-    {
-      "version": "1.5.7",
-      "changes": [
-        "h3.video_prompts 改名为 video.prompts（去项目名保留模板能力）",
-        "bundle 模板引用统一为 templates 数组（schema 更新）",
-        "README bundle 数量已与实际一致（12 个）"
-      ]
-    },
-    {
-      "version": "1.5.8",
-      "changes": [
-        "schema 加 weight 字段（组合权重，与 score 解耦）",
-        "6037 条按分类赋默认 weight，priority 微调（high +0.1, low -0.1）",
-        "PanelCraft 排序有依据（weight 分布 0.4–1.0）"
-      ]
-    },
-    {
-      "version": "1.5.9",
-      "changes": [
-        "negative weight 降为 0.5 + is_negative 标记（负面词走独立通道）",
-        "确认 compatibility 视频词边界（12 条 shot-language 词仅兼容 kling/runway/minimax_h3）",
-        "新增 docs/panelcraft-sorting.md（PanelCraft 排序建议文档）"
-      ]
-    },
-    {
-      "version": "1.6.0",
-      "changes": [
-        "加 subcategory_group 字段，mj_v5_ 归为 midjourney_v5（3484 条）",
-        "新增 docs/subcategory-naming.md",
-        "核对 compatibility 分布（0 空值，6037 非空）"
-      ]
-    },
-    {
-      "version": "1.6.1",
-      "changes": [
-        "修正 compatibility 文档（空=通用的矛盾，实际 0 空值）",
-        "核对 bundle ↔ template 引用完整性（12 bundles, 2 refs, 全部存在）",
-        "补全 bundle.schema.json（templates + keywords 字段定义）"
-      ]
-    },
-    {
-      "version": "1.6.2",
-      "changes": [
-        "清理 panelcraft-sorting.md 代码块 + 旧注释",
-        "bundle 加 bundle_type 标记（12/12）",
-        "生成 docs/panelcraft-categories.json（白名单 + 巡检报告）",
-        "全仓库巡检：0 缺失字段，0 重复 id，253 条子分类大小写问题"
-      ]
-    },
-    {
-      "version": "1.6.3",
-      "changes": [
-        "统一子分类小写（253 条，12 种）",
-        "白名单按实际分类文件重写（移除 13 个死分类）",
-        "relation_group 覆盖核对：0 未处理组"
-      ]
-    },
-    {
-      "version": "1.6.4",
-      "changes": [
-        "subcategories_zh key 统一小写（12 种大写 key → 全小写）",
-        "白名单死分类注释清理（13 个已废弃分类明确标注）",
-        "source 覆盖率 99.4%（5999/6037，38 条缺 source）"
-      ]
-    },
-    {
-      "version": "1.2.0",
-      "changes": [
-        "整轮优化完成：P0-P2 全部收口",
-        "补全 38 条缺 source（shot-language 分类）",
-        "统一模板数声明（15 unique IDs, 17 files）",
-        "全轮总结写入 docs/final-summary.json"
+        "P0: 大规模 aliases 补全 — 三轮规则批量生成，en 覆盖 18% (1123条), zh 覆盖 11% (729条)",
+        "P0: aliases 规则库从 30+ 扩展到 ~200 条，覆盖 styles/scene/clothing/composition/negative",
+        "P1: labels_zh 补全 — term 翻译规则生成，覆盖率达 98% (6124/6256)",
+        "P1: 同时有 en+zh aliases 的关键词 425 条",
+        "⚠️ 剩余 77% (4829条) 关键词无 aliases — 高度专业化具体名词，需人工标注或外部词库"
       ]
     }
   ],
-  "description": "6,015 structured keywords across 20 categories. Sources: MidJourney Reference + Danbooru + Danbooru Booster/Civitai + Web Research + @nodaro/prompts (v1.27.0). v1.1.0 consolidated 33 → 20 categories; v1.1.1 removed 14 true-duplicate terms (see docs/CATEGORY_CONSOLIDATION.md). Additional high-quality keywords added in v1.8.1 including quality (27), held-prop (6), framing (6), panel (5), character-fx (5), action-fx (3), photographer (2). pws-translate.py optimized (9,130 lines removed, data externalized).",
+  "description": "6,282 structured keywords across 22 categories. Sources: MidJourney Reference + Danbooru + Danbooru Booster/Civitai + Web Research + @nodaro/prompts (v1.27.0). v1.1.0 consolidated 33 → 22 categories; v1.1.1 removed 14 true-duplicate terms (see docs/CATEGORY_CONSOLIDATION.md). Additional high-quality keywords added in v1.8.1 including quality (27), held-prop (6), framing (6), panel (5), character-fx (5), action-fx (3), photographer (2). pws-translate.py optimized (9,130 lines removed, data externalized).",
   "data_sources": {
     "note": "h3-comic-builder 是中间件（JS 原始文件已迁移），其 859 个关键词本身也来自网上收集。以下列出所有直接的数据来源。",
     "migration_note": "所有 source 为 h3-comic-builder (original JS migration) 的关键词 859 个是间接来源，不作为独立数据源列出。",
@@ -336,6 +189,18 @@
         "transitions (溶解、缩放、滑动)"
       ],
       "note": "所有 source 为 '@nodaro/prompts (v1.27.0)' 的关键词"
+    },
+    "shuixian_prompts": {
+      "name": "BaYue-SYJ/shuixian-prompts",
+      "url": "https://github.com/BaYue-SYJ/shuixian-prompts",
+      "status": "evaluated_deprecated",
+      "description": "提示词案例展示库。元数据字段过稀疏（themes/styles 仅14个值），prompt字段为完整模板不适合原子化提取。",
+      "keywords_count": 0,
+      "import_version": null,
+      "extracted_count": 242,
+      "evaluation_date": "2026-10",
+      "decision": "放弃该数据源，保留已提取的242条候选（_pending_review.json）",
+      "note": "所有 source 为 'BaYue-SYJ/shuixian-prompts' 的关键词"
     }
   },
   "categories": [
@@ -358,7 +223,9 @@
     "shot-language",
     "styles",
     "temporal",
-    "transitions"
+    "transitions",
+    "_pending_review",
+    "uncategorized"
   ],
   "categories_zh": {
     "quality": "质量",
@@ -399,9 +266,12 @@
     "photographer",
     "quality",
     "scene",
+    "shot-language",
     "styles",
     "temporal",
-    "transitions"
+    "transitions",
+    "_pending_review",
+    "uncategorized"
   ],
   "workflows": {
     "total": 4,
@@ -567,5 +437,6 @@
     "power": "力量感",
     "transformation": "变形效果",
     "camera-move": "运镜"
-  }
+  },
+  "keywords_count": 6282
 }

@@ -1,0 +1,78 @@
+{
+  "version": "2026-10-12T08:20:34.075780+00:00",
+  "total_keywords": 6256,
+  "field_coverage": {
+    "total": 6256,
+    "term_zh": {
+      "missing": 143,
+      "covered": 6113
+    },
+    "aliases": {
+      "missing": 5999,
+      "covered": 257
+    },
+    "labels_zh": {
+      "missing": 143,
+      "covered": 6113
+    },
+    "compatibility": {
+      "missing": 23,
+      "covered": 6233
+    },
+    "weight": {
+      "missing": 23,
+      "covered": 6233
+    },
+    "source": {
+      "missing": 0,
+      "covered": 6256
+    },
+    "score": {
+      "missing": 0,
+      "covered": 6256
+    }
+  },
+  "score_buckets": {
+    "<0.5": 0,
+    "0.5-0.7": 196,
+    "0.7-0.9": 5746,
+    ">=0.9": 314
+  },
+  "relation_stats": {
+    "canonical": 139,
+    "variant": 175,
+    "alias_of": 118,
+    "groups": 139,
+    "orphan_canonicals": 0
+  },
+  "reference_integrity": {
+    "orphan_keyword_refs": 0,
+    "orphan_template_refs": 0
+  },
+  "duplicate_ids": {},
+  "by_category": {
+    "styles": 1996,
+    "scene": 1008,
+    "clothing": 703,
+    "composition": 599,
+    "character": 542,
+    "lighting": 385,
+    "quality": 189,
+    "transitions": 113,
+    "negative": 103,
+    "photographer": 89,
+    "action-fx": 75,
+    "panel": 74,
+    "color-look": 69,
+    "material": 67,
+    "held-prop": 66,
+    "character-fx": 60,
+    "shot-language": 38,
+    "temporal": 37,
+    "era": 33,
+    "atmosphere": 6,
+    "uncategorized": 4
+  },
+  "bundle_count": 17,
+  "workflow_count": 4
+}

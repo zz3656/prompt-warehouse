@@ -1,0 +1,212 @@
+[
+  {
+    "id": "mj_mj_v5_nature_atmosphere",
+    "term": "Atmosphere",
+    "category": "atmosphere",
+    "subcategory": "sky",
+    "labels": [
+      "mj_v5_nature",
+      "atmosphere",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:10.017248+00:00",
+    "updated_at": "2026-09-28T15:15:10.017249+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Nature_and_Animals",
+    "term_zh": "氛围",
+    "labels_zh": [
+      "场景",
+      "自然",
+      "氛围",
+      "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.55
+  },
+  {
+    "id": "mj_mj_v5_nature_aurora",
+    "term": "Aurora",
+    "category": "atmosphere",
+    "subcategory": "sky",
+    "labels": [
+      "mj_v5_nature",
+      "aurora",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:10.017254+00:00",
+    "updated_at": "2026-09-28T15:15:10.017255+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Nature_and_Animals",
+    "term_zh": "极光",
+    "labels_zh": [
+      "场景",
+      "自然",
+      "极光",
+      "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "aurora",
+    "relation_role": "canonical",
+    "weight": 0.55
+  },
+  {
+    "id": "mj_mj_v5_nature_aurora_australis",
+    "term": "Aurora Australis",
+    "category": "atmosphere",
+    "subcategory": "sky",
+    "labels": [
+      "mj_v5_nature",
+      "aurora",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:10.017266+00:00",
+    "updated_at": "2026-09-28T15:15:10.017267+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Nature_and_Animals",
+    "term_zh": "南极光",
+    "labels_zh": [
+      "场景",
+      "自然",
+      "南极光",
+      "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.55
+  },
+  {
+    "id": "mj_mj_v5_nature_aurora_borealis",
+    "term": "Aurora Borealis",
+    "category": "atmosphere",
+    "subcategory": "sky",
+    "labels": [
+      "mj_v5_nature",
+      "aurora",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:10.017274+00:00",
+    "updated_at": "2026-09-28T15:15:10.017275+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Nature_and_Animals",
+    "term_zh": "北极光",
+    "labels_zh": [
+      "场景",
+      "自然",
+      "北极光",
+      "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "aurora borealis",
+    "relation_role": "canonical",
+    "weight": 0.55
+  },
+  {
+    "id": "mj_mj_v5_nature_aurorae",
+    "term": "Aurorae",
+    "category": "atmosphere",
+    "subcategory": "sky",
+    "labels": [
+      "mj_v5_nature",
+      "aurorae",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:10.017283+00:00",
+    "updated_at": "2026-09-28T15:15:10.017284+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Nature_and_Animals",
+    "term_zh": "极光",
+    "labels_zh": [
+      "场景",
+      "自然",
+      "极光",
+      "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "aurorae",
+    "relation_role": "canonical",
+    "weight": 0.55
+  },
+  {
+    "id": "mj_mj_v5_nature_auroral_light",
+    "term": "Auroral Light",
+    "category": "atmosphere",
+    "subcategory": "sky",
+    "labels": [
+      "mj_v5_nature",
+      "auroral",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "scene"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:10.017291+00:00",
+    "updated_at": "2026-09-28T15:15:10.017292+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Nature_and_Animals",
+    "term_zh": "极光",
+    "labels_zh": [
+      "场景",
+      "自然",
+      "极光",
+      "mj"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.55
+  }
+]

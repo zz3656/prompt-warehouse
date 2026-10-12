@@ -127,7 +127,16 @@
       "force_include": true
     }
   ],
-  "templates": [],
+  "templates": [
+    {
+      "template_id": "character.reference_description",
+      "variant_id": "single_reference"
+    },
+    {
+      "template_id": "camera.shot_type",
+      "variant_id": "camera.shot_type.closeup"
+    }
+  ],
   "prompt_text": "masterpiece, best quality, high quality, highly detailed, detailed, sharp focus, anime style, cel shading, detailed anime style, light novel illustration, half body, portrait, bright eyes, long eyelashes, long hair, wavy hair, backlight, dramatic chiaroscuro",
   "prompt_text_zh": "杰作，最高质量，高质量，高细节，高细节，清晰聚焦，动漫风格，赛璐珞上色，精细动漫风格，轻小说插画，半身材，肖像，明亮的眼睛，长睫毛，长卷发，逆光，戏剧性明暗对照",
   "example": {
@@ -152,5 +161,14 @@
   "notes": "This bundle is optimized for anime/manga character art. Key differentiators: cel_shading (weight 0.95) and anime_style (weight 0.95) form the base. Half body (0.85) and portrait (0.9) provide the framing. Bright eyes (0.9) and long eyelashes (0.85) are signature anime features. Negative prompt includes anatomy_deformed for cleaner character outputs. Note: no exact 'delicate features' or 'hime cut' keywords exist; closest is 'delicate_lips' (0.8).",
   "created_at": "2026-10-06T18:30:00+00:00",
   "updated_at": "2026-10-06T18:30:00+00:00",
-  "bundle_type": "keywords_only"
+  "bundle_type": "keywords_only",
+  "keyword_count": 24,
+  "keyword_categories": [
+    "character",
+    "composition",
+    "lighting",
+    "negative",
+    "quality",
+    "styles"
+  ]
 }

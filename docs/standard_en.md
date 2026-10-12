@@ -1,6 +1,6 @@
 # Prompt Warehouse Standard Specification
 
-> **pws v1.0** — Prompt Warehouse Standard
+> **pws v1.0.0** — Prompt Warehouse Standard
 >
 > A unified, language-agnostic standard for organizing, versioning, and sharing
 > AI generation prompts across projects. Designed for comic/manga prompt generation
@@ -597,8 +597,8 @@ var QUALITY = {
 
 ### Phase 2: Migration
 - [x] Create migration script from `.js` files to JSON
-- [x] Run migration on h3-comic-builder data (6,015 keywords)
-- [x] Validate all 6,015 keywords are preserved
+- [x] Run migration on h3-comic-builder data (6,256 keywords)
+- [x] Validate all 6,256 keywords are preserved
 - [x] Update admin backend to serve JSON instead of parsing `.js` files
 
 ### Phase 3: Tooling

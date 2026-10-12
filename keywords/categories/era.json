@@ -5,29 +5,27 @@
     "category": "era",
     "subcategory": "decade-20c",
     "labels": [
-      "1920s-flapper"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "1920s-flapper",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Jazz-age speakeasy glamour. Prompt hint: set in the 1920s flapper era — beaded drop-waist dresses, finger waves, feathered headbands and long pearl ropes in smoky speakeasies, with sepia-toned silver-rich monochrome and soft halation",
-    "term_zh": "1920年代轻佻女郎时代 — 串珠低腰连衣裙",
     "labels_zh": [
-      "时代",
+      "nodaro",
       "二十世纪",
-      "nodaro"
+      "时代"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "1920年代轻佻女郎时代 — 串珠低腰连衣裙"
   },
   {
     "id": "era_decade_20c_1930s_art_deco",
@@ -35,29 +33,31 @@
     "category": "era",
     "subcategory": "decade-20c",
     "labels": [
-      "1930s-art-deco"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "1930s-art-deco",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Streamlined deco glamour. Prompt hint: set in the 1930s art-deco era — bias-cut satin gowns, wide pinstripe suits and chrome geometric interiors, with dramatic theatrical key light and a polished black-and-white tonality",
-    "term_zh": "1930年代装饰艺术 — 斜裁缎子礼服",
     "labels_zh": [
-      "时代",
+      "nodaro",
       "二十世纪",
-      "nodaro"
+      "时代"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "1930年代装饰艺术 — 斜裁缎子礼服",
+    "aliases_zh": [
+      "art deco style",
+      "geometric pattern"
+    ]
   },
   {
     "id": "era_decade_20c_1940s_wartime",
@@ -65,29 +65,27 @@
     "category": "era",
     "subcategory": "decade-20c",
     "labels": [
-      "1940s-wartime"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "1940s-wartime",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Wartime utility and victory rolls. Prompt hint: set in the 1940s wartime era — utility dresses, victory rolls, seamed stockings and military uniforms in train stations and home-front kitchens, with warm sepia tones and gentle film grain",
-    "term_zh": "1940年代战时 — 实用连衣裙",
     "labels_zh": [
-      "时代",
+      "nodaro",
       "二十世纪",
-      "nodaro"
+      "时代"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "1940年代战时 — 实用连衣裙"
   },
   {
     "id": "era_decade_20c_1960s_mod",
@@ -95,32 +93,30 @@
     "category": "era",
     "subcategory": "decade-20c",
     "labels": [
-      "1960s-mod"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "1960s-mod",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Swinging-London mod graphic. Prompt hint: set in the 1960s mod era — geometric A-line dresses, op-art prints, white go-go boots and graphic eyeliner on mini-skirted Carnaby Street, with crisp graphic color and bright daylight",
-    "term_zh": "1960 年代摩登 — 几何 A 字裙",
     "labels_zh": [
-      "时代",
-      "二十世纪",
       "1960",
-      "年代摩登",
+      "nodaro",
+      "二十世纪",
       "几何",
-      "nodaro"
+      "年代摩登",
+      "时代"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "1960 年代摩登 — 几何 A 字裙"
   },
   {
     "id": "era_decade_20c_1970s_disco",
@@ -128,29 +124,27 @@
     "category": "era",
     "subcategory": "decade-20c",
     "labels": [
-      "1970s-disco"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "1970s-disco",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Studio-54 mirror-ball glitter. Prompt hint: set in the 1970s disco era — sequined jumpsuits, wide-collar shirts, flares and feathered hair in mirror-ball nightclubs, with hot strobe-saturated color and lens-flared neon",
-    "term_zh": "1970年代迪斯科 — 亮片连体衣",
     "labels_zh": [
-      "时代",
+      "nodaro",
       "二十世纪",
-      "nodaro"
+      "时代"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "1970年代迪斯科 — 亮片连体衣"
   },
   {
     "id": "era_decade_20c_1980s_neon",
@@ -158,31 +152,29 @@
     "category": "era",
     "subcategory": "decade-20c",
     "labels": [
-      "1980s-neon"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "1980s-neon",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Power-suit MTV neon excess. Prompt hint: set in the 1980s neon era — power-shoulder blazers, leg warmers, perms and bright neon eye shadow under hard pink-and-blue gels, with chromatic-aberration neon color and grain",
-    "term_zh": "1980 年代霓虹 — 强肩西装外套",
     "labels_zh": [
-      "时代",
-      "二十世纪",
       "1980",
+      "nodaro",
+      "二十世纪",
       "年代霓虹",
-      "nodaro"
+      "时代"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "1980 年代霓虹 — 强肩西装外套"
   },
   {
     "id": "era_pre_modern_medieval",
@@ -190,30 +182,28 @@
     "category": "era",
     "subcategory": "pre-modern",
     "labels": [
-      "medieval"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "medieval",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Stone-castle European Middle Ages. Prompt hint: set in the medieval era — heavy linen tunics, woolen cloaks, leather belts and chain-mail in candlelit stone halls and muddy villages, with smoky firelight color and earthen pigment",
-    "term_zh": "中世纪 — 厚重亚麻束腰外衣",
     "labels_zh": [
-      "时代",
-      "前现代",
+      "nodaro",
       "中世纪",
-      "nodaro"
+      "前现代",
+      "时代"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "中世纪 — 厚重亚麻束腰外衣"
   },
   {
     "id": "era_pre_modern_renaissance",
@@ -221,30 +211,28 @@
     "category": "era",
     "subcategory": "pre-modern",
     "labels": [
-      "renaissance"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "renaissance",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Florentine velvet-and-fresco grandeur. Prompt hint: set in the Renaissance era — velvet doublets, brocade gowns, pearl headdresses and fresco-painted halls, with chiaroscuro candle light and rich oil-painting color",
-    "term_zh": "文艺复兴 — 天鹅绒紧身上衣",
     "labels_zh": [
-      "时代",
+      "nodaro",
       "前现代",
       "文艺复兴",
-      "nodaro"
+      "时代"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "文艺复兴 — 天鹅绒紧身上衣"
   },
   {
     "id": "era_pre_modern_victorian",
@@ -252,30 +240,28 @@
     "category": "era",
     "subcategory": "pre-modern",
     "labels": [
-      "victorian"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "victorian",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Gaslit corseted-and-lace 19th-century. Prompt hint: set in the Victorian era — corseted bustled gowns, top hats, lace gloves and pocket watches on cobbled gaslit London streets, with sepia-toned monochrome and dense atmospheric fog",
-    "term_zh": "维多利亚 — 紧身胸衣撑裙礼服",
     "labels_zh": [
-      "时代",
+      "nodaro",
       "前现代",
-      "维多利亚",
-      "nodaro"
+      "时代",
+      "维多利亚"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "维多利亚 — 紧身胸衣撑裙礼服"
   },
   {
     "id": "era_pre_modern_edwardian",
@@ -283,31 +269,32 @@
     "category": "era",
     "subcategory": "pre-modern",
     "labels": [
-      "edwardian"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "edwardian",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Belle-epoque tea-garden refinement. Prompt hint: set in the Edwardian era — high-collared tea dresses, parasols, three-piece suits and pocket squares in manicured tea gardens, with soft warm afternoon light and gentle pastel color",
-    "term_zh": "爱德华 — 高领茶服",
     "labels_zh": [
-      "时代",
+      "nodaro",
       "前现代",
+      "时代",
       "爱德华",
-      "高领茶服",
-      "nodaro"
+      "高领茶服"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "爱德华 — 高领茶服",
+    "aliases": [
+      "crimson red"
+    ]
   },
   {
     "id": "era_pre_modern_wild_west",
@@ -315,30 +302,28 @@
     "category": "era",
     "subcategory": "pre-modern",
     "labels": [
-      "wild-west"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "wild-west",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Sun-baked frontier-cowboy Americana. Prompt hint: set in the Wild West era — leather dusters, wide-brim hats, prairie dresses and tin-stars on dusty saloon porches and red-rock canyons, with hot orange-and-teal grading and sun-bleached grain",
-    "term_zh": "西部荒野",
     "labels_zh": [
-      "时代",
+      "nodaro",
       "前现代",
-      "西部荒野",
-      "nodaro"
+      "时代",
+      "西部荒野"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "西部荒野"
   },
   {
     "id": "era_pre_modern_ancient_rome",
@@ -346,30 +331,28 @@
     "category": "era",
     "subcategory": "pre-modern",
     "labels": [
-      "ancient-rome"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "ancient-rome",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Marble-columned imperial Rome. Prompt hint: set in ancient Rome — draped togas, leather sandals, gilded laurel wreaths and bronze armor among marble columns and frescoed villas, with warm Mediterranean sun and umber-and-ochre color",
-    "term_zh": "古罗马 — 披挂托加袍",
     "labels_zh": [
-      "时代",
+      "nodaro",
       "前现代",
       "古罗马",
-      "nodaro"
+      "时代"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "古罗马 — 披挂托加袍"
   },
   {
     "id": "era_pre_modern_ancient_egypt",
@@ -377,30 +360,28 @@
     "category": "era",
     "subcategory": "pre-modern",
     "labels": [
-      "ancient-egypt"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "ancient-egypt",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Pharaonic gold-and-linen Nile. Prompt hint: set in ancient Egypt — pleated linen kalasiris, gold collars, kohl eyeliner and uraeus crowns beside sandstone temples and Nile reeds, with hot sand-yellow color and crisp midday shadows",
-    "term_zh": "古埃及",
     "labels_zh": [
-      "时代",
+      "nodaro",
       "前现代",
       "古埃及",
-      "nodaro"
+      "时代"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "古埃及"
   },
   {
     "id": "era_pre_modern_feudal_japan",
@@ -408,31 +389,32 @@
     "category": "era",
     "subcategory": "pre-modern",
     "labels": [
-      "feudal-japan"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "feudal-japan",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Edo-period samurai-and-geisha. Prompt hint: set in feudal Japan — layered kimono, wooden geta, samurai armor and paper lanterns in shoji-screened tea houses and snowy castle courtyards, with cool ink-wash color and quiet fog",
-    "term_zh": "日本封建 — 多层和服",
     "labels_zh": [
-      "时代",
+      "nodaro",
       "前现代",
-      "日本封建",
       "多层和服",
-      "nodaro"
+      "日本封建",
+      "时代"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "日本封建 — 多层和服",
+    "aliases": [
+      "crimson red"
+    ]
   },
   {
     "id": "era_speculative_near_future",
@@ -440,30 +422,28 @@
     "category": "era",
     "subcategory": "speculative",
     "labels": [
-      "near-future"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "near-future",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Plausible 5-to-15-years-ahead. Prompt hint: set in a plausible near-future — minimalist technical fabrics, slim AR earpieces and clean modular interiors with subtle ambient-screen glow, with cool desaturated color and crisp digital clarity",
-    "term_zh": "近未来 — 极简技术面料",
     "labels_zh": [
-      "时代",
+      "nodaro",
       "推测",
-      "近未来",
-      "nodaro"
+      "时代",
+      "近未来"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "近未来 — 极简技术面料"
   },
   {
     "id": "era_speculative_far_future",
@@ -471,29 +451,27 @@
     "category": "era",
     "subcategory": "speculative",
     "labels": [
-      "far-future"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "far-future",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Centuries-ahead spacefaring. Prompt hint: set in a far-future spacefaring era — sleek bodysuits, exo-skeletons and holographic visors in arcology corridors and starship bridges, with luminous bioplastic color and volumetric LED light",
-    "term_zh": "远未来星际时代 — 流线连体衣",
     "labels_zh": [
-      "时代",
+      "nodaro",
       "推测",
-      "nodaro"
+      "时代"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "远未来星际时代 — 流线连体衣"
   },
   {
     "id": "era_speculative_dieselpunk",
@@ -501,29 +479,27 @@
     "category": "era",
     "subcategory": "speculative",
     "labels": [
-      "dieselpunk"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "dieselpunk",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: 1930s-40s industrial alt-history. Prompt hint: set in a dieselpunk alt-history — riveted leather jackets, brass goggles, military trench coats and oil-stained mechanic boots in soot-blackened industrial cities, with smoky amber-grey color",
-    "term_zh": "柴油朋克替代历史 — 铆钉皮夹克",
     "labels_zh": [
-      "时代",
+      "nodaro",
       "推测",
-      "nodaro"
+      "时代"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "柴油朋克替代历史 — 铆钉皮夹克"
   },
   {
     "id": "era_speculative_atompunk",
@@ -531,32 +507,30 @@
     "category": "era",
     "subcategory": "speculative",
     "labels": [
-      "atompunk"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "atompunk",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: 1950s-future space-age optimism. Prompt hint: set in an atompunk 1950s-future — chrome-finned dresses, ray-gun props, mid-century furniture and tail-finned cars under candy-pastel skies, with clean Technicolor saturation",
-    "term_zh": "原子朋克 1950 年代未来 — 铬鳍连衣裙",
     "labels_zh": [
-      "时代",
-      "推测",
-      "原子朋克",
       "1950",
+      "nodaro",
+      "原子朋克",
       "年代未来",
-      "nodaro"
+      "推测",
+      "时代"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "原子朋克 1950 年代未来 — 铬鳍连衣裙"
   },
   {
     "id": "era_speculative_cyberpunk_future",
@@ -564,30 +538,32 @@
     "category": "era",
     "subcategory": "speculative",
     "labels": [
-      "cyberpunk-future"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "cyberpunk-future",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Neon-megacity high-tech low-life. Prompt hint: set in a cyberpunk future — chrome-trimmed jackets, holographic eyewear, mesh tops and cybernetic implants in neon mega-city alleys, with electric magenta-cyan color and rain-soaked reflections",
-    "term_zh": "赛博朋克未来 — 铬饰夹克",
     "labels_zh": [
-      "时代",
+      "nodaro",
       "推测",
-      "铬饰夹克",
-      "nodaro"
+      "时代",
+      "铬饰夹克"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "赛博朋克未来 — 铬饰夹克",
+    "aliases_zh": [
+      "cyberpunk city",
+      "霓虹城市"
+    ]
   },
   {
     "id": "era_speculative_post_apocalyptic",
@@ -595,31 +571,29 @@
     "category": "era",
     "subcategory": "speculative",
     "labels": [
-      "post-apocalyptic"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "post-apocalyptic",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Scavenger wasteland survival. Prompt hint: set in a post-apocalyptic wasteland — patched leather, gas masks, scavenged armor and rust-stained scarves in ruined highways and broken cityscapes, with desaturated dust-orange color and gritty grain",
-    "term_zh": "末日废土 — 补丁皮革",
     "labels_zh": [
-      "时代",
+      "nodaro",
       "推测",
+      "时代",
       "末日废土",
-      "补丁皮革",
-      "nodaro"
+      "补丁皮革"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "末日废土 — 补丁皮革"
   },
   {
     "id": "era_speculative_retrofuturism",
@@ -627,423 +601,420 @@
     "category": "era",
     "subcategory": "speculative",
     "labels": [
-      "retrofuturism"
-    ],
-    "score": 0.85,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "tags": [
+      "retrofuturism",
       "nodaro-prompts"
     ],
+    "score": 0.85,
+    "lifecycle": "approved",
     "source": "@nodaro/prompts (v1.27.0)",
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Yesterday's tomorrow nostalgia. Prompt hint: set in a retrofuturist tomorrow — silver lame jumpsuits, bubble helmets, aerodynamic furniture and analog spaceport interiors, with optimistic Technicolor saturation and chrome-bright highlights",
-    "term_zh": "复古未来明日 — 银色拉梅连体衣",
     "labels_zh": [
-      "时代",
+      "nodaro",
       "推测",
-      "nodaro"
+      "时代"
     ],
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "复古未来明日 — 银色拉梅连体衣",
+    "aliases": [
+      "metallic silver"
+    ]
   },
   {
     "id": "era_decade_futuristic_neon",
     "term": "neon-noir futuristic cityscape",
-    "term_zh": "霓虹黑色未来主义城市景观",
     "subcategory": "speculative",
     "labels": [
       "futuristic",
       "neon",
       "noir",
-      "cyberpunk"
+      "cyberpunk",
+      "cityscape",
+      "night"
     ],
     "labels_zh": [
       "时代",
       "未来主义",
-      "霓虹",
-      "赛博朋克"
+      "赛博朋克",
+      "霓虹"
     ],
     "score": 0.85,
-    "priority": "high",
     "lifecycle": "approved",
     "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
-      "cityscape",
-      "night"
-    ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
     "category": "era",
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.65
+    "weight": 0.65,
+    "score_v2": 0.65,
+    "term_zh": "霓虹黑色未来主义城市景观",
+    "aliases": [
+      "urban landscape"
+    ]
   },
   {
     "id": "era_decade_vintage_1920s",
     "term": "1920s Art Deco glamour",
-    "term_zh": "1920年代装饰艺术魅力风格",
     "subcategory": "decade-20c",
     "labels": [
       "1920s",
       "art-deco",
       "glamour",
-      "flapper"
+      "flapper",
+      "vintage",
+      "portrait"
     ],
     "labels_zh": [
-      "时代",
       "1920年代",
+      "时代",
       "装饰艺术",
       "魅力"
     ],
     "score": 0.8,
-    "priority": "medium",
     "lifecycle": "approved",
     "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
-      "vintage",
-      "portrait"
-    ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
     "category": "era",
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "1920年代装饰艺术魅力风格",
+    "aliases_zh": [
+      "art deco style",
+      "geometric pattern"
+    ]
   },
   {
     "id": "era_decade_vintage_1970s",
     "term": "1970s retro funk aesthetic",
-    "term_zh": "1970年代复古放克美学",
     "subcategory": "decade-20c",
     "labels": [
       "1970s",
       "retro",
       "funk",
-      "groove"
-    ],
-    "labels_zh": [
-      "时代",
-      "1970年代",
-      "复古",
-      "放克"
-    ],
-    "score": 0.75,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
+      "groove",
       "vintage",
       "colorful"
     ],
+    "labels_zh": [
+      "1970年代",
+      "复古",
+      "放克",
+      "时代"
+    ],
+    "score": 0.75,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
     "created_at": "2026-10-05T21:59:50.647041+00:00",
     "category": "era",
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "1970年代复古放克美学"
   },
   {
     "id": "era_decade_vintage_1980s_synth",
     "term": "1980s synthwave aesthetic",
-    "term_zh": "1980年代合成波美学",
     "subcategory": "decade-20c",
     "labels": [
       "1980s",
       "synthwave",
       "retrowave",
-      "neon"
-    ],
-    "labels_zh": [
-      "时代",
-      "1980年代",
-      "合成波",
-      "霓虹"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
+      "neon",
       "vintage",
       "music"
     ],
+    "labels_zh": [
+      "1980年代",
+      "合成波",
+      "时代",
+      "霓虹"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
     "created_at": "2026-10-05T21:59:50.647041+00:00",
     "category": "era",
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.65
+    "weight": 0.65,
+    "score_v2": 0.65,
+    "term_zh": "1980年代合成波美学"
   },
   {
     "id": "era_decade_vintage_1990s",
     "term": "1990s Y2K digital nostalgia",
-    "term_zh": "1990年代Y2K数字怀旧",
     "subcategory": "decade-20c",
     "labels": [
       "1990s",
       "y2k",
       "digital",
-      "nostalgia"
-    ],
-    "labels_zh": [
-      "时代",
-      "1990年代",
-      "Y2K",
-      "数字"
-    ],
-    "score": 0.8,
-    "priority": "high",
-    "lifecycle": "approved",
-    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
+      "nostalgia",
       "vintage",
       "tech"
     ],
+    "labels_zh": [
+      "1990年代",
+      "Y2K",
+      "数字",
+      "时代"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
     "created_at": "2026-10-05T21:59:50.647041+00:00",
     "category": "era",
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.65
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "1990年代Y2K数字怀旧"
   },
   {
     "id": "era_speculative_biopunk",
     "term": "biopunk organic technology",
-    "term_zh": "生物朋克有机科技",
     "subcategory": "speculative",
     "labels": [
       "biopunk",
       "organic",
-      "bio-mechanical"
-    ],
-    "labels_zh": [
-      "时代",
-      "生物朋克",
-      "有机",
-      "生物机械"
-    ],
-    "score": 0.75,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
+      "bio-mechanical",
       "speculative",
       "sci-fi"
     ],
+    "labels_zh": [
+      "时代",
+      "有机",
+      "生物朋克",
+      "生物机械"
+    ],
+    "score": 0.75,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
     "created_at": "2026-10-05T21:59:50.647041+00:00",
     "category": "era",
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.65,
+    "score_v2": 0.65,
+    "term_zh": "生物朋克有机科技"
   },
   {
     "id": "era_speculative_arsenic_age",
     "term": "arsenic age brass mechanism",
-    "term_zh": " arsenic 时代黄铜机械",
     "subcategory": "speculative",
     "labels": [
       "arsenic-age",
       "brass",
       "clockwork",
-      "steampunk"
+      "steampunk",
+      "speculative"
     ],
     "labels_zh": [
-      "时代",
       "亚铅时代",
+      "时代",
       "黄铜",
       "齿轮"
     ],
     "score": 0.75,
-    "priority": "medium",
     "lifecycle": "approved",
     "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
-      "speculative",
-      "steampunk"
-    ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
     "category": "era",
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": " arsenic 时代黄铜机械",
+    "aliases": [
+      "giant robot",
+      "piloted mech"
+    ]
   },
   {
     "id": "era_speculative_solarpunk",
     "term": "solarpunk lush green technology",
-    "term_zh": "太阳能朋克葱郁绿色科技",
     "subcategory": "speculative",
     "labels": [
       "solarpunk",
       "green-tech",
       "utopian",
-      "nature"
-    ],
-    "labels_zh": [
-      "时代",
-      "太阳能朋克",
-      "绿色科技",
-      "乌托邦"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
+      "nature",
       "speculative",
       "eco"
     ],
+    "labels_zh": [
+      "乌托邦",
+      "太阳能朋克",
+      "时代",
+      "绿色科技"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
     "created_at": "2026-10-05T21:59:50.647041+00:00",
     "category": "era",
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "太阳能朋克葱郁绿色科技",
+    "aliases": [
+      "emerald green",
+      "forest green"
+    ]
   },
   {
     "id": "era_speculative_cottagecore",
     "term": "cottagecore pastoral whimsy",
-    "term_zh": "乡村田园田园奇幻",
     "subcategory": "speculative",
     "labels": [
       "cottagecore",
       "pastoral",
       "whimsical",
-      "rustic"
+      "rustic",
+      "aesthetic",
+      "popular"
     ],
     "labels_zh": [
-      "时代",
       "乡村风",
+      "时代",
       "田园",
       "田园诗"
     ],
     "score": 0.8,
-    "priority": "high",
     "lifecycle": "approved",
     "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
-      "aesthetic",
-      "popular"
-    ],
     "created_at": "2026-10-05T21:59:50.647041+00:00",
     "category": "era",
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.65
+    "weight": 0.65,
+    "score_v2": 0.65,
+    "term_zh": "乡村田园田园奇幻"
   },
   {
     "id": "era_speculative_goblincore",
     "term": "goblincore muddy enchanted",
-    "term_zh": "地精哥布林沼泽奇幻",
     "subcategory": "speculative",
     "labels": [
       "goblincore",
       "moss",
       "muddy",
-      "enchanted"
-    ],
-    "labels_zh": [
-      "时代",
-      "地精风",
-      "苔藓",
-      "泥泞"
-    ],
-    "score": 0.7,
-    "priority": "low",
-    "lifecycle": "approved",
-    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
+      "enchanted",
       "aesthetic",
       "niche"
     ],
+    "labels_zh": [
+      "地精风",
+      "时代",
+      "泥泞",
+      "苔藓"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
     "created_at": "2026-10-05T21:59:50.647041+00:00",
     "category": "era",
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.45
+    "weight": 0.65,
+    "score_v2": 0.65,
+    "term_zh": "地精哥布林沼泽奇幻"
   },
   {
     "id": "era_speculative_dark_academia",
     "term": "dark academia gothic library",
-    "term_zh": "暗黑学院哥特图书馆",
     "subcategory": "speculative",
     "labels": [
       "dark-academia",
       "gothic",
       "library",
-      "scholarly"
-    ],
-    "labels_zh": [
-      "时代",
-      "暗黑学院",
-      "哥特",
-      "学术"
-    ],
-    "score": 0.85,
-    "priority": "high",
-    "lifecycle": "approved",
-    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
+      "scholarly",
       "aesthetic",
       "popular"
     ],
+    "labels_zh": [
+      "哥特",
+      "学术",
+      "时代",
+      "暗黑学院"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
     "created_at": "2026-10-05T21:59:50.647041+00:00",
     "category": "era",
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.65
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "暗黑学院哥特图书馆",
+    "aliases_zh": [
+      "黑色调"
+    ]
   },
   {
     "id": "era_pre_modern_byzantine",
     "term": "Byzantine mosaic gold leaf",
-    "term_zh": "拜占庭马赛克金箔",
     "subcategory": "pre-modern",
     "labels": [
       "byzantine",
       "mosaic",
       "gold-leaf",
-      "ornate"
-    ],
-    "labels_zh": [
-      "时代",
-      "拜占庭",
-      "马赛克",
-      "金箔"
-    ],
-    "score": 0.8,
-    "priority": "medium",
-    "lifecycle": "approved",
-    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
-    "tags": [
+      "ornate",
       "historical",
       "religion"
     ],
+    "labels_zh": [
+      "拜占庭",
+      "时代",
+      "金箔",
+      "马赛克"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
     "created_at": "2026-10-05T21:59:50.647041+00:00",
     "category": "era",
     "compatibility": [
       "sdxl",
       "midjourney"
     ],
-    "weight": 0.55
+    "weight": 0.69,
+    "score_v2": 0.69,
+    "term_zh": "拜占庭马赛克金箔",
+    "aliases": [
+      "tiled mosaic artwork"
+    ]
   }
 ]

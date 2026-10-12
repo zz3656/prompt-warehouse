@@ -4,7 +4,7 @@
 
 > **pws v1.0** | **Data v1.2.0** | [简体中文](README.md) | **English**
 >
-> **Current data version**: v1.2.0 (6,037 keywords · 20 categories · 156 subcategories · **100% term_zh coverage**)
+| **Current data version**: v1.2.0 (6,282 keywords · 22 categories · 167 subcategories · **100% term_zh coverage**)
 >
 > **Repository**: https://github.com/zz3656/prompt-warehouse
 > **License**: MIT
@@ -45,11 +45,8 @@ The Prompt Warehouse Standard (PWS) is a JSON-based specification for managing A
 | Feature | Description |
 |---------|-------------|
 | **Structured Keywords** | Every keyword is a rich object with metadata — score, priority, lifecycle, usage stats |
-| **Category Taxonomy** | 20 top-level categories with nested subcategories (quality, character, clothing, styles, etc.) |
+|| **Category Taxonomy** | 22 top-level categories with nested subcategories (quality, character, clothing, styles, etc.) |
 | **Template Engine** | Mustache-like syntax with conditionals (`{{#if}}`), iteration (`{{#each}}`), and helpers |
-| **Project Configs** | Per-project JSON configs that enable/disable categories and templates |
-| **Snapshot System** | Export snapshots with full context for tracking generations |
-| **Migration Ready** | Built-in migration path from legacy `.js` files |
 | **Multi-Language** | Keywords and templates support EN / ZH / JA labels |
 
 ---
@@ -61,7 +58,6 @@ prompt-warehouse/
 ├── schema/                     # JSON Schema definitions (machine-readable)
 │   ├── keyword.schema.json     # Keyword data structure
 │   ├── template.schema.json    # Template data structure
-│   └── project.schema.json     # Project config structure
 ├── keywords/                   # Keyword dictionary ("database")
 │   ├── _meta.json              # Global metadata + version info
 │   └── categories/             # One file per top-level category
@@ -74,11 +70,8 @@ prompt-warehouse/
 │       ├── negative.json       # Negative prompts
 │       ├── scene.json          # Scene & environment
 │       └── panel.json          # Panel-specific effects
-├── templates/                  # Prompt templates
-│   ├── _meta.json              # Template metadata
-│   └── _legacy_all_templates.json  # All templates (raw data)
 ├── bundles/                    # Bundle configs
-│   └── *.json                  # 12 bundles with keyword lists + template refs
+│   └── *.json                  # 17 bundles with keyword lists + template refs
 └── docs/standard_en.md              # Full specification
 ```
 
@@ -111,15 +104,7 @@ Templates support variable substitution. The `_legacy_all_templates.json` file c
   "variables": ["gender", "age", "hair_color", "hair_style", "eye_color", "skin_tone"],
   "example_output": "girl 16 years old white long hair blue eyes fair skin"
 }
-```
-
-### 3. Configure a Project
-
-Edit a project config to enable/disable categories and templates:
-
-```bash
-cat projects/h3-comic-builder.json
-```
+}```
 
 ---
 
@@ -181,29 +166,16 @@ Every keyword is a structured JSON object with rich metadata:
 | Scene | `scene` | Scene and environment |
 | Panel | `panel` | Panel-specific effects |
 | Action FX | `action-fx` | Action and special effects (disasters, fire, combat, magic) |
-| Aesthetic | `aesthetic` | Y2K, dark academia, cottagecore etc. |
 | Atmosphere | `atmosphere` | Fog, rain, particles, divine light |
-| Backdrop | `backdrop` | Solid color, gradient, texture backgrounds |
-| Camera Format | `camera-format` | IMAX, cinematic widescreen etc. |
-| Camera Motions | `camera-motions` | Push, pull, pan, tilt, track |
 | Character FX | `character-fx` | Werewolves, vampires, cyborgs etc. |
 | Color Look | `color-look` | Warm, cool, film emulation etc. |
 | Era | `era` | Medieval, Victorian, cyberpunk etc. |
-| Framing | `framing` | Close-up, medium shot, full shot etc. |
 | Held Prop | `held-prop` | Weapons and props |
-| Lens | `lens` | 14mm-400mm |
 | Material | `material` | Fabric, metal, stone, wood etc. |
-| Mood | `mood` | Emotions and moods |
-| Photo Genre | `photo-genre` | Fashion, documentary, passport photos etc. |
 | Photographer | `photographer` | Ansel Adams, Annie Leibovitz etc. |
-| Pose | `pose` | Standing, sitting, walking etc. |
-| Post-Process | `post-process` | Vignette, film grain, chromatic aberration etc. |
-| Render Quality | `render-quality` | Unreal 5, Octane, Cycles etc. |
-| Setting | `setting` | Indoor, city, nature, fantasy |
-| Style | `style` | 3D render, anime, watercolor etc. |
+| Shot Language | `shot-language` | Shot size, angles, camera movement, coverage |
 | Temporal | `temporal` | Slow-mo, fast-forward, time freeze etc. |
 | Transitions | `transitions` | Dissolve, zoom, slide etc. |
-| Wardrobe | `wardrobe` | Outfit coordination schemes |
 
 ### Subcategory Highlights
 
@@ -353,7 +325,7 @@ The warehouse follows semantic versioning:
 
 Each `_meta.json` tracks version, schema version, and changelog entries.
 
-Current version: **v1.2.0** — 6,037 keywords across 20 categories (**all** 6,037 with Chinese translation, **100%** coverage).
+Current version: **v1.2.0** — 6,282 keywords across 22 categories (**all** 6,282 with Chinese translation, **100%** coverage).
 
 ---
 
@@ -387,7 +359,7 @@ Keywords and templates support multiple languages:
 | **Phase 1: Schema Definition** | ✅ Complete | 3 JSON schemas defined and validated |
 | **Phase 2: Migration** | ✅ Complete | 6,015 keywords migrated from h3-comic-builder + MJ reference |
 | **Phase 3: Tooling** | ✅ Complete | 13+ CLI tools (indexing, auditing, translation, dedup, Bundle management) |
-| **Phase 4: Sharing** | ✅ Complete | Remote sync, bundle system (12 bundles), template marketplace base |
+|| **Phase 4: Sharing** | ✅ Complete | Remote sync, bundle system (17 bundles), template marketplace base |
 
 ---
 
@@ -423,7 +395,7 @@ MIT License — see [docs/standard_en.md](docs/standard_en.md) for full details.
 - **Project Schema**: [schema/project.schema.json](schema/project.schema.json)
 - **Metadata**: [keywords/_meta.json](keywords/_meta.json)
 - **Data Sources**: see below
-- **Current Stats**: 6,037 keywords · 20 categories · 15 templates · 12 bundles · **6,037 / 6,037** with Chinese translation (100%)
+|- **Current Stats**: 6,282 keywords · 22 categories · 15 templates · 17 bundles · **6,282 / 6,282** with Chinese translation (100%)
 
 ## 📥 Data Sources (Permanent Record)
 

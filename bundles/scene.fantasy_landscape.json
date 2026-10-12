@@ -131,7 +131,16 @@
       "force_include": true
     }
   ],
-  "templates": [],
+  "templates": [
+    {
+      "template_id": "scene.environment",
+      "variant_id": "exterior_landscape"
+    },
+    {
+      "template_id": "color.grading",
+      "variant_id": "fantasy_vibrant"
+    }
+  ],
   "prompt_text": "masterpiece, best quality, highly detailed, high resolution, landscape, cinematic lighting, volumetric lighting, ethereal lighting, godrays, atmospheric haze, depth of field, cinematic, --v 6 --ar 16:9 --style raw",
   "prompt_text_zh": "杰作，最高质量，高细节，高分辨率，风景，电影感照明，体积光，空灵闪电，神光，大气薄雾，景深，电影感",
   "example": {
@@ -157,5 +166,14 @@
   "notes": "This bundle focuses on landscape-specific keywords from the scene and lighting categories. The pre-built prompt_text can be used directly or the keywords array can be used to customize which scene and lighting elements to emphasize.",
   "created_at": "2026-10-06T00:00:00+00:00",
   "updated_at": "2026-10-06T00:00:00+00:00",
-  "bundle_type": "keywords_only"
+  "bundle_type": "keywords_only",
+  "keyword_count": 26,
+  "keyword_categories": [
+    "atmosphere",
+    "composition",
+    "lighting",
+    "negative",
+    "quality",
+    "scene"
+  ]
 }

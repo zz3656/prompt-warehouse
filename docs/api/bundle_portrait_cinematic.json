@@ -1,0 +1,141 @@
+{
+  "id": "portrait.cinematic",
+  "name": "Cinematic Portrait",
+  "name_zh": "电影感人像",
+  "description": "A curated combination of quality, composition, and lighting keywords for cinematic portrait photography.",
+  "description_zh": "精选质量、构图和灯光关键词，生成电影感人像摄影。",
+  "version": "1.0.0",
+  "category": "character",
+  "subcategories": [
+    "portrait",
+    "cinematic"
+  ],
+  "api_targets": [
+    "SDXL",
+    "Midjourney",
+    "Flux"
+  ],
+  "keywords": [
+    {
+      "id": "composition_camera_format_black_and_white_film",
+      "weight": 0.7
+    },
+    {
+      "id": "composition_camera_format_polaroid_instant_film",
+      "weight": 0.7
+    },
+    {
+      "id": "composition_camera_format_shot_on_16mm_film",
+      "weight": 0.7
+    },
+    {
+      "id": "composition_camera_format_shot_on_35mm_film",
+      "weight": 0.7
+    },
+    {
+      "id": "composition_camera_format_shot_on_a_fujifilm_x_t4",
+      "weight": 0.7
+    },
+    {
+      "id": "composition_camera_format_shot_on_a_single_use_disposable_film_cam",
+      "weight": 0.7
+    },
+    {
+      "id": "composition_camera_format_shot_on_fujifilm_instax_instant_film",
+      "weight": 0.7
+    },
+    {
+      "id": "composition_camera_format_shot_on_imax_70mm_film",
+      "weight": 0.7
+    },
+    {
+      "id": "composition_camera_format_super_8mm_film",
+      "weight": 0.7
+    },
+    {
+      "id": "composition_framing_close_up_portrait",
+      "weight": 0.7
+    },
+    {
+      "id": "composition_lens_85mm_portrait_lens",
+      "weight": 0.7
+    },
+    {
+      "id": "composition_lens_petzval_portrait_lens_swirling_bokeh",
+      "weight": 0.7
+    },
+    {
+      "id": "framing_shot_size_half_body",
+      "weight": 0.7
+    },
+    {
+      "id": "lighting_dramatic_cinematic_lighting",
+      "weight": 0.7
+    },
+    {
+      "id": "mj_mj_v5_camera_cinematic",
+      "weight": 0.7
+    },
+    {
+      "id": "quality_advanced_8k_uhd",
+      "weight": 0.85
+    },
+    {
+      "id": "quality_advanced_award_winning",
+      "weight": 0.85
+    },
+    {
+      "id": "quality_advanced_award_winning_illustration",
+      "weight": 0.85
+    },
+    {
+      "id": "quality_advanced_awards_winner",
+      "weight": 0.85
+    },
+    {
+      "id": "quality_advanced_beautiful_composition",
+      "weight": 0.85
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "camera.shot_type",
+      "variant_id": "camera.shot_type.closeup"
+    },
+    {
+      "template_id": "lighting.mood",
+      "variant_id": "dramatic_chiaroscuro"
+    }
+  ],
+  "prompt_text": "masterpiece, best quality, high quality, highly detailed, detailed, sharp focus, anime style, cel shading, detailed anime style, light novel illustration, half body, portrait, bright eyes, long eyelashes, long hair, wavy hair, backlight, dramatic chiaroscuro",
+  "prompt_text_zh": "杰作，最高质量，高质量，高细节，高细节，清晰聚焦，动漫风格，赛璐珞上色，精细动漫风格，轻小说插画，半身材，肖像，明亮的眼睛，长睫毛，长卷发，逆光，戏剧性明暗对照",
+  "example": {
+    "description": "Generate an animesque character portrait of a young woman with long black hair and a determined expression.",
+    "description_zh": "生成一个留着长黑发、表情坚定的年轻女性的动漫风格角色肖像。",
+    "input": {
+      "character": "a young woman with long black wavy hair"
+    },
+    "output": "masterpiece, best quality, high quality, highly detailed, detailed, sharp focus, anime style, cel shading, detailed anime style, light novel illustration, half body, portrait, bright eyes, long eyelashes, long black wavy hair, backlight, dramatic chiaroscuro"
+  },
+  "tags": [
+    "anime",
+    "manga",
+    "character",
+    "cel-shading",
+    "light-novel",
+    "illustration",
+    "portrait"
+  ],
+  "lifecycle": "approved",
+  "score": 0.89,
+  "notes": "This bundle is optimized for anime/manga character art. Key differentiators: cel_shading (weight 0.95) and anime_style (weight 0.95) form the base. Half body (0.85) and portrait (0.9) provide the framing. Bright eyes (0.9) and long eyelashes (0.85) are signature anime features. Negative prompt includes anatomy_deformed for cleaner character outputs. Note: no exact 'delicate features' or 'hime cut' keywords exist; closest is 'delicate_lips' (0.8).",
+  "created_at": "2026-10-06T18:30:00+00:00",
+  "updated_at": "2026-10-06T18:30:00+00:00",
+  "bundle_type": "keywords_only",
+  "keyword_count": 20,
+  "keyword_categories": [
+    "composition",
+    "lighting",
+    "quality"
+  ]
+}

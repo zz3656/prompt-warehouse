@@ -123,7 +123,7 @@ python3 tools/pws-add-new.py batch new_keywords.json --category quality
 
 ## 4. 分类体系参考
 
-当前 20 个分类（`schema/keyword.schema.json` 的 enum）：
+当前 22 个分类（`schema/keyword.schema.json` 的 enum）：
 
 | 分类 | Slug | 当前数量 |
 |------|------|----------|
@@ -180,4 +180,4 @@ python3 tools/pws-stats.py
 
 ---
 
-*最后更新：v1.0.0 · 提示词仓库标准*
+*最后更新：v1.0.0 · 2026-10-12 · 提示词仓库标准*
