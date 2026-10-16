@@ -143,32 +143,32 @@
       "weight": 0.6
     },
     {
-      "id": "negative_quality_low_quality",
+      "id": "quality_negative_low_quality",
       "weight": 0.95,
       "force_include": true
     },
     {
-      "id": "negative_quality_worst_quality",
+      "id": "quality_negative_low_quality",
       "weight": 0.95,
       "force_include": true
     },
     {
-      "id": "negative_quality_bad_quality",
+      "id": "quality_negative_low_quality",
       "weight": 0.95,
       "force_include": true
     },
     {
-      "id": "negative_quality_blurry",
+      "id": "quality_negative_low_quality",
       "weight": 0.95,
       "force_include": true
     },
     {
-      "id": "negative_anatomy_deformed",
+      "id": "quality_negative_low_quality",
       "weight": 0.95,
       "force_include": true
     },
     {
-      "id": "negative_anatomy_disfigured",
+      "id": "quality_negative_low_quality",
       "weight": 0.95,
       "force_include": true
     }

@@ -1,15 +1,105 @@
 {
   "version": "1.0",
-  "total": 18,
+  "total": 23,
   "bundles": [
+    {
+      "id": "negative.anatomy",
+      "name": "Anatomy Negative Keywords",
+      "name_zh": "解剖负面关键词",
+      "description": "Negative prompt keywords focused on anatomy issues. Use as a supplement to negative.basic for more targeted control.",
+      "description_zh": "专注于anatomy问题的负面提示词。作为 negative.basic 的补充，用于更有针对性的控制。",
+      "category": "negative",
+      "keyword_count": 8,
+      "template_count": 0,
+      "api_targets": [
+        "SDXL",
+        "Flux",
+        "Stable Diffusion",
+        "Midjourney",
+        "Custom"
+      ],
+      "bundle_type": null
+    },
     {
       "id": "negative.basic",
       "name": "Basic Negative Prompt",
       "name_zh": "基础负面提示词",
-      "description": "A curated collection of negative prompt keywords for SDXL, Flux, and other image generation models. Covers quality degradation, anatomy errors, composition issues, text artifacts, and common defects. ",
-      "description_zh": "精选的 SDXL、Flux 及其他图像生成模型的负面提示词集合。涵盖质量降级、解剖错误、构图问题、文字伪影和常见缺陷。这是漫画/漫画生成工作流中使用的标准负面提示词配方包。",
-      "category": "quality",
-      "keyword_count": 98,
+      "description": "A curated selection of 20 essential negative prompt keywords that should be included in almost all image generation. Covers quality, anatomy, face, and composition — the most universally effective ant",
+      "description_zh": "精选的20条通用负面提示词，适用于几乎所有图像生成。涵盖质量、解剖、面部和构图——最通用的反模式。",
+      "category": "negative",
+      "keyword_count": 22,
+      "template_count": 0,
+      "api_targets": [
+        "SDXL",
+        "Flux",
+        "Stable Diffusion",
+        "Midjourney",
+        "Custom"
+      ],
+      "bundle_type": null
+    },
+    {
+      "id": "negative.composition",
+      "name": "Composition Negative Keywords",
+      "name_zh": "构图负面关键词",
+      "description": "Negative prompt keywords focused on composition issues. Use as a supplement to negative.basic for more targeted control.",
+      "description_zh": "专注于composition问题的负面提示词。作为 negative.basic 的补充，用于更有针对性的控制。",
+      "category": "negative",
+      "keyword_count": 8,
+      "template_count": 0,
+      "api_targets": [
+        "SDXL",
+        "Flux",
+        "Stable Diffusion",
+        "Midjourney",
+        "Custom"
+      ],
+      "bundle_type": null
+    },
+    {
+      "id": "negative.face",
+      "name": "Face Negative Keywords",
+      "name_zh": "面部负面关键词",
+      "description": "Negative prompt keywords focused on face issues. Use as a supplement to negative.basic for more targeted control.",
+      "description_zh": "专注于face问题的负面提示词。作为 negative.basic 的补充，用于更有针对性的控制。",
+      "category": "negative",
+      "keyword_count": 5,
+      "template_count": 0,
+      "api_targets": [
+        "SDXL",
+        "Flux",
+        "Stable Diffusion",
+        "Midjourney",
+        "Custom"
+      ],
+      "bundle_type": null
+    },
+    {
+      "id": "negative.quality",
+      "name": "Quality Negative Keywords",
+      "name_zh": "质量负面关键词",
+      "description": "Negative prompt keywords focused on quality issues. Use as a supplement to negative.basic for more targeted control.",
+      "description_zh": "专注于quality问题的负面提示词。作为 negative.basic 的补充，用于更有针对性的控制。",
+      "category": "negative",
+      "keyword_count": 8,
+      "template_count": 0,
+      "api_targets": [
+        "SDXL",
+        "Flux",
+        "Stable Diffusion",
+        "Midjourney",
+        "Custom"
+      ],
+      "bundle_type": null
+    },
+    {
+      "id": "negative.styleControl",
+      "name": "Stylecontrol Negative Keywords",
+      "name_zh": "风格控制负面关键词",
+      "description": "Negative prompt keywords focused on styleControl issues. Use as a supplement to negative.basic for more targeted control.",
+      "description_zh": "专注于styleControl问题的负面提示词。作为 negative.basic 的补充，用于更有针对性的控制。",
+      "category": "negative",
+      "keyword_count": 4,
       "template_count": 0,
       "api_targets": [
         "SDXL",

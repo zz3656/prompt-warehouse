@@ -103,12 +103,12 @@
       "weight": 0.85
     },
     {
-      "id": "negative_quality_low_quality",
+      "id": "quality_negative_low_quality",
       "weight": 0.95,
       "force_include": true
     },
     {
-      "id": "negative_quality_blurry",
+      "id": "quality_negative_low_quality",
       "weight": 0.95,
       "force_include": true
     }

@@ -1,0 +1,45 @@
+{
+  "id": "negative.styleControl",
+  "name": "Stylecontrol Negative Keywords",
+  "name_zh": "风格控制负面关键词",
+  "description": "Negative prompt keywords focused on styleControl issues. Use as a supplement to negative.basic for more targeted control.",
+  "description_zh": "专注于styleControl问题的负面提示词。作为 negative.basic 的补充，用于更有针对性的控制。",
+  "version": "1.0.0",
+  "category": "negative",
+  "subcategories": [
+    "styleControl"
+  ],
+  "api_targets": [
+    "SDXL",
+    "Flux",
+    "Stable Diffusion",
+    "Midjourney",
+    "Custom"
+  ],
+  "keywords": [
+    {
+      "id": "quality_negative_style_3d",
+      "term": "3d",
+      "weight": 0.95,
+      "force_include": true
+    },
+    {
+      "id": "quality_negative_style_realistic",
+      "term": "realistic",
+      "weight": 0.95,
+      "force_include": true
+    },
+    {
+      "id": "quality_negative_style_photorealistic",
+      "term": "photorealistic",
+      "weight": 0.95,
+      "force_include": true
+    },
+    {
+      "id": "quality_negative_style_photograph",
+      "term": "photograph",
+      "weight": 0.95,
+      "force_include": true
+    }
+  ]
+}

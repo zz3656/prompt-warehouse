@@ -16,6 +16,18 @@
   },
   "changelog": [
     {
+      "version": "1.0.13",
+      "date": "2026-10-17",
+      "changes": [
+        "新增独立分类 negative.json: 98条负面提示词（从 quality.json 迁移）",
+        "新增6个负面配方包: negative.basic(22条), negative.quality(8条), negative.anatomy(8条), negative.face(5条), negative.composition(8条), negative.styleControl(4条)",
+        "升级10个现有bundle: 统一引用 quality_negative_low_quality（替代分散的负面引用）",
+        "quality.json 中移除 negative 子分类条目（已全部移至 negative.json）",
+        "总关键词: 5,548 → 5,548（negative.json 独立，quality.json 减少98条）",
+        "分类数: 18 → 19（新增 negative）"
+      ]
+    },
+    {
       "version": "1.0.4",
       "date": "2026-10-16",
       "changes": [
@@ -364,7 +376,7 @@
       "note": "所有 source 为 'BaYue-SYJ/shuixian-prompts' 的关键词"
     }
   },
-  "categories": 18,
+  "categories": 19,
   "categories_zh": {
     "quality": "质量",
     "composition": "构图",

@@ -1,0 +1,51 @@
+{
+  "id": "negative.face",
+  "name": "Face Negative Keywords",
+  "name_zh": "面部负面关键词",
+  "description": "Negative prompt keywords focused on face issues. Use as a supplement to negative.basic for more targeted control.",
+  "description_zh": "专注于face问题的负面提示词。作为 negative.basic 的补充，用于更有针对性的控制。",
+  "version": "1.0.0",
+  "category": "negative",
+  "subcategories": [
+    "face"
+  ],
+  "api_targets": [
+    "SDXL",
+    "Flux",
+    "Stable Diffusion",
+    "Midjourney",
+    "Custom"
+  ],
+  "keywords": [
+    {
+      "id": "quality_negative_face_ugly",
+      "term": "ugly",
+      "weight": 0.95,
+      "force_include": true
+    },
+    {
+      "id": "quality_negative_face_duplicate",
+      "term": "duplicate",
+      "weight": 0.95,
+      "force_include": true
+    },
+    {
+      "id": "quality_negative_bad_face",
+      "term": "bad face",
+      "weight": 0.95,
+      "force_include": true
+    },
+    {
+      "id": "quality_negative_deformed_face",
+      "term": "deformed face",
+      "weight": 0.95,
+      "force_include": true
+    },
+    {
+      "id": "quality_negative_bad_proportions",
+      "term": "bad proportions",
+      "weight": 0.95,
+      "force_include": true
+    }
+  ]
+}

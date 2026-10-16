@@ -2,18 +2,15 @@
   "id": "negative.basic",
   "name": "Basic Negative Prompt",
   "name_zh": "基础负面提示词",
-  "description": "A curated collection of negative prompt keywords for SDXL, Flux, and other image generation models. Covers quality degradation, anatomy errors, composition issues, text artifacts, and common defects. This is the standard negative prompt bundle used across most comic/manga generation workflows.",
-  "description_zh": "精选的 SDXL、Flux 及其他图像生成模型的负面提示词集合。涵盖质量降级、解剖错误、构图问题、文字伪影和常见缺陷。这是漫画/漫画生成工作流中使用的标准负面提示词配方包。",
+  "description": "A curated selection of 20 essential negative prompt keywords that should be included in almost all image generation. Covers quality, anatomy, face, and composition — the most universally effective anti-patterns.",
+  "description_zh": "精选的20条通用负面提示词，适用于几乎所有图像生成。涵盖质量、解剖、面部和构图——最通用的反模式。",
   "version": "1.0.0",
-  "category": "quality",
+  "category": "negative",
   "subcategories": [
-    "negative",
     "quality",
     "anatomy",
     "face",
-    "composition",
-    "textRelated",
-    "commonDefects"
+    "composition"
   ],
   "api_targets": [
     "SDXL",
@@ -26,1336 +23,134 @@
     {
       "id": "quality_negative_low_quality",
       "term": "low quality",
-      "subcategory": "negative",
-      "labels_zh": [
-        "低质量",
-        "负面",
-        "质量缺陷"
-      ],
-      "aliases": [
-        "low res",
-        "poor quality"
-      ]
+      "weight": 0.95,
+      "force_include": true
     },
     {
       "id": "quality_negative_worst_quality",
       "term": "worst quality",
-      "subcategory": "negative",
-      "labels_zh": [
-        "最差质量",
-        "负面",
-        "质量缺陷"
-      ],
-      "aliases": [
-        "terrible quality"
-      ]
+      "weight": 0.95,
+      "force_include": true
     },
     {
       "id": "quality_negative_bad_quality",
       "term": "bad quality",
-      "subcategory": "negative",
-      "labels_zh": [
-        "糟糕质量",
-        "负面",
-        "质量缺陷"
-      ],
-      "aliases": [
-        "poor quality rendering"
-      ]
+      "weight": 0.95,
+      "force_include": true
     },
     {
       "id": "quality_negative_low_resolution",
       "term": "low resolution",
-      "subcategory": "negative",
-      "labels_zh": [
-        "低分辨率",
-        "负面",
-        "质量缺陷"
-      ],
-      "aliases": [
-        "low-res blurry image"
-      ]
+      "weight": 0.95,
+      "force_include": true
     },
     {
       "id": "quality_negative_quality_blurry",
       "term": "blurry",
-      "subcategory": "negative",
-      "labels_zh": [
-        "模糊",
-        "负面",
-        "质量缺陷"
-      ],
-      "aliases": [
-        "out-of-focus blur effect"
-      ]
-    },
-    {
-      "id": "quality_negative_blurry_background",
-      "term": "blurry background",
-      "subcategory": "negative",
-      "labels_zh": [
-        "模糊背景",
-        "负面",
-        "质量缺陷"
-      ],
-      "aliases": [
-        "out-of-focus blur effect"
-      ]
+      "weight": 0.95,
+      "force_include": true
     },
     {
       "id": "quality_negative_of_focus",
       "term": "out of focus",
-      "subcategory": "negative",
-      "labels_zh": [
-        "失焦",
-        "负面",
-        "质量缺陷"
-      ],
-      "aliases": [
-        "defocused blurry image"
-      ]
-    },
-    {
-      "id": "quality_negative_quality_dithering",
-      "term": "dithering",
-      "subcategory": "negative",
-      "labels_zh": [
-        "抖动",
-        "负面",
-        "质量缺陷"
-      ],
-      "aliases": [
-        "dithering"
-      ]
-    },
-    {
-      "id": "quality_negative_jpeg_artifacts",
-      "term": "jpeg artifacts",
-      "subcategory": "negative",
-      "labels_zh": [
-        "JPEG",
-        "压缩",
-        "负面",
-        "质量缺陷"
-      ],
-      "aliases": [
-        "compressed jpeg noise"
-      ]
-    },
-    {
-      "id": "quality_negative_quality_pixelated",
-      "term": "pixelated",
-      "subcategory": "negative",
-      "labels_zh": [
-        "像素化",
-        "负面",
-        "质量缺陷"
-      ],
-      "aliases": [
-        "pixelated"
-      ]
+      "weight": 0.95,
+      "force_include": true
     },
     {
       "id": "quality_negative_anatomy_deformed",
       "term": "deformed",
-      "subcategory": "negative",
-      "labels_zh": [
-        "变形",
-        "解剖缺陷",
-        "负面"
-      ],
-      "aliases": [
-        "distorted malformed features"
-      ]
-    },
-    {
-      "id": "quality_negative_anatomy_distorted",
-      "term": "distorted",
-      "subcategory": "negative",
-      "labels_zh": [
-        "失真",
-        "解剖缺陷",
-        "负面"
-      ],
-      "aliases": [
-        "distorted"
-      ]
+      "weight": 0.95,
+      "force_include": true
     },
     {
       "id": "quality_negative_anatomy_disfigured",
       "term": "disfigured",
-      "subcategory": "negative",
-      "labels_zh": [
-        "毁容",
-        "解剖缺陷",
-        "负面"
-      ],
-      "aliases": [
-        "scars disfigurement marks"
-      ]
+      "weight": 0.95,
+      "force_include": true
     },
     {
       "id": "quality_negative_bad_anatomy",
       "term": "bad anatomy",
-      "subcategory": "negative",
-      "labels_zh": [
-        "畸形解剖",
-        "解剖缺陷",
-        "负面"
-      ],
-      "aliases": [
-        "incorrect anatomical proportions"
-      ]
-    },
-    {
-      "id": "quality_negative_wrong_anatomy",
-      "term": "wrong anatomy",
-      "subcategory": "negative",
-      "labels_zh": [
-        "解剖缺陷",
-        "负面",
-        "错误解剖"
-      ],
-      "aliases": [
-        "wrong anatomy",
-        "wrong"
-      ]
+      "weight": 0.95,
+      "force_include": true
     },
     {
       "id": "quality_negative_extra_limbs",
       "term": "extra limbs",
-      "subcategory": "negative",
-      "labels_zh": [
-        "多余肢体",
-        "解剖缺陷",
-        "负面"
-      ],
-      "aliases": [
-        "additional extra limbs error"
-      ]
-    },
-    {
-      "id": "quality_negative_extra_arms",
-      "term": "extra arms",
-      "subcategory": "negative",
-      "labels_zh": [
-        "多余手臂",
-        "解剖缺陷",
-        "负面"
-      ],
-      "aliases": [
-        "extra arms",
-        "extra"
-      ]
-    },
-    {
-      "id": "quality_negative_extra_legs",
-      "term": "extra legs",
-      "subcategory": "negative",
-      "labels_zh": [
-        "多余腿",
-        "解剖缺陷",
-        "负面"
-      ],
-      "aliases": [
-        "extra legs",
-        "extra"
-      ]
-    },
-    {
-      "id": "quality_negative_missing_limbs",
-      "term": "missing limbs",
-      "subcategory": "negative",
-      "labels_zh": [
-        "缺失肢体",
-        "解剖缺陷",
-        "负面"
-      ],
-      "aliases": [
-        "missing limbs",
-        "missing"
-      ]
-    },
-    {
-      "id": "quality_negative_missing_fingers",
-      "term": "missing fingers",
-      "subcategory": "negative",
-      "labels_zh": [
-        "缺少手指",
-        "解剖缺陷",
-        "负面"
-      ],
-      "aliases": [
-        "missing fingers",
-        "missing"
-      ]
-    },
-    {
-      "id": "quality_negative_extra_digits",
-      "term": "extra digits",
-      "subcategory": "negative",
-      "labels_zh": [
-        "多余指",
-        "解剖缺陷",
-        "负面"
-      ],
-      "aliases": [
-        "extra digits",
-        "extra"
-      ]
-    },
-    {
-      "id": "quality_negative_fewer_digits",
-      "term": "fewer digits",
-      "subcategory": "negative",
-      "labels_zh": [
-        "缺失指",
-        "解剖缺陷",
-        "负面"
-      ],
-      "aliases": [
-        "fewer digits",
-        "fewer"
-      ]
-    },
-    {
-      "id": "quality_negative_wrong_fingers",
-      "term": "wrong fingers",
-      "subcategory": "negative",
-      "labels_zh": [
-        "解剖缺陷",
-        "负面",
-        "错误手指"
-      ],
-      "aliases": [
-        "wrong fingers",
-        "wrong"
-      ]
+      "weight": 0.95,
+      "force_include": true
     },
     {
       "id": "quality_negative_bad_hands",
       "term": "bad hands",
-      "subcategory": "negative",
-      "labels_zh": [
-        "手部畸形",
-        "解剖缺陷",
-        "负面"
-      ],
-      "aliases": [
-        "bad hands",
-        "bad"
-      ]
+      "weight": 0.95,
+      "force_include": true
     },
     {
       "id": "quality_negative_drawn_hands",
       "term": "poorly drawn hands",
-      "subcategory": "negative",
-      "labels_zh": [
-        "糟糕双手",
-        "解剖缺陷",
-        "负面"
-      ],
-      "aliases": [
-        "poorly drawn hands",
-        "poorly"
-      ]
-    },
-    {
-      "id": "quality_negative_anatomy_mutation",
-      "term": "mutation",
-      "subcategory": "negative",
-      "labels_zh": [
-        "变异",
-        "解剖缺陷",
-        "负面"
-      ],
-      "aliases": [
-        "mutation"
-      ]
-    },
-    {
-      "id": "quality_negative_mutated_hands",
-      "term": "mutated hands",
-      "subcategory": "negative",
-      "labels_zh": [
-        "变形手",
-        "解剖缺陷",
-        "负面"
-      ],
-      "aliases": [
-        "genetically mutated form"
-      ]
+      "weight": 0.95,
+      "force_include": true
     },
     {
       "id": "quality_negative_fused_fingers",
       "term": "fused fingers",
-      "subcategory": "negative",
-      "labels_zh": [
-        "融合手指",
-        "解剖缺陷",
-        "负面"
-      ],
-      "aliases": [
-        "merged fused finger digits"
-      ]
-    },
-    {
-      "id": "quality_negative_many_fingers",
-      "term": "too many fingers",
-      "subcategory": "negative",
-      "labels_zh": [
-        "手指过多",
-        "解剖缺陷",
-        "负面"
-      ],
-      "aliases": [
-        "too many fingers",
-        "too"
-      ]
-    },
-    {
-      "id": "quality_negative_long_neck",
-      "term": "long neck",
-      "subcategory": "negative",
-      "labels_zh": [
-        "解剖缺陷",
-        "负面",
-        "长颈"
-      ],
-      "aliases": [
-        "long neck",
-        "long"
-      ]
-    },
-    {
-      "id": "quality_negative_conjoined_fingers",
-      "term": "conjoined fingers",
-      "subcategory": "negative",
-      "labels_zh": [
-        "解剖缺陷",
-        "负面",
-        "连体手指"
-      ],
-      "aliases": [
-        "conjoined fingers",
-        "conjoined"
-      ]
-    },
-    {
-      "id": "quality_negative_extra_toe",
-      "term": "extra toe",
-      "subcategory": "negative",
-      "labels_zh": [
-        "多余脚趾",
-        "解剖缺陷",
-        "负面"
-      ],
-      "aliases": [
-        "extra toe",
-        "extra"
-      ]
-    },
-    {
-      "id": "quality_negative_wrong_feet",
-      "term": "wrong feet",
-      "subcategory": "negative",
-      "labels_zh": [
-        "脚部错误",
-        "解剖缺陷",
-        "负面"
-      ],
-      "aliases": [
-        "wrong feet",
-        "wrong"
-      ]
+      "weight": 0.95,
+      "force_include": true
     },
     {
       "id": "quality_negative_face_ugly",
       "term": "ugly",
-      "subcategory": "negative",
-      "labels_zh": [
-        "丑陋",
-        "负面",
-        "面部缺陷"
-      ],
-      "aliases": [
-        "unattractive appearance"
-      ]
+      "weight": 0.95,
+      "force_include": true
     },
     {
       "id": "quality_negative_face_duplicate",
       "term": "duplicate",
-      "subcategory": "negative",
-      "labels_zh": [
-        "负面",
-        "重复",
-        "面部缺陷"
-      ],
-      "aliases": [
-        "duplicate"
-      ]
-    },
-    {
-      "id": "quality_negative_face_morbid",
-      "term": "morbid",
-      "subcategory": "negative",
-      "labels_zh": [
-        "病态",
-        "负面",
-        "面部缺陷"
-      ],
-      "aliases": [
-        "morbid"
-      ]
-    },
-    {
-      "id": "quality_negative_face_mutilated",
-      "term": "mutilated",
-      "subcategory": "negative",
-      "labels_zh": [
-        "残害",
-        "负面",
-        "面部缺陷"
-      ],
-      "aliases": [
-        "mutilated"
-      ]
-    },
-    {
-      "id": "quality_negative_plastic_skin",
-      "term": "plastic skin",
-      "subcategory": "negative",
-      "labels_zh": [
-        "塑料皮肤",
-        "负面",
-        "面部缺陷"
-      ],
-      "aliases": [
-        "plastic skin",
-        "plastic"
-      ]
-    },
-    {
-      "id": "quality_negative_bad_face",
-      "term": "bad face",
-      "subcategory": "negative",
-      "labels_zh": [
-        "糟糕脸",
-        "负面",
-        "面部缺陷"
-      ],
-      "aliases": [
-        "bad face",
-        "bad"
-      ]
-    },
-    {
-      "id": "quality_negative_deformed_face",
-      "term": "deformed face",
-      "subcategory": "negative",
-      "labels_zh": [
-        "变形脸",
-        "负面",
-        "面部缺陷"
-      ],
-      "aliases": [
-        "distorted malformed features"
-      ]
-    },
-    {
-      "id": "quality_negative_ugly_face",
-      "term": "ugly face",
-      "subcategory": "negative",
-      "labels_zh": [
-        "丑陋脸",
-        "负面",
-        "面部缺陷"
-      ],
-      "aliases": [
-        "unattractive appearance"
-      ]
-    },
-    {
-      "id": "quality_negative_drawn_face",
-      "term": "poorly drawn face",
-      "subcategory": "negative",
-      "labels_zh": [
-        "糟糕面部",
-        "负面",
-        "面部缺陷"
-      ],
-      "aliases": [
-        "poorly drawn face",
-        "poorly"
-      ]
+      "weight": 0.95,
+      "force_include": true
     },
     {
       "id": "quality_negative_bad_proportions",
       "term": "bad proportions",
-      "subcategory": "negative",
-      "labels_zh": [
-        "比例失调",
-        "负面",
-        "面部缺陷"
-      ],
-      "aliases": [
-        "bad proportions",
-        "bad"
-      ]
-    },
-    {
-      "id": "quality_negative_gross_proportions",
-      "term": "gross proportions",
-      "subcategory": "negative",
-      "labels_zh": [
-        "比例失调",
-        "负面",
-        "面部缺陷"
-      ],
-      "aliases": [
-        "gross proportions",
-        "gross"
-      ]
-    },
-    {
-      "id": "quality_negative_malformed_limbs",
-      "term": "malformed limbs",
-      "subcategory": "negative",
-      "labels_zh": [
-        "畸形肢体",
-        "负面",
-        "面部缺陷"
-      ],
-      "aliases": [
-        "malformed limbs",
-        "malformed"
-      ]
-    },
-    {
-      "id": "quality_negative_and_legs",
-      "term": "extra arms and legs",
-      "subcategory": "negative",
-      "labels_zh": [
-        "多余四肢",
-        "负面",
-        "面部缺陷"
-      ],
-      "aliases": [
-        "extra arms and",
-        "extra"
-      ]
-    },
-    {
-      "id": "quality_negative_asymmetrical_eyes",
-      "term": "asymmetrical eyes",
-      "subcategory": "negative",
-      "labels_zh": [
-        "负面",
-        "面部缺陷"
-      ],
-      "aliases": [
-        "balanced composition",
-        "symmetry composition"
-      ]
-    },
-    {
-      "id": "quality_negative_crossed_eyes",
-      "term": "crossed eyes",
-      "subcategory": "negative",
-      "labels_zh": [
-        "负面",
-        "闭眼",
-        "面部缺陷"
-      ],
-      "aliases": [
-        "crossed eyes",
-        "crossed"
-      ]
-    },
-    {
-      "id": "quality_negative_face_strabismus",
-      "term": "strabismus",
-      "subcategory": "negative",
-      "labels_zh": [
-        "斜视",
-        "负面",
-        "面部缺陷"
-      ],
-      "aliases": [
-        "strabismus"
-      ]
-    },
-    {
-      "id": "quality_negative_uneven_eyes",
-      "term": "uneven eyes",
-      "subcategory": "negative",
-      "labels_zh": [
-        "负面",
-        "面部缺陷"
-      ],
-      "aliases": [
-        "uneven eyes",
-        "uneven"
-      ]
-    },
-    {
-      "id": "quality_negative_extra_eye",
-      "term": "extra eye",
-      "subcategory": "negative",
-      "labels_zh": [
-        "多眼",
-        "负面",
-        "面部缺陷"
-      ],
-      "aliases": [
-        "extra eye",
-        "extra",
-        "gaze",
-        "look"
-      ]
-    },
-    {
-      "id": "quality_negative_missing_eye",
-      "term": "missing eye",
-      "subcategory": "negative",
-      "labels_zh": [
-        "缺眼",
-        "负面",
-        "面部缺陷"
-      ],
-      "aliases": [
-        "missing eye",
-        "missing",
-        "gaze",
-        "look"
-      ]
+      "weight": 0.95,
+      "force_include": true
     },
     {
       "id": "quality_negative_composition_watermark",
       "term": "watermark",
-      "subcategory": "negative",
-      "labels_zh": [
-        "构图",
-        "水印",
-        "负面"
-      ],
-      "aliases": [
-        "visible watermark overlay"
-      ]
+      "weight": 0.95,
+      "force_include": true
     },
     {
       "id": "quality_negative_composition_text",
       "term": "text",
-      "subcategory": "negative",
-      "labels_zh": [
-        "文字",
-        "构图",
-        "负面"
-      ],
-      "aliases": [
-        "text"
-      ]
-    },
-    {
-      "id": "quality_negative_composition_username",
-      "term": "username",
-      "subcategory": "negative",
-      "labels_zh": [
-        "构图",
-        "用户名",
-        "负面"
-      ],
-      "aliases": [
-        "username"
-      ]
-    },
-    {
-      "id": "quality_negative_composition_error",
-      "term": "error",
-      "subcategory": "negative",
-      "labels_zh": [
-        "构图",
-        "负面",
-        "错误"
-      ],
-      "aliases": [
-        "error"
-      ]
-    },
-    {
-      "id": "quality_negative_composition_crop",
-      "term": "crop",
-      "subcategory": "negative",
-      "labels_zh": [
-        "构图",
-        "裁剪",
-        "负面"
-      ],
-      "aliases": [
-        "crop"
-      ]
-    },
-    {
-      "id": "quality_negative_of_frame",
-      "term": "out of frame",
-      "subcategory": "negative",
-      "labels_zh": [
-        "出框",
-        "构图",
-        "负面"
-      ],
-      "aliases": [
-        "out frame",
-        "out"
-      ]
-    },
-    {
-      "id": "quality_negative_cut_off",
-      "term": "cut off",
-      "subcategory": "negative",
-      "labels_zh": [
-        "切断",
-        "构图",
-        "负面"
-      ],
-      "aliases": [
-        "cut off",
-        "cut"
-      ]
-    },
-    {
-      "id": "quality_negative_composition_lowres",
-      "term": "lowres",
-      "subcategory": "negative",
-      "labels_zh": [
-        "低分辨率",
-        "构图",
-        "负面"
-      ],
-      "aliases": [
-        "lowres"
-      ]
+      "weight": 0.95,
+      "force_include": true
     },
     {
       "id": "quality_negative_composition_signature",
       "term": "signature",
-      "subcategory": "negative",
-      "labels_zh": [
-        "构图",
-        "签名",
-        "负面"
-      ],
-      "aliases": [
-        "artist signature text overlay"
-      ]
-    },
-    {
-      "id": "quality_negative_wrong_size",
-      "term": "wrong size",
-      "subcategory": "negative",
-      "labels_zh": [
-        "构图",
-        "负面",
-        "错误尺寸"
-      ],
-      "aliases": [
-        "wrong size",
-        "wrong"
-      ]
-    },
-    {
-      "id": "quality_negative_composition_border",
-      "term": "border",
-      "subcategory": "negative",
-      "labels_zh": [
-        "构图",
-        "负面",
-        "边框"
-      ],
-      "aliases": [
-        "border"
-      ]
-    },
-    {
-      "id": "quality_negative_composition_frame",
-      "term": "frame",
-      "subcategory": "negative",
-      "labels_zh": [
-        "构图",
-        "画框",
-        "负面"
-      ],
-      "aliases": [
-        "frame"
-      ]
-    },
-    {
-      "id": "quality_negative_multiple_panels",
-      "term": "multiple panels",
-      "subcategory": "negative",
-      "labels_zh": [
-        "多格分镜",
-        "构图",
-        "负面"
-      ],
-      "aliases": [
-        "multiple panels",
-        "multiple"
-      ]
-    },
-    {
-      "id": "quality_negative_style_3d",
-      "term": "3d",
-      "subcategory": "negative",
-      "labels_zh": [
-        "3D",
-        "负面",
-        "风格缺陷"
-      ],
-      "aliases": [
-        "three-dimensional",
-        "tridimensional"
-      ]
-    },
-    {
-      "id": "quality_negative_style_realistic",
-      "term": "realistic",
-      "subcategory": "negative",
-      "labels_zh": [
-        "写实",
-        "负面",
-        "风格缺陷"
-      ],
-      "aliases": [
-        "photorealistic",
-        "realistic rendering"
-      ]
-    },
-    {
-      "id": "quality_negative_style_photorealistic",
-      "term": "photorealistic",
-      "subcategory": "negative",
-      "labels_zh": [
-        "负面",
-        "风格缺陷"
-      ],
-      "aliases": [
-        "photorealistic",
-        "realistic rendering"
-      ]
-    },
-    {
-      "id": "quality_negative_style_photograph",
-      "term": "photograph",
-      "subcategory": "negative",
-      "labels_zh": [
-        "摄影",
-        "负面",
-        "风格缺陷"
-      ],
-      "aliases": [
-        "photograph"
-      ]
-    },
-    {
-      "id": "quality_negative_realistic_noise",
-      "term": "realistic noise",
-      "subcategory": "negative",
-      "labels_zh": [
-        "写实噪点",
-        "负面",
-        "风格缺陷"
-      ],
-      "aliases": [
-        "photorealistic",
-        "realistic rendering"
-      ]
-    },
-    {
-      "id": "quality_negative_realistic_camera",
-      "term": "realistic camera",
-      "subcategory": "negative",
-      "labels_zh": [
-        "写实相机",
-        "负面",
-        "风格缺陷"
-      ],
-      "aliases": [
-        "photorealistic",
-        "realistic rendering"
-      ]
-    },
-    {
-      "id": "quality_negative_oil_painting",
-      "term": "oil painting",
-      "subcategory": "negative",
-      "labels_zh": [
-        "油画",
-        "负面",
-        "风格缺陷"
-      ],
-      "aliases": [
-        "classical oil painting"
-      ]
+      "weight": 0.95,
+      "force_include": true
     },
     {
       "id": "quality_negative_textrelated_watermark",
       "term": "watermark",
-      "subcategory": "negative",
-      "labels_zh": [
-        "文字",
-        "水印",
-        "负面"
-      ],
-      "aliases": [
-        "visible watermark overlay"
-      ]
-    },
-    {
-      "id": "quality_negative_textrelated_username",
-      "term": "username",
-      "subcategory": "negative",
-      "labels_zh": [
-        "文字",
-        "用户名",
-        "负面"
-      ],
-      "aliases": [
-        "username"
-      ]
+      "weight": 0.95,
+      "force_include": true
     },
     {
       "id": "quality_negative_textrelated_signature",
       "term": "signature",
-      "subcategory": "negative",
-      "labels_zh": [
-        "文字",
-        "签名",
-        "负面"
-      ],
-      "aliases": [
-        "artist signature text overlay"
-      ]
-    },
-    {
-      "id": "quality_negative_textrelated_logo",
-      "term": "logo",
-      "subcategory": "negative",
-      "labels_zh": [
-        "文字",
-        "标志",
-        "负面"
-      ],
-      "aliases": [
-        "logo"
-      ]
+      "weight": 0.95,
+      "force_include": true
     },
     {
       "id": "quality_negative_textrelated_text",
       "term": "text",
-      "subcategory": "negative",
-      "labels_zh": [
-        "文字",
-        "负面"
-      ],
-      "aliases": [
-        "text"
-      ]
-    },
-    {
-      "id": "quality_negative_textrelated_lettering",
-      "term": "lettering",
-      "subcategory": "negative",
-      "labels_zh": [
-        "字体",
-        "文字",
-        "负面"
-      ],
-      "aliases": [
-        "lettering"
-      ]
-    },
-    {
-      "id": "quality_negative_textrelated_subtitle",
-      "term": "subtitle",
-      "subcategory": "negative",
-      "labels_zh": [
-        "字幕",
-        "文字",
-        "负面"
-      ],
-      "aliases": [
-        "subtitle"
-      ]
-    },
-    {
-      "id": "quality_negative_chapter_number",
-      "term": "chapter number",
-      "subcategory": "negative",
-      "labels_zh": [
-        "文字",
-        "章节号",
-        "负面"
-      ],
-      "aliases": [
-        "chapter number",
-        "chapter"
-      ]
-    },
-    {
-      "id": "quality_negative_comic_title",
-      "term": "comic title",
-      "subcategory": "negative",
-      "labels_zh": [
-        "文字",
-        "漫画标题",
-        "负面"
-      ],
-      "aliases": [
-        "comic title",
-        "comic"
-      ]
-    },
-    {
-      "id": "quality_negative_series_name",
-      "term": "series name",
-      "subcategory": "negative",
-      "labels_zh": [
-        "文字",
-        "系列名",
-        "负面"
-      ],
-      "aliases": [
-        "series name",
-        "series"
-      ]
-    },
-    {
-      "id": "quality_negative_skin_marks",
-      "term": "skin marks",
-      "subcategory": "negative",
-      "labels_zh": [
-        "常见缺陷",
-        "皮肤瑕疵",
-        "负面"
-      ],
-      "aliases": [
-        "skin marks",
-        "skin"
-      ]
-    },
-    {
-      "id": "quality_negative_fat_rolls",
-      "term": "fat rolls",
-      "subcategory": "negative",
-      "labels_zh": [
-        "常见缺陷",
-        "脂肪堆积",
-        "负面"
-      ],
-      "aliases": [
-        "fat rolls",
-        "fat"
-      ]
-    },
-    {
-      "id": "quality_negative_stray_hair",
-      "term": "stray hair",
-      "subcategory": "negative",
-      "labels_zh": [
-        "常见缺陷",
-        "杂发",
-        "负面"
-      ],
-      "aliases": [
-        "stray hair",
-        "stray",
-        "lock",
-        "mane"
-      ]
-    },
-    {
-      "id": "quality_negative_cropped_head",
-      "term": "cropped head",
-      "subcategory": "negative",
-      "labels_zh": [
-        "头部裁切",
-        "常见缺陷",
-        "负面"
-      ],
-      "aliases": [
-        "cropped head",
-        "cropped"
-      ]
-    },
-    {
-      "id": "quality_negative_bad_feet",
-      "term": "bad feet",
-      "subcategory": "negative",
-      "labels_zh": [
-        "常见缺陷",
-        "糟糕脚部",
-        "负面"
-      ],
-      "aliases": [
-        "bad feet",
-        "bad"
-      ]
-    },
-    {
-      "id": "quality_negative_deformed_feet",
-      "term": "deformed feet",
-      "subcategory": "negative",
-      "labels_zh": [
-        "常见缺陷",
-        "畸形脚部",
-        "负面"
-      ],
-      "aliases": [
-        "distorted malformed features"
-      ]
-    },
-    {
-      "id": "quality_negative_toes_merging",
-      "term": "toes merging",
-      "subcategory": "negative",
-      "labels_zh": [
-        "常见缺陷",
-        "脚趾融合",
-        "负面"
-      ],
-      "aliases": [
-        "toes merging",
-        "toes"
-      ]
-    },
-    {
-      "id": "quality_negative_muscle_lump",
-      "term": "muscle lump",
-      "subcategory": "negative",
-      "labels_zh": [
-        "常见缺陷",
-        "肌肉肿块",
-        "负面"
-      ],
-      "aliases": [
-        "muscle lump",
-        "muscle"
-      ]
-    },
-    {
-      "id": "quality_negative_dimpled_skin",
-      "term": "dimpled skin",
-      "subcategory": "negative",
-      "labels_zh": [
-        "凹陷皮肤",
-        "常见缺陷",
-        "负面"
-      ],
-      "aliases": [
-        "dimpled skin",
-        "dimpled"
-      ]
-    },
-    {
-      "id": "quality_negative_patchy_skin",
-      "term": "patchy skin",
-      "subcategory": "negative",
-      "labels_zh": [
-        "常见缺陷",
-        "斑驳皮肤",
-        "负面"
-      ],
-      "aliases": [
-        "patchy skin",
-        "patchy"
-      ]
-    },
-    {
-      "id": "quality_negative_visible_tattoo",
-      "term": "visible tattoo",
-      "subcategory": "negative",
-      "labels_zh": [
-        "可见纹身",
-        "常见缺陷",
-        "负面"
-      ],
-      "aliases": [
-        "visible tattoo",
-        "visible"
-      ]
-    },
-    {
-      "id": "quality_negative_shoulder_bumps",
-      "term": "shoulder bumps",
-      "subcategory": "negative",
-      "labels_zh": [
-        "常见缺陷",
-        "肩部肿块",
-        "负面"
-      ],
-      "aliases": [
-        "shoulder bumps",
-        "shoulder"
-      ]
-    },
-    {
-      "id": "quality_negative_extra_nipple",
-      "term": "extra nipple",
-      "subcategory": "negative",
-      "labels_zh": [
-        "多乳头",
-        "常见缺陷",
-        "负面"
-      ],
-      "aliases": [
-        "extra nipple",
-        "extra"
-      ]
-    },
-    {
-      "id": "quality_negative_pubic_hair",
-      "term": "pubic hair",
-      "subcategory": "negative",
-      "labels_zh": [
-        "常见缺陷",
-        "负面",
-        "阴毛"
-      ],
-      "aliases": [
-        "pubic hair",
-        "pubic",
-        "lock",
-        "mane"
-      ]
-    },
-    {
-      "id": "quality_negative_breast_sagging",
-      "term": "breast sagging",
-      "subcategory": "negative",
-      "labels_zh": [
-        "乳房下垂",
-        "常见缺陷",
-        "负面"
-      ],
-      "aliases": [
-        "breast sagging",
-        "breast"
-      ]
-    },
-    {
-      "id": "quality_negative_misaligned_hips",
-      "term": "misaligned hips",
-      "subcategory": "negative",
-      "labels_zh": [
-        "常见缺陷",
-        "负面",
-        "骨盆错位"
-      ],
-      "aliases": [
-        "misaligned hips",
-        "misaligned"
-      ]
+      "weight": 0.95,
+      "force_include": true
     }
   ]
 }

@@ -1,0 +1,69 @@
+{
+  "id": "negative.composition",
+  "name": "Composition Negative Keywords",
+  "name_zh": "构图负面关键词",
+  "description": "Negative prompt keywords focused on composition issues. Use as a supplement to negative.basic for more targeted control.",
+  "description_zh": "专注于composition问题的负面提示词。作为 negative.basic 的补充，用于更有针对性的控制。",
+  "version": "1.0.0",
+  "category": "negative",
+  "subcategories": [
+    "composition"
+  ],
+  "api_targets": [
+    "SDXL",
+    "Flux",
+    "Stable Diffusion",
+    "Midjourney",
+    "Custom"
+  ],
+  "keywords": [
+    {
+      "id": "quality_negative_composition_watermark",
+      "term": "watermark",
+      "weight": 0.95,
+      "force_include": true
+    },
+    {
+      "id": "quality_negative_composition_text",
+      "term": "text",
+      "weight": 0.95,
+      "force_include": true
+    },
+    {
+      "id": "quality_negative_of_frame",
+      "term": "out of frame",
+      "weight": 0.95,
+      "force_include": true
+    },
+    {
+      "id": "quality_negative_cut_off",
+      "term": "cut off",
+      "weight": 0.95,
+      "force_include": true
+    },
+    {
+      "id": "quality_negative_composition_signature",
+      "term": "signature",
+      "weight": 0.95,
+      "force_include": true
+    },
+    {
+      "id": "quality_negative_textrelated_watermark",
+      "term": "watermark",
+      "weight": 0.95,
+      "force_include": true
+    },
+    {
+      "id": "quality_negative_textrelated_signature",
+      "term": "signature",
+      "weight": 0.95,
+      "force_include": true
+    },
+    {
+      "id": "quality_negative_textrelated_text",
+      "term": "text",
+      "weight": 0.95,
+      "force_include": true
+    }
+  ]
+}

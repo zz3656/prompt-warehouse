@@ -1,6 +1,6 @@
 {
   "version": "1.0.12",
-  "total": 18,
+  "total": 19,
   "subcategories_zh": {
     "basic": "基础质量",
     "advanced": "高级质量",
@@ -1134,6 +1134,18 @@
       ]
     },
     {
+      "slug": "negative",
+      "name_zh": "负面",
+      "count": 98,
+      "subcategories": [
+        {
+          "slug": "negative",
+          "name_zh": "负面效果",
+          "count": 98
+        }
+      ]
+    },
+    {
       "slug": "panel",
       "name_zh": "分镜",
       "count": 114,
@@ -1220,13 +1232,8 @@
     {
       "slug": "quality",
       "name_zh": "质量",
-      "count": 243,
+      "count": 145,
       "subcategories": [
-        {
-          "slug": "negative",
-          "name_zh": "负面效果",
-          "count": 98
-        },
         {
           "slug": "advanced",
           "name_zh": "高级质量",
