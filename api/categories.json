@@ -1232,17 +1232,12 @@
         {
           "slug": "scene.nature",
           "name_zh": "自然景观",
-          "count": 306
+          "count": 384
         },
         {
           "slug": "scene.objects",
           "name_zh": "场景物体",
           "count": 215
-        },
-        {
-          "slug": "nature",
-          "name_zh": "自然场景",
-          "count": 78
         },
         {
           "slug": "scene.geography",

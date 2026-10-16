@@ -5193,2808 +5193,6 @@
     ]
   },
   {
-    "id": "scene_nature_cherry_blossom_trees",
-    "term": "cherry blossom trees",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "cherry",
-      "blossom",
-      "sakura",
-      "nature",
-      "spring",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.225Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "樱花",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.845,
-    "score_v2": 0.845,
-    "term_zh": "樱花",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "cherry blossom trees",
-      "cherry"
-    ]
-  },
-  {
-    "id": "scene_nature_rose_garden",
-    "term": "rose garden",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "rose",
-      "garden",
-      "flowers",
-      "nature",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "玫瑰花园",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "玫瑰花园",
-    "aliases": [
-      "flower garden",
-      "zen garden"
-    ],
-    "aliases_zh": [
-      "zen garden",
-      "花圃"
-    ],
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_sunflower_field",
-    "term": "sunflower field",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "sunflower",
-      "field",
-      "flowers",
-      "nature",
-      "summer",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "向日葵田野",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "sunflower field",
-      "sunflower"
-    ]
-  },
-  {
-    "id": "scene_nature_lavender_field",
-    "term": "lavender field",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "lavender",
-      "field",
-      "flowers",
-      "purple",
-      "nature",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.8,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "薰衣草田野",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "lavender field",
-      "lavender"
-    ]
-  },
-  {
-    "id": "scene_nature_mountain_range",
-    "term": "mountain range",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "mountain",
-      "range",
-      "landscape",
-      "nature",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "山脉",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "山脉",
-    "aliases": [
-      "alpine",
-      "mountainside"
-    ],
-    "aliases_zh": [
-      "mountainside",
-      "山脉"
-    ],
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_waterfall_inside_cave",
-    "term": "waterfall inside cave",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "waterfall",
-      "cave",
-      "water",
-      "nature",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.8,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.845,
-    "score_v2": 0.845,
-    "term_zh": "瀑布inside洞穴",
-    "aliases": [
-      "cascading water"
-    ],
-    "aliases_zh": [
-      "cascading water",
-      "飞流瀑布"
-    ],
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_tropical_beach",
-    "term": "tropical beach",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "tropical",
-      "beach",
-      "ocean",
-      "sand",
-      "nature",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.9,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "热带海滩",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "热带海滩",
-    "aliases": [
-      "coastal",
-      "sandy beach"
-    ],
-    "aliases_zh": [
-      "coastal",
-      "沙滩"
-    ],
-    "priority": "high",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_crystal_cave",
-    "term": "crystal cave",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "crystal",
-      "cave",
-      "mineral",
-      "nature",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "水晶洞穴",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "水晶洞穴",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "crystal cave",
-      "crystal"
-    ]
-  },
-  {
-    "id": "scene_nature_grotto",
-    "term": "grotto",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "grotto",
-      "cave",
-      "water",
-      "nature",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.75,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "岩穴",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.685,
-    "score_v2": 0.685,
-    "term_zh": "岩穴",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "grotto"
-    ]
-  },
-  {
-    "id": "scene_nature_ruins",
-    "term": "ruins",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "ruins",
-      "ancient",
-      "stone",
-      "nature",
-      "abandoned",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "废墟",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.685,
-    "score_v2": 0.685,
-    "term_zh": "船船",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "ruins"
-    ]
-  },
-  {
-    "id": "scene_nature_ancient_temple",
-    "term": "ancient temple",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "ancient",
-      "temple",
-      "religious",
-      "architecture",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "古代寺庙",
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "古代寺庙",
-    "aliases": [
-      "ancient temple",
-      "shrine"
-    ],
-    "aliases_zh": [
-      "shrine",
-      "古老寺庙"
-    ],
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_castle",
-    "term": "castle",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "castle",
-      "medieval",
-      "fortress",
-      "architecture",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.9,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "城堡",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "relation_group": "castle",
-    "relation_role": "canonical",
-    "weight": 0.685,
-    "score_v2": 0.685,
-    "term_zh": "城堡",
-    "aliases": [
-      "fortress",
-      "medieval castle"
-    ],
-    "aliases_zh": [
-      "fortress",
-      "中世纪城堡"
-    ],
-    "priority": "high",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_dense_forest",
-    "term": "dense forest",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "dense",
-      "forest",
-      "trees",
-      "nature",
-      "woods",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "密林",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "密林",
-    "aliases": [
-      "dense forest",
-      "woodland"
-    ],
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_bamboo_forest",
-    "term": "bamboo forest",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "bamboo",
-      "forest",
-      "nature",
-      "japan",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "竹子森林",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "竹子森林",
-    "aliases": [
-      "dense forest",
-      "woodland"
-    ],
-    "aliases_zh": [
-      "dense forest",
-      "茂密森林"
-    ],
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_enchanted_forest",
-    "term": "enchanted forest",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "enchanted",
-      "forest",
-      "magical",
-      "nature",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "自然",
-      "魔法森林"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "魔法森林",
-    "aliases": [
-      "dense forest",
-      "woodland"
-    ],
-    "aliases_zh": [
-      "dense forest",
-      "茂密森林"
-    ],
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_fairy_forest",
-    "term": "fairy forest",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "fairy",
-      "forest",
-      "magical",
-      "nature",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "精灵森林",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "精灵森林",
-    "aliases": [
-      "dense forest",
-      "woodland"
-    ],
-    "aliases_zh": [
-      "dense forest",
-      "茂密森林"
-    ],
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_whimsical_forest",
-    "term": "whimsical forest",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "whimsical",
-      "forest",
-      "magical",
-      "nature",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.8,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "奇思森林",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "奇思森林",
-    "aliases": [
-      "dense forest",
-      "woodland"
-    ],
-    "aliases_zh": [
-      "dense forest",
-      "茂密森林"
-    ],
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_polar_forest",
-    "term": "polar forest",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "polar",
-      "forest",
-      "snow",
-      "nature",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.75,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "极地森林",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "极地森林",
-    "aliases": [
-      "dense forest",
-      "woodland"
-    ],
-    "aliases_zh": [
-      "dense forest",
-      "茂密森林"
-    ],
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_snowy_forest",
-    "term": "snowy forest",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "snowy",
-      "forest",
-      "winter",
-      "nature",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "自然",
-      "飘雪森林"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "飘雪森林",
-    "aliases": [
-      "snowfall",
-      "snowy weather"
-    ],
-    "aliases_zh": [
-      "snowy weather",
-      "下雪天"
-    ],
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_mushroom_forest",
-    "term": "mushroom forest",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "mushroom",
-      "forest",
-      "fantasy",
-      "nature",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "自然",
-      "蘑菇森林"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "蘑菇森林",
-    "aliases": [
-      "dense forest",
-      "woodland"
-    ],
-    "aliases_zh": [
-      "dense forest",
-      "茂密森林"
-    ],
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_flower_forest",
-    "term": "flower forest",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "flower",
-      "forest",
-      "nature",
-      "colorful",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "自然",
-      "花森林"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "花森林",
-    "aliases": [
-      "dense forest",
-      "woodland"
-    ],
-    "aliases_zh": [
-      "dense forest",
-      "茂密森林"
-    ],
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_autumn_leaves",
-    "term": "autumn leaves",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "autumn",
-      "leaves",
-      "fall",
-      "orange",
-      "nature",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "秋叶子",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "秋叶子",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "autumn leaves",
-      "autumn"
-    ]
-  },
-  {
-    "id": "scene_nature_cherry_blossom_season",
-    "term": "cherry blossom season",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "cherry",
-      "blossom",
-      "spring",
-      "sakura",
-      "nature",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.9,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "樱花",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.845,
-    "score_v2": 0.845,
-    "term_zh": "樱花",
-    "priority": "high",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00",
-    "aliases": [
-      "cherry blossom season",
-      "cherry"
-    ],
-    "aliases_zh": []
-  },
-  {
-    "id": "scene_nature_cottage",
-    "term": "cottage",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "cottage",
-      "house",
-      "rural",
-      "architecture",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "小屋",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.685,
-    "score_v2": 0.685,
-    "term_zh": "小屋",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "cottage"
-    ]
-  },
-  {
-    "id": "scene_nature_lighthouse",
-    "term": "lighthouse",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "lighthouse",
-      "tower",
-      "ocean",
-      "architecture",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "灯塔",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.685,
-    "score_v2": 0.685,
-    "term_zh": "灯塔",
-    "aliases": [
-      "residential house structure"
-    ],
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_windmill",
-    "term": "windmill",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "windmill",
-      "tower",
-      "rural",
-      "architecture",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "自然",
-      "风车"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.685,
-    "score_v2": 0.685,
-    "term_zh": "风车",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "windmill"
-    ]
-  },
-  {
-    "id": "scene_nature_greenhouse",
-    "term": "greenhouse",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "greenhouse",
-      "glass",
-      "plants",
-      "architecture",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.8,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "温室",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "relation_group": "greenhouse",
-    "relation_role": "canonical",
-    "weight": 0.685,
-    "score_v2": 0.685,
-    "term_zh": "温室",
-    "aliases": [
-      "residential house structure"
-    ],
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_greenhouse_interior",
-    "term": "greenhouse interior",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "greenhouse",
-      "interior",
-      "plants",
-      "architecture",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.8,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "温室内部",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "温室内部",
-    "aliases": [
-      "residential house structure"
-    ],
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_library",
-    "term": "library",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "library",
-      "books",
-      "interior",
-      "architecture",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "图书馆",
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "relation_group": "library",
-    "relation_role": "canonical",
-    "weight": 0.685,
-    "score_v2": 0.685,
-    "term_zh": "图书馆",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "library"
-    ]
-  },
-  {
-    "id": "scene_nature_old_library",
-    "term": "old library",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "old",
-      "library",
-      "books",
-      "vintage",
-      "architecture",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "金色图书馆",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "old library",
-      "old"
-    ]
-  },
-  {
-    "id": "scene_nature_bookshelf",
-    "term": "bookshelf",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "bookshelf",
-      "books",
-      "interior",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "书架",
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.685,
-    "score_v2": 0.685,
-    "term_zh": "书架",
-    "aliases": [
-      "elven warrior",
-      "woodland elf"
-    ],
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_bookstore",
-    "term": "bookstore",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "bookstore",
-      "books",
-      "shop",
-      "architecture",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.8,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "书店",
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.685,
-    "score_v2": 0.685,
-    "term_zh": "书店",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "bookstore"
-    ]
-  },
-  {
-    "id": "scene_nature_cafe",
-    "term": "cafe",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "cafe",
-      "coffee",
-      "interior",
-      "shop",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "咖啡馆",
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.685,
-    "score_v2": 0.685,
-    "term_zh": "咖啡馆",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "cafe"
-    ]
-  },
-  {
-    "id": "scene_nature_coffee_shop",
-    "term": "coffee shop",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "coffee",
-      "shop",
-      "interior",
-      "cafe",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "咖啡馆",
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "咖啡馆",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "coffee shop",
-      "coffee"
-    ]
-  },
-  {
-    "id": "scene_nature_restaurant",
-    "term": "restaurant",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "restaurant",
-      "dining",
-      "interior",
-      "shop",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.8,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "自然",
-      "餐厅"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.685,
-    "score_v2": 0.685,
-    "term_zh": "餐厅",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "restaurant"
-    ]
-  },
-  {
-    "id": "scene_nature_lab",
-    "term": "lab",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "lab",
-      "laboratory",
-      "science",
-      "interior",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "实验室",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.685,
-    "score_v2": 0.685,
-    "term_zh": "实验室",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "lab"
-    ]
-  },
-  {
-    "id": "scene_nature_science_lab",
-    "term": "science lab",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "science",
-      "lab",
-      "laboratory",
-      "futuristic",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.8,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "科学实验室",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "science lab",
-      "science"
-    ]
-  },
-  {
-    "id": "scene_nature_computer_lab",
-    "term": "computer lab",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "computer",
-      "lab",
-      "technology",
-      "interior",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.75,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "计算机实验室",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "computer lab",
-      "computer"
-    ]
-  },
-  {
-    "id": "scene_nature_control_room",
-    "term": "control room",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "control",
-      "room",
-      "technology",
-      "interior",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.8,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "控制室",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "控制室",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "control room",
-      "control"
-    ]
-  },
-  {
-    "id": "scene_nature_bridge",
-    "term": "bridge",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "bridge",
-      "structure",
-      "architecture",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.685,
-    "score_v2": 0.685,
-    "term_zh": "桥",
-    "aliases": [
-      "arch bridge",
-      "suspension bridge"
-    ],
-    "aliases_zh": [
-      "arch bridge",
-      "悬索桥"
-    ],
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_stone_bridge",
-    "term": "stone bridge",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "stone",
-      "bridge",
-      "old",
-      "architecture",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "石桥",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "石桥",
-    "aliases": [
-      "arch bridge",
-      "suspension bridge"
-    ],
-    "aliases_zh": [
-      "arch bridge",
-      "悬索桥"
-    ],
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_stone_path",
-    "term": "stone path",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "stone",
-      "path",
-      "ground",
-      "architecture",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.8,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "石径",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "石径",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "stone path",
-      "stone"
-    ]
-  },
-  {
-    "id": "scene_nature_cobblestone",
-    "term": "cobblestone",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "cobblestone",
-      "stone",
-      "path",
-      "street",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "自然",
-      "鹅卵石"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "relation_group": "cobblestone",
-    "relation_role": "variant",
-    "weight": 0.685,
-    "score_v2": 0.685,
-    "term_zh": "鹅卵石",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "cobblestone"
-    ]
-  },
-  {
-    "id": "scene_nature_road",
-    "term": "road",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "road",
-      "street",
-      "path",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "自然",
-      "道路"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "relation_group": "road",
-    "relation_role": "variant",
-    "weight": 0.685,
-    "score_v2": 0.685,
-    "term_zh": "道路",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "road"
-    ]
-  },
-  {
-    "id": "scene_nature_stone_wall",
-    "term": "stone wall",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "stone",
-      "wall",
-      "structure",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.8,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "石墙",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "石墙",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "stone wall",
-      "stone"
-    ]
-  },
-  {
-    "id": "scene_nature_stone_stairs",
-    "term": "stone stairs",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "stone",
-      "stairs",
-      "steps",
-      "architecture",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.8,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "石头楼梯",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "石头楼梯",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "stone stairs",
-      "stone"
-    ]
-  },
-  {
-    "id": "scene_nature_fence",
-    "term": "fence",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "fence",
-      "barrier",
-      "wood",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.8,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "栅栏",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "relation_group": "fence",
-    "relation_role": "variant",
-    "weight": 0.685,
-    "score_v2": 0.685,
-    "term_zh": "栅栏",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "fence"
-    ]
-  },
-  {
-    "id": "scene_nature_ferris_wheel",
-    "term": "ferris wheel",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "ferris",
-      "wheel",
-      "amusement",
-      "park",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.8,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "摩天轮",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "摩天轮",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "ferris wheel",
-      "ferris"
-    ]
-  },
-  {
-    "id": "scene_nature_treehouse",
-    "term": "treehouse",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "treehouse",
-      "tree",
-      "house",
-      "nature",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.8,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "树屋",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.685,
-    "score_v2": 0.685,
-    "term_zh": "树屋",
-    "aliases": [
-      "residential house structure"
-    ],
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_island",
-    "term": "island",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "island",
-      "ocean",
-      "nature",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.685,
-    "score_v2": 0.685,
-    "term_zh": "岛",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "island"
-    ]
-  },
-  {
-    "id": "scene_nature_lagoon",
-    "term": "lagoon",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "lagoon",
-      "water",
-      "tropical",
-      "nature",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "泻湖",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.685,
-    "score_v2": 0.685,
-    "term_zh": "泻湖",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "lagoon"
-    ]
-  },
-  {
-    "id": "scene_nature_stream",
-    "term": "stream",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "stream",
-      "water",
-      "nature",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.8,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "溪流",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.685,
-    "score_v2": 0.685,
-    "term_zh": "溪流",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "stream"
-    ]
-  },
-  {
-    "id": "scene_nature_cliff",
-    "term": "cliff",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "cliff",
-      "rock",
-      "nature",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.8,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "悬崖",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.685,
-    "score_v2": 0.685,
-    "term_zh": "悬崖",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "cliff"
-    ]
-  },
-  {
-    "id": "scene_nature_cliff_edge",
-    "term": "cliff edge",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "cliff",
-      "edge",
-      "danger",
-      "nature",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.8,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "崖边",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "崖边",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "cliff edge",
-      "cliff"
-    ]
-  },
-  {
-    "id": "scene_nature_field",
-    "term": "field",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "field",
-      "grass",
-      "nature",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.8,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "田野",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.685,
-    "score_v2": 0.685,
-    "term_zh": "田野",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "field"
-    ]
-  },
-  {
-    "id": "scene_nature_wildflower_field",
-    "term": "wildflower field",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "wildflower",
-      "field",
-      "nature",
-      "colorful",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "自然",
-      "野花田野"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "野花田野",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "wildflower field",
-      "wildflower"
-    ]
-  },
-  {
-    "id": "scene_nature_snowy_field",
-    "term": "snowy field",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "snowy",
-      "field",
-      "winter",
-      "nature",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.8,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "自然",
-      "飘雪田野"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "飘雪田野",
-    "aliases": [
-      "snowfall",
-      "snowy weather"
-    ],
-    "aliases_zh": [
-      "snowy weather",
-      "下雪天"
-    ],
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_frozen_lake",
-    "term": "frozen lake",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "frozen",
-      "lake",
-      "winter",
-      "ice",
-      "nature",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "冰冻湖面",
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "冰冻湖面",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "frozen lake",
-      "frozen"
-    ]
-  },
-  {
-    "id": "scene_nature_ice_field",
-    "term": "ice field",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "ice",
-      "field",
-      "frozen",
-      "winter",
-      "nature",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.8,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "冰田野",
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "冰田野",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "ice field",
-      "ice"
-    ]
-  },
-  {
-    "id": "scene_nature_milky_way",
-    "term": "milky way",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "milky",
-      "way",
-      "stars",
-      "night",
-      "sky",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "自然",
-      "银河"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "银河",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "milky way",
-      "milky"
-    ]
-  },
-  {
-    "id": "scene_nature_lightning_storm",
-    "term": "lightning storm",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "lightning",
-      "storm",
-      "thunder",
-      "weather",
-      "added",
-      "scene",
-      "enhanced-library"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "created_at": "2026-09-29T06:29:25.226Z",
-    "updated_at": "2026-09-29T06:59:33.609Z",
-    "source": "enhanced-scene-location-collection",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
-    "labels_zh": [
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.765,
-    "score_v2": 0.765,
-    "term_zh": "闪电暴风雨",
-    "aliases_zh": [
-      "rain weather",
-      "雨天"
-    ],
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00",
-    "aliases": [
-      "lightning storm",
-      "lightning"
-    ]
-  },
-  {
     "id": "scene_weather_light_rain",
     "term": "light rain",
     "category": "scene",
@@ -9833,464 +7031,6 @@
     "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
     "aliases": [
       "set lonely highway",
-      "set"
-    ]
-  },
-  {
-    "id": "scene_nature_set_in_a_sunlit_forest_clearing_with_mos",
-    "term": "set in a sunlit forest clearing with moss-covered stones",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "forest",
-      "nodaro-prompts"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "source": "@nodaro/prompts (v1.27.0)",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Description: Sunlit mossy clearing. Prompt hint: set in a sunlit forest clearing with moss-covered stones, dappled light through tall trees and a soft carpet of fallen leaves",
-    "updated_at": "2026-09-29T15:42:24.233612+00:00",
-    "labels_zh": [
-      "nodaro",
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.885,
-    "score_v2": 0.885,
-    "term_zh": "阳光林间空地布满青苔覆盖的石头",
-    "aliases": [
-      "dense forest",
-      "woodland"
-    ],
-    "created_at": "2026-09-29T00:00:00+00:00",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_set_on_a_wide_sandy_beach_with_gentle_br",
-    "term": "set on a wide sandy beach with gentle breaking surf",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "beach",
-      "nodaro-prompts"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "source": "@nodaro/prompts (v1.27.0)",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Description: Wide sandy beach with surf. Prompt hint: set on a wide sandy beach with gentle breaking surf, footprints in wet sand and a pastel horizon",
-    "updated_at": "2026-09-29T15:42:24.233616+00:00",
-    "labels_zh": [
-      "nodaro",
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.885,
-    "score_v2": 0.885,
-    "term_zh": "宽阔沙滩轻柔拍岸海浪",
-    "aliases": [
-      "coastal",
-      "sandy beach"
-    ],
-    "created_at": "2026-09-29T00:00:00+00:00",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_set_on_a_dramatic_rocky_mountain_peak_ab",
-    "term": "set on a dramatic rocky mountain peak above the cloud line w",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "mountain-peak",
-      "nodaro-prompts"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "source": "@nodaro/prompts (v1.27.0)",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Description: Rocky alpine summit. Prompt hint: set on a dramatic rocky mountain peak above the cloud line with a sweeping alpine vista, windblown snow and crisp thin-air light",
-    "updated_at": "2026-09-29T15:42:24.233620+00:00",
-    "labels_zh": [
-      "nodaro",
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.885,
-    "score_v2": 0.885,
-    "term_zh": "戏剧性岩石山峰云线之上",
-    "aliases": [
-      "dramatic lighting"
-    ],
-    "aliases_zh": [
-      "强烈对比",
-      "戏剧光影"
-    ],
-    "created_at": "2026-09-29T00:00:00+00:00",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_set_among_endless_windblown_desert_dunes",
-    "term": "set among endless windblown desert dunes with rippled sand p",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "desert",
-      "nodaro-prompts"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "source": "@nodaro/prompts (v1.27.0)",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Description: Windblown desert dunes. Prompt hint: set among endless windblown desert dunes with rippled sand patterns, heat haze on the horizon and a merciless open sky",
-    "updated_at": "2026-09-29T15:42:24.233625+00:00",
-    "labels_zh": [
-      "nodaro",
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.885,
-    "score_v2": 0.885,
-    "term_zh": "无尽风吹沙丘涟漪沙纹",
-    "aliases": [
-      "arid landscape",
-      "sand dunes"
-    ],
-    "created_at": "2026-09-29T00:00:00+00:00",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_set_in_a_dense_humid_jungle_interior_wit",
-    "term": "set in a dense humid jungle interior with hanging vines",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "jungle",
-      "nodaro-prompts"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "source": "@nodaro/prompts (v1.27.0)",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Description: Dense humid jungle interior. Prompt hint: set in a dense humid jungle interior with hanging vines, giant ferns, distant birdcalls and emerald light filtering through the canopy",
-    "updated_at": "2026-09-29T15:42:24.233629+00:00",
-    "labels_zh": [
-      "nodaro",
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.885,
-    "score_v2": 0.885,
-    "term_zh": "浓密潮湿丛林内部垂挂藤蔓",
-    "aliases": [
-      "dense jungle",
-      "tropical forest"
-    ],
-    "aliases_zh": [
-      "dense jungle",
-      "热带丛林"
-    ],
-    "created_at": "2026-09-29T00:00:00+00:00",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_set_in_an_open_windswept_grassland_under",
-    "term": "set in an open windswept grassland under a huge sky with swa",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "grassland",
-      "nodaro-prompts"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "source": "@nodaro/prompts (v1.27.0)",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Description: Open windswept grassland. Prompt hint: set in an open windswept grassland under a huge sky with swaying tall grass, scattered wildflowers and distant rolling hills",
-    "updated_at": "2026-09-29T15:42:24.233634+00:00",
-    "labels_zh": [
-      "nodaro",
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.885,
-    "score_v2": 0.885,
-    "term_zh": "开阔风吹草原巨空漩涡云",
-    "created_at": "2026-09-29T00:00:00+00:00",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "set open windswept",
-      "set"
-    ]
-  },
-  {
-    "id": "scene_nature_set_in_a_vast_frozen_tundra_with_wind_ca",
-    "term": "set in a vast frozen tundra with wind-carved snow drifts",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "snowy-tundra",
-      "nodaro-prompts"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "source": "@nodaro/prompts (v1.27.0)",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Description: Frozen wind-carved tundra. Prompt hint: set in a vast frozen tundra with wind-carved snow drifts, low arctic sun, long blue shadows and scattered ice-crusted stones",
-    "updated_at": "2026-09-29T15:42:24.233638+00:00",
-    "labels_zh": [
-      "nodaro",
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.885,
-    "score_v2": 0.885,
-    "term_zh": "广袤冰冻苔原风刻雪堆",
-    "aliases": [
-      "snowfall",
-      "snowy weather"
-    ],
-    "aliases_zh": [
-      "snowy weather",
-      "下雪天"
-    ],
-    "created_at": "2026-09-29T00:00:00+00:00",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_set_on_a_still_mountain_lake_shoreline_w",
-    "term": "set on a still mountain-lake shoreline with mirror reflectio",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "lake-shore",
-      "nodaro-prompts"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "source": "@nodaro/prompts (v1.27.0)",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Description: Still mountain lake shoreline. Prompt hint: set on a still mountain-lake shoreline with mirror reflections, smooth pebbles, wispy morning mist and a line of dark conifers",
-    "updated_at": "2026-09-29T15:42:24.233643+00:00",
-    "labels_zh": [
-      "nodaro",
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.885,
-    "score_v2": 0.885,
-    "term_zh": "平静山湖滨镜面倒影",
-    "aliases": [
-      "alpine",
-      "mountainside"
-    ],
-    "aliases_zh": [
-      "mountainside",
-      "山脉"
-    ],
-    "created_at": "2026-09-29T00:00:00+00:00",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_set_on_a_meandering_riverbank_with_slow_",
-    "term": "set on a meandering riverbank with slow flowing water",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "riverbank",
-      "nodaro-prompts"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "source": "@nodaro/prompts (v1.27.0)",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Description: Meandering river with willow trees. Prompt hint: set on a meandering riverbank with slow flowing water, smooth pebbles along the shore, willow trees leaning over the banks and dappled sunlight rippling on the current",
-    "updated_at": "2026-09-29T15:42:24.233647+00:00",
-    "labels_zh": [
-      "nodaro",
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.885,
-    "score_v2": 0.885,
-    "term_zh": "蜿蜒河岸缓慢水流",
-    "created_at": "2026-09-29T00:00:00+00:00",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "set meandering riverbank",
-      "set"
-    ]
-  },
-  {
-    "id": "scene_nature_set_at_a_thundering_waterfall_cascading_",
-    "term": "set at a thundering waterfall cascading over mossy cliffs in",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "waterfall",
-      "nodaro-prompts"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "source": "@nodaro/prompts (v1.27.0)",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Description: Cascading falls over mossy cliffs. Prompt hint: set at a thundering waterfall cascading over mossy cliffs into a misty pool, rainbows in the spray, an emerald basin below and lush ferns clinging to wet rocks",
-    "updated_at": "2026-09-29T15:42:24.233651+00:00",
-    "labels_zh": [
-      "nodaro",
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.885,
-    "score_v2": 0.885,
-    "term_zh": "轰鸣瀑布过青苔悬崖入深潭",
-    "aliases": [
-      "cascading water"
-    ],
-    "aliases_zh": [
-      "cascading water",
-      "飞流瀑布"
-    ],
-    "created_at": "2026-09-29T00:00:00+00:00",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
-  },
-  {
-    "id": "scene_nature_set_inside_a_vast_rocky_cave_with_drippi",
-    "term": "set inside a vast rocky cave with dripping stalactites",
-    "category": "scene",
-    "subcategory": "nature",
-    "labels": [
-      "cave",
-      "nodaro-prompts"
-    ],
-    "score": 0.85,
-    "lifecycle": "approved",
-    "source": "@nodaro/prompts (v1.27.0)",
-    "usage_count": 0,
-    "success_rate": null,
-    "notes": "Description: Rocky cave with daylight shafts. Prompt hint: set inside a vast rocky cave with dripping stalactites, pools of still water, shafts of daylight piercing the darkness from above and dark mossy walls slick with moisture",
-    "updated_at": "2026-09-29T15:42:24.233656+00:00",
-    "labels_zh": [
-      "nodaro",
-      "场景",
-      "自然"
-    ],
-    "compatibility": [
-      "sdxl",
-      "midjourney",
-      "flux",
-      "kling",
-      "runway",
-      "minimax_h3"
-    ],
-    "weight": 0.885,
-    "score_v2": 0.885,
-    "term_zh": "广袤岩洞内滴水晶钟乳石",
-    "created_at": "2026-09-29T00:00:00+00:00",
-    "priority": "medium",
-    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
-    "aliases": [
-      "set inside vast",
       "set"
     ]
   },
@@ -39879,10 +36619,3270 @@
     ]
   },
   {
+    "id": "scene_scene_nature_cherry_blossom_trees",
+    "term": "cherry blossom trees",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "cherry",
+      "blossom",
+      "sakura",
+      "nature",
+      "spring",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.225Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "樱花",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.845,
+    "score_v2": 0.845,
+    "term_zh": "樱花",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "cherry blossom trees",
+      "cherry"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_rose_garden",
+    "term": "rose garden",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "rose",
+      "garden",
+      "flowers",
+      "nature",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "玫瑰花园",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "玫瑰花园",
+    "aliases": [
+      "flower garden",
+      "zen garden"
+    ],
+    "aliases_zh": [
+      "zen garden",
+      "花圃"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_sunflower_field",
+    "term": "sunflower field",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "sunflower",
+      "field",
+      "flowers",
+      "nature",
+      "summer",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "向日葵田野",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "sunflower field",
+      "sunflower"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_lavender_field",
+    "term": "lavender field",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "lavender",
+      "field",
+      "flowers",
+      "purple",
+      "nature",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "薰衣草田野",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "lavender field",
+      "lavender"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_mountain_range",
+    "term": "mountain range",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "mountain",
+      "range",
+      "landscape",
+      "nature",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "山脉",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "山脉",
+    "aliases": [
+      "alpine",
+      "mountainside"
+    ],
+    "aliases_zh": [
+      "mountainside",
+      "山脉"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_waterfall_inside_cave",
+    "term": "waterfall inside cave",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "waterfall",
+      "cave",
+      "water",
+      "nature",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.845,
+    "score_v2": 0.845,
+    "term_zh": "瀑布inside洞穴",
+    "aliases": [
+      "cascading water"
+    ],
+    "aliases_zh": [
+      "cascading water",
+      "飞流瀑布"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_tropical_beach",
+    "term": "tropical beach",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "tropical",
+      "beach",
+      "ocean",
+      "sand",
+      "nature",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.9,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "热带海滩",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "热带海滩",
+    "aliases": [
+      "coastal",
+      "sandy beach"
+    ],
+    "aliases_zh": [
+      "coastal",
+      "沙滩"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_crystal_cave",
+    "term": "crystal cave",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "crystal",
+      "cave",
+      "mineral",
+      "nature",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "水晶洞穴",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "水晶洞穴",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "crystal cave",
+      "crystal"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_grotto",
+    "term": "grotto",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "grotto",
+      "cave",
+      "water",
+      "nature",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.75,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "岩穴",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.685,
+    "score_v2": 0.685,
+    "term_zh": "岩穴",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "grotto"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_ruins",
+    "term": "ruins",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "ruins",
+      "ancient",
+      "stone",
+      "nature",
+      "abandoned",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "废墟",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.685,
+    "score_v2": 0.685,
+    "term_zh": "船船",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "ruins"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_ancient_temple",
+    "term": "ancient temple",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "ancient",
+      "temple",
+      "religious",
+      "architecture",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "古代寺庙",
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "古代寺庙",
+    "aliases": [
+      "ancient temple",
+      "shrine"
+    ],
+    "aliases_zh": [
+      "shrine",
+      "古老寺庙"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_castle",
+    "term": "castle",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "castle",
+      "medieval",
+      "fortress",
+      "architecture",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.9,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "城堡",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "relation_group": "castle",
+    "relation_role": "canonical",
+    "weight": 0.685,
+    "score_v2": 0.685,
+    "term_zh": "城堡",
+    "aliases": [
+      "fortress",
+      "medieval castle"
+    ],
+    "aliases_zh": [
+      "fortress",
+      "中世纪城堡"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_dense_forest",
+    "term": "dense forest",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "dense",
+      "forest",
+      "trees",
+      "nature",
+      "woods",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "密林",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "密林",
+    "aliases": [
+      "dense forest",
+      "woodland"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_bamboo_forest",
+    "term": "bamboo forest",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "bamboo",
+      "forest",
+      "nature",
+      "japan",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "竹子森林",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "竹子森林",
+    "aliases": [
+      "dense forest",
+      "woodland"
+    ],
+    "aliases_zh": [
+      "dense forest",
+      "茂密森林"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_enchanted_forest",
+    "term": "enchanted forest",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "enchanted",
+      "forest",
+      "magical",
+      "nature",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "自然",
+      "魔法森林"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "魔法森林",
+    "aliases": [
+      "dense forest",
+      "woodland"
+    ],
+    "aliases_zh": [
+      "dense forest",
+      "茂密森林"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_fairy_forest",
+    "term": "fairy forest",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "fairy",
+      "forest",
+      "magical",
+      "nature",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "精灵森林",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "精灵森林",
+    "aliases": [
+      "dense forest",
+      "woodland"
+    ],
+    "aliases_zh": [
+      "dense forest",
+      "茂密森林"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_whimsical_forest",
+    "term": "whimsical forest",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "whimsical",
+      "forest",
+      "magical",
+      "nature",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "奇思森林",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "奇思森林",
+    "aliases": [
+      "dense forest",
+      "woodland"
+    ],
+    "aliases_zh": [
+      "dense forest",
+      "茂密森林"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_polar_forest",
+    "term": "polar forest",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "polar",
+      "forest",
+      "snow",
+      "nature",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.75,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "极地森林",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "极地森林",
+    "aliases": [
+      "dense forest",
+      "woodland"
+    ],
+    "aliases_zh": [
+      "dense forest",
+      "茂密森林"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_snowy_forest",
+    "term": "snowy forest",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "snowy",
+      "forest",
+      "winter",
+      "nature",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "自然",
+      "飘雪森林"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "飘雪森林",
+    "aliases": [
+      "snowfall",
+      "snowy weather"
+    ],
+    "aliases_zh": [
+      "snowy weather",
+      "下雪天"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_mushroom_forest",
+    "term": "mushroom forest",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "mushroom",
+      "forest",
+      "fantasy",
+      "nature",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "自然",
+      "蘑菇森林"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "蘑菇森林",
+    "aliases": [
+      "dense forest",
+      "woodland"
+    ],
+    "aliases_zh": [
+      "dense forest",
+      "茂密森林"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_flower_forest",
+    "term": "flower forest",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "flower",
+      "forest",
+      "nature",
+      "colorful",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "自然",
+      "花森林"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "花森林",
+    "aliases": [
+      "dense forest",
+      "woodland"
+    ],
+    "aliases_zh": [
+      "dense forest",
+      "茂密森林"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_autumn_leaves",
+    "term": "autumn leaves",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "autumn",
+      "leaves",
+      "fall",
+      "orange",
+      "nature",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "秋叶子",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "秋叶子",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "autumn leaves",
+      "autumn"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_cherry_blossom_season",
+    "term": "cherry blossom season",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "cherry",
+      "blossom",
+      "spring",
+      "sakura",
+      "nature",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.9,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "樱花",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.845,
+    "score_v2": 0.845,
+    "term_zh": "樱花",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00",
+    "aliases": [
+      "cherry blossom season",
+      "cherry"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "scene_scene_nature_cottage",
+    "term": "cottage",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "cottage",
+      "house",
+      "rural",
+      "architecture",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "小屋",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.685,
+    "score_v2": 0.685,
+    "term_zh": "小屋",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "cottage"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_lighthouse",
+    "term": "lighthouse",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "lighthouse",
+      "tower",
+      "ocean",
+      "architecture",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "灯塔",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.685,
+    "score_v2": 0.685,
+    "term_zh": "灯塔",
+    "aliases": [
+      "residential house structure"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_windmill",
+    "term": "windmill",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "windmill",
+      "tower",
+      "rural",
+      "architecture",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "自然",
+      "风车"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.685,
+    "score_v2": 0.685,
+    "term_zh": "风车",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "windmill"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_greenhouse",
+    "term": "greenhouse",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "greenhouse",
+      "glass",
+      "plants",
+      "architecture",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "温室",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "relation_group": "greenhouse",
+    "relation_role": "canonical",
+    "weight": 0.685,
+    "score_v2": 0.685,
+    "term_zh": "温室",
+    "aliases": [
+      "residential house structure"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_greenhouse_interior",
+    "term": "greenhouse interior",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "greenhouse",
+      "interior",
+      "plants",
+      "architecture",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "温室内部",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "温室内部",
+    "aliases": [
+      "residential house structure"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_library",
+    "term": "library",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "library",
+      "books",
+      "interior",
+      "architecture",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "图书馆",
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "relation_group": "library",
+    "relation_role": "canonical",
+    "weight": 0.685,
+    "score_v2": 0.685,
+    "term_zh": "图书馆",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "library"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_old_library",
+    "term": "old library",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "old",
+      "library",
+      "books",
+      "vintage",
+      "architecture",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "金色图书馆",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "old library",
+      "old"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_bookshelf",
+    "term": "bookshelf",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "bookshelf",
+      "books",
+      "interior",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "书架",
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.685,
+    "score_v2": 0.685,
+    "term_zh": "书架",
+    "aliases": [
+      "elven warrior",
+      "woodland elf"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_bookstore",
+    "term": "bookstore",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "bookstore",
+      "books",
+      "shop",
+      "architecture",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "书店",
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.685,
+    "score_v2": 0.685,
+    "term_zh": "书店",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "bookstore"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_cafe",
+    "term": "cafe",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "cafe",
+      "coffee",
+      "interior",
+      "shop",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "咖啡馆",
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.685,
+    "score_v2": 0.685,
+    "term_zh": "咖啡馆",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "cafe"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_coffee_shop",
+    "term": "coffee shop",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "coffee",
+      "shop",
+      "interior",
+      "cafe",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "咖啡馆",
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "咖啡馆",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "coffee shop",
+      "coffee"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_restaurant",
+    "term": "restaurant",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "restaurant",
+      "dining",
+      "interior",
+      "shop",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "自然",
+      "餐厅"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.685,
+    "score_v2": 0.685,
+    "term_zh": "餐厅",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "restaurant"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_lab",
+    "term": "lab",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "lab",
+      "laboratory",
+      "science",
+      "interior",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "实验室",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.685,
+    "score_v2": 0.685,
+    "term_zh": "实验室",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "lab"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_science_lab",
+    "term": "science lab",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "science",
+      "lab",
+      "laboratory",
+      "futuristic",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "科学实验室",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "science lab",
+      "science"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_computer_lab",
+    "term": "computer lab",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "computer",
+      "lab",
+      "technology",
+      "interior",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.75,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "计算机实验室",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "computer lab",
+      "computer"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_control_room",
+    "term": "control room",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "control",
+      "room",
+      "technology",
+      "interior",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "控制室",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "控制室",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "control room",
+      "control"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_bridge",
+    "term": "bridge",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "bridge",
+      "structure",
+      "architecture",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.685,
+    "score_v2": 0.685,
+    "term_zh": "桥",
+    "aliases": [
+      "arch bridge",
+      "suspension bridge"
+    ],
+    "aliases_zh": [
+      "arch bridge",
+      "悬索桥"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_stone_bridge",
+    "term": "stone bridge",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "stone",
+      "bridge",
+      "old",
+      "architecture",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "石桥",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "石桥",
+    "aliases": [
+      "arch bridge",
+      "suspension bridge"
+    ],
+    "aliases_zh": [
+      "arch bridge",
+      "悬索桥"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_stone_path",
+    "term": "stone path",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "stone",
+      "path",
+      "ground",
+      "architecture",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "石径",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "石径",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "stone path",
+      "stone"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_cobblestone",
+    "term": "cobblestone",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "cobblestone",
+      "stone",
+      "path",
+      "street",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "自然",
+      "鹅卵石"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "relation_group": "cobblestone",
+    "relation_role": "variant",
+    "weight": 0.685,
+    "score_v2": 0.685,
+    "term_zh": "鹅卵石",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "cobblestone"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_road",
+    "term": "road",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "road",
+      "street",
+      "path",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "自然",
+      "道路"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "relation_group": "road",
+    "relation_role": "variant",
+    "weight": 0.685,
+    "score_v2": 0.685,
+    "term_zh": "道路",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "road"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_stone_wall",
+    "term": "stone wall",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "stone",
+      "wall",
+      "structure",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "石墙",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "石墙",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "stone wall",
+      "stone"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_stone_stairs",
+    "term": "stone stairs",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "stone",
+      "stairs",
+      "steps",
+      "architecture",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "石头楼梯",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "石头楼梯",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "stone stairs",
+      "stone"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_fence",
+    "term": "fence",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "fence",
+      "barrier",
+      "wood",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "栅栏",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "relation_group": "fence",
+    "relation_role": "variant",
+    "weight": 0.685,
+    "score_v2": 0.685,
+    "term_zh": "栅栏",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "fence"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_ferris_wheel",
+    "term": "ferris wheel",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "ferris",
+      "wheel",
+      "amusement",
+      "park",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "摩天轮",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "摩天轮",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "ferris wheel",
+      "ferris"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_treehouse",
+    "term": "treehouse",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "treehouse",
+      "tree",
+      "house",
+      "nature",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "树屋",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.685,
+    "score_v2": 0.685,
+    "term_zh": "树屋",
+    "aliases": [
+      "residential house structure"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_island",
+    "term": "island",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "island",
+      "ocean",
+      "nature",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.685,
+    "score_v2": 0.685,
+    "term_zh": "岛",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "island"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_lagoon",
+    "term": "lagoon",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "lagoon",
+      "water",
+      "tropical",
+      "nature",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "泻湖",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.685,
+    "score_v2": 0.685,
+    "term_zh": "泻湖",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "lagoon"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_stream",
+    "term": "stream",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "stream",
+      "water",
+      "nature",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "溪流",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.685,
+    "score_v2": 0.685,
+    "term_zh": "溪流",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "stream"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_cliff",
+    "term": "cliff",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "cliff",
+      "rock",
+      "nature",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "悬崖",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.685,
+    "score_v2": 0.685,
+    "term_zh": "悬崖",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "cliff"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_cliff_edge",
+    "term": "cliff edge",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "cliff",
+      "edge",
+      "danger",
+      "nature",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "崖边",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "崖边",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "cliff edge",
+      "cliff"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_field",
+    "term": "field",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "field",
+      "grass",
+      "nature",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "田野",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.685,
+    "score_v2": 0.685,
+    "term_zh": "田野",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "field"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_wildflower_field",
+    "term": "wildflower field",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "wildflower",
+      "field",
+      "nature",
+      "colorful",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "自然",
+      "野花田野"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "野花田野",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "wildflower field",
+      "wildflower"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_snowy_field",
+    "term": "snowy field",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "snowy",
+      "field",
+      "winter",
+      "nature",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "自然",
+      "飘雪田野"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "飘雪田野",
+    "aliases": [
+      "snowfall",
+      "snowy weather"
+    ],
+    "aliases_zh": [
+      "snowy weather",
+      "下雪天"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_frozen_lake",
+    "term": "frozen lake",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "frozen",
+      "lake",
+      "winter",
+      "ice",
+      "nature",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "冰冻湖面",
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "冰冻湖面",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "frozen lake",
+      "frozen"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_ice_field",
+    "term": "ice field",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "ice",
+      "field",
+      "frozen",
+      "winter",
+      "nature",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "冰田野",
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "冰田野",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "ice field",
+      "ice"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_milky_way",
+    "term": "milky way",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "milky",
+      "way",
+      "stars",
+      "night",
+      "sky",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "自然",
+      "银河"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "银河",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "milky way",
+      "milky"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_lightning_storm",
+    "term": "lightning storm",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "lightning",
+      "storm",
+      "thunder",
+      "weather",
+      "added",
+      "scene",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:29:25.226Z",
+    "updated_at": "2026-09-29T06:59:33.609Z",
+    "source": "enhanced-scene-location-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Scene and location keywords for comprehensive environment prompting. Standard PWS format categories.",
+    "labels_zh": [
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.765,
+    "score_v2": 0.765,
+    "term_zh": "闪电暴风雨",
+    "aliases_zh": [
+      "rain weather",
+      "雨天"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00",
+    "aliases": [
+      "lightning storm",
+      "lightning"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_set_in_a_sunlit_forest_clearing_with_mos",
+    "term": "set in a sunlit forest clearing with moss-covered stones",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "forest",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Sunlit mossy clearing. Prompt hint: set in a sunlit forest clearing with moss-covered stones, dappled light through tall trees and a soft carpet of fallen leaves",
+    "updated_at": "2026-09-29T15:42:24.233612+00:00",
+    "labels_zh": [
+      "nodaro",
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.885,
+    "score_v2": 0.885,
+    "term_zh": "阳光林间空地布满青苔覆盖的石头",
+    "aliases": [
+      "dense forest",
+      "woodland"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_set_on_a_wide_sandy_beach_with_gentle_br",
+    "term": "set on a wide sandy beach with gentle breaking surf",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "beach",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Wide sandy beach with surf. Prompt hint: set on a wide sandy beach with gentle breaking surf, footprints in wet sand and a pastel horizon",
+    "updated_at": "2026-09-29T15:42:24.233616+00:00",
+    "labels_zh": [
+      "nodaro",
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.885,
+    "score_v2": 0.885,
+    "term_zh": "宽阔沙滩轻柔拍岸海浪",
+    "aliases": [
+      "coastal",
+      "sandy beach"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_set_on_a_dramatic_rocky_mountain_peak_ab",
+    "term": "set on a dramatic rocky mountain peak above the cloud line w",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "mountain-peak",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Rocky alpine summit. Prompt hint: set on a dramatic rocky mountain peak above the cloud line with a sweeping alpine vista, windblown snow and crisp thin-air light",
+    "updated_at": "2026-09-29T15:42:24.233620+00:00",
+    "labels_zh": [
+      "nodaro",
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.885,
+    "score_v2": 0.885,
+    "term_zh": "戏剧性岩石山峰云线之上",
+    "aliases": [
+      "dramatic lighting"
+    ],
+    "aliases_zh": [
+      "强烈对比",
+      "戏剧光影"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_set_among_endless_windblown_desert_dunes",
+    "term": "set among endless windblown desert dunes with rippled sand p",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "desert",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Windblown desert dunes. Prompt hint: set among endless windblown desert dunes with rippled sand patterns, heat haze on the horizon and a merciless open sky",
+    "updated_at": "2026-09-29T15:42:24.233625+00:00",
+    "labels_zh": [
+      "nodaro",
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.885,
+    "score_v2": 0.885,
+    "term_zh": "无尽风吹沙丘涟漪沙纹",
+    "aliases": [
+      "arid landscape",
+      "sand dunes"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_set_in_a_dense_humid_jungle_interior_wit",
+    "term": "set in a dense humid jungle interior with hanging vines",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "jungle",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Dense humid jungle interior. Prompt hint: set in a dense humid jungle interior with hanging vines, giant ferns, distant birdcalls and emerald light filtering through the canopy",
+    "updated_at": "2026-09-29T15:42:24.233629+00:00",
+    "labels_zh": [
+      "nodaro",
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.885,
+    "score_v2": 0.885,
+    "term_zh": "浓密潮湿丛林内部垂挂藤蔓",
+    "aliases": [
+      "dense jungle",
+      "tropical forest"
+    ],
+    "aliases_zh": [
+      "dense jungle",
+      "热带丛林"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_set_in_an_open_windswept_grassland_under",
+    "term": "set in an open windswept grassland under a huge sky with swa",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "grassland",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Open windswept grassland. Prompt hint: set in an open windswept grassland under a huge sky with swaying tall grass, scattered wildflowers and distant rolling hills",
+    "updated_at": "2026-09-29T15:42:24.233634+00:00",
+    "labels_zh": [
+      "nodaro",
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.885,
+    "score_v2": 0.885,
+    "term_zh": "开阔风吹草原巨空漩涡云",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "set open windswept",
+      "set"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_set_in_a_vast_frozen_tundra_with_wind_ca",
+    "term": "set in a vast frozen tundra with wind-carved snow drifts",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "snowy-tundra",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Frozen wind-carved tundra. Prompt hint: set in a vast frozen tundra with wind-carved snow drifts, low arctic sun, long blue shadows and scattered ice-crusted stones",
+    "updated_at": "2026-09-29T15:42:24.233638+00:00",
+    "labels_zh": [
+      "nodaro",
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.885,
+    "score_v2": 0.885,
+    "term_zh": "广袤冰冻苔原风刻雪堆",
+    "aliases": [
+      "snowfall",
+      "snowy weather"
+    ],
+    "aliases_zh": [
+      "snowy weather",
+      "下雪天"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_set_on_a_still_mountain_lake_shoreline_w",
+    "term": "set on a still mountain-lake shoreline with mirror reflectio",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "lake-shore",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Still mountain lake shoreline. Prompt hint: set on a still mountain-lake shoreline with mirror reflections, smooth pebbles, wispy morning mist and a line of dark conifers",
+    "updated_at": "2026-09-29T15:42:24.233643+00:00",
+    "labels_zh": [
+      "nodaro",
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.885,
+    "score_v2": 0.885,
+    "term_zh": "平静山湖滨镜面倒影",
+    "aliases": [
+      "alpine",
+      "mountainside"
+    ],
+    "aliases_zh": [
+      "mountainside",
+      "山脉"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_set_on_a_meandering_riverbank_with_slow_",
+    "term": "set on a meandering riverbank with slow flowing water",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "riverbank",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Meandering river with willow trees. Prompt hint: set on a meandering riverbank with slow flowing water, smooth pebbles along the shore, willow trees leaning over the banks and dappled sunlight rippling on the current",
+    "updated_at": "2026-09-29T15:42:24.233647+00:00",
+    "labels_zh": [
+      "nodaro",
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.885,
+    "score_v2": 0.885,
+    "term_zh": "蜿蜒河岸缓慢水流",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "set meandering riverbank",
+      "set"
+    ]
+  },
+  {
+    "id": "scene_scene_nature_set_at_a_thundering_waterfall_cascading_",
+    "term": "set at a thundering waterfall cascading over mossy cliffs in",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "waterfall",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cascading falls over mossy cliffs. Prompt hint: set at a thundering waterfall cascading over mossy cliffs into a misty pool, rainbows in the spray, an emerald basin below and lush ferns clinging to wet rocks",
+    "updated_at": "2026-09-29T15:42:24.233651+00:00",
+    "labels_zh": [
+      "nodaro",
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.885,
+    "score_v2": 0.885,
+    "term_zh": "轰鸣瀑布过青苔悬崖入深潭",
+    "aliases": [
+      "cascading water"
+    ],
+    "aliases_zh": [
+      "cascading water",
+      "飞流瀑布"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592524+00:00"
+  },
+  {
+    "id": "scene_scene_nature_set_inside_a_vast_rocky_cave_with_drippi",
+    "term": "set inside a vast rocky cave with dripping stalactites",
+    "category": "scene",
+    "subcategory": "scene.nature",
+    "labels": [
+      "cave",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Rocky cave with daylight shafts. Prompt hint: set inside a vast rocky cave with dripping stalactites, pools of still water, shafts of daylight piercing the darkness from above and dark mossy walls slick with moisture",
+    "updated_at": "2026-09-29T15:42:24.233656+00:00",
+    "labels_zh": [
+      "nodaro",
+      "场景",
+      "自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.885,
+    "score_v2": 0.885,
+    "term_zh": "广袤岩洞内滴水晶钟乳石",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
+    "aliases": [
+      "set inside vast",
+      "set"
+    ]
+  },
+  {
     "id": "mj_mj_v5_nature_atmosphere",
     "term": "Atmosphere",
     "category": "scene",
-    "subcategory": "nature",
+    "subcategory": "scene.nature",
     "labels": [
       "mj_v5_nature",
       "atmosphere",
@@ -39925,7 +39925,7 @@
     "id": "mj_mj_v5_nature_aurora",
     "term": "Aurora",
     "category": "scene",
-    "subcategory": "nature",
+    "subcategory": "scene.nature",
     "labels": [
       "mj_v5_nature",
       "aurora",
@@ -39970,7 +39970,7 @@
     "id": "mj_mj_v5_nature_aurora_australis",
     "term": "Aurora Australis",
     "category": "scene",
-    "subcategory": "nature",
+    "subcategory": "scene.nature",
     "labels": [
       "mj_v5_nature",
       "aurora",
@@ -40014,7 +40014,7 @@
     "id": "mj_mj_v5_nature_aurora_borealis",
     "term": "Aurora Borealis",
     "category": "scene",
-    "subcategory": "nature",
+    "subcategory": "scene.nature",
     "labels": [
       "mj_v5_nature",
       "aurora",
@@ -40060,7 +40060,7 @@
     "id": "mj_mj_v5_nature_aurorae",
     "term": "Aurorae",
     "category": "scene",
-    "subcategory": "nature",
+    "subcategory": "scene.nature",
     "labels": [
       "mj_v5_nature",
       "aurorae",
@@ -40105,7 +40105,7 @@
     "id": "mj_mj_v5_nature_auroral_light",
     "term": "Auroral Light",
     "category": "scene",
-    "subcategory": "nature",
+    "subcategory": "scene.nature",
     "labels": [
       "mj_v5_nature",
       "auroral",

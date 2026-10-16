@@ -16,6 +16,13 @@
   },
   "changelog": [
     {
+      "version": "1.0.3",
+      "date": "2026-10-16",
+      "changes": [
+        "scene.json: nature (78条) 合并入 scene.nature"
+      ]
+    },
+    {
       "version": "1.0.2",
       "date": "2026-10-16",
       "changes": [
