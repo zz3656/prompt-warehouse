@@ -35,16 +35,13 @@ jobs:
       - name: Generate API
         run: python3 tools/generate-api.py
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
-      - name: Upload artifact
+      - name: Upload api artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'docs'
+          path: 'api'
 
   deploy-api:
-    if: always()
+    if: success()
     needs: build
     environment:
       name: github-pages
