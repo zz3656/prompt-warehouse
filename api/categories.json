@@ -1,6 +1,6 @@
 {
   "version": "1.0.12",
-  "total": 23,
+  "total": 18,
   "subcategories_zh": {
     "basic": "基础质量",
     "advanced": "高级质量",
@@ -423,170 +423,6 @@
       ]
     },
     {
-      "slug": "atmosphere",
-      "name_zh": "大气效果",
-      "count": 6,
-      "subcategories": [
-        {
-          "slug": "sky",
-          "name_zh": "天空",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "slug": "camera",
-      "name_zh": "camera",
-      "count": 396,
-      "subcategories": [
-        {
-          "slug": "camera.settings",
-          "name_zh": "相机设置",
-          "count": 123
-        },
-        {
-          "slug": "composition.structure",
-          "name_zh": "结构构图",
-          "count": 56
-        },
-        {
-          "slug": "camera_motion",
-          "name_zh": "镜头运动",
-          "count": 35
-        },
-        {
-          "slug": "camera_framing",
-          "name_zh": "景别",
-          "count": 18
-        },
-        {
-          "slug": "camera.perspective",
-          "name_zh": "透视效果",
-          "count": 18
-        },
-        {
-          "slug": "composition",
-          "name_zh": "居中构图",
-          "count": 17
-        },
-        {
-          "slug": "camera_format",
-          "name_zh": "画幅格式",
-          "count": 16
-        },
-        {
-          "slug": "camera_misc",
-          "name_zh": "其他相机设置",
-          "count": 15
-        },
-        {
-          "slug": "camera_angle",
-          "name_zh": "拍摄角度",
-          "count": 13
-        },
-        {
-          "slug": "lens",
-          "name_zh": "镜头选择",
-          "count": 12
-        },
-        {
-          "slug": "camera_coverage",
-          "name_zh": "镜头覆盖",
-          "count": 8
-        },
-        {
-          "slug": "camera_vantage",
-          "name_zh": "视角位置",
-          "count": 8
-        },
-        {
-          "slug": "rules",
-          "name_zh": "构图法则",
-          "count": 7
-        },
-        {
-          "slug": "camera_angles",
-          "name_zh": "视角选择",
-          "count": 7
-        },
-        {
-          "slug": "aerial",
-          "name_zh": "鸟瞰",
-          "count": 6
-        },
-        {
-          "slug": "composition.geometry",
-          "name_zh": "几何构图",
-          "count": 4
-        },
-        {
-          "slug": "framing",
-          "name_zh": "特写构图",
-          "count": 4
-        },
-        {
-          "slug": "push_in",
-          "name_zh": "推镜头",
-          "count": 3
-        },
-        {
-          "slug": "pull_out",
-          "name_zh": "拉镜头",
-          "count": 3
-        },
-        {
-          "slug": "tracking",
-          "name_zh": "跟拍",
-          "count": 3
-        },
-        {
-          "slug": "orbiting",
-          "name_zh": "环绕拍摄",
-          "count": 3
-        },
-        {
-          "slug": "crane",
-          "name_zh": "摇臂镜头",
-          "count": 3
-        },
-        {
-          "slug": "panning",
-          "name_zh": "摇镜头",
-          "count": 2
-        },
-        {
-          "slug": "prime",
-          "name_zh": "定焦镜头",
-          "count": 2
-        },
-        {
-          "slug": "anamorphic",
-          "name_zh": "变形宽银幕",
-          "count": 2
-        },
-        {
-          "slug": "wide_angle",
-          "name_zh": "广角镜头",
-          "count": 2
-        },
-        {
-          "slug": "focus_pull",
-          "name_zh": "焦点转换",
-          "count": 2
-        },
-        {
-          "slug": "vfx",
-          "name_zh": "特效镜头",
-          "count": 2
-        },
-        {
-          "slug": "zoom_in",
-          "name_zh": "推近镜头",
-          "count": 2
-        }
-      ]
-    },
-    {
       "slug": "character",
       "name_zh": "角色",
       "count": 543,
@@ -753,7 +589,7 @@
     {
       "slug": "clothing",
       "name_zh": "服装",
-      "count": 602,
+      "count": 658,
       "subcategories": [
         {
           "slug": "clothing.material",
@@ -769,6 +605,11 @@
           "slug": "accessories",
           "name_zh": "配饰",
           "count": 66
+        },
+        {
+          "slug": "clothing",
+          "name_zh": "服装搭配",
+          "count": 56
         },
         {
           "slug": "outfits",
@@ -838,42 +679,15 @@
       ]
     },
     {
-      "slug": "color-look",
-      "name_zh": "色彩分级",
-      "count": 163,
-      "subcategories": [
-        {
-          "slug": "color_look.palette",
-          "name_zh": "调色板",
-          "count": 94
-        },
-        {
-          "slug": "film_emulation",
-          "name_zh": "胶片模拟",
-          "count": 24
-        },
-        {
-          "slug": "post_process",
-          "name_zh": "后期处理",
-          "count": 19
-        },
-        {
-          "slug": "palette",
-          "name_zh": "色调选择",
-          "count": 18
-        },
-        {
-          "slug": "social_preset",
-          "name_zh": "社交预设",
-          "count": 8
-        }
-      ]
-    },
-    {
       "slug": "composition",
       "name_zh": "构图",
-      "count": 342,
+      "count": 748,
       "subcategories": [
+        {
+          "slug": "cam.camera.settings",
+          "name_zh": "cam.camera.settings",
+          "count": 123
+        },
         {
           "slug": "camera_motion",
           "name_zh": "镜头运动",
@@ -883,6 +697,16 @@
           "slug": "composition.structure",
           "name_zh": "结构构图",
           "count": 56
+        },
+        {
+          "slug": "cam.composition.structure",
+          "name_zh": "cam.composition.structure",
+          "count": 56
+        },
+        {
+          "slug": "cam.camera_motion",
+          "name_zh": "cam.camera_motion",
+          "count": 35
         },
         {
           "slug": "lens",
@@ -895,6 +719,11 @@
           "count": 31
         },
         {
+          "slug": "composition",
+          "name_zh": "居中构图",
+          "count": 29
+        },
+        {
           "slug": "camera_framing",
           "name_zh": "景别",
           "count": 27
@@ -905,9 +734,24 @@
           "count": 24
         },
         {
-          "slug": "composition",
-          "name_zh": "居中构图",
-          "count": 19
+          "slug": "cam.camera_framing",
+          "name_zh": "cam.camera_framing",
+          "count": 18
+        },
+        {
+          "slug": "cam.camera.perspective",
+          "name_zh": "cam.camera.perspective",
+          "count": 18
+        },
+        {
+          "slug": "cam.composition",
+          "name_zh": "cam.composition",
+          "count": 17
+        },
+        {
+          "slug": "cam.camera_format",
+          "name_zh": "cam.camera_format",
+          "count": 16
         },
         {
           "slug": "composition_misc",
@@ -915,9 +759,24 @@
           "count": 15
         },
         {
+          "slug": "cam.camera_misc",
+          "name_zh": "cam.camera_misc",
+          "count": 15
+        },
+        {
           "slug": "camera_coverage",
           "name_zh": "镜头覆盖",
           "count": 14
+        },
+        {
+          "slug": "cam.camera_angle",
+          "name_zh": "cam.camera_angle",
+          "count": 13
+        },
+        {
+          "slug": "cam.lens",
+          "name_zh": "cam.lens",
+          "count": 12
         },
         {
           "slug": "rules",
@@ -930,13 +789,38 @@
           "count": 8
         },
         {
+          "slug": "cam.camera_coverage",
+          "name_zh": "cam.camera_coverage",
+          "count": 8
+        },
+        {
+          "slug": "cam.camera_vantage",
+          "name_zh": "cam.camera_vantage",
+          "count": 8
+        },
+        {
           "slug": "camera_angles",
           "name_zh": "视角选择",
           "count": 7
         },
         {
+          "slug": "cam.rules",
+          "name_zh": "cam.rules",
+          "count": 7
+        },
+        {
+          "slug": "cam.camera_angles",
+          "name_zh": "cam.camera_angles",
+          "count": 7
+        },
+        {
           "slug": "aerial",
           "name_zh": "鸟瞰",
+          "count": 6
+        },
+        {
+          "slug": "cam.aerial",
+          "name_zh": "cam.aerial",
           "count": 6
         },
         {
@@ -947,6 +831,16 @@
         {
           "slug": "composition.geometry",
           "name_zh": "几何构图",
+          "count": 4
+        },
+        {
+          "slug": "cam.composition.geometry",
+          "name_zh": "cam.composition.geometry",
+          "count": 4
+        },
+        {
+          "slug": "cam.framing",
+          "name_zh": "cam.framing",
           "count": 4
         },
         {
@@ -972,6 +866,31 @@
         {
           "slug": "crane",
           "name_zh": "摇臂镜头",
+          "count": 3
+        },
+        {
+          "slug": "cam.push_in",
+          "name_zh": "cam.push_in",
+          "count": 3
+        },
+        {
+          "slug": "cam.pull_out",
+          "name_zh": "cam.pull_out",
+          "count": 3
+        },
+        {
+          "slug": "cam.tracking",
+          "name_zh": "cam.tracking",
+          "count": 3
+        },
+        {
+          "slug": "cam.orbiting",
+          "name_zh": "cam.orbiting",
+          "count": 3
+        },
+        {
+          "slug": "cam.crane",
+          "name_zh": "cam.crane",
           "count": 3
         },
         {
@@ -1007,6 +926,41 @@
         {
           "slug": "zoom_in",
           "name_zh": "推近镜头",
+          "count": 2
+        },
+        {
+          "slug": "cam.panning",
+          "name_zh": "cam.panning",
+          "count": 2
+        },
+        {
+          "slug": "cam.prime",
+          "name_zh": "cam.prime",
+          "count": 2
+        },
+        {
+          "slug": "cam.anamorphic",
+          "name_zh": "cam.anamorphic",
+          "count": 2
+        },
+        {
+          "slug": "cam.wide_angle",
+          "name_zh": "cam.wide_angle",
+          "count": 2
+        },
+        {
+          "slug": "cam.focus_pull",
+          "name_zh": "cam.focus_pull",
+          "count": 2
+        },
+        {
+          "slug": "cam.vfx",
+          "name_zh": "cam.vfx",
+          "count": 2
+        },
+        {
+          "slug": "cam.zoom_in",
+          "name_zh": "cam.zoom_in",
           "count": 2
         }
       ]
@@ -1088,7 +1042,7 @@
     {
       "slug": "lighting",
       "name_zh": "灯光",
-      "count": 270,
+      "count": 285,
       "subcategories": [
         {
           "slug": "lighting.effects",
@@ -1103,7 +1057,7 @@
         {
           "slug": "atmosphere",
           "name_zh": "氛围灯光",
-          "count": 40
+          "count": 55
         },
         {
           "slug": "dynamic",
@@ -1187,7 +1141,7 @@
     {
       "slug": "panel",
       "name_zh": "分镜",
-      "count": 74,
+      "count": 114,
       "subcategories": [
         {
           "slug": "comiceffects",
@@ -1200,6 +1154,11 @@
           "count": 19
         },
         {
+          "slug": "sb.effect",
+          "name_zh": "sb.effect",
+          "count": 18
+        },
+        {
           "slug": "panellayout",
           "name_zh": "分镜布局",
           "count": 16
@@ -1208,6 +1167,21 @@
           "slug": "panelmood",
           "name_zh": "分镜氛围",
           "count": 14
+        },
+        {
+          "slug": "sb.animation",
+          "name_zh": "sb.animation",
+          "count": 11
+        },
+        {
+          "slug": "sb.layout",
+          "name_zh": "sb.layout",
+          "count": 7
+        },
+        {
+          "slug": "sb.mood",
+          "name_zh": "sb.mood",
+          "count": 4
         }
       ]
     },
@@ -1353,7 +1327,7 @@
     {
       "slug": "scene",
       "name_zh": "场景",
-      "count": 941,
+      "count": 947,
       "subcategories": [
         {
           "slug": "scene.nature",
@@ -1366,14 +1340,14 @@
           "count": 215
         },
         {
-          "slug": "scene.geography",
-          "name_zh": "地形地貌",
+          "slug": "nature",
+          "name_zh": "自然场景",
           "count": 78
         },
         {
-          "slug": "nature",
-          "name_zh": "自然场景",
-          "count": 72
+          "slug": "scene.geography",
+          "name_zh": "地形地貌",
+          "count": 78
         },
         {
           "slug": "interaction",
@@ -1460,36 +1434,9 @@
       ]
     },
     {
-      "slug": "storyboard",
-      "name_zh": "storyboard",
-      "count": 40,
-      "subcategories": [
-        {
-          "slug": "storyboard.effect",
-          "name_zh": "漫画特效",
-          "count": 18
-        },
-        {
-          "slug": "storyboard.animation",
-          "name_zh": "动画分镜",
-          "count": 11
-        },
-        {
-          "slug": "storyboard.layout",
-          "name_zh": "分镜布局",
-          "count": 7
-        },
-        {
-          "slug": "storyboard.mood",
-          "name_zh": "分镜氛围",
-          "count": 4
-        }
-      ]
-    },
-    {
       "slug": "style",
       "name_zh": "style",
-      "count": 1230,
+      "count": 1442,
       "subcategories": [
         {
           "slug": "style.design",
@@ -1514,12 +1461,32 @@
         {
           "slug": "color_look.palette",
           "name_zh": "调色板",
-          "count": 97
+          "count": 165
+        },
+        {
+          "slug": "realism",
+          "name_zh": "写实风格",
+          "count": 67
         },
         {
           "slug": "aesthetic",
           "name_zh": "美学风格",
-          "count": 59
+          "count": 61
+        },
+        {
+          "slug": "art",
+          "name_zh": "艺术风格",
+          "count": 49
+        },
+        {
+          "slug": "animemanga",
+          "name_zh": "动漫漫画",
+          "count": 46
+        },
+        {
+          "slug": "artstyles",
+          "name_zh": "艺术流派",
+          "count": 42
         },
         {
           "slug": "artiststyle",
@@ -1527,14 +1494,9 @@
           "count": 30
         },
         {
-          "slug": "artstyles",
-          "name_zh": "艺术流派",
-          "count": 27
-        },
-        {
-          "slug": "art",
-          "name_zh": "艺术风格",
-          "count": 17
+          "slug": "specialty",
+          "name_zh": "专业风格",
+          "count": 23
         },
         {
           "slug": "style.dimension",
@@ -1542,19 +1504,9 @@
           "count": 17
         },
         {
-          "slug": "specialty",
-          "name_zh": "专业风格",
-          "count": 16
-        },
-        {
-          "slug": "animemanga",
-          "name_zh": "动漫漫画",
-          "count": 15
-        },
-        {
-          "slug": "realism",
-          "name_zh": "写实风格",
-          "count": 14
+          "slug": "styles_misc",
+          "name_zh": "其他风格变体",
+          "count": 4
         },
         {
           "slug": "style",
@@ -1575,58 +1527,6 @@
           "slug": "style.intangibles",
           "name_zh": "抽象元素",
           "count": 2
-        }
-      ]
-    },
-    {
-      "slug": "styles",
-      "name_zh": "风格",
-      "count": 309,
-      "subcategories": [
-        {
-          "slug": "realism",
-          "name_zh": "写实风格",
-          "count": 67
-        },
-        {
-          "slug": "aesthetic",
-          "name_zh": "美学风格",
-          "count": 61
-        },
-        {
-          "slug": "art",
-          "name_zh": "艺术风格",
-          "count": 49
-        },
-        {
-          "slug": "artstyles",
-          "name_zh": "艺术流派",
-          "count": 42
-        },
-        {
-          "slug": "animemanga",
-          "name_zh": "动漫漫画",
-          "count": 30
-        },
-        {
-          "slug": "artiststyle",
-          "name_zh": "艺术家风格",
-          "count": 30
-        },
-        {
-          "slug": "specialty",
-          "name_zh": "专业风格",
-          "count": 23
-        },
-        {
-          "slug": "styles_misc",
-          "name_zh": "其他风格变体",
-          "count": 4
-        },
-        {
-          "slug": "style",
-          "name_zh": "基础风格",
-          "count": 3
         }
       ]
     },

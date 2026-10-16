@@ -1,7 +1,7 @@
 {
   "version": "1.0.12",
   "schema_version": "pws-1.0",
-  "total_keywords": 5837,
+  "total_keywords": 5658,
   "total_categories": 23,
   "updated_at": "2026-10-16T09:30:00.000000+00:00",
   "updated_by": "final-fixes-aliases-workflow-names",
@@ -15,6 +15,16 @@
     "nodaro-prompts": 1149
   },
   "changelog": [
+    {
+      "version": "1.0.1",
+      "date": "2026-10-16",
+      "changes": [
+        "分类合并优化：camera→composition, styles→style, color-look→style, storyboard→panel, atmosphere→scene",
+        "子分类移动：quality.atmosphere→lighting, quality.composition→composition, character.clothing→clothing, quality.anime/animespecific→style",
+        "删除分类: camera, styles, color-look, storyboard, atmosphere (5个)",
+        "总分类数: 23 → 18, 总关键词: 5837 → 5658 (消除重复条目)"
+      ]
+    },
     {
       "version": "1.0.2",
       "date": "2026-10-12",
@@ -327,31 +337,7 @@
       "note": "所有 source 为 'BaYue-SYJ/shuixian-prompts' 的关键词"
     }
   },
-  "categories": [
-    "action-fx",
-    "animation",
-    "atmosphere",
-    "camera",
-    "character",
-    "character-fx",
-    "clothing",
-    "color-look",
-    "composition",
-    "era",
-    "held-prop",
-    "lighting",
-    "material",
-    "panel",
-    "photographer",
-    "quality",
-    "scene",
-    "shot-language",
-    "storyboard",
-    "style",
-    "styles",
-    "temporal",
-    "transitions"
-  ],
+  "categories": 18,
   "categories_zh": {
     "quality": "质量",
     "composition": "构图",

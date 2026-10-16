@@ -24318,5 +24318,2299 @@
     "aliases": [
       "zinc"
     ]
+  },
+  {
+    "id": "clothing_clothing_shorts",
+    "term": "shorts",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "bottoms",
+      "shorts",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "短裤",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "短裤",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "shorts"
+    ]
+  },
+  {
+    "id": "clothing_clothing_skirt",
+    "term": "skirt",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "bottoms",
+      "skirt",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.9,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "裙子",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "裙子",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "skirt"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "clothing_clothing_pleated_skirt",
+    "term": "pleated skirt",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "bottoms",
+      "pleated-skirt",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "百褶裙",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.585,
+    "score_v2": 0.585,
+    "term_zh": "百褶裙",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "pleated skirt",
+      "pleated"
+    ]
+  },
+  {
+    "id": "clothing_clothing_pantyhose",
+    "term": "pantyhose",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "legs",
+      "pantyhose",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "角色",
+      "连裤袜"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "连裤袜",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "pantyhose"
+    ]
+  },
+  {
+    "id": "clothing_clothing_thighhighs",
+    "term": "thighhighs",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "legs",
+      "thigh-highs",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "角色",
+      "过膝袜"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "过膝袜",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "thighhighs"
+    ]
+  },
+  {
+    "id": "clothing_clothing_zettai_ryouiki",
+    "term": "zettai ryouiki",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "legs",
+      "zettai-ryouiki",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "绝对领域",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.585,
+    "score_v2": 0.585,
+    "term_zh": "绝对领域",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "zettai ryouiki",
+      "zettai"
+    ]
+  },
+  {
+    "id": "clothing_clothing_gloves",
+    "term": "gloves",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "accessories",
+      "gloves",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "手套",
+      "服装",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "gloves",
+    "relation_role": "canonical",
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "手套",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "gloves"
+    ]
+  },
+  {
+    "id": "clothing_clothing_fingerless_gloves",
+    "term": "fingerless gloves",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "accessories",
+      "fingerless-gloves",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "角色",
+      "露指手套"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.585,
+    "score_v2": 0.585,
+    "term_zh": "露指手套",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "fingerless gloves",
+      "fingerless"
+    ]
+  },
+  {
+    "id": "clothing_clothing_mukuroizumi_skirt",
+    "term": "mukuroizumi skirt",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "bottoms",
+      "pencil-skirt",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.75,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "深褶裙",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.585,
+    "score_v2": 0.585,
+    "term_zh": "深褶裙",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "mukuroizumi skirt",
+      "mukuroizumi"
+    ]
+  },
+  {
+    "id": "clothing_clothing_jumper_skirt",
+    "term": "jumper skirt",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "outfits",
+      "jumper-skirt",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "背带裙",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.585,
+    "score_v2": 0.585,
+    "term_zh": "背带裙",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "jumper skirt",
+      "jumper"
+    ]
+  },
+  {
+    "id": "clothing_clothing_knee_high_socks",
+    "term": "knee-high socks",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "legs",
+      "knee-high-socks",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "及膝袜",
+      "服装",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.585,
+    "score_v2": 0.585,
+    "term_zh": "及膝袜",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "knee-high socks",
+      "knee-high"
+    ]
+  },
+  {
+    "id": "clothing_clothing_ankle_socks",
+    "term": "ankle socks",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "legs",
+      "ankle-socks",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.585,
+    "score_v2": 0.585,
+    "term_zh": "穿越服鞋袜",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "ankle socks",
+      "ankle"
+    ]
+  },
+  {
+    "id": "clothing_clothing_loafers",
+    "term": "loafers",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "shoes",
+      "loafers",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "乐福鞋",
+      "服装",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "乐福鞋",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "loafers"
+    ]
+  },
+  {
+    "id": "clothing_clothing_converse",
+    "term": "converse",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "shoes",
+      "converse",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "匡威",
+      "服装",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "匡威",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "converse"
+    ]
+  },
+  {
+    "id": "clothing_clothing_combat_boots",
+    "term": "combat boots",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "shoes",
+      "combat-boots",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "军靴",
+      "服装",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "combat boots",
+    "relation_role": "canonical",
+    "weight": 0.585,
+    "score_v2": 0.585,
+    "term_zh": "军靴",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "combat boots",
+      "combat"
+    ]
+  },
+  {
+    "id": "clothing_clothing_high_heels",
+    "term": "high heels",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "shoes",
+      "high-heels",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "角色",
+      "高跟鞋"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "high heels",
+    "relation_role": "canonical",
+    "weight": 0.585,
+    "score_v2": 0.585,
+    "term_zh": "高跟鞋",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "high heels",
+      "high"
+    ]
+  },
+  {
+    "id": "clothing_clothing_sandals",
+    "term": "sandals",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "shoes",
+      "sandals",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "凉鞋",
+      "服装",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "sandals",
+    "relation_role": "canonical",
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "凉鞋",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "sandals"
+    ]
+  },
+  {
+    "id": "clothing_clothing_hoodie",
+    "term": "hoodie",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "tops",
+      "hoodie",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "角色",
+      "连帽衫"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "连帽衫",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "hoodie"
+    ]
+  },
+  {
+    "id": "clothing_clothing_turtleneck",
+    "term": "turtleneck",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "tops",
+      "turtleneck",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "角色",
+      "高领"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "高领",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "turtleneck"
+    ]
+  },
+  {
+    "id": "clothing_clothing_crop_top",
+    "term": "crop top",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "tops",
+      "crop-top",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "角色",
+      "露脐上衣"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.585,
+    "score_v2": 0.585,
+    "term_zh": "露脐上衣",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "crop top",
+      "crop"
+    ]
+  },
+  {
+    "id": "clothing_clothing_hooded_cloak",
+    "term": "hooded cloak",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "outfits",
+      "hooded-cloak",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "角色",
+      "连帽斗篷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.585,
+    "score_v2": 0.585,
+    "term_zh": "连帽斗篷",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "hooded cloak",
+      "hooded"
+    ]
+  },
+  {
+    "id": "clothing_clothing_apron",
+    "term": "apron",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "outfits",
+      "apron",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "围裙",
+      "服装",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "围裙",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "apron"
+    ]
+  },
+  {
+    "id": "clothing_clothing_maid_apron",
+    "term": "maid apron",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "outfits",
+      "maid-apron",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "女仆围裙",
+      "服装",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.585,
+    "score_v2": 0.585,
+    "term_zh": "女仆围裙",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "maid apron",
+      "maid"
+    ]
+  },
+  {
+    "id": "clothing_clothing_cape",
+    "term": "cape",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "outfits",
+      "cape",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "便帽",
+      "服装",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "cape",
+    "relation_role": "canonical",
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "便帽",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "cape"
+    ]
+  },
+  {
+    "id": "clothing_clothing_coat",
+    "term": "coat",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "outfits",
+      "coat",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "大衣",
+      "服装",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "外套",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "coat"
+    ]
+  },
+  {
+    "id": "clothing_clothing_vest",
+    "term": "vest",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "tops",
+      "vest",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "背心",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "背心",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "vest"
+    ]
+  },
+  {
+    "id": "clothing_clothing_collared_shirt",
+    "term": "collared shirt",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "tops",
+      "collared-shirt",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "带领衬衫",
+      "服装",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.585,
+    "score_v2": 0.585,
+    "term_zh": "带领衬衫",
+    "aliases": [
+      "crimson red"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
+  },
+  {
+    "id": "clothing_clothing_school_uniform",
+    "term": "school uniform",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "outfits",
+      "school-uniform",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.9,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "校服",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "school uniform",
+    "relation_role": "canonical",
+    "weight": 0.585,
+    "score_v2": 0.585,
+    "term_zh": "校服",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "school uniform",
+      "school"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "clothing_clothing_white_shirt",
+    "term": "white shirt",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "tops",
+      "white-shirt",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "白发",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.585,
+    "score_v2": 0.585,
+    "term_zh": "白发",
+    "aliases": [
+      "ivory white",
+      "pure white"
+    ],
+    "aliases_zh": [
+      "纯白色",
+      "象牙白"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
+  },
+  {
+    "id": "clothing_clothing_black_shirt",
+    "term": "black shirt",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "tops",
+      "black-shirt",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "角色",
+      "黑发"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.585,
+    "score_v2": 0.585,
+    "term_zh": "黑发",
+    "aliases": [
+      "dark black",
+      "ebony black"
+    ],
+    "aliases_zh": [
+      "黑色调"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
+  },
+  {
+    "id": "clothing_clothing_long_sleeves",
+    "term": "long sleeves",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "detail",
+      "long-sleeves",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "角色",
+      "长袖"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.585,
+    "score_v2": 0.585,
+    "term_zh": "长袖",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "long sleeves",
+      "long"
+    ]
+  },
+  {
+    "id": "clothing_clothing_short_sleeves",
+    "term": "short sleeves",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "detail",
+      "short-sleeves",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "短袖",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.585,
+    "score_v2": 0.585,
+    "term_zh": "短袖",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "short sleeves",
+      "short"
+    ]
+  },
+  {
+    "id": "clothing_clothing_off_shoulder",
+    "term": "off-shoulder",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "tops",
+      "off-shoulder",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "角色",
+      "露肩"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "露肩",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "off-shoulder"
+    ]
+  },
+  {
+    "id": "clothing_clothing_strapless",
+    "term": "strapless",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "tops",
+      "strapless",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "无肩带",
+      "服装",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "无肩带",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "strapless"
+    ]
+  },
+  {
+    "id": "clothing_clothing_dress",
+    "term": "dress",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "outfits",
+      "dress",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.9,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "角色",
+      "连衣裙"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "dress",
+    "relation_role": "canonical",
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "连衣裙",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "dress"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "clothing_clothing_gown",
+    "term": "gown",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "outfits",
+      "gown",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "礼服",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "礼服",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "gown"
+    ]
+  },
+  {
+    "id": "clothing_clothing_kimono",
+    "term": "kimono",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "outfits",
+      "kimono",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "和服",
+      "服装",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "kimono",
+    "relation_role": "canonical",
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "和服",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "kimono"
+    ]
+  },
+  {
+    "id": "clothing_clothing_hanbok",
+    "term": "hanbok",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "outfits",
+      "hanbok",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.75,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "角色",
+      "韩服"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "hanbok",
+    "relation_role": "canonical",
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "韩服",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "hanbok"
+    ]
+  },
+  {
+    "id": "clothing_clothing_cheongsam",
+    "term": "cheongsam",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "outfits",
+      "cheongsam",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "旗袍",
+      "服装",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "cheongsam",
+    "relation_role": "canonical",
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "旗袍",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "cheongsam"
+    ]
+  },
+  {
+    "id": "clothing_clothing_leotard",
+    "term": "leotard",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "outfits",
+      "leotard",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.596Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "豹",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "leotard"
+    ]
+  },
+  {
+    "id": "clothing_clothing_bikini",
+    "term": "bikini",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "outfits",
+      "bikini",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.597Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "比基尼",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "比基尼",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "bikini"
+    ]
+  },
+  {
+    "id": "clothing_clothing_suit",
+    "term": "suit",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "outfits",
+      "suit",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.597Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "西装",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "西装",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "suit"
+    ]
+  },
+  {
+    "id": "clothing_clothing_dress_shirt",
+    "term": "dress shirt",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "tops",
+      "dress-shirt",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.597Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.585,
+    "score_v2": 0.585,
+    "term_zh": "连衣裙衬衫",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "dress shirt",
+      "dress"
+    ]
+  },
+  {
+    "id": "clothing_clothing_tie",
+    "term": "tie",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "accessories",
+      "tie",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.597Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "角色",
+      "领带"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "领带",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "tie"
+    ]
+  },
+  {
+    "id": "clothing_clothing_scarf",
+    "term": "scarf",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "accessories",
+      "scarf",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.597Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "围巾",
+      "服装",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "scarf",
+    "relation_role": "canonical",
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "围巾",
+    "aliases": [
+      "luxury vehicle",
+      "sports car"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
+  },
+  {
+    "id": "clothing_clothing_belt",
+    "term": "belt",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "accessories",
+      "belt",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.597Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "腰带",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "belt",
+    "relation_role": "canonical",
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "腰带",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "belt"
+    ]
+  },
+  {
+    "id": "clothing_clothing_fishnets",
+    "term": "fishnets",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "legs",
+      "fishnets",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.597Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "网袜",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "网袜",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "fishnets"
+    ]
+  },
+  {
+    "id": "clothing_clothing_boots",
+    "term": "boots",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "shoes",
+      "boots",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.597Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "角色",
+      "靴子"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "boots",
+    "relation_role": "canonical",
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "靴子",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "boots"
+    ]
+  },
+  {
+    "id": "clothing_clothing_leggings",
+    "term": "leggings",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "legs",
+      "leggings",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.597Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "紧身裤",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "紧身裤",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "leggings"
+    ]
+  },
+  {
+    "id": "clothing_clothing_stockings",
+    "term": "stockings",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "legs",
+      "stockings",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.597Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "角色",
+      "长袜"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "长袜",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "stockings"
+    ]
+  },
+  {
+    "id": "clothing_clothing_bikini_top",
+    "term": "bikini top",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "tops",
+      "bikini-top",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.597Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.585,
+    "score_v2": 0.585,
+    "term_zh": "比基尼上衣",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "bikini top",
+      "bikini"
+    ]
+  },
+  {
+    "id": "clothing_clothing_no_blouse",
+    "term": "no blouse",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "state",
+      "no-blouse",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.75,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.597Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "无上衣",
+      "服装",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.585,
+    "score_v2": 0.585,
+    "term_zh": "无上衣",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "blouse"
+    ]
+  },
+  {
+    "id": "clothing_clothing_wet_clothes",
+    "term": "wet clothes",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "state",
+      "wet-clothes",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.597Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "湿衣服",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.585,
+    "score_v2": 0.585,
+    "term_zh": "湿衣服",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "wet clothes",
+      "wet"
+    ]
+  },
+  {
+    "id": "clothing_clothing_wet",
+    "term": "wet",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "state",
+      "wet",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.597Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.505,
+    "score_v2": 0.505,
+    "term_zh": "湿",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "wet"
+    ]
+  },
+  {
+    "id": "clothing_clothing_translucent_clothes",
+    "term": "translucent clothes",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "state",
+      "translucent",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.75,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.597Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.585,
+    "score_v2": 0.585,
+    "term_zh": "半透明服装",
+    "aliases": [
+      "semi-transparent translucent"
+    ],
+    "aliases_zh": [
+      "半透明质感"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
+  },
+  {
+    "id": "clothing_clothing_undone_collar",
+    "term": "undone collar",
+    "category": "clothing",
+    "subcategory": "clothing",
+    "labels": [
+      "clothing",
+      "state",
+      "undone-collar",
+      "added",
+      "danbooru-tags",
+      "enhanced-library"
+    ],
+    "score": 0.75,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:24:47.583Z",
+    "updated_at": "2026-09-29T06:59:33.597Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tag database and Civitai community collections. Covers hair colors, eye colors, expressions, clothing, poses, accessories, effects, anatomy, and body types.",
+    "labels_zh": [
+      "danbooru",
+      "服装",
+      "角色"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.585,
+    "score_v2": 0.585,
+    "term_zh": "解开的衣领",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "undone collar",
+      "undone"
+    ]
   }
 ]

@@ -11878,5 +11878,623 @@
       "water reflection",
       "water"
     ]
+  },
+  {
+    "id": "lighting_atmosphere_atmospheric",
+    "term": "atmospheric",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "atmospheric",
+      "mood",
+      "vibe",
+      "added",
+      "quality",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:13:54.498Z",
+    "updated_at": "2026-09-29T06:59:33.607Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
+    "labels_zh": [
+      "danbooru",
+      "大气",
+      "氛围",
+      "质量"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "氛围",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "atmospheric"
+    ]
+  },
+  {
+    "id": "lighting_atmosphere_volumetric_fog",
+    "term": "volumetric fog",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "volumetric",
+      "fog",
+      "mist",
+      "added",
+      "quality",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:13:54.498Z",
+    "updated_at": "2026-09-29T06:59:33.607Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
+    "labels_zh": [
+      "danbooru",
+      "体积雾",
+      "大气",
+      "质量"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "volumetric fog",
+    "relation_role": "canonical",
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "体积雾",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "volumetric fog",
+      "volumetric"
+    ]
+  },
+  {
+    "id": "lighting_atmosphere_atmospheric_fog",
+    "term": "atmospheric fog",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "atmospheric",
+      "fog",
+      "mist",
+      "added",
+      "quality",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:13:54.498Z",
+    "updated_at": "2026-09-29T06:59:33.607Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
+    "labels_zh": [
+      "danbooru",
+      "大气",
+      "氛围雾",
+      "质量"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "氛围雾",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "atmospheric fog",
+      "atmospheric"
+    ]
+  },
+  {
+    "id": "lighting_atmosphere_smoke",
+    "term": "smoke",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "smoke",
+      "vapor",
+      "atmosphere",
+      "added",
+      "quality",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:13:54.498Z",
+    "updated_at": "2026-09-29T06:59:33.607Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
+    "labels_zh": [
+      "danbooru",
+      "大气",
+      "烟雾",
+      "质量"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "smoke",
+    "relation_role": "canonical",
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "烟雾",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "smoke"
+    ]
+  },
+  {
+    "id": "lighting_atmosphere_misty",
+    "term": "misty",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "misty",
+      "fog",
+      "haze",
+      "added",
+      "quality",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:13:54.498Z",
+    "updated_at": "2026-09-29T06:59:33.607Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
+    "labels_zh": [
+      "danbooru",
+      "大气",
+      "薄雾",
+      "质量"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "misty",
+    "relation_role": "canonical",
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "薄雾",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "misty"
+    ]
+  },
+  {
+    "id": "lighting_atmosphere_ethereal",
+    "term": "ethereal",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "ethereal",
+      "dreamy",
+      "otherworldly",
+      "added",
+      "quality",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:13:54.498Z",
+    "updated_at": "2026-09-29T06:59:33.607Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
+    "labels_zh": [
+      "danbooru",
+      "大气",
+      "空灵",
+      "质量"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "ethereal",
+    "relation_role": "canonical",
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "空灵",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "ethereal"
+    ]
+  },
+  {
+    "id": "lighting_atmosphere_eerie",
+    "term": "eerie",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "eerie",
+      "creepy",
+      "spooky",
+      "added",
+      "quality",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:13:54.498Z",
+    "updated_at": "2026-09-29T06:59:33.607Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
+    "labels_zh": [
+      "danbooru",
+      "大气",
+      "诡异",
+      "质量"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "诡异",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "eerie"
+    ]
+  },
+  {
+    "id": "lighting_atmosphere_gothic",
+    "term": "gothic",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "gothic",
+      "dark",
+      "medieval",
+      "added",
+      "quality",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:13:54.498Z",
+    "updated_at": "2026-09-29T06:59:33.607Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
+    "labels_zh": [
+      "danbooru",
+      "哥特",
+      "大气",
+      "质量"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "gothic",
+    "relation_role": "canonical",
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "哥特",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "gothic"
+    ]
+  },
+  {
+    "id": "lighting_atmosphere_romantic_atmosphere",
+    "term": "romantic atmosphere",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "romantic",
+      "atmosphere",
+      "love",
+      "added",
+      "quality",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:13:54.498Z",
+    "updated_at": "2026-09-29T06:59:33.607Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
+    "labels_zh": [
+      "danbooru",
+      "大气",
+      "浪漫氛围",
+      "质量"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "浪漫氛围",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "romantic atmosphere",
+      "romantic"
+    ]
+  },
+  {
+    "id": "lighting_atmosphere_dreamy_atmosphere",
+    "term": "dreamy atmosphere",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "dreamy",
+      "atmosphere",
+      "fantasy",
+      "added",
+      "quality",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:13:54.498Z",
+    "updated_at": "2026-09-29T06:59:33.607Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
+    "labels_zh": [
+      "danbooru",
+      "大气",
+      "梦幻氛围",
+      "质量"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "梦幻氛围",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "dreamy atmosphere",
+      "dreamy"
+    ]
+  },
+  {
+    "id": "lighting_atmosphere_magical_atmosphere",
+    "term": "magical atmosphere",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "magical",
+      "atmosphere",
+      "fantasy",
+      "added",
+      "quality",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:13:54.498Z",
+    "updated_at": "2026-09-29T06:59:33.607Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
+    "labels_zh": [
+      "danbooru",
+      "大气",
+      "质量",
+      "魔幻氛围"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "魔幻氛围",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "magical atmosphere",
+      "magical"
+    ]
+  },
+  {
+    "id": "lighting_atmosphere_mysterious_atmosphere",
+    "term": "mysterious atmosphere",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "mysterious",
+      "atmosphere",
+      "secret",
+      "added",
+      "quality",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:13:54.498Z",
+    "updated_at": "2026-09-29T06:59:33.607Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
+    "labels_zh": [
+      "danbooru",
+      "大气",
+      "神秘氛围",
+      "质量"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "神秘氛围",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "mysterious atmosphere",
+      "mysterious"
+    ]
+  },
+  {
+    "id": "lighting_atmosphere_epic_atmosphere",
+    "term": "epic atmosphere",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "epic",
+      "atmosphere",
+      "grand",
+      "added",
+      "quality",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:13:54.498Z",
+    "updated_at": "2026-09-29T06:59:33.607Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
+    "labels_zh": [
+      "danbooru",
+      "史诗氛围",
+      "大气",
+      "质量"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "史诗氛围",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "epic atmosphere",
+      "epic"
+    ]
+  },
+  {
+    "id": "lighting_atmosphere_peaceful_atmosphere",
+    "term": "peaceful atmosphere",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "peaceful",
+      "atmosphere",
+      "calm",
+      "added",
+      "quality",
+      "enhanced-library"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:13:54.498Z",
+    "updated_at": "2026-09-29T06:59:33.607Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
+    "labels_zh": [
+      "danbooru",
+      "大气",
+      "宁静氛围",
+      "质量"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.675,
+    "score_v2": 0.675,
+    "term_zh": "宁静氛围",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "peaceful atmosphere",
+      "peaceful"
+    ]
+  },
+  {
+    "id": "lighting_atmosphere_serene",
+    "term": "serene",
+    "category": "lighting",
+    "subcategory": "atmosphere",
+    "labels": [
+      "serene",
+      "peaceful",
+      "calm",
+      "added",
+      "quality",
+      "enhanced-library"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "created_at": "2026-09-29T06:13:54.498Z",
+    "updated_at": "2026-09-29T06:59:33.607Z",
+    "source": "enhanced-danbooru-tags-civitai-collection",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Added from Danbooru tags and Civitai community collection for comprehensive quality coverage.",
+    "labels_zh": [
+      "danbooru",
+      "大气",
+      "宁静",
+      "质量"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.595,
+    "score_v2": 0.595,
+    "term_zh": "宁静",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "serene"
+    ]
   }
 ]
