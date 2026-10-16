@@ -28,3 +28,10 @@ bundles/
 .pi/
 .git-credentials
 .gitconfig
+
+# Backup directories (local only)
+categories_backup_*/
+
+# Intermediate/temporary files
+keywords/_score_v2.json
+keywords/_translations.jsonl
