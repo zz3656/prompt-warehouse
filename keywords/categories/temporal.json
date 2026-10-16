@@ -29,7 +29,15 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "实时回放"
+    "term_zh": "实时回放",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467118+00:00",
+    "aliases": [
+      "real-time playback",
+      "real-time"
+    ]
   },
   {
     "id": "temporal_speed_slow_motion",
@@ -61,7 +69,15 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "慢动作"
+    "term_zh": "慢动作",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467118+00:00",
+    "aliases": [
+      "slow motion",
+      "slow"
+    ]
   },
   {
     "id": "temporal_speed_super_slow_mo",
@@ -92,7 +108,15 @@
     ],
     "weight": 0.785,
     "score_v2": 0.785,
-    "term_zh": "超级慢动作"
+    "term_zh": "超级慢动作",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467118+00:00",
+    "aliases": [
+      "super slow motion",
+      "super"
+    ]
   },
   {
     "id": "temporal_speed_time_lapse",
@@ -124,7 +148,14 @@
     ],
     "weight": 0.625,
     "score_v2": 0.625,
-    "term_zh": "延时摄影"
+    "term_zh": "延时摄影",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467118+00:00",
+    "aliases": [
+      "time-lapse"
+    ]
   },
   {
     "id": "temporal_speed_hyper_lapse",
@@ -155,7 +186,14 @@
     ],
     "weight": 0.625,
     "score_v2": 0.625,
-    "term_zh": "大跨度延时"
+    "term_zh": "大跨度延时",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467118+00:00",
+    "aliases": [
+      "hyper-lapse"
+    ]
   },
   {
     "id": "temporal_speed_speed_ramp",
@@ -187,7 +225,15 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "速度渐变"
+    "term_zh": "速度渐变",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467118+00:00",
+    "aliases": [
+      "speed ramp",
+      "speed"
+    ]
   },
   {
     "id": "temporal_freeze_full_freeze",
@@ -219,7 +265,15 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "定格帧"
+    "term_zh": "定格帧",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467118+00:00",
+    "aliases": [
+      "freeze frame",
+      "freeze"
+    ]
   },
   {
     "id": "temporal_freeze_bullet_time",
@@ -250,7 +304,15 @@
     ],
     "weight": 0.785,
     "score_v2": 0.785,
-    "term_zh": "子弹时间效果"
+    "term_zh": "子弹时间效果",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467118+00:00",
+    "aliases": [
+      "bullet time effect",
+      "bullet"
+    ]
   },
   {
     "id": "temporal_freeze_frozen_subject",
@@ -281,7 +343,15 @@
     ],
     "weight": 0.825,
     "score_v2": 0.825,
-    "term_zh": "主体定格世界运动"
+    "term_zh": "主体定格世界运动",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467118+00:00",
+    "aliases": [
+      "frozen subject, world",
+      "frozen"
+    ]
   },
   {
     "id": "temporal_freeze_moving_subject",
@@ -312,7 +382,15 @@
     ],
     "weight": 0.825,
     "score_v2": 0.825,
-    "term_zh": "主体运动世界定格"
+    "term_zh": "主体运动世界定格",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467118+00:00",
+    "aliases": [
+      "moving subject, frozen",
+      "moving"
+    ]
   },
   {
     "id": "temporal_direction_forward",
@@ -344,7 +422,15 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "正向回放"
+    "term_zh": "正向回放",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467118+00:00",
+    "aliases": [
+      "forward playback",
+      "forward"
+    ]
   },
   {
     "id": "temporal_direction_reverse",
@@ -376,7 +462,15 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "倒放"
+    "term_zh": "倒放",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467118+00:00",
+    "aliases": [
+      "reverse playback",
+      "reverse"
+    ]
   },
   {
     "id": "temporal_direction_loop_boomerang",
@@ -407,7 +501,15 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "回旋镖循环"
+    "term_zh": "回旋镖循环",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467118+00:00",
+    "aliases": [
+      "boomerang loop",
+      "boomerang"
+    ]
   },
   {
     "id": "temporal_shutter_long_exposure",
@@ -442,7 +544,11 @@
     "aliases": [
       "light trails",
       "motion blur"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.594942+00:00"
   },
   {
     "id": "temporal_shutter_crisp_shutter",
@@ -473,7 +579,15 @@
     ],
     "weight": 0.825,
     "score_v2": 0.825,
-    "term_zh": "快门急速动作锐利"
+    "term_zh": "快门急速动作锐利",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467118+00:00",
+    "aliases": [
+      "fast shutter, sharp",
+      "fast"
+    ]
   },
   {
     "id": "temporal_shutter_motion_blur",
@@ -508,7 +622,11 @@
     "aliases": [
       "moving blur",
       "speed blur"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.594942+00:00"
   },
   {
     "id": "temporal_shutter_stutter_strobe",
@@ -539,7 +657,15 @@
     ],
     "weight": 0.785,
     "score_v2": 0.785,
-    "term_zh": "频闪震感效果"
+    "term_zh": "频闪震感效果",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467118+00:00",
+    "aliases": [
+      "strobe stutter effect",
+      "strobe"
+    ]
   },
   {
     "id": "temporal_shutter_stop_motion",
@@ -574,7 +700,11 @@
     "aliases": [
       "animated sequence",
       "motion graphics"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.594942+00:00"
   },
   {
     "id": "temporal_speed_braam",
@@ -606,7 +736,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "慢动作布拉姆效果"
+    "term_zh": "慢动作布拉姆效果",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467118+00:00",
+    "aliases": [
+      "slow-motion braam",
+      "slow-motion"
+    ]
   },
   {
     "id": "temporal_speed_timelapse",
@@ -637,7 +774,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "延时摄影序列"
+    "term_zh": "延时摄影序列",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467118+00:00",
+    "aliases": [
+      "time-lapse sequence",
+      "time-lapse"
+    ]
   },
   {
     "id": "temporal_speed_hyperlapse",
@@ -668,7 +812,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "移动延时摄影"
+    "term_zh": "移动延时摄影",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467118+00:00",
+    "aliases": [
+      "hyperlapse movement",
+      "hyperlapse"
+    ]
   },
   {
     "id": "temporal_speed_undercranked",
@@ -699,7 +850,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "欠帧拍摄效果"
+    "term_zh": "欠帧拍摄效果",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467118+00:00",
+    "aliases": [
+      "undercranked footage",
+      "undercranked"
+    ]
   },
   {
     "id": "temporal_speed_overcranked",
@@ -730,7 +888,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "过帧拍摄效果"
+    "term_zh": "过帧拍摄效果",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467118+00:00",
+    "aliases": [
+      "overcranked footage",
+      "overcranked"
+    ]
   },
   {
     "id": "temporal_speed_freeze_frame",
@@ -762,7 +927,14 @@
     ],
     "weight": 0.785,
     "score_v2": 0.785,
-    "term_zh": "定格画面"
+    "term_zh": "定格帧",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467118+00:00",
+    "aliases": [
+      "freeze frame hold",
+      "freeze"
+    ]
   },
   {
     "id": "temporal_speed_ramp_speed",
@@ -793,7 +965,14 @@
     ],
     "weight": 0.785,
     "score_v2": 0.785,
-    "term_zh": "变速过渡效果"
+    "term_zh": "速度渐变",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467118+00:00",
+    "aliases": [
+      "speed ramp transition",
+      "speed"
+    ]
   },
   {
     "id": "temporal_speed_reverse_motion",
@@ -824,11 +1003,14 @@
     ],
     "weight": 0.785,
     "score_v2": 0.785,
-    "term_zh": "反向运动模糊",
+    "term_zh": "reverse运动模糊",
     "aliases": [
       "moving blur",
       "speed blur"
-    ]
+    ],
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.594942+00:00"
   },
   {
     "id": "temporal_speed_liquify",
@@ -860,7 +1042,14 @@
     ],
     "weight": 0.785,
     "score_v2": 0.785,
-    "term_zh": "液化变形时间效果"
+    "term_zh": "液体变形time",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467118+00:00",
+    "aliases": [
+      "liquid morphing time",
+      "liquid"
+    ]
   },
   {
     "id": "temporal_motion_blur_trailing",
@@ -892,11 +1081,14 @@
     ],
     "weight": 0.785,
     "score_v2": 0.785,
-    "term_zh": "运动拖影模糊",
+    "term_zh": "运动模糊trailing",
     "aliases": [
       "moving blur",
       "speed blur"
-    ]
+    ],
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.594942+00:00"
   },
   {
     "id": "temporal_shutter_waterdrop",
@@ -928,7 +1120,14 @@
     ],
     "weight": 0.825,
     "score_v2": 0.825,
-    "term_zh": "高速水珠凝固"
+    "term_zh": "高速水珠凝固",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467118+00:00",
+    "aliases": [
+      "high-speed water droplet",
+      "high-speed"
+    ]
   },
   {
     "id": "temporal_shutter_chromatic_aura",
@@ -960,13 +1159,20 @@
     ],
     "weight": 0.785,
     "score_v2": 0.785,
-    "term_zh": "色散时间拖尾"
+    "term_zh": "色散时间拖尾",
+    "updated_at": "2026-10-16T02:35:35.467118+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467118+00:00",
+    "aliases": [
+      "chromatic time trail",
+      "chromatic"
+    ]
   },
   {
     "id": "temporal_p0_8039777f",
     "term": "24fps",
     "category": "temporal",
-    "subcategory": "frame-rate",
+    "subcategory": "frame_rate",
     "weight": 0.625,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -980,13 +1186,22 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.625,
-    "term_zh": null
+    "term_zh": "24fps",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.594942+00:00",
+    "labels": [],
+    "lifecycle": "approved",
+    "aliases": [
+      "24fps"
+    ]
   },
   {
     "id": "temporal_p0_18f83e1a",
     "term": "timelapse",
     "category": "temporal",
-    "subcategory": "time-lapse",
+    "subcategory": "time_lapse",
     "weight": 0.625,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -1000,13 +1215,22 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.625,
-    "term_zh": null
+    "term_zh": "延时摄影",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.594942+00:00",
+    "labels": [],
+    "lifecycle": "approved",
+    "aliases": [
+      "timelapse"
+    ]
   },
   {
     "id": "temporal_p0_1996e2bd",
     "term": "continuous shot",
     "category": "temporal",
-    "subcategory": "long-take",
+    "subcategory": "long_take",
     "weight": 0.705,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -1020,13 +1244,23 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.705,
-    "term_zh": null
+    "term_zh": "continuous shot",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.594942+00:00",
+    "labels": [],
+    "lifecycle": "approved",
+    "aliases": [
+      "continuous shot",
+      "continuous"
+    ]
   },
   {
     "id": "temporal_p0_1168fc47",
     "term": "60fps",
     "category": "temporal",
-    "subcategory": "frame-rate",
+    "subcategory": "frame_rate",
     "weight": 0.625,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -1040,7 +1274,16 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.625,
-    "term_zh": null
+    "term_zh": "60fps",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.594942+00:00",
+    "labels": [],
+    "lifecycle": "approved",
+    "aliases": [
+      "60fps"
+    ]
   },
   {
     "id": "temporal_p0_197948f4",
@@ -1060,16 +1303,21 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.705,
-    "term_zh": null,
+    "term_zh": "画框插值",
     "aliases": [
       "smooth frame interpolation"
-    ]
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.594942+00:00",
+    "lifecycle": "approved"
   },
   {
     "id": "temporal_p0_e2fe3e36",
     "term": "frame-by-frame",
     "category": "temporal",
-    "subcategory": "stop-motion",
+    "subcategory": "stop_motion",
     "weight": 0.625,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -1083,13 +1331,22 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.625,
-    "term_zh": null
+    "term_zh": "frame-by-frame",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.594942+00:00",
+    "labels": [],
+    "lifecycle": "approved",
+    "aliases": [
+      "frame-by-frame"
+    ]
   },
   {
     "id": "temporal_p0_9a096f74",
     "term": "30fps",
     "category": "temporal",
-    "subcategory": "frame-rate",
+    "subcategory": "frame_rate",
     "weight": 0.625,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -1103,6 +1360,15 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.625,
-    "term_zh": null
+    "term_zh": "30fps",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.594942+00:00",
+    "labels": [],
+    "lifecycle": "approved",
+    "aliases": [
+      "30fps"
+    ]
   }
 ]

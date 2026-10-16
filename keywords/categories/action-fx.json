@@ -28,7 +28,15 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "轻微地震涟漪穿过画面"
+    "term_zh": "轻微地震涟漪穿过画面",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "mild earthquake tremor",
+      "mild"
+    ]
   },
   {
     "id": "action_fx_major_earthquake_earthquake_major",
@@ -59,7 +67,15 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "剧烈地震剧烈震动画面"
+    "term_zh": "剧烈地震剧烈震动画面",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "major earthquake violently",
+      "major"
+    ]
   },
   {
     "id": "action_fx_building_collapse_building_collapse",
@@ -90,7 +106,15 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "建筑坍塌中倒下"
+    "term_zh": "建筑坍塌中倒下",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "building collapsing mid-fall",
+      "building"
+    ]
   },
   {
     "id": "action_fx_tsunami_wave_tsunami_wave",
@@ -121,7 +145,15 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "高耸海啸波拍下画面"
+    "term_zh": "高耸海啸波拍下画面",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "towering tsunami wave",
+      "towering"
+    ]
   },
   {
     "id": "action_fx_tornado_tornado",
@@ -156,6 +188,14 @@
     "aliases_zh": [
       "mythical dragon",
       "飞龙"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00",
+    "aliases": [
+      "massive tornado funnel",
+      "massive"
     ]
   },
   {
@@ -187,7 +227,15 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "飓风袭掠画面"
+    "term_zh": "飓风袭掠画面",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "hurricane raging through",
+      "hurricane"
+    ]
   },
   {
     "id": "action_fx_blizzard_whiteout_blizzard_whiteout",
@@ -226,7 +274,11 @@
     "aliases": [
       "ivory white",
       "pure white"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_sandstorm_sandstorm",
@@ -261,7 +313,11 @@
     "aliases": [
       "burnt orange",
       "sunset orange"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_dust_storm_haboob_dust_storm_haboob",
@@ -292,7 +348,15 @@
     ],
     "weight": 0.725,
     "score_v2": 0.725,
-    "term_zh": "哈布沙尘暴"
+    "term_zh": "哈布沙尘暴",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "haboob dust storm",
+      "haboob"
+    ]
   },
   {
     "id": "action_fx_distant_wildfire_wildfire_distant",
@@ -331,7 +395,11 @@
     "aliases_zh": [
       "fire effects",
       "火焰"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_engulfing_wildfire_wildfire_engulfing",
@@ -370,7 +438,11 @@
     "aliases_zh": [
       "fire effects",
       "火焰"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_volcanic_eruption_volcanic_eruption",
@@ -406,6 +478,14 @@
     "aliases_zh": [
       "fire effects",
       "火焰"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00",
+    "aliases": [
+      "volcanic eruption with",
+      "volcanic"
     ]
   },
   {
@@ -445,7 +525,11 @@
     "aliases_zh": [
       "luminous",
       "发光效果"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_falling_ash_rain_ash_rain",
@@ -480,6 +564,14 @@
     "aliases_zh": [
       "fire effects",
       "火焰"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00",
+    "aliases": [
+      "falling volcanic ash",
+      "falling"
     ]
   },
   {
@@ -519,7 +611,11 @@
     "aliases_zh": [
       "snowy weather",
       "下雪天"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_hailstorm_hailstorm",
@@ -550,13 +646,21 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "猛烈冰雹暴击打画面"
+    "term_zh": "猛烈冰雹暴击打画面",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "violent hailstorm pummeling",
+      "violent"
+    ]
   },
   {
     "id": "action_fx_small_explosion_explosion_small",
     "term": "a compact small explosion with a sharp focal flash",
     "category": "action-fx",
-    "subcategory": "fire-blasts",
+    "subcategory": "fire_blasts",
     "labels": [
       "explosion-small",
       "nodaro-prompts"
@@ -585,13 +689,17 @@
     "aliases": [
       "detonation",
       "fireball explosion"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_large_explosion_explosion_large",
     "term": "a large explosion at vehicle scale",
     "category": "action-fx",
-    "subcategory": "fire-blasts",
+    "subcategory": "fire_blasts",
     "labels": [
       "explosion-large",
       "nodaro-prompts"
@@ -620,13 +728,17 @@
     "aliases": [
       "detonation",
       "fireball explosion"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_massive_explosion_explosion_massive",
     "term": "a massive explosion erupting in the scene with a building-le",
     "category": "action-fx",
-    "subcategory": "fire-blasts",
+    "subcategory": "fire_blasts",
     "labels": [
       "explosion-massive",
       "nodaro-prompts"
@@ -659,13 +771,17 @@
     "aliases_zh": [
       "fire effects",
       "火焰"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_nuclear_detonation_nuclear_detonation",
     "term": "a nuclear detonation flashing on the horizon",
     "category": "action-fx",
-    "subcategory": "sci-fi",
+    "subcategory": "sci_fi",
     "labels": [
       "nuclear-detonation",
       "nodaro-prompts"
@@ -693,13 +809,21 @@
     "term_zh": "核爆在地平线闪光",
     "aliases_zh": [
       "金属光泽表面"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00",
+    "aliases": [
+      "nuclear detonation flashing",
+      "nuclear"
     ]
   },
   {
     "id": "action_fx_airborne_fireball_fireball_airborne",
     "term": "an airborne fireball rolling through mid-air",
     "category": "action-fx",
-    "subcategory": "fire-blasts",
+    "subcategory": "fire_blasts",
     "labels": [
       "fireball-airborne",
       "nodaro-prompts"
@@ -732,13 +856,17 @@
     "aliases_zh": [
       "fire effects",
       "火焰"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_gas_explosion_gas_explosion",
     "term": "a propane gas explosion bursting outward",
     "category": "action-fx",
-    "subcategory": "fire-blasts",
+    "subcategory": "fire_blasts",
     "labels": [
       "gas-explosion",
       "nodaro-prompts"
@@ -767,7 +895,11 @@
     "aliases": [
       "detonation",
       "fireball explosion"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_oil_fire_oil_fire",
@@ -802,13 +934,17 @@
     "aliases": [
       "blazing fire",
       "flames"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_blazing_inferno_blazing_inferno",
     "term": "a blazing inferno consuming the scene",
     "category": "action-fx",
-    "subcategory": "fire-blasts",
+    "subcategory": "fire_blasts",
     "labels": [
       "blazing-inferno",
       "nodaro-prompts"
@@ -833,13 +969,21 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "熊熊炼狱吞噬画面"
+    "term_zh": "熊熊炼狱吞噬画面",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "blazing inferno consuming",
+      "blazing"
+    ]
   },
   {
     "id": "action_fx_flame_burst_flame_burst",
     "term": "a directional flame burst shooting through the scene",
     "category": "action-fx",
-    "subcategory": "fire-blasts",
+    "subcategory": "fire_blasts",
     "labels": [
       "flame-burst",
       "nodaro-prompts"
@@ -868,13 +1012,21 @@
     "aliases_zh": [
       "fire effects",
       "火焰"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00",
+    "aliases": [
+      "directional flame burst",
+      "directional"
     ]
   },
   {
     "id": "action_fx_ember_shower_ember_shower",
     "term": "a dramatic ember shower cascading through the scene",
     "category": "action-fx",
-    "subcategory": "fire-blasts",
+    "subcategory": "fire_blasts",
     "labels": [
       "ember-shower",
       "nodaro-prompts"
@@ -906,7 +1058,11 @@
     "aliases_zh": [
       "rain weather",
       "雨天"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_smoke_pillar_smoke_pillar",
@@ -944,13 +1100,17 @@
     ],
     "aliases_zh": [
       "黑色调"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_mushroom_cloud_mushroom_cloud",
     "term": "a classic mushroom cloud rising in the distance",
     "category": "action-fx",
-    "subcategory": "fire-blasts",
+    "subcategory": "fire_blasts",
     "labels": [
       "mushroom-cloud",
       "nodaro-prompts"
@@ -975,7 +1135,15 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "经典蘑菇云远处升起"
+    "term_zh": "经典蘑菇云远处升起",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "classic mushroom cloud",
+      "classic"
+    ]
   },
   {
     "id": "action_fx_lightning_bolt_lightning_bolt",
@@ -1014,7 +1182,11 @@
     "aliases_zh": [
       "rain weather",
       "雨天"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_lightning_strike_impact_lightning_strike_impact",
@@ -1049,7 +1221,11 @@
     "aliases": [
       "electric arc",
       "thunderbolt"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_lightning_storm_lightning_storm",
@@ -1080,7 +1256,15 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "猛烈雷暴多次同时击中"
+    "term_zh": "猛烈雷暴多次同时击中",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "violent lightning storm",
+      "violent"
+    ]
   },
   {
     "id": "action_fx_ball_lightning_ball_lightning",
@@ -1111,7 +1295,15 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "罕见球状闪电悬浮中空"
+    "term_zh": "罕见球状闪电悬浮中空",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "rare ball lightning",
+      "rare"
+    ]
   },
   {
     "id": "action_fx_plasma_arc_plasma_arc",
@@ -1142,7 +1334,15 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "两点间持续高压等离子电弧嗞嗞作响"
+    "term_zh": "两点间持续高压等离子电弧嗞嗞作响",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "continuous high-voltage plasma",
+      "continuous"
+    ]
   },
   {
     "id": "action_fx_taser_sparks_taser_sparks",
@@ -1173,7 +1373,15 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "紧凑电击枪放电嗞嗞作响"
+    "term_zh": "紧凑电击枪放电嗞嗞作响",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "compact taser-style electric",
+      "compact"
+    ]
   },
   {
     "id": "action_fx_electric_discharge_electric_discharge",
@@ -1204,7 +1412,15 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "突然电气放电从故障设备喷出"
+    "term_zh": "突然电气放电从故障设备喷出",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "sudden electric discharge",
+      "sudden"
+    ]
   },
   {
     "id": "action_fx_transformer_blowout_transformer_blowout",
@@ -1235,7 +1451,15 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "电线杆顶部变压器爆炸"
+    "term_zh": "电线杆顶部变压器爆炸",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "transformer blowout atop",
+      "transformer"
+    ]
   },
   {
     "id": "action_fx_st_elmo_s_fire_st_elmos_fire",
@@ -1274,7 +1498,11 @@
     "aliases_zh": [
       "fire effects",
       "火焰"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_static_shock_burst_static_shock_burst",
@@ -1305,7 +1533,15 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "接触点小静电冲击爆发"
+    "term_zh": "接触点小静电冲击爆发",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "small static shock",
+      "small"
+    ]
   },
   {
     "id": "action_fx_muzzle_flash_muzzle_flash",
@@ -1340,6 +1576,14 @@
     "aliases_zh": [
       "fire effects",
       "火焰"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00",
+    "aliases": [
+      "bright muzzle flash",
+      "bright"
     ]
   },
   {
@@ -1371,7 +1615,15 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "枪击命中表面"
+    "term_zh": "枪击命中表面",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "gunshot impact surface",
+      "gunshot"
+    ]
   },
   {
     "id": "action_fx_bullet_trail_bullet_trail",
@@ -1402,7 +1654,15 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "子弹拖尾划破空气"
+    "term_zh": "子弹拖尾划破空气",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "streaking bullet trail",
+      "streaking"
+    ]
   },
   {
     "id": "action_fx_sword_spark_sword_spark",
@@ -1437,6 +1697,14 @@
     "aliases_zh": [
       "spark effects",
       "火花效果"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00",
+    "aliases": [
+      "metal-on-metal friction sparks",
+      "metal-on-metal"
     ]
   },
   {
@@ -1468,7 +1736,15 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "双刃撞击瞬间相撞"
+    "term_zh": "双刃撞击瞬间相撞",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "two blades clashing",
+      "two"
+    ]
   },
   {
     "id": "action_fx_ricochet_spark_ricochet_spark",
@@ -1499,7 +1775,15 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "子弹从金属表面反弹"
+    "term_zh": "子弹从金属表面反弹",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "bullet ricocheting off",
+      "bullet"
+    ]
   },
   {
     "id": "action_fx_debris_field_debris_field",
@@ -1530,7 +1814,15 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "碎屑定格中空"
+    "term_zh": "碎屑定格中空",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "debris frozen mid-air",
+      "debris"
+    ]
   },
   {
     "id": "action_fx_airborne_glass_shatter_glass_shatter_airborne",
@@ -1561,7 +1853,15 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "玻璃中空破碎"
+    "term_zh": "玻璃中空破碎",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "glass shattering mid-air",
+      "glass"
+    ]
   },
   {
     "id": "action_fx_ground_shockwave_shockwave_ground",
@@ -1596,7 +1896,11 @@
     "aliases": [
       "impact wave",
       "pressure wave"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_sonic_boom_sonic_boom",
@@ -1627,7 +1931,15 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "音爆压缩空气锥环绕超声速物体"
+    "term_zh": "音爆压缩空气锥环绕超声速物体",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "sonic boom cone",
+      "sonic"
+    ]
   },
   {
     "id": "action_fx_smoke_grenade_smoke_grenade",
@@ -1661,7 +1973,11 @@
     "term_zh": "烟雾弹向四周喷吐彩色烟雾",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_flashbang_flashbang",
@@ -1695,6 +2011,14 @@
     "term_zh": "闪光弹爆震",
     "aliases_zh": [
       "金属光泽表面"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00",
+    "aliases": [
+      "flashbang detonation",
+      "flashbang"
     ]
   },
   {
@@ -1734,7 +2058,11 @@
     "aliases_zh": [
       " cinematic",
       "电影风格"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_arrow_hit_spark_arrow_hit_spark",
@@ -1769,13 +2097,21 @@
     "aliases_zh": [
       "spark effects",
       "火花效果"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00",
+    "aliases": [
+      "arrow impact sparks",
+      "arrow"
     ]
   },
   {
     "id": "action_fx_laser_blast_laser_blast",
     "term": "a bright coherent laser blast cutting through the scene",
     "category": "action-fx",
-    "subcategory": "sci-fi",
+    "subcategory": "sci_fi",
     "labels": [
       "laser-blast",
       "nodaro-prompts"
@@ -1800,13 +2136,21 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "明亮相干激光束穿过画面"
+    "term_zh": "明亮相干激光束穿过画面",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "bright coherent laser",
+      "bright"
+    ]
   },
   {
     "id": "action_fx_energy_beam_energy_beam",
     "term": "a wide pulsing energy beam projecting forward",
     "category": "action-fx",
-    "subcategory": "sci-fi",
+    "subcategory": "sci_fi",
     "labels": [
       "energy-beam",
       "nodaro-prompts"
@@ -1835,7 +2179,11 @@
     "aliases": [
       "laser beam",
       "plasma beam"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_plasma_bolt_plasma_bolt",
@@ -1874,7 +2222,11 @@
     "aliases_zh": [
       "luminous",
       "发光效果"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_force_field_shimmer_force_field_shimmer",
@@ -1909,7 +2261,11 @@
     "aliases": [
       "brutal orc",
       "warrior orc"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_force_field_impact_force_field_impact",
@@ -1944,13 +2300,17 @@
     "aliases": [
       "brutal orc",
       "warrior orc"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_portal_opening_portal_opening",
     "term": "sci-fi portal opening",
     "category": "action-fx",
-    "subcategory": "sci-fi",
+    "subcategory": "sci_fi",
     "labels": [
       "portal-opening",
       "nodaro-prompts"
@@ -1979,13 +2339,17 @@
     "aliases": [
       "dimensional portal",
       "rift"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_warp_distortion_warp_distortion",
     "term": "spacetime warp distortion",
     "category": "action-fx",
-    "subcategory": "sci-fi",
+    "subcategory": "sci_fi",
     "labels": [
       "warp-distortion",
       "nodaro-prompts"
@@ -2010,13 +2374,21 @@
     ],
     "weight": 0.725,
     "score_v2": 0.725,
-    "term_zh": "时空扭曲畸变"
+    "term_zh": "时空扭曲畸变",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "spacetime warp distortion",
+      "spacetime"
+    ]
   },
   {
     "id": "action_fx_hologram_flicker_hologram_flicker",
     "term": "a translucent holographic projection flickering and glitchin",
     "category": "action-fx",
-    "subcategory": "sci-fi",
+    "subcategory": "sci_fi",
     "labels": [
       "hologram-flicker",
       "nodaro-prompts"
@@ -2047,13 +2419,17 @@
     ],
     "aliases_zh": [
       "半透明质感"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_ion_storm_ion_storm",
     "term": "a crackling ion storm filling the scene",
     "category": "action-fx",
-    "subcategory": "sci-fi",
+    "subcategory": "sci_fi",
     "labels": [
       "ion-storm",
       "nodaro-prompts"
@@ -2078,7 +2454,15 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "嗞嗞离子风暴充斥画面"
+    "term_zh": "嗞嗞离子风暴充斥画面",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "crackling ion storm",
+      "crackling"
+    ]
   },
   {
     "id": "action_fx_antimatter_flash_antimatter_flash",
@@ -2112,13 +2496,21 @@
     "term_zh": "反物质湮灭闪光",
     "aliases_zh": [
       "金属光泽表面"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00",
+    "aliases": [
+      "antimatter annihilation flash",
+      "antimatter"
     ]
   },
   {
     "id": "action_fx_fireball_spell_fireball_spell",
     "term": "a hand-cast fireball spell",
     "category": "action-fx",
-    "subcategory": "fire-blasts",
+    "subcategory": "fire_blasts",
     "labels": [
       "fireball-spell",
       "nodaro-prompts"
@@ -2151,7 +2543,11 @@
     "aliases_zh": [
       "fire effects",
       "火焰"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_magic_aura_magic_aura",
@@ -2190,7 +2586,11 @@
     "aliases_zh": [
       "luminous",
       "发光效果"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_summoning_glyph_summoning_glyph",
@@ -2229,7 +2629,11 @@
     "aliases_zh": [
       "luminous",
       "发光效果"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_lightning_magic_lightning_magic",
@@ -2264,7 +2668,11 @@
     "aliases": [
       "electric spell",
       "thunder magic"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_ice_shard_burst_ice_shard_burst",
@@ -2295,13 +2703,21 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "冰晶碎片爆发喷射"
+    "term_zh": "冰晶碎片爆发喷射",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "burst crystalline ice",
+      "burst"
+    ]
   },
   {
     "id": "action_fx_energy_rune_energy_rune",
     "term": "a glowing arcane energy rune hovering in the air",
     "category": "action-fx",
-    "subcategory": "sci-fi",
+    "subcategory": "sci_fi",
     "labels": [
       "energy-rune",
       "nodaro-prompts"
@@ -2330,13 +2746,17 @@
     "aliases": [
       "luminous",
       "radiant glow"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_magic_portal_portal_magic",
     "term": "a swirling mystical portal opening in space",
     "category": "action-fx",
-    "subcategory": "sci-fi",
+    "subcategory": "sci_fi",
     "labels": [
       "portal-magic",
       "nodaro-prompts"
@@ -2366,7 +2786,11 @@
     "aliases": [
       "dimensional portal",
       "rift"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_healing_glow_healing_glow",
@@ -2397,7 +2821,15 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "施法者双手散发温暖治愈辉光"
+    "term_zh": "施法者双手散发温暖治愈辉光",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "warm healing glow",
+      "warm"
+    ]
   },
   {
     "id": "action_fx_dark_vortex_dark_vortex",
@@ -2431,13 +2863,21 @@
     "term_zh": "不祥黑暗漩涡在画面中旋转",
     "aliases_zh": [
       "黑色调"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00",
+    "aliases": [
+      "ominous dark vortex",
+      "ominous"
     ]
   },
   {
     "id": "action_fx_light_explosion_light_explosion",
     "term": "explosion of white-gold light",
     "category": "action-fx",
-    "subcategory": "fire-blasts",
+    "subcategory": "fire_blasts",
     "labels": [
       "light-explosion",
       "nodaro-prompts"
@@ -2466,7 +2906,11 @@
     "aliases": [
       "detonation",
       "fireball explosion"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_magic_circle_ritual",
@@ -2500,7 +2944,7 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "发光魔法仪式圈",
+    "term_zh": "发光魔幻ritual圆形",
     "aliases": [
       "luminous",
       "radiant glow"
@@ -2508,12 +2952,15 @@
     "aliases_zh": [
       "luminous",
       "发光效果"
-    ]
+    ],
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_explosion_fireball",
     "term": "fireball explosion trail",
-    "subcategory": "fire-blasts",
+    "subcategory": "fire_blasts",
     "labels": [
       "fireball",
       "explosion",
@@ -2542,7 +2989,7 @@
     ],
     "weight": 0.725,
     "score_v2": 0.725,
-    "term_zh": "火球爆炸轨迹",
+    "term_zh": "火球爆炸trail",
     "aliases": [
       "blazing fire",
       "flames"
@@ -2550,7 +2997,10 @@
     "aliases_zh": [
       "fire effects",
       "火焰"
-    ]
+    ],
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589645+00:00"
   },
   {
     "id": "action_fx_wind_blade",
@@ -2584,6 +3034,13 @@
     ],
     "weight": 0.765,
     "score_v2": 0.765,
-    "term_zh": "无形风刃斩击"
+    "term_zh": "无形风刃斩击",
+    "updated_at": "2026-10-16T02:35:35.459044+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459044+00:00",
+    "aliases": [
+      "invisible wind blade",
+      "invisible"
+    ]
   }
 ]

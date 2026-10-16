@@ -1,0 +1,42 @@
+{
+  "name": "color-look 工作流",
+  "description": "color-look 分类的常用关键词集合 (69 条)",
+  "category": "color-look",
+  "keywords": [
+    "warm color grade",
+    "cool color grade",
+    "teal and orange grade",
+    "split-toning color grade",
+    "selective color treatment",
+    "faded matte grade",
+    "flat ungraded log footage",
+    "desaturated color grade",
+    "black and white",
+    "sepia tone"
+  ],
+  "total_count": 69,
+  "id": "workflow.colorlook",
+  "name_zh": "色彩外观",
+  "steps": [
+    {
+      "order": 1,
+      "template_id": "action.motion"
+    },
+    {
+      "order": 2,
+      "template_id": "atmosphere.weather"
+    },
+    {
+      "order": 3,
+      "template_id": "camera.movement"
+    },
+    {
+      "order": 4,
+      "template_id": "camera.shot_type"
+    },
+    {
+      "order": 5,
+      "template_id": "character.multiple_views"
+    }
+  ]
+}

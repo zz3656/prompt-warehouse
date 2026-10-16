@@ -32,7 +32,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "单格分镜"
+    "term_zh": "单格分镜",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "single panel",
+      "single"
+    ]
   },
   {
     "id": "panel_panellayout_close_up_shot",
@@ -77,7 +83,9 @@
     "aliases_zh": [
       "特写镜头",
       "近景"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592163+00:00"
   },
   {
     "id": "panel_panellayout_wide_establishing_shot",
@@ -111,7 +119,13 @@
     ],
     "weight": 0.785,
     "score_v2": 0.785,
-    "term_zh": "全景开场镜头"
+    "term_zh": "全景开场镜头",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "wide establishing shot",
+      "wide"
+    ]
   },
   {
     "id": "panel_panellayout_medium_shot",
@@ -151,7 +165,14 @@
     "term_zh": "中景",
     "aliases_zh": [
       "中景镜头"
-    ]
+    ],
+    "priority": "medium",
+    "aliases": [
+      "mid shot",
+      "waist-up shot",
+      "torso shot"
+    ],
+    "_enriched_at": "2026-10-16T05:23:54.592163+00:00"
   },
   {
     "id": "panel_panellayout_reaction_shot",
@@ -186,7 +207,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "反应镜头"
+    "term_zh": "反应镜头",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "reaction shot",
+      "reaction"
+    ]
   },
   {
     "id": "panel_panellayout_two_shot",
@@ -223,7 +250,12 @@
     "relation_role": "canonical",
     "weight": 0.625,
     "score_v2": 0.625,
-    "term_zh": "双人镜头"
+    "term_zh": "双人镜头",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "two-shot"
+    ]
   },
   {
     "id": "panel_panellayout_over_the_shoulder_shot",
@@ -260,7 +292,13 @@
     "relation_role": "variant",
     "weight": 0.825,
     "score_v2": 0.825,
-    "term_zh": "过肩镜头"
+    "term_zh": "过肩镜头",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "over the shoulder",
+      "over"
+    ]
   },
   {
     "id": "panel_panellayout_point_of_view_shot",
@@ -297,7 +335,13 @@
     "relation_role": "variant",
     "weight": 0.825,
     "score_v2": 0.825,
-    "term_zh": "视角"
+    "term_zh": "视角",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "point view shot",
+      "point"
+    ]
   },
   {
     "id": "panel_panellayout_pov_shot",
@@ -333,7 +377,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "POV 镜头"
+    "term_zh": "POV 镜头",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "pov shot",
+      "pov"
+    ]
   },
   {
     "id": "panel_panellayout_dutch_angle",
@@ -374,7 +424,9 @@
     "aliases": [
       "canted frame",
       "tilted composition"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592163+00:00"
   },
   {
     "id": "panel_panellayout_dynamic_angle",
@@ -411,7 +463,13 @@
     "relation_role": "variant",
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "动态角度"
+    "term_zh": "动态角度",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "dynamic angle",
+      "dynamic"
+    ]
   },
   {
     "id": "panel_panellayout_dramatic_angle",
@@ -451,7 +509,9 @@
     "term_zh": "戏剧角度",
     "aliases": [
       "dramatic lighting"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592163+00:00"
   },
   {
     "id": "panel_panellayout_split_screen",
@@ -486,7 +546,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "分屏"
+    "term_zh": "分屏",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "split screen",
+      "split"
+    ]
   },
   {
     "id": "panel_panellayout_double_page_spread",
@@ -521,7 +587,13 @@
     ],
     "weight": 0.785,
     "score_v2": 0.785,
-    "term_zh": "跨页"
+    "term_zh": "跨页",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "double page spread",
+      "double"
+    ]
   },
   {
     "id": "panel_panellayout_splash_page",
@@ -556,7 +628,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "整页"
+    "term_zh": "整页",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "splash page",
+      "splash"
+    ]
   },
   {
     "id": "panel_comiceffects_speed_lines",
@@ -594,7 +672,9 @@
     "term_zh": "速度线",
     "aliases": [
       "dynamic motion lines"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592163+00:00"
   },
   {
     "id": "panel_comiceffects_action_lines",
@@ -629,7 +709,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "动作线"
+    "term_zh": "动作线",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "action lines",
+      "action"
+    ]
   },
   {
     "id": "panel_comiceffects_impact_lines",
@@ -664,7 +750,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "冲击线"
+    "term_zh": "冲击线",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "impact lines",
+      "impact"
+    ]
   },
   {
     "id": "panel_comiceffects_concentric_lines",
@@ -699,7 +791,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "同心线"
+    "term_zh": "同心线",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "concentric lines",
+      "concentric"
+    ]
   },
   {
     "id": "panel_comiceffects_emphasis_lines",
@@ -734,7 +832,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "强调线"
+    "term_zh": "强调线",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "emphasis lines",
+      "emphasis"
+    ]
   },
   {
     "id": "panel_comiceffects_screentone",
@@ -769,7 +873,12 @@
     ],
     "weight": 0.625,
     "score_v2": 0.625,
-    "term_zh": "网点"
+    "term_zh": "网点",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "screentone"
+    ]
   },
   {
     "id": "panel_comiceffects_halftone",
@@ -806,7 +915,12 @@
     "relation_role": "canonical",
     "weight": 0.625,
     "score_v2": 0.625,
-    "term_zh": "半色调"
+    "term_zh": "半色调",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "halftone"
+    ]
   },
   {
     "id": "panel_comiceffects_stippling",
@@ -841,7 +955,12 @@
     ],
     "weight": 0.625,
     "score_v2": 0.625,
-    "term_zh": "点画"
+    "term_zh": "点画",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "stippling"
+    ]
   },
   {
     "id": "panel_comiceffects_comic_effect",
@@ -876,7 +995,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "漫画效果"
+    "term_zh": "漫画效果",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "comic effect",
+      "comic"
+    ]
   },
   {
     "id": "panel_comiceffects_visual_effect",
@@ -911,7 +1036,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "视觉效果"
+    "term_zh": "视觉效果",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "visual effect",
+      "visual"
+    ]
   },
   {
     "id": "panel_comiceffects_sound_effect_text",
@@ -946,7 +1077,13 @@
     ],
     "weight": 0.785,
     "score_v2": 0.785,
-    "term_zh": "音效文字"
+    "term_zh": "音效文字",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "sound effect text",
+      "sound"
+    ]
   },
   {
     "id": "panel_comiceffects_onomatopoeia",
@@ -981,7 +1118,12 @@
     ],
     "weight": 0.625,
     "score_v2": 0.625,
-    "term_zh": "拟声词"
+    "term_zh": "拟声词",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "onomatopoeia"
+    ]
   },
   {
     "id": "panel_comiceffects_thought_bubble",
@@ -1016,7 +1158,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "思维气泡"
+    "term_zh": "思维气泡",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "thought bubble",
+      "thought"
+    ]
   },
   {
     "id": "panel_comiceffects_speech_balloon",
@@ -1051,7 +1199,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "对话气泡"
+    "term_zh": "对话气泡",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "speech balloon",
+      "speech"
+    ]
   },
   {
     "id": "panel_comiceffects_manga_panel_border",
@@ -1085,7 +1239,13 @@
     ],
     "weight": 0.785,
     "score_v2": 0.785,
-    "term_zh": "漫画panel边框"
+    "term_zh": "漫画panel边框",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "manga panel border",
+      "manga"
+    ]
   },
   {
     "id": "panel_comiceffects_manga_panel",
@@ -1120,7 +1280,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "漫画页"
+    "term_zh": "漫画页",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "manga panel",
+      "manga"
+    ]
   },
   {
     "id": "panel_comiceffects_focus_line",
@@ -1155,7 +1321,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "聚焦线"
+    "term_zh": "聚焦线",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "focus line",
+      "focus"
+    ]
   },
   {
     "id": "panel_comiceffects_radial_lines",
@@ -1190,7 +1362,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "放射线"
+    "term_zh": "放射线",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "radial lines",
+      "radial"
+    ]
   },
   {
     "id": "panel_comiceffects_flash_background",
@@ -1228,6 +1406,12 @@
     "term_zh": "闪光背景",
     "aliases_zh": [
       "金属光泽表面"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592163+00:00",
+    "aliases": [
+      "flash background",
+      "flash"
     ]
   },
   {
@@ -1263,7 +1447,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "抽象背景"
+    "term_zh": "抽象背景",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "abstract background",
+      "abstract"
+    ]
   },
   {
     "id": "panel_comiceffects_narration_box",
@@ -1298,7 +1488,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "叙述框"
+    "term_zh": "叙述框",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "narration box",
+      "narration"
+    ]
   },
   {
     "id": "panel_comiceffects_chapter_title",
@@ -1333,7 +1529,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "章节标题"
+    "term_zh": "章节标题",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "chapter title",
+      "chapter"
+    ]
   },
   {
     "id": "panel_animation_key_frame",
@@ -1368,7 +1570,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "钥匙画框"
+    "term_zh": "钥匙画框",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "key frame",
+      "key"
+    ]
   },
   {
     "id": "panel_animation_animation_cel",
@@ -1405,7 +1613,9 @@
     "aliases": [
       "animated sequence",
       "motion graphics"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592163+00:00"
   },
   {
     "id": "panel_animation_animation_test",
@@ -1443,7 +1653,9 @@
     "aliases": [
       "animated sequence",
       "motion graphics"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592163+00:00"
   },
   {
     "id": "panel_animation_in_between_frame",
@@ -1478,7 +1690,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "中间帧"
+    "term_zh": "中间帧",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "in-between frame",
+      "in-between"
+    ]
   },
   {
     "id": "panel_animation_smear_frame",
@@ -1513,7 +1731,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "拖影帧"
+    "term_zh": "拖影帧",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "smear frame",
+      "smear"
+    ]
   },
   {
     "id": "panel_animation_motion_blur",
@@ -1550,11 +1774,13 @@
     "relation_role": "variant",
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "动态模糊",
+    "term_zh": "运动模糊",
     "aliases": [
       "moving blur",
       "speed blur"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592163+00:00"
   },
   {
     "id": "panel_animation_squash_and_stretch",
@@ -1592,7 +1818,9 @@
     "term_zh": "挤压拉伸",
     "aliases": [
       "elastic squash and stretch animation"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592163+00:00"
   },
   {
     "id": "panel_animation_follow_through",
@@ -1627,7 +1855,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "跟随动作"
+    "term_zh": "跟随动作",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "follow through",
+      "follow"
+    ]
   },
   {
     "id": "panel_animation_overlap",
@@ -1662,7 +1896,12 @@
     ],
     "weight": 0.625,
     "score_v2": 0.625,
-    "term_zh": "重叠"
+    "term_zh": "重叠",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "overlap"
+    ]
   },
   {
     "id": "panel_animation_anticipation_pose",
@@ -1697,7 +1936,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "预备姿势"
+    "term_zh": "预备姿势",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "anticipation pose",
+      "anticipation"
+    ]
   },
   {
     "id": "panel_animation_breakdown_pose",
@@ -1732,7 +1977,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "分解姿势"
+    "term_zh": "分解姿势",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "breakdown pose",
+      "breakdown"
+    ]
   },
   {
     "id": "panel_animation_hold_frame",
@@ -1767,7 +2018,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "定格帧"
+    "term_zh": "定格帧",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "hold frame",
+      "hold"
+    ]
   },
   {
     "id": "panel_animation_tween_frame",
@@ -1801,7 +2058,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "十来岁画框"
+    "term_zh": "十来岁画框",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "tween frame",
+      "tween"
+    ]
   },
   {
     "id": "panel_animation_animated_pose",
@@ -1836,7 +2099,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "动画姿势"
+    "term_zh": "动画姿势",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "animated pose",
+      "animated"
+    ]
   },
   {
     "id": "panel_animation_limited_animation",
@@ -1875,7 +2144,9 @@
     "aliases": [
       "animated sequence",
       "motion graphics"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592163+00:00"
   },
   {
     "id": "panel_animation_full_animation",
@@ -1914,7 +2185,9 @@
     "aliases": [
       "animated sequence",
       "motion graphics"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592163+00:00"
   },
   {
     "id": "panel_animation_center_of_gravity_shift",
@@ -1949,7 +2222,13 @@
     ],
     "weight": 0.825,
     "score_v2": 0.825,
-    "term_zh": "重心偏移"
+    "term_zh": "重心偏移",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "center gravity shift",
+      "center"
+    ]
   },
   {
     "id": "panel_animation_weight_shift_pose",
@@ -1983,7 +2262,13 @@
     ],
     "weight": 0.785,
     "score_v2": 0.785,
-    "term_zh": "重心偏移姿势"
+    "term_zh": "重心偏移姿势",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "weight shift pose",
+      "weight"
+    ]
   },
   {
     "id": "panel_animation_secondary_action",
@@ -2018,7 +2303,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "次要动作"
+    "term_zh": "次要动作",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "secondary action",
+      "secondary"
+    ]
   },
   {
     "id": "panel_panelmood_dramatic_panel",
@@ -2056,7 +2347,9 @@
     "term_zh": "戏剧分镜",
     "aliases": [
       "dramatic lighting"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592163+00:00"
   },
   {
     "id": "panel_panelmood_tension_panel",
@@ -2091,7 +2384,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "紧张分镜"
+    "term_zh": "紧张分镜",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "tension panel",
+      "tension"
+    ]
   },
   {
     "id": "panel_panelmood_romantic_panel",
@@ -2126,7 +2425,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "浪漫分镜"
+    "term_zh": "浪漫分镜",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "romantic panel",
+      "romantic"
+    ]
   },
   {
     "id": "panel_panelmood_comedic_panel",
@@ -2161,7 +2466,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "喜剧分镜"
+    "term_zh": "喜剧分镜",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "comedic panel",
+      "comedic"
+    ]
   },
   {
     "id": "panel_panelmood_sad_panel",
@@ -2202,7 +2513,9 @@
     ],
     "aliases_zh": [
       "忧郁悲伤情绪"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592163+00:00"
   },
   {
     "id": "panel_panelmood_epic_panel",
@@ -2237,7 +2550,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "史诗分镜"
+    "term_zh": "史诗分镜",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "epic panel",
+      "epic"
+    ]
   },
   {
     "id": "panel_panelmood_quiet_moment",
@@ -2272,7 +2591,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "宁静时刻"
+    "term_zh": "宁静时刻",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "quiet moment",
+      "quiet"
+    ]
   },
   {
     "id": "panel_panelmood_punchline_panel",
@@ -2307,7 +2632,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "包袱分镜"
+    "term_zh": "包袱分镜",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "punchline panel",
+      "punchline"
+    ]
   },
   {
     "id": "panel_panelmood_reveal_panel",
@@ -2342,7 +2673,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "揭示分镜"
+    "term_zh": "揭示分镜",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "reveal panel",
+      "reveal"
+    ]
   },
   {
     "id": "panel_panelmood_cliffhanger_panel",
@@ -2377,7 +2714,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "悬念分镜"
+    "term_zh": "悬念分镜",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "cliffhanger panel",
+      "cliffhanger"
+    ]
   },
   {
     "id": "panel_panelmood_emotional_climax",
@@ -2412,7 +2755,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "情感高潮"
+    "term_zh": "情感高潮",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "emotional climax",
+      "emotional"
+    ]
   },
   {
     "id": "panel_panelmood_establishing_panel",
@@ -2447,7 +2796,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "建立分镜"
+    "term_zh": "建立分镜",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "establishing panel",
+      "establishing"
+    ]
   },
   {
     "id": "panel_panelmood_transition_panel",
@@ -2482,7 +2837,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "过渡分镜"
+    "term_zh": "过渡分镜",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "transition panel",
+      "transition"
+    ]
   },
   {
     "id": "panel_speed_lines_radial",
@@ -2516,10 +2877,13 @@
     ],
     "weight": 0.825,
     "score_v2": 0.825,
-    "term_zh": "径向速度线爆发",
+    "term_zh": "速度线",
     "aliases": [
       "dynamic motion lines"
-    ]
+    ],
+    "updated_at": "2026-10-16T02:35:35.463144+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592163+00:00"
   },
   {
     "id": "panel_screentone_halo",
@@ -2553,7 +2917,14 @@
     ],
     "weight": 0.785,
     "score_v2": 0.785,
-    "term_zh": "网点纸渐变光晕"
+    "term_zh": "网点渐变光环",
+    "updated_at": "2026-10-16T02:35:35.463144+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "screentone gradient halo",
+      "screentone"
+    ]
   },
   {
     "id": "panel_koma_manga",
@@ -2589,6 +2960,13 @@
     "aliases_zh": [
       "纯白色",
       "象牙白"
+    ],
+    "updated_at": "2026-10-16T02:35:35.463144+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592163+00:00",
+    "aliases": [
+      "manga-style panel gutter",
+      "manga-style"
     ]
   },
   {
@@ -2623,7 +3001,14 @@
     ],
     "weight": 0.825,
     "score_v2": 0.825,
-    "term_zh": "漫画情绪感叹爆发"
+    "term_zh": "漫画情绪感叹爆发",
+    "updated_at": "2026-10-16T02:35:35.463144+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463144+00:00",
+    "aliases": [
+      "comic emotion exclamation",
+      "comic"
+    ]
   },
   {
     "id": "panel_shadownet_detailed",
@@ -2660,6 +3045,9 @@
     "aliases": [
       "highly detailed",
       "intricate details"
-    ]
+    ],
+    "updated_at": "2026-10-16T02:35:35.463144+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592163+00:00"
   }
 ]

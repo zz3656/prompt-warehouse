@@ -1,0 +1,42 @@
+{
+  "name": "character 工作流",
+  "description": "character 分类的常用关键词集合 (542 条)",
+  "category": "character",
+  "keywords": [
+    "flowing hair",
+    "wind-blown hair",
+    "long hair",
+    "short hair",
+    "curly hair",
+    "wavy hair",
+    "straight hair",
+    "spiky hair",
+    "messy hair",
+    "neatly styled hair"
+  ],
+  "total_count": 542,
+  "id": "workflow.character",
+  "name_zh": "角色",
+  "steps": [
+    {
+      "order": 1,
+      "template_id": "action.motion"
+    },
+    {
+      "order": 2,
+      "template_id": "atmosphere.weather"
+    },
+    {
+      "order": 3,
+      "template_id": "camera.movement"
+    },
+    {
+      "order": 4,
+      "template_id": "camera.shot_type"
+    },
+    {
+      "order": 5,
+      "template_id": "character.multiple_views"
+    }
+  ]
+}

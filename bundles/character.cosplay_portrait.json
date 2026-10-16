@@ -50,24 +50,16 @@
       "weight": 0.85
     },
     {
-      "id": "mj_mj_v5_lighting_bright",
-      "weight": 0.85
-    },
-    {
       "id": "scene_nature_castle",
       "weight": 0.85
     },
     {
-      "id": "mj_mj_v5_nature_forest",
+      "id": "scene_nature_forest",
       "weight": 0.85
     },
     {
-      "id": "mj_mj_v5_nature_waterfall",
+      "id": "scene_nature_waterfall",
       "weight": 0.8
-    },
-    {
-      "id": "mj_mj_v5_lighting_backlight",
-      "weight": 0.85
     },
     {
       "id": "lighting_dramatic_chiaroscuro",
@@ -87,7 +79,7 @@
       "force_include": true
     },
     {
-      "id": "mj_mj_v5_camera_portrait",
+      "id": "camera_portrait_53dad2ee",
       "weight": 0.85
     },
     {

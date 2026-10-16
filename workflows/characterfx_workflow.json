@@ -1,0 +1,42 @@
+{
+  "name": "character-fx 工作流",
+  "description": "character-fx 分类的常用关键词集合 (60 条)",
+  "category": "character-fx",
+  "keywords": [
+    "werewolf transformation",
+    "vampire transformation",
+    "the subject's skin peels open along seams to reveal glowing ",
+    "the subject becomes translucent and ethereal",
+    "stone petrification",
+    "liquid metal morph",
+    "animal transformation",
+    "gorilla transformation",
+    "magical aura transformation",
+    "the subject's body dissolves into a swirling cloud of colour"
+  ],
+  "total_count": 60,
+  "id": "workflow.characterfx",
+  "name_zh": "角色特效",
+  "steps": [
+    {
+      "order": 1,
+      "template_id": "action.motion"
+    },
+    {
+      "order": 2,
+      "template_id": "atmosphere.weather"
+    },
+    {
+      "order": 3,
+      "template_id": "camera.movement"
+    },
+    {
+      "order": 4,
+      "template_id": "camera.shot_type"
+    },
+    {
+      "order": 5,
+      "template_id": "character.multiple_views"
+    }
+  ]
+}

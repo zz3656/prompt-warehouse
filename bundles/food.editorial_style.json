@@ -58,7 +58,7 @@
       "weight": 0.85
     },
     {
-      "id": "mj_mj_v5_nature_forest",
+      "id": "scene_nature_forest",
       "weight": 0.8
     },
     {
@@ -79,7 +79,7 @@
       "weight": 0.85
     },
     {
-      "id": "mj_mj_v5_themes_rustic",
+      "id": "style_themes_rustic",
       "weight": 0.8
     },
     {
@@ -95,7 +95,7 @@
       "weight": 0.9
     },
     {
-      "id": "mj_mj_v5_camera_golden_hour",
+      "id": "scene_time_golden_hour",
       "weight": 0.85
     },
     {

@@ -80,10 +80,6 @@
       "weight": 0.75
     },
     {
-      "id": "mj_mj_v5_lighting_bright",
-      "weight": 0.9
-    },
-    {
       "id": "character_eyes_long_eyelashes",
       "weight": 0.85
     },
@@ -100,12 +96,8 @@
       "weight": 0.85
     },
     {
-      "id": "mj_mj_v5_camera_portrait",
+      "id": "camera_portrait_53dad2ee",
       "weight": 0.9
-    },
-    {
-      "id": "mj_mj_v5_lighting_backlight",
-      "weight": 0.85
     },
     {
       "id": "lighting_dramatic_chiaroscuro",

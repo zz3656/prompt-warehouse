@@ -38,7 +38,9 @@
     ],
     "aliases_zh": [
       "测试1"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_basic_best_quality",
@@ -73,7 +75,13 @@
     "term_zh": "最高质量",
     "aliases": [
       "top quality"
-    ]
+    ],
+    "priority": "high",
+    "aliases_zh": [
+      "最高质量",
+      "顶级质量"
+    ],
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_basic_high_quality",
@@ -111,7 +119,9 @@
     "aliases": [
       "highres",
       "super detailed"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_basic_high_resolution",
@@ -147,7 +157,14 @@
     "aliases_zh": [
       "高清",
       "高解析度"
-    ]
+    ],
+    "priority": "high",
+    "aliases": [
+      "hd",
+      "high res",
+      "sharp"
+    ],
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_basic_detailed",
@@ -185,7 +202,9 @@
     "aliases": [
       "highly detailed",
       "intricate details"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_basic_highly_detailed",
@@ -225,7 +244,9 @@
     "aliases_zh": [
       "精细细节",
       "高度细节"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_basic_sharp_focus",
@@ -261,7 +282,9 @@
     "aliases": [
       "clear focus",
       "in focus"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_basic_crisp",
@@ -293,7 +316,13 @@
     ],
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "锐利"
+    "term_zh": "锐利",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "crisp"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "quality_basic_clear",
@@ -325,7 +354,13 @@
     ],
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "清晰"
+    "term_zh": "清晰",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "clear"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "quality_basic_clean",
@@ -357,7 +392,13 @@
     ],
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "干净"
+    "term_zh": "干净",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "clean"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "quality_advanced_professional",
@@ -389,7 +430,13 @@
     ],
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "专业"
+    "term_zh": "专业",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "pro",
+      "expert level"
+    ]
   },
   {
     "id": "quality_advanced_professional_grade",
@@ -421,7 +468,12 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "专业级"
+    "term_zh": "专业级",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "grade"
+    ]
   },
   {
     "id": "quality_advanced_award_winning",
@@ -453,7 +505,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "获奖作品"
+    "term_zh": "获奖作品",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "award winning",
+      "award"
+    ]
   },
   {
     "id": "quality_advanced_trending_on_artstation",
@@ -486,7 +544,13 @@
     "relation_role": "canonical",
     "weight": 0.755,
     "score_v2": 0.755,
-    "term_zh": "艺术站热门"
+    "term_zh": "艺术站热门",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "trending artstation",
+      "trending"
+    ]
   },
   {
     "id": "quality_advanced_finely_detailed",
@@ -526,7 +590,9 @@
     "aliases_zh": [
       "精细细节",
       "高度细节"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_advanced_intricate_details",
@@ -562,6 +628,11 @@
     "aliases_zh": [
       "精细细节",
       "高度细节"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "details"
     ]
   },
   {
@@ -599,7 +670,14 @@
     "aliases": [
       "highly detailed",
       "intricate details"
-    ]
+    ],
+    "priority": "high",
+    "aliases_zh": [
+      "超精细",
+      "复杂细节",
+      "高度细节"
+    ],
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_advanced_8k_uhd",
@@ -632,7 +710,12 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "8K UHD"
+    "term_zh": "8K UHD",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "uhd"
+    ]
   },
   {
     "id": "quality_advanced_photorealistic_rendering",
@@ -671,7 +754,9 @@
     "aliases_zh": [
       "照片级真实",
       "逼真渲染"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_advanced_premium_quality",
@@ -703,7 +788,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "顶级质量"
+    "term_zh": "顶级质量",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "premium quality",
+      "premium"
+    ]
   },
   {
     "id": "quality_animespecific_vivid_colors",
@@ -737,7 +828,13 @@
     "relation_role": "canonical",
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "鲜艳颜色"
+    "term_zh": "鲜艳颜色",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "vivid colors",
+      "vivid"
+    ]
   },
   {
     "id": "quality_animespecific_colorful",
@@ -771,7 +868,12 @@
     "relation_role": "canonical",
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "色彩丰富"
+    "term_zh": "色彩丰富",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "colorful"
+    ]
   },
   {
     "id": "quality_animespecific_beautiful_lighting",
@@ -805,7 +907,12 @@
     "relation_role": "canonical",
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "美丽照明"
+    "term_zh": "美丽照明",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "lighting"
+    ]
   },
   {
     "id": "quality_animespecific_official_art",
@@ -837,7 +944,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "官方艺术"
+    "term_zh": "官方艺术",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "official art",
+      "official"
+    ]
   },
   {
     "id": "quality_animespecific_key_visual",
@@ -871,7 +984,13 @@
     "relation_role": "canonical",
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "钥匙视觉"
+    "term_zh": "钥匙视觉",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "key visual",
+      "key"
+    ]
   },
   {
     "id": "quality_animespecific_anime_screencap",
@@ -905,7 +1024,13 @@
     "relation_role": "canonical",
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "动漫截图"
+    "term_zh": "动漫截图",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "anime screencap",
+      "anime"
+    ]
   },
   {
     "id": "quality_animespecific_anime_still",
@@ -939,7 +1064,13 @@
     "relation_role": "canonical",
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "动漫静帧"
+    "term_zh": "动漫静帧",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "anime still",
+      "anime"
+    ]
   },
   {
     "id": "quality_animespecific_clean_lineart",
@@ -971,7 +1102,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "干净线稿"
+    "term_zh": "干净线稿",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "clean lineart",
+      "clean"
+    ]
   },
   {
     "id": "quality_animespecific_smooth_coloring",
@@ -1003,7 +1140,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "平滑上色"
+    "term_zh": "平滑上色",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "smooth coloring",
+      "smooth"
+    ]
   },
   {
     "id": "quality_animespecific_detailed_cel_shading",
@@ -1038,7 +1181,9 @@
     "aliases": [
       "highly detailed",
       "intricate details"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_basic_highres",
@@ -1074,9 +1219,11 @@
     "weight": 0.595,
     "score_v2": 0.595,
     "term_zh": "高分辨率",
-    "aliases_zh": [
-      "高清",
-      "高解析度"
+    "aliases_zh": [],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "highres"
     ]
   },
   {
@@ -1112,9 +1259,11 @@
     "weight": 0.595,
     "score_v2": 0.595,
     "term_zh": "超高分辨率",
-    "aliases_zh": [
-      "高清",
-      "高解析度"
+    "aliases_zh": [],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "absurdres"
     ]
   },
   {
@@ -1151,7 +1300,14 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "RAW 照片"
+    "term_zh": "RAW 照片",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "raw photo",
+      "raw"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "quality_basic_photograph",
@@ -1188,7 +1344,13 @@
     "relation_role": "variant",
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "摄影"
+    "term_zh": "摄影",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "photograph"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "quality_basic_super_details",
@@ -1224,9 +1386,12 @@
     "weight": 0.675,
     "score_v2": 0.675,
     "term_zh": "超级细节",
-    "aliases_zh": [
-      "精细细节",
-      "高度细节"
+    "aliases_zh": [],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "super details",
+      "super"
     ]
   },
   {
@@ -1264,7 +1429,13 @@
     "relation_role": "canonical",
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "柔光"
+    "term_zh": "柔和照明",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "soft lighting",
+      "soft"
+    ]
   },
   {
     "id": "quality_basic_shallow_depth_of_field",
@@ -1305,7 +1476,9 @@
     "aliases": [
       "DOF",
       "focus range"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_basic_photographic",
@@ -1340,7 +1513,12 @@
     ],
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "摄影"
+    "term_zh": "摄影",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "photographic"
+    ]
   },
   {
     "id": "quality_basic_film_grain",
@@ -1381,7 +1559,9 @@
     "aliases": [
       "raindrops",
       "rainy weather"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_basic_hdr",
@@ -1418,7 +1598,12 @@
     "relation_role": "canonical",
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "HDR"
+    "term_zh": "HDR",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "hdr"
+    ]
   },
   {
     "id": "quality_advanced_concept_art",
@@ -1455,7 +1640,14 @@
     "relation_role": "canonical",
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "概念艺术"
+    "term_zh": "概念艺术",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "concept art",
+      "concept"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "quality_advanced_digital_art",
@@ -1492,7 +1684,14 @@
     "relation_role": "canonical",
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "数字艺术"
+    "term_zh": "数字艺术",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "digital art",
+      "digital"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "quality_advanced_illustration",
@@ -1529,7 +1728,13 @@
     "relation_role": "canonical",
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "插画"
+    "term_zh": "插画",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "illustration"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "quality_advanced_finely_painted",
@@ -1564,7 +1769,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "精细绘制"
+    "term_zh": "精细绘制",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "finely painted",
+      "finely"
+    ]
   },
   {
     "id": "quality_advanced_smooth_shading",
@@ -1599,7 +1810,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "平滑阴影"
+    "term_zh": "平滑阴影",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "smooth shading",
+      "smooth"
+    ]
   },
   {
     "id": "quality_advanced_masterful_coloring",
@@ -1634,7 +1851,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "精湛上色"
+    "term_zh": "精湛上色",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "masterful coloring",
+      "masterful"
+    ]
   },
   {
     "id": "quality_advanced_beautiful_composition",
@@ -1669,7 +1892,12 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "美丽构图"
+    "term_zh": "美丽构图",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "composition"
+    ]
   },
   {
     "id": "quality_advanced_professional_illustration",
@@ -1704,7 +1932,12 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "专业插画"
+    "term_zh": "专业插画",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "illustration"
+    ]
   },
   {
     "id": "quality_advanced_professional_concept_art",
@@ -1739,7 +1972,13 @@
     ],
     "weight": 0.755,
     "score_v2": 0.755,
-    "term_zh": "概念艺术"
+    "term_zh": "概念艺术",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "concept art",
+      "concept"
+    ]
   },
   {
     "id": "quality_advanced_best_masterpiece",
@@ -1777,7 +2016,9 @@
     "term_zh": "最佳杰作",
     "aliases": [
       "award-winning artwork"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_advanced_fav",
@@ -1812,7 +2053,13 @@
     ],
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "收藏"
+    "term_zh": "收藏",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "fav"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "quality_advanced_awards_winner",
@@ -1847,7 +2094,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "获奖作品"
+    "term_zh": "获奖作品",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "awards winner",
+      "awards"
+    ]
   },
   {
     "id": "quality_advanced_award_winning_illustration",
@@ -1881,7 +2134,14 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "获奖作品插画"
+    "term_zh": "获奖作品插画",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "award-winning illustration",
+      "award-winning"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "quality_advanced_comment_worthy",
@@ -1915,7 +2175,12 @@
     ],
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "值得评论"
+    "term_zh": "值得评论",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "comment-worthy"
+    ]
   },
   {
     "id": "quality_advanced_front_page",
@@ -1950,7 +2215,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "头版"
+    "term_zh": "头版",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "front page",
+      "front"
+    ]
   },
   {
     "id": "quality_advanced_trending_art",
@@ -1985,7 +2256,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "热门艺术"
+    "term_zh": "热门艺术",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "trending art",
+      "trending"
+    ]
   },
   {
     "id": "quality_advanced_inquire_within",
@@ -2020,7 +2297,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "请询问"
+    "term_zh": "请询问",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "inquire within",
+      "inquire"
+    ]
   },
   {
     "id": "quality_anime_colorful_lighting",
@@ -2054,7 +2337,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "色彩丰富照明"
+    "term_zh": "色彩丰富照明",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "colorful lighting",
+      "colorful"
+    ]
   },
   {
     "id": "quality_anime_clean_coloring",
@@ -2089,7 +2378,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "干净上色"
+    "term_zh": "干净上色",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "clean coloring",
+      "clean"
+    ]
   },
   {
     "id": "quality_anime__detailed_background",
@@ -2128,7 +2423,9 @@
     "aliases": [
       "highly detailed",
       "intricate details"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_anime__elaborate_background",
@@ -2163,7 +2460,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "精细背景"
+    "term_zh": "精细背景",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "elaborate background",
+      "elaborate"
+    ]
   },
   {
     "id": "quality_anime_look_at_viewer",
@@ -2198,7 +2501,13 @@
     ],
     "weight": 0.755,
     "score_v2": 0.755,
-    "term_zh": "注视观众"
+    "term_zh": "注视观众",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "look viewer",
+      "look"
+    ]
   },
   {
     "id": "quality_anime_masterpiece_best_quality",
@@ -2236,7 +2545,9 @@
     "term_zh": "最高质量",
     "aliases": [
       "award-winning artwork"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_anime_original",
@@ -2271,7 +2582,12 @@
     ],
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "原创"
+    "term_zh": "原创",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "original"
+    ]
   },
   {
     "id": "quality_anime_1girl",
@@ -2308,7 +2624,16 @@
     "relation_role": "canonical",
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "1 女孩"
+    "term_zh": "1 女孩",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "1girl"
+    ],
+    "aliases_zh": [
+      "少女",
+      "女生"
+    ]
   },
   {
     "id": "quality_anime_1boy",
@@ -2345,7 +2670,16 @@
     "relation_role": "canonical",
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "1 男孩"
+    "term_zh": "1 男孩",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "1boy"
+    ],
+    "aliases_zh": [
+      "少年",
+      "男生"
+    ]
   },
   {
     "id": "quality_technical_ray_tracing",
@@ -2382,7 +2716,13 @@
     "relation_role": "canonical",
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "光线追踪"
+    "term_zh": "光线追踪",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "ray tracing",
+      "ray"
+    ]
   },
   {
     "id": "quality_technical_global_illumination",
@@ -2419,7 +2759,13 @@
     "relation_role": "canonical",
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "全局光照"
+    "term_zh": "全局光照",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "global illumination",
+      "global"
+    ]
   },
   {
     "id": "quality_technical_ambient_occlusion",
@@ -2455,7 +2801,13 @@
     "relation_role": "canonical",
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "环境光遮蔽"
+    "term_zh": "环境光遮蔽",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "ambient occlusion",
+      "ambient"
+    ]
   },
   {
     "id": "quality_technical_depth_of_field",
@@ -2496,7 +2848,9 @@
     "aliases": [
       "DOF",
       "focus range"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_technical_chromatic_aberration",
@@ -2537,7 +2891,9 @@
     "aliases": [
       "color fringing",
       "lens distortion"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_technical_motion_blur",
@@ -2574,11 +2930,13 @@
     "relation_role": "canonical",
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "动态模糊",
+    "term_zh": "运动模糊",
     "aliases": [
       "moving blur",
       "speed blur"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_technical_film_look",
@@ -2613,7 +2971,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "胶片感"
+    "term_zh": "胶片感",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "film look",
+      "film"
+    ]
   },
   {
     "id": "quality_technical_cinematic_look",
@@ -2656,7 +3020,9 @@
     "aliases_zh": [
       " cinematic",
       "电影风格"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_technical_studio_quality",
@@ -2690,7 +3056,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "影棚质量"
+    "term_zh": "影棚质量",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "studio quality",
+      "studio"
+    ]
   },
   {
     "id": "quality_technical_octane_render",
@@ -2725,7 +3097,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "Octane 渲染"
+    "term_zh": "Octane 渲染",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "octane render",
+      "octane"
+    ]
   },
   {
     "id": "quality_technical_unreal_engine",
@@ -2760,7 +3138,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "虚幻引擎"
+    "term_zh": "虚幻引擎",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "unreal engine",
+      "unreal"
+    ]
   },
   {
     "id": "quality_technical_blender",
@@ -2794,7 +3178,12 @@
     ],
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "Blender"
+    "term_zh": "Blender",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "blender"
+    ]
   },
   {
     "id": "quality_technical_vray",
@@ -2828,7 +3217,12 @@
     ],
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "V-Ray"
+    "term_zh": "V-Ray",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "vray"
+    ]
   },
   {
     "id": "quality_technical_porcelain_skin",
@@ -2867,7 +3261,9 @@
     "aliases": [
       "brutal orc",
       "warrior orc"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_technical_pores",
@@ -2902,7 +3298,12 @@
     ],
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "毛孔"
+    "term_zh": "毛孔",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "pores"
+    ]
   },
   {
     "id": "quality_technical_skin_details",
@@ -2941,6 +3342,12 @@
     "aliases_zh": [
       "精细细节",
       "高度细节"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "skin details",
+      "skin"
     ]
   },
   {
@@ -2977,9 +3384,12 @@
     "weight": 0.675,
     "score_v2": 0.675,
     "term_zh": "锐利细节",
-    "aliases_zh": [
-      "精细细节",
-      "高度细节"
+    "aliases_zh": [],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "sharp details",
+      "sharp"
     ]
   },
   {
@@ -3019,7 +3429,9 @@
     "aliases": [
       "highly detailed",
       "intricate details"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_technical__intricate_design",
@@ -3054,7 +3466,12 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "精致设计"
+    "term_zh": "精致设计",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "design"
+    ]
   },
   {
     "id": "quality_technical_intricate",
@@ -3091,7 +3508,13 @@
     "relation_role": "canonical",
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "精致"
+    "term_zh": "精致",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "detailed",
+      "complex"
+    ]
   },
   {
     "id": "quality_composition_symmetrical_composition",
@@ -3132,7 +3555,9 @@
     "aliases": [
       "balanced composition",
       "symmetry composition"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_composition_balanced_composition",
@@ -3167,7 +3592,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "平衡构图"
+    "term_zh": "平衡构图",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "balanced composition",
+      "balanced"
+    ]
   },
   {
     "id": "quality_composition_dramatic_angle",
@@ -3207,7 +3638,9 @@
     "term_zh": "戏剧角度",
     "aliases": [
       "dramatic lighting"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_composition_dynamic_angle",
@@ -3244,7 +3677,13 @@
     "relation_role": "canonical",
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "动态角度"
+    "term_zh": "动态角度",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "dynamic angle",
+      "dynamic"
+    ]
   },
   {
     "id": "quality_composition_rule_of_thirds",
@@ -3281,10 +3720,17 @@
     "relation_role": "canonical",
     "weight": 0.755,
     "score_v2": 0.755,
-    "term_zh": "三分法",
+    "term_zh": "三分构图法",
     "aliases": [
       "thirds composition"
-    ]
+    ],
+    "priority": "high",
+    "aliases_zh": [
+      "三分法",
+      "黄金分割",
+      "构图规则"
+    ],
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_composition_full_shot",
@@ -3321,7 +3767,17 @@
     "relation_role": "variant",
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "全景"
+    "term_zh": "全景",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "full shot",
+      "full"
+    ],
+    "aliases_zh": [
+      "全景观",
+      "广阔视野"
+    ]
   },
   {
     "id": "quality_composition_upper_body",
@@ -3356,7 +3812,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "上半身"
+    "term_zh": "上半身",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "upper body",
+      "upper"
+    ]
   },
   {
     "id": "quality_composition_three_quarter_shot",
@@ -3390,7 +3852,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "四分之三镜头"
+    "term_zh": "四分之三镜头",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "three-quarter shot",
+      "three-quarter"
+    ]
   },
   {
     "id": "quality_composition_cowboy_shot",
@@ -3426,7 +3894,13 @@
     "relation_role": "variant",
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "七分身镜头"
+    "term_zh": "七分身镜头",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "cowboy shot",
+      "cowboy"
+    ]
   },
   {
     "id": "quality_composition_visual_story",
@@ -3461,7 +3935,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "视觉故事"
+    "term_zh": "视觉故事",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "visual story",
+      "visual"
+    ]
   },
   {
     "id": "quality_atmosphere_atmospheric",
@@ -3496,7 +3976,12 @@
     ],
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "氛围"
+    "term_zh": "氛围",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "atmospheric"
+    ]
   },
   {
     "id": "quality_atmosphere_volumetric_fog",
@@ -3533,7 +4018,13 @@
     "relation_role": "canonical",
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "体积雾"
+    "term_zh": "体积雾",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "volumetric fog",
+      "volumetric"
+    ]
   },
   {
     "id": "quality_atmosphere_atmospheric_fog",
@@ -3568,7 +4059,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "氛围雾"
+    "term_zh": "氛围雾",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "atmospheric fog",
+      "atmospheric"
+    ]
   },
   {
     "id": "quality_atmosphere_smoke",
@@ -3605,7 +4102,12 @@
     "relation_role": "canonical",
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "烟雾"
+    "term_zh": "烟雾",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "smoke"
+    ]
   },
   {
     "id": "quality_atmosphere_misty",
@@ -3642,7 +4144,12 @@
     "relation_role": "canonical",
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "薄雾"
+    "term_zh": "薄雾",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "misty"
+    ]
   },
   {
     "id": "quality_atmosphere_ethereal",
@@ -3679,7 +4186,12 @@
     "relation_role": "canonical",
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "空灵"
+    "term_zh": "空灵",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "ethereal"
+    ]
   },
   {
     "id": "quality_atmosphere_eerie",
@@ -3714,7 +4226,12 @@
     ],
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "诡异"
+    "term_zh": "诡异",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "eerie"
+    ]
   },
   {
     "id": "quality_atmosphere_gothic",
@@ -3751,7 +4268,12 @@
     "relation_role": "canonical",
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "哥特"
+    "term_zh": "哥特",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "gothic"
+    ]
   },
   {
     "id": "quality_atmosphere_romantic_atmosphere",
@@ -3786,7 +4308,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "浪漫氛围"
+    "term_zh": "浪漫氛围",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "romantic atmosphere",
+      "romantic"
+    ]
   },
   {
     "id": "quality_atmosphere_dreamy_atmosphere",
@@ -3821,7 +4349,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "梦幻氛围"
+    "term_zh": "梦幻氛围",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "dreamy atmosphere",
+      "dreamy"
+    ]
   },
   {
     "id": "quality_atmosphere_magical_atmosphere",
@@ -3856,7 +4390,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "魔幻氛围"
+    "term_zh": "魔幻氛围",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "magical atmosphere",
+      "magical"
+    ]
   },
   {
     "id": "quality_atmosphere_mysterious_atmosphere",
@@ -3891,7 +4431,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "神秘氛围"
+    "term_zh": "神秘氛围",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "mysterious atmosphere",
+      "mysterious"
+    ]
   },
   {
     "id": "quality_atmosphere_epic_atmosphere",
@@ -3926,7 +4472,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "史诗氛围"
+    "term_zh": "史诗氛围",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "epic atmosphere",
+      "epic"
+    ]
   },
   {
     "id": "quality_atmosphere_peaceful_atmosphere",
@@ -3961,7 +4513,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "宁静氛围"
+    "term_zh": "宁静氛围",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "peaceful atmosphere",
+      "peaceful"
+    ]
   },
   {
     "id": "quality_atmosphere_serene",
@@ -3996,7 +4554,12 @@
     ],
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "宁静"
+    "term_zh": "宁静",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "serene"
+    ]
   },
   {
     "id": "quality_color_rich_colors",
@@ -4031,7 +4594,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "丰富色彩"
+    "term_zh": "丰富色彩",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "rich colors",
+      "rich"
+    ]
   },
   {
     "id": "quality_color_vibrant_colors",
@@ -4068,7 +4637,13 @@
     "relation_role": "canonical",
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "鲜艳色调"
+    "term_zh": "鲜艳色调",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "vibrant colors",
+      "vibrant"
+    ]
   },
   {
     "id": "quality_color_pastel_colors",
@@ -4103,7 +4678,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "粉彩色调"
+    "term_zh": "粉彩色调",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "pastel colors",
+      "pastel"
+    ]
   },
   {
     "id": "quality_color_neon_colors",
@@ -4138,7 +4719,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "霓虹色调"
+    "term_zh": "霓虹色调",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "neon colors",
+      "neon"
+    ]
   },
   {
     "id": "quality_color_monochrome",
@@ -4179,7 +4766,9 @@
     "aliases": [
       "B&W",
       "black and white"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_color_color_splash",
@@ -4214,7 +4803,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "色彩飞溅"
+    "term_zh": "色彩飞溅",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "color splash",
+      "color"
+    ]
   },
   {
     "id": "quality_color_colorful_background",
@@ -4249,7 +4844,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "彩色背景"
+    "term_zh": "彩色背景",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "colorful background",
+      "colorful"
+    ]
   },
   {
     "id": "quality_color_gradient_background",
@@ -4284,7 +4885,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "渐变背景"
+    "term_zh": "渐变背景",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "gradient background",
+      "gradient"
+    ]
   },
   {
     "id": "quality_texture_highly_detailed_face",
@@ -4323,7 +4930,9 @@
     "aliases": [
       "highly detailed",
       "intricate details"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_texture_refined_details",
@@ -4362,6 +4971,12 @@
     "aliases_zh": [
       "精细细节",
       "高度细节"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "refined details",
+      "refined"
     ]
   },
   {
@@ -4399,7 +5014,14 @@
     "relation_role": "canonical",
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "完美解剖"
+    "term_zh": "完美解剖",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "perfect anatomy",
+      "perfect"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "quality_texture_perfect_hands",
@@ -4434,7 +5056,14 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "完美双手"
+    "term_zh": "完美双手",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "perfect hands",
+      "perfect"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "quality_texture_detailed_hands",
@@ -4475,7 +5104,9 @@
     "aliases": [
       "highly detailed",
       "intricate details"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_texture_detailed_feet",
@@ -4514,7 +5145,9 @@
     "aliases": [
       "highly detailed",
       "intricate details"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_texture_realistic_anatomy",
@@ -4553,7 +5186,9 @@
     "aliases": [
       "photorealistic",
       "realistic rendering"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_texture_symmetrical_eyes",
@@ -4591,7 +5226,9 @@
     "aliases": [
       "balanced composition",
       "symmetry composition"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_texture_detailed_iris",
@@ -4630,7 +5267,9 @@
     "aliases": [
       "highly detailed",
       "intricate details"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_texture_detailed_eyelashes",
@@ -4669,7 +5308,9 @@
     "aliases": [
       "highly detailed",
       "intricate details"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_texture_delicate_lips",
@@ -4704,7 +5345,13 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "精致嘴唇"
+    "term_zh": "精致嘴唇",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "delicate lips",
+      "delicate"
+    ]
   },
   {
     "id": "quality_texture_perfectly_drawn",
@@ -4738,13 +5385,20 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "完美绘制"
+    "term_zh": "完美绘制",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "perfectly drawn",
+      "perfectly"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "render_quality_engines_unreal_engine_5",
     "term": "rendered in Unreal Engine 5",
     "category": "quality",
-    "subcategory": "render-engines",
+    "subcategory": "render_engines",
     "labels": [
       "unreal-engine-5",
       "nodaro-prompts"
@@ -4770,13 +5424,17 @@
     "term_zh": "虚幻引擎 5",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "render_quality_engines_blender_cycles",
     "term": "rendered in Blender Cycles",
     "category": "quality",
-    "subcategory": "render-engines",
+    "subcategory": "render_engines",
     "labels": [
       "blender-cycles",
       "nodaro-prompts"
@@ -4801,13 +5459,17 @@
     "term_zh": "Blender Cycles 渲染",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "render_quality_engines_octane_render",
     "term": "rendered in Octane",
     "category": "quality",
-    "subcategory": "render-engines",
+    "subcategory": "render_engines",
     "labels": [
       "octane-render",
       "nodaro-prompts"
@@ -4832,13 +5494,17 @@
     "term_zh": "渲染inOctane",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "render_quality_engines_redshift",
     "term": "redshift render",
     "category": "quality",
-    "subcategory": "render-engines",
+    "subcategory": "render_engines",
     "labels": [
       "redshift",
       "nodaro-prompts"
@@ -4863,13 +5529,17 @@
     "term_zh": "Redshift 渲染",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "render_quality_other_houdini_mantra",
     "term": "rendered in Houdini Mantra",
     "category": "quality",
-    "subcategory": "render-other",
+    "subcategory": "render_other",
     "labels": [
       "houdini-mantra",
       "nodaro-prompts"
@@ -4894,13 +5564,17 @@
     "term_zh": "Houdini Mantra 渲染",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "render_quality_other_arnold_render",
     "term": "rendered in Solid Angle Arnold",
     "category": "quality",
-    "subcategory": "render-other",
+    "subcategory": "render_other",
     "labels": [
       "arnold-render",
       "nodaro-prompts"
@@ -4925,13 +5599,17 @@
     "term_zh": "Solid Angle Arnold 渲染",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "render_quality_other_corona_renderer",
     "term": "rendered in Chaos Corona",
     "category": "quality",
-    "subcategory": "render-other",
+    "subcategory": "render_other",
     "labels": [
       "corona-renderer",
       "nodaro-prompts"
@@ -4956,13 +5634,17 @@
     "term_zh": "Chaos Corona 渲染",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "render_quality_engines_vray",
     "term": "rendered in Chaos V-Ray",
     "category": "quality",
-    "subcategory": "render-engines",
+    "subcategory": "render_engines",
     "labels": [
       "vray",
       "nodaro-prompts"
@@ -4987,13 +5669,17 @@
     "term_zh": "Chaos V-Ray 渲染",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "render_quality_other_aces",
     "term": "aces color space",
     "category": "quality",
-    "subcategory": "render-other",
+    "subcategory": "render_other",
     "labels": [
       "aces",
       "nodaro-prompts"
@@ -5017,13 +5703,21 @@
     ],
     "weight": 0.755,
     "score_v2": 0.755,
-    "term_zh": "ACES 色彩空间"
+    "term_zh": "ACES 色彩空间",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "aces color space",
+      "aces"
+    ]
   },
   {
     "id": "render_quality_other_raytracing",
     "term": "ray-traced rendering",
     "category": "quality",
-    "subcategory": "render-other",
+    "subcategory": "render_other",
     "labels": [
       "raytracing",
       "nodaro-prompts"
@@ -5045,13 +5739,21 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "光线追踪渲染"
+    "term_zh": "光线追踪渲染",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "ray-traced rendering",
+      "ray-traced"
+    ]
   },
   {
     "id": "render_quality_other_physically_based_rendering",
     "term": "physically-based rendering",
     "category": "quality",
-    "subcategory": "render-other",
+    "subcategory": "render_other",
     "labels": [
       "physically-based-rendering",
       "nodaro-prompts"
@@ -5073,13 +5775,21 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "基于物理的渲染"
+    "term_zh": "基于物理的渲染",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "physically-based rendering",
+      "physically-based"
+    ]
   },
   {
     "id": "render_quality_technical_global_illumination",
     "term": "global illumination",
     "category": "quality",
-    "subcategory": "render-technical",
+    "subcategory": "render_technical",
     "labels": [
       "global-illumination",
       "nodaro-prompts"
@@ -5104,13 +5814,21 @@
     "relation_role": "variant",
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "全局光照"
+    "term_zh": "全局光照",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "global illumination",
+      "global"
+    ]
   },
   {
     "id": "render_quality_technical_lumen_reflections",
     "term": "Lumen-style real-time dynamic global illumination with crisp",
     "category": "quality",
-    "subcategory": "render-technical",
+    "subcategory": "render_technical",
     "labels": [
       "lumen-reflections",
       "nodaro-prompts"
@@ -5133,13 +5851,21 @@
     ],
     "weight": 0.795,
     "score_v2": 0.795,
-    "term_zh": "全局光照"
+    "term_zh": "全局光照",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "lumen-style real-time dynamic",
+      "lumen-style"
+    ]
   },
   {
     "id": "render_quality_resolution_8k_uhd",
     "term": "8K ultra-high-definition resolution",
     "category": "quality",
-    "subcategory": "render-resolution",
+    "subcategory": "render_resolution",
     "labels": [
       "8k-uhd",
       "nodaro-prompts"
@@ -5162,13 +5888,21 @@
     ],
     "weight": 0.755,
     "score_v2": 0.755,
-    "term_zh": "8K 超高清分辨率"
+    "term_zh": "8K 超高清分辨率",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "ultra-high-definition resolution",
+      "ultra-high-definition"
+    ]
   },
   {
     "id": "render_quality_resolution_4k_uhd",
     "term": "4K UHD resolution",
     "category": "quality",
-    "subcategory": "render-resolution",
+    "subcategory": "render_resolution",
     "labels": [
       "4k-uhd",
       "nodaro-prompts"
@@ -5192,13 +5926,21 @@
     ],
     "weight": 0.755,
     "score_v2": 0.755,
-    "term_zh": "4K UHD 分辨率"
+    "term_zh": "4K UHD 分辨率",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "uhd resolution",
+      "uhd"
+    ]
   },
   {
     "id": "render_quality_resolution_16k_megapixel",
     "term": "16k resolution",
     "category": "quality",
-    "subcategory": "render-resolution",
+    "subcategory": "render_resolution",
     "labels": [
       "16k-megapixel",
       "nodaro-prompts"
@@ -5221,13 +5963,21 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "16K 分辨率"
+    "term_zh": "16K 分辨率",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "16k resolution",
+      "16k"
+    ]
   },
   {
     "id": "render_quality_resolution_ultra_detailed",
     "term": "ultra-detailed",
     "category": "quality",
-    "subcategory": "render-resolution",
+    "subcategory": "render_resolution",
     "labels": [
       "ultra-detailed",
       "nodaro-prompts"
@@ -5255,13 +6005,22 @@
     "aliases": [
       "highly detailed",
       "intricate details"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "aliases_zh": [
+      "超精细",
+      "复杂细节",
+      "高度细节"
+    ],
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "render_quality_stamps_raw_photo",
     "term": "raw photograph aesthetic",
     "category": "quality",
-    "subcategory": "render-stamps",
+    "subcategory": "render_stamps",
     "labels": [
       "raw-photo",
       "nodaro-prompts"
@@ -5285,13 +6044,21 @@
     ],
     "weight": 0.755,
     "score_v2": 0.755,
-    "term_zh": "RAW 摄影美学"
+    "term_zh": "RAW 摄影美学",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "raw photograph aesthetic",
+      "raw"
+    ]
   },
   {
     "id": "render_quality_stamps_masterpiece",
     "term": "masterpiece-quality rendering",
     "category": "quality",
-    "subcategory": "render-stamps",
+    "subcategory": "render_stamps",
     "labels": [
       "masterpiece",
       "nodaro-prompts"
@@ -5316,13 +6083,17 @@
     "term_zh": "杰作品质渲染",
     "aliases": [
       "award-winning artwork"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "render_quality_stamps_award_winning",
     "term": "award-winning",
     "category": "quality",
-    "subcategory": "render-stamps",
+    "subcategory": "render_stamps",
     "labels": [
       "award-winning",
       "nodaro-prompts"
@@ -5345,13 +6116,20 @@
     ],
     "weight": 0.595,
     "score_v2": 0.595,
-    "term_zh": "获奖作品"
+    "term_zh": "获奖作品",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "award-winning"
+    ]
   },
   {
     "id": "render_quality_other_volumetric_lighting",
     "term": "volumetric lighting with god-ray light shafts cutting throug",
     "category": "quality",
-    "subcategory": "render-other",
+    "subcategory": "render_other",
     "labels": [
       "volumetric-lighting",
       "nodaro-prompts"
@@ -5374,13 +6152,21 @@
     ],
     "weight": 0.795,
     "score_v2": 0.795,
-    "term_zh": "体积光照"
+    "term_zh": "体积光照",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "volumetric lighting with",
+      "volumetric"
+    ]
   },
   {
     "id": "render_quality_other_photon_mapping",
     "term": "photon-mapped global illumination with caustic-aware light t",
     "category": "quality",
-    "subcategory": "render-other",
+    "subcategory": "render_other",
     "labels": [
       "photon-mapping",
       "nodaro-prompts"
@@ -5403,13 +6189,21 @@
     ],
     "weight": 0.795,
     "score_v2": 0.795,
-    "term_zh": "全局光照"
+    "term_zh": "全局光照",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "photon-mapped global illumination",
+      "photon-mapped"
+    ]
   },
   {
     "id": "render_quality_other_ai_upscaled",
     "term": "neural-network AI-upscaled detail enhancement",
     "category": "quality",
-    "subcategory": "render-other",
+    "subcategory": "render_other",
     "labels": [
       "ai-upscaled",
       "nodaro-prompts"
@@ -5437,13 +6231,21 @@
     "aliases_zh": [
       "精细细节",
       "高度细节"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "neural-network ai-upscaled detail",
+      "neural-network"
     ]
   },
   {
     "id": "render_quality_technical_denoised",
     "term": "denoised render",
     "category": "quality",
-    "subcategory": "render-technical",
+    "subcategory": "render_technical",
     "labels": [
       "denoised",
       "nodaro-prompts"
@@ -5466,12 +6268,20 @@
     ],
     "weight": 0.675,
     "score_v2": 0.675,
-    "term_zh": "降噪渲染"
+    "term_zh": "降噪渲染",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "denoised render",
+      "denoised"
+    ]
   },
   {
     "id": "render_quality_unreal_engine_5",
     "term": "Unreal Engine 5 Lumen",
-    "subcategory": "render-engines",
+    "subcategory": "render_engines",
     "labels": [
       "unreal",
       "engine",
@@ -5497,12 +6307,20 @@
     ],
     "weight": 0.795,
     "score_v2": 0.795,
-    "term_zh": "虚幻引擎5 Lumen光线追踪"
+    "term_zh": "UE5 Lumen",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "unreal engine lumen",
+      "unreal"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "render_quality_maya_render",
     "term": "Autodesk Arnold renderer",
-    "subcategory": "render-engines",
+    "subcategory": "render_engines",
     "labels": [
       "autodesk",
       "arnold",
@@ -5526,12 +6344,19 @@
     ],
     "weight": 0.755,
     "score_v2": 0.755,
-    "term_zh": "Autodesk Arnold渲染器"
+    "term_zh": "Arnold 渲染",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "autodesk arnold renderer",
+      "autodesk"
+    ]
   },
   {
     "id": "render_quality_cinema4d_octane",
     "term": "Cinema 4D Octane render",
-    "subcategory": "render-engines",
+    "subcategory": "render_engines",
     "labels": [
       "cinema-4d",
       "octane",
@@ -5555,12 +6380,20 @@
     ],
     "weight": 0.795,
     "score_v2": 0.795,
-    "term_zh": "Cinema 4D Octane渲染"
+    "term_zh": "电影院Octane渲染",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "cinema octane render",
+      "cinema"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "render_quality_blender_cycles",
     "term": "Blender Cycles path-traced",
-    "subcategory": "render-engines",
+    "subcategory": "render_engines",
     "labels": [
       "blender",
       "cycles",
@@ -5584,12 +6417,19 @@
     ],
     "weight": 0.755,
     "score_v2": 0.755,
-    "term_zh": "Blender Cycles路径追踪"
+    "term_zh": "Blender Cycles路径追踪",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "blender cycles path-traced",
+      "blender"
+    ]
   },
   {
     "id": "render_quality_vray",
     "term": "V-Ray photorealistic",
-    "subcategory": "render-engines",
+    "subcategory": "render_engines",
     "labels": [
       "v-ray",
       "photorealistic",
@@ -5616,12 +6456,15 @@
     "aliases": [
       "photorealistic",
       "realistic rendering"
-    ]
+    ],
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "render_quality_ian_brain",
     "term": "mental ray global illumination",
-    "subcategory": "render-engines",
+    "subcategory": "render_engines",
     "labels": [
       "mental-ray",
       "global-illumination",
@@ -5645,12 +6488,19 @@
     ],
     "weight": 0.795,
     "score_v2": 0.795,
-    "term_zh": "mental ray全局照明"
+    "term_zh": "全局光照",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "mental ray global",
+      "mental"
+    ]
   },
   {
     "id": "render_quality_8k_uhd",
     "term": "8K UHD resolution",
-    "subcategory": "render-resolution",
+    "subcategory": "render_resolution",
     "labels": [
       "8k",
       "uhd",
@@ -5674,12 +6524,19 @@
     ],
     "weight": 0.755,
     "score_v2": 0.755,
-    "term_zh": "8K超高清分辨率"
+    "term_zh": "4K UHD 分辨率",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "uhd resolution",
+      "uhd"
+    ]
   },
   {
     "id": "render_quality_4k_hdr",
     "term": "4K HDR tone-mapped",
-    "subcategory": "render-resolution",
+    "subcategory": "render_resolution",
     "labels": [
       "4k",
       "hdr",
@@ -5704,12 +6561,19 @@
     ],
     "weight": 0.755,
     "score_v2": 0.755,
-    "term_zh": "4K HDR色调映射"
+    "term_zh": "4K HDR色调映射",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "hdr tone-mapped",
+      "hdr"
+    ]
   },
   {
     "id": "render_quality_ray_tracing",
     "term": "ray-traced global illumination",
-    "subcategory": "render-technical",
+    "subcategory": "render_technical",
     "labels": [
       "ray-tracing",
       "global-illumination",
@@ -5734,12 +6598,20 @@
     ],
     "weight": 0.755,
     "score_v2": 0.755,
-    "term_zh": "光线追踪全局照明"
+    "term_zh": "ray-traced全球光照",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "ray-traced global illumination",
+      "ray-traced"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "render_quality_ambient_occlusion",
     "term": "ambient occlusion shadows",
-    "subcategory": "render-technical",
+    "subcategory": "render_technical",
     "labels": [
       "ambient-occlusion",
       "ao",
@@ -5764,12 +6636,19 @@
     ],
     "weight": 0.755,
     "score_v2": 0.755,
-    "term_zh": "环境遮蔽阴影"
+    "term_zh": "ambient遮挡阴影",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "ambient occlusion shadows",
+      "ambient"
+    ]
   },
   {
     "id": "render_quality_subsurface_scattering",
     "term": "subsurface scattering skin wax",
-    "subcategory": "render-technical",
+    "subcategory": "render_technical",
     "labels": [
       "subsurface-scattering",
       "sss",
@@ -5794,12 +6673,19 @@
     ],
     "weight": 0.795,
     "score_v2": 0.795,
-    "term_zh": "次表面散射皮肤蜡质"
+    "term_zh": "次表面散射",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "subsurface scattering skin",
+      "subsurface"
+    ]
   },
   {
     "id": "quality_engines_unreal_engine_5",
     "term": "rendered in Unreal Engine 5",
-    "term_zh": "虚幻引擎5渲染",
+    "term_zh": "虚幻引擎 5",
     "category": "quality",
     "subcategory": "engines",
     "labels": [
@@ -5809,7 +6695,7 @@
       "虚幻引擎5渲染"
     ],
     "score": 0.85,
-    "priority": "medium",
+    "priority": "high",
     "lifecycle": "approved",
     "tags": [
       "nodaro-prompts"
@@ -5821,12 +6707,15 @@
     "aliases": [
       "crimson red"
     ],
-    "score_v2": 0.705
+    "score_v2": 0.705,
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_engines_blender_cycles",
     "term": "rendered in Blender Cycles",
-    "term_zh": "Blender Cycles渲染",
+    "term_zh": "Blender Cycles 渲染",
     "category": "quality",
     "subcategory": "engines",
     "labels": [
@@ -5836,7 +6725,7 @@
       "Blender Cycles渲染"
     ],
     "score": 0.85,
-    "priority": "medium",
+    "priority": "high",
     "lifecycle": "approved",
     "tags": [
       "nodaro-prompts"
@@ -5848,12 +6737,15 @@
     "aliases": [
       "crimson red"
     ],
-    "score_v2": 0.705
+    "score_v2": 0.705,
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_engines_octane_render",
     "term": "rendered in Octane",
-    "term_zh": "Octane渲染",
+    "term_zh": "渲染inOctane",
     "category": "quality",
     "subcategory": "engines",
     "labels": [
@@ -5863,7 +6755,7 @@
       "Octane渲染"
     ],
     "score": 0.85,
-    "priority": "medium",
+    "priority": "high",
     "lifecycle": "approved",
     "tags": [
       "nodaro-prompts"
@@ -5875,12 +6767,15 @@
     "aliases": [
       "crimson red"
     ],
-    "score_v2": 0.665
+    "score_v2": 0.665,
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_engines_redshift",
     "term": "redshift render",
-    "term_zh": "Redshift渲染",
+    "term_zh": "Redshift 渲染",
     "category": "quality",
     "subcategory": "engines",
     "labels": [
@@ -5890,7 +6785,7 @@
       "Redshift渲染"
     ],
     "score": 0.85,
-    "priority": "medium",
+    "priority": "high",
     "lifecycle": "approved",
     "tags": [
       "nodaro-prompts"
@@ -5902,12 +6797,15 @@
     "aliases": [
       "crimson red"
     ],
-    "score_v2": 0.585
+    "score_v2": 0.585,
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_other_houdini_mantra",
     "term": "rendered in Houdini Mantra",
-    "term_zh": "Houdini Mantra渲染",
+    "term_zh": "Houdini Mantra 渲染",
     "category": "quality",
     "subcategory": "other",
     "labels": [
@@ -5917,7 +6815,7 @@
       "Houdini Mantra渲染"
     ],
     "score": 0.85,
-    "priority": "medium",
+    "priority": "high",
     "lifecycle": "approved",
     "tags": [
       "nodaro-prompts"
@@ -5929,12 +6827,15 @@
     "aliases": [
       "crimson red"
     ],
-    "score_v2": 0.705
+    "score_v2": 0.705,
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_other_arnold_render",
     "term": "rendered in Solid Angle Arnold",
-    "term_zh": "Solid Angle Arnold渲染",
+    "term_zh": "Solid Angle Arnold 渲染",
     "category": "quality",
     "subcategory": "other",
     "labels": [
@@ -5944,7 +6845,7 @@
       "Solid Angle Arnold渲染"
     ],
     "score": 0.85,
-    "priority": "medium",
+    "priority": "high",
     "lifecycle": "approved",
     "tags": [
       "nodaro-prompts"
@@ -5956,12 +6857,15 @@
     "aliases": [
       "crimson red"
     ],
-    "score_v2": 0.705
+    "score_v2": 0.705,
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_other_corona_renderer",
     "term": "rendered in Chaos Corona",
-    "term_zh": null,
+    "term_zh": "Chaos Corona 渲染",
     "category": "quality",
     "subcategory": "other",
     "labels": [
@@ -5969,7 +6873,7 @@
     ],
     "labels_zh": [],
     "score": 0.85,
-    "priority": "medium",
+    "priority": "high",
     "lifecycle": "approved",
     "tags": [
       "nodaro-prompts"
@@ -5981,12 +6885,15 @@
     "aliases": [
       "crimson red"
     ],
-    "score_v2": 0.705
+    "score_v2": 0.705,
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_engines_vray",
     "term": "rendered in Chaos V-Ray",
-    "term_zh": "Chaos V-Ray渲染",
+    "term_zh": "Chaos V-Ray 渲染",
     "category": "quality",
     "subcategory": "engines",
     "labels": [
@@ -5996,7 +6903,7 @@
       "Chaos V-Ray渲染"
     ],
     "score": 0.85,
-    "priority": "medium",
+    "priority": "high",
     "lifecycle": "approved",
     "tags": [
       "nodaro-prompts"
@@ -6008,12 +6915,15 @@
     "aliases": [
       "crimson red"
     ],
-    "score_v2": 0.705
+    "score_v2": 0.705,
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_other_aces",
     "term": "aces color space",
-    "term_zh": "ACES色彩空间",
+    "term_zh": "ACES 色彩空间",
     "category": "quality",
     "subcategory": "other",
     "labels": [
@@ -6023,7 +6933,7 @@
       "ACES色彩空间"
     ],
     "score": 0.85,
-    "priority": "medium",
+    "priority": "high",
     "lifecycle": "approved",
     "tags": [
       "nodaro-prompts"
@@ -6032,7 +6942,14 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Cinema-grade ACES color management. Prompt hint: graded through the ACES (Academy Color Encoding System) color management workflow, modern cinema-grade tonal response with consistent wide-gamut color rendering, filmic highlight rolloff and reference-quality color fidelity",
-    "score_v2": 0.665
+    "score_v2": 0.665,
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "aces color space",
+      "aces"
+    ]
   },
   {
     "id": "quality_other_raytracing",
@@ -6047,7 +6964,7 @@
       "光线追踪渲染"
     ],
     "score": 0.85,
-    "priority": "medium",
+    "priority": "high",
     "lifecycle": "approved",
     "tags": [
       "nodaro-prompts"
@@ -6056,12 +6973,19 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Accurate reflections + shadows. Prompt hint: ray-traced rendering, physically accurate reflections, refractions and contact shadows with realistic light bounce",
-    "score_v2": 0.585
+    "score_v2": 0.585,
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "ray-traced rendering",
+      "ray-traced"
+    ]
   },
   {
     "id": "quality_other_physically_based_rendering",
     "term": "physically-based rendering",
-    "term_zh": null,
+    "term_zh": "基于物理的渲染",
     "category": "quality",
     "subcategory": "other",
     "labels": [
@@ -6069,7 +6993,7 @@
     ],
     "labels_zh": [],
     "score": 0.85,
-    "priority": "medium",
+    "priority": "high",
     "lifecycle": "approved",
     "tags": [
       "nodaro-prompts"
@@ -6078,12 +7002,19 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Physically-based materials. Prompt hint: physically-based rendering with energy-conserving materials, accurate metallic/roughness response and realistic Fresnel falloff",
-    "score_v2": 0.585
+    "score_v2": 0.585,
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "physically-based rendering",
+      "physically-based"
+    ]
   },
   {
     "id": "quality_technical_lumen_reflections",
     "term": "Lumen-style real-time dynamic global illumination with crisp",
-    "term_zh": null,
+    "term_zh": "全局光照",
     "category": "quality",
     "subcategory": "technical",
     "labels": [
@@ -6091,7 +7022,7 @@
     ],
     "labels_zh": [],
     "score": 0.85,
-    "priority": "medium",
+    "priority": "high",
     "lifecycle": "approved",
     "tags": [
       "nodaro-prompts"
@@ -6100,12 +7031,19 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Real-time dynamic GI. Prompt hint: Lumen-style real-time dynamic global illumination with crisp screen-space reflections, soft contact shadows and beautifully lit indirect bounces",
-    "score_v2": 0.705
+    "score_v2": 0.705,
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "lumen-style real-time dynamic",
+      "lumen-style"
+    ]
   },
   {
     "id": "quality_resolution_8k_uhd",
     "term": "8K ultra-high-definition resolution",
-    "term_zh": null,
+    "term_zh": "8K 超高清分辨率",
     "category": "quality",
     "subcategory": "resolution",
     "labels": [
@@ -6113,7 +7051,7 @@
     ],
     "labels_zh": [],
     "score": 0.85,
-    "priority": "medium",
+    "priority": "high",
     "lifecycle": "approved",
     "tags": [
       "nodaro-prompts"
@@ -6122,12 +7060,19 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Ultra-sharp 8K resolution. Prompt hint: 8K ultra-high-definition resolution, ultra-sharp detail with every micro-texture preserved and zero softness",
-    "score_v2": 0.665
+    "score_v2": 0.665,
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "ultra-high-definition resolution",
+      "ultra-high-definition"
+    ]
   },
   {
     "id": "quality_resolution_4k_uhd",
     "term": "4K UHD resolution",
-    "term_zh": null,
+    "term_zh": "4K UHD 分辨率",
     "category": "quality",
     "subcategory": "resolution",
     "labels": [
@@ -6135,7 +7080,7 @@
     ],
     "labels_zh": [],
     "score": 0.85,
-    "priority": "medium",
+    "priority": "high",
     "lifecycle": "approved",
     "tags": [
       "nodaro-prompts"
@@ -6144,12 +7089,19 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Crisp 4K resolution. Prompt hint: 4K UHD resolution, crisp detail with cinema-grade clarity and clean edge definition",
-    "score_v2": 0.665
+    "score_v2": 0.665,
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "uhd resolution",
+      "uhd"
+    ]
   },
   {
     "id": "quality_resolution_16k_megapixel",
     "term": "16k resolution",
-    "term_zh": null,
+    "term_zh": "16K 分辨率",
     "category": "quality",
     "subcategory": "resolution",
     "labels": [
@@ -6157,7 +7109,7 @@
     ],
     "labels_zh": [],
     "score": 0.85,
-    "priority": "medium",
+    "priority": "high",
     "lifecycle": "approved",
     "tags": [
       "nodaro-prompts"
@@ -6166,12 +7118,19 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Insanely high-resolution detail. Prompt hint: 16K megapixel-grade resolution, insanely high-resolution detail with surgically clean edges and microscopic surface fidelity",
-    "score_v2": 0.585
+    "score_v2": 0.585,
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "16k resolution",
+      "16k"
+    ]
   },
   {
     "id": "quality_resolution_ultra_detailed",
     "term": "ultra-detailed",
-    "term_zh": null,
+    "term_zh": "超精细",
     "category": "quality",
     "subcategory": "resolution",
     "labels": [
@@ -6181,7 +7140,7 @@
       "细节丰富"
     ],
     "score": 0.85,
-    "priority": "medium",
+    "priority": "high",
     "lifecycle": "approved",
     "tags": [
       "nodaro-prompts"
@@ -6194,12 +7153,20 @@
       "highly detailed",
       "intricate details"
     ],
-    "score_v2": 0.505
+    "score_v2": 0.505,
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases_zh": [
+      "超精细",
+      "复杂细节",
+      "高度细节"
+    ],
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_stamps_raw_photo",
     "term": "raw photograph aesthetic",
-    "term_zh": null,
+    "term_zh": "RAW 摄影美学",
     "category": "quality",
     "subcategory": "stamps",
     "labels": [
@@ -6207,7 +7174,7 @@
     ],
     "labels_zh": [],
     "score": 0.85,
-    "priority": "medium",
+    "priority": "high",
     "lifecycle": "approved",
     "tags": [
       "nodaro-prompts"
@@ -6216,12 +7183,19 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Unprocessed photographic feel. Prompt hint: raw photograph aesthetic, unprocessed natural color science, authentic photographic detail and untouched documentary realism",
-    "score_v2": 0.665
+    "score_v2": 0.665,
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "raw photograph aesthetic",
+      "raw"
+    ]
   },
   {
     "id": "quality_stamps_masterpiece",
     "term": "masterpiece-quality rendering",
-    "term_zh": null,
+    "term_zh": "杰作品质渲染",
     "category": "quality",
     "subcategory": "stamps",
     "labels": [
@@ -6231,7 +7205,7 @@
       "杰作"
     ],
     "score": 0.85,
-    "priority": "medium",
+    "priority": "high",
     "lifecycle": "approved",
     "tags": [
       "nodaro-prompts"
@@ -6243,12 +7217,15 @@
     "aliases": [
       "award-winning artwork"
     ],
-    "score_v2": 0.585
+    "score_v2": 0.585,
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
   },
   {
     "id": "quality_stamps_award_winning",
     "term": "award-winning",
-    "term_zh": null,
+    "term_zh": "获奖作品",
     "category": "quality",
     "subcategory": "stamps",
     "labels": [
@@ -6256,7 +7233,7 @@
     ],
     "labels_zh": [],
     "score": 0.85,
-    "priority": "medium",
+    "priority": "high",
     "lifecycle": "approved",
     "tags": [
       "nodaro-prompts"
@@ -6265,12 +7242,18 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Award-circuit caliber. Prompt hint: award-winning quality, award-circuit caliber image with editorial-grade composition, magazine-cover finish and signature visual authority",
-    "score_v2": 0.505
+    "score_v2": 0.505,
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "award-winning"
+    ]
   },
   {
     "id": "quality_other_volumetric_lighting",
     "term": "volumetric lighting with god-ray light shafts cutting throug",
-    "term_zh": null,
+    "term_zh": "体积光照",
     "category": "quality",
     "subcategory": "other",
     "labels": [
@@ -6278,7 +7261,7 @@
     ],
     "labels_zh": [],
     "score": 0.85,
-    "priority": "medium",
+    "priority": "high",
     "lifecycle": "approved",
     "tags": [
       "nodaro-prompts"
@@ -6287,12 +7270,19 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: God-ray volumetric light shafts cutting through atmosphere. Prompt hint: volumetric lighting with god-ray light shafts cutting through atmospheric haze, beams of illuminated dust and particulate scattering through the scene",
-    "score_v2": 0.705
+    "score_v2": 0.705,
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "volumetric lighting with",
+      "volumetric"
+    ]
   },
   {
     "id": "quality_other_photon_mapping",
     "term": "photon-mapped global illumination with caustic-aware light t",
-    "term_zh": null,
+    "term_zh": "全局光照",
     "category": "quality",
     "subcategory": "other",
     "labels": [
@@ -6300,7 +7290,7 @@
     ],
     "labels_zh": [],
     "score": 0.85,
-    "priority": "medium",
+    "priority": "high",
     "lifecycle": "approved",
     "tags": [
       "nodaro-prompts"
@@ -6309,12 +7299,19 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Caustic-aware photon-mapped global illumination renderer. Prompt hint: photon-mapped global illumination with caustic-aware light transport, accurate refractive light patterns through glass and water and physically correct indirect bounces",
-    "score_v2": 0.705
+    "score_v2": 0.705,
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "photon-mapped global illumination",
+      "photon-mapped"
+    ]
   },
   {
     "id": "quality_other_ai_upscaled",
     "term": "neural-network AI-upscaled detail enhancement",
-    "term_zh": null,
+    "term_zh": "神经网络 AI 升采样增强细节",
     "category": "quality",
     "subcategory": "other",
     "labels": [
@@ -6322,7 +7319,7 @@
     ],
     "labels_zh": [],
     "score": 0.85,
-    "priority": "medium",
+    "priority": "high",
     "lifecycle": "approved",
     "tags": [
       "nodaro-prompts"
@@ -6331,12 +7328,19 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Neural-network upscaled detail enhancement, sharp super-resolution. Prompt hint: neural-network AI-upscaled detail enhancement, sharp super-resolution clarity with reconstructed micro-detail and surgically clean edge definition",
-    "score_v2": 0.705
+    "score_v2": 0.705,
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "neural-network ai-upscaled detail",
+      "neural-network"
+    ]
   },
   {
     "id": "quality_technical_denoised",
     "term": "denoised render",
-    "term_zh": null,
+    "term_zh": "降噪渲染",
     "category": "quality",
     "subcategory": "technical",
     "labels": [
@@ -6344,7 +7348,7 @@
     ],
     "labels_zh": [],
     "score": 0.85,
-    "priority": "medium",
+    "priority": "high",
     "lifecycle": "approved",
     "tags": [
       "nodaro-prompts"
@@ -6353,6 +7357,4011 @@
     "usage_count": 0,
     "success_rate": null,
     "notes": "Description: Clean noise-removed pristine rendering, no grain or speckle. Prompt hint: clean denoised rendering with noise removed entirely, pristine smooth surfaces and zero grain or speckle across shadows and midtones",
-    "score_v2": 0.585
+    "score_v2": 0.585,
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463413+00:00",
+    "_enriched_at": "2026-10-16T02:35:35.463413+00:00",
+    "aliases": [
+      "denoised render",
+      "denoised"
+    ]
+  },
+  {
+    "id": "quality_negative_low_quality",
+    "term": "low quality",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "quality",
+      "low",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "低质量",
+      "负面",
+      "质量缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "low quality",
+    "relation_role": "canonical",
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "低质量",
+    "aliases": [
+      "low res",
+      "poor quality"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_worst_quality",
+    "term": "worst quality",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "quality",
+      "worst",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "最差质量",
+      "负面",
+      "质量缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "最差质量",
+    "aliases": [
+      "terrible quality"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_bad_quality",
+    "term": "bad quality",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "quality",
+      "bad",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "糟糕质量",
+      "负面",
+      "质量缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "糟糕质量",
+    "aliases": [
+      "poor quality rendering"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_low_resolution",
+    "term": "low resolution",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "quality",
+      "low",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "低分辨率",
+      "负面",
+      "质量缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "低分辨率",
+    "aliases": [
+      "low-res blurry image"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_quality_blurry",
+    "term": "blurry",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "quality",
+      "blurry",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "模糊",
+      "负面",
+      "质量缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "blurry",
+    "relation_role": "canonical",
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "模糊",
+    "aliases": [
+      "out-of-focus blur effect"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_blurry_background",
+    "term": "blurry background",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "quality",
+      "blurry",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "模糊背景",
+      "负面",
+      "质量缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "模糊背景",
+    "aliases": [
+      "out-of-focus blur effect"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_of_focus",
+    "term": "out of focus",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "quality",
+      "out",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "失焦",
+      "负面",
+      "质量缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.65,
+    "is_negative": true,
+    "score_v2": 0.65,
+    "term_zh": "失焦",
+    "aliases": [
+      "defocused blurry image"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_quality_dithering",
+    "term": "dithering",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "quality",
+      "dithering",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "抖动",
+      "负面",
+      "质量缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "dithering",
+    "relation_role": "canonical",
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "抖动",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "dithering"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_jpeg_artifacts",
+    "term": "jpeg artifacts",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "quality",
+      "jpeg",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "JPEG",
+      "压缩",
+      "负面",
+      "质量缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "JPEG 压缩",
+    "aliases": [
+      "compressed jpeg noise"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_quality_pixelated",
+    "term": "pixelated",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "quality",
+      "pixelated",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "像素化",
+      "负面",
+      "质量缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "像素化",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "pixelated"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_anatomy_deformed",
+    "term": "deformed",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "anatomy",
+      "deformed",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "变形",
+      "解剖缺陷",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "变形",
+    "aliases": [
+      "distorted malformed features"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_anatomy_distorted",
+    "term": "distorted",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "anatomy",
+      "distorted",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "失真",
+      "解剖缺陷",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "失真",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "distorted"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_anatomy_disfigured",
+    "term": "disfigured",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "anatomy",
+      "disfigured",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "毁容",
+      "解剖缺陷",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "毁容",
+    "aliases": [
+      "scars disfigurement marks"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_bad_anatomy",
+    "term": "bad anatomy",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "anatomy",
+      "bad",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "畸形解剖",
+      "解剖缺陷",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "畸形解剖",
+    "aliases": [
+      "incorrect anatomical proportions"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_wrong_anatomy",
+    "term": "wrong anatomy",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "anatomy",
+      "wrong",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "解剖缺陷",
+      "负面",
+      "错误解剖"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "错误解剖",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "wrong anatomy",
+      "wrong"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_extra_limbs",
+    "term": "extra limbs",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "anatomy",
+      "extra",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "多余肢体",
+      "解剖缺陷",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "多余肢体",
+    "aliases": [
+      "additional extra limbs error"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_extra_arms",
+    "term": "extra arms",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "anatomy",
+      "extra",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "多余手臂",
+      "解剖缺陷",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "多余手臂",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "extra arms",
+      "extra"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_extra_legs",
+    "term": "extra legs",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "anatomy",
+      "extra",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "多余腿",
+      "解剖缺陷",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "多余腿",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "extra legs",
+      "extra"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_missing_limbs",
+    "term": "missing limbs",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "anatomy",
+      "missing",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "缺失肢体",
+      "解剖缺陷",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "缺失肢体",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "missing limbs",
+      "missing"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_missing_fingers",
+    "term": "missing fingers",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "anatomy",
+      "missing",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "缺少手指",
+      "解剖缺陷",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "缺少手指",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "missing fingers",
+      "missing"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_extra_digits",
+    "term": "extra digits",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "anatomy",
+      "extra",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "多余指",
+      "解剖缺陷",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "多余指",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "extra digits",
+      "extra"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_fewer_digits",
+    "term": "fewer digits",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "anatomy",
+      "fewer",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "缺失指",
+      "解剖缺陷",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "缺失指",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "fewer digits",
+      "fewer"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_wrong_fingers",
+    "term": "wrong fingers",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "anatomy",
+      "wrong",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "解剖缺陷",
+      "负面",
+      "错误手指"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "错误手指",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "wrong fingers",
+      "wrong"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_bad_hands",
+    "term": "bad hands",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "anatomy",
+      "bad",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "手部畸形",
+      "解剖缺陷",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "手部畸形",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "bad hands",
+      "bad"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_drawn_hands",
+    "term": "poorly drawn hands",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "anatomy",
+      "poorly",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "糟糕双手",
+      "解剖缺陷",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.65,
+    "is_negative": true,
+    "score_v2": 0.65,
+    "term_zh": "糟糕双手",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "poorly drawn hands",
+      "poorly"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_anatomy_mutation",
+    "term": "mutation",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "anatomy",
+      "mutation",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "变异",
+      "解剖缺陷",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "变异",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "mutation"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_mutated_hands",
+    "term": "mutated hands",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "anatomy",
+      "mutated",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "变形手",
+      "解剖缺陷",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "变形手",
+    "aliases": [
+      "genetically mutated form"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_fused_fingers",
+    "term": "fused fingers",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "anatomy",
+      "fused",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "融合手指",
+      "解剖缺陷",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "融合手指",
+    "aliases": [
+      "merged fused finger digits"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_many_fingers",
+    "term": "too many fingers",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "anatomy",
+      "too",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "手指过多",
+      "解剖缺陷",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.65,
+    "is_negative": true,
+    "score_v2": 0.65,
+    "term_zh": "手指过多",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "too many fingers",
+      "too"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_long_neck",
+    "term": "long neck",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "anatomy",
+      "long",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "解剖缺陷",
+      "负面",
+      "长颈"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "长颈",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "long neck",
+      "long"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_conjoined_fingers",
+    "term": "conjoined fingers",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "anatomy",
+      "conjoined",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "解剖缺陷",
+      "负面",
+      "连体手指"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "连体手指",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "conjoined fingers",
+      "conjoined"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_extra_toe",
+    "term": "extra toe",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "anatomy",
+      "extra",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "多余脚趾",
+      "解剖缺陷",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "多余脚趾",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "extra toe",
+      "extra"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_wrong_feet",
+    "term": "wrong feet",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "anatomy",
+      "wrong",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "脚部错误",
+      "解剖缺陷",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "脚部错误",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "wrong feet",
+      "wrong"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_face_ugly",
+    "term": "ugly",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "face",
+      "ugly",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "丑陋",
+      "负面",
+      "面部缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "丑陋",
+    "aliases": [
+      "unattractive appearance"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_face_duplicate",
+    "term": "duplicate",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "face",
+      "duplicate",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "负面",
+      "重复",
+      "面部缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "重复",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "duplicate"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_face_morbid",
+    "term": "morbid",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "face",
+      "morbid",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "病态",
+      "负面",
+      "面部缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "病态",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "morbid"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_face_mutilated",
+    "term": "mutilated",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "face",
+      "mutilated",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "残害",
+      "负面",
+      "面部缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "残害",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "mutilated"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_plastic_skin",
+    "term": "plastic skin",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "face",
+      "plastic",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "塑料皮肤",
+      "负面",
+      "面部缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "塑料皮肤",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "plastic skin",
+      "plastic"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_bad_face",
+    "term": "bad face",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "face",
+      "bad",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "糟糕脸",
+      "负面",
+      "面部缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "糟糕脸",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "bad face",
+      "bad"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_deformed_face",
+    "term": "deformed face",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "face",
+      "deformed",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "变形脸",
+      "负面",
+      "面部缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "变形脸",
+    "aliases": [
+      "distorted malformed features"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_ugly_face",
+    "term": "ugly face",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "face",
+      "ugly",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "丑陋脸",
+      "负面",
+      "面部缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "丑陋脸",
+    "aliases": [
+      "unattractive appearance"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_drawn_face",
+    "term": "poorly drawn face",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "face",
+      "poorly",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "糟糕面部",
+      "负面",
+      "面部缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.65,
+    "is_negative": true,
+    "score_v2": 0.65,
+    "term_zh": "糟糕面部",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "poorly drawn face",
+      "poorly"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_bad_proportions",
+    "term": "bad proportions",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "face",
+      "bad",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "比例失调",
+      "负面",
+      "面部缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "比例失调",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "bad proportions",
+      "bad"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_gross_proportions",
+    "term": "gross proportions",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "face",
+      "gross",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "比例失调",
+      "负面",
+      "面部缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "比例失调",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "gross proportions",
+      "gross"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_malformed_limbs",
+    "term": "malformed limbs",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "face",
+      "malformed",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "畸形肢体",
+      "负面",
+      "面部缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "畸形肢体",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "malformed limbs",
+      "malformed"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_and_legs",
+    "term": "extra arms and legs",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "face",
+      "extra",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "多余四肢",
+      "负面",
+      "面部缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.69,
+    "is_negative": true,
+    "score_v2": 0.69,
+    "term_zh": "多余四肢",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "extra arms and",
+      "extra"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_asymmetrical_eyes",
+    "term": "asymmetrical eyes",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "face",
+      "asymmetrical",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "负面",
+      "面部缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "不对称眼睛",
+    "aliases": [
+      "balanced composition",
+      "symmetry composition"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_crossed_eyes",
+    "term": "crossed eyes",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "face",
+      "crossed",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "负面",
+      "闭眼",
+      "面部缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "闭眼",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "crossed eyes",
+      "crossed"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_face_strabismus",
+    "term": "strabismus",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "face",
+      "strabismus",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "斜视",
+      "负面",
+      "面部缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "斜视",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "strabismus"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_uneven_eyes",
+    "term": "uneven eyes",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "face",
+      "uneven",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "负面",
+      "面部缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "不对称眼睛",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "uneven eyes",
+      "uneven"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_extra_eye",
+    "term": "extra eye",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "face",
+      "extra",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "多眼",
+      "负面",
+      "面部缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "多眼",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "extra eye",
+      "extra",
+      "gaze",
+      "look"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_missing_eye",
+    "term": "missing eye",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "face",
+      "missing",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "缺眼",
+      "负面",
+      "面部缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "缺眼",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "missing eye",
+      "missing",
+      "gaze",
+      "look"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_composition_watermark",
+    "term": "watermark",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "composition",
+      "watermark",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "构图",
+      "水印",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "水印",
+    "aliases": [
+      "visible watermark overlay"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_composition_text",
+    "term": "text",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "composition",
+      "text",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "文字",
+      "构图",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "text",
+    "relation_role": "canonical",
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "文字",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "text"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_composition_username",
+    "term": "username",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "composition",
+      "username",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "构图",
+      "用户名",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "用户名",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "username"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_composition_error",
+    "term": "error",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "composition",
+      "error",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "构图",
+      "负面",
+      "错误"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "错误",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "error"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_composition_crop",
+    "term": "crop",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "composition",
+      "crop",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "构图",
+      "裁剪",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "裁剪",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "crop"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_of_frame",
+    "term": "out of frame",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "composition",
+      "out",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "出框",
+      "构图",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.65,
+    "is_negative": true,
+    "score_v2": 0.65,
+    "term_zh": "出框",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "out frame",
+      "out"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_cut_off",
+    "term": "cut off",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "composition",
+      "cut",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "切断",
+      "构图",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "切断",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "cut off",
+      "cut"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_composition_lowres",
+    "term": "lowres",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "composition",
+      "lowres",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "低分辨率",
+      "构图",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "低分辨率",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "lowres"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_composition_signature",
+    "term": "signature",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "composition",
+      "signature",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "构图",
+      "签名",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "签名",
+    "aliases": [
+      "artist signature text overlay"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_wrong_size",
+    "term": "wrong size",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "composition",
+      "wrong",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "构图",
+      "负面",
+      "错误尺寸"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "错误尺寸",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "wrong size",
+      "wrong"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_composition_border",
+    "term": "border",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "composition",
+      "border",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "构图",
+      "负面",
+      "边框"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "边框",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "border"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_composition_frame",
+    "term": "frame",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "composition",
+      "frame",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "构图",
+      "画框",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "frame",
+    "relation_role": "canonical",
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "画框",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "frame"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_multiple_panels",
+    "term": "multiple panels",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "composition",
+      "multiple",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "多格分镜",
+      "构图",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "多格分镜",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "multiple panels",
+      "multiple"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_style_3d",
+    "term": "3d",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "style",
+      "3d",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "3D",
+      "负面",
+      "风格缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "3d",
+    "relation_role": "canonical",
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "3D",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T02:35:35.463020+00:00",
+    "aliases": [
+      "three-dimensional",
+      "tridimensional"
+    ]
+  },
+  {
+    "id": "quality_negative_style_realistic",
+    "term": "realistic",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "style",
+      "realistic",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "写实",
+      "负面",
+      "风格缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "realistic",
+    "relation_role": "canonical",
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "写实",
+    "aliases": [
+      "photorealistic",
+      "realistic rendering"
+    ],
+    "aliases_zh": [
+      "照片级真实",
+      "逼真渲染"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_style_photorealistic",
+    "term": "photorealistic",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "style",
+      "photorealistic",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "负面",
+      "风格缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "photorealistic",
+    "relation_role": "canonical",
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "照片级写实",
+    "aliases": [
+      "photorealistic",
+      "realistic rendering"
+    ],
+    "aliases_zh": [
+      "照片级真实",
+      "逼真渲染"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_style_photograph",
+    "term": "photograph",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "style",
+      "photograph",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "摄影",
+      "负面",
+      "风格缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "photograph",
+    "relation_role": "canonical",
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "摄影",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "photograph"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_realistic_noise",
+    "term": "realistic noise",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "style",
+      "realistic",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "写实噪点",
+      "负面",
+      "风格缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "写实噪点",
+    "aliases": [
+      "photorealistic",
+      "realistic rendering"
+    ],
+    "aliases_zh": [
+      "照片级真实",
+      "逼真渲染"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_realistic_camera",
+    "term": "realistic camera",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "style",
+      "realistic",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "写实相机",
+      "负面",
+      "风格缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "写实相机",
+    "aliases": [
+      "photorealistic",
+      "realistic rendering"
+    ],
+    "aliases_zh": [
+      "照片级真实",
+      "逼真渲染"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_oil_painting",
+    "term": "oil painting",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "style",
+      "oil",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "油画",
+      "负面",
+      "风格缺陷"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "oil painting",
+    "relation_role": "canonical",
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "油画",
+    "aliases": [
+      "classical oil painting"
+    ],
+    "aliases_zh": [
+      "canvas painting",
+      "古典油画"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_textrelated_watermark",
+    "term": "watermark",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "textRelated",
+      "watermark",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "deprecated",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "文字",
+      "水印",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "alias_of": "negative_composition_watermark",
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "水印",
+    "aliases": [
+      "visible watermark overlay"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_textrelated_username",
+    "term": "username",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "textRelated",
+      "username",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "deprecated",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "文字",
+      "用户名",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "alias_of": "negative_composition_username",
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "用户名",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "username"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_textrelated_signature",
+    "term": "signature",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "textRelated",
+      "signature",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "deprecated",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "文字",
+      "签名",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "alias_of": "negative_composition_signature",
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "签名",
+    "aliases": [
+      "artist signature text overlay"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_textrelated_logo",
+    "term": "logo",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "textRelated",
+      "logo",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "文字",
+      "标志",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "logo",
+    "relation_role": "canonical",
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "标志",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "logo"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_textrelated_text",
+    "term": "text",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "textRelated",
+      "text",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "文字",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "relation_group": "text",
+    "relation_role": "variant",
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "文字",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "text"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_textrelated_lettering",
+    "term": "lettering",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "textRelated",
+      "lettering",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "字体",
+      "文字",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "字体",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "lettering"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_textrelated_subtitle",
+    "term": "subtitle",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "textRelated",
+      "subtitle",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "字幕",
+      "文字",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.49,
+    "is_negative": true,
+    "score_v2": 0.49,
+    "term_zh": "字幕",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "subtitle"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_chapter_number",
+    "term": "chapter number",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "textRelated",
+      "chapter",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "文字",
+      "章节号",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "章节号",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "chapter number",
+      "chapter"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_comic_title",
+    "term": "comic title",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "textRelated",
+      "comic",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "文字",
+      "漫画标题",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "漫画标题",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "comic title",
+      "comic"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_series_name",
+    "term": "series name",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "textRelated",
+      "series",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "文字",
+      "系列名",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "系列名",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "series name",
+      "series"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_skin_marks",
+    "term": "skin marks",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "commonDefects",
+      "skin",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "常见缺陷",
+      "皮肤瑕疵",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "皮肤瑕疵",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "skin marks",
+      "skin"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_fat_rolls",
+    "term": "fat rolls",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "commonDefects",
+      "fat",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "常见缺陷",
+      "脂肪堆积",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "脂肪堆积",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "fat rolls",
+      "fat"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_stray_hair",
+    "term": "stray hair",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "commonDefects",
+      "stray",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "常见缺陷",
+      "杂发",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "杂发",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "stray hair",
+      "stray",
+      "lock",
+      "mane"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_cropped_head",
+    "term": "cropped head",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "commonDefects",
+      "cropped",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "头部裁切",
+      "常见缺陷",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "头部裁切",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "cropped head",
+      "cropped"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_bad_feet",
+    "term": "bad feet",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "commonDefects",
+      "bad",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "常见缺陷",
+      "糟糕脚部",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "糟糕脚部",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "bad feet",
+      "bad"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_deformed_feet",
+    "term": "deformed feet",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "commonDefects",
+      "deformed",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "常见缺陷",
+      "畸形脚部",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "畸形脚部",
+    "aliases": [
+      "distorted malformed features"
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00"
+  },
+  {
+    "id": "quality_negative_toes_merging",
+    "term": "toes merging",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "commonDefects",
+      "toes",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "常见缺陷",
+      "脚趾融合",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "脚趾融合",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "toes merging",
+      "toes"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_muscle_lump",
+    "term": "muscle lump",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "commonDefects",
+      "muscle",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "常见缺陷",
+      "肌肉肿块",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "肌肉肿块",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "muscle lump",
+      "muscle"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_dimpled_skin",
+    "term": "dimpled skin",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "commonDefects",
+      "dimpled",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "凹陷皮肤",
+      "常见缺陷",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "凹陷皮肤",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "dimpled skin",
+      "dimpled"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_patchy_skin",
+    "term": "patchy skin",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "commonDefects",
+      "patchy",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "常见缺陷",
+      "斑驳皮肤",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "斑驳皮肤",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "patchy skin",
+      "patchy"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_visible_tattoo",
+    "term": "visible tattoo",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "commonDefects",
+      "visible",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "可见纹身",
+      "常见缺陷",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "可见纹身",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "visible tattoo",
+      "visible"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_shoulder_bumps",
+    "term": "shoulder bumps",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "commonDefects",
+      "shoulder",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "常见缺陷",
+      "肩部肿块",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "肩部肿块",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "shoulder bumps",
+      "shoulder"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_extra_nipple",
+    "term": "extra nipple",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "commonDefects",
+      "extra",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "多乳头",
+      "常见缺陷",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "多乳头",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "extra nipple",
+      "extra"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_pubic_hair",
+    "term": "pubic hair",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "commonDefects",
+      "pubic",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "常见缺陷",
+      "负面",
+      "阴毛"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "阴毛",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "pubic hair",
+      "pubic",
+      "lock",
+      "mane"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_breast_sagging",
+    "term": "breast sagging",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "commonDefects",
+      "breast",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "乳房下垂",
+      "常见缺陷",
+      "负面"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "乳房下垂",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "breast sagging",
+      "breast"
+    ],
+    "aliases_zh": []
+  },
+  {
+    "id": "quality_negative_misaligned_hips",
+    "term": "misaligned hips",
+    "category": "quality",
+    "subcategory": "negative",
+    "labels": [
+      "commonDefects",
+      "misaligned",
+      "migrated",
+      "negative"
+    ],
+    "score": 0.95,
+    "lifecycle": "approved",
+    "created_at": "2026-09-27T17:25:55.753Z",
+    "updated_at": "2026-09-27T17:25:55.753Z",
+    "source": "h3-comic-builder-migration",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Migrated from prompt_keywords_core.js / character.js / scenes.js",
+    "labels_zh": [
+      "常见缺陷",
+      "负面",
+      "骨盆错位"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "flux"
+    ],
+    "weight": 0.57,
+    "is_negative": true,
+    "score_v2": 0.57,
+    "term_zh": "骨盆错位",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.592329+00:00",
+    "aliases": [
+      "misaligned hips",
+      "misaligned"
+    ],
+    "aliases_zh": []
   }
 ]

@@ -1,0 +1,42 @@
+{
+  "name": "photographer 工作流",
+  "description": "photographer 分类的常用关键词集合 (89 条)",
+  "category": "photographer",
+  "keywords": [
+    "by tim walker, painterly fairytale fashion",
+    "by paolo roversi, soft ethereal polaroid glow",
+    "by marta bevacqua, dreamy painterly portraiture",
+    "by patrick demarchelier, refined classic fashion",
+    "by nick knight, high-gloss avant-garde fashion",
+    "by mario testino, glamorous sun-soaked fashion",
+    "by steven meisel, polished mid-century editorial",
+    "by helmut newton, hard-flash monochrome glamour",
+    "by mario sorrenti, intimate grainy fashion",
+    "by annie leibovitz, cinematic celebrity portraiture"
+  ],
+  "total_count": 89,
+  "id": "workflow.photographer",
+  "name_zh": "摄影师风格",
+  "steps": [
+    {
+      "order": 1,
+      "template_id": "action.motion"
+    },
+    {
+      "order": 2,
+      "template_id": "atmosphere.weather"
+    },
+    {
+      "order": 3,
+      "template_id": "camera.movement"
+    },
+    {
+      "order": 4,
+      "template_id": "camera.shot_type"
+    },
+    {
+      "order": 5,
+      "template_id": "character.multiple_views"
+    }
+  ]
+}

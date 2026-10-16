@@ -26,7 +26,15 @@
     ],
     "weight": 0.62,
     "score_v2": 0.62,
-    "term_zh": "丝绸制"
+    "term_zh": "丝绸制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made silk",
+      "made"
+    ]
   },
   {
     "id": "material_fabric_cotton",
@@ -55,7 +63,15 @@
     ],
     "weight": 0.62,
     "score_v2": 0.62,
-    "term_zh": "棉制"
+    "term_zh": "棉制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made cotton",
+      "made"
+    ]
   },
   {
     "id": "material_fabric_denim",
@@ -83,7 +99,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "厚重蓙青牛仔制"
+    "term_zh": "厚重蓙青牛仔制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made heavy indigo",
+      "made"
+    ]
   },
   {
     "id": "material_fabric_leather",
@@ -112,7 +136,15 @@
     ],
     "weight": 0.62,
     "score_v2": 0.62,
-    "term_zh": "皮革制"
+    "term_zh": "皮革制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made leather",
+      "made"
+    ]
   },
   {
     "id": "material_fabric_velvet",
@@ -141,7 +173,15 @@
     ],
     "weight": 0.62,
     "score_v2": 0.62,
-    "term_zh": "天鹅绒制"
+    "term_zh": "天鹅绒制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made velvet",
+      "made"
+    ]
   },
   {
     "id": "material_fabric_satin",
@@ -170,7 +210,15 @@
     ],
     "weight": 0.62,
     "score_v2": 0.62,
-    "term_zh": "缎制"
+    "term_zh": "缎制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made satin",
+      "made"
+    ]
   },
   {
     "id": "material_fabric_lace",
@@ -199,7 +247,15 @@
     ],
     "weight": 0.62,
     "score_v2": 0.62,
-    "term_zh": "蕾丝制"
+    "term_zh": "蕾丝制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made lace",
+      "made"
+    ]
   },
   {
     "id": "material_fabric_wool",
@@ -228,7 +284,15 @@
     ],
     "weight": 0.62,
     "score_v2": 0.62,
-    "term_zh": "羊毛制"
+    "term_zh": "羊毛制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made wool",
+      "made"
+    ]
   },
   {
     "id": "material_fabric_linen",
@@ -257,7 +321,15 @@
     ],
     "weight": 0.62,
     "score_v2": 0.62,
-    "term_zh": "亚麻制"
+    "term_zh": "亚麻制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made linen",
+      "made"
+    ]
   },
   {
     "id": "material_fabric_tweed",
@@ -286,7 +358,15 @@
     ],
     "weight": 0.62,
     "score_v2": 0.62,
-    "term_zh": "粗花呢制"
+    "term_zh": "粗花呢制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made tweed",
+      "made"
+    ]
   },
   {
     "id": "material_fabric_cashmere",
@@ -315,7 +395,15 @@
     ],
     "weight": 0.62,
     "score_v2": 0.62,
-    "term_zh": "羊绒制"
+    "term_zh": "羊绒制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made cashmere",
+      "made"
+    ]
   },
   {
     "id": "material_fabric_chiffon",
@@ -348,6 +436,14 @@
     "aliases_zh": [
       "snowy weather",
       "下雪天"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00",
+    "aliases": [
+      "made chiffon",
+      "made"
     ]
   },
   {
@@ -377,7 +473,15 @@
     ],
     "weight": 0.62,
     "score_v2": 0.62,
-    "term_zh": "毛皮制"
+    "term_zh": "毛皮制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made fur",
+      "made"
+    ]
   },
   {
     "id": "material_fabric_suede",
@@ -406,7 +510,15 @@
     ],
     "weight": 0.62,
     "score_v2": 0.62,
-    "term_zh": "麂皮制"
+    "term_zh": "麂皮制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made suede",
+      "made"
+    ]
   },
   {
     "id": "material_fabric_mesh",
@@ -435,7 +547,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "薄纱制"
+    "term_zh": "薄纱制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made sheer mesh",
+      "made"
+    ]
   },
   {
     "id": "material_fabric_patent_leather",
@@ -464,7 +584,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "漆皮制"
+    "term_zh": "漆皮制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made patent leather",
+      "made"
+    ]
   },
   {
     "id": "material_metal_gold",
@@ -496,7 +624,11 @@
     "term_zh": "魔光金制",
     "aliases": [
       "metallic gold"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00"
   },
   {
     "id": "material_metal_silver",
@@ -528,7 +660,11 @@
     "term_zh": "魔光银制",
     "aliases": [
       "metallic silver"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00"
   },
   {
     "id": "material_metal_bronze",
@@ -559,7 +695,11 @@
     "term_zh": "铜绿青铜制",
     "aliases": [
       "antique bronze"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00"
   },
   {
     "id": "material_metal_chrome",
@@ -591,7 +731,11 @@
     "term_zh": "魔光铬制",
     "aliases": [
       "polished smooth surface"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00"
   },
   {
     "id": "material_metal_copper",
@@ -622,7 +766,11 @@
     "term_zh": "铜绿紫铜制",
     "aliases": [
       "copper-toned metal"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00"
   },
   {
     "id": "material_metal_brass",
@@ -651,7 +799,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "古黄铜制"
+    "term_zh": "古黄铜制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made antique brass",
+      "made"
+    ]
   },
   {
     "id": "material_metal_steel",
@@ -679,7 +835,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "魔拉丝不锈钢制"
+    "term_zh": "魔拉丝不锈钢制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made brushed stainless",
+      "made"
+    ]
   },
   {
     "id": "material_metal_iron",
@@ -708,7 +872,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "熟铁"
+    "term_zh": "熟铁",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made wrought iron",
+      "made"
+    ]
   },
   {
     "id": "material_metal_platinum",
@@ -739,7 +911,11 @@
     "term_zh": "魔光铂金制",
     "aliases": [
       "polished smooth surface"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00"
   },
   {
     "id": "material_metal_titanium",
@@ -774,7 +950,11 @@
     ],
     "aliases_zh": [
       "哑光无反光表面"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00"
   },
   {
     "id": "material_stone_marble",
@@ -805,7 +985,11 @@
     "term_zh": "魔光大理石制",
     "aliases": [
       "polished smooth surface"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00"
   },
   {
     "id": "material_stone_granite",
@@ -836,7 +1020,11 @@
     "term_zh": "魔光花岗岩制",
     "aliases": [
       "polished smooth surface"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00"
   },
   {
     "id": "material_stone_obsidian",
@@ -870,7 +1058,11 @@
     ],
     "aliases_zh": [
       "黑色调"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00"
   },
   {
     "id": "material_stone_sandstone",
@@ -901,7 +1093,11 @@
     "term_zh": "风化砂岩制",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00"
   },
   {
     "id": "material_stone_slate",
@@ -930,7 +1126,15 @@
     ],
     "weight": 0.62,
     "score_v2": 0.62,
-    "term_zh": "板岩制"
+    "term_zh": "板岩制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made slate",
+      "made"
+    ]
   },
   {
     "id": "material_stone_jade",
@@ -962,7 +1166,11 @@
     "term_zh": "魔光玉制",
     "aliases": [
       "polished smooth surface"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00"
   },
   {
     "id": "material_stone_onyx",
@@ -997,7 +1205,11 @@
     "aliases_zh": [
       "深红色",
       "绯红色"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00"
   },
   {
     "id": "material_stone_concrete",
@@ -1026,7 +1238,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "混泥土制"
+    "term_zh": "混泥土制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made cast concrete",
+      "made"
+    ]
   },
   {
     "id": "material_stone_terrazzo",
@@ -1057,7 +1277,11 @@
     "term_zh": "魔光水磨石制",
     "aliases": [
       "polished smooth surface"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00"
   },
   {
     "id": "material_wood_oak",
@@ -1086,7 +1310,15 @@
     ],
     "weight": 0.62,
     "score_v2": 0.62,
-    "term_zh": "橡木制"
+    "term_zh": "橡木制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made oak",
+      "made"
+    ]
   },
   {
     "id": "material_wood_mahogany",
@@ -1121,7 +1353,11 @@
     "aliases_zh": [
       "深红色",
       "绯红色"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00"
   },
   {
     "id": "material_wood_walnut",
@@ -1150,7 +1386,15 @@
     ],
     "weight": 0.62,
     "score_v2": 0.62,
-    "term_zh": "胡桃木制"
+    "term_zh": "胡桃木制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made walnut",
+      "made"
+    ]
   },
   {
     "id": "material_wood_bamboo",
@@ -1179,7 +1423,15 @@
     ],
     "weight": 0.62,
     "score_v2": 0.62,
-    "term_zh": "竹制"
+    "term_zh": "竹制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made bamboo",
+      "made"
+    ]
   },
   {
     "id": "material_wood_birch",
@@ -1208,7 +1460,15 @@
     ],
     "weight": 0.62,
     "score_v2": 0.62,
-    "term_zh": "桦木制"
+    "term_zh": "桦木制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made birch",
+      "made"
+    ]
   },
   {
     "id": "material_wood_driftwood",
@@ -1239,13 +1499,17 @@
     "term_zh": "风化漂流木制",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00"
   },
   {
     "id": "material_glass_ceramic_glass",
     "term": "made of clear glass",
     "category": "material",
-    "subcategory": "glass-ceramic",
+    "subcategory": "glass_ceramic",
     "labels": [
       "glass",
       "nodaro-prompts"
@@ -1270,13 +1534,21 @@
     "term_zh": "透明玻璃制",
     "aliases_zh": [
       "半透明质感"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00",
+    "aliases": [
+      "made clear glass",
+      "made"
     ]
   },
   {
     "id": "material_glass_ceramic_stained_glass",
     "term": "made of stained glass",
     "category": "material",
-    "subcategory": "glass-ceramic",
+    "subcategory": "glass_ceramic",
     "labels": [
       "stained-glass",
       "nodaro-prompts"
@@ -1302,13 +1574,17 @@
     "aliases": [
       "colorful stained glass",
       "gothic window"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00"
   },
   {
     "id": "material_glass_ceramic_crystal",
     "term": "made of faceted crystal",
     "category": "material",
-    "subcategory": "glass-ceramic",
+    "subcategory": "glass_ceramic",
     "labels": [
       "crystal",
       "nodaro-prompts"
@@ -1330,13 +1606,21 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "多面水晶制"
+    "term_zh": "多面水晶制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made faceted crystal",
+      "made"
+    ]
   },
   {
     "id": "material_glass_ceramic_porcelain",
     "term": "made of porcelain",
     "category": "material",
-    "subcategory": "glass-ceramic",
+    "subcategory": "glass_ceramic",
     "labels": [
       "porcelain",
       "nodaro-prompts"
@@ -1363,13 +1647,17 @@
     "aliases": [
       "brutal orc",
       "warrior orc"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00"
   },
   {
     "id": "material_glass_ceramic_ceramic_glazed",
     "term": "made of glazed ceramic",
     "category": "material",
-    "subcategory": "glass-ceramic",
+    "subcategory": "glass_ceramic",
     "labels": [
       "ceramic-glazed",
       "nodaro-prompts"
@@ -1392,13 +1680,21 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "釉陶瓷制"
+    "term_zh": "釉陶瓷制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made glazed ceramic",
+      "made"
+    ]
   },
   {
     "id": "material_glass_ceramic_terracotta",
     "term": "made of unglazed terracotta",
     "category": "material",
-    "subcategory": "glass-ceramic",
+    "subcategory": "glass_ceramic",
     "labels": [
       "terracotta",
       "nodaro-prompts"
@@ -1420,7 +1716,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "无釉陶土制"
+    "term_zh": "无釉陶土制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made unglazed terracotta",
+      "made"
+    ]
   },
   {
     "id": "material_natural_water",
@@ -1449,7 +1753,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "流水制"
+    "term_zh": "流水制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made flowing water",
+      "made"
+    ]
   },
   {
     "id": "material_natural_fire",
@@ -1478,7 +1790,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "活焰制"
+    "term_zh": "活焰制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made living flame",
+      "made"
+    ]
   },
   {
     "id": "material_natural_ice",
@@ -1507,7 +1827,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "结晶冰制"
+    "term_zh": "结晶冰制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made crystalline ice",
+      "made"
+    ]
   },
   {
     "id": "material_natural_smoke",
@@ -1536,7 +1864,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "漂烟制"
+    "term_zh": "漂烟制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made drifting smoke",
+      "made"
+    ]
   },
   {
     "id": "material_natural_sand",
@@ -1565,7 +1901,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "细沙制"
+    "term_zh": "细沙制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made fine sand",
+      "made"
+    ]
   },
   {
     "id": "material_natural_moss",
@@ -1594,7 +1938,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "活苔制"
+    "term_zh": "活苔制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made living moss",
+      "made"
+    ]
   },
   {
     "id": "material_natural_leaves",
@@ -1625,7 +1977,11 @@
     "term_zh": "层叠植物叶制",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00"
   },
   {
     "id": "material_exotic_holographic",
@@ -1653,7 +2009,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "全息彩虹色材料制"
+    "term_zh": "全息彩虹色材料制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made holographic iridescent",
+      "made"
+    ]
   },
   {
     "id": "material_exotic_liquid_metal",
@@ -1681,7 +2045,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "液态金属制"
+    "term_zh": "液态金属制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made liquid metal",
+      "made"
+    ]
   },
   {
     "id": "material_exotic_neon",
@@ -1717,7 +2089,11 @@
     "aliases_zh": [
       "luminous",
       "发光效果"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00"
   },
   {
     "id": "material_exotic_translucent",
@@ -1751,7 +2127,11 @@
     ],
     "aliases_zh": [
       "半透明质感"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00"
   },
   {
     "id": "material_exotic_subsurface",
@@ -1782,7 +2162,11 @@
     "term_zh": "半透次表面散射材质制",
     "aliases": [
       "semi-transparent translucent"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00"
   },
   {
     "id": "material_exotic_mirror",
@@ -1810,7 +2194,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "完美镜面制"
+    "term_zh": "完美镜面制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made perfect mirror",
+      "made"
+    ]
   },
   {
     "id": "material_exotic_plasma",
@@ -1842,7 +2234,11 @@
     "aliases": [
       "luminous",
       "radiant glow"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00"
   },
   {
     "id": "material_exotic_crystal_shard",
@@ -1878,7 +2274,11 @@
     "aliases_zh": [
       "luminous",
       "发光效果"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00"
   },
   {
     "id": "material_exotic_obsidian_glass",
@@ -1910,6 +2310,14 @@
     "aliases_zh": [
       "fire effects",
       "火焰"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00",
+    "aliases": [
+      "made dark volcanic",
+      "made"
     ]
   },
   {
@@ -1938,7 +2346,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "彩虹变色材料制"
+    "term_zh": "彩虹变色材料制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made iridescent color-shifting",
+      "made"
+    ]
   },
   {
     "id": "material_exotic_mother_of_pearl",
@@ -1967,7 +2383,15 @@
     ],
     "weight": 0.62,
     "score_v2": 0.62,
-    "term_zh": "珠母贝制"
+    "term_zh": "珠母贝制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made mother-of-pearl",
+      "made"
+    ]
   },
   {
     "id": "material_exotic_carbon_fiber",
@@ -2000,7 +2424,11 @@
     "aliases": [
       "luxury vehicle",
       "sports car"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592093+00:00"
   },
   {
     "id": "material_exotic_holographic_film",
@@ -2029,6 +2457,14 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "全息膜制"
+    "term_zh": "全息膜制",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462906+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462906+00:00",
+    "aliases": [
+      "made holographic film",
+      "made"
+    ]
   }
 ]

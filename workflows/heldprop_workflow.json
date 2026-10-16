@@ -1,0 +1,42 @@
+{
+  "name": "held-prop 工作流",
+  "description": "held-prop 分类的常用关键词集合 (66 条)",
+  "category": "held-prop",
+  "keywords": [
+    "holding a smartphone",
+    "holding a smartphone raised at arm's length",
+    "cradling a vintage polaroid instant camera",
+    "holding a vintage 35mm film camera",
+    "holding a dslr camera to the eye",
+    "shouldering a video camera",
+    "gripping a handheld microphone",
+    "holding a raised megaphone",
+    "raising a wrist to check a smartwatch",
+    "cradling a ceramic coffee cup"
+  ],
+  "total_count": 66,
+  "id": "workflow.heldprop",
+  "name_zh": "手持道具",
+  "steps": [
+    {
+      "order": 1,
+      "template_id": "action.motion"
+    },
+    {
+      "order": 2,
+      "template_id": "atmosphere.weather"
+    },
+    {
+      "order": 3,
+      "template_id": "camera.movement"
+    },
+    {
+      "order": 4,
+      "template_id": "camera.shot_type"
+    },
+    {
+      "order": 5,
+      "template_id": "character.multiple_views"
+    }
+  ]
+}

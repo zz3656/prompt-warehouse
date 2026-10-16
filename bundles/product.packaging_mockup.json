@@ -59,26 +59,6 @@
       "weight": 0.85
     },
     {
-      "id": "mj_mj_v5_matprops_matte",
-      "weight": 0.85
-    },
-    {
-      "id": "mj_mj_v5_matprops_glossy",
-      "weight": 0.85
-    },
-    {
-      "id": "mj_mj_v5_materials_aluminum",
-      "weight": 0.8
-    },
-    {
-      "id": "mj_mj_v5_materials_brushed_aluminum",
-      "weight": 0.8
-    },
-    {
-      "id": "mj_mj_v5_materials_foil",
-      "weight": 0.8
-    },
-    {
       "id": "lighting_mood_studio_lighting",
       "weight": 0.9,
       "force_include": true

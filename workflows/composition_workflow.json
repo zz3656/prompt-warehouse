@@ -1,0 +1,42 @@
+{
+  "name": "composition 工作流",
+  "description": "composition 分类的常用关键词集合 (599 条)",
+  "category": "composition",
+  "keywords": [
+    "Bokeh",
+    "Cinematic",
+    "Cinematic Haze",
+    "Depth Of Field",
+    "Dramatic",
+    "Golden Hour",
+    "10 Megapixels",
+    "1000x Magnification",
+    "100mm Lens",
+    "100x Magnification"
+  ],
+  "total_count": 599,
+  "id": "workflow.composition",
+  "name_zh": "构图",
+  "steps": [
+    {
+      "order": 1,
+      "template_id": "action.motion"
+    },
+    {
+      "order": 2,
+      "template_id": "atmosphere.weather"
+    },
+    {
+      "order": 3,
+      "template_id": "camera.movement"
+    },
+    {
+      "order": 4,
+      "template_id": "camera.shot_type"
+    },
+    {
+      "order": 5,
+      "template_id": "character.multiple_views"
+    }
+  ]
+}

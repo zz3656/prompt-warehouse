@@ -44,7 +44,7 @@
       "weight": 0.85
     },
     {
-      "id": "mj_mj_v5_nature_landscape",
+      "id": "scene_nature_landscape",
       "weight": 0.95,
       "force_include": true
     },
@@ -53,11 +53,11 @@
       "weight": 0.9
     },
     {
-      "id": "mj_mj_v5_nature_waterfall",
+      "id": "scene_nature_waterfall",
       "weight": 0.8
     },
     {
-      "id": "mj_mj_v5_nature_forest",
+      "id": "scene_nature_forest",
       "weight": 0.8
     },
     {
@@ -73,32 +73,20 @@
       "weight": 0.85
     },
     {
-      "id": "mj_mj_v5_nature_aurora_borealis",
+      "id": "scene_nature_volcano",
       "weight": 0.7
     },
     {
-      "id": "mj_mj_v5_nature_volcano",
-      "weight": 0.7
-    },
-    {
-      "id": "mj_mj_v5_lighting_cinematic_lighting",
+      "id": "lighting_dramatic_cinematic_lighting",
       "weight": 0.9
     },
     {
-      "id": "mj_mj_v5_lighting_ethereal_lighting",
+      "id": "render_quality_other_volumetric_lighting",
       "weight": 0.9
     },
     {
-      "id": "mj_mj_v5_lighting_volumetric",
+      "id": "lighting_dramatic_volumetric_lighting",
       "weight": 0.9
-    },
-    {
-      "id": "mj_mj_v5_lighting_volumetric_lighting",
-      "weight": 0.9
-    },
-    {
-      "id": "mj_mj_v5_lighting_godrays",
-      "weight": 0.85
     },
     {
       "id": "lighting_special_atmospheric_haze",
@@ -107,18 +95,6 @@
     {
       "id": "composition_lens_depth_of_field",
       "weight": 0.75
-    },
-    {
-      "id": "mj_mj_v5_camera_bokeh",
-      "weight": 0.7
-    },
-    {
-      "id": "mj_mj_v5_camera_cinematic",
-      "weight": 0.85
-    },
-    {
-      "id": "mj_mj_v5_camera_cinematic_haze",
-      "weight": 0.8
     },
     {
       "id": "negative_quality_low_quality",

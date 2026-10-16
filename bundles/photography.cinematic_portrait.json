@@ -78,40 +78,20 @@
       "weight": 0.9
     },
     {
-      "id": "mj_mj_v5_camera_bokeh",
+      "id": "composition_lens_depth_of_field",
       "weight": 0.85
     },
     {
-      "id": "mj_mj_v5_camera_depth_of_field",
-      "weight": 0.85
-    },
-    {
-      "id": "mj_mj_v5_camera_35mm",
+      "id": "held_prop_device_vintage_camera",
       "weight": 0.7
     },
     {
-      "id": "mj_mj_v5_lighting_cinematic_lighting",
+      "id": "lighting_dramatic_cinematic_lighting",
       "weight": 0.95,
       "force_include": true
     },
     {
-      "id": "mj_mj_v5_lighting_backlight",
-      "weight": 0.8
-    },
-    {
-      "id": "mj_mj_v5_lighting_rim_lighting",
-      "weight": 0.8
-    },
-    {
-      "id": "mj_mj_v5_lighting_godrays",
-      "weight": 0.8
-    },
-    {
-      "id": "mj_mj_v5_lighting_moody_lighting",
-      "weight": 0.8
-    },
-    {
-      "id": "mj_mj_v5_design_silhouette",
+      "id": "style_design_silhouette",
       "weight": 0.75
     },
     {

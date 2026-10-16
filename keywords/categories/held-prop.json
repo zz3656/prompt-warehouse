@@ -25,7 +25,15 @@
     ],
     "weight": 0.605,
     "score_v2": 0.605,
-    "term_zh": "手持智能手机"
+    "term_zh": "手持智能手机",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding smartphone",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_device_smartphone_raised",
@@ -53,7 +61,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持手机举至一臂之远"
+    "term_zh": "手持手机举至一臂之远",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding smartphone raised",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_device_polaroid_camera",
@@ -81,7 +97,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "怀抱复古宝丽来拍立得相机"
+    "term_zh": "怀抱复古宝丽来拍立得相机",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "cradling vintage polaroid",
+      "cradling"
+    ]
   },
   {
     "id": "held_prop_device_vintage_camera",
@@ -112,7 +136,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持复古 35mm 胶卷相机"
+    "term_zh": "手持复古 35mm 胶卷相机",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding vintage 35mm",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_device_dslr_camera",
@@ -140,7 +172,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持单反对着眼镜看"
+    "term_zh": "手持单反对着眼镜看",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding dslr camera",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_device_video_camera",
@@ -168,7 +208,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "肩扛摄像机"
+    "term_zh": "肩扛摄像机",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "shouldering video camera",
+      "shouldering"
+    ]
   },
   {
     "id": "held_prop_device_microphone",
@@ -196,7 +244,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持无线话筒"
+    "term_zh": "手持无线话筒",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "gripping handheld microphone",
+      "gripping"
+    ]
   },
   {
     "id": "held_prop_device_megaphone",
@@ -224,7 +280,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持高举扩音器"
+    "term_zh": "手持高举扩音器",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding raised megaphone",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_device_smartwatch",
@@ -252,7 +316,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "抬手看智能手表"
+    "term_zh": "抬手看智能手表",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "raising wrist check",
+      "raising"
+    ]
   },
   {
     "id": "held_prop_drink_coffee_cup",
@@ -280,7 +352,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "怀抱陶瓷咖啡杯"
+    "term_zh": "怀抱陶瓷咖啡杯",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "cradling ceramic coffee",
+      "cradling"
+    ]
   },
   {
     "id": "held_prop_drink_takeaway_coffee",
@@ -308,7 +388,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持纸杯外带咖啡"
+    "term_zh": "手持纸杯外带咖啡",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding paper takeaway",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_drink_wine_glass",
@@ -343,7 +431,11 @@
     "aliases_zh": [
       "深红色",
       "绯红色"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591789+00:00"
   },
   {
     "id": "held_prop_drink_champagne_flute",
@@ -371,7 +463,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持香槟笛形杯"
+    "term_zh": "手持香槟笛形杯",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding champagne flute",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_drink_martini_glass",
@@ -399,7 +499,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持经典马丁尼杯"
+    "term_zh": "手持经典马丁尼杯",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding classic martini",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_drink_cocktail_glass",
@@ -427,7 +535,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持威士忌矮杯琥珀色鸡尾酒"
+    "term_zh": "手持威士忌矮杯琥珀色鸡尾酒",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding rocks glass",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_drink_beer_bottle",
@@ -455,7 +571,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持棕色玻璃啤酒瓶"
+    "term_zh": "手持棕色玻璃啤酒瓶",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding brown glass",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_drink_water_bottle",
@@ -483,7 +607,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持可重复使用水瓶"
+    "term_zh": "手持可重复使用水瓶",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding reusable water",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_smoking_cigarette",
@@ -511,7 +643,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持点燃香烟"
+    "term_zh": "手持点燃香烟",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding lit cigarette",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_smoking_cigar",
@@ -543,6 +683,14 @@
     "aliases_zh": [
       "snowy weather",
       "下雪天"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591789+00:00",
+    "aliases": [
+      "holding lit cigar",
+      "holding"
     ]
   },
   {
@@ -571,7 +719,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持细长电子烟"
+    "term_zh": "手持细长电子烟",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding slim vape",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_smoking_joint",
@@ -599,7 +755,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持手卷大麻烟"
+    "term_zh": "手持手卷大麻烟",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding hand-rolled joint",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_smoking_lighter",
@@ -631,13 +795,21 @@
     "aliases_zh": [
       "fire effects",
       "火焰"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591789+00:00",
+    "aliases": [
+      "holding lit chrome",
+      "holding"
     ]
   },
   {
     "id": "held_prop_reading_writing_book",
     "term": "holding an open hardback book",
     "category": "held-prop",
-    "subcategory": "reading-writing",
+    "subcategory": "reading_writing",
     "labels": [
       "book",
       "nodaro-prompts"
@@ -659,13 +831,21 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持打开精装书"
+    "term_zh": "手持打开精装书",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding open hardback",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_reading_writing_magazine",
     "term": "holding a folded glossy magazine",
     "category": "held-prop",
-    "subcategory": "reading-writing",
+    "subcategory": "reading_writing",
     "labels": [
       "magazine",
       "nodaro-prompts"
@@ -687,13 +867,21 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持折叠光面杂志"
+    "term_zh": "手持折叠光面杂志",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding folded glossy",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_reading_writing_newspaper",
     "term": "holding a folded broadsheet newspaper",
     "category": "held-prop",
-    "subcategory": "reading-writing",
+    "subcategory": "reading_writing",
     "labels": [
       "newspaper",
       "nodaro-prompts"
@@ -715,13 +903,21 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持折叠大报新闻纸"
+    "term_zh": "手持折叠大报新闻纸",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding folded broadsheet",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_reading_writing_notebook",
     "term": "holding an open lined notebook",
     "category": "held-prop",
-    "subcategory": "reading-writing",
+    "subcategory": "reading_writing",
     "labels": [
       "notebook",
       "nodaro-prompts"
@@ -743,13 +939,21 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持打开横线笔记本"
+    "term_zh": "手持打开横线笔记本",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding open lined",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_reading_writing_pen",
     "term": "holding a pen poised mid-write",
     "category": "held-prop",
-    "subcategory": "reading-writing",
+    "subcategory": "reading_writing",
     "labels": [
       "pen",
       "nodaro-prompts"
@@ -771,13 +975,21 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持笔跃于中写"
+    "term_zh": "手持笔跃于中写",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding pen poised",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_reading_writing_marker",
     "term": "holding a thick permanent marker",
     "category": "held-prop",
-    "subcategory": "reading-writing",
+    "subcategory": "reading_writing",
     "labels": [
       "marker",
       "nodaro-prompts"
@@ -799,13 +1011,21 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持粗永久记号笔"
+    "term_zh": "手持粗永久记号笔",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding thick permanent",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_reading_writing_paintbrush",
     "term": "holding a loaded paintbrush",
     "category": "held-prop",
-    "subcategory": "reading-writing",
+    "subcategory": "reading_writing",
     "labels": [
       "paintbrush",
       "nodaro-prompts"
@@ -827,13 +1047,21 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持蘸颜料画笔"
+    "term_zh": "手持蘸颜料画笔",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding loaded paintbrush",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_reading_writing_chalk",
     "term": "holding a stick of white chalk",
     "category": "held-prop",
-    "subcategory": "reading-writing",
+    "subcategory": "reading_writing",
     "labels": [
       "chalk",
       "nodaro-prompts"
@@ -863,13 +1091,17 @@
     "aliases_zh": [
       "纯白色",
       "象牙白"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591789+00:00"
   },
   {
     "id": "held_prop_bag_accessory_handbag",
     "term": "carrying a structured designer handbag",
     "category": "held-prop",
-    "subcategory": "bag-accessory",
+    "subcategory": "bag_accessory",
     "labels": [
       "handbag",
       "nodaro-prompts"
@@ -894,13 +1126,17 @@
     "aliases": [
       "luxury vehicle",
       "sports car"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591789+00:00"
   },
   {
     "id": "held_prop_bag_accessory_tote_bag",
     "term": "carrying a canvas tote bag over one shoulder",
     "category": "held-prop",
-    "subcategory": "bag-accessory",
+    "subcategory": "bag_accessory",
     "labels": [
       "tote-bag",
       "nodaro-prompts"
@@ -925,13 +1161,17 @@
     "aliases": [
       "luxury vehicle",
       "sports car"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591789+00:00"
   },
   {
     "id": "held_prop_bag_accessory_briefcase",
     "term": "carrying a hard-shell briefcase",
     "category": "held-prop",
-    "subcategory": "bag-accessory",
+    "subcategory": "bag_accessory",
     "labels": [
       "briefcase",
       "nodaro-prompts"
@@ -956,13 +1196,17 @@
     "aliases": [
       "luxury vehicle",
       "sports car"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591789+00:00"
   },
   {
     "id": "held_prop_bag_accessory_umbrella",
     "term": "holding an open black umbrella overhead",
     "category": "held-prop",
-    "subcategory": "bag-accessory",
+    "subcategory": "bag_accessory",
     "labels": [
       "umbrella",
       "nodaro-prompts"
@@ -991,13 +1235,17 @@
     "aliases": [
       "dark black",
       "ebony black"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591789+00:00"
   },
   {
     "id": "held_prop_bag_accessory_fan_folding",
     "term": "holding an open hand-painted folding fan",
     "category": "held-prop",
-    "subcategory": "bag-accessory",
+    "subcategory": "bag_accessory",
     "labels": [
       "fan-folding",
       "nodaro-prompts"
@@ -1018,13 +1266,21 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持手绘折叠扇"
+    "term_zh": "手持手绘折叠扇",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding open hand-painted",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_bag_accessory_parasol",
     "term": "holding an open decorative parasol",
     "category": "held-prop",
-    "subcategory": "bag-accessory",
+    "subcategory": "bag_accessory",
     "labels": [
       "parasol",
       "nodaro-prompts"
@@ -1045,13 +1301,21 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持装饰阳伞"
+    "term_zh": "手持装饰阳伞",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding open decorative",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_bag_accessory_locket",
     "term": "holding an open vintage locket",
     "category": "held-prop",
-    "subcategory": "bag-accessory",
+    "subcategory": "bag_accessory",
     "labels": [
       "locket",
       "nodaro-prompts"
@@ -1072,13 +1336,21 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持打开复古吊坠盒"
+    "term_zh": "手持打开复古吊坠盒",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding open vintage",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_floral_nature_bouquet",
     "term": "cradling a bouquet of fresh flowers",
     "category": "held-prop",
-    "subcategory": "floral-nature",
+    "subcategory": "floral_nature",
     "labels": [
       "bouquet",
       "nodaro-prompts"
@@ -1100,13 +1372,21 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "怀抱鲜花花束"
+    "term_zh": "怀抱鲜花花束",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "cradling bouquet fresh",
+      "cradling"
+    ]
   },
   {
     "id": "held_prop_floral_nature_single_rose",
     "term": "holding a long-stem red rose",
     "category": "held-prop",
-    "subcategory": "floral-nature",
+    "subcategory": "floral_nature",
     "labels": [
       "single-rose",
       "nodaro-prompts"
@@ -1135,13 +1415,17 @@
     "aliases_zh": [
       "深红色",
       "绯红色"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591789+00:00"
   },
   {
     "id": "held_prop_floral_nature_sunflower",
     "term": "holding a tall sunflower by the stem",
     "category": "held-prop",
-    "subcategory": "floral-nature",
+    "subcategory": "floral_nature",
     "labels": [
       "sunflower",
       "nodaro-prompts"
@@ -1163,13 +1447,21 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持高大向日葵"
+    "term_zh": "手持高大向日葵",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding tall sunflower",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_floral_nature_leaf",
     "term": "holding a large green leaf",
     "category": "held-prop",
-    "subcategory": "floral-nature",
+    "subcategory": "floral_nature",
     "labels": [
       "leaf",
       "nodaro-prompts"
@@ -1195,13 +1487,17 @@
     "aliases": [
       "emerald green",
       "forest green"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591789+00:00"
   },
   {
     "id": "held_prop_floral_nature_fruit_apple",
     "term": "holding a fresh apple in one palm",
     "category": "held-prop",
-    "subcategory": "floral-nature",
+    "subcategory": "floral_nature",
     "labels": [
       "fruit-apple",
       "nodaro-prompts"
@@ -1223,7 +1519,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "一手握新鲜苹果"
+    "term_zh": "一手握新鲜苹果",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding fresh apple",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_instrument_guitar",
@@ -1251,7 +1555,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "身斜背吉他"
+    "term_zh": "身斜背吉他",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding guitar slung",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_instrument_violin",
@@ -1279,7 +1591,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持小提琴架于颈下"
+    "term_zh": "手持小提琴架于颈下",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding violin under",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_instrument_saxophone",
@@ -1307,7 +1627,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持萨克斯管至唇边"
+    "term_zh": "手持萨克斯管至唇边",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding saxophone raised",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_instrument_drumsticks",
@@ -1335,7 +1663,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持一对木质鼓槌"
+    "term_zh": "手持一对木质鼓槌",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding pair wooden",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_instrument_sheet_music",
@@ -1363,7 +1699,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持折叠乐谱"
+    "term_zh": "手持折叠乐谱",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding folded sheet",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_companion_small_dog",
@@ -1391,7 +1735,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "双臂怀抱小狗"
+    "term_zh": "双臂怀抱小狗",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "cradling small dog",
+      "cradling"
+    ]
   },
   {
     "id": "held_prop_companion_cat",
@@ -1420,7 +1772,15 @@
     ],
     "weight": 0.605,
     "score_v2": 0.605,
-    "term_zh": "怀抱小猫"
+    "term_zh": "怀抱小猫",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "cradling cat",
+      "cradling"
+    ]
   },
   {
     "id": "held_prop_companion_plush_toy",
@@ -1448,7 +1808,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "怀抱柔软毛绒玩具"
+    "term_zh": "怀抱柔软毛绒玩具",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "hugging soft plush",
+      "hugging"
+    ]
   },
   {
     "id": "held_prop_occupational_katana",
@@ -1476,7 +1844,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "身横持武士刀"
+    "term_zh": "身横持武士刀",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding katana across",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_occupational_pointer_stick",
@@ -1504,7 +1880,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持伸缩指示棒"
+    "term_zh": "手持伸缩指示棒",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding telescoping pointer",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_occupational_gavel",
@@ -1532,7 +1916,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手握木质法槌即将落下"
+    "term_zh": "手握木质法槌即将落下",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "gripping wooden gavel",
+      "gripping"
+    ]
   },
   {
     "id": "held_prop_occupational_wine_bottle",
@@ -1564,6 +1956,14 @@
     "aliases_zh": [
       "深红色",
       "绯红色"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591789+00:00",
+    "aliases": [
+      "holding wine bottle",
+      "holding"
     ]
   },
   {
@@ -1596,7 +1996,11 @@
     "aliases": [
       "luxury vehicle",
       "sports car"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591789+00:00"
   },
   {
     "id": "held_prop_occupational_flashlight",
@@ -1624,7 +2028,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持手电筒前举"
+    "term_zh": "手持手电筒前举",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding flashlight raised",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_occupational_compass",
@@ -1652,7 +2064,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持打开黄铜航海罗盘"
+    "term_zh": "手持打开黄铜航海罗盘",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding open brass",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_occupational_bow_and_arrow",
@@ -1681,7 +2101,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "拉弓搭箭"
+    "term_zh": "拉弓搭箭",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "drawing archery bow",
+      "drawing"
+    ]
   },
   {
     "id": "held_prop_occupational_shield",
@@ -1709,7 +2137,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持高举中世纪盾牌"
+    "term_zh": "手持高举中世纪盾牌",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding raised medieval",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_occupational_work_gloves",
@@ -1737,7 +2173,15 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "手持一对皮革工作手套"
+    "term_zh": "手持一对皮革工作手套",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding pair leather",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_glass_wine",
@@ -1767,12 +2211,19 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "优雅持酒杯"
+    "term_zh": "优雅持酒杯",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "holding wine glass",
+      "holding"
+    ]
   },
   {
     "id": "held_prop_candle_warm",
     "term": "candle flickering warm glow",
-    "subcategory": "floral-nature",
+    "subcategory": "floral_nature",
     "labels": [
       "candle",
       "flickering",
@@ -1797,12 +2248,19 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "烛光摇曳暖光"
+    "term_zh": "蜡烛闪烁温暖发光",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "candle flickering warm",
+      "candle"
+    ]
   },
   {
     "id": "held_prop_book_open",
     "term": "open leather-bound vintage book",
-    "subcategory": "reading-writing",
+    "subcategory": "reading_writing",
     "labels": [
       "open",
       "leather-bound",
@@ -1827,12 +2285,19 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "翻开的皮质古籍"
+    "term_zh": "翻开的皮质古籍",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "open leather-bound vintage",
+      "open"
+    ]
   },
   {
     "id": "held_prop_flower_single",
     "term": "single blooming rose in hand",
-    "subcategory": "floral-nature",
+    "subcategory": "floral_nature",
     "labels": [
       "single",
       "blooming",
@@ -1862,7 +2327,10 @@
     "aliases": [
       "glow effect",
       "soft bloom"
-    ]
+    ],
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591789+00:00"
   },
   {
     "id": "held_prop_megaphone",
@@ -1893,7 +2361,14 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "通过黄铜扩音器喊话"
+    "term_zh": "通过黄铜扩音器喊话",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "shouting through brass",
+      "shouting"
+    ]
   },
   {
     "id": "held_prop_tea_ceremony",
@@ -1924,6 +2399,13 @@
     ],
     "weight": 0.645,
     "score_v2": 0.645,
-    "term_zh": "传统茶道注水"
+    "term_zh": "传统茶道注水",
+    "updated_at": "2026-10-16T02:35:35.462424+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462424+00:00",
+    "aliases": [
+      "traditional tea ceremony",
+      "traditional"
+    ]
   }
 ]

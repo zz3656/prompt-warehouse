@@ -35,7 +35,9 @@
       "type": "string",
       "enum": [
         "action-fx",
+        "animation",
         "atmosphere",
+        "camera",
         "character",
         "character-fx",
         "clothing",
@@ -51,6 +53,8 @@
         "quality",
         "scene",
         "shot-language",
+        "storyboard",
+        "style",
         "styles",
         "temporal",
         "transitions",

@@ -4,8 +4,14 @@
   "name_zh": "角色设计流程",
   "description": "Create a complete character reference sheet with consistent look.",
   "description_zh": "生成完整的角色参考图：多视角 + 一致性锚点",
-  "use_case": ["character", "comic"],
-  "api_targets": ["SDXL", "Midjourney"],
+  "use_case": [
+    "character",
+    "comic"
+  ],
+  "api_targets": [
+    "SDXL",
+    "Midjourney"
+  ],
   "output_format": "comma_separated",
   "steps": [
     {

@@ -2,8 +2,8 @@
 
 **一个统一的、与语言无关的标准，用于跨项目组织、版本控制和共享 AI 生成提示词。**
 
-> **pws v1.0** | **简体中文** | [English](README_en.md)
-**当前数据版本**: 1.0.1 (6,282 关键词 · 22 分类 · 277 个子分类 · **100% term_zh 覆盖**)
+> **pws v1.0.4** | **简体中文** | [English](README_en.md)
+> **当前数据版本**: 1.0.4 (5,843 关键词 · 25 分类 · **1.9% 过时前缀** · 0 条校验失败)
 >
 > **仓库地址**: https://github.com/zz3656/prompt-warehouse
 > **许可证**: MIT
@@ -17,10 +17,11 @@
 - [目录结构](#-目录结构)
 - [快速开始](#-快速开始)
 - [数据模型](#-数据模型)
+- [分类体系](#-分类体系)
 - [模板语法](#-模板语法)
 - [配方包（Bundles）](#-配方包bundles)
+- [工作流](#-工作流)
 - [版本控制](#-版本控制)
-- [API 集成](#-api-集成)
 - [多语言支持](#-多语言支持)
 - [项目状态](#-项目状态)
 - [贡献](#-贡献)
@@ -44,13 +45,14 @@
 
 | 功能 | 说明 |
 |------|------|
-| **结构化关键词** | 每个关键词都是一个富对象，带有元数据——评分、优先级、生命周期、使用统计 |
-|| **分类体系** | 22 个顶级分类及其嵌套子分类（质量、角色、服装、风格等） |
+| **结构化关键词** | 每个关键词都是富对象，带有元数据——评分、优先级、生命周期、使用统计 |
+| **分类体系** | 25 个顶级分类及其嵌套子分类（质量、角色、服装、风格、镜头等） |
 | **模板引擎** | 类 Mustache 语法，支持条件（`{{#if}}`）、迭代（`{{#each}}`）和辅助函数 |
-| **项目配置** | 每个项目的 JSON 配置文件，可启用/禁用分类和模板 |
-| **快照系统** | 导出带有完整上下文的快照，用于追踪生成结果 |
+| **配方包** | 预组合关键词配方，生成即开即用的提示词 |
+| **工作流** | 多步骤模板组合，适用于 SD/Minimax H3 等 API |
+| **静态 API** | `api/` 目录 — 供 GitHub Pages 部署后 HTTP 访问（stats, categories, bundles, workflows） |
 | **迁移支持** | 内置从遗留 `.js` 文件迁移的路径 |
-| **多语言** | 关键词和模板支持 EN / ZH / JA 标签 |
+| **多语言** | 关键词和模板支持 EN / ZH 标签 |
 
 ---
 
@@ -61,21 +63,40 @@ prompt-warehouse/
 ├── schema/                     # JSON Schema 定义（机器可读）
 │   ├── keyword.schema.json     # 关键词数据结构
 │   ├── template.schema.json    # 模板数据结构
+│   ├── bundle.schema.json      # 配方包结构
+│   └── workflow.schema.json    # 工作流结构
 ├── keywords/                   # 关键词词典（"数据库"）
 │   ├── _meta.json              # 全局元数据 + 版本信息
 │   └── categories/             # 每个顶级分类一个文件
 │       ├── quality.json        # 质量提升词
+│       ├── camera.json         # 镜头/运镜（新）
+│       ├── style.json          # 艺术风格（新）
 │       ├── composition.json    # 构图 / 构图与镜头
 │       ├── lighting.json       # 灯光与氛围
 │       ├── character.json      # 角色外观属性
 │       ├── clothing.json       # 服装与配饰
-│       ├── styles.json         # 艺术风格
+│       ├── styles.json         # 艺术风格（保留）
+│       ├── animation.json      # 帧率/口型/运动模糊（新）
+│       ├── storyboard.json     # 分镜布局/特效（新）
 │       ├── negative.json       # 负面提示词
 │       ├── scene.json          # 场景与环境
-│       └── panel.json          # 漫画分镜特效
+│       └── ...                 # 其余分类
 ├── bundles/                    # 配方包（Prompt Bundles）
-│   └── *.json                  # 17 个 bundle，每个含关键词列表 + 模板引用
-└── docs/standard.md                 # 完整标准文档
+│   └── *.json                  # 预组合关键词配方
+├── workflows/                  # 工作流（多步骤模板组合）
+│   └── *.json                  # 每个分类一个工作流
+├── templates/                  # 模板定义
+│   └── *.json
+├── tools/                      # CLI 工具
+│   ├── pws-translate.py        # 批量翻译
+│   ├── pws-enrich.py           # 字段补全
+│   ├── phase1-rename-mj-prefix.py  # 前缀清理
+│   ├── phase2-new-categories.py    # 新分类创建
+│   └── ...
+└── docs/                       # 文档（精简后）
+    ├── standard.md             # 完整标准文档
+    ├── prompt-guide.md         # 使用指南
+    └── adding-keywords.md      # 贡献指南
 ```
 
 ---
@@ -135,64 +156,19 @@ grep -r '"term": "blonde hair"' keywords/categories/character.json
 | 字段 | 类型 | 必填 | 说明 |
 |------|------|------|------|
 | `id` | string | ✅ | 唯一标识符，格式：`{category}_{subcategory}_{slug}`，如 `quality_basic_masterpiece` |
-| `term` | string | ✅ | 标准提示词（英文），如 `masterpiece` — 用于 API 检索和模板变量 |
-| `term_zh` | string | ✅ | 中文翻译，如 `杰作` — 其他项目按此字段做中文检索 |
+| `term` | string | ✅ | 标准提示词（英文），如 `masterpiece` |
+| `term_zh` | string | ✅ | 中文翻译，如 `杰作` |
 | `aliases` | string[] | | 英文替代术语，如 `["best work", "top tier"]` |
 | `aliases_zh` | string[] | | 中文替代说法，如 `["最佳作品", "顶级"]` |
-| `category` | string | ✅ | 顶级分类，共 20 类（见下方分类体系） |
+| `category` | string | ✅ | 顶级分类，共 25 类（见下方分类体系） |
 | `subcategory` | string | ✅ | 子分类，如 `basic`, `hair`, `anime` |
-| `labels` | string[] | | 英文扁平搜索标签，如 `["quality", "booster"]` |
-| `labels_zh` | string[] | | 中文扁平搜索标签，如 `["质量", "增强"]` — 中文过滤专用 |
-| `score` | number | | 质量评分 0–1（默认：0.5），0.90+ 为行业验证，0.70–0.89 为可靠常用 |
+| `labels` | string[] | | 英文扁平搜索标签 |
+| `labels_zh` | string[] | | 中文扁平搜索标签 |
+| `score` | number | | 质量评分 0–1（默认：0.5） |
 | `priority` | enum | | `high` / `medium` / `low` / `experimental` |
 | `lifecycle` | enum | | `draft` → `review` → `approved` → `deprecated` → `archived` |
-| `tags` | string[] | | 用户自定义标签，跨切面标记 |
-| `source` | string | | 数据来源，如 `willwulfken/MidJourney-Styles-and-Keywords-Reference` |
-| `usage_count` | number | | 使用次数（默认：0），由调用方项目更新 |
-| `success_rate` | number | | 生成成功率 0–1（默认：null），由调用方项目更新 |
-| `created_at` | string | | ISO 8601 创建时间戳 |
-| `updated_at` | string | | ISO 8601 更新时间戳 |
-| `notes` | string | | 备注信息 |
-| `variations` | array | | 上下文相关变体，`[{"term": "platinum blonde", "context": "高价值角色"}]` |
-
-### 模板字段说明
-
-| 字段 | 类型 | 必填 | 说明 |
-|------|------|------|------|
-| `id` | string | ✅ | 模板唯一标识符，如 `h3.video_prompts` |
-| `name` / `name_zh` | string | ✅ | 模板中英文名称 |
-| `description` / `description_zh` | string | | 模板中英文描述 |
-| `category` | string | | 所属分类 |
-| `subcategories` | string[] | | 子分类列表 |
-| `api_targets` | string[] | | 适配的 AI 模型，如 `["SDXL", "Minimax H3"]` |
-| `lifecycle` | enum | | `draft` / `review` / `approved` / `deprecated` / `archived` |
-| `score` | number | | 质量评分 0–1 |
-| `variables` | array | | 模板变量定义，`[{"name": "subject", "type": "string", "required": true}]` |
-| `variants` | array | ✅ | 变体列表，每个含 `id`, `description`, `description_zh`, `template` |
-| `examples` | array | | 使用示例 |
-
-### 其他项目调用示例
-
-其他项目可以直接读取 `keywords/categories/` 下的 JSON 文件，每个关键词都包含 **中英双语字段**，方便跨语言检索：
-
-```json
-{
-  "id": "quality_basic_masterpiece",
-  "term": "masterpiece",          // 英文检索
-  "term_zh": "杰作",               // 中文检索 ← 中文项目用这个字段
-  "category": "quality",
-  "subcategory": "basic",
-  "labels": ["quality", "booster"],
-  "labels_zh": ["质量", "增强"],   // 中文过滤 ← 中文项目用这个字段
-  "score": 0.95,
-  "priority": "high",
-  "lifecycle": "approved"
-}
-```
-
-**快速浏览所有分类**：`ls keywords/categories/` 列出 20 个分类文件。
-**完整数据模型**：[docs/standard.md](docs/standard.md)
-**JSON Schema**：[schema/keyword.schema.json](schema/keyword.schema.json) · [schema/template.schema.json](schema/template.schema.json)
+| `source` | string | ✅ | 数据来源 |
+| `score` | number | ✅ | 质量评分（100% 覆盖） |
 
 ### 分类体系
 
@@ -203,65 +179,24 @@ grep -r '"term": "blonde hair"' keywords/categories/character.json
 | 灯光 | `lighting` | 灯光类型与氛围 |
 | 角色 | `character` | 角色外观属性 |
 | 服装 | `clothing` | 服装与配饰 |
-| 风格 | `styles` | 艺术与渲染风格 |
+| 风格 | `styles` | 艺术与渲染风格（保留） |
+| 风格 | `style` | **新分类**：从 styles 迁移的艺术风格 |
+| 镜头 | `camera` | **新分类**：景别/镜头/运镜/角度 |
 | 负面 | `negative` | 负面提示词 |
 | 场景 | `scene` | 场景与环境 |
-| 分镜 | `panel` | 分镜特效 |
-| 动作特效 | `action-fx` | 动作与特效（灾害、火焰、战斗、魔法）— @nodaro/prompts |
-| 大气效果 | `atmosphere` | 雾、雨、粒子、神光 — @nodaro/prompts |
-| 角色特效 | `character-fx` | 狼人、吸血鬼、赛博格等 — @nodaro/prompts |
-| 色彩分级 | `color-look` | 暖色、冷色、胶片模拟 — @nodaro/prompts |
-| 历史时代 | `era` | 中世纪、维多利亚、赛博朋克等 — @nodaro/prompts |
-| 手持道具 | `held-prop` | 武器与道具 — @nodaro/prompts |
-| 材质预设 | `material` | 织物、金属、石材、木材 — @nodaro/prompts |
-| 摄影师风格 | `photographer` | Ansel Adams, Annie Leibovitz 等 — @nodaro/prompts |
-| 镜头语言 | `shot-language` | 景别、角度、镜头运动、覆盖范围 — @nodaro/prompts |
-| 时间效果 | `temporal` | 慢动作、快速、时间冻结 — @nodaro/prompts |
-| 转场效果 | `transitions` | 溶解、缩放、滑动 — @nodaro/prompts |
-
-### 子分类亮点
-
-**质量** — `basic` · `advanced` · `anime`
-> masterpiece, best quality, ultra-detailed, 8k resolution · 杰作 · 最高质量 · 超细节
-
-**角色** — `hair` · `hairColors` · `eyes` · `eyeColors` · `expression` · `pose` · `anatomy` · `bodyType` · `skin` · `age`
-> white long hair, blue eyes, fair skin, determined expression · 白色长发 · 蓝眼睛 · 白皙皮肤 · 坚定的表情
-
-**服装** — `tops` · `bottoms` · `outfits` · `accessories` · `mj_v5_materials` · `mj_v5_matprops`
-> school uniform, white blouse, pleated skirt, red ribbon · 校服 · 白衬衫 · 百褶裙 · 红丝带
-
-**风格** — `anime` · `art` · `realism` · `specialty` · `artist` · `mj_v5_colors` · `mj_v5_colors2` · `mj_v5_design` · `mj_v5_digital` · `mj_v5_dimension` · `mj_v5_intangibles` · `mj_v5_mediums` · `mj_v5_themes` · `mj_v5_artists`
-> anime style, cel shading, manga comic style · 动漫风格 · 赛璐珞上色 · 漫画风格
-
-**负面** — `quality` · `anatomy` · `face` · `composition` · `style` · `text` · `commonDefects`
-> low quality, worst quality, bad anatomy, extra limbs · 低质量 · 最差质量 · 畸形解剖 · 多余肢体
-
-**灯光** — `natural` · `dramatic` · `mood` · `dynamic` · `special` · `mj_v5_lighting` · `mj_v5_sfx`
-> golden hour, cinematic lighting, volumetric rays · 黄金时段 · 电影灯光 · 体积光
-
-**构图** — `framing` · `angles` · `lens` · `rules` · `mj_v5_camera` · `mj_v5_geometry` · `mj_v5_perspective` · `mj_v5_structure`
-> close-up, wide shot, eye level, Dutch angle · 特写 · 广角 · 平视 · 荷兰角
-
-**场景** — `relationship` · `interaction` · `weather` · `time` · `mj_v5_geo` · `mj_v5_nature` · `mj_v5_objects` · `mj_v5_space`
-> school rooftop, cozy bedroom, battlefield, urban street · 学校屋顶 · 温馨卧室 · 战场 · 城市街道
-
-**分镜** — `panelLayout` · `comicEffects` · `animation` · `panelMood`
-> speed lines, motion blur, impact frames, screen tone · 速度线 · 动态模糊 · 冲击帧 · 网点纸
-
-### 生命周期状态
-
-```
-草稿 → 审核 → 批准 → 归档
-draft → review → approved → archived
-              ↕           ↕
-          (被拒绝)   (被弃用)
-deprecated ↗
-```
-
-- **草稿 (draft)**：新添加，尚未验证
-- **审核 (review)**：已提交审核，等待批准
-- **批准 (approved)**：已验证，可用于生产
-- **归档 (archived)**：不再使用，保留供参考
+| 分镜 | `storyboard` | **新分类**：布局/特效/氛围 |
+| 动画 | `animation` | **新分类**：帧率/口型/运动模糊 |
+| 动作特效 | `action-fx` | 动作与特效 |
+| 大气效果 | `atmosphere` | 雾、雨、粒子、神光 |
+| 角色特效 | `character-fx` | 狼人、吸血鬼、赛博格等 |
+| 色彩分级 | `color-look` | 暖色、冷色、胶片模拟 |
+| 历史时代 | `era` | 中世纪、维多利亚、赛博朋克等 |
+| 手持道具 | `held-prop` | 武器与道具 |
+| 材质预设 | `material` | 织物、金属、石材、木材 |
+| 摄影师风格 | `photographer` | Ansel Adams, Annie Leibovitz 等 |
+| 镜头语言 | `shot-language` | 景别、角度、镜头运动 |
+| 时间效果 | `temporal` | 慢动作、快速、时间冻结 |
+| 转场效果 | `transitions` | 溶解、缩放、滑动 |
 
 ---
 
@@ -281,51 +216,12 @@ masterpiece, best quality, ultra-detailed, girl 16 years old white long hair blu
 low quality, worst quality, bad anatomy, extra limbs, poorly drawn face, mutation, cropped, watermark, text, signature
 ```
 
-**角色一致性参考：**
-
-```
-girl 16 years old white long hair blue eyes fair skin, full body character reference sheet on white background, multiple views: front view, side profile view, back view, three-quarter view, multiple facial expressions: happy, sad, angry, surprised, neutral
-```
-
 ### 场景描述词
 
 **户外场景：**
 
 ```
 school rooftop at sunset, golden hour lighting, long shadows stretching across the ground, wind blowing through white hair, cherry blossom petals floating in the air, city skyline visible in the distance
-```
-
-**室内场景：**
-
-```
-cozy bedroom, warm lamp light, books on shelves, window with curtains, afternoon sunlight streaming through, personal photos on the wall, tidy room
-```
-
-**战斗场景：**
-
-```
-dramatic low angle shot, dynamic action pose, punch forward, motion blur, debris flying, intense determined expression, high contrast lighting, dramatic shadows, cinematic composition
-```
-
-### 模板示例
-
-使用**角色参考模板**：
-
-```json
-{
-  "gender": "girl",
-  "age": "16",
-  "hair": { "color": "white", "length": "long", "style": "twin tails" },
-  "eyes": { "color": "blue", "shape": "almond" },
-  "skin": "fair",
-  "distinctive_features": ["red ribbon", "school uniform"]
-}
-```
-
-**渲染输出：**
-
-```
-girl 16 years old white long twin tails hair blue almond eyes fair skin, red ribbon, school uniform
 ```
 
 ---
@@ -344,32 +240,9 @@ girl 16 years old white long twin tails hair blue almond eyes fair skin, red rib
 
 ---
 
-## 📦 版本控制
-
-仓库遵循语义化版本控制：
-
-| 类型 | 含义 |
-|------|------|
-| **主版本 (1.x.x)** | 结构变更，破坏性格式变更 |
-| **次版本 (x.1.x)** | 新分类或字段，向后兼容 |
-| **修订版 (x.x.1)** | 修复、数据修正、新增关键词 |
-
-每个 `_meta.json` 都跟踪版本、结构版本和变更日志。
-
-当前版本：**1.0.1** — 22 个分类共 6,282 个关键词（**全部** 6,282 个有中文翻译，**100%** 覆盖)。
-
-### 新增功能
-
-| 功能 | 说明 |
-|------|------|
-| **配方包系统** | `bundles/` 目录 + `pws-bundles.py` 工具 — 预组合关键词配方 |
-| **Bundle 工具** | `list` / `show` / `resolve` / `info` / `validate` 五个命令 |
-
----
-
 ## 📦 配方包（Bundles）
 
-配方包是预组合的关键词 ID 列表，带有权重和模板引用，形成可复用的提示词配方。一个配方包可以引用数十个关键词，生成即开即用的提示词。
+配方包是预组合的关键词 ID 列表，带有权重和模板引用，形成可复用的提示词配方。
 
 ### 使用方法
 
@@ -395,31 +268,57 @@ python3 tools/pws-bundles.py validate
 
 | 配方包 | 关键词数 | 说明 |
 |--------|----------|------|
-| `character.animesque_portrait` | 24 | 动漫风格角色肖像：角色 + 服装 + 风格 + 灯光 + 质量 |
-| `character.cosplay_portrait` | 20 | Cosplay 肖像：角色 + 服装 + 场景 + 灯光 + 质量 |
-| `environment.architectural_interior` | 23 | 建筑室内可视化：场景 + 材质 + 质量 + 灯光 + 构图 |
-| `environment.cityscape_exterior` | 22 | 城市景观与城市场景：场景 + 构图 + 灯光 + 风格 + 质量 |
-| `fashion.editorial_shoot` | 21 | 时尚编辑大片：服装 + 构图 + 灯光 + 风格 + 质量 |
-| `food.editorial_style` | 21 | 美食编辑风格摄影：质量 + 场景 + 灯光 + 材质 + 色彩 |
-| `photography.cinematic_portrait` | 39 | 电影感人像配方：质量保障 + 85mm 人像镜头 + 电影灯光 |
-| `product.ecommerce_packshot` | 17 | 电商标准产品图：质量 + 灯光 + 渲染 + 材质 |
-| `product.packaging_mockup` | 19 | 包装设计样机：渲染 + 材质 + 质量 + 场景 |
-| `scene.fantasy_landscape` | 26 | 奇幻风景配方：风景 + 体积光 + 空灵氛围 |
-
-### 格式说明
-
-- **关键词权重 (0–1)**: 控制每个关键词在最终提示词中的优先级
-- **强制包含 (`force_include`)**: 确保某些关键词（如质量保障、负面词）始终出现
-- **预建提示词**: 可直接使用的完整 prompt
-- **模板引用**: 可关联 API 特定的模板（如 `h3.video_prompts`）
-
-详细文档见 [docs/adding-bundles.md](docs/adding-bundles.md)。
+| `character.animesque_portrait` | 24 | 动漫风格角色肖像 |
+| `character.cosplay_portrait` | 20 | Cosplay 肖像 |
+| `environment.architectural_interior` | 23 | 建筑室内可视化 |
+| `environment.cityscape_exterior` | 22 | 城市景观 |
+| `fashion.editorial_shoot` | 21 | 时尚编辑大片 |
+| `food.editorial_style` | 21 | 美食编辑风格摄影 |
+| `photography.cinematic_portrait` | 39 | 电影感人像配方 |
+| `product.ecommerce_packshot` | 17 | 电商标准产品图 |
+| `product.packaging_mockup` | 19 | 包装设计样机 |
+| `scene.fantasy_landscape` | 26 | 奇幻风景配方 |
 
 ---
 
-## 🔌 API 集成
+## 🔄 工作流
 
-PWS 提供 bundles 的 REST API，供 PanelCraft 读写配方包。详见 `docs/bundles-api.json`。
+工作流是多步骤模板组合，适用于 SD/Minimax H3 等 API。每个工作流包含 `steps` 数组，定义执行顺序。
+
+```json
+{
+  "id": "workflow.character_portrait",
+  "name": "Character Portrait",
+  "name_zh": "角色肖像",
+  "steps": [
+    { "order": 1, "template_id": "kw_1" },
+    { "order": 2, "template_id": "kw_2" }
+  ]
+}
+```
+
+---
+
+## 📦 版本控制
+
+仓库遵循语义化版本控制：
+
+| 类型 | 含义 |
+|------|------|
+| **主版本 (1.x.x)** | 结构变更，破坏性格式变更 |
+| **次版本 (x.1.x)** | 新分类或字段，向后兼容 |
+| **修订版 (x.x.1)** | 修复、数据修正、新增关键词 |
+
+当前版本：**1.0.4** — 25 个分类共 5,843 个关键词。
+
+### 版本历史
+
+| 版本 | 日期 | 说明 |
+|------|------|------|
+| 1.0.1 | 2026-09-28 | 初始版本：22 分类，6,256 关键词 |
+| 1.0.2 | 2026-10-12 | 自动生成 21 个工作流模板 (P7) |
+| 1.0.3 | 2026-10-16 | Phase 1: 清理 mj_v5* 前缀，新增 camera/style/animation/storyboard |
+| 1.0.4 | 2026-10-16 | Phase 3: 批量翻译 + aliases 补全 + 子分类规范化 |
 
 ---
 
@@ -442,10 +341,11 @@ PWS 提供 bundles 的 REST API，供 PanelCraft 读写配方包。详见 `docs/
 
 | 阶段 | 状态 | 详情 |
 |------|------|------|
-| **阶段一：结构定义** | ✅ 完成 | 定义了 3 个 JSON 结构并验证 |
-| **阶段二：数据迁移** | ✅ 完成 | 从 h3-comic-builder + MJ 参考迁移了 6,015 个关键词 |
-| **阶段三：工具开发** | ✅ 完成 | 13+ CLI 工具（索引、审计、翻译、去重、Bundle 管理等） |
-| **阶段四：共享发布** | ✅ 完成 | 远程同步、配方包系统（17 bundles）、模板市场基础 |
+| **阶段一：结构定义** | ✅ 完成 | 定义了 4 个 JSON Schema 并验证 |
+| **阶段二：数据迁移** | ✅ 完成 | 从 h3-comic-builder + MJ 参考迁移了 ~6,000 个关键词 |
+| **阶段三：工具开发** | ✅ 完成 | 15+ CLI 工具（索引、审计、翻译、去重、Bundle 管理等） |
+| **阶段四：共享发布** | ✅ 完成 | 远程同步、配方包系统、工作流基础 |
+| **阶段五：优化清理** | ✅ 完成 | 清理 mj_v5* 前缀（57%→1.9%），新增 4 个 AI 漫剧分类 |
 
 ---
 
@@ -462,7 +362,7 @@ PWS 提供 bundles 的 REST API，供 PanelCraft 读写配方包。详见 `docs/
 - `term` 使用英文（标准形式）
 - 添加 `labels` 以便搜索
 - 设置适当的 `score` 和 `priority`
-- 遵循 `{category}_{subcategory}_{slug}` 的 id 命名规范
+- 遵循 `{category}_{subcategory}_{slug}` 的 id 命名规范（全小写，下划线分隔）
 - 在设置 `lifecycle: "approved"` 之前，先用生成测试验证现有关键词
 
 ---
@@ -476,35 +376,33 @@ MIT 许可证 — 详见 [docs/standard.md](docs/standard.md)。
 ## 📚 资源
 
 - **完整规范**: [docs/standard.md](docs/standard.md)
+- **使用指南**: [docs/prompt-guide.md](docs/prompt-guide.md)
+- **贡献指南**: [docs/adding-keywords.md](docs/adding-keywords.md)
 - **关键词结构**: [schema/keyword.schema.json](schema/keyword.schema.json)
 - **模板结构**: [schema/template.schema.json](schema/template.schema.json)
 - **Bundle 结构**: [schema/bundle.schema.json](schema/bundle.schema.json)
+- **工作流结构**: [schema/workflow.schema.json](schema/workflow.schema.json)
 - **管理工具**: [tools/pws-bundles.py](tools/pws-bundles.py)
-- **创建配方包**: [docs/adding-bundles.md](docs/adding-bundles.md)
 - **元数据**: [keywords/_meta.json](keywords/_meta.json)
-- **数据来源**: 见下文
-|- **当前统计**: 6,282 个关键词 · 22 个分类 · 15 个模板 · 17 个配方包
+
+---
 
 ## 📥 数据来源（永久记录）
 
-> **如何快速了解提示词来源**：查看 `keywords/_meta.json` 的 `data_sources` 字段和每个关键词的 `source` 字段，无需重新搜索。
-
 | 来源 | 类型 | 关键词数 | 涵盖分类 |
 |------|------|----------|----------|
-| h3-comic-builder 中间件（JS 原始文件已迁移） | *已迁移* | 859 | 全部 9 类 — 这些关键词本身也来自网上收集，h3-comic-builder 只是中间层，不作为数据来源列出 |
+| h3-comic-builder 中间件 | *已迁移* | 859 | 全部 9 类 |
 | [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) (12.3k stars) | GitHub | 4,600 | composition, lighting, clothing, scene, styles |
 | [Danbooru Tag Database](https://danbooru.donmai.us/wiki_pages/tag_groups) | 标签数据库 | 167 | character (发色/眼色/表情/服装/配件/姿势/特效) |
 | Danbooru Booster Tags + [Civitai](https://civitai.com) 社区 | 社区收集 | 101 | quality (质量词/渲染技术/氛围/色彩/纹理) |
 | Web 研究 — 场景与环境 | 手动整理 | 72 | scene (自然/建筑/天气/时间) |
 | Web 研究 — 艺术风格 | 手动整理 | 41 | styles (绘画风格/动漫类型/美学流派/渲染技术) |
-| [@nodaro/prompts](https://github.com/nodaroai/app.nodaro.ai) (1.0.1) | GitHub | 1,149 | 23 个新分类 — 动作特效/美学微趋势/大气效果/镜头运动/姿态手势/转场效果等 |
+| [@nodaro/prompts](https://github.com/nodaroai/app.nodaro.ai) (1.0.1) | GitHub | 1,149 | 23 个新分类 — 动作特效/美学微趋势/大气效果/镜头运动等 |
 
-**模板来源**：见 `templates/_meta.json` 的 `data_sources` 字段。
-
-**每次数据更新的完整变更日志**：见 `keywords/_meta.json` 和 `templates/_meta.json` 的 `changelog` 字段。
+**每次数据更新的完整变更日志**：见 `keywords/_meta.json` 的 `changelog` 字段。
 
 ---
 
-*提示词仓库标准 v1.0 · 数据版本 1.0.1 · 为漫画/手绘提示词生成而设计，适用于任何 AI 创意工具。*
+*提示词仓库标准 v1.0.4 · 数据版本 1.0.4 · 为漫画/手绘提示词生成而设计，适用于任何 AI 创意工具。*
 
 *← [English](README_en.md)*

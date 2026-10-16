@@ -1,0 +1,2131 @@
+[
+  {
+    "id": "animation_element_mist",
+    "term": "the first subject loses its solid form and turns into a soft",
+    "category": "animation",
+    "subcategory": "animation.element",
+    "labels": [
+      "dissolve-to-mist",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject turns to mist, drifts, reforms. Prompt hint: the first subject loses its solid form and turns into a soft cloud of fine mist, starting at its edges and working inward. The camera stays where it is and the framing does not change. The mist drifts through the frame and thins until the first shot is gone, then gathers again at the same place in the frame and condenses into the second subject as the second shot appears behind it. The shot ends on the second subject, solid and fully resolved, with no mist left. The second subject forms only out of the gathered mist",
+    "labels_zh": [
+      "nodaro",
+      "元素",
+      "转场"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "主体失去实体化为柔软漩涡",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "the first subject",
+      "the"
+    ]
+  },
+  {
+    "id": "animation_element_splash",
+    "term": "the first subject turns to water and collapses into a splash",
+    "category": "animation",
+    "subcategory": "animation.element",
+    "labels": [
+      "water-splash",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject becomes water, splashes, reforms. Prompt hint: the first subject turns to water and collapses into a splashing cascade that spreads across the lower part of the frame. The camera stays where it is and the framing does not change. The water surges upward at the same place in the frame and takes the shape of the second subject, while the second shot appears behind it as the spray falls away. The shot ends on the second subject, solid and fully resolved, with no water left on it. The second subject forms only out of the rising water",
+    "labels_zh": [
+      "nodaro",
+      "元素",
+      "转场"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "主体化为水成海底洪",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "the first subject",
+      "the"
+    ]
+  },
+  {
+    "id": "animation_element_scatter",
+    "term": "the subject crumbles into fine sand that is swept away by a ",
+    "category": "animation",
+    "subcategory": "animation.element",
+    "labels": [
+      "sand-scatter",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject becomes sand, blown away, reforms. Prompt hint: the subject crumbles into fine sand that is swept away by a gust of wind in a swirling vortex, then the sand particles converge and re-form into the new subject",
+    "labels_zh": [
+      "nodaro",
+      "元素",
+      "转场"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "主体崩裂为细沙随风飘散",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "the subject crumbles",
+      "the"
+    ]
+  },
+  {
+    "id": "animation_element_burnup",
+    "term": "burn to embers and reform",
+    "category": "animation",
+    "subcategory": "animation.element",
+    "labels": [
+      "fire-burnup",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject burns to embers, embers reform. Prompt hint: the subject ignites and burns from edges inward into glowing embers and ash, the embers swirl through the frame and re-ignite into the new subject",
+    "labels_zh": [
+      "nodaro",
+      "元素",
+      "转场"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "燃烧成灰烬再重组",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "burn embers and",
+      "burn"
+    ]
+  },
+  {
+    "id": "animation_element_puff",
+    "term": "the subject vanishes in a soft puff of smoke that billows ou",
+    "category": "animation",
+    "subcategory": "animation.element",
+    "labels": [
+      "smoke-puff",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject vanishes in smoke, reappears. Prompt hint: the subject vanishes in a soft puff of smoke that billows outward and fills the frame, the smoke then clears to reveal the new subject in the new scene",
+    "labels_zh": [
+      "nodaro",
+      "元素",
+      "转场"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "主体在软烟中消散",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "the subject vanishes",
+      "the"
+    ]
+  },
+  {
+    "id": "animation_element_sparkles",
+    "term": "the subject disintegrates into a cloud of glowing golden spa",
+    "category": "animation",
+    "subcategory": "animation.element",
+    "labels": [
+      "magic-sparkles",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Particle dissolve à la Avengers / apparition. Prompt hint: the subject disintegrates into a cloud of glowing golden sparkles that scatter outward, then the sparkles converge from across the frame and re-coalesce into the new subject",
+    "labels_zh": [
+      "nodaro",
+      "元素",
+      "转场"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "主体崩解为金色火花云",
+    "aliases": [
+      "luminous",
+      "radiant glow"
+    ],
+    "aliases_zh": [
+      "spark effects",
+      "火花效果"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589756+00:00"
+  },
+  {
+    "id": "animation_element_flash",
+    "term": "a brilliant jagged bolt of lightning cracks across the frame",
+    "category": "animation",
+    "subcategory": "animation.element",
+    "labels": [
+      "lightning-flash",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Lightning strikes, scene changes in flash. Prompt hint: a brilliant jagged bolt of lightning cracks across the frame and its flash turns the whole picture white. The camera stays where it is and the framing does not change. As the flash dies away, the second shot is revealed in its place. The shot ends on the second shot, fully resolved, with no bolt or flash left. The change happens inside the flash, and the second shot appears only as the white fades",
+    "labels_zh": [
+      "nodaro",
+      "元素",
+      "转场"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "明亮锯齿状闪电穿过画面",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "brilliant jagged bolt",
+      "brilliant"
+    ]
+  },
+  {
+    "id": "animation_element_storm",
+    "term": "a wall of opaque",
+    "category": "animation",
+    "subcategory": "animation.element",
+    "labels": [
+      "sand-storm",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Sand storm engulfs the frame, scene changes inside. Prompt hint: a wall of opaque, swirling ochre sand sweeps in from one side of the frame and surges across it until the whole picture is hidden in dust. The camera stays where it is and the framing does not change. The dust then thins and sinks away toward the lower edge of the frame, revealing the second shot behind it. The shot ends on the second shot, clear and fully resolved, with no dust left. The first shot stays as it is until the sand covers it completely, and the second shot appears only as the dust clears",
+    "labels_zh": [
+      "nodaro",
+      "元素",
+      "转场"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "不透明墙过渡",
+    "aliases_zh": [
+      "半透明质感"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589756+00:00",
+    "aliases": [
+      "wall opaque",
+      "wall"
+    ]
+  },
+  {
+    "id": "animation_element_sweep",
+    "term": "a luminous curtain of green and violet aurora light ripples ",
+    "category": "animation",
+    "subcategory": "animation.element",
+    "labels": [
+      "aurora-sweep",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Aurora curtain sweeps across, scene changes behind. Prompt hint: a luminous curtain of green and violet aurora light ripples across the whole frame, and its bright bands veil the first shot. The camera stays where it is and the framing does not change. As the bands fade, the second shot is revealed behind them. The shot ends on the second shot, clear and fully resolved, with no aurora light left. The aurora glows over the front of the picture, and the second shot appears only as it fades",
+    "labels_zh": [
+      "nodaro",
+      "元素",
+      "转场"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "绿紫极光幕在画面中涟漪",
+    "aliases": [
+      "emerald green",
+      "forest green"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589756+00:00"
+  },
+  {
+    "id": "animation_element_petals",
+    "term": "cherry blossom petal storm",
+    "category": "animation",
+    "subcategory": "animation.element",
+    "labels": [
+      "sakura-petals",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cherry blossom petals storm across the frame. Prompt hint: a dense storm of cherry blossom petals swirls in from one side and fills the frame in soft pink motion, the petals cluster to fully veil the image, then drift past to reveal the new scene",
+    "labels_zh": [
+      "nodaro",
+      "元素",
+      "转场"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "樱花瓣风暴过渡",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "cherry blossom petal",
+      "cherry"
+    ]
+  },
+  {
+    "id": "animation_element_bloom",
+    "term": "lush flowers and vines rapidly grow and bloom outward from t",
+    "category": "animation",
+    "subcategory": "animation.element",
+    "labels": [
+      "garden-bloom",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Flowers bloom outward, parting to reveal new scene. Prompt hint: lush flowers and vines rapidly grow and bloom outward from the edges of the frame, the foliage spreads to overtake the entire image, then parts open like curtains to reveal the new scene behind",
+    "labels_zh": [
+      "nodaro",
+      "元素",
+      "转场"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "繁花藤蔓从主体快速生长绽放",
+    "aliases": [
+      "glow effect",
+      "soft bloom"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589756+00:00"
+  },
+  {
+    "id": "animation_element_burst",
+    "term": "a burst of vivid colored powder explodes from the center of ",
+    "category": "animation",
+    "subcategory": "animation.element",
+    "labels": [
+      "powder-burst",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Colored powder bursts across frame and clears. Prompt hint: a burst of vivid colored powder explodes from the center of the frame in slow motion, the cloud of pigment expands to fill the image, then drifts apart and settles to reveal the second scene",
+    "labels_zh": [
+      "nodaro",
+      "元素",
+      "转场"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "鲜艳彩粉从画面中心爆炸",
+    "aliases": [
+      "crimson red"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589756+00:00"
+  },
+  {
+    "id": "animation_morph_morph",
+    "term": "smooth liquid morph: the first subject's surface becomes flu",
+    "category": "animation",
+    "subcategory": "animation.morph",
+    "labels": [
+      "liquid-morph",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject melts and reforms as new subject. Prompt hint: smooth liquid morph: the first subject's surface becomes fluid and continuously deforms, flowing without breaks into the silhouette and details of the second subject",
+    "labels_zh": [
+      "nodaro",
+      "变形",
+      "转场"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "平滑液态变形过渡",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "smooth liquid morph:",
+      "smooth"
+    ]
+  },
+  {
+    "id": "animation_morph_reform",
+    "term": "pixelate and reform",
+    "category": "animation",
+    "subcategory": "animation.morph",
+    "labels": [
+      "pixelate-reform",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Pixelates, scatters, reforms as new. Prompt hint: the first subject breaks into large square mosaic blocks, and the blocks scatter outward across the frame. The camera stays where it is and the framing does not change. The blocks fly back, lock together at the same place in the frame and sharpen into the second subject, while the second shot appears behind them. The shot ends on the second subject, fully sharp, with no blocks left. Only the subject turns into blocks; the surroundings change as the blocks clear",
+    "labels_zh": [
+      "nodaro",
+      "变形",
+      "转场"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.8,
+    "score_v2": 0.8,
+    "term_zh": "像素化与重组",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "pixelate and reform",
+      "pixelate"
+    ]
+  },
+  {
+    "id": "animation_morph_glass",
+    "term": "shatter like glass and reform",
+    "category": "animation",
+    "subcategory": "animation.morph",
+    "labels": [
+      "shatter-glass",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject shatters like glass, reforms. Prompt hint: the first subject shatters like glass into hundreds of shards that fly outward, then the shards reverse direction in reverse time and reassemble into the new subject",
+    "labels_zh": [
+      "nodaro",
+      "变形",
+      "转场"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "玻璃化破碎与重组",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "shatter like glass",
+      "shatter"
+    ]
+  },
+  {
+    "id": "animation_morph_fold",
+    "term": "the first subject creases and folds like sheets of origami p",
+    "category": "animation",
+    "subcategory": "animation.morph",
+    "labels": [
+      "origami-fold",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject folds like paper into new subject. Prompt hint: the first subject creases and folds like sheets of origami paper, the folds rotate and re-arrange in elegant geometric steps, and the final fold reveals the new subject",
+    "labels_zh": [
+      "nodaro",
+      "变形",
+      "转场"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "主体折纸式折叠",
+    "aliases": [
+      "folded paper art",
+      "paper folding"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589756+00:00"
+  },
+  {
+    "id": "animation_morph_swirl",
+    "term": "only the first subject twists",
+    "category": "animation",
+    "subcategory": "animation.morph",
+    "labels": [
+      "vortex-swirl",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject swirls into vortex, unwinds as new. Prompt hint: only the first subject twists, winding around its own centre like wrung cloth into a tight narrow column at the same place in the frame, turning faster as it narrows, while the surroundings stay upright and still. the camera is locked on a tripod head planted in one spot, holding the frame level from start to finish. the column then unwinds in the same direction and opens into the shape of the second subject, while the second shot appears around it. the shot ends on the second subject, solid and fully resolved, with nothing left turning. the twist stays inside the outline of the subject, and the edges of the frame stay square and still",
+    "labels_zh": [
+      "nodaro",
+      "变形",
+      "转场"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "仅主体扭曲变形",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "only the first",
+      "only"
+    ]
+  },
+  {
+    "id": "animation_morph_ripple",
+    "term": "a circular ripple radiates outward across the frame as if th",
+    "category": "animation",
+    "subcategory": "animation.morph",
+    "labels": [
+      "dream-ripple",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Surface ripple wave reveals new scene. Prompt hint: a circular ripple radiates outward across the frame as if the image were the surface of water, and where the ripple passes the first scene is replaced by the second scene",
+    "labels_zh": [
+      "nodaro",
+      "变形",
+      "转场"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "圆形涟漪从中心向外扩散",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "circular ripple radiates",
+      "circular"
+    ]
+  },
+  {
+    "id": "animation_morph_shatter",
+    "term": "the first subject fractures into large opaque flat-shaded ch",
+    "category": "animation",
+    "subcategory": "animation.morph",
+    "labels": [
+      "polygon-shatter",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject fragments into low-poly chunks, reassembles. Prompt hint: the first subject fractures into large opaque flat-shaded chunks, like the facets of a low-polygon model, and the chunks burst outward in slow motion. The camera stays where it is and the framing does not change. The chunks turn around mid-flight and fly back along clean straight paths, locking together at the same place in the frame into the shape of the second subject, while the second shot appears behind them. The shot ends on the second subject, solid and fully resolved, with no loose chunks left. The chunks stay opaque and matte throughout, like painted blocks",
+    "labels_zh": [
+      "nodaro",
+      "变形",
+      "转场"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "主体裂为大块不透明扁平碎片",
+    "aliases_zh": [
+      "半透明质感"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589756+00:00",
+    "aliases": [
+      "the first subject",
+      "the"
+    ]
+  },
+  {
+    "id": "animation_morph_down",
+    "term": "melt into a puddle and reform",
+    "category": "animation",
+    "subcategory": "animation.morph",
+    "labels": [
+      "melt-down",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject melts into puddle, reforms as new. Prompt hint: the first subject's form softens and melts downward like wax, collapsing into a glossy puddle on the ground, the puddle then surges upward and re-solidifies into the new subject standing in the new scene",
+    "labels_zh": [
+      "nodaro",
+      "变形",
+      "转场"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "融化为一滩再重组",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "melt into puddle",
+      "melt"
+    ]
+  },
+  {
+    "id": "animation_portal_eye",
+    "term": "the camera pushes into a tight macro of the subject's eye",
+    "category": "animation",
+    "subcategory": "animation.portal",
+    "labels": [
+      "zoom-into-eye",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Push into pupil, new world inside. Prompt hint: the camera pushes into a tight macro of the subject's eye, the pupil dilates and fills the frame, and the new scene materialises from within the pupil as if the pupil itself were a portal",
+    "labels_zh": [
+      "nodaro",
+      "转场",
+      "门户"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "镜头推入主体眼部微距",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "the camera pushes",
+      "the"
+    ]
+  },
+  {
+    "id": "animation_portal_mirror",
+    "term": "the camera pushes toward a mirror in the scene",
+    "category": "animation",
+    "subcategory": "animation.portal",
+    "labels": [
+      "zoom-into-mirror",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Push into mirror, scene inside reflection. Prompt hint: the camera pushes toward a mirror in the scene, the mirror's reflection fills the frame, and the camera passes through the mirror surface into the reflected world which becomes the new scene",
+    "labels_zh": [
+      "nodaro",
+      "转场",
+      "门户"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "镜头推向场景中的镜子",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "the camera pushes",
+      "the"
+    ]
+  },
+  {
+    "id": "animation_portal_screen",
+    "term": "the camera pushes toward a screen visible in the scene",
+    "category": "animation",
+    "subcategory": "animation.portal",
+    "labels": [
+      "zoom-into-screen",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Push into TV/phone screen. Prompt hint: the camera pushes toward a screen visible in the scene, such as a TV, phone or monitor, the screen's image fills the frame, and the camera passes through into that image which becomes the new scene",
+    "labels_zh": [
+      "nodaro",
+      "转场",
+      "门户"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "镜头推向场景中的屏幕",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "the camera pushes",
+      "the"
+    ]
+  },
+  {
+    "id": "animation_portal_book",
+    "term": "the camera pushes down toward the illustrated page of an ope",
+    "category": "animation",
+    "subcategory": "animation.portal",
+    "labels": [
+      "zoom-into-book",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Push into book page illustration. Prompt hint: the camera pushes down toward the illustrated page of an open book in the frame until the illustration fills the whole picture. The camera travels in one smooth line, without turning or rolling. The drawn picture comes alive, gaining depth, light and movement, and becomes the second shot. The shot ends inside the second shot, real and fully resolved, with no paper, ink lines or page edges left. The camera heads for the page from the start and goes into its illustration",
+    "labels_zh": [
+      "nodaro",
+      "转场",
+      "门户"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "镜头下推至翻开书页",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "the camera pushes",
+      "the"
+    ]
+  },
+  {
+    "id": "animation_portal_door",
+    "term": "the camera follows the first subject through a doorway in th",
+    "category": "animation",
+    "subcategory": "animation.portal",
+    "labels": [
+      "walk-through-door",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Through doorway into new scene. Prompt hint: the camera follows the first subject through a doorway in the frame, moving forward at the subject's pace. The camera travels straight forward, without turning, tilting or rolling. On the far side of the doorway the space is the second shot, a different place in different light. The shot ends in the second shot, fully resolved, with the doorway behind the camera. The change of place happens at the doorway itself, the moment the camera passes through it",
+    "labels_zh": [
+      "nodaro",
+      "转场",
+      "门户"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "镜头跟随主体穿越门洞",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "the camera follows",
+      "the"
+    ]
+  },
+  {
+    "id": "animation_portal_hole",
+    "term": "the floor or ground opens beneath the camera and the camera ",
+    "category": "animation",
+    "subcategory": "animation.portal",
+    "labels": [
+      "fall-into-hole",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Camera falls through opening. Prompt hint: the floor or ground opens beneath the camera and the camera falls downward through the opening, tumbling, and emerges into the new scene below",
+    "labels_zh": [
+      "nodaro",
+      "转场",
+      "门户"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "地面在镜头下裂开坠落",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "the floor ground",
+      "the"
+    ]
+  },
+  {
+    "id": "animation_portal_reveal",
+    "term": "pull-back reveal",
+    "category": "animation",
+    "subcategory": "animation.portal",
+    "labels": [
+      "pull-out-reveal",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Reveals scene was a picture in larger context. Prompt hint: the camera pulls straight back fast, and the whole first shot shrinks until its edges show as the border of a framed picture inside a larger space. The camera travels back in one smooth line, without turning, tilting or rolling. The larger space around the picture is the second shot, and the first shot stays inside the picture. The shot ends on the second shot, with the first shot visible as a picture within it. The first shot's image stays exactly the same as it shrinks, so it reads as the same picture all along",
+    "labels_zh": [
+      "nodaro",
+      "拉远揭示",
+      "转场",
+      "门户"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.72,
+    "score_v2": 0.72,
+    "term_zh": "拉远揭示",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "pull-back reveal",
+      "pull-back"
+    ]
+  },
+  {
+    "id": "animation_portal_mouth",
+    "term": "the camera pushes straight into the first subject's open mou",
+    "category": "animation",
+    "subcategory": "animation.portal",
+    "labels": [
+      "zoom-into-mouth",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Push into open mouth, emerges in new world inside. Prompt hint: the camera pushes straight into the first subject's open mouth until the dark interior fills the whole picture. The camera travels forward in one smooth line, without turning, tilting or rolling. It passes through the darkness, and the second shot emerges out of it. The shot ends inside the second shot, still and fully resolved, with no mouth left in view. The dark interior stays a plain darkness the camera passes through",
+    "labels_zh": [
+      "nodaro",
+      "转场",
+      "门户"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "镜头直推入主体口中",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "the camera pushes",
+      "the"
+    ]
+  },
+  {
+    "id": "animation_portal_glass",
+    "term": "the camera pushes toward a pane of glass in the scene",
+    "category": "animation",
+    "subcategory": "animation.portal",
+    "labels": [
+      "push-through-glass",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Camera pushes through pane of glass into new world. Prompt hint: the camera pushes toward a pane of glass in the scene, the surface ripples like liquid as the camera passes through with a faint refraction, and the space on the other side resolves as the new scene",
+    "labels_zh": [
+      "nodaro",
+      "转场",
+      "门户"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "镜头推向场景中的玻璃",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "the camera pushes",
+      "the"
+    ]
+  },
+  {
+    "id": "animation_portal_jump",
+    "term": "soul leaves body and enters another",
+    "category": "animation",
+    "subcategory": "animation.portal",
+    "labels": [
+      "soul-jump",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Translucent soul leaves body, enters new body. Prompt hint: a translucent luminous form rises out of the first subject's body and shoots forward through the frame as a ghost-like soul, then dives into a new body in the new scene where the second subject animates to life",
+    "labels_zh": [
+      "nodaro",
+      "转场",
+      "门户"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.84,
+    "score_v2": 0.84,
+    "term_zh": "灵魂离体进入另一身体",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "soul leaves body",
+      "soul"
+    ]
+  },
+  {
+    "id": "animation_portal_transition",
+    "term": "mask transition",
+    "category": "animation",
+    "subcategory": "animation.portal",
+    "labels": [
+      "mask-transition",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Foreground object blacks out the frame, camera pulls through. Prompt hint: a dark foreground shape sweeps across the lens and fills the frame with black. The camera keeps travelling forward through the black in one smooth line. It emerges from the darkness into the second shot. The shot ends in the second shot, fully resolved, with no dark shape left. The dark shape passes close to the lens and is gone once the second shot appears",
+    "labels_zh": [
+      "nodaro",
+      "转场",
+      "门户",
+      "面具过渡"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.72,
+    "score_v2": 0.72,
+    "term_zh": "面具过渡",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "mask transition",
+      "mask"
+    ]
+  },
+  {
+    "id": "animation_portal_through",
+    "term": "zoom-through transition",
+    "category": "animation",
+    "subcategory": "animation.portal",
+    "labels": [
+      "zoom-through",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Camera magnifies one detail until the new scene unfolds inside it. Prompt hint: zoom-through transition: the camera magnifies one small detail of the frame further and further until the detail loses its texture and fills the image entirely, and the new scene unfolds from within it",
+    "labels_zh": [
+      "nodaro",
+      "推进过渡",
+      "转场",
+      "门户"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.72,
+    "score_v2": 0.72,
+    "term_zh": "推进过渡",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "zoom-through transition",
+      "zoom-through"
+    ]
+  },
+  {
+    "id": "animation_portal_7b210f2b",
+    "term": "push through a portal",
+    "category": "animation",
+    "subcategory": "animation.portal",
+    "weight": 0.84,
+    "score": 0.5,
+    "source": "joost/ai-camera-shots",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "is_negative": false,
+    "needs_review": false,
+    "score_v2": 0.84,
+    "term_zh": "push through a portal",
+    "aliases": [
+      "dimensional portal",
+      "rift"
+    ],
+    "labels": [],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589756+00:00",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "animation_portal_7ee9c4f8",
+    "term": "portal",
+    "category": "animation",
+    "subcategory": "animation.portal",
+    "weight": 0.64,
+    "score": 0.5,
+    "source": "joost/ai-camera-shots",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "is_negative": false,
+    "needs_review": false,
+    "score_v2": 0.64,
+    "term_zh": "portal",
+    "aliases": [
+      "dimensional portal",
+      "rift"
+    ],
+    "labels": [],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589756+00:00",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "animation_morph_1e872e74",
+    "term": "generated bridge",
+    "category": "animation",
+    "subcategory": "animation.morph",
+    "weight": 0.72,
+    "score": 0.5,
+    "source": "joost/ai-camera-shots",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "is_negative": false,
+    "needs_review": false,
+    "score_v2": 0.72,
+    "term_zh": "generated bridge",
+    "aliases": [
+      "arch bridge",
+      "suspension bridge"
+    ],
+    "labels": [],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589756+00:00",
+    "lifecycle": "approved"
+  },
+  {
+    "id": "animation_morph_b414a919",
+    "term": "first and last frame",
+    "category": "animation",
+    "subcategory": "animation.morph",
+    "weight": 0.84,
+    "score": 0.5,
+    "source": "joost/ai-camera-shots",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "is_negative": false,
+    "needs_review": false,
+    "score_v2": 0.84,
+    "term_zh": "first and last frame",
+    "labels": [],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589756+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "first and last",
+      "first"
+    ]
+  },
+  {
+    "id": "animation_frame_time",
+    "term": "real-time playback",
+    "category": "animation",
+    "subcategory": "animation.frame",
+    "labels": [
+      "real-time",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Normal playback speed. Prompt hint: real-time playback, normal speed",
+    "labels_zh": [
+      "nodaro",
+      "实时回放",
+      "时间效果",
+      "速度"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "实时回放",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "real-time playback",
+      "real-time"
+    ]
+  },
+  {
+    "id": "animation_frame_motion",
+    "term": "slow motion",
+    "category": "animation",
+    "subcategory": "animation.frame",
+    "labels": [
+      "slow-motion",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Moderately slowed footage. Prompt hint: slow motion, footage slowed down with smooth deliberate movement",
+    "labels_zh": [
+      "nodaro",
+      "慢动作",
+      "时间效果",
+      "速度"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "慢动作",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "slow motion",
+      "slow"
+    ]
+  },
+  {
+    "id": "animation_frame_mo",
+    "term": "super slow motion",
+    "category": "animation",
+    "subcategory": "animation.frame",
+    "labels": [
+      "super-slow-mo",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Extremely slow footage. Prompt hint: super slow motion, extreme high-speed slow-mo capturing motion at a fraction of real time",
+    "labels_zh": [
+      "nodaro",
+      "时间效果",
+      "速度"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.785,
+    "score_v2": 0.785,
+    "term_zh": "超级慢动作",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "super slow motion",
+      "super"
+    ]
+  },
+  {
+    "id": "animation_frame_lapse",
+    "term": "time-lapse",
+    "category": "animation",
+    "subcategory": "animation.frame",
+    "labels": [
+      "time-lapse",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Compressed time, fast passage. Prompt hint: time-lapse, highly compressed time showing hours or days passing in seconds",
+    "labels_zh": [
+      "nodaro",
+      "延时摄影",
+      "时间效果",
+      "速度"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.625,
+    "score_v2": 0.625,
+    "term_zh": "延时摄影",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "time-lapse"
+    ]
+  },
+  {
+    "id": "animation_frame_ramp",
+    "term": "speed ramp",
+    "category": "animation",
+    "subcategory": "animation.frame",
+    "labels": [
+      "speed-ramp",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Dynamic speed change mid-shot. Prompt hint: speed ramp, dynamic speed change within the shot from slow motion to real-time or faster",
+    "labels_zh": [
+      "nodaro",
+      "时间效果",
+      "速度",
+      "速度渐变"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "速度渐变",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "speed ramp",
+      "speed"
+    ]
+  },
+  {
+    "id": "animation_frame_freeze",
+    "term": "freeze frame",
+    "category": "animation",
+    "subcategory": "animation.frame",
+    "labels": [
+      "full-freeze",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: All motion frozen. Prompt hint: full freeze-frame, all motion in the scene completely frozen like a photograph",
+    "labels_zh": [
+      "nodaro",
+      "冻结",
+      "定格帧",
+      "时间效果"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "定格帧",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "freeze frame",
+      "freeze"
+    ]
+  },
+  {
+    "id": "animation_frame_subject",
+    "term": "frozen subject, world in motion",
+    "category": "animation",
+    "subcategory": "animation.frame",
+    "labels": [
+      "frozen-subject",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Subject frozen, world moves. Prompt hint: frozen subject with moving world, subject remains completely still while the environment continues in motion",
+    "labels_zh": [
+      "nodaro",
+      "冻结",
+      "时间效果"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.825,
+    "score_v2": 0.825,
+    "term_zh": "主体定格世界运动",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "frozen subject, world",
+      "frozen"
+    ]
+  },
+  {
+    "id": "animation_frame_braam",
+    "term": "slow-motion braam",
+    "subcategory": "animation.frame",
+    "labels": [
+      "slow-motion",
+      "braam",
+      "animation.frame",
+      "video",
+      "nodaro"
+    ],
+    "labels_zh": [
+      "布拉姆",
+      "慢动作",
+      "时间效果"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "animation",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "慢动作布拉姆效果",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "slow-motion braam",
+      "slow-motion"
+    ]
+  },
+  {
+    "id": "animation_frame_timelapse",
+    "term": "time-lapse sequence",
+    "subcategory": "animation.frame",
+    "labels": [
+      "time-lapse",
+      "fast-forward",
+      "animation.frame",
+      "video"
+    ],
+    "labels_zh": [
+      "延时摄影",
+      "快进",
+      "时间效果"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "animation",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "延时摄影序列",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "time-lapse sequence",
+      "time-lapse"
+    ]
+  },
+  {
+    "id": "animation_frame_hyperlapse",
+    "term": "hyperlapse movement",
+    "subcategory": "animation.frame",
+    "labels": [
+      "hyperlapse",
+      "tracking",
+      "animation.frame",
+      "video"
+    ],
+    "labels_zh": [
+      "时间效果",
+      "移动延时",
+      "跟踪"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "animation",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "移动延时摄影",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "hyperlapse movement",
+      "hyperlapse"
+    ]
+  },
+  {
+    "id": "animation_frame_undercranked",
+    "term": "undercranked footage",
+    "subcategory": "animation.frame",
+    "labels": [
+      "undercranked",
+      "strobing",
+      "fast",
+      "video"
+    ],
+    "labels_zh": [
+      "快速",
+      "时间效果",
+      "欠帧"
+    ],
+    "score": 0.75,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "animation",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "欠帧拍摄效果",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "undercranked footage",
+      "undercranked"
+    ]
+  },
+  {
+    "id": "animation_frame_overcranked",
+    "term": "overcranked footage",
+    "subcategory": "animation.frame",
+    "labels": [
+      "overcranked",
+      "super slow-mo",
+      "slow",
+      "video"
+    ],
+    "labels_zh": [
+      "时间效果",
+      "超慢动作",
+      "过帧"
+    ],
+    "score": 0.75,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "animation",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.705,
+    "score_v2": 0.705,
+    "term_zh": "过帧拍摄效果",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "overcranked footage",
+      "overcranked"
+    ]
+  },
+  {
+    "id": "animation_frame_frame",
+    "term": "freeze frame hold",
+    "subcategory": "animation.frame",
+    "labels": [
+      "freeze-frame",
+      "pause",
+      "still",
+      "video",
+      "comedy"
+    ],
+    "labels_zh": [
+      "定格",
+      "时间效果",
+      "静止"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "animation",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.785,
+    "score_v2": 0.785,
+    "term_zh": "定格帧",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "freeze frame hold",
+      "freeze"
+    ]
+  },
+  {
+    "id": "animation_frame_speed",
+    "term": "speed ramp transition",
+    "subcategory": "animation.frame",
+    "labels": [
+      "speed-ramp",
+      "变速",
+      "dynamic",
+      "video"
+    ],
+    "labels_zh": [
+      "动态",
+      "变速",
+      "时间效果"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "animation",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.785,
+    "score_v2": 0.785,
+    "term_zh": "速度渐变",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "speed ramp transition",
+      "speed"
+    ]
+  },
+  {
+    "id": "animation_frame_liquify",
+    "term": "liquid morphing time",
+    "subcategory": "animation.frame",
+    "labels": [
+      "liquid",
+      "morphing",
+      "time-warp",
+      "video",
+      "experimental"
+    ],
+    "labels_zh": [
+      "时间扭曲",
+      "时间效果",
+      "液化"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "animation",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.785,
+    "score_v2": 0.785,
+    "term_zh": "液体变形time",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "liquid morphing time",
+      "liquid"
+    ]
+  },
+  {
+    "id": "animation_frame_waterdrop",
+    "term": "high-speed water droplet freeze",
+    "subcategory": "animation.frame",
+    "labels": [
+      "high-speed",
+      "water-droplet",
+      "animation.frame",
+      "product",
+      "photography"
+    ],
+    "labels_zh": [
+      "时间效果",
+      "水珠凝固",
+      "高速"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "animation",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.825,
+    "score_v2": 0.825,
+    "term_zh": "高速水珠凝固",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "high-speed water droplet",
+      "high-speed"
+    ]
+  },
+  {
+    "id": "animation_frame_aura",
+    "term": "chromatic time trail",
+    "subcategory": "animation.frame",
+    "labels": [
+      "chromatic",
+      "time-trail",
+      "afterimage",
+      "experimental",
+      "video"
+    ],
+    "labels_zh": [
+      "时间效果",
+      "残影",
+      "色散"
+    ],
+    "score": 0.75,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T21:59:50.647041+00:00",
+    "category": "animation",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "weight": 0.785,
+    "score_v2": 0.785,
+    "term_zh": "色散时间拖尾",
+    "updated_at": "2026-10-15T19:21:55.669814+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-15T19:21:55.669814+00:00",
+    "aliases": [
+      "chromatic time trail",
+      "chromatic"
+    ]
+  },
+  {
+    "id": "animation_frame_8039777f",
+    "term": "24fps",
+    "category": "animation",
+    "subcategory": "animation.frame",
+    "weight": 0.625,
+    "score": 0.5,
+    "source": "BeatAPI/awesome-minimax-h3-prompts",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "is_negative": false,
+    "needs_review": false,
+    "score_v2": 0.625,
+    "term_zh": "24fps",
+    "labels": [],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589756+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "24fps"
+    ]
+  },
+  {
+    "id": "animation_frame_1168fc47",
+    "term": "60fps",
+    "category": "animation",
+    "subcategory": "animation.frame",
+    "weight": 0.625,
+    "score": 0.5,
+    "source": "BeatAPI/awesome-minimax-h3-prompts",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "is_negative": false,
+    "needs_review": false,
+    "score_v2": 0.625,
+    "term_zh": "60fps",
+    "labels": [],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589756+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "60fps"
+    ]
+  },
+  {
+    "id": "animation_frame_9a096f74",
+    "term": "30fps",
+    "category": "animation",
+    "subcategory": "animation.frame",
+    "weight": 0.625,
+    "score": 0.5,
+    "source": "BeatAPI/awesome-minimax-h3-prompts",
+    "compatibility": [
+      "sdxl",
+      "midjourney",
+      "kling",
+      "runway",
+      "minimax_h3"
+    ],
+    "is_negative": false,
+    "needs_review": false,
+    "score_v2": 0.625,
+    "term_zh": "30fps",
+    "labels": [],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.589756+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "30fps"
+    ]
+  }
+]

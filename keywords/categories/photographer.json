@@ -29,7 +29,11 @@
     "aliases": [
       "flying fairy",
       "pixie"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_editorial_paolo_roversi",
@@ -57,7 +61,15 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "保罗·罗维西风格，柔和空灵宝丽来辉光"
+    "term_zh": "保罗·罗维西风格，柔和空灵宝丽来辉光",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "paolo roversi, soft",
+      "paolo"
+    ]
   },
   {
     "id": "photographer_editorial_marta_bevacqua",
@@ -93,7 +105,11 @@
     "aliases_zh": [
       "大头照",
       "肖像"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_editorial_patrick_demarchelier",
@@ -121,7 +137,15 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "帕特里克·德马切列尔风格，精致经典时尚"
+    "term_zh": "帕特里克·德马切列尔风格，精致经典时尚",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "patrick demarchelier, refined",
+      "patrick"
+    ]
   },
   {
     "id": "photographer_editorial_nick_knight",
@@ -153,7 +177,11 @@
     "aliases": [
       "armored knight",
       "medieval warrior"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_editorial_mario_testino",
@@ -181,7 +209,15 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "马里奥·特斯蒂诺风格，魅惑阳光时尚"
+    "term_zh": "马里奥·特斯蒂诺风格，魅惑阳光时尚",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "mario testino, glamorous",
+      "mario"
+    ]
   },
   {
     "id": "photographer_editorial_steven_meisel",
@@ -209,7 +245,15 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "史蒂文·梅塞尔风格，精致中世纪编辑大片"
+    "term_zh": "史蒂文·梅塞尔风格，精致中世纪编辑大片",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "steven meisel, polished",
+      "steven"
+    ]
   },
   {
     "id": "photographer_editorial_helmut_newton",
@@ -245,7 +289,11 @@
     "aliases_zh": [
       "monochrome",
       "单色"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_editorial_mario_sorrenti",
@@ -277,7 +325,11 @@
     "aliases": [
       "raindrops",
       "rainy weather"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_editorial_annie_leibovitz",
@@ -313,7 +365,11 @@
     "aliases_zh": [
       " cinematic",
       "电影风格"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_editorial_felicia_simion",
@@ -341,7 +397,15 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "费利西亚·西米翁风格，超现实田园美术"
+    "term_zh": "费利西亚·西米翁风格，超现实田园美术",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "felicia simion, surreal",
+      "felicia"
+    ]
   },
   {
     "id": "photographer_editorial_oleg_oprisco",
@@ -373,7 +437,11 @@
     "aliases": [
       "film-like",
       "movie-style"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_editorial_bella_kotak",
@@ -409,7 +477,11 @@
     "aliases_zh": [
       "大头照",
       "肖像"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_editorial_yigal_ozeri",
@@ -445,7 +517,11 @@
     "aliases": [
       "face portrait",
       "headshot"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_editorial_jimmy_marble",
@@ -473,7 +549,15 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "吉米·马布尔风格，粉彩糖果亮调编辑"
+    "term_zh": "吉米·马布尔风格，粉彩糖果亮调编辑",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "jimmy marble, pastel",
+      "jimmy"
+    ]
   },
   {
     "id": "photographer_editorial_rinko_kawauchi",
@@ -501,7 +585,15 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "川内伦子风格，安静光感日常"
+    "term_zh": "川内伦子风格，安静光感日常",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "rinko kawauchi, quiet",
+      "rinko"
+    ]
   },
   {
     "id": "photographer_editorial_ellen_von_unwerth",
@@ -529,7 +621,15 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "艾伦·冯·温沃斯风格，顽皮复古半脱星"
+    "term_zh": "艾伦·冯·温沃斯风格，顽皮复古半脱星",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "ellen von unwerth,",
+      "ellen"
+    ]
   },
   {
     "id": "photographer_editorial_mapplethorpe",
@@ -565,7 +665,11 @@
     "aliases_zh": [
       "monochrome",
       "单色"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_editorial_sherman",
@@ -601,7 +705,11 @@
     "aliases_zh": [
       "大头照",
       "肖像"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_editorial_crewdson",
@@ -637,7 +745,11 @@
     "aliases_zh": [
       " cinematic",
       "电影风格"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_editorial_lachapelle",
@@ -665,7 +777,15 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "大卫·拉夏贝尔风格，超饱和超现实夸张"
+    "term_zh": "大卫·拉夏贝尔风格，超饱和超现实夸张",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "david lachapelle, hyper-saturated",
+      "david"
+    ]
   },
   {
     "id": "photographer_editorial_klein",
@@ -693,7 +813,15 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "史蒂文·克莱因风格，硬边时尚魅惑"
+    "term_zh": "史蒂文·克莱因风格，硬边时尚魅惑",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "steven klein, hard-edged",
+      "steven"
+    ]
   },
   {
     "id": "photographer_editorial_lindbergh",
@@ -729,7 +857,11 @@
     "aliases_zh": [
       "monochrome",
       "单色"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_editorial_tillmans",
@@ -758,7 +890,15 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "沃尔夫冈·提尔曼斯风格，直闪快照"
+    "term_zh": "沃尔夫冈·提尔曼斯风格，直闪快照",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "wolfgang tillmans, candid",
+      "wolfgang"
+    ]
   },
   {
     "id": "photographer_editorial_teller",
@@ -786,7 +926,15 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "于尔根·特勒风格，冷漠直闪快照"
+    "term_zh": "于尔根·特勒风格，冷漠直闪快照",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "juergen teller, deadpan",
+      "juergen"
+    ]
   },
   {
     "id": "photographer_editorial_penn",
@@ -822,7 +970,11 @@
     "aliases_zh": [
       "大头照",
       "肖像"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_editorial_mcginley",
@@ -853,7 +1005,11 @@
     "term_zh": "瑞安·麦金莱风格，眩光抓拍青春",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_editorial_mitchell",
@@ -889,7 +1045,11 @@
     "aliases_zh": [
       "大头照",
       "肖像"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_editorial_collins",
@@ -922,7 +1082,11 @@
     "aliases": [
       "pastel pink",
       "rose pink"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_editorial_weston",
@@ -958,7 +1122,11 @@
     "aliases_zh": [
       "monochrome",
       "单色"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_editorial_beaton",
@@ -994,7 +1162,11 @@
     "aliases_zh": [
       "大头照",
       "肖像"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_documentary_henri_cartier_bresson",
@@ -1026,7 +1198,11 @@
     "aliases": [
       "city street",
       "urban street"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_documentary_vivian_maier",
@@ -1058,7 +1234,11 @@
     "aliases": [
       "city street",
       "urban street"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_documentary_saul_leiter",
@@ -1090,7 +1270,11 @@
     "aliases": [
       "city street",
       "urban street"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_documentary_daido_moriyama",
@@ -1126,7 +1310,11 @@
     "aliases_zh": [
       "mountainside",
       "山脉"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_documentary_robert_capa",
@@ -1154,7 +1342,15 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "罗伯特·卡帕风格，骨灰新闻摄影"
+    "term_zh": "罗伯特·卡帕风格，骨灰新闻摄影",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "robert capa, visceral",
+      "robert"
+    ]
   },
   {
     "id": "photographer_documentary_sebastiao_salgado",
@@ -1190,7 +1386,11 @@
     "aliases_zh": [
       "monochrome",
       "单色"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_documentary_diane_arbus",
@@ -1226,7 +1426,11 @@
     "aliases_zh": [
       "大头照",
       "肖像"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_cinematographer_roger_deakins",
@@ -1262,7 +1466,11 @@
     "aliases_zh": [
       "天然光线",
       "日光"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_cinematographer_emmanuel_lubezki",
@@ -1294,6 +1502,14 @@
     "aliases_zh": [
       "天然光线",
       "日光"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00",
+    "aliases": [
+      "shot emmanuel lubezki,",
+      "shot"
     ]
   },
   {
@@ -1322,7 +1538,15 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "格雷格·弗雷泽掌镜，触感变形摄影"
+    "term_zh": "格雷格·弗雷泽掌镜，触感变形摄影",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "shot greig fraser,",
+      "shot"
+    ]
   },
   {
     "id": "photographer_cinematographer_christopher_doyle",
@@ -1350,7 +1574,15 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "克里斯托弗·道尔掌镜，饱和手持霓虹"
+    "term_zh": "克里斯托弗·道尔掌镜，饱和手持霓虹",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "shot christopher doyle,",
+      "shot"
+    ]
   },
   {
     "id": "photographer_concept_greg_rutkowski",
@@ -1378,7 +1610,15 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "格雷格·鲁特考斯基风格，史诗绘画奇幻概念艺术"
+    "term_zh": "格雷格·鲁特考斯基风格，史诗绘画奇幻概念艺术",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "greg rutkowski, epic",
+      "greg"
+    ]
   },
   {
     "id": "photographer_concept_magali_villeneuve",
@@ -1406,7 +1646,15 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "玛加利·维勒纽夫风格，英雄奇幻角色艺术"
+    "term_zh": "玛加利·维勒纽夫风格，英雄奇幻角色艺术",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "magali villeneuve, heroic",
+      "magali"
+    ]
   },
   {
     "id": "photographer_concept_charlie_bowater",
@@ -1442,7 +1690,11 @@
     "aliases_zh": [
       "大头照",
       "肖像"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_concept_sam_spratt",
@@ -1478,7 +1730,11 @@
     "aliases": [
       "face portrait",
       "headshot"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_concept_ruan_jia",
@@ -1515,7 +1771,11 @@
     "aliases_zh": [
       "大头照",
       "肖像"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_concept_ilya_kuvshinov",
@@ -1551,7 +1811,11 @@
     "aliases_zh": [
       "大头照",
       "肖像"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_concept_wlop",
@@ -1583,7 +1847,11 @@
     "aliases": [
       "face portrait",
       "headshot"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_concept_artgerm",
@@ -1612,7 +1880,15 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "Artgerm 风格，精致漫画诱惑插画"
+    "term_zh": "Artgerm 风格，精致漫画诱惑插画",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "artgerm, polished comic-book",
+      "artgerm,"
+    ]
   },
   {
     "id": "photographer_illustrator_makoto_shinkai",
@@ -1648,7 +1924,11 @@
     "aliases_zh": [
       "luminous",
       "发光效果"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_illustrator_studio_ghibli",
@@ -1680,7 +1960,11 @@
     "aliases": [
       "animated sequence",
       "motion graphics"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_illustrator_alphonse_mucha",
@@ -1708,7 +1992,15 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "阿尔丰斯·穆夏风格，新艺术装饰板"
+    "term_zh": "阿尔丰斯·穆夏风格，新艺术装饰板",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "alphonse mucha, art-nouveau",
+      "alphonse"
+    ]
   },
   {
     "id": "photographer_illustrator_carne_griffiths",
@@ -1744,7 +2036,11 @@
     "aliases_zh": [
       "大头照",
       "肖像"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_illustrator_conrad_roset",
@@ -1779,7 +2075,11 @@
     "aliases_zh": [
       "watercolor painting",
       "水彩画"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_illustrator_akihito_yoshida",
@@ -1815,7 +2115,11 @@
     "aliases_zh": [
       "monochrome",
       "单色"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_illustrator_karol_bak",
@@ -1843,7 +2147,15 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "卡罗尔·巴克风格，象征主义镀金缪斯"
+    "term_zh": "卡罗尔·巴克风格，象征主义镀金缪斯",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "karol bak, symbolist",
+      "karol"
+    ]
   },
   {
     "id": "photographer_illustrator_ismail_inceoglu",
@@ -1879,7 +2191,11 @@
     "aliases_zh": [
       "全景",
       "风光"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_illustrator_stefan_gesell",
@@ -1915,7 +2231,11 @@
     "aliases_zh": [
       "大头照",
       "肖像"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_illustrator_andrew_atroshenko",
@@ -1947,6 +2267,14 @@
     "aliases_zh": [
       "impressionist style",
       "光色效果"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00",
+    "aliases": [
+      "andrew atroshenko, romantic",
+      "andrew"
     ]
   },
   {
@@ -1983,7 +2311,11 @@
     "aliases_zh": [
       "全景",
       "风光"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_illustrator_ingrid_baars",
@@ -2011,7 +2343,15 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "英格里德·巴斯风格，雕塑感时尚艺术拼贴"
+    "term_zh": "英格里德·巴斯风格，雕塑感时尚艺术拼贴",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "ingrid baars, sculptural",
+      "ingrid"
+    ]
   },
   {
     "id": "photographer_illustrator_guido_van_helten",
@@ -2047,7 +2387,11 @@
     "aliases_zh": [
       "大头照",
       "肖像"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_genre_shot_as_a_high_fashion_magazine_editoria",
@@ -2076,7 +2420,14 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "高级时尚杂志编辑大片"
+    "term_zh": "高级时尚杂志编辑大片",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "shot high-fashion magazine",
+      "shot"
+    ]
   },
   {
     "id": "photographer_genre_shot_in_the_language_of_a_vogue_editoria",
@@ -2105,7 +2456,14 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "《Vogue》封面编辑风格"
+    "term_zh": "《Vogue》封面编辑风格",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "shot the language",
+      "shot"
+    ]
   },
   {
     "id": "photographer_genre_shot_as_a_brand_lookbook_image",
@@ -2134,7 +2492,14 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "品牌画册图风格"
+    "term_zh": "品牌画册图风格",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "shot brand lookbook",
+      "shot"
+    ]
   },
   {
     "id": "photographer_genre_composed_as_a_top_down_e_commerce_flat_l",
@@ -2167,7 +2532,10 @@
     "aliases": [
       "bird's eye view",
       "overhead view"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_genre_shot_as_a_beauty_editorial_close_up",
@@ -2204,7 +2572,10 @@
     "aliases_zh": [
       "特写镜头",
       "近景"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_genre_shot_in_the_language_of_a_jil_sander_edi",
@@ -2234,7 +2605,14 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "Jil Sander 风格编辑大片"
+    "term_zh": "Jil Sander 风格编辑大片",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "shot the language",
+      "shot"
+    ]
   },
   {
     "id": "photographer_genre_shot_in_the_language_of_a_vivienne_tam_e",
@@ -2264,7 +2642,14 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "Vivienne Tam 风格编辑大片"
+    "term_zh": "Vivienne Tam 风格编辑大片",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "shot the language",
+      "shot"
+    ]
   },
   {
     "id": "photographer_genre_shot_in_the_language_of_a_jacquemus_camp",
@@ -2293,7 +2678,14 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "Jacquemus 风格广告大片"
+    "term_zh": "Jacquemus 风格广告大片",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "shot the language",
+      "shot"
+    ]
   },
   {
     "id": "photographer_genre_shot_in_the_signature_language_of_helmut",
@@ -2322,7 +2714,14 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "赫尔穆特·牛顿标志性风格"
+    "term_zh": "赫尔穆特·牛顿标志性风格",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "shot the signature",
+      "shot"
+    ]
   },
   {
     "id": "photographer_genre_shot_in_the_signature_language_of_a_harp",
@@ -2351,7 +2750,14 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "《Harper's Bazaar》编辑大片风格"
+    "term_zh": "《Harper's Bazaar》编辑大片风格",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "shot the signature",
+      "shot"
+    ]
   },
   {
     "id": "photographer_genre_shot_in_a_street_photography_idiom",
@@ -2384,7 +2790,10 @@
     "aliases": [
       "city street",
       "urban street"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_genre_shot_as_editorial_photojournalism_with_a",
@@ -2414,7 +2823,14 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "35mm 报道镜头新闻摄影编辑大片"
+    "term_zh": "35mm 报道镜头新闻摄影编辑大片",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "shot editorial photojournalism",
+      "shot"
+    ]
   },
   {
     "id": "photographer_genre_shot_as_a_polished_corporate_headshot",
@@ -2443,7 +2859,14 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "精致企业形象照"
+    "term_zh": "精致企业形象照",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "shot polished corporate",
+      "shot"
+    ]
   },
   {
     "id": "photographer_genre_shot_as_a_police_booking_mugshot",
@@ -2472,7 +2895,14 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "警方登记摄录照"
+    "term_zh": "警方登记摄录照",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "shot police booking",
+      "shot"
+    ]
   },
   {
     "id": "photographer_genre_shot_as_a_wedding_portrait",
@@ -2510,7 +2940,10 @@
     "aliases_zh": [
       "大头照",
       "肖像"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_genre_shot_as_a_posed_family_portrait",
@@ -2543,7 +2976,10 @@
     "aliases": [
       "face portrait",
       "headshot"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_genre_shot_as_a_glamour_portrait_with_soft_dif",
@@ -2580,7 +3016,10 @@
     "aliases_zh": [
       "大头照",
       "肖像"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_genre_shot_in_a_film_noir_portrait_idiom",
@@ -2617,7 +3056,10 @@
     "aliases_zh": [
       "大头照",
       "肖像"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_genre_shot_as_a_smartphone_mirror_selfie",
@@ -2650,7 +3092,10 @@
     "aliases": [
       "elven warrior",
       "woodland elf"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_genre_shot_as_a_gym_mirror_selfie",
@@ -2683,7 +3128,10 @@
     "aliases": [
       "elven warrior",
       "woodland elf"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_genre_shot_as_a_bathroom_mirror_selfie_with_a_",
@@ -2716,7 +3164,10 @@
     "aliases": [
       "elven warrior",
       "woodland elf"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_genre_shot_as_a_group_phone_selfie_taken_at_ar",
@@ -2749,7 +3200,10 @@
     "aliases": [
       "elven warrior",
       "woodland elf"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_genre_shot_as_professional_food_photography",
@@ -2779,7 +3233,14 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "食物摄影"
+    "term_zh": "食物摄影",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "shot food photography",
+      "shot"
+    ]
   },
   {
     "id": "photographer_genre_shot_as_a_clean_e_commerce_product_photo",
@@ -2808,7 +3269,14 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "干净电商产品照"
+    "term_zh": "干净电商产品照",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.463246+00:00",
+    "aliases": [
+      "shot clean e-commerce",
+      "shot"
+    ]
   },
   {
     "id": "photographer_portrait_studio",
@@ -2838,11 +3306,14 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "工作室肖像单光源",
+    "term_zh": "工作室人像single钥匙光",
     "aliases": [
       "face portrait",
       "headshot"
-    ]
+    ],
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   },
   {
     "id": "photographer_street_silhouette",
@@ -2872,10 +3343,13 @@
     ],
     "weight": 0.63,
     "score_v2": 0.63,
-    "term_zh": "街头摄影长剪影",
+    "term_zh": "街道摄影long剪影",
     "aliases": [
       "city street",
       "urban street"
-    ]
+    ],
+    "updated_at": "2026-10-16T02:35:35.463246+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.592232+00:00"
   }
 ]

@@ -1,0 +1,42 @@
+{
+  "name": "negative 工作流",
+  "description": "negative 分类的常用关键词集合 (103 条)",
+  "category": "negative",
+  "keywords": [
+    "low quality",
+    "worst quality",
+    "bad quality",
+    "low resolution",
+    "blurry",
+    "blurry background",
+    "out of focus",
+    "dithering",
+    "jpeg artifacts",
+    "pixelated"
+  ],
+  "total_count": 103,
+  "id": "workflow.negative",
+  "name_zh": "负面词",
+  "steps": [
+    {
+      "order": 1,
+      "template_id": "action.motion"
+    },
+    {
+      "order": 2,
+      "template_id": "atmosphere.weather"
+    },
+    {
+      "order": 3,
+      "template_id": "camera.movement"
+    },
+    {
+      "order": 4,
+      "template_id": "camera.shot_type"
+    },
+    {
+      "order": 5,
+      "template_id": "character.multiple_views"
+    }
+  ]
+}

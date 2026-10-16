@@ -1,0 +1,38 @@
+{
+  "name": "atmosphere 工作流",
+  "description": "atmosphere 分类的常用关键词集合 (6 条)",
+  "category": "atmosphere",
+  "keywords": [
+    "Atmosphere",
+    "Aurora",
+    "Aurora Australis",
+    "Aurora Borealis",
+    "Aurorae",
+    "Auroral Light"
+  ],
+  "total_count": 6,
+  "id": "workflow.atmosphere",
+  "name_zh": "atmosphere 工作流",
+  "steps": [
+    {
+      "order": 1,
+      "template_id": "action.motion"
+    },
+    {
+      "order": 2,
+      "template_id": "atmosphere.weather"
+    },
+    {
+      "order": 3,
+      "template_id": "camera.movement"
+    },
+    {
+      "order": 4,
+      "template_id": "camera.shot_type"
+    },
+    {
+      "order": 5,
+      "template_id": "character.multiple_views"
+    }
+  ]
+}

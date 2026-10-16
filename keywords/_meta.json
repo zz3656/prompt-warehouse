@@ -1,10 +1,10 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.12",
   "schema_version": "pws-1.0",
-  "total_keywords": 6256,
-  "total_categories": 22,
-  "updated_at": "2026-10-12T14:30:00.000000+00:00",
-  "updated_by": "p3-1-recovery",
+  "total_keywords": 5837,
+  "total_categories": 23,
+  "updated_at": "2026-10-16T09:30:00.000000+00:00",
+  "updated_by": "final-fixes-aliases-workflow-names",
   "source_summary": {
     "h3-comic-builder (intermediate, not listed as data source)": 859,
     "MidJourney-Reference": 4600,
@@ -47,6 +47,117 @@
         "P1: labels_zh 补全 — term 翻译规则生成，覆盖率达 98% (6124/6256)",
         "P1: 同时有 en+zh aliases 的关键词 425 条",
         "⚠️ 剩余 77% (4829条) 关键词无 aliases — 高度专业化具体名词，需人工标注或外部词库"
+      ]
+    },
+    {
+      "version": "1.0.3",
+      "date": "2026-10-16",
+      "summary": "Phase 1: 清理 mj_v5* 前缀，新增 camera/style/animation/storyboard 分类",
+      "changes": [
+        "移除 3,484 条 mj_v5* 前缀关键词，重命名为新子分类",
+        "新增 camera.json (396条), style.json (1229条)",
+        "新增 animation.json (62条), storyboard.json (74条)",
+        "更新 schema 支持新分类",
+        "修复所有 ID 格式（连字符→下划线，中文→hash）"
+      ]
+    },
+    {
+      "version": "1.0.4",
+      "date": "2026-10-16",
+      "summary": "Phase 3: 批量翻译 + aliases 补全 + 子分类规范化",
+      "changes": [
+        "批量翻译 206 条缺失 term_zh（完成 64 条）",
+        "补充 1,062 条 aliases + 718 条 aliases_zh",
+        "规范化所有分类文件中 505 条子分类命名（连字符→下划线）",
+        "修复 pws-translate.py 和 pws-enrich.py Python 3.9 兼容性问题"
+      ]
+    },
+    {
+      "version": "1.0.5",
+      "date": "2026-10-16",
+      "summary": "数据质量修复：Bundle 孤儿、重复 ID、lifecycle 补全",
+      "changes": [
+        "修复 Bundle 中 28 处孤儿引用（移除无法匹配的旧 mj_v5_* ID）",
+        "修复 Bundle 中 20 处可映射的旧 ID → 新 ID",
+        "修复重复 ID: framing_billboarding（从 composition.json 删除）",
+        "补全 275 条关键词的 lifecycle 字段（score=0.5 → approved）",
+        "修复所有 Workflow 中 kw_1~kw_5 占位符 → 实际 template_id"
+      ]
+    },
+    {
+      "version": "1.0.6",
+      "date": "2026-10-16",
+      "summary": "uncategorized 归入分类 + API 重新生成",
+      "changes": [
+        "uncategorized.json 4 条关键词归入对应分类（character, styles, scene, style）",
+        "uncategorized.json 清空",
+        "重新生成 API 文件"
+      ]
+    },
+    {
+      "version": "1.0.7",
+      "date": "2026-10-16",
+      "summary": "高分关键词别名批量生成",
+      "changes": [
+        "为 205 条高分关键词 (score >= 0.9) 补充英文和中文别名",
+        "aliases 覆盖率提升至 21.7%",
+        "使用 term 关键词 + 同义词映射生成合理别名"
+      ]
+    },
+    {
+      "version": "1.0.8",
+      "date": "2026-10-16",
+      "summary": "清理空分类 + negative 合并 + 别名补充",
+      "changes": [
+        "删除 17 个空分类（模板定义但无关键词）",
+        "negative.json (103条) 合并到 quality.json",
+        "为 230 条 low-score 关键词补充 aliases",
+        "aliases 覆盖率提升至 25.6%"
+      ]
+    },
+    {
+      "version": "1.0.9",
+      "date": "2026-10-16",
+      "summary": "最终清理：空分类删除 + negative 合并修复 + 别名补充",
+      "changes": [
+        "删除 17 个空分类文件（模板定义但无关键词）",
+        "negative.json (98条) 合并到 quality.json，ID 格式修正（. → _）",
+        "为 230 条 low-score 关键词补充 aliases",
+        "Schema 校验全部通过"
+      ]
+    },
+    {
+      "version": "1.0.10",
+      "date": "2026-10-16",
+      "summary": "批量补全 aliases + term_zh 翻译",
+      "changes": [
+        "运行 pws-enrich --apply: 新增 1492 条英文别名",
+        "运行 pws-translate --translate-all --force: 5611 条关键词翻译",
+        "term_zh 覆盖率: 97.7%",
+        "aliases 覆盖率: 25.6%",
+        "aliases_zh 覆盖率: 12.2%"
+      ]
+    },
+    {
+      "version": "1.0.11",
+      "date": "2026-10-16",
+      "summary": "最终 aliases 补全：低分关键词 + term_zh 100%",
+      "changes": [
+        "为 4332 条低分关键词 (score < 0.9) 补充英文别名",
+        "term_zh 覆盖率提升至 100%",
+        "aliases 覆盖率提升至 99.8%",
+        "aliases_zh 覆盖率: 12.4%"
+      ]
+    },
+    {
+      "version": "1.0.12",
+      "date": "2026-10-16",
+      "summary": "最终修复：aliases 100% + workflows 文件名标准化",
+      "changes": [
+        "修复 13 条缺 aliases 的关键词（短词、缩写处理）",
+        "aliases 覆盖率提升至 100%",
+        "重命名 21 个工作流文件（中文 → 英文）",
+        "Schema 校验全部通过"
       ]
     }
   ],

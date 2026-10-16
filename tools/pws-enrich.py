@@ -290,7 +290,9 @@ def main():
     for cat_file, s in all_summaries.items():
         cat = cat_file.split("/")[-1].replace(".json", "")
         print(f"  {cat:15s} created_at={s['created_at_filled']:>4} updated_at={s['updated_at_filled']:>4} priority={s['priority_changed']:>4} aliases={s['aliases_added']:>4} aliases_zh={s['aliases_zh_added']:>4}")
-    grand = {k: sum(s[k] for s in all_summaries.values()) for k in all_summaries[next(iter(all_summaries))]}
+    # Use the first summary that has content (skip empty ones like camera.json)
+    sample = next((s for s in all_summaries.values() if any(isinstance(v, int) and v > 0 for v in s.values())), {})
+    grand = {k: sum(s.get(k, 0) for s in all_summaries.values() if isinstance(s.get(k), int)) for k in sample}
     print(f"\n  TOTAL: created_at={grand['created_at_filled']:>4} updated_at={grand['updated_at_filled']:>4} priority={grand['priority_changed']:>4} aliases={grand['aliases_added']:>4} aliases_zh={grand['aliases_zh_added']:>4}")
 
     if args.apply:

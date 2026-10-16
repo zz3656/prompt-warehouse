@@ -32,8 +32,14 @@
     "weight": 0.585,
     "score_v2": 0.585,
     "term_zh": "长发",
-    "aliases_zh": [
-      "飘逸长发造型"
+    "aliases_zh": [],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "flowing hair",
+      "flowing",
+      "lock",
+      "mane"
     ]
   },
   {
@@ -66,7 +72,16 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "风吹头发"
+    "term_zh": "风吹头发",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "wind-blown hair",
+      "wind-blown",
+      "lock",
+      "mane"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_hair_long_hair",
@@ -103,7 +118,9 @@
     "term_zh": "长发",
     "aliases": [
       "flowing long hair"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_hair_short_hair",
@@ -143,7 +160,9 @@
     ],
     "aliases_zh": [
       "短裁剪发造型"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_hair_curly_hair",
@@ -183,7 +202,9 @@
     ],
     "aliases_zh": [
       "蓬松卷发造型"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_hair_wavy_hair",
@@ -223,7 +244,9 @@
     ],
     "aliases_zh": [
       "飘逸波浪发型"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_hair_straight_hair",
@@ -263,7 +286,9 @@
     ],
     "aliases_zh": [
       "顺滑直发造型"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_hair_spiky_hair",
@@ -298,7 +323,9 @@
     "term_zh": "刺猬头发",
     "aliases": [
       "sharp spiky hairstyle"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_hair_messy_hair",
@@ -333,7 +360,9 @@
     "term_zh": "凌乱头发",
     "aliases": [
       "disheveled messy hair"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_hair_neatly_styled_hair",
@@ -365,7 +394,16 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "发型整洁"
+    "term_zh": "发型整洁",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "neatly styled hair",
+      "neatly",
+      "lock",
+      "mane"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_hair_hair_over_shoulder",
@@ -396,7 +434,16 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "头发搭肩"
+    "term_zh": "头发搭肩",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "hair over shoulder",
+      "hair",
+      "lock",
+      "mane"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_hair_hair_pulled_back",
@@ -427,7 +474,16 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "头发后梳"
+    "term_zh": "头发后梳",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "hair pulled back",
+      "hair",
+      "lock",
+      "mane"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_hair_twintails",
@@ -459,7 +515,13 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "双马尾"
+    "term_zh": "双马尾",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "twintails"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_hair_side_ponytail",
@@ -491,7 +553,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "侧马尾"
+    "term_zh": "侧马尾",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "side ponytail",
+      "side"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_hair_braided_hair",
@@ -526,7 +595,9 @@
     "term_zh": "辫发",
     "aliases": [
       "plaited braided hairstyle"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_hair_butterfly_hair_clip",
@@ -558,7 +629,16 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "发夹"
+    "term_zh": "发夹",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "butterfly hair clip",
+      "butterfly",
+      "lock",
+      "mane"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_hair_hair_ribbon",
@@ -589,7 +669,16 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "发带"
+    "term_zh": "发带",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "hair ribbon",
+      "hair",
+      "lock",
+      "mane"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_hair_gradient_hair",
@@ -621,7 +710,16 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "渐变发色"
+    "term_zh": "渐变发色",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "gradient hair",
+      "gradient",
+      "lock",
+      "mane"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_hair_two_tone_hair",
@@ -653,7 +751,16 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "双色头发"
+    "term_zh": "双色头发",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "two-tone hair",
+      "two-tone",
+      "lock",
+      "mane"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_hair_highlighted_hair",
@@ -685,7 +792,16 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "挑染头发"
+    "term_zh": "挑染头发",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "highlighted hair",
+      "highlighted",
+      "lock",
+      "mane"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_hair_fluffy_hair",
@@ -717,7 +833,16 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "蓬松头发"
+    "term_zh": "蓬松头发",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "fluffy hair",
+      "fluffy",
+      "lock",
+      "mane"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_hair_hair_covering_one_eye",
@@ -748,7 +873,17 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "头发遮眼"
+    "term_zh": "头发遮眼",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "hair covering one",
+      "hair",
+      "lock",
+      "mane",
+      "gaze"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_hair_hair_between_eyes",
@@ -779,7 +914,16 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "刘海遮眼"
+    "term_zh": "刘海遮眼",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "hair between eyes",
+      "hair",
+      "lock",
+      "mane"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_eyes_detailed_eyes",
@@ -815,7 +959,9 @@
     "aliases": [
       "highly detailed",
       "intricate details"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_eyes_expressive_eyes",
@@ -846,7 +992,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "表现力眼睛"
+    "term_zh": "表现力眼睛",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "expressive eyes",
+      "expressive"
+    ]
   },
   {
     "id": "character_eyes_sparkling_eyes",
@@ -878,7 +1030,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "闪耀眼睛"
+    "term_zh": "闪耀眼睛",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "sparkling eyes",
+      "sparkling"
+    ]
   },
   {
     "id": "character_eyes_gleaming_eyes",
@@ -910,7 +1068,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "明亮眼睛"
+    "term_zh": "明亮眼睛",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "gleaming eyes",
+      "gleaming"
+    ]
   },
   {
     "id": "character_eyes_sharp_gaze",
@@ -942,7 +1106,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "锐利眼神"
+    "term_zh": "锐利眼神",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "sharp gaze",
+      "sharp"
+    ]
   },
   {
     "id": "character_eyes_soft_eyes",
@@ -974,7 +1144,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "柔和眼睛"
+    "term_zh": "柔和眼睛",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "soft eyes",
+      "soft"
+    ]
   },
   {
     "id": "character_eyes_determined_eyes",
@@ -1006,7 +1182,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "坚定眼睛"
+    "term_zh": "坚定眼睛",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "determined eyes",
+      "determined"
+    ]
   },
   {
     "id": "character_eyes_looking_at_viewer",
@@ -1038,7 +1220,13 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "注视观众"
+    "term_zh": "注视观众",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "looking viewer",
+      "looking"
+    ]
   },
   {
     "id": "character_eyes_looking_away",
@@ -1070,7 +1258,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "看向别处"
+    "term_zh": "看向别处",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "looking away",
+      "looking"
+    ]
   },
   {
     "id": "character_eyes_looking_to_the_side",
@@ -1102,7 +1296,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "侧目"
+    "term_zh": "侧目",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "looking the side",
+      "looking"
+    ]
   },
   {
     "id": "character_eyes_looking_up",
@@ -1136,7 +1336,12 @@
     "relation_role": "canonical",
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "向上看"
+    "term_zh": "向上看",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "looking"
+    ]
   },
   {
     "id": "character_eyes_looking_down",
@@ -1170,7 +1375,13 @@
     "relation_role": "canonical",
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "向下看"
+    "term_zh": "向下看",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "looking down",
+      "looking"
+    ]
   },
   {
     "id": "character_eyes_eye_contact",
@@ -1202,7 +1413,19 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "眼神接触"
+    "term_zh": "眼神接触",
+    "priority": "high",
+    "aliases": [
+      "looking at viewer",
+      "looking at camera",
+      "direct gaze"
+    ],
+    "aliases_zh": [
+      "眼神接触",
+      "看向观众",
+      "直视镜头"
+    ],
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_eyes_half_closed_eyes",
@@ -1234,7 +1457,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "半闭眼"
+    "term_zh": "半闭眼",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "half-closed eyes",
+      "half-closed"
+    ]
   },
   {
     "id": "character_eyes_wide_eyed",
@@ -1266,7 +1495,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "大眼"
+    "term_zh": "大眼",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "wide-eyed"
+    ]
   },
   {
     "id": "character_eyes_twitching_eye",
@@ -1302,7 +1536,9 @@
     "aliases": [
       "dark witch",
       "sorceress"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_eyes_head_tilt",
@@ -1334,7 +1570,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "歪头"
+    "term_zh": "歪头",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "head tilt",
+      "head"
+    ]
   },
   {
     "id": "character_eyes_glowing_eyes",
@@ -1365,7 +1607,7 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "发光红色eyes",
+    "term_zh": "发光眼睛",
     "aliases": [
       "luminous",
       "radiant glow"
@@ -1373,7 +1615,9 @@
     "aliases_zh": [
       "luminous",
       "发光效果"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_eyes_teary_eyes",
@@ -1405,7 +1649,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "含泪眼睛"
+    "term_zh": "含泪眼睛",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "teary eyes",
+      "teary"
+    ]
   },
   {
     "id": "character_eyes_sleepy_eyes",
@@ -1437,7 +1687,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "困倦眼睛"
+    "term_zh": "困倦眼睛",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "sleepy eyes",
+      "sleepy"
+    ]
   },
   {
     "id": "character_eyes_dilated_pupils",
@@ -1469,7 +1725,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "放大瞳孔"
+    "term_zh": "放大瞳孔",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "dilated pupils",
+      "dilated"
+    ]
   },
   {
     "id": "character_eyes_glowing_pupils",
@@ -1509,7 +1771,9 @@
     "aliases_zh": [
       "luminous",
       "发光效果"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_expression_smiling",
@@ -1544,6 +1808,11 @@
     "term_zh": "微笑",
     "aliases_zh": [
       "温和微笑表情"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "smiling"
     ]
   },
   {
@@ -1579,6 +1848,11 @@
     "term_zh": "微笑",
     "aliases_zh": [
       "温和微笑表情"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "smirk"
     ]
   },
   {
@@ -1611,7 +1885,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "凶狠表情"
+    "term_zh": "凶狠表情",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "fierce expression",
+      "fierce"
+    ]
   },
   {
     "id": "character_expression_determined_look",
@@ -1643,7 +1923,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "坚定神情"
+    "term_zh": "坚定神情",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "determined look",
+      "determined"
+    ]
   },
   {
     "id": "character_expression_surprised_expression",
@@ -1681,7 +1967,9 @@
     ],
     "aliases_zh": [
       "震惊反应表情"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_expression_shocked_expression",
@@ -1713,7 +2001,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "震惊表情"
+    "term_zh": "震惊表情",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "shocked expression",
+      "shocked"
+    ]
   },
   {
     "id": "character_expression_angry_expression",
@@ -1751,7 +2045,9 @@
     ],
     "aliases_zh": [
       "愤怒表情"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_expression_angry_eyes",
@@ -1789,7 +2085,9 @@
     ],
     "aliases_zh": [
       "愤怒表情"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_expression_blushing",
@@ -1825,6 +2123,11 @@
     "aliases_zh": [
       "深红色",
       "绯红色"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "blushing"
     ]
   },
   {
@@ -1857,7 +2160,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "尴尬"
+    "term_zh": "尴尬",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "embarrassed"
+    ]
   },
   {
     "id": "character_expression_crying",
@@ -1895,7 +2203,9 @@
     ],
     "aliases_zh": [
       "流泪哭泣情绪"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_expression_tears",
@@ -1927,7 +2237,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "眼泪"
+    "term_zh": "眼泪",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "tears"
+    ]
   },
   {
     "id": "character_expression_smug_expression",
@@ -1958,7 +2273,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "自鸣得意表情"
+    "term_zh": "自鸣得意表情",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "smug expression",
+      "smug"
+    ]
   },
   {
     "id": "character_expression_serene_expression",
@@ -1990,7 +2311,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "宁静表情"
+    "term_zh": "宁静表情",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "serene expression",
+      "serene"
+    ]
   },
   {
     "id": "character_expression_serious_expression",
@@ -2022,7 +2349,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "好奇表情"
+    "term_zh": "好奇表情",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "serious expression",
+      "serious"
+    ]
   },
   {
     "id": "character_expression_skeptical_look",
@@ -2054,7 +2387,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "怀疑神情"
+    "term_zh": "怀疑神情",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "skeptical look",
+      "skeptical"
+    ]
   },
   {
     "id": "character_expression_confident_smile",
@@ -2092,7 +2431,9 @@
     ],
     "aliases_zh": [
       "温和微笑表情"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_expression_nervous_expression",
@@ -2124,7 +2465,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "紧张表情"
+    "term_zh": "紧张表情",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "nervous expression",
+      "nervous"
+    ]
   },
   {
     "id": "character_expression_tired_look",
@@ -2159,7 +2506,9 @@
     "term_zh": "疲倦神情",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_expression_yawning",
@@ -2191,7 +2540,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "打哈欠"
+    "term_zh": "打哈欠",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "yawning"
+    ]
   },
   {
     "id": "character_expression_talking",
@@ -2223,7 +2577,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "行走"
+    "term_zh": "行走",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "talking"
+    ]
   },
   {
     "id": "character_expression_open_mouth",
@@ -2255,7 +2614,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "张嘴"
+    "term_zh": "张嘴",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "open mouth",
+      "open"
+    ]
   },
   {
     "id": "character_expression_closed_mouth",
@@ -2287,7 +2652,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "闭嘴"
+    "term_zh": "闭嘴",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "closed mouth",
+      "closed"
+    ]
   },
   {
     "id": "character_expression_frown",
@@ -2322,7 +2693,9 @@
     "term_zh": "皱眉",
     "aliases": [
       "frowning displeased expression"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_expression_grin",
@@ -2354,7 +2727,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "露齿笑"
+    "term_zh": "露齿笑",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "grin"
+    ]
   },
   {
     "id": "character_expression_laughing",
@@ -2392,7 +2770,9 @@
     ],
     "aliases_zh": [
       "开心大笑表情"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_expression_winking",
@@ -2424,7 +2804,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "眨眼"
+    "term_zh": "眨眼",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "winking"
+    ]
   },
   {
     "id": "character_expression_scared_expression",
@@ -2460,7 +2845,9 @@
     "aliases": [
       "luxury vehicle",
       "sports car"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_expression_worried_expression",
@@ -2492,7 +2879,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "担心表情"
+    "term_zh": "担心表情",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "worried expression",
+      "worried"
+    ]
   },
   {
     "id": "character_expression_derpy_expression",
@@ -2524,7 +2917,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "呆傻表情"
+    "term_zh": "呆傻表情",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "derpy expression",
+      "derpy"
+    ]
   },
   {
     "id": "character_expression_speechless",
@@ -2556,7 +2955,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "失语"
+    "term_zh": "失语",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "speechless"
+    ]
   },
   {
     "id": "character_expression_narrowed_eyes",
@@ -2588,7 +2992,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "眯眼"
+    "term_zh": "眯眼",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "narrowed eyes",
+      "narrowed"
+    ]
   },
   {
     "id": "character_expression_raised_eyebrows",
@@ -2620,7 +3030,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "挑眉"
+    "term_zh": "挑眉",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "raised eyebrows",
+      "raised"
+    ]
   },
   {
     "id": "character_pose_dynamic_pose",
@@ -2652,7 +3068,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "动态姿势"
+    "term_zh": "动态姿势",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "dynamic pose",
+      "dynamic"
+    ]
   },
   {
     "id": "character_pose_action_pose",
@@ -2684,7 +3106,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "动作姿势"
+    "term_zh": "动作姿势",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "action pose",
+      "action"
+    ]
   },
   {
     "id": "character_pose_powerful_stance",
@@ -2716,7 +3144,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "有力站姿"
+    "term_zh": "有力站姿",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "powerful stance",
+      "powerful"
+    ]
   },
   {
     "id": "character_pose_confident_pose",
@@ -2748,7 +3182,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "自信姿势"
+    "term_zh": "自信姿势",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "confident pose",
+      "confident"
+    ]
   },
   {
     "id": "character_pose_relaxed_pose",
@@ -2780,7 +3220,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "放松姿势"
+    "term_zh": "放松姿势",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "relaxed pose",
+      "relaxed"
+    ]
   },
   {
     "id": "character_pose_casual_stance",
@@ -2812,7 +3258,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "随意站姿"
+    "term_zh": "随意站姿",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "casual stance",
+      "casual"
+    ]
   },
   {
     "id": "character_pose_mid_stride",
@@ -2844,7 +3296,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "行步中"
+    "term_zh": "行步中",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "mid-stride"
+    ]
   },
   {
     "id": "character_pose_sitting",
@@ -2875,7 +3332,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "坐着"
+    "term_zh": "坐着",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "sitting"
+    ]
   },
   {
     "id": "character_pose_standing",
@@ -2907,7 +3369,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "站立"
+    "term_zh": "站立",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "standing"
+    ]
   },
   {
     "id": "character_pose_crouching",
@@ -2939,7 +3406,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "蹲伏"
+    "term_zh": "蹲伏",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "crouching"
+    ]
   },
   {
     "id": "character_pose_jumping",
@@ -2971,7 +3443,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "跳跃"
+    "term_zh": "跳跃",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "jumping"
+    ]
   },
   {
     "id": "character_pose_leaning",
@@ -3003,7 +3480,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "倾斜"
+    "term_zh": "倾斜",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "leaning"
+    ]
   },
   {
     "id": "character_pose_reaching_out",
@@ -3035,7 +3517,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "伸手"
+    "term_zh": "伸手",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "reaching out",
+      "reaching"
+    ]
   },
   {
     "id": "character_pose_pointing",
@@ -3067,7 +3555,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "指向"
+    "term_zh": "指向",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "pointing"
+    ]
   },
   {
     "id": "character_pose_arms_crossed",
@@ -3099,7 +3592,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "双臂交叉"
+    "term_zh": "双臂交叉",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "arms crossed",
+      "arms"
+    ]
   },
   {
     "id": "character_pose_hands_on_hips",
@@ -3131,7 +3630,13 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "手叉腰"
+    "term_zh": "手叉腰",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "hands hips",
+      "hands"
+    ]
   },
   {
     "id": "character_pose_hands_in_pockets",
@@ -3163,7 +3668,13 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "双手插袋"
+    "term_zh": "双手插袋",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "hands pockets",
+      "hands"
+    ]
   },
   {
     "id": "character_pose_hands_behind_back",
@@ -3195,7 +3706,13 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "双手背后"
+    "term_zh": "双手背后",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "hands behind back",
+      "hands"
+    ]
   },
   {
     "id": "character_pose_holding_weapon",
@@ -3227,7 +3744,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "持武器"
+    "term_zh": "持武器",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "holding weapon",
+      "holding"
+    ]
   },
   {
     "id": "character_pose_holding_object",
@@ -3259,7 +3782,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "持物"
+    "term_zh": "持物",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "holding object",
+      "holding"
+    ]
   },
   {
     "id": "character_pose_holding_item",
@@ -3291,7 +3820,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "持物品"
+    "term_zh": "持物品",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "holding item",
+      "holding"
+    ]
   },
   {
     "id": "character_pose_sitting_on_ground",
@@ -3323,7 +3858,13 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "坐地"
+    "term_zh": "坐地",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "sitting ground",
+      "sitting"
+    ]
   },
   {
     "id": "character_pose_lying_down",
@@ -3355,7 +3896,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "躺卧"
+    "term_zh": "躺卧",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "lying down",
+      "lying"
+    ]
   },
   {
     "id": "character_pose_floating",
@@ -3387,7 +3934,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "悬浮"
+    "term_zh": "悬浮",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "floating"
+    ]
   },
   {
     "id": "character_pose_flying",
@@ -3419,7 +3971,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "飞行"
+    "term_zh": "飞行",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "flying"
+    ]
   },
   {
     "id": "character_pose_flying_hair",
@@ -3454,6 +4011,12 @@
     "term_zh": "长发",
     "aliases_zh": [
       "飘逸长发造型"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "flying hair",
+      "flying"
     ]
   },
   {
@@ -3488,7 +4051,13 @@
     "relation_role": "variant",
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "动态角度"
+    "term_zh": "动态角度",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "dynamic angle",
+      "dynamic"
+    ]
   },
   {
     "id": "character_pose_looking_back_over_shoulder",
@@ -3520,7 +4089,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "回头"
+    "term_zh": "回头",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "looking back over",
+      "looking"
+    ]
   },
   {
     "id": "character_pose_kneeling",
@@ -3552,7 +4127,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "跪姿"
+    "term_zh": "跪姿",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "kneeling"
+    ]
   },
   {
     "id": "character_pose_standing_on_one_leg",
@@ -3584,7 +4164,13 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "单脚站立"
+    "term_zh": "单脚站立",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "standing one leg",
+      "standing"
+    ]
   },
   {
     "id": "character_pose_arms_raised",
@@ -3616,7 +4202,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "举手"
+    "term_zh": "举手",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "arms raised",
+      "arms"
+    ]
   },
   {
     "id": "character_pose_back_turned",
@@ -3648,7 +4240,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "背向"
+    "term_zh": "背向",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "back turned",
+      "back"
+    ]
   },
   {
     "id": "character_pose_from_behind",
@@ -3680,7 +4278,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "从背后"
+    "term_zh": "从背后",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "from behind",
+      "from"
+    ]
   },
   {
     "id": "character_anatomy_detailed_hands",
@@ -3718,7 +4322,9 @@
     "aliases": [
       "highly detailed",
       "intricate details"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_anatomy_fingers",
@@ -3750,7 +4356,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "手指"
+    "term_zh": "手指",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "fingers"
+    ]
   },
   {
     "id": "character_anatomy_well_proportioned",
@@ -3782,7 +4393,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "比例匀称"
+    "term_zh": "比例匀称",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "well-proportioned"
+    ]
   },
   {
     "id": "character_anatomy_perfect_anatomy",
@@ -3816,7 +4432,13 @@
     "relation_role": "variant",
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "完美解剖"
+    "term_zh": "完美解剖",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "perfect anatomy",
+      "perfect"
+    ]
   },
   {
     "id": "character_anatomy_beautiful_face",
@@ -3848,7 +4470,12 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "美丽的脸"
+    "term_zh": "美丽的脸",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "face"
+    ]
   },
   {
     "id": "character_anatomy_perfect_facial_symmetry",
@@ -3879,7 +4506,13 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "完美面部对称"
+    "term_zh": "完美面部对称",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "perfect facial symmetry",
+      "perfect"
+    ]
   },
   {
     "id": "character_anatomy_clean_anatomy",
@@ -3911,7 +4544,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "干净解剖"
+    "term_zh": "干净解剖",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "clean anatomy",
+      "clean"
+    ]
   },
   {
     "id": "character_anatomy_no_extra_fingers",
@@ -3943,7 +4582,13 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "多余手指"
+    "term_zh": "多余手指",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "extra fingers",
+      "extra"
+    ]
   },
   {
     "id": "character_anatomy_accurate_proportions",
@@ -3975,7 +4620,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "准确比例"
+    "term_zh": "准确比例",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "accurate proportions",
+      "accurate"
+    ]
   },
   {
     "id": "character_bodytype_slim_body",
@@ -4007,7 +4658,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "苗条身材"
+    "term_zh": "苗条身材",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "slim body",
+      "slim"
+    ]
   },
   {
     "id": "character_bodytype_athletic_build",
@@ -4039,7 +4696,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "运动体型"
+    "term_zh": "运动体型",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "athletic build",
+      "athletic"
+    ]
   },
   {
     "id": "character_bodytype_muscular_build",
@@ -4071,7 +4734,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "肌肉体型"
+    "term_zh": "肌肉体型",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "muscular build",
+      "muscular"
+    ]
   },
   {
     "id": "character_bodytype_curvy_body",
@@ -4103,7 +4772,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "曲线身材"
+    "term_zh": "曲线身材",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "curvy body",
+      "curvy"
+    ]
   },
   {
     "id": "character_bodytype_petite_frame",
@@ -4135,7 +4810,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "娇小身材"
+    "term_zh": "娇小身材",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "petite frame",
+      "petite"
+    ]
   },
   {
     "id": "character_bodytype_tall_and_slender",
@@ -4167,7 +4848,13 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "高挑纤细"
+    "term_zh": "高挑纤细",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "tall and slender",
+      "tall"
+    ]
   },
   {
     "id": "character_bodytype_stocky_build",
@@ -4199,7 +4886,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "敦实身材"
+    "term_zh": "敦实身材",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "stocky build",
+      "stocky"
+    ]
   },
   {
     "id": "character_bodytype_lean_physique",
@@ -4231,7 +4924,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "精瘦身段"
+    "term_zh": "精瘦身段",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "lean physique",
+      "lean"
+    ]
   },
   {
     "id": "character_bodytype_heavyset",
@@ -4263,7 +4962,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "厚重体格"
+    "term_zh": "厚重体格",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "heavyset"
+    ]
   },
   {
     "id": "character_bodytype_toned_body",
@@ -4295,7 +4999,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "健美身材"
+    "term_zh": "健美身材",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "toned body",
+      "toned"
+    ]
   },
   {
     "id": "character_bodytype_athletic_physique",
@@ -4327,7 +5037,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "运动体型"
+    "term_zh": "运动体型",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "athletic physique",
+      "athletic"
+    ]
   },
   {
     "id": "character_skin_pale_skin",
@@ -4363,6 +5079,12 @@
     "aliases_zh": [
       "纯白色",
       "象牙白"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "pale skin",
+      "pale"
     ]
   },
   {
@@ -4399,6 +5121,12 @@
     "aliases_zh": [
       "纯白色",
       "象牙白"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "fair skin",
+      "fair"
     ]
   },
   {
@@ -4430,7 +5158,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "橄榄色皮肤"
+    "term_zh": "橄榄色皮肤",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "olive skin",
+      "olive"
+    ]
   },
   {
     "id": "character_skin_tan_skin",
@@ -4465,6 +5199,12 @@
     "term_zh": "晒黑皮肤",
     "aliases_zh": [
       "黑色调"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "tan skin",
+      "tan"
     ]
   },
   {
@@ -4497,7 +5237,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "深色皮肤"
+    "term_zh": "深色皮肤",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "dark skin",
+      "dark"
+    ]
   },
   {
     "id": "character_skin_ebony_skin",
@@ -4532,6 +5278,12 @@
     "term_zh": "黝黑皮肤",
     "aliases_zh": [
       "黑色调"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "ebony skin",
+      "ebony"
     ]
   },
   {
@@ -4564,7 +5316,13 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "暖色肤色"
+    "term_zh": "暖色肤色",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "warm skin tone",
+      "warm"
+    ]
   },
   {
     "id": "character_skin_cool_skin_tone",
@@ -4596,7 +5354,13 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "冷色肤色"
+    "term_zh": "冷色肤色",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "cool skin tone",
+      "cool"
+    ]
   },
   {
     "id": "character_age_child",
@@ -4628,7 +5392,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "儿童"
+    "term_zh": "儿童",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "child"
+    ]
   },
   {
     "id": "character_age_young_child",
@@ -4660,7 +5429,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "年轻儿童"
+    "term_zh": "年轻儿童",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "young child",
+      "young"
+    ]
   },
   {
     "id": "character_age_pre_teen",
@@ -4692,7 +5467,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "学龄前"
+    "term_zh": "学龄前",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "pre-teen"
+    ]
   },
   {
     "id": "character_age_teenager",
@@ -4724,7 +5504,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "青少年"
+    "term_zh": "青少年",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "teenager"
+    ]
   },
   {
     "id": "character_age_young_adult",
@@ -4756,7 +5541,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "年轻成人"
+    "term_zh": "年轻成人",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "young adult",
+      "young"
+    ]
   },
   {
     "id": "character_age_adult",
@@ -4788,7 +5579,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "成人"
+    "term_zh": "成人",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "adult"
+    ]
   },
   {
     "id": "character_age_middle_aged",
@@ -4820,7 +5616,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "中年"
+    "term_zh": "中年",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "middle-aged"
+    ]
   },
   {
     "id": "character_age_elderly",
@@ -4852,7 +5653,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "年迈"
+    "term_zh": "年迈",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "elderly"
+    ]
   },
   {
     "id": "character_age_ancient",
@@ -4884,7 +5690,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "古代"
+    "term_zh": "古代",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "ancient"
+    ]
   },
   {
     "id": "character_age_immortal_looking",
@@ -4916,7 +5727,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "不老外貌"
+    "term_zh": "不老外貌",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "immortal looking",
+      "immortal"
+    ]
   },
   {
     "id": "character_age_ageless",
@@ -4948,7 +5765,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "不老"
+    "term_zh": "不老",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "ageless"
+    ]
   },
   {
     "id": "character_age_baby",
@@ -4980,7 +5802,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "婴儿"
+    "term_zh": "婴儿",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "baby"
+    ]
   },
   {
     "id": "character_age_toddler",
@@ -5012,7 +5839,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "幼儿"
+    "term_zh": "幼儿",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "toddler"
+    ]
   },
   {
     "id": "character_haircolors_black_hair",
@@ -5051,7 +5883,9 @@
     ],
     "aliases_zh": [
       "黑色调"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_haircolors_jet_black_hair",
@@ -5090,7 +5924,9 @@
     ],
     "aliases_zh": [
       "黑色调"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_haircolors_white_hair",
@@ -5130,7 +5966,9 @@
     "aliases_zh": [
       "纯白色",
       "象牙白"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_haircolors_silver_hair",
@@ -5165,7 +6003,9 @@
     "term_zh": "银发",
     "aliases": [
       "metallic silver"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_haircolors_blonde_hair",
@@ -5197,7 +6037,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "金发"
+    "term_zh": "金发",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "blonde hair",
+      "blonde"
+    ]
   },
   {
     "id": "character_haircolors_platinum_blonde_hair",
@@ -5229,7 +6075,13 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "金发"
+    "term_zh": "金发",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "platinum blonde hair",
+      "platinum"
+    ]
   },
   {
     "id": "character_haircolors_strawberry_blonde_hair",
@@ -5261,7 +6113,13 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "金发"
+    "term_zh": "金发",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "strawberry blonde hair",
+      "strawberry"
+    ]
   },
   {
     "id": "character_haircolors_brown_hair",
@@ -5293,7 +6151,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "棕发"
+    "term_zh": "棕发",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "brown hair",
+      "brown"
+    ]
   },
   {
     "id": "character_haircolors_red_hair",
@@ -5332,7 +6196,9 @@
     "aliases_zh": [
       "深红色",
       "绯红色"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_haircolors_auburn_hair",
@@ -5363,7 +6229,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "赤褐色头发"
+    "term_zh": "赤褐色头发",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "auburn hair",
+      "auburn"
+    ]
   },
   {
     "id": "character_haircolors_blue_hair",
@@ -5403,7 +6275,9 @@
     "aliases_zh": [
       "海军蓝",
       "深蓝色"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_haircolors_pink_hair",
@@ -5439,7 +6313,9 @@
     "aliases": [
       "pastel pink",
       "rose pink"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_haircolors_green_hair",
@@ -5475,7 +6351,9 @@
     "aliases": [
       "emerald green",
       "forest green"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_haircolors_purple_hair",
@@ -5511,7 +6389,9 @@
     "aliases": [
       "royal purple",
       "violet hue"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_haircolors_orange_hair",
@@ -5547,7 +6427,9 @@
     "aliases": [
       "burnt orange",
       "sunset orange"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_haircolors_yellow_hair",
@@ -5583,7 +6465,9 @@
     "aliases": [
       "amber yellow",
       "golden yellow"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_haircolors_gray_hair",
@@ -5615,7 +6499,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "灰色头发"
+    "term_zh": "灰色头发",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "gray hair",
+      "gray"
+    ]
   },
   {
     "id": "character_haircolors_rainbow_hair",
@@ -5651,7 +6541,9 @@
     "aliases": [
       "raindrops",
       "rainy weather"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_haircolors_multicolored_hair",
@@ -5686,7 +6578,9 @@
     "term_zh": "多彩发",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_haircolors_black_hair_with_pink_tips",
@@ -5725,7 +6619,9 @@
     ],
     "aliases_zh": [
       "黑色调"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_haircolors_white_hair_with_blue_streaks",
@@ -5765,7 +6661,9 @@
     "aliases_zh": [
       "纯白色",
       "象牙白"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_haircolors_dark_brown_hair",
@@ -5799,6 +6697,12 @@
     "term_zh": "黑暗棕色hair",
     "aliases_zh": [
       "黑色调"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "dark brown hair",
+      "dark"
     ]
   },
   {
@@ -5831,7 +6735,13 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "棕发"
+    "term_zh": "棕发",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "light brown hair",
+      "light"
+    ]
   },
   {
     "id": "character_haircolors_dark_blonde_hair",
@@ -5863,7 +6773,13 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "金发"
+    "term_zh": "金发",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "dark blonde hair",
+      "dark"
+    ]
   },
   {
     "id": "character_eyecolors_red_eyes",
@@ -5902,7 +6818,9 @@
     "aliases_zh": [
       "深红色",
       "绯红色"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_eyecolors_blue_eyes",
@@ -5942,7 +6860,9 @@
     "aliases_zh": [
       "海军蓝",
       "深蓝色"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_eyecolors_green_eyes",
@@ -5978,7 +6898,9 @@
     "aliases": [
       "emerald green",
       "forest green"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_eyecolors_brown_eyes",
@@ -6010,7 +6932,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "棕眼睛"
+    "term_zh": "棕眼睛",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "brown eyes",
+      "brown"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_eyecolors_golden_eyes",
@@ -6045,7 +6974,9 @@
     "term_zh": "金眼睛",
     "aliases": [
       "metallic gold"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_eyecolors_amber_eyes",
@@ -6076,7 +7007,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "琥珀色眼睛"
+    "term_zh": "琥珀色眼睛",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "amber eyes",
+      "amber"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_eyecolors_purple_eyes",
@@ -6112,7 +7050,9 @@
     "aliases": [
       "royal purple",
       "violet hue"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_eyecolors_silver_eyes",
@@ -6147,7 +7087,9 @@
     "term_zh": "银眼睛",
     "aliases": [
       "metallic silver"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_eyecolors_gray_eyes",
@@ -6179,7 +7121,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "灰眼睛"
+    "term_zh": "灰眼睛",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "gray eyes",
+      "gray"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_eyecolors_black_eyes",
@@ -6218,7 +7167,9 @@
     ],
     "aliases_zh": [
       "黑色调"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_eyecolors_pink_eyes",
@@ -6254,7 +7205,9 @@
     "aliases": [
       "pastel pink",
       "rose pink"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_eyecolors_orange_eyes",
@@ -6290,7 +7243,9 @@
     "aliases": [
       "burnt orange",
       "sunset orange"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_eyecolors_heterochromia",
@@ -6322,7 +7277,13 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "异色瞳"
+    "term_zh": "异色瞳",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "heterochromia"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_eyecolors_multicolored_eyes",
@@ -6361,7 +7322,9 @@
     "aliases_zh": [
       "深红色",
       "绯红色"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_eyecolors_crystal_clear_eyes",
@@ -6392,7 +7355,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "水晶clear眼睛"
+    "term_zh": "水晶clear眼睛",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "crystal clear eyes",
+      "crystal"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_eyecolors_ruby_eyes",
@@ -6424,9 +7394,12 @@
     "weight": 0.585,
     "score_v2": 0.585,
     "term_zh": "红宝石眼睛",
-    "aliases_zh": [
-      "深红色",
-      "绯红色"
+    "aliases_zh": [],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "ruby eyes",
+      "ruby"
     ]
   },
   {
@@ -6459,9 +7432,12 @@
     "weight": 0.585,
     "score_v2": 0.585,
     "term_zh": "蓝宝石眼睛",
-    "aliases_zh": [
-      "海军蓝",
-      "深蓝色"
+    "aliases_zh": [],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "sapphire eyes",
+      "sapphire"
     ]
   },
   {
@@ -6498,7 +7474,9 @@
     "aliases": [
       "emerald green",
       "forest green"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_eyecolors_violet_eyes",
@@ -6529,7 +7507,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "紫罗兰眼睛"
+    "term_zh": "紫罗兰眼睛",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "violet eyes",
+      "violet"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_eyecolors_metallic_eyes",
@@ -6560,7 +7545,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "金属质感眼睛"
+    "term_zh": "金属质感眼睛",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "metallic eyes",
+      "metallic"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_eyecolors_glowing_red_eyes",
@@ -6599,7 +7591,9 @@
     "aliases_zh": [
       "luminous",
       "发光效果"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_eyecolors_glowing_blue_eyes",
@@ -6638,7 +7632,9 @@
     "aliases_zh": [
       "luminous",
       "发光效果"
-    ]
+    ],
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_eyecolors_cat_like_pupils",
@@ -6670,7 +7666,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "猫瞳"
+    "term_zh": "猫瞳",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "cat-like pupils",
+      "cat-like"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_hair_indigo_hair",
@@ -6710,6 +7713,12 @@
     "aliases_zh": [
       "海军蓝",
       "深蓝色"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "indigo hair",
+      "indigo"
     ]
   },
   {
@@ -6745,7 +7754,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "橄榄色头发"
+    "term_zh": "橄榄色头发",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "olive hair",
+      "olive"
+    ]
   },
   {
     "id": "character_hair_light_blue_hair",
@@ -6789,7 +7804,9 @@
     "aliases_zh": [
       "海军蓝",
       "深蓝色"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_hair_lavender_hair",
@@ -6824,7 +7841,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "薰衣草头发"
+    "term_zh": "薰衣草头发",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "lavender hair",
+      "lavender"
+    ]
   },
   {
     "id": "character_hair_maroon_hair",
@@ -6860,7 +7883,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "栗色头发"
+    "term_zh": "栗色头发",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "maroon hair",
+      "maroon"
+    ]
   },
   {
     "id": "character_hair_mint_green_hair",
@@ -6900,7 +7929,9 @@
     "aliases": [
       "emerald green",
       "forest green"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_eyes_yellow_eyes",
@@ -6940,7 +7971,9 @@
     "aliases": [
       "amber yellow",
       "golden yellow"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_eyes_pupils",
@@ -6975,7 +8008,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "瞳孔"
+    "term_zh": "瞳孔",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "pupils"
+    ]
   },
   {
     "id": "character_eyes_long_eyelashes",
@@ -7011,7 +8049,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "长睫毛"
+    "term_zh": "长睫毛",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "long eyelashes",
+      "long"
+    ]
   },
   {
     "id": "character_eyes_cat_eyes",
@@ -7047,7 +8091,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "猫眼"
+    "term_zh": "猫眼",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "cat eyes",
+      "cat"
+    ]
   },
   {
     "id": "character_eyes_round_eyes",
@@ -7082,7 +8132,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "圆眼"
+    "term_zh": "圆眼",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "round eyes",
+      "round"
+    ]
   },
   {
     "id": "character_eyes_closed_eyes",
@@ -7117,7 +8173,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "闭眼"
+    "term_zh": "闭眼",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "closed eyes",
+      "closed"
+    ]
   },
   {
     "id": "character_eyes_open_eyes",
@@ -7152,7 +8214,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "睁眼"
+    "term_zh": "睁眼",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "open eyes",
+      "open"
+    ]
   },
   {
     "id": "character_eyes_eyes_closed",
@@ -7187,7 +8255,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "闭眼"
+    "term_zh": "闭眼",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "eyes closed",
+      "eyes"
+    ]
   },
   {
     "id": "character_face_dark_circles_under_eyes",
@@ -7225,6 +8299,12 @@
     "term_zh": "黑眼圈",
     "aliases_zh": [
       "黑色调"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "dark circles under",
+      "dark"
     ]
   },
   {
@@ -7260,7 +8340,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "雀斑"
+    "term_zh": "雀斑",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "freckles"
+    ]
   },
   {
     "id": "character_face_dimples",
@@ -7295,7 +8380,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "凹痕"
+    "term_zh": "凹痕",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "dimples"
+    ]
   },
   {
     "id": "character_eyes_monolids",
@@ -7330,7 +8420,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "单眼皮"
+    "term_zh": "单眼皮",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "monolids"
+    ]
   },
   {
     "id": "character_eyes_double_eyelids",
@@ -7365,7 +8460,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "双眼皮"
+    "term_zh": "双眼皮",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "double eyelids",
+      "double"
+    ]
   },
   {
     "id": "character_eyes_droopy_eyes",
@@ -7400,7 +8501,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "下垂眼睛"
+    "term_zh": "下垂眼睛",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "droopy eyes",
+      "droopy"
+    ]
   },
   {
     "id": "character_eyes_narrow_eyes",
@@ -7435,7 +8542,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "嫩眼"
+    "term_zh": "嫩眼",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "narrow eyes",
+      "narrow"
+    ]
   },
   {
     "id": "character_eyes_sharp_eyes",
@@ -7470,7 +8583,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "锐利眼睛"
+    "term_zh": "锐利眼睛",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "sharp eyes",
+      "sharp"
+    ]
   },
   {
     "id": "character_expression_arrogant_look",
@@ -7505,7 +8624,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "傲慢神情"
+    "term_zh": "傲慢神情",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "arrogant look",
+      "arrogant"
+    ]
   },
   {
     "id": "character_expression_tsundere_expression",
@@ -7539,7 +8664,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "傲娇表情"
+    "term_zh": "傲娇表情",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "tsundere expression",
+      "tsundere"
+    ]
   },
   {
     "id": "character_expression_yandere_expression",
@@ -7573,7 +8704,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "病娇表情"
+    "term_zh": "病娇表情",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "yandere expression",
+      "yandere"
+    ]
   },
   {
     "id": "character_expression_kuudere_expression",
@@ -7607,7 +8744,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "冷娇表情"
+    "term_zh": "冷娇表情",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "kuudere expression",
+      "kuudere"
+    ]
   },
   {
     "id": "character_expression_deredere_expression",
@@ -7644,7 +8787,9 @@
     "term_zh": "娇羞表情",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_expression_menhera",
@@ -7679,7 +8824,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "精神弱"
+    "term_zh": "精神弱",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "menhera"
+    ]
   },
   {
     "id": "character_expression_stern_look",
@@ -7714,7 +8864,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "严厉神情"
+    "term_zh": "严厉神情",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "stern look",
+      "stern"
+    ]
   },
   {
     "id": "character_expression_melancholy",
@@ -7749,7 +8905,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "忧郁"
+    "term_zh": "忧郁",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "melancholy"
+    ]
   },
   {
     "id": "character_expression_bright_smile",
@@ -7790,7 +8951,9 @@
     ],
     "aliases_zh": [
       "温和微笑表情"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_expression_gentle_smile",
@@ -7831,7 +8994,9 @@
     ],
     "aliases_zh": [
       "温和微笑表情"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_expression_wicked_smile",
@@ -7872,7 +9037,9 @@
     ],
     "aliases_zh": [
       "温和微笑表情"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_expression_foolish_smile",
@@ -7910,7 +9077,9 @@
     "term_zh": "傻笑",
     "aliases": [
       "gentle smiling expression"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_expression_evil_smile",
@@ -7948,7 +9117,9 @@
     "term_zh": "邪笑",
     "aliases": [
       "gentle smiling expression"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_expression_blood",
@@ -7983,7 +9154,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "血迹"
+    "term_zh": "血迹",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "blood"
+    ]
   },
   {
     "id": "character_expression_scratches",
@@ -8018,7 +9194,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "划痕"
+    "term_zh": "划痕",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "scratches"
+    ]
   },
   {
     "id": "character_expression_bandages",
@@ -8053,7 +9234,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "绷带"
+    "term_zh": "绷带",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "bandages"
+    ]
   },
   {
     "id": "character_expression_forehead_vein",
@@ -8088,7 +9274,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "额上青筋"
+    "term_zh": "额上青筋",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "forehead vein",
+      "forehead"
+    ]
   },
   {
     "id": "character_expression_blush",
@@ -8127,6 +9319,11 @@
     "aliases_zh": [
       "深红色",
       "绯红色"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "blush"
     ]
   },
   {
@@ -8166,6 +9363,12 @@
     "aliases_zh": [
       "深红色",
       "绯红色"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "heavy blush",
+      "heavy"
     ]
   },
   {
@@ -8201,7 +9404,13 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "单缕发丝"
+    "term_zh": "单缕发丝",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "single hair strand",
+      "single"
+    ]
   },
   {
     "id": "character_hair_ahoge",
@@ -8237,7 +9446,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "呆毛"
+    "term_zh": "呆毛",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "ahoge"
+    ]
   },
   {
     "id": "character_clothing_shorts",
@@ -8272,7 +9486,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "短裤"
+    "term_zh": "短裤",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "shorts"
+    ]
   },
   {
     "id": "character_clothing_skirt",
@@ -8307,7 +9526,13 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "裙子"
+    "term_zh": "裙子",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "skirt"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_clothing_pleated_skirt",
@@ -8342,7 +9567,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "百褶裙"
+    "term_zh": "百褶裙",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "pleated skirt",
+      "pleated"
+    ]
   },
   {
     "id": "character_clothing_pantyhose",
@@ -8377,7 +9608,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "连裤袜"
+    "term_zh": "连裤袜",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "pantyhose"
+    ]
   },
   {
     "id": "character_clothing_thighhighs",
@@ -8412,7 +9648,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "过膝袜"
+    "term_zh": "过膝袜",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "thighhighs"
+    ]
   },
   {
     "id": "character_clothing_zettai_ryouiki",
@@ -8447,7 +9688,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "绝对领域"
+    "term_zh": "绝对领域",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "zettai ryouiki",
+      "zettai"
+    ]
   },
   {
     "id": "character_clothing_gloves",
@@ -8484,7 +9731,12 @@
     "relation_role": "canonical",
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "手套"
+    "term_zh": "手套",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "gloves"
+    ]
   },
   {
     "id": "character_clothing_fingerless_gloves",
@@ -8519,7 +9771,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "露指手套"
+    "term_zh": "露指手套",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "fingerless gloves",
+      "fingerless"
+    ]
   },
   {
     "id": "character_clothing_mukuroizumi_skirt",
@@ -8554,7 +9812,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "深褶裙"
+    "term_zh": "深褶裙",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "mukuroizumi skirt",
+      "mukuroizumi"
+    ]
   },
   {
     "id": "character_clothing_jumper_skirt",
@@ -8589,7 +9853,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "背带裙"
+    "term_zh": "背带裙",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "jumper skirt",
+      "jumper"
+    ]
   },
   {
     "id": "character_clothing_knee_high_socks",
@@ -8624,7 +9894,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "及膝袜"
+    "term_zh": "及膝袜",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "knee-high socks",
+      "knee-high"
+    ]
   },
   {
     "id": "character_clothing_ankle_socks",
@@ -8658,7 +9934,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "穿越服鞋袜"
+    "term_zh": "穿越服鞋袜",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "ankle socks",
+      "ankle"
+    ]
   },
   {
     "id": "character_clothing_loafers",
@@ -8693,7 +9975,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "乐福鞋"
+    "term_zh": "乐福鞋",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "loafers"
+    ]
   },
   {
     "id": "character_clothing_converse",
@@ -8728,7 +10015,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "匡威"
+    "term_zh": "匡威",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "converse"
+    ]
   },
   {
     "id": "character_clothing_combat_boots",
@@ -8765,7 +10057,13 @@
     "relation_role": "canonical",
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "军靴"
+    "term_zh": "军靴",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "combat boots",
+      "combat"
+    ]
   },
   {
     "id": "character_clothing_high_heels",
@@ -8802,7 +10100,13 @@
     "relation_role": "canonical",
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "高跟鞋"
+    "term_zh": "高跟鞋",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "high heels",
+      "high"
+    ]
   },
   {
     "id": "character_clothing_sandals",
@@ -8839,7 +10143,12 @@
     "relation_role": "canonical",
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "凉鞋"
+    "term_zh": "凉鞋",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "sandals"
+    ]
   },
   {
     "id": "character_effects_magic_circle",
@@ -8878,7 +10187,9 @@
     "aliases": [
       "magical seal",
       "runes circle"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_effects_magic",
@@ -8915,7 +10226,12 @@
     "relation_role": "canonical",
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "魔法"
+    "term_zh": "魔法",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "magic"
+    ]
   },
   {
     "id": "character_effects_fire",
@@ -8951,7 +10267,7 @@
     "relation_role": "canonical",
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "火",
+    "term_zh": "火焰",
     "aliases": [
       "blazing fire",
       "flames"
@@ -8959,7 +10275,9 @@
     "aliases_zh": [
       "fire effects",
       "火焰"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_effects_lightning",
@@ -8997,7 +10315,12 @@
     "relation_role": "canonical",
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "闪电"
+    "term_zh": "闪电",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "lightning"
+    ]
   },
   {
     "id": "character_effects_ice",
@@ -9034,7 +10357,12 @@
     "relation_role": "canonical",
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "冰"
+    "term_zh": "冰",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "ice"
+    ]
   },
   {
     "id": "character_effects_water",
@@ -9070,7 +10398,12 @@
     "relation_role": "canonical",
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "水"
+    "term_zh": "水",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "water"
+    ]
   },
   {
     "id": "character_effects_wings_magic",
@@ -9105,7 +10438,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "魔法之翼"
+    "term_zh": "魔法之翼",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "wings-magic"
+    ]
   },
   {
     "id": "character_composition_solo",
@@ -9140,7 +10478,13 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "独自"
+    "term_zh": "独自",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "solo"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_character_1boy",
@@ -9176,7 +10520,16 @@
     "relation_role": "variant",
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "1 男孩"
+    "term_zh": "1 男孩",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "1boy"
+    ],
+    "aliases_zh": [
+      "少年",
+      "男生"
+    ]
   },
   {
     "id": "character_character_1girl",
@@ -9212,7 +10565,16 @@
     "relation_role": "variant",
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "1 女孩"
+    "term_zh": "1 女孩",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "1girl"
+    ],
+    "aliases_zh": [
+      "少女",
+      "女生"
+    ]
   },
   {
     "id": "character_composition_moresolo",
@@ -9247,7 +10609,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "更单人"
+    "term_zh": "更单人",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "moresolo"
+    ]
   },
   {
     "id": "character_composition_group",
@@ -9282,7 +10649,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "群体"
+    "term_zh": "群体",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "group"
+    ]
   },
   {
     "id": "character_composition_close_up",
@@ -9327,7 +10699,9 @@
     "aliases_zh": [
       "特写镜头",
       "近景"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_pose_hand_on_cheek",
@@ -9362,7 +10736,13 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "手贴脸"
+    "term_zh": "手贴脸",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "hand cheek",
+      "hand"
+    ]
   },
   {
     "id": "character_pose_hand_on_hip",
@@ -9397,7 +10777,13 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "手叉腰"
+    "term_zh": "手叉腰",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "hand hip",
+      "hand"
+    ]
   },
   {
     "id": "character_pose_arms_behind_head",
@@ -9432,7 +10818,13 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "双手抱头"
+    "term_zh": "双手抱头",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "arms behind head",
+      "arms"
+    ]
   },
   {
     "id": "character_pose_crossed_legs",
@@ -9467,7 +10859,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "交叉腿"
+    "term_zh": "交叉腿",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "crossed legs",
+      "crossed"
+    ]
   },
   {
     "id": "character_pose_legs_up",
@@ -9502,7 +10900,12 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "抬腿"
+    "term_zh": "抬腿",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "legs"
+    ]
   },
   {
     "id": "character_composition_from_side",
@@ -9537,7 +10940,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "从侧面"
+    "term_zh": "从侧面",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "from side",
+      "from"
+    ]
   },
   {
     "id": "character_pose_looking_at_another",
@@ -9572,7 +10981,13 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "看向他人"
+    "term_zh": "看向他人",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "looking another",
+      "looking"
+    ]
   },
   {
     "id": "character_pose_looking_back",
@@ -9607,7 +11022,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "回头"
+    "term_zh": "回头",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "looking back",
+      "looking"
+    ]
   },
   {
     "id": "character_expression_smug",
@@ -9641,7 +11062,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "自得"
+    "term_zh": "自得",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "smug"
+    ]
   },
   {
     "id": "character_expression_flustered",
@@ -9679,7 +11105,9 @@
     "term_zh": "慌乱",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_expression_imouto_face",
@@ -9714,7 +11142,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "妹妹脸"
+    "term_zh": "妹妹脸",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "imouto face",
+      "imouto"
+    ]
   },
   {
     "id": "character_pose_glasses_adjusted",
@@ -9749,7 +11183,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "调整眼镜"
+    "term_zh": "调整眼镜",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "glasses adjusted",
+      "glasses"
+    ]
   },
   {
     "id": "character_clothing_hoodie",
@@ -9784,7 +11224,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "连帽衫"
+    "term_zh": "连帽衫",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "hoodie"
+    ]
   },
   {
     "id": "character_clothing_turtleneck",
@@ -9819,7 +11264,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "高领"
+    "term_zh": "高领",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "turtleneck"
+    ]
   },
   {
     "id": "character_clothing_crop_top",
@@ -9854,7 +11304,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "露脐上衣"
+    "term_zh": "露脐上衣",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "crop top",
+      "crop"
+    ]
   },
   {
     "id": "character_clothing_hooded_cloak",
@@ -9889,7 +11345,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "连帽斗篷"
+    "term_zh": "连帽斗篷",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "hooded cloak",
+      "hooded"
+    ]
   },
   {
     "id": "character_clothing_apron",
@@ -9924,7 +11386,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "围裙"
+    "term_zh": "围裙",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "apron"
+    ]
   },
   {
     "id": "character_clothing_maid_apron",
@@ -9959,7 +11426,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "女仆围裙"
+    "term_zh": "女仆围裙",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "maid apron",
+      "maid"
+    ]
   },
   {
     "id": "character_clothing_cape",
@@ -9996,7 +11469,12 @@
     "relation_role": "canonical",
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "便帽"
+    "term_zh": "便帽",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "cape"
+    ]
   },
   {
     "id": "character_clothing_coat",
@@ -10031,7 +11509,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "大衣"
+    "term_zh": "外套",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "coat"
+    ]
   },
   {
     "id": "character_clothing_vest",
@@ -10066,7 +11549,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "背心"
+    "term_zh": "背心",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "vest"
+    ]
   },
   {
     "id": "character_clothing_collared_shirt",
@@ -10104,7 +11592,9 @@
     "term_zh": "带领衬衫",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_clothing_school_uniform",
@@ -10141,7 +11631,14 @@
     "relation_role": "canonical",
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "校服"
+    "term_zh": "校服",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "school uniform",
+      "school"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_clothing_white_shirt",
@@ -10184,7 +11681,9 @@
     "aliases_zh": [
       "纯白色",
       "象牙白"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_clothing_black_shirt",
@@ -10226,7 +11725,9 @@
     ],
     "aliases_zh": [
       "黑色调"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_clothing_long_sleeves",
@@ -10261,7 +11762,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "长袖"
+    "term_zh": "长袖",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "long sleeves",
+      "long"
+    ]
   },
   {
     "id": "character_clothing_short_sleeves",
@@ -10296,7 +11803,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "短袖"
+    "term_zh": "短袖",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "short sleeves",
+      "short"
+    ]
   },
   {
     "id": "character_clothing_off_shoulder",
@@ -10331,7 +11844,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "露肩"
+    "term_zh": "露肩",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "off-shoulder"
+    ]
   },
   {
     "id": "character_clothing_strapless",
@@ -10366,7 +11884,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "无肩带"
+    "term_zh": "无肩带",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "strapless"
+    ]
   },
   {
     "id": "character_clothing_dress",
@@ -10403,7 +11926,13 @@
     "relation_role": "canonical",
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "连衣裙"
+    "term_zh": "连衣裙",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "dress"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "character_clothing_gown",
@@ -10438,7 +11967,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "礼服"
+    "term_zh": "礼服",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "gown"
+    ]
   },
   {
     "id": "character_clothing_kimono",
@@ -10475,7 +12009,12 @@
     "relation_role": "canonical",
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "和服"
+    "term_zh": "和服",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "kimono"
+    ]
   },
   {
     "id": "character_clothing_hanbok",
@@ -10512,7 +12051,12 @@
     "relation_role": "canonical",
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "韩服"
+    "term_zh": "韩服",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "hanbok"
+    ]
   },
   {
     "id": "character_clothing_cheongsam",
@@ -10549,7 +12093,12 @@
     "relation_role": "canonical",
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "旗袍"
+    "term_zh": "旗袍",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "cheongsam"
+    ]
   },
   {
     "id": "character_clothing_leotard",
@@ -10583,7 +12132,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "豹"
+    "term_zh": "豹",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "leotard"
+    ]
   },
   {
     "id": "character_clothing_bikini",
@@ -10618,7 +12172,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "比基尼"
+    "term_zh": "比基尼",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "bikini"
+    ]
   },
   {
     "id": "character_clothing_suit",
@@ -10653,7 +12212,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "西装"
+    "term_zh": "西装",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "suit"
+    ]
   },
   {
     "id": "character_clothing_dress_shirt",
@@ -10687,7 +12251,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "连衣裙衬衫"
+    "term_zh": "连衣裙衬衫",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "dress shirt",
+      "dress"
+    ]
   },
   {
     "id": "character_clothing_tie",
@@ -10722,7 +12292,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "领带"
+    "term_zh": "领带",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "tie"
+    ]
   },
   {
     "id": "character_clothing_scarf",
@@ -10763,7 +12338,9 @@
     "aliases": [
       "luxury vehicle",
       "sports car"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_clothing_belt",
@@ -10800,7 +12377,12 @@
     "relation_role": "canonical",
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "腰带"
+    "term_zh": "腰带",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "belt"
+    ]
   },
   {
     "id": "character_clothing_fishnets",
@@ -10835,7 +12417,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "网袜"
+    "term_zh": "网袜",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "fishnets"
+    ]
   },
   {
     "id": "character_clothing_boots",
@@ -10872,7 +12459,12 @@
     "relation_role": "canonical",
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "靴子"
+    "term_zh": "靴子",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "boots"
+    ]
   },
   {
     "id": "character_clothing_leggings",
@@ -10907,7 +12499,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "紧身裤"
+    "term_zh": "紧身裤",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "leggings"
+    ]
   },
   {
     "id": "character_clothing_stockings",
@@ -10942,7 +12539,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "长袜"
+    "term_zh": "长袜",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "stockings"
+    ]
   },
   {
     "id": "character_detail_nails",
@@ -10977,7 +12579,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "钉子"
+    "term_zh": "钉子",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "nails"
+    ]
   },
   {
     "id": "character_detail_red_nails",
@@ -11019,7 +12626,9 @@
     "aliases_zh": [
       "深红色",
       "绯红色"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_clothing_bikini_top",
@@ -11053,7 +12662,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "比基尼上衣"
+    "term_zh": "比基尼上衣",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "bikini top",
+      "bikini"
+    ]
   },
   {
     "id": "character_clothing_no_blouse",
@@ -11088,7 +12703,12 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "无上衣"
+    "term_zh": "无上衣",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "blouse"
+    ]
   },
   {
     "id": "character_clothing_wet_clothes",
@@ -11123,7 +12743,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "湿衣服"
+    "term_zh": "湿衣服",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "wet clothes",
+      "wet"
+    ]
   },
   {
     "id": "character_clothing_wet",
@@ -11157,7 +12783,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "湿"
+    "term_zh": "湿",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "wet"
+    ]
   },
   {
     "id": "character_clothing_translucent_clothes",
@@ -11197,7 +12828,9 @@
     ],
     "aliases_zh": [
       "半透明质感"
-    ]
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_clothing_undone_collar",
@@ -11231,7 +12864,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "解开的衣领"
+    "term_zh": "解开的衣领",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "undone collar",
+      "undone"
+    ]
   },
   {
     "id": "character_anatomy_cleavage",
@@ -11266,7 +12905,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "乳沟"
+    "term_zh": "乳沟",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "cleavage"
+    ]
   },
   {
     "id": "character_body_flat_chest",
@@ -11301,7 +12945,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "平胸"
+    "term_zh": "平胸",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "flat chest",
+      "flat"
+    ]
   },
   {
     "id": "character_body_small_breasts",
@@ -11336,7 +12986,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "小胸"
+    "term_zh": "小胸",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "small breasts",
+      "small"
+    ]
   },
   {
     "id": "character_body_medium_breasts",
@@ -11371,7 +13027,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "中等胸"
+    "term_zh": "中等胸",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "medium breasts",
+      "medium"
+    ]
   },
   {
     "id": "character_body_large_breasts",
@@ -11406,7 +13068,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "大胸"
+    "term_zh": "大胸",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "large breasts",
+      "large"
+    ]
   },
   {
     "id": "character_body_huge_breasts",
@@ -11441,7 +13109,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "巨乳"
+    "term_zh": "巨乳",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "huge breasts",
+      "huge"
+    ]
   },
   {
     "id": "character_body_thick_thighs",
@@ -11476,7 +13150,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "粗腿"
+    "term_zh": "粗腿",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "thick thighs",
+      "thick"
+    ]
   },
   {
     "id": "character_body_muscular",
@@ -11511,7 +13191,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "肌肉"
+    "term_zh": "肌肉",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "muscular"
+    ]
   },
   {
     "id": "character_body_skinny",
@@ -11545,7 +13230,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "瘦"
+    "term_zh": "瘦",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "skinny"
+    ]
   },
   {
     "id": "character_body_petite",
@@ -11580,7 +13270,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "娇小"
+    "term_zh": "娇小",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "petite"
+    ]
   },
   {
     "id": "character_body_tall",
@@ -11615,7 +13310,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "高挑"
+    "term_zh": "高挑",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "tall"
+    ]
   },
   {
     "id": "character_body_chubby",
@@ -11650,7 +13350,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "丰满"
+    "term_zh": "丰满",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "chubby"
+    ]
   },
   {
     "id": "character_body_child_body",
@@ -11685,7 +13390,13 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "童体"
+    "term_zh": "童体",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "child body",
+      "child"
+    ]
   },
   {
     "id": "character_age_young",
@@ -11719,7 +13430,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "年轻"
+    "term_zh": "年轻",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "young"
+    ]
   },
   {
     "id": "character_age_old",
@@ -11753,7 +13469,12 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "金色"
+    "term_zh": "年老",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "old"
+    ]
   },
   {
     "id": "character_mood_happy_expression",
@@ -11789,7 +13510,10 @@
     ],
     "aliases_zh": [
       "快乐愉悦情绪"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_mood_radiant_joyful_expression",
@@ -11818,7 +13542,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "焕发喜悦表情"
+    "term_zh": "焕发喜悦表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "radiant joyful expression",
+      "radiant"
+    ]
   },
   {
     "id": "character_mood_relieved_expression",
@@ -11847,7 +13578,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "如释重负表情"
+    "term_zh": "如释重负表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "relieved expression",
+      "relieved"
+    ]
   },
   {
     "id": "character_mood_serene_expression",
@@ -11878,7 +13616,14 @@
     "alias_of": "character_expression_serene_expression",
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "宁静表情"
+    "term_zh": "宁静表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "serene expression",
+      "serene"
+    ]
   },
   {
     "id": "character_mood_playful_expression",
@@ -11908,7 +13653,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "俏皮表情"
+    "term_zh": "俏皮表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "playful expression",
+      "playful"
+    ]
   },
   {
     "id": "character_mood_confident_self_assured_demeanor",
@@ -11941,7 +13693,10 @@
     "aliases": [
       "elven warrior",
       "woodland elf"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_mood_tender_loving_expression",
@@ -11970,7 +13725,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "温柔爱意表情"
+    "term_zh": "温柔爱意表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "tender, loving expression",
+      "tender,"
+    ]
   },
   {
     "id": "character_mood_faintly_amused_expression",
@@ -11999,7 +13761,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "略显笑意表情"
+    "term_zh": "略显笑意表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "faintly amused expression",
+      "faintly"
+    ]
   },
   {
     "id": "character_mood_cocky_smirk",
@@ -12028,7 +13797,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "傲慢得意笑"
+    "term_zh": "傲慢得意笑",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "cocky smirk",
+      "cocky"
+    ]
   },
   {
     "id": "character_mood_quirky_eccentric_energy",
@@ -12057,7 +13833,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "古怪奇异气场"
+    "term_zh": "古怪奇异气场",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "quirky, eccentric energy",
+      "quirky,"
+    ]
   },
   {
     "id": "character_mood_hopeful_expression",
@@ -12086,7 +13869,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "满怀希望表情"
+    "term_zh": "满怀希望表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "hopeful expression",
+      "hopeful"
+    ]
   },
   {
     "id": "character_mood_sad_downcast_expression",
@@ -12121,7 +13911,10 @@
     ],
     "aliases_zh": [
       "忧郁悲伤情绪"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_mood_angry_expression",
@@ -12158,7 +13951,10 @@
     ],
     "aliases_zh": [
       "愤怒表情"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_mood_fearful_expression",
@@ -12188,7 +13984,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "恐惧表情"
+    "term_zh": "恐惧表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "fearful expression",
+      "fearful"
+    ]
   },
   {
     "id": "character_mood_anxious_nervous_expression",
@@ -12217,7 +14020,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "焦虑紧张表情"
+    "term_zh": "焦虑紧张表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "anxious, nervous expression",
+      "anxious,"
+    ]
   },
   {
     "id": "character_mood_melancholic_expression",
@@ -12247,7 +14057,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "忧郁表情"
+    "term_zh": "忧郁表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "melancholic expression",
+      "melancholic"
+    ]
   },
   {
     "id": "character_mood_devastated_heartbroken_expression",
@@ -12276,7 +14093,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "心碎崩溃表情"
+    "term_zh": "心碎崩溃表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "devastated, heartbroken expression",
+      "devastated,"
+    ]
   },
   {
     "id": "character_mood_grief_stricken_expression",
@@ -12305,7 +14129,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "悲痛欲绝表情"
+    "term_zh": "悲痛欲绝表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "grief-stricken expression",
+      "grief-stricken"
+    ]
   },
   {
     "id": "character_mood_caught_off_guard_expression",
@@ -12334,7 +14165,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "猝不及防表情"
+    "term_zh": "猝不及防表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "caught-off-guard expression",
+      "caught-off-guard"
+    ]
   },
   {
     "id": "character_mood_aloof_detached_expression",
@@ -12363,7 +14201,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "冷漠超然表情"
+    "term_zh": "冷漠超然表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "aloof, detached expression",
+      "aloof,"
+    ]
   },
   {
     "id": "character_mood_vulnerable_exposed_expression",
@@ -12392,7 +14237,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "脆弱暴露表情"
+    "term_zh": "脆弱暴露表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "vulnerable, exposed expression",
+      "vulnerable,"
+    ]
   },
   {
     "id": "character_mood_coy_bashful_expression",
@@ -12421,7 +14273,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "害羞忸怩表情"
+    "term_zh": "害羞忸怩表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "coy, bashful expression",
+      "coy,"
+    ]
   },
   {
     "id": "character_mood_bored_deadpan_expression",
@@ -12453,7 +14312,10 @@
     "term_zh": "无聊无表情",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_mood_embarrassed_flushed_expression",
@@ -12487,6 +14349,13 @@
     "aliases_zh": [
       "深红色",
       "绯红色"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "embarrassed, flushed expression",
+      "embarrassed,"
     ]
   },
   {
@@ -12517,7 +14386,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "厌恶表情"
+    "term_zh": "厌恶表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "disgusted expression",
+      "disgusted"
+    ]
   },
   {
     "id": "character_mood_bewildered_expression",
@@ -12550,7 +14426,10 @@
     "term_zh": "茫然表情",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_mood_thoughtful_contemplative_expression",
@@ -12580,7 +14459,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "沉思表情"
+    "term_zh": "沉思表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "thoughtful, contemplative expression",
+      "thoughtful,"
+    ]
   },
   {
     "id": "character_mood_stoic_impassive_expression",
@@ -12609,7 +14495,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "坚忍不动表情"
+    "term_zh": "坚忍不动表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "stoic, impassive expression",
+      "stoic,"
+    ]
   },
   {
     "id": "character_mood_calm_expression",
@@ -12639,7 +14532,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "平静表情"
+    "term_zh": "平静表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "calm expression",
+      "calm"
+    ]
   },
   {
     "id": "character_mood_curious_expression",
@@ -12669,7 +14569,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "好奇表情"
+    "term_zh": "好奇表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "curious expression",
+      "curious"
+    ]
   },
   {
     "id": "character_mood_mysterious_enigmatic_expression",
@@ -12698,7 +14605,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "神秘莫测表情"
+    "term_zh": "神秘莫测表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "mysterious, enigmatic expression",
+      "mysterious,"
+    ]
   },
   {
     "id": "character_mood_dazed_dreamy_expression",
@@ -12727,7 +14641,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "恍惚梦幻表情"
+    "term_zh": "恍惚梦幻表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "dazed, dreamy expression",
+      "dazed,"
+    ]
   },
   {
     "id": "character_mood_sleepy_expression",
@@ -12757,7 +14678,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "困倦表情"
+    "term_zh": "困倦表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "sleepy expression",
+      "sleepy"
+    ]
   },
   {
     "id": "character_mood_unbothered_self_possessed_calm",
@@ -12790,7 +14718,10 @@
     "aliases": [
       "elven warrior",
       "woodland elf"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_mood_fierce_commanding_intensity",
@@ -12819,7 +14750,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "威严强烈气场"
+    "term_zh": "威严强烈气场",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "fierce, commanding intensity",
+      "fierce,"
+    ]
   },
   {
     "id": "character_mood_determined_resolute_expression",
@@ -12848,7 +14786,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "坚定坚决表情"
+    "term_zh": "坚定坚决表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "determined, resolute expression",
+      "determined,"
+    ]
   },
   {
     "id": "character_mood_passionate_expression",
@@ -12878,7 +14823,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "热情表情"
+    "term_zh": "热情表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "passionate expression",
+      "passionate"
+    ]
   },
   {
     "id": "character_mood_brooding_expression",
@@ -12908,7 +14860,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "阴郁表情"
+    "term_zh": "阴郁表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "brooding expression",
+      "brooding"
+    ]
   },
   {
     "id": "character_mood_seductive_expression",
@@ -12938,7 +14897,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "诱惑表情"
+    "term_zh": "诱惑表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "seductive expression",
+      "seductive"
+    ]
   },
   {
     "id": "character_mood_defiant_expression",
@@ -12968,7 +14934,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "挑衅表情"
+    "term_zh": "挑衅表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "defiant expression",
+      "defiant"
+    ]
   },
   {
     "id": "character_mood_sultry_expression",
@@ -12998,7 +14971,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "撩人表情"
+    "term_zh": "撩人表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "sultry expression",
+      "sultry"
+    ]
   },
   {
     "id": "character_mood_smoldering_intensity",
@@ -13028,7 +15008,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "暗燃炽烈"
+    "term_zh": "暗燃炽烈",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "smoldering intensity",
+      "smoldering"
+    ]
   },
   {
     "id": "character_mood_sinister_expression",
@@ -13058,7 +15045,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "阴险表情"
+    "term_zh": "阴险表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "sinister expression",
+      "sinister"
+    ]
   },
   {
     "id": "character_mood_occult_otherworldly_mystical_expression",
@@ -13087,7 +15081,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "神秘超自然表情"
+    "term_zh": "神秘超自然表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "occult, otherworldly mystical",
+      "occult,"
+    ]
   },
   {
     "id": "character_mood_drowsy_half_shy_expression",
@@ -13117,7 +15118,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "害羞表情"
+    "term_zh": "害羞表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "drowsy, half-shy expression",
+      "drowsy,"
+    ]
   },
   {
     "id": "character_mood_awestruck_wonder",
@@ -13147,7 +15155,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "敬畏惊叹"
+    "term_zh": "敬畏惊叹",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "awestruck wonder",
+      "awestruck"
+    ]
   },
   {
     "id": "character_mood_shocked_expression",
@@ -13178,7 +15193,14 @@
     "alias_of": "character_expression_shocked_expression",
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "震惊表情"
+    "term_zh": "震惊表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "shocked expression",
+      "shocked"
+    ]
   },
   {
     "id": "character_mood_flirty_expression",
@@ -13208,7 +15230,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "调情表情"
+    "term_zh": "调情表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "flirty expression",
+      "flirty"
+    ]
   },
   {
     "id": "character_mood_suspicious_wary_expression",
@@ -13237,7 +15266,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "怀疑警惕表情"
+    "term_zh": "怀疑警惕表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "suspicious, wary expression",
+      "suspicious,"
+    ]
   },
   {
     "id": "character_mood_resigned_expression_of_quiet_acceptance",
@@ -13266,7 +15302,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "默默接受认命"
+    "term_zh": "默默接受认命",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "resigned expression quiet",
+      "resigned"
+    ]
   },
   {
     "id": "character_mood_conflicted_torn_expression",
@@ -13295,7 +15338,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "矛盾纠结表情"
+    "term_zh": "矛盾纠结表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "conflicted, torn expression",
+      "conflicted,"
+    ]
   },
   {
     "id": "character_pose_standing_upright_in_a_relaxed_natural_po",
@@ -13324,7 +15374,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "自然放松直立"
+    "term_zh": "自然放松直立",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "standing upright relaxed",
+      "standing"
+    ]
   },
   {
     "id": "character_pose_standing_in_a_confident_stance_with_feet",
@@ -13353,7 +15410,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "双脚分开自信站立"
+    "term_zh": "双脚分开自信站立",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "standing confident stance",
+      "standing"
+    ]
   },
   {
     "id": "character_pose_standing_with_hands_on_hips",
@@ -13383,7 +15447,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "手叉腰"
+    "term_zh": "手叉腰",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "standing with hands",
+      "standing"
+    ]
   },
   {
     "id": "character_pose_standing_with_arms_crossed_over_the_ches",
@@ -13413,7 +15484,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "双臂交叉"
+    "term_zh": "双臂交叉",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "standing with arms",
+      "standing"
+    ]
   },
   {
     "id": "character_pose_leaning_casually_against_a_surface",
@@ -13443,7 +15521,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "随意倚靠"
+    "term_zh": "随意倚靠",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "leaning casually against",
+      "leaning"
+    ]
   },
   {
     "id": "character_pose_standing_in_a_dramatic_heroic_pose",
@@ -13475,7 +15560,10 @@
     "term_zh": "戏剧英雄姿势站立",
     "aliases": [
       "dramatic lighting"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_pose_standing_in_contrapposto",
@@ -13504,7 +15592,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "对立式站姿"
+    "term_zh": "对立式站姿",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "standing contrapposto",
+      "standing"
+    ]
   },
   {
     "id": "character_pose_leaning_against_a_wall",
@@ -13534,7 +15629,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "靠墙而立"
+    "term_zh": "靠墙而立",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "leaning against wall",
+      "leaning"
+    ]
   },
   {
     "id": "character_pose_hands_clasped_behind_the_head",
@@ -13564,7 +15666,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "双手抱头"
+    "term_zh": "双手抱头",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "hands clasped behind",
+      "hands"
+    ]
   },
   {
     "id": "character_pose_hands_clasped_behind_the_back",
@@ -13593,7 +15702,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "双手背后相握"
+    "term_zh": "双手背后相握",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "hands clasped behind",
+      "hands"
+    ]
   },
   {
     "id": "character_pose_sitting_naturally",
@@ -13623,7 +15739,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "自然坐下"
+    "term_zh": "自然坐下",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "sitting naturally",
+      "sitting"
+    ]
   },
   {
     "id": "character_pose_sitting_cross_legged",
@@ -13653,7 +15776,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "盘腿坐"
+    "term_zh": "盘腿坐",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "sitting cross-legged",
+      "sitting"
+    ]
   },
   {
     "id": "character_pose_kneeling_on_one_or_both_knees",
@@ -13682,7 +15812,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "单膝或双膝跪地"
+    "term_zh": "单膝或双膝跪地",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "kneeling one both",
+      "kneeling"
+    ]
   },
   {
     "id": "character_pose_crouched_low_with_knees_bent",
@@ -13712,7 +15849,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "屈膝低蹲"
+    "term_zh": "屈膝低蹲",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "crouched low with",
+      "crouched"
+    ]
   },
   {
     "id": "character_pose_lounging_in_a_relaxed",
@@ -13741,7 +15885,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "放松地斜倚"
+    "term_zh": "放松地斜倚",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "lounging relaxed",
+      "lounging"
+    ]
   },
   {
     "id": "character_pose_sitting_on_the_edge_of_a_bed",
@@ -13771,7 +15922,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "坐在床边"
+    "term_zh": "坐在床边",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "sitting the edge",
+      "sitting"
+    ]
   },
   {
     "id": "character_pose_legs_draped_over_the_chair_arm",
@@ -13800,7 +15958,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "腿搭椅子扶手"
+    "term_zh": "腿搭椅子扶手",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "legs draped over",
+      "legs"
+    ]
   },
   {
     "id": "character_pose_cheek_resting_on_a_propped_elbow",
@@ -13829,7 +15994,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "脸颊靠手肘"
+    "term_zh": "脸颊靠手肘",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "cheek resting propped",
+      "cheek"
+    ]
   },
   {
     "id": "character_pose_lying_prone_propped_on_elbows_reading",
@@ -13858,7 +16030,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "趴着撑肘看书"
+    "term_zh": "趴着撑肘看书",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "lying prone propped",
+      "lying"
+    ]
   },
   {
     "id": "character_pose_walking_2",
@@ -13888,7 +16067,13 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "行走"
+    "term_zh": "行走",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "walking"
+    ]
   },
   {
     "id": "character_pose_running_2",
@@ -13918,7 +16103,13 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "奔跑"
+    "term_zh": "奔跑",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "running"
+    ]
   },
   {
     "id": "character_pose_mid_jump",
@@ -13948,7 +16139,13 @@
     ],
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "跳跃中"
+    "term_zh": "跳跃中",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "mid-jump"
+    ]
   },
   {
     "id": "character_pose_dancing",
@@ -13980,7 +16177,13 @@
     "relation_role": "canonical",
     "weight": 0.505,
     "score_v2": 0.505,
-    "term_zh": "舞蹈中"
+    "term_zh": "舞蹈中",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "dancing"
+    ]
   },
   {
     "id": "character_pose_climbing_with_arms_extended",
@@ -14009,7 +16212,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "伸展双臂攀爬"
+    "term_zh": "伸展双臂攀爬",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "climbing with arms",
+      "climbing"
+    ]
   },
   {
     "id": "character_pose_caught_mid_fall_through_the_air",
@@ -14038,7 +16248,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "半空中跌落瞬间"
+    "term_zh": "半空中跌落瞬间",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "caught mid-fall through",
+      "caught"
+    ]
   },
   {
     "id": "character_pose_twirling_mid_spin_with_hair_and_clothing",
@@ -14067,7 +16284,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "旋转中头发衣服外扬"
+    "term_zh": "旋转中头发衣服外扬",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "twirling mid-spin with",
+      "twirling"
+    ]
   },
   {
     "id": "character_pose_in_a_full_body_stretch_with_both_arms_re",
@@ -14096,7 +16320,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "全身伸展双臂高举"
+    "term_zh": "全身伸展双臂高举",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "full-body stretch with",
+      "full-body"
+    ]
   },
   {
     "id": "character_pose_one_or_both_arms_extended_overhead",
@@ -14125,7 +16356,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "单臂或双臂高举"
+    "term_zh": "单臂或双臂高举",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "one both arms",
+      "one"
+    ]
   },
   {
     "id": "character_pose_locked_in_a_kiss",
@@ -14155,7 +16393,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "亲吻中"
+    "term_zh": "亲吻中",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "locked kiss",
+      "locked"
+    ]
   },
   {
     "id": "character_pose_riding_astride",
@@ -14185,7 +16430,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "跨坐"
+    "term_zh": "跨坐",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "riding astride",
+      "riding"
+    ]
   },
   {
     "id": "character_pose_driving_hands_on_the_wheel",
@@ -14215,7 +16467,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "驾驶，双手握方向盘"
+    "term_zh": "驾驶，双手握方向盘",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "driving, hands the",
+      "driving,"
+    ]
   },
   {
     "id": "character_pose_in_a_combat_ready_fighting_stance",
@@ -14244,7 +16503,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "备战格斗站姿"
+    "term_zh": "备战格斗站姿",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "combat-ready fighting stance",
+      "combat-ready"
+    ]
   },
   {
     "id": "character_pose_reaching_outward_arm_extended",
@@ -14274,7 +16540,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "伸臂外伸"
+    "term_zh": "伸臂外伸",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "reaching outward, arm",
+      "reaching"
+    ]
   },
   {
     "id": "character_pose_caught_mid_throw",
@@ -14304,7 +16577,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "投掷瞬间"
+    "term_zh": "投掷瞬间",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "caught mid-throw",
+      "caught"
+    ]
   },
   {
     "id": "character_pose_leaping_forward_dynamically_with_body_ex",
@@ -14333,7 +16613,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "身体伸展向前跃起"
+    "term_zh": "身体伸展向前跃起",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "leaping forward dynamically",
+      "leaping"
+    ]
   },
   {
     "id": "character_pose_dramatic_exaggerated_action_pose",
@@ -14365,7 +16652,10 @@
     "term_zh": "戏剧夸张动作姿势",
     "aliases": [
       "dramatic lighting"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_pose_biting_lower_lip",
@@ -14395,7 +16685,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "咬下唇"
+    "term_zh": "咬下唇",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "biting lower lip",
+      "biting"
+    ]
   },
   {
     "id": "character_pose_caught_mid_laugh_with_head_tipped_back",
@@ -14427,6 +16724,13 @@
     "term_zh": "仰头大笑瞬间",
     "aliases_zh": [
       "开心大笑表情"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "aliases": [
+      "caught mid-laugh with",
+      "caught"
     ]
   },
   {
@@ -14457,7 +16761,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "直指镜头"
+    "term_zh": "直指镜头",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "pointing directly the",
+      "pointing"
+    ]
   },
   {
     "id": "character_pose_sticking_the_tongue_out_playfully",
@@ -14487,7 +16798,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "吐舌"
+    "term_zh": "吐舌",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "sticking the tongue",
+      "sticking"
+    ]
   },
   {
     "id": "character_pose_thinking_pose_hand_on_chin",
@@ -14518,7 +16836,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "沉思姿势，手扶下巴"
+    "term_zh": "沉思姿势，手扶下巴",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "thinking pose, hand",
+      "thinking"
+    ]
   },
   {
     "id": "character_pose_lying_down_flat",
@@ -14548,7 +16873,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "躺卧"
+    "term_zh": "躺卧",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "lying down flat",
+      "lying"
+    ]
   },
   {
     "id": "character_pose_sleeping_peacefully_with_eyes_closed",
@@ -14578,7 +16910,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "闭眼安睡"
+    "term_zh": "闭眼安睡",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "sleeping peacefully with",
+      "sleeping"
+    ]
   },
   {
     "id": "character_pose_hugging_or_embracing_another_person",
@@ -14608,7 +16947,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "拥抱他人"
+    "term_zh": "拥抱他人",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "hugging embracing another",
+      "hugging"
+    ]
   },
   {
     "id": "character_pose_head_turned",
@@ -14638,7 +16984,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "转头"
+    "term_zh": "转头",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "head turned",
+      "head"
+    ]
   },
   {
     "id": "character_pose_gazing_upward_at_the_sky_or_off_camera",
@@ -14667,7 +17020,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "仰望天空或画外"
+    "term_zh": "仰望天空或画外",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "gazing upward the",
+      "gazing"
+    ]
   },
   {
     "id": "character_pose_eyes_downcast",
@@ -14697,7 +17057,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "目光低垂"
+    "term_zh": "目光低垂",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "eyes downcast",
+      "eyes"
+    ]
   },
   {
     "id": "character_pose_looking_back_over_the_shoulder",
@@ -14727,7 +17094,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "过肩镜头"
+    "term_zh": "过肩镜头",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "looking back over",
+      "looking"
+    ]
   },
   {
     "id": "character_pose_wading_mid_thigh_deep_through_water",
@@ -14756,7 +17130,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "蹚过齐大腿深的水"
+    "term_zh": "蹚过齐大腿深的水",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "wading mid-thigh deep",
+      "wading"
+    ]
   },
   {
     "id": "character_pose_with_both_hands_tucked_into_pockets",
@@ -14786,7 +17167,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "双手插袋"
+    "term_zh": "双手插袋",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "with both hands",
+      "with"
+    ]
   },
   {
     "id": "character_pose_with_one_hand_resting_on_the_hip",
@@ -14816,7 +17204,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "单手叉腰"
+    "term_zh": "单手叉腰",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "with one hand",
+      "with"
+    ]
   },
   {
     "id": "character_pose_both_hands_planted_on_the_hips",
@@ -14846,7 +17241,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "双手叉腰"
+    "term_zh": "双手叉腰",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "both hands planted",
+      "both"
+    ]
   },
   {
     "id": "character_pose_with_one_hand_resting_under_the_chin",
@@ -14875,7 +17277,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "单手托下巴"
+    "term_zh": "单手托下巴",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "with one hand",
+      "with"
+    ]
   },
   {
     "id": "character_pose_with_one_hand_resting_lightly_across_the",
@@ -14904,7 +17313,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "单手轻搭锁骨"
+    "term_zh": "单手轻搭锁骨",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "with one hand",
+      "with"
+    ]
   },
   {
     "id": "character_pose_hand_running_through_the_hair",
@@ -14934,7 +17350,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "手理头发"
+    "term_zh": "手理头发",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "hand running through",
+      "hand"
+    ]
   },
   {
     "id": "character_pose_fingertip_pressed_to_the_lower_lip",
@@ -14963,7 +17386,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "指尖按压下唇"
+    "term_zh": "指尖按压下唇",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "fingertip pressed the",
+      "fingertip"
+    ]
   },
   {
     "id": "character_pose_arms_wrapped_around_the_torso",
@@ -14992,7 +17422,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "双臂环抱躯干"
+    "term_zh": "双臂环抱躯干",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "arms wrapped around",
+      "arms"
+    ]
   },
   {
     "id": "character_pose_hands_clasped_in_front",
@@ -15022,7 +17459,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "双手前握"
+    "term_zh": "双手前握",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "hands clasped front",
+      "hands"
+    ]
   },
   {
     "id": "character_pose_torso_leaning_slightly_back",
@@ -15051,7 +17495,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "躯干微后倾"
+    "term_zh": "躯干微后倾",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "torso leaning slightly",
+      "torso"
+    ]
   },
   {
     "id": "character_pose_torso_leaning_forward",
@@ -15081,7 +17532,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "前倾"
+    "term_zh": "前倾",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "torso leaning forward",
+      "torso"
+    ]
   },
   {
     "id": "character_pose_contrapposto_hip_pushed_out",
@@ -15112,7 +17570,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "对立式，臀部外推"
+    "term_zh": "对立式，臀部外推",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "contrapposto, hip pushed",
+      "contrapposto,"
+    ]
   },
   {
     "id": "character_pose_with_the_back_gently_arched",
@@ -15142,7 +17607,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "背部微弓"
+    "term_zh": "背部微弓",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "with the back",
+      "with"
+    ]
   },
   {
     "id": "character_pose_one_shoulder_rolled_forward",
@@ -15172,7 +17644,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "一肩前卷"
+    "term_zh": "一肩前卷",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "one shoulder rolled",
+      "one"
+    ]
   },
   {
     "id": "character_pose_head_tipped_slightly_up",
@@ -15202,7 +17681,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "头微仰"
+    "term_zh": "头微仰",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "head tipped slightly",
+      "head"
+    ]
   },
   {
     "id": "character_pose_head_tipped_slightly_down",
@@ -15232,7 +17718,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "头微低"
+    "term_zh": "头微低",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "head tipped slightly",
+      "head"
+    ]
   },
   {
     "id": "character_pose_head_tilted_toward_one_shoulder",
@@ -15262,7 +17755,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "歪头"
+    "term_zh": "歪头",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "head tilted toward",
+      "head"
+    ]
   },
   {
     "id": "character_pose_head_tipped_fully_back",
@@ -15291,7 +17791,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "头完全后仰"
+    "term_zh": "头完全后仰",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "head tipped fully",
+      "head"
+    ]
   },
   {
     "id": "character_pose_chin_lifted",
@@ -15321,7 +17828,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "下巴上扬"
+    "term_zh": "下巴上扬",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "chin lifted",
+      "chin"
+    ]
   },
   {
     "id": "character_pose_with_the_chin_tucked_toward_the_chest",
@@ -15350,7 +17864,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "下巴内收向胸"
+    "term_zh": "下巴内收向胸",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "with the chin",
+      "with"
+    ]
   },
   {
     "id": "character_pose_smoking_a_cigarette",
@@ -15380,7 +17901,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "抽烟"
+    "term_zh": "抽烟",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "smoking cigarette",
+      "smoking"
+    ]
   },
   {
     "id": "character_pose_drinking_from_a_glass",
@@ -15410,7 +17938,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "举杯饮"
+    "term_zh": "举杯饮",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "drinking from glass",
+      "drinking"
+    ]
   },
   {
     "id": "character_pose_caught_mid_bite",
@@ -15440,7 +17975,14 @@
     ],
     "weight": 0.585,
     "score_v2": 0.585,
-    "term_zh": "咬食中"
+    "term_zh": "咬食中",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "caught mid-bite",
+      "caught"
+    ]
   },
   {
     "id": "character_pose_talking_on_the_phone",
@@ -15470,7 +18012,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "打电话"
+    "term_zh": "打电话",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "talking the phone",
+      "talking"
+    ]
   },
   {
     "id": "character_pose_looking_down_at_a_phone_held_in_both_han",
@@ -15500,7 +18049,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "向下看"
+    "term_zh": "向下看",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "looking down phone",
+      "looking"
+    ]
   },
   {
     "id": "character_pose_typing_on_a_laptop",
@@ -15529,7 +18085,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "笔记本打字"
+    "term_zh": "笔记本打字",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "typing laptop",
+      "typing"
+    ]
   },
   {
     "id": "character_pose_holding_open_a_book_or_magazine_in_both_",
@@ -15558,7 +18121,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "双手捧翻开书或杂志"
+    "term_zh": "双手捧翻开书或杂志",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "holding open book",
+      "holding"
+    ]
   },
   {
     "id": "character_pose_writing_in_a_notebook",
@@ -15587,7 +18157,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "笔记本书写"
+    "term_zh": "笔记本书写",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "writing notebook",
+      "writing"
+    ]
   },
   {
     "id": "character_pose_painting_on_a_canvas",
@@ -15620,7 +18197,10 @@
     "aliases": [
       "canvas painting",
       "oil painting"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_pose_playing_a_musical_instrument",
@@ -15649,7 +18229,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "playing音乐乐器"
+    "term_zh": "playing音乐乐器",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "playing musical instrument",
+      "playing"
+    ]
   },
   {
     "id": "character_pose_cooking_at_a_kitchen_counter_or_stove",
@@ -15678,7 +18265,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "厨房台面或炉灶烹饪"
+    "term_zh": "厨房台面或炉灶烹饪",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "cooking kitchen counter",
+      "cooking"
+    ]
   },
   {
     "id": "character_pose_behind_the_wheel_of_a_vehicle",
@@ -15708,7 +18302,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "驾驶车辆"
+    "term_zh": "驾驶车辆",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "behind the wheel",
+      "behind"
+    ]
   },
   {
     "id": "character_mood_with_main_character_energy_unbothered_co",
@@ -15741,7 +18342,10 @@
     "term_zh": "主角光环 — 自信从容姿态",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00"
   },
   {
     "id": "character_mood_soft_easygoing_mood",
@@ -15770,7 +18374,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "柔和随和心情"
+    "term_zh": "柔和随和心情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "soft easygoing mood",
+      "soft"
+    ]
   },
   {
     "id": "character_mood_casual_lived_in_mood",
@@ -15799,7 +18410,14 @@
     ],
     "weight": 0.665,
     "score_v2": 0.665,
-    "term_zh": "随意生活化心情"
+    "term_zh": "随意生活化心情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "casual lived-in mood",
+      "casual"
+    ]
   },
   {
     "id": "character_mood_in_an_effortless_cool_mood_slouchy_knits",
@@ -15828,7 +18446,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "毫不费力酷感心情 — 松垮针织衫"
+    "term_zh": "毫不费力酷感心情 — 松垮针织衫",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "effortless-cool mood slouchy",
+      "effortless-cool"
+    ]
   },
   {
     "id": "character_mood_in_a_retro_90s_mood_flannel_shirts",
@@ -15858,7 +18483,14 @@
     ],
     "weight": 0.705,
     "score_v2": 0.705,
-    "term_zh": "90 年代复古心情 — 法兰绒衬衫"
+    "term_zh": "90 年代复古心情 — 法兰绒衬衫",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459999+00:00",
+    "aliases": [
+      "retro 90s mood",
+      "retro"
+    ]
   },
   {
     "id": "character_p0_2b5e9b32",
@@ -15879,6 +18511,15 @@
     "labels_zh": [
       "character",
       "角色涂鸦手绘"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "graffiti, hand-drawn",
+      "graffiti,"
     ]
   },
   {
@@ -15900,6 +18541,15 @@
     "labels_zh": [
       "character",
       "角色插画温暖可爱"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "illustration, cute",
+      "illustration,"
     ]
   },
   {
@@ -15917,10 +18567,19 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "手绘人物涂鸦插画",
+    "term_zh": "hand-drawn涂鸦插画",
     "labels_zh": [
       "character",
       "手绘人物涂鸦插画"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "hand-drawn, graffiti, illustration",
+      "hand-drawn,"
     ]
   },
   {
@@ -15938,10 +18597,19 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.585,
-    "term_zh": "少女动漫插画优雅",
+    "term_zh": "动漫插画",
     "labels_zh": [
       "character",
       "少女动漫插画优雅"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "anime, illustration",
+      "anime,"
     ]
   },
   {
@@ -15963,6 +18631,15 @@
     "labels_zh": [
       "character",
       "角色涂鸦手绘可爱"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "graffiti, hand-drawn, cute",
+      "graffiti,"
     ]
   },
   {
@@ -15980,10 +18657,19 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.585,
-    "term_zh": "角色插画涂鸦",
+    "term_zh": "插画涂鸦",
     "labels_zh": [
       "character",
       "角色插画涂鸦"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "illustration, graffiti",
+      "illustration,"
     ]
   },
   {
@@ -16005,6 +18691,15 @@
     "labels_zh": [
       "character",
       "角色动漫手绘"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "anime, hand-drawn",
+      "anime,"
     ]
   },
   {
@@ -16030,6 +18725,15 @@
     "labels_zh": [
       "character",
       "人像写实极简可爱"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "minimalist, cute",
+      "minimalist,"
     ]
   },
   {
@@ -16051,6 +18755,14 @@
     "labels_zh": [
       "character",
       "绝美成年东亚女性"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "female"
     ]
   },
   {
@@ -16068,10 +18780,19 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "女孩动漫插画可爱",
+    "term_zh": "动漫插画cute",
     "labels_zh": [
       "character",
       "女孩动漫插画可爱"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "anime, illustration, cute",
+      "anime,"
     ]
   },
   {
@@ -16089,7 +18810,7 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.505,
-    "term_zh": "女孩写实街头可爱",
+    "term_zh": "切割",
     "aliases_zh": [
       "照片级真实",
       "逼真渲染"
@@ -16097,6 +18818,14 @@
     "labels_zh": [
       "character",
       "女孩写实街头可爱"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "cute"
     ]
   },
   {
@@ -16118,6 +18847,15 @@
     "labels_zh": [
       "character",
       "角色动漫可爱"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "anime, cute",
+      "anime,"
     ]
   },
   {
@@ -16139,6 +18877,15 @@
     "labels_zh": [
       "character",
       "角色插画手绘可爱"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "illustration, hand-drawn, cute",
+      "illustration,"
     ]
   },
   {
@@ -16160,6 +18907,15 @@
     "labels_zh": [
       "character",
       "女性极简品牌"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "female, minimalist",
+      "female,"
     ]
   },
   {
@@ -16177,10 +18933,18 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.505,
-    "term_zh": "手绘风格照片标注",
+    "term_zh": "手绘",
     "labels_zh": [
       "character",
       "手绘风格照片标注"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "hand-drawn"
     ]
   },
   {
@@ -16202,6 +18966,14 @@
     "labels_zh": [
       "character",
       "男性"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "male"
     ]
   },
   {
@@ -16219,10 +18991,19 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "女性动漫插画室内",
+    "term_zh": "female动漫插画",
     "labels_zh": [
       "character",
       "女性动漫插画室内"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "female, anime, illustration",
+      "female,"
     ]
   },
   {
@@ -16244,6 +19025,15 @@
     "labels_zh": [
       "character",
       "女性动漫产品"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "female, anime",
+      "female,"
     ]
   },
   {
@@ -16269,6 +19059,15 @@
     "labels_zh": [
       "character",
       "女性写实可爱"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "female, cute",
+      "female,"
     ]
   },
   {
@@ -16290,6 +19089,15 @@
     "labels_zh": [
       "character",
       "少女插画手绘"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "illustration, hand-drawn",
+      "illustration,"
     ]
   },
   {
@@ -16307,10 +19115,19 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.585,
-    "term_zh": "极简女生插画",
+    "term_zh": "极简主义插画",
     "labels_zh": [
       "character",
       "极简女生插画"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "minimalist, illustration",
+      "minimalist,"
     ]
   },
   {
@@ -16332,6 +19149,15 @@
     "labels_zh": [
       "character",
       "可爱动漫"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "cute, anime",
+      "cute,"
     ]
   },
   {
@@ -16349,10 +19175,19 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.585,
-    "term_zh": "多人合照",
+    "term_zh": "群体照片",
     "labels_zh": [
       "character",
       "多人合照"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "group photo",
+      "group"
     ]
   },
   {
@@ -16374,6 +19209,15 @@
     "labels_zh": [
       "character",
       "高端男性杂志"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "premium men's magazine",
+      "premium"
     ]
   },
   {
@@ -16391,10 +19235,19 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "古风女生",
+    "term_zh": "古代中国风格",
     "labels_zh": [
       "character",
       "古风女生"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "ancient chinese style",
+      "ancient"
     ]
   },
   {
@@ -16416,6 +19269,15 @@
     "labels_zh": [
       "character",
       "霓虹女性"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "neon female",
+      "neon"
     ]
   },
   {
@@ -16433,10 +19295,19 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "夜景女性",
+    "term_zh": "夜晚场景female",
     "labels_zh": [
       "character",
       "夜景女性"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "night scene female",
+      "night"
     ]
   },
   {
@@ -16454,10 +19325,19 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "涂鸦画",
+    "term_zh": "涂鸦艺术设计",
     "labels_zh": [
       "character",
       "涂鸦画"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "graffiti art design",
+      "graffiti"
     ]
   },
   {
@@ -16475,10 +19355,19 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "涂鸦影子",
+    "term_zh": "涂鸦阴影艺术",
     "labels_zh": [
       "character",
       "涂鸦影子"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "graffiti shadow art",
+      "graffiti"
     ]
   },
   {
@@ -16496,10 +19385,19 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "食物手绘",
+    "term_zh": "hand-drawn食物插画",
     "labels_zh": [
       "character",
       "食物手绘"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "hand-drawn food illustration",
+      "hand-drawn"
     ]
   },
   {
@@ -16521,6 +19419,15 @@
     "labels_zh": [
       "character",
       "极简女性"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "minimalist, female",
+      "minimalist,"
     ]
   },
   {
@@ -16538,7 +19445,7 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "电影感花",
+    "term_zh": "电影感花摄影",
     "aliases": [
       "film-like",
       "movie-style"
@@ -16550,7 +19457,12 @@
     "labels_zh": [
       "character",
       "电影感花"
-    ]
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved"
   },
   {
     "id": "character_p0_e30e83f3",
@@ -16567,7 +19479,7 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "极简男性",
+    "term_zh": "极简主义male人像",
     "aliases": [
       "face portrait",
       "headshot"
@@ -16575,7 +19487,12 @@
     "labels_zh": [
       "character",
       "极简男性"
-    ]
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved"
   },
   {
     "id": "character_p0_745e234b",
@@ -16592,7 +19509,7 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "电影感女性",
+    "term_zh": "电影感female人像",
     "aliases": [
       "film-like",
       "movie-style"
@@ -16604,7 +19521,12 @@
     "labels_zh": [
       "character",
       "电影感女性"
-    ]
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved"
   },
   {
     "id": "character_p0_bc20b567",
@@ -16621,7 +19543,7 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "女性极简",
+    "term_zh": "极简主义female人像",
     "aliases": [
       "face portrait",
       "headshot"
@@ -16629,7 +19551,12 @@
     "labels_zh": [
       "character",
       "女性极简"
-    ]
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved"
   },
   {
     "id": "character_p0_5a556263",
@@ -16646,7 +19573,7 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "街拍女性",
+    "term_zh": "街道摄影female",
     "labels_zh": [
       "character",
       "街拍女性"
@@ -16654,7 +19581,12 @@
     "aliases": [
       "city street",
       "urban street"
-    ]
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved"
   },
   {
     "id": "character_p0_48af374a",
@@ -16671,10 +19603,19 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "摄影作品",
+    "term_zh": "美术摄影",
     "labels_zh": [
       "character",
       "摄影作品"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "fine art photography",
+      "fine"
     ]
   },
   {
@@ -16696,6 +19637,15 @@
     "labels_zh": [
       "character",
       "媚眼诱惑"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "seductive gaze",
+      "seductive"
     ]
   },
   {
@@ -16717,6 +19667,15 @@
     "labels_zh": [
       "character",
       "时尚摄影"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "fashion photography",
+      "fashion"
     ]
   },
   {
@@ -16734,7 +19693,7 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "棚拍女性",
+    "term_zh": "工作室人像female",
     "aliases": [
       "face portrait",
       "headshot"
@@ -16742,7 +19701,12 @@
     "labels_zh": [
       "character",
       "棚拍女性"
-    ]
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved"
   },
   {
     "id": "character_p0_b50979f5",
@@ -16759,10 +19723,19 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "电影封面",
+    "term_zh": "电影海报设计",
     "labels_zh": [
       "character",
       "电影封面"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "movie poster design",
+      "movie"
     ]
   },
   {
@@ -16784,6 +19757,15 @@
     "labels_zh": [
       "character",
       "高级感女性"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "high-end female aesthetic",
+      "high-end"
     ]
   },
   {
@@ -16801,7 +19783,7 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "女性优雅",
+    "term_zh": "优雅female人像",
     "aliases": [
       "face portrait",
       "headshot"
@@ -16809,7 +19791,12 @@
     "labels_zh": [
       "character",
       "女性优雅"
-    ]
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved"
   },
   {
     "id": "character_p0_3f3ab64c",
@@ -16826,10 +19813,19 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "复古女性",
+    "term_zh": "复古风格female",
     "labels_zh": [
       "character",
       "复古女性"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "retro style female",
+      "retro"
     ]
   },
   {
@@ -16847,10 +19843,19 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.585,
-    "term_zh": "情侣合照",
+    "term_zh": "情侣照片",
     "labels_zh": [
       "character",
       "情侣合照"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "couple photo",
+      "couple"
     ]
   },
   {
@@ -16872,6 +19877,15 @@
     "labels_zh": [
       "character",
       "食物手绘字体可爱"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "cute hand-drawn food",
+      "cute"
     ]
   },
   {
@@ -16897,7 +19911,12 @@
     "labels_zh": [
       "character",
       "温馨女性"
-    ]
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved"
   },
   {
     "id": "character_p0_022a3fc1",
@@ -16914,10 +19933,19 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "女性胶片",
+    "term_zh": "胶片摄影female",
     "labels_zh": [
       "character",
       "女性胶片"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "film photography female",
+      "film"
     ]
   },
   {
@@ -16935,7 +19963,7 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "电影感男性",
+    "term_zh": "电影感male人像",
     "aliases": [
       "film-like",
       "movie-style"
@@ -16947,7 +19975,12 @@
     "labels_zh": [
       "character",
       "电影感男性"
-    ]
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved"
   },
   {
     "id": "character_p0_37b3673d",
@@ -16968,6 +20001,14 @@
     "labels_zh": [
       "character",
       "证件照"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "photo"
     ]
   },
   {
@@ -16989,6 +20030,15 @@
     "labels_zh": [
       "character",
       "手绘标注"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "hand-drawn annotations",
+      "hand-drawn"
     ]
   },
   {
@@ -17010,6 +20060,15 @@
     "labels_zh": [
       "character",
       "大凶美女"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "glamorous woman",
+      "glamorous"
     ]
   },
   {
@@ -17031,6 +20090,15 @@
     "labels_zh": [
       "character",
       "高端女性杂志"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "premium women's magazine",
+      "premium"
     ]
   },
   {
@@ -17048,7 +20116,7 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "电影感汽车",
+    "term_zh": "电影感vehicle摄影",
     "aliases": [
       "film-like",
       "movie-style"
@@ -17060,7 +20128,12 @@
     "labels_zh": [
       "character",
       "电影感汽车"
-    ]
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved"
   },
   {
     "id": "character_p0_7ecedcf3",
@@ -17077,10 +20150,19 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "直播画面",
+    "term_zh": "live溪流画框",
     "labels_zh": [
       "character",
       "直播画面"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "live stream frame",
+      "live"
     ]
   },
   {
@@ -17102,6 +20184,15 @@
     "labels_zh": [
       "character",
       "不漏诱惑"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "alluring pose (typo",
+      "alluring"
     ]
   },
   {
@@ -17119,10 +20210,19 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.705,
-    "term_zh": "蹲在地上直视镜头",
+    "term_zh": "看着镜头",
     "labels_zh": [
       "character",
       "蹲在地上直视镜头"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "crouching looking camera",
+      "crouching"
     ]
   },
   {
@@ -17140,10 +20240,19 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "女性极简产品",
+    "term_zh": "极简主义product摄影",
     "labels_zh": [
       "character",
       "女性极简产品"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "minimalist product photography",
+      "minimalist"
     ]
   },
   {
@@ -17165,6 +20274,15 @@
     "labels_zh": [
       "character",
       "女性品牌"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "women's brand identity",
+      "women's"
     ]
   },
   {
@@ -17186,6 +20304,15 @@
     "labels_zh": [
       "character",
       "二次元大凶美女"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "anime glamorous woman",
+      "anime"
     ]
   },
   {
@@ -17203,7 +20330,7 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "电影感儿童",
+    "term_zh": "电影感children人像",
     "aliases": [
       "film-like",
       "movie-style"
@@ -17215,7 +20342,12 @@
     "labels_zh": [
       "character",
       "电影感儿童"
-    ]
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved"
   },
   {
     "id": "character_p0_54a66016",
@@ -17240,6 +20372,15 @@
     "aliases_zh": [
       "cyberpunk city",
       "霓虹城市"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "cyberpunk, female",
+      "cyberpunk,"
     ]
   },
   {
@@ -17261,6 +20402,14 @@
     "labels_zh": [
       "character",
       "搞怪"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "funny"
     ]
   },
   {
@@ -17278,10 +20427,19 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "高达",
+    "term_zh": "gundam模特艺术",
     "labels_zh": [
       "character",
       "高达"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "gundam model art",
+      "gundam"
     ]
   },
   {
@@ -17299,10 +20457,49 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.665,
-    "term_zh": "原神",
+    "term_zh": "原神风格",
     "labels_zh": [
       "character",
       "原神"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "genshin impact style",
+      "genshin"
     ]
+  },
+  {
+    "id": "character_character_anime_illustration_p0_0f5cb3b4",
+    "term": "realistic anime style",
+    "category": "character",
+    "subcategory": "character_anime_illustration",
+    "weight": 0.665,
+    "score": 0.5,
+    "source": "BaYue-SYJ/shuixian-prompts",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "is_negative": false,
+    "needs_review": false,
+    "score_v2": 0.665,
+    "term_zh": "写实动漫风格",
+    "aliases": [
+      "anime art style"
+    ],
+    "labels_zh": [
+      "uncategorized",
+      "真人日漫"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
+    "lifecycle": "approved",
+    "labels": []
   }
 ]

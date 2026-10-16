@@ -159,7 +159,7 @@ def find_translation(term: str, index: dict) -> "str | None":
         coverage = matched_count / max(len(words), 1)
         if matched_count >= 2 and coverage >= 0.6:
             composed = []
-            for w, t in zip(words, translated_words, strict=True):
+            for w, t in zip(words, translated_words):
                 if t is not None:
                     composed.append(t)
                 else:

@@ -70,7 +70,7 @@
       "weight": 0.85
     },
     {
-      "id": "mj_mj_v5_design_minimalist",
+      "id": "style_design_minimalist",
       "weight": 0.85
     },
     {
@@ -91,11 +91,11 @@
       "weight": 0.8
     },
     {
-      "id": "mj_mj_v5_lighting_cinematic_lighting",
+      "id": "lighting_dramatic_cinematic_lighting",
       "weight": 0.8
     },
     {
-      "id": "mj_mj_v5_camera_wide_angle",
+      "id": "camera_wide_angle_2483ac85",
       "weight": 0.9,
       "force_include": true
     },

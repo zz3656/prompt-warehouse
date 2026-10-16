@@ -34,7 +34,11 @@
     "aliases_zh": [
       "lycanthrope",
       "变形狼人"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00"
   },
   {
     "id": "character_fx_transformation_vampire",
@@ -70,7 +74,11 @@
     "aliases_zh": [
       "blood drinker",
       "不死吸血鬼"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00"
   },
   {
     "id": "character_fx_transformation_cyborg",
@@ -106,7 +114,11 @@
     "aliases_zh": [
       "luminous",
       "发光效果"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00"
   },
   {
     "id": "character_fx_transformation_ghost_form",
@@ -140,7 +152,11 @@
     ],
     "aliases_zh": [
       "半透明质感"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00"
   },
   {
     "id": "character_fx_transformation_statue_stone",
@@ -169,7 +185,15 @@
     ],
     "weight": 0.54,
     "score_v2": 0.54,
-    "term_zh": "石化解剖"
+    "term_zh": "石化解剖",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "stone petrification",
+      "stone"
+    ]
   },
   {
     "id": "character_fx_transformation_liquid_metal",
@@ -197,7 +221,15 @@
     ],
     "weight": 0.62,
     "score_v2": 0.62,
-    "term_zh": "液态金属变形"
+    "term_zh": "液态金属变形",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "liquid metal morph",
+      "liquid"
+    ]
   },
   {
     "id": "character_fx_transformation_animalization",
@@ -230,7 +262,11 @@
     "aliases": [
       "metamorphosis",
       "shape-shifting"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00"
   },
   {
     "id": "character_fx_transformation_gorilla_form",
@@ -263,7 +299,11 @@
     "aliases": [
       "metamorphosis",
       "shape-shifting"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00"
   },
   {
     "id": "character_fx_transformation_mystification",
@@ -295,7 +335,11 @@
     "aliases": [
       "metamorphosis",
       "shape-shifting"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00"
   },
   {
     "id": "character_fx_transformation_gas_form",
@@ -323,7 +367,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "主体化为彩色烟雾漩涡"
+    "term_zh": "主体化为彩色烟雾漩涡",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "the subject's body",
+      "the"
+    ]
   },
   {
     "id": "character_fx_transformation_diamond_skin",
@@ -351,7 +403,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "皮肤钻石化"
+    "term_zh": "皮肤钻石化",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "skin crystallizing into",
+      "skin"
+    ]
   },
   {
     "id": "character_fx_transformation_agent_reveal",
@@ -386,7 +446,11 @@
     ],
     "aliases_zh": [
       "黑色调"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00"
   },
   {
     "id": "character_fx_power_fire_breathe",
@@ -423,7 +487,11 @@
     "aliases_zh": [
       "fire effects",
       "火焰"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00"
   },
   {
     "id": "character_fx_power_ice_breathe",
@@ -452,7 +520,15 @@
     ],
     "weight": 0.54,
     "score_v2": 0.54,
-    "term_zh": "吐息"
+    "term_zh": "吐息",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "ice breath",
+      "ice"
+    ]
   },
   {
     "id": "character_fx_power_air_bending",
@@ -480,7 +556,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "主体手指划出可见魔法符文阵"
+    "term_zh": "主体手指划出可见魔法符文阵",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "the subject's hands",
+      "the"
+    ]
   },
   {
     "id": "character_fx_power_water_bending",
@@ -508,7 +592,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "主体手势抽水带至空中"
+    "term_zh": "主体手势抽水带至空中",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "the subject's hand",
+      "the"
+    ]
   },
   {
     "id": "character_fx_power_earth_bending",
@@ -536,7 +628,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "主体踏石手势成盾环绕"
+    "term_zh": "主体踏石手势成盾环绕",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "the subject stomps",
+      "the"
+    ]
   },
   {
     "id": "character_fx_power_lightning_hands",
@@ -565,7 +665,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "指尖电弧"
+    "term_zh": "指尖电弧",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "electric arcs from",
+      "electric"
+    ]
   },
   {
     "id": "character_fx_power_levitation",
@@ -593,7 +701,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "主体缓缓垂直升空悬停"
+    "term_zh": "主体缓缓垂直升空悬停",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "the subject rises",
+      "the"
+    ]
   },
   {
     "id": "character_fx_power_telekinesis",
@@ -621,7 +737,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "主体伸手附近物体念力升起"
+    "term_zh": "主体伸手附近物体念力升起",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "the subject extends",
+      "the"
+    ]
   },
   {
     "id": "character_fx_power_invisibility",
@@ -649,7 +773,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "主体身体淡入透仅余折射轮廓"
+    "term_zh": "主体身体淡入透仅余折射轮廓",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "the subject's body",
+      "the"
+    ]
   },
   {
     "id": "character_fx_power_hero_flight",
@@ -677,7 +809,15 @@
     ],
     "weight": 0.62,
     "score_v2": 0.62,
-    "term_zh": "超级英雄起飞"
+    "term_zh": "超级英雄起飞",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "superhero flight takeoff",
+      "superhero"
+    ]
   },
   {
     "id": "character_fx_power_super_speed",
@@ -705,7 +845,15 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "主体化为超速残影"
+    "term_zh": "主体化为超速残影",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "the subject blurs",
+      "the"
+    ]
   },
   {
     "id": "character_fx_power_soul_departure",
@@ -734,13 +882,21 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "灵魂出窍"
+    "term_zh": "灵魂出窍",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "soul leaving the",
+      "soul"
+    ]
   },
   {
     "id": "character_fx_body_mod_wings_grow",
     "term": "wings unfurling from the back",
     "category": "character-fx",
-    "subcategory": "body-mod",
+    "subcategory": "body_mod",
     "labels": [
       "wings-grow",
       "nodaro-prompts"
@@ -762,13 +918,21 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "背后翅膀展开"
+    "term_zh": "背后翅膀展开",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "wings unfurling from",
+      "wings"
+    ]
   },
   {
     "id": "character_fx_body_mod_horns_grow",
     "term": "horns growing from the head",
     "category": "character-fx",
-    "subcategory": "body-mod",
+    "subcategory": "body_mod",
     "labels": [
       "horns-grow",
       "nodaro-prompts"
@@ -791,13 +955,21 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "额生角骨"
+    "term_zh": "额生角骨",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "horns growing from",
+      "horns"
+    ]
   },
   {
     "id": "character_fx_body_mod_tail_emerge",
     "term": "tail growing from the spine",
     "category": "character-fx",
-    "subcategory": "body-mod",
+    "subcategory": "body_mod",
     "labels": [
       "tail-emerge",
       "nodaro-prompts"
@@ -820,13 +992,21 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "尾骨生尾"
+    "term_zh": "尾骨生尾",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "tail growing from",
+      "tail"
+    ]
   },
   {
     "id": "character_fx_body_mod_tentacles_emerge",
     "term": "tentacles writhing from the back",
     "category": "character-fx",
-    "subcategory": "body-mod",
+    "subcategory": "body_mod",
     "labels": [
       "tentacles-emerge",
       "nodaro-prompts"
@@ -848,13 +1028,21 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "背后触手起躯"
+    "term_zh": "背后触手起躯",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "tentacles writhing from",
+      "tentacles"
+    ]
   },
   {
     "id": "character_fx_body_mod_extra_eyes",
     "term": "extra eyes opening on the face",
     "category": "character-fx",
-    "subcategory": "body-mod",
+    "subcategory": "body_mod",
     "labels": [
       "extra-eyes",
       "nodaro-prompts"
@@ -876,13 +1064,21 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "多余眼睛睁开"
+    "term_zh": "多余眼睛睁开",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "extra eyes opening",
+      "extra"
+    ]
   },
   {
     "id": "character_fx_body_mod_head_explode",
     "term": "stylized head explosion",
     "category": "character-fx",
-    "subcategory": "body-mod",
+    "subcategory": "body_mod",
     "labels": [
       "head-explode",
       "nodaro-prompts"
@@ -908,13 +1104,17 @@
     "aliases": [
       "detonation",
       "fireball explosion"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00"
   },
   {
     "id": "character_fx_body_mod_head_off",
     "term": "stylized head detachment",
     "category": "character-fx",
-    "subcategory": "body-mod",
+    "subcategory": "body_mod",
     "labels": [
       "head-off",
       "nodaro-prompts"
@@ -936,13 +1136,21 @@
     ],
     "weight": 0.62,
     "score_v2": 0.62,
-    "term_zh": "风格化头部分离"
+    "term_zh": "风格化头部分离",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "stylized head detachment",
+      "stylized"
+    ]
   },
   {
     "id": "character_fx_body_mod_spiders_from_mouth",
     "term": "spiders crawling from the mouth",
     "category": "character-fx",
-    "subcategory": "body-mod",
+    "subcategory": "body_mod",
     "labels": [
       "spiders-from-mouth",
       "nodaro-prompts"
@@ -964,13 +1172,21 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "蜘蛛口中出"
+    "term_zh": "蜘蛛口中出",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "spiders crawling from",
+      "spiders"
+    ]
   },
   {
     "id": "character_fx_body_mod_skin_surge",
     "term": "skin rippling with movement underneath",
     "category": "character-fx",
-    "subcategory": "body-mod",
+    "subcategory": "body_mod",
     "labels": [
       "skin-surge",
       "nodaro-prompts"
@@ -992,13 +1208,21 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "皮肤下蠕动"
+    "term_zh": "皮肤下蠕动",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "skin rippling with",
+      "skin"
+    ]
   },
   {
     "id": "character_fx_face_expression_horror_face",
     "term": "contorted horror expression",
     "category": "character-fx",
-    "subcategory": "face-expression",
+    "subcategory": "face_expression",
     "labels": [
       "horror-face",
       "nodaro-prompts"
@@ -1020,13 +1244,21 @@
     ],
     "weight": 0.62,
     "score_v2": 0.62,
-    "term_zh": "恐怖扭曲表情"
+    "term_zh": "恐怖扭曲表情",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "contorted horror expression",
+      "contorted"
+    ]
   },
   {
     "id": "character_fx_face_expression_oni_mask",
     "term": "a red and gold oni demon mask materializes and slides into p",
     "category": "character-fx",
-    "subcategory": "face-expression",
+    "subcategory": "face_expression",
     "labels": [
       "oni-mask",
       "nodaro-prompts"
@@ -1052,13 +1284,17 @@
     "aliases": [
       "dark demon",
       "malevolent spirit"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00"
   },
   {
     "id": "character_fx_face_expression_glowing_eyes",
     "term": "the subject's eyes ignite with a brilliant internal glow — w",
     "category": "character-fx",
-    "subcategory": "face-expression",
+    "subcategory": "face_expression",
     "labels": [
       "glowing-eyes",
       "nodaro-prompts"
@@ -1084,13 +1320,21 @@
     "aliases_zh": [
       "luminous",
       "发光效果"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00",
+    "aliases": [
+      "the subject's eyes",
+      "the"
     ]
   },
   {
     "id": "character_fx_face_expression_floral_eyes",
     "term": "flowers blooming from the eyes",
     "category": "character-fx",
-    "subcategory": "face-expression",
+    "subcategory": "face_expression",
     "labels": [
       "floral-eyes",
       "nodaro-prompts"
@@ -1116,13 +1360,17 @@
     "aliases": [
       "glow effect",
       "soft bloom"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00"
   },
   {
     "id": "character_fx_face_expression_bloom_mouth",
     "term": "flowers blooming from the mouth",
     "category": "character-fx",
-    "subcategory": "face-expression",
+    "subcategory": "face_expression",
     "labels": [
       "bloom-mouth",
       "nodaro-prompts"
@@ -1148,13 +1396,17 @@
     "aliases": [
       "glow effect",
       "soft bloom"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00"
   },
   {
     "id": "character_fx_face_expression_x_ray",
     "term": "the subject's body becomes semi-transparent in X-ray style",
     "category": "character-fx",
-    "subcategory": "face-expression",
+    "subcategory": "face_expression",
     "labels": [
       "x-ray",
       "nodaro-prompts"
@@ -1182,13 +1434,17 @@
     ],
     "aliases_zh": [
       "半透明质感"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00"
   },
   {
     "id": "character_fx_face_expression_agent_snap",
     "term": "sunglasses snapping onto the face",
     "category": "character-fx",
-    "subcategory": "face-expression",
+    "subcategory": "face_expression",
     "labels": [
       "agent-snap",
       "nodaro-prompts"
@@ -1210,13 +1466,21 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "太阳镜贴面"
+    "term_zh": "太阳镜贴面",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "sunglasses snapping onto",
+      "sunglasses"
+    ]
   },
   {
     "id": "character_fx_face_expression_visor_x",
     "term": "a futuristic cybernetic visor materializes across the subjec",
     "category": "character-fx",
-    "subcategory": "face-expression",
+    "subcategory": "face_expression",
     "labels": [
       "visor-x",
       "nodaro-prompts"
@@ -1238,13 +1502,21 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "未来赛博视镜浮现于主体眼上"
+    "term_zh": "未来赛博视镜浮现于主体眼上",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "futuristic cybernetic visor",
+      "futuristic"
+    ]
   },
   {
     "id": "character_fx_aura_ambient_paparazzi",
     "term": "the subject stands or moves while multiple camera flash burs",
     "category": "character-fx",
-    "subcategory": "aura-ambient",
+    "subcategory": "aura_ambient",
     "labels": [
       "paparazzi",
       "nodaro-prompts"
@@ -1269,13 +1541,21 @@
     "term_zh": "主体站立时多闪光同步闪烁",
     "aliases_zh": [
       "金属光泽表面"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00",
+    "aliases": [
+      "the subject stands",
+      "the"
     ]
   },
   {
     "id": "character_fx_aura_ambient_money_rain",
     "term": "the subject stands or moves through a slow-motion cascade of",
     "category": "character-fx",
-    "subcategory": "aura-ambient",
+    "subcategory": "aura_ambient",
     "labels": [
       "money-rain",
       "nodaro-prompts"
@@ -1297,13 +1577,21 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "主体慢动作花瓣瀑中穿行"
+    "term_zh": "主体慢动作花瓣瀑中穿行",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "the subject stands",
+      "the"
+    ]
   },
   {
     "id": "character_fx_aura_ambient_color_rain",
     "term": "brightly coloured rain",
     "category": "character-fx",
-    "subcategory": "aura-ambient",
+    "subcategory": "aura_ambient",
     "labels": [
       "color-rain",
       "nodaro-prompts"
@@ -1334,13 +1622,17 @@
     "aliases_zh": [
       "rain weather",
       "雨天"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00"
   },
   {
     "id": "character_fx_aura_ambient_saint_glow",
     "term": "golden halo and divine glow",
     "category": "character-fx",
-    "subcategory": "aura-ambient",
+    "subcategory": "aura_ambient",
     "labels": [
       "saint-glow",
       "nodaro-prompts"
@@ -1366,13 +1658,17 @@
     "term_zh": "金圈神光",
     "aliases": [
       "metallic gold"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00"
   },
   {
     "id": "character_fx_aura_ambient_fire_aura",
     "term": "flames lick and curl around the subject's body without burni",
     "category": "character-fx",
-    "subcategory": "aura-ambient",
+    "subcategory": "aura_ambient",
     "labels": [
       "fire-aura",
       "nodaro-prompts"
@@ -1398,13 +1694,21 @@
     "aliases_zh": [
       "fire effects",
       "火焰"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00",
+    "aliases": [
+      "flames lick and",
+      "flames"
     ]
   },
   {
     "id": "character_fx_aura_ambient_frost_aura",
     "term": "frost and ice radiate outward from the subject — surfaces ar",
     "category": "character-fx",
-    "subcategory": "aura-ambient",
+    "subcategory": "aura_ambient",
     "labels": [
       "frost-aura",
       "nodaro-prompts"
@@ -1426,13 +1730,21 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "主体向外霜冰涟漪"
+    "term_zh": "主体向外霜冰涟漪",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "frost and ice",
+      "frost"
+    ]
   },
   {
     "id": "character_fx_aura_ambient_shadow_aura",
     "term": "dark shadow tendrils swirl and writhe around the subject's b",
     "category": "character-fx",
-    "subcategory": "aura-ambient",
+    "subcategory": "aura_ambient",
     "labels": [
       "shadow-aura",
       "nodaro-prompts"
@@ -1457,13 +1769,21 @@
     "term_zh": "黑暗影鞭环绕主体",
     "aliases_zh": [
       "黑色调"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00",
+    "aliases": [
+      "dark shadow tendrils",
+      "dark"
     ]
   },
   {
     "id": "character_fx_aura_ambient_electricity_aura",
     "term": "crackling electric aura",
     "category": "character-fx",
-    "subcategory": "aura-ambient",
+    "subcategory": "aura_ambient",
     "labels": [
       "electricity-aura",
       "nodaro-prompts"
@@ -1486,13 +1806,21 @@
     ],
     "weight": 0.62,
     "score_v2": 0.62,
-    "term_zh": "磁电光环"
+    "term_zh": "磁电光环",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "crackling electric aura",
+      "crackling"
+    ]
   },
   {
     "id": "character_fx_aura_ambient_sparkles_around",
     "term": "delicate magical sparkles and small star-shaped particles or",
     "category": "character-fx",
-    "subcategory": "aura-ambient",
+    "subcategory": "aura_ambient",
     "labels": [
       "sparkles-around",
       "nodaro-prompts"
@@ -1518,13 +1846,17 @@
     "aliases": [
       "glittering",
       "sparkles"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00"
   },
   {
     "id": "character_fx_aura_ambient_fairies_around",
     "term": "tiny glowing fairies",
     "category": "character-fx",
-    "subcategory": "aura-ambient",
+    "subcategory": "aura_ambient",
     "labels": [
       "fairies-around",
       "nodaro-prompts"
@@ -1554,13 +1886,17 @@
     "aliases_zh": [
       "luminous",
       "发光效果"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00"
   },
   {
     "id": "character_fx_aura_ambient_objects_orbit",
     "term": "objects orbiting in mid-air",
     "category": "character-fx",
-    "subcategory": "aura-ambient",
+    "subcategory": "aura_ambient",
     "labels": [
       "objects-orbit",
       "nodaro-prompts"
@@ -1582,13 +1918,21 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "物件空中环绕"
+    "term_zh": "物件空中环绕",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "objects orbiting mid-air",
+      "objects"
+    ]
   },
   {
     "id": "character_fx_aura_ambient_petals_around",
     "term": "cherry blossom petals drifting",
     "category": "character-fx",
-    "subcategory": "aura-ambient",
+    "subcategory": "aura_ambient",
     "labels": [
       "petals-around",
       "nodaro-prompts"
@@ -1611,13 +1955,21 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "樱花漂落"
+    "term_zh": "樱花漂落",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "cherry blossom petals",
+      "cherry"
+    ]
   },
   {
     "id": "character_fx_aura_ambient_glow_trace",
     "term": "glowing motion trails",
     "category": "character-fx",
-    "subcategory": "aura-ambient",
+    "subcategory": "aura_ambient",
     "labels": [
       "glow-trace",
       "nodaro-prompts"
@@ -1647,13 +1999,17 @@
     "aliases_zh": [
       "luminous",
       "发光效果"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00"
   },
   {
     "id": "character_fx_aura_ambient_tattoo_animation",
     "term": "glowing animated tattoos",
     "category": "character-fx",
-    "subcategory": "aura-ambient",
+    "subcategory": "aura_ambient",
     "labels": [
       "tattoo-animation",
       "nodaro-prompts"
@@ -1683,12 +2039,16 @@
     "aliases_zh": [
       "luminous",
       "发光效果"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00"
   },
   {
     "id": "character_fx_aura_ethereal",
     "term": "ethereal glowing aura",
-    "subcategory": "aura-ambient",
+    "subcategory": "aura_ambient",
     "labels": [
       "ethereal",
       "glowing",
@@ -1722,12 +2082,15 @@
     "aliases_zh": [
       "luminous",
       "发光效果"
-    ]
+    ],
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00"
   },
   {
     "id": "character_fx_transparent_body",
     "term": "semi-transparent crystalline body",
-    "subcategory": "body-mod",
+    "subcategory": "body_mod",
     "labels": [
       "semi-transparent",
       "crystalline",
@@ -1759,12 +2122,15 @@
     ],
     "aliases_zh": [
       "半透明质感"
-    ]
+    ],
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00"
   },
   {
     "id": "character_fx_flame_hair",
     "term": "hair engulfed in blue flames",
-    "subcategory": "face-expression",
+    "subcategory": "face_expression",
     "labels": [
       "flame",
       "hair",
@@ -1790,7 +2156,7 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "头发燃烧蓝色火焰",
+    "term_zh": "头发engulfedin蓝色火焰",
     "aliases_zh": [
       "fire effects",
       "火焰"
@@ -1798,7 +2164,10 @@
     "aliases": [
       "deep blue",
       "navy blue"
-    ]
+    ],
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00"
   },
   {
     "id": "character_fx_demonic_wings",
@@ -1836,7 +2205,10 @@
     "aliases_zh": [
       "malevolent spirit",
       "黑暗恶魔"
-    ]
+    ],
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.590187+00:00"
   },
   {
     "id": "character_fx_electric_wrath",
@@ -1867,6 +2239,13 @@
     ],
     "weight": 0.66,
     "score_v2": 0.66,
-    "term_zh": "电流在皮肤上闪烁"
+    "term_zh": "电流在皮肤上闪烁",
+    "updated_at": "2026-10-16T02:35:35.459885+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459885+00:00",
+    "aliases": [
+      "electric charge crackling",
+      "electric"
+    ]
   }
 ]

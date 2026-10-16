@@ -4,8 +4,15 @@
   "name_zh": "漫画分镜完整流程",
   "description": "Generate a complete comic panel with character, scene, composition, and lighting.",
   "description_zh": "生成完整的漫画分镜：角色 + 场景 + 构图 + 灯光",
-  "use_case": ["comic", "storyboard"],
-  "api_targets": ["SDXL", "Midjourney", "Flux"],
+  "use_case": [
+    "comic",
+    "storyboard"
+  ],
+  "api_targets": [
+    "SDXL",
+    "Midjourney",
+    "Flux"
+  ],
   "output_format": "comma_separated",
   "steps": [
     {

@@ -1,0 +1,42 @@
+{
+  "name": "material 工作流",
+  "description": "material 分类的常用关键词集合 (67 条)",
+  "category": "material",
+  "keywords": [
+    "made of silk",
+    "made of cotton",
+    "made of heavy indigo denim",
+    "made of leather",
+    "made of velvet",
+    "made of satin",
+    "made of lace",
+    "made of wool",
+    "made of linen",
+    "made of tweed"
+  ],
+  "total_count": 67,
+  "id": "workflow.material",
+  "name_zh": "材质",
+  "steps": [
+    {
+      "order": 1,
+      "template_id": "action.motion"
+    },
+    {
+      "order": 2,
+      "template_id": "atmosphere.weather"
+    },
+    {
+      "order": 3,
+      "template_id": "camera.movement"
+    },
+    {
+      "order": 4,
+      "template_id": "camera.shot_type"
+    },
+    {
+      "order": 5,
+      "template_id": "character.multiple_views"
+    }
+  ]
+}

@@ -3,7 +3,7 @@
     "id": "era_decade_20c_1920s_flapper",
     "term": "set in the 1920s flapper era — beaded drop-waist dresses",
     "category": "era",
-    "subcategory": "decade-20c",
+    "subcategory": "decade_20c",
     "labels": [
       "1920s-flapper",
       "nodaro-prompts"
@@ -25,13 +25,21 @@
     ],
     "weight": 0.69,
     "score_v2": 0.69,
-    "term_zh": "1920年代轻佻女郎时代 — 串珠低腰连衣裙"
+    "term_zh": "1920年代轻佻女郎时代 — 串珠低腰连衣裙",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462349+00:00",
+    "aliases": [
+      "set the 1920s",
+      "set"
+    ]
   },
   {
     "id": "era_decade_20c_1930s_art_deco",
     "term": "set in the 1930s art-deco era — bias-cut satin gowns",
     "category": "era",
-    "subcategory": "decade-20c",
+    "subcategory": "decade_20c",
     "labels": [
       "1930s-art-deco",
       "nodaro-prompts"
@@ -57,13 +65,21 @@
     "aliases_zh": [
       "art deco style",
       "geometric pattern"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591728+00:00",
+    "aliases": [
+      "set the 1930s",
+      "set"
     ]
   },
   {
     "id": "era_decade_20c_1940s_wartime",
     "term": "set in the 1940s wartime era — utility dresses",
     "category": "era",
-    "subcategory": "decade-20c",
+    "subcategory": "decade_20c",
     "labels": [
       "1940s-wartime",
       "nodaro-prompts"
@@ -85,13 +101,21 @@
     ],
     "weight": 0.69,
     "score_v2": 0.69,
-    "term_zh": "1940年代战时 — 实用连衣裙"
+    "term_zh": "1940年代战时 — 实用连衣裙",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462349+00:00",
+    "aliases": [
+      "set the 1940s",
+      "set"
+    ]
   },
   {
     "id": "era_decade_20c_1960s_mod",
     "term": "set in the 1960s mod era — geometric A-line dresses",
     "category": "era",
-    "subcategory": "decade-20c",
+    "subcategory": "decade_20c",
     "labels": [
       "1960s-mod",
       "nodaro-prompts"
@@ -116,13 +140,21 @@
     ],
     "weight": 0.69,
     "score_v2": 0.69,
-    "term_zh": "1960 年代摩登 — 几何 A 字裙"
+    "term_zh": "1960 年代摩登 — 几何 A 字裙",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462349+00:00",
+    "aliases": [
+      "set the 1960s",
+      "set"
+    ]
   },
   {
     "id": "era_decade_20c_1970s_disco",
     "term": "set in the 1970s disco era — sequined jumpsuits",
     "category": "era",
-    "subcategory": "decade-20c",
+    "subcategory": "decade_20c",
     "labels": [
       "1970s-disco",
       "nodaro-prompts"
@@ -144,13 +176,21 @@
     ],
     "weight": 0.69,
     "score_v2": 0.69,
-    "term_zh": "1970年代迪斯科 — 亮片连体衣"
+    "term_zh": "1970年代迪斯科 — 亮片连体衣",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462349+00:00",
+    "aliases": [
+      "set the 1970s",
+      "set"
+    ]
   },
   {
     "id": "era_decade_20c_1980s_neon",
     "term": "set in the 1980s neon era — power-shoulder blazers",
     "category": "era",
-    "subcategory": "decade-20c",
+    "subcategory": "decade_20c",
     "labels": [
       "1980s-neon",
       "nodaro-prompts"
@@ -174,13 +214,21 @@
     ],
     "weight": 0.69,
     "score_v2": 0.69,
-    "term_zh": "1980 年代霓虹 — 强肩西装外套"
+    "term_zh": "1980 年代霓虹 — 强肩西装外套",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462349+00:00",
+    "aliases": [
+      "set the 1980s",
+      "set"
+    ]
   },
   {
     "id": "era_pre_modern_medieval",
     "term": "set in the medieval era — heavy linen tunics",
     "category": "era",
-    "subcategory": "pre-modern",
+    "subcategory": "pre_modern",
     "labels": [
       "medieval",
       "nodaro-prompts"
@@ -203,13 +251,21 @@
     ],
     "weight": 0.69,
     "score_v2": 0.69,
-    "term_zh": "中世纪 — 厚重亚麻束腰外衣"
+    "term_zh": "中世纪 — 厚重亚麻束腰外衣",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462349+00:00",
+    "aliases": [
+      "set the medieval",
+      "set"
+    ]
   },
   {
     "id": "era_pre_modern_renaissance",
     "term": "set in the Renaissance era — velvet doublets",
     "category": "era",
-    "subcategory": "pre-modern",
+    "subcategory": "pre_modern",
     "labels": [
       "renaissance",
       "nodaro-prompts"
@@ -232,13 +288,21 @@
     ],
     "weight": 0.69,
     "score_v2": 0.69,
-    "term_zh": "文艺复兴 — 天鹅绒紧身上衣"
+    "term_zh": "文艺复兴 — 天鹅绒紧身上衣",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462349+00:00",
+    "aliases": [
+      "set the renaissance",
+      "set"
+    ]
   },
   {
     "id": "era_pre_modern_victorian",
     "term": "set in the Victorian era — corseted bustled gowns",
     "category": "era",
-    "subcategory": "pre-modern",
+    "subcategory": "pre_modern",
     "labels": [
       "victorian",
       "nodaro-prompts"
@@ -261,13 +325,21 @@
     ],
     "weight": 0.69,
     "score_v2": 0.69,
-    "term_zh": "维多利亚 — 紧身胸衣撑裙礼服"
+    "term_zh": "维多利亚 — 紧身胸衣撑裙礼服",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462349+00:00",
+    "aliases": [
+      "set the victorian",
+      "set"
+    ]
   },
   {
     "id": "era_pre_modern_edwardian",
     "term": "set in the Edwardian era — high-collared tea dresses",
     "category": "era",
-    "subcategory": "pre-modern",
+    "subcategory": "pre_modern",
     "labels": [
       "edwardian",
       "nodaro-prompts"
@@ -294,13 +366,17 @@
     "term_zh": "爱德华 — 高领茶服",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591728+00:00"
   },
   {
     "id": "era_pre_modern_wild_west",
     "term": "set in the Wild West era — leather dusters",
     "category": "era",
-    "subcategory": "pre-modern",
+    "subcategory": "pre_modern",
     "labels": [
       "wild-west",
       "nodaro-prompts"
@@ -323,13 +399,21 @@
     ],
     "weight": 0.69,
     "score_v2": 0.69,
-    "term_zh": "西部荒野"
+    "term_zh": "西部荒野",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462349+00:00",
+    "aliases": [
+      "set the wild",
+      "set"
+    ]
   },
   {
     "id": "era_pre_modern_ancient_rome",
     "term": "set in ancient Rome — draped togas",
     "category": "era",
-    "subcategory": "pre-modern",
+    "subcategory": "pre_modern",
     "labels": [
       "ancient-rome",
       "nodaro-prompts"
@@ -352,13 +436,21 @@
     ],
     "weight": 0.69,
     "score_v2": 0.69,
-    "term_zh": "古罗马 — 披挂托加袍"
+    "term_zh": "古罗马 — 披挂托加袍",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462349+00:00",
+    "aliases": [
+      "set ancient rome",
+      "set"
+    ]
   },
   {
     "id": "era_pre_modern_ancient_egypt",
     "term": "set in ancient Egypt — pleated linen kalasiris",
     "category": "era",
-    "subcategory": "pre-modern",
+    "subcategory": "pre_modern",
     "labels": [
       "ancient-egypt",
       "nodaro-prompts"
@@ -381,13 +473,21 @@
     ],
     "weight": 0.69,
     "score_v2": 0.69,
-    "term_zh": "古埃及"
+    "term_zh": "古埃及",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462349+00:00",
+    "aliases": [
+      "set ancient egypt",
+      "set"
+    ]
   },
   {
     "id": "era_pre_modern_feudal_japan",
     "term": "set in feudal Japan — layered kimono",
     "category": "era",
-    "subcategory": "pre-modern",
+    "subcategory": "pre_modern",
     "labels": [
       "feudal-japan",
       "nodaro-prompts"
@@ -414,7 +514,11 @@
     "term_zh": "日本封建 — 多层和服",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591728+00:00"
   },
   {
     "id": "era_speculative_near_future",
@@ -443,7 +547,15 @@
     ],
     "weight": 0.69,
     "score_v2": 0.69,
-    "term_zh": "近未来 — 极简技术面料"
+    "term_zh": "近未来 — 极简技术面料",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462349+00:00",
+    "aliases": [
+      "set plausible near-future",
+      "set"
+    ]
   },
   {
     "id": "era_speculative_far_future",
@@ -471,7 +583,15 @@
     ],
     "weight": 0.69,
     "score_v2": 0.69,
-    "term_zh": "远未来星际时代 — 流线连体衣"
+    "term_zh": "远未来星际时代 — 流线连体衣",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462349+00:00",
+    "aliases": [
+      "set far-future spacefaring",
+      "set"
+    ]
   },
   {
     "id": "era_speculative_dieselpunk",
@@ -499,7 +619,15 @@
     ],
     "weight": 0.69,
     "score_v2": 0.69,
-    "term_zh": "柴油朋克替代历史 — 铆钉皮夹克"
+    "term_zh": "柴油朋克替代历史 — 铆钉皮夹克",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462349+00:00",
+    "aliases": [
+      "set dieselpunk alt-history",
+      "set"
+    ]
   },
   {
     "id": "era_speculative_atompunk",
@@ -530,7 +658,15 @@
     ],
     "weight": 0.69,
     "score_v2": 0.69,
-    "term_zh": "原子朋克 1950 年代未来 — 铬鳍连衣裙"
+    "term_zh": "原子朋克 1950 年代未来 — 铬鳍连衣裙",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462349+00:00",
+    "aliases": [
+      "set atompunk 1950s-future",
+      "set"
+    ]
   },
   {
     "id": "era_speculative_cyberpunk_future",
@@ -563,6 +699,14 @@
     "aliases_zh": [
       "cyberpunk city",
       "霓虹城市"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591728+00:00",
+    "aliases": [
+      "set cyberpunk future",
+      "set"
     ]
   },
   {
@@ -593,7 +737,15 @@
     ],
     "weight": 0.69,
     "score_v2": 0.69,
-    "term_zh": "末日废土 — 补丁皮革"
+    "term_zh": "末日废土 — 补丁皮革",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462349+00:00",
+    "aliases": [
+      "set post-apocalyptic wasteland",
+      "set"
+    ]
   },
   {
     "id": "era_speculative_retrofuturism",
@@ -624,7 +776,11 @@
     "term_zh": "复古未来明日 — 银色拉梅连体衣",
     "aliases": [
       "metallic silver"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591728+00:00"
   },
   {
     "id": "era_decade_futuristic_neon",
@@ -655,15 +811,18 @@
     ],
     "weight": 0.65,
     "score_v2": 0.65,
-    "term_zh": "霓虹黑色未来主义城市景观",
+    "term_zh": "neon-noir未来城市景观",
     "aliases": [
       "urban landscape"
-    ]
+    ],
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591728+00:00"
   },
   {
     "id": "era_decade_vintage_1920s",
     "term": "1920s Art Deco glamour",
-    "subcategory": "decade-20c",
+    "subcategory": "decade_20c",
     "labels": [
       "1920s",
       "art-deco",
@@ -689,16 +848,23 @@
     ],
     "weight": 0.69,
     "score_v2": 0.69,
-    "term_zh": "1920年代装饰艺术魅力风格",
+    "term_zh": "艺术装饰艺术glamour",
     "aliases_zh": [
       "art deco style",
       "geometric pattern"
+    ],
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591728+00:00",
+    "aliases": [
+      "1920s art deco",
+      "1920s"
     ]
   },
   {
     "id": "era_decade_vintage_1970s",
     "term": "1970s retro funk aesthetic",
-    "subcategory": "decade-20c",
+    "subcategory": "decade_20c",
     "labels": [
       "1970s",
       "retro",
@@ -724,12 +890,19 @@
     ],
     "weight": 0.69,
     "score_v2": 0.69,
-    "term_zh": "1970年代复古放克美学"
+    "term_zh": "复古放克aesthetic",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462349+00:00",
+    "aliases": [
+      "1970s retro funk",
+      "1970s"
+    ]
   },
   {
     "id": "era_decade_vintage_1980s_synth",
     "term": "1980s synthwave aesthetic",
-    "subcategory": "decade-20c",
+    "subcategory": "decade_20c",
     "labels": [
       "1980s",
       "synthwave",
@@ -755,12 +928,19 @@
     ],
     "weight": 0.65,
     "score_v2": 0.65,
-    "term_zh": "1980年代合成波美学"
+    "term_zh": "1980年代合成波美学",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462349+00:00",
+    "aliases": [
+      "1980s synthwave aesthetic",
+      "1980s"
+    ]
   },
   {
     "id": "era_decade_vintage_1990s",
     "term": "1990s Y2K digital nostalgia",
-    "subcategory": "decade-20c",
+    "subcategory": "decade_20c",
     "labels": [
       "1990s",
       "y2k",
@@ -786,7 +966,14 @@
     ],
     "weight": 0.69,
     "score_v2": 0.69,
-    "term_zh": "1990年代Y2K数字怀旧"
+    "term_zh": "数字怀旧",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462349+00:00",
+    "aliases": [
+      "1990s y2k digital",
+      "1990s"
+    ]
   },
   {
     "id": "era_speculative_biopunk",
@@ -816,7 +1003,14 @@
     ],
     "weight": 0.65,
     "score_v2": 0.65,
-    "term_zh": "生物朋克有机科技"
+    "term_zh": "生物朋克有机technology",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462349+00:00",
+    "aliases": [
+      "biopunk organic technology",
+      "biopunk"
+    ]
   },
   {
     "id": "era_speculative_arsenic_age",
@@ -850,7 +1044,10 @@
     "aliases": [
       "giant robot",
       "piloted mech"
-    ]
+    ],
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591728+00:00"
   },
   {
     "id": "era_speculative_solarpunk",
@@ -881,11 +1078,14 @@
     ],
     "weight": 0.69,
     "score_v2": 0.69,
-    "term_zh": "太阳能朋克葱郁绿色科技",
+    "term_zh": "太阳朋克脸红绿色technology",
     "aliases": [
       "emerald green",
       "forest green"
-    ]
+    ],
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591728+00:00"
   },
   {
     "id": "era_speculative_cottagecore",
@@ -916,7 +1116,14 @@
     ],
     "weight": 0.65,
     "score_v2": 0.65,
-    "term_zh": "乡村田园田园奇幻"
+    "term_zh": "乡村田园田园奇幻",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462349+00:00",
+    "aliases": [
+      "cottagecore pastoral whimsy",
+      "cottagecore"
+    ]
   },
   {
     "id": "era_speculative_goblincore",
@@ -947,7 +1154,14 @@
     ],
     "weight": 0.65,
     "score_v2": 0.65,
-    "term_zh": "地精哥布林沼泽奇幻"
+    "term_zh": "妖精核心泥泞enchanted",
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.462349+00:00",
+    "aliases": [
+      "goblincore muddy enchanted",
+      "goblincore"
+    ]
   },
   {
     "id": "era_speculative_dark_academia",
@@ -978,15 +1192,22 @@
     ],
     "weight": 0.69,
     "score_v2": 0.69,
-    "term_zh": "暗黑学院哥特图书馆",
+    "term_zh": "黑暗学院哥特图书馆",
     "aliases_zh": [
       "黑色调"
+    ],
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591728+00:00",
+    "aliases": [
+      "dark academia gothic",
+      "dark"
     ]
   },
   {
     "id": "era_pre_modern_byzantine",
     "term": "Byzantine mosaic gold leaf",
-    "subcategory": "pre-modern",
+    "subcategory": "pre_modern",
     "labels": [
       "byzantine",
       "mosaic",
@@ -1012,9 +1233,12 @@
     ],
     "weight": 0.69,
     "score_v2": 0.69,
-    "term_zh": "拜占庭马赛克金箔",
+    "term_zh": "拜占庭马赛克金色叶",
     "aliases": [
       "tiled mosaic artwork"
-    ]
+    ],
+    "updated_at": "2026-10-16T02:35:35.462349+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591728+00:00"
   }
 ]

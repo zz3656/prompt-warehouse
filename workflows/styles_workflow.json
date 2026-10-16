@@ -1,0 +1,42 @@
+{
+  "name": "styles 工作流",
+  "description": "styles 分类的常用关键词集合 (1996 条)",
+  "category": "styles",
+  "keywords": [
+    "90s aesthetic",
+    "90s anime style",
+    "anime coloring",
+    "anime screencap",
+    "anime still",
+    "anime style",
+    "cel shading",
+    "classic anime style",
+    "comic art",
+    "comic style"
+  ],
+  "total_count": 1996,
+  "id": "workflow.styles",
+  "name_zh": "风格",
+  "steps": [
+    {
+      "order": 1,
+      "template_id": "action.motion"
+    },
+    {
+      "order": 2,
+      "template_id": "atmosphere.weather"
+    },
+    {
+      "order": 3,
+      "template_id": "camera.movement"
+    },
+    {
+      "order": 4,
+      "template_id": "camera.shot_type"
+    },
+    {
+      "order": 5,
+      "template_id": "character.multiple_views"
+    }
+  ]
+}

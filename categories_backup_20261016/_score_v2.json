@@ -1,0 +1,139 @@
+{
+  "total_entries": 6256,
+  "modified_count": 0,
+  "distribution": {
+    "0.00-0.30": 0,
+    "0.30-0.50": 1357,
+    "0.50-0.70": 3295,
+    "0.70-0.90": 1489,
+    "0.90-1.00": 115
+  },
+  "by_category": {
+    "action-fx": {
+      "count": 75,
+      "avg": 0.7607,
+      "min": 0.725,
+      "max": 0.765
+    },
+    "atmosphere": {
+      "count": 6,
+      "avg": 0.68,
+      "min": 0.64,
+      "max": 0.72
+    },
+    "character": {
+      "count": 542,
+      "avg": 0.6001,
+      "min": 0.505,
+      "max": 0.705
+    },
+    "character-fx": {
+      "count": 60,
+      "avg": 0.6367,
+      "min": 0.54,
+      "max": 0.66
+    },
+    "clothing": {
+      "count": 703,
+      "avg": 0.532,
+      "min": 0.49,
+      "max": 0.69
+    },
+    "color-look": {
+      "count": 69,
+      "avg": 0.833,
+      "min": 0.735,
+      "max": 0.855
+    },
+    "composition": {
+      "count": 599,
+      "avg": 0.7823,
+      "min": 0.565,
+      "max": 0.915
+    },
+    "era": {
+      "count": 33,
+      "avg": 0.6839,
+      "min": 0.65,
+      "max": 0.69
+    },
+    "held-prop": {
+      "count": 66,
+      "avg": 0.6438,
+      "min": 0.605,
+      "max": 0.645
+    },
+    "lighting": {
+      "count": 385,
+      "avg": 0.8037,
+      "min": 0.73,
+      "max": 0.93
+    },
+    "material": {
+      "count": 67,
+      "avg": 0.6481,
+      "min": 0.62,
+      "max": 0.66
+    },
+    "negative": {
+      "count": 103,
+      "avg": 0.551,
+      "min": 0.49,
+      "max": 0.69
+    },
+    "panel": {
+      "count": 74,
+      "avg": 0.7164,
+      "min": 0.625,
+      "max": 0.825
+    },
+    "photographer": {
+      "count": 89,
+      "avg": 0.63,
+      "min": 0.63,
+      "max": 0.63
+    },
+    "quality": {
+      "count": 189,
+      "avg": 0.6748,
+      "min": 0.505,
+      "max": 0.795
+    },
+    "scene": {
+      "count": 1008,
+      "avg": 0.643,
+      "min": 0.565,
+      "max": 0.885
+    },
+    "shot-language": {
+      "count": 38,
+      "avg": 0.6726,
+      "min": 0.58,
+      "max": 0.78
+    },
+    "styles": {
+      "count": 1996,
+      "avg": 0.5333,
+      "min": 0.475,
+      "max": 0.675
+    },
+    "temporal": {
+      "count": 37,
+      "avg": 0.7288,
+      "min": 0.625,
+      "max": 0.825
+    },
+    "transitions": {
+      "count": 113,
+      "avg": 0.7922,
+      "min": 0.64,
+      "max": 0.84
+    },
+    "uncategorized": {
+      "count": 4,
+      "avg": 0.605,
+      "min": 0.585,
+      "max": 0.665
+    }
+  }
+}

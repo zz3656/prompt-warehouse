@@ -5760,3 +5760,281 @@
 {"term": "a luminous curtain of green and violet aurora light ripples ", "term_zh": "绿紫极光幕在画面中涟漪", "id": "transitions_element_aurora_sweep", "category": "transitions", "updated_at": "2026-09-30T09:14:09.779945+00:00"}
 {"term": "lush flowers and vines rapidly grow and bloom outward from t", "term_zh": "繁花藤蔓从主体快速生长绽放", "id": "transitions_element_garden_bloom", "category": "transitions", "updated_at": "2026-09-30T09:14:09.779947+00:00"}
 {"term": "the subject's eyes ignite with a brilliant white beam of lig", "term_zh": "主体双眼燃起明亮白色光束", "id": "transitions_light_eye_light_burst", "category": "transitions", "updated_at": "2026-09-30T09:14:09.779949+00:00"}
+{"term": "handheld", "term_zh": "手持", "id": "camera_handheld_509e1a7d", "category": "composition", "updated_at": "2026-10-16T02:35:12.646902+00:00"}
+{"term": "fluid motion", "term_zh": "流体运动", "id": "camera_stabilized_ef5746e2", "category": "composition", "updated_at": "2026-10-16T02:35:13.291609+00:00"}
+{"term": "anamorphic", "term_zh": "变形宽银幕", "id": "camera_anamorphic_de4ab376", "category": "composition", "updated_at": "2026-10-16T02:35:13.291622+00:00"}
+{"term": "fisheye", "term_zh": "鱼眼", "id": "camera_lens_4d0c5db8", "category": "composition", "updated_at": "2026-10-16T02:35:13.372601+00:00"}
+{"term": "wide-angle", "term_zh": "广角", "id": "camera_wide_angle_2483ac85", "category": "composition", "updated_at": "2026-10-16T02:35:13.454423+00:00"}
+{"term": "aerial shot", "term_zh": "航拍", "id": "camera_aerial_807f7ffe", "category": "composition", "updated_at": "2026-10-16T02:35:13.493676+00:00"}
+{"term": "cinema lens", "term_zh": "电影院晶状体", "id": "camera_anamorphic_e9e68963", "category": "composition", "updated_at": "2026-10-16T02:35:13.573475+00:00"}
+{"term": "crane shot", "term_zh": "摇臂镜头", "id": "camera_crane_dfc1c520", "category": "composition", "updated_at": "2026-10-16T02:35:13.964289+00:00"}
+{"term": "prime lens", "term_zh": "定焦镜头", "id": "camera_prime_225416a6", "category": "composition", "updated_at": "2026-10-16T02:35:13.964299+00:00"}
+{"term": "low-angle", "term_zh": "低角度", "id": "camera_angles_edd096ff", "category": "composition", "updated_at": "2026-10-16T02:35:14.108889+00:00"}
+{"term": "high-angle", "term_zh": "高角度", "id": "camera_angles_29b27546", "category": "composition", "updated_at": "2026-10-16T02:35:14.187872+00:00"}
+{"term": "aerial", "term_zh": "软石", "id": "camera_aerial_622413bc", "category": "composition", "updated_at": "2026-10-16T02:35:14.329706+00:00"}
+{"term": "over-the-shoulder", "term_zh": "过肩镜头", "id": "camera_shot_language_a2135aaf", "category": "composition", "updated_at": "2026-10-16T02:35:14.691148+00:00"}
+{"term": "fisheye close-up", "term_zh": "鱼眼特写", "id": "camera_lens_97f08efa", "category": "composition", "updated_at": "2026-10-16T02:35:14.853153+00:00"}
+{"term": "natural light", "term_zh": "自然光", "id": "lighting_p0_d085133d", "category": "lighting", "updated_at": "2026-10-16T02:35:20.702440+00:00"}
+{"term": "ambient light", "term_zh": "环境光", "id": "lighting_p0_a5faa7d8", "category": "lighting", "updated_at": "2026-10-16T02:35:20.702451+00:00"}
+{"term": "practical lighting", "term_zh": "实物光", "id": "lighting_p0_a73e5c91", "category": "lighting", "updated_at": "2026-10-16T02:35:20.702456+00:00"}
+{"term": "futuristic city", "term_zh": "未来城市", "id": "scene_p0_40a2319b", "category": "scene", "updated_at": "2026-10-16T02:35:20.702513+00:00"}
+{"term": "kitchen at dusk", "term_zh": "厨房at黄昏", "id": "scene_p0_37ecfbe8", "category": "scene", "updated_at": "2026-10-16T02:35:20.791502+00:00"}
+{"term": "underground nightclub", "term_zh": "地下夜店", "id": "scene_p0_05d04416", "category": "scene", "updated_at": "2026-10-16T02:35:20.791519+00:00"}
+{"term": "rainy street", "term_zh": "下雨街道", "id": "scene_p0_32c6fd92", "category": "scene", "updated_at": "2026-10-16T02:35:20.791525+00:00"}
+{"term": "industrial warehouse", "term_zh": "工业仓库", "id": "scene_p0_eeec1154", "category": "scene", "updated_at": "2026-10-16T02:35:20.791530+00:00"}
+{"term": "urban alley", "term_zh": "都市小巷", "id": "scene_p0_fac7d350", "category": "scene", "updated_at": "2026-10-16T02:35:21.103058+00:00"}
+{"term": "snowy mountain", "term_zh": "飘雪山", "id": "scene_p0_cf7e93f1", "category": "scene", "updated_at": "2026-10-16T02:35:21.195738+00:00"}
+{"term": "mountain lake", "term_zh": "山湖泊", "id": "scene_p0_129f557b", "category": "scene", "updated_at": "2026-10-16T02:35:21.195749+00:00"}
+{"term": "8K resolution", "term_zh": "16K 分辨率", "id": "style_29a0925b", "category": "styles", "updated_at": "2026-10-16T02:35:21.380932+00:00"}
+{"term": "stop-motion", "term_zh": "定格动画", "id": "style_stop_motion_703b36ec", "category": "styles", "updated_at": "2026-10-16T02:35:21.572484+00:00"}
+{"term": "4K resolution", "term_zh": "16K 分辨率", "id": "style_ad7e402c", "category": "styles", "updated_at": "2026-10-16T02:35:21.667055+00:00"}
+{"term": "vintage film", "term_zh": "复古胶片", "id": "style_retro_34bc798d", "category": "styles", "updated_at": "2026-10-16T02:35:21.667070+00:00"}
+{"term": "timelapse", "term_zh": "延时摄影", "id": "temporal_p0_18f83e1a", "category": "temporal", "updated_at": "2026-10-16T02:35:22.263834+00:00"}
+{"term": "frame interpolation", "term_zh": "画框插值", "id": "temporal_p0_197948f4", "category": "temporal", "updated_at": "2026-10-16T02:35:22.407392+00:00"}
+{"term": "hidden cut", "term_zh": "隐藏切割", "id": "transitions_p0_83270b89", "category": "transitions", "updated_at": "2026-10-16T02:35:24.981648+00:00"}
+{"term": "wide-angle close-up", "term_zh": "广角特写", "id": "camera_shot_size_6193cb51", "category": "composition", "updated_at": "2026-10-16T04:42:33.262881+00:00"}
+{"term": "high-angle close-up", "term_zh": "高角度特写", "id": "camera_angles_351a587f", "category": "composition", "updated_at": "2026-10-16T04:42:33.330348+00:00"}
+{"term": "low-angle close-up", "term_zh": "低角度特写", "id": "camera_angles_e15e91e7", "category": "composition", "updated_at": "2026-10-16T04:42:33.330364+00:00"}
+{"term": "glowing magical ritual circle", "term_zh": "发光魔幻ritual圆形", "id": "action_fx_magic_circle_ritual", "category": "action-fx", "updated_at": "2026-10-16T05:24:21.437753+00:00"}
+{"term": "fireball explosion trail", "term_zh": "火球爆炸trail", "id": "action_fx_explosion_fireball", "category": "action-fx", "updated_at": "2026-10-16T05:24:21.437765+00:00"}
+{"term": "invisible wind blade slash", "term_zh": "无形风刃斩击", "id": "action_fx_wind_blade", "category": "action-fx", "updated_at": "2026-10-16T05:24:40.797031+00:00"}
+{"term": "slow-motion braam", "term_zh": "慢动作布拉姆效果", "id": "animation_frame_braam", "category": "animation", "updated_at": "2026-10-16T05:24:40.808416+00:00"}
+{"term": "time-lapse sequence", "term_zh": "延时摄影序列", "id": "animation_frame_timelapse", "category": "animation", "updated_at": "2026-10-16T05:24:40.808671+00:00"}
+{"term": "hyperlapse movement", "term_zh": "移动延时摄影", "id": "animation_frame_hyperlapse", "category": "animation", "updated_at": "2026-10-16T05:24:40.809067+00:00"}
+{"term": "undercranked footage", "term_zh": "欠帧拍摄效果", "id": "animation_frame_undercranked", "category": "animation", "updated_at": "2026-10-16T05:24:40.809421+00:00"}
+{"term": "overcranked footage", "term_zh": "过帧拍摄效果", "id": "animation_frame_overcranked", "category": "animation", "updated_at": "2026-10-16T05:24:40.809690+00:00"}
+{"term": "freeze frame hold", "term_zh": "定格帧", "id": "animation_frame_frame", "category": "animation", "updated_at": "2026-10-16T05:24:22.159990+00:00"}
+{"term": "speed ramp transition", "term_zh": "速度渐变", "id": "animation_frame_speed", "category": "animation", "updated_at": "2026-10-16T05:24:22.160530+00:00"}
+{"term": "liquid morphing time", "term_zh": "液体变形time", "id": "animation_frame_liquify", "category": "animation", "updated_at": "2026-10-16T05:24:22.160544+00:00"}
+{"term": "high-speed water droplet freeze", "term_zh": "高速水珠凝固", "id": "animation_frame_waterdrop", "category": "animation", "updated_at": "2026-10-16T05:24:40.810826+00:00"}
+{"term": "chromatic time trail", "term_zh": "色散时间拖尾", "id": "animation_frame_aura", "category": "animation", "updated_at": "2026-10-16T05:24:40.811106+00:00"}
+{"term": "over-the-shoulder shot framing", "term_zh": "过肩镜头", "id": "camera_shot_size_shoulder", "category": "composition", "updated_at": "2026-10-16T05:24:22.428409+00:00"}
+{"term": "wide-angle lens distortion barrel", "term_zh": "广角晶状体失真barrel", "id": "camera_angle_distortion", "category": "composition", "updated_at": "2026-10-16T05:24:22.428417+00:00"}
+{"term": "extreme Dutch angle tilt", "term_zh": "荷兰角", "id": "camera_angle_extreme", "category": "composition", "updated_at": "2026-10-16T05:24:22.428973+00:00"}
+{"term": "worm's eye view looking up", "term_zh": "蛙视", "id": "camera_vantage_view", "category": "composition", "updated_at": "2026-10-16T05:24:22.429488+00:00"}
+{"term": "billboarding full-body isolation", "term_zh": "全身隔离广告式构图", "id": "framing_billboarding", "category": "composition", "updated_at": "2026-10-16T05:24:40.864221+00:00"}
+{"term": "split-screen dual narrative", "term_zh": "分屏双重叙事", "id": "camera_coverage_screen", "category": "composition", "updated_at": "2026-10-16T05:24:40.864470+00:00"}
+{"term": "vintage newspaper layout", "term_zh": "复古报纸layout", "id": "camera__001152c8", "category": "composition", "updated_at": "2026-10-16T05:24:22.632260+00:00"}
+{"term": "fashion product photography", "term_zh": "时尚product摄影", "id": "camera__168f7f04", "category": "composition", "updated_at": "2026-10-16T05:24:22.632275+00:00"}
+{"term": "paper cutting art design", "term_zh": "纸cutting艺术设计", "id": "camera__46ef9a71", "category": "composition", "updated_at": "2026-10-16T05:24:22.632281+00:00"}
+{"term": "card grid layout design", "term_zh": "卡牌栅格", "id": "camera__5bd1ce8c", "category": "composition", "updated_at": "2026-10-16T05:24:40.865477+00:00"}
+{"term": "calligraphy and painting art", "term_zh": "书法and绘画艺术", "id": "camera__a63de720", "category": "composition", "updated_at": "2026-10-16T05:24:22.723002+00:00"}
+{"term": "car exploded view art", "term_zh": "爆炸视图", "id": "camera__a734cbb7", "category": "composition", "updated_at": "2026-10-16T05:24:22.723486+00:00"}
+{"term": "refrigerator magnet design", "term_zh": "refrigerator磁铁设计", "id": "camera__b294be4a", "category": "composition", "updated_at": "2026-10-16T05:24:22.723491+00:00"}
+{"term": "ethereal glowing aura", "term_zh": "空灵发光光环", "id": "character_fx_aura_ethereal", "category": "character-fx", "updated_at": "2026-10-16T05:24:24.735199+00:00"}
+{"term": "semi-transparent crystalline body", "term_zh": "半透明水晶身体", "id": "character_fx_transparent_body", "category": "character-fx", "updated_at": "2026-10-16T05:24:40.924148+00:00"}
+{"term": "hair engulfed in blue flames", "term_zh": "头发engulfedin蓝色火焰", "id": "character_fx_flame_hair", "category": "character-fx", "updated_at": "2026-10-16T05:24:24.845324+00:00"}
+{"term": "demonic wing emergence", "term_zh": "恶魔翅膀展开", "id": "character_fx_demonic_wings", "category": "character-fx", "updated_at": "2026-10-16T05:24:40.924646+00:00"}
+{"term": "electric charge crackling skin", "term_zh": "电流在皮肤上闪烁", "id": "character_fx_electric_wrath", "category": "character-fx", "updated_at": "2026-10-16T05:24:40.924895+00:00"}
+{"term": "graffiti, hand-drawn", "term_zh": "角色涂鸦手绘", "id": "character_p0_2b5e9b32", "category": "character", "updated_at": "2026-10-16T05:24:41.055316+00:00"}
+{"term": "illustration, cute", "term_zh": "角色插画温暖可爱", "id": "character_p0_4e1df728", "category": "character", "updated_at": "2026-10-16T05:24:41.055573+00:00"}
+{"term": "hand-drawn, graffiti, illustration", "term_zh": "hand-drawn涂鸦插画", "id": "character_p0_ea3a8995", "category": "character", "updated_at": "2026-10-16T05:24:25.175123+00:00"}
+{"term": "anime, illustration", "term_zh": "动漫插画", "id": "character_p0_56dee08d", "category": "character", "updated_at": "2026-10-16T05:24:25.175136+00:00"}
+{"term": "graffiti, hand-drawn, cute", "term_zh": "角色涂鸦手绘可爱", "id": "character_p0_fdb007e6", "category": "character", "updated_at": "2026-10-16T05:24:41.056338+00:00"}
+{"term": "illustration, graffiti", "term_zh": "插画涂鸦", "id": "character_p0_cee081a0", "category": "character", "updated_at": "2026-10-16T05:24:25.265918+00:00"}
+{"term": "anime, hand-drawn", "term_zh": "角色动漫手绘", "id": "character_p0_af01c6b0", "category": "character", "updated_at": "2026-10-16T05:24:41.056856+00:00"}
+{"term": "minimalist, cute", "term_zh": "人像写实极简可爱", "id": "character_p0_9ecf57f5", "category": "character", "updated_at": "2026-10-16T05:24:41.057114+00:00"}
+{"term": "female", "term_zh": "绝美成年东亚女性", "id": "character_p0_273b9ae5", "category": "character", "updated_at": "2026-10-16T05:24:41.057362+00:00"}
+{"term": "anime, illustration, cute", "term_zh": "动漫插画cute", "id": "character_p0_73876428", "category": "character", "updated_at": "2026-10-16T05:24:25.441435+00:00"}
+{"term": "cute", "term_zh": "切割", "id": "character_p0_02829fb0", "category": "character", "updated_at": "2026-10-16T05:24:25.472705+00:00"}
+{"term": "anime, cute", "term_zh": "角色动漫可爱", "id": "character_p0_49a426a2", "category": "character", "updated_at": "2026-10-16T05:24:41.058110+00:00"}
+{"term": "illustration, hand-drawn, cute", "term_zh": "角色插画手绘可爱", "id": "character_p0_b8be8d39", "category": "character", "updated_at": "2026-10-16T05:24:41.058363+00:00"}
+{"term": "female, minimalist", "term_zh": "女性极简品牌", "id": "character_p0_f4e08bac", "category": "character", "updated_at": "2026-10-16T05:24:41.058611+00:00"}
+{"term": "hand-drawn", "term_zh": "手绘", "id": "character_p0_576f4117", "category": "character", "updated_at": "2026-10-16T05:24:25.759194+00:00"}
+{"term": "male", "term_zh": "男性", "id": "character_p0_07cf4f8f", "category": "character", "updated_at": "2026-10-16T05:24:41.059106+00:00"}
+{"term": "female, anime, illustration", "term_zh": "female动漫插画", "id": "character_p0_53268c7b", "category": "character", "updated_at": "2026-10-16T05:24:25.791184+00:00"}
+{"term": "female, anime", "term_zh": "女性动漫产品", "id": "character_p0_47e3fef9", "category": "character", "updated_at": "2026-10-16T05:24:41.059605+00:00"}
+{"term": "female, cute", "term_zh": "女性写实可爱", "id": "character_p0_354e55d2", "category": "character", "updated_at": "2026-10-16T05:24:41.059942+00:00"}
+{"term": "illustration, hand-drawn", "term_zh": "少女插画手绘", "id": "character_p0_8c2745e0", "category": "character", "updated_at": "2026-10-16T05:24:41.060277+00:00"}
+{"term": "minimalist, illustration", "term_zh": "极简主义插画", "id": "character_p0_d77b2bbe", "category": "character", "updated_at": "2026-10-16T05:24:25.993930+00:00"}
+{"term": "cute, anime", "term_zh": "可爱动漫", "id": "character_p0_36d16311", "category": "character", "updated_at": "2026-10-16T05:24:41.060930+00:00"}
+{"term": "group photo", "term_zh": "群体照片", "id": "character_p0_5840fd59", "category": "character", "updated_at": "2026-10-16T05:24:26.049542+00:00"}
+{"term": "premium men's magazine style", "term_zh": "高端男性杂志", "id": "character_p0_e6d0b5c2", "category": "character", "updated_at": "2026-10-16T05:24:41.061467+00:00"}
+{"term": "ancient Chinese style", "term_zh": "古代中国风格", "id": "character_p0_0619253c", "category": "character", "updated_at": "2026-10-16T05:24:26.146674+00:00"}
+{"term": "neon female", "term_zh": "霓虹女性", "id": "character_p0_e0395eee", "category": "character", "updated_at": "2026-10-16T05:24:41.062050+00:00"}
+{"term": "night scene female", "term_zh": "夜晚场景female", "id": "character_p0_394881af", "category": "character", "updated_at": "2026-10-16T05:24:26.200471+00:00"}
+{"term": "graffiti art design", "term_zh": "涂鸦艺术设计", "id": "character_p0_adc69da1", "category": "character", "updated_at": "2026-10-16T05:24:26.200482+00:00"}
+{"term": "graffiti shadow art", "term_zh": "涂鸦阴影艺术", "id": "character_p0_46619acd", "category": "character", "updated_at": "2026-10-16T05:24:26.200486+00:00"}
+{"term": "hand-drawn food illustration", "term_zh": "hand-drawn食物插画", "id": "character_p0_74ae7542", "category": "character", "updated_at": "2026-10-16T05:24:26.200490+00:00"}
+{"term": "minimalist, female", "term_zh": "极简女性", "id": "character_p0_b40d6f8b", "category": "character", "updated_at": "2026-10-16T05:24:41.063463+00:00"}
+{"term": "cinematic flower photography", "term_zh": "电影感花摄影", "id": "character_p0_04dd9875", "category": "character", "updated_at": "2026-10-16T05:24:26.272871+00:00"}
+{"term": "minimalist male portrait", "term_zh": "极简主义male人像", "id": "character_p0_e30e83f3", "category": "character", "updated_at": "2026-10-16T05:24:26.272883+00:00"}
+{"term": "cinematic female portrait", "term_zh": "电影感female人像", "id": "character_p0_745e234b", "category": "character", "updated_at": "2026-10-16T05:24:26.272887+00:00"}
+{"term": "minimalist female portrait", "term_zh": "极简主义female人像", "id": "character_p0_bc20b567", "category": "character", "updated_at": "2026-10-16T05:24:26.272890+00:00"}
+{"term": "street photography female", "term_zh": "街道摄影female", "id": "character_p0_5a556263", "category": "character", "updated_at": "2026-10-16T05:24:26.272896+00:00"}
+{"term": "fine art photography", "term_zh": "美术摄影", "id": "character_p0_48af374a", "category": "character", "updated_at": "2026-10-16T05:24:26.272898+00:00"}
+{"term": "seductive gaze", "term_zh": "媚眼诱惑", "id": "character_p0_e29b1e5a", "category": "character", "updated_at": "2026-10-16T05:24:41.065280+00:00"}
+{"term": "fashion photography", "term_zh": "时尚摄影", "id": "character_p0_c0074bb3", "category": "character", "updated_at": "2026-10-16T05:24:26.334093+00:00"}
+{"term": "studio portrait female", "term_zh": "工作室人像female", "id": "character_p0_c62efe51", "category": "character", "updated_at": "2026-10-16T05:24:26.334117+00:00"}
+{"term": "movie poster design", "term_zh": "电影海报设计", "id": "character_p0_b50979f5", "category": "character", "updated_at": "2026-10-16T05:24:26.334122+00:00"}
+{"term": "high-end female aesthetic", "term_zh": "高级感女性", "id": "character_p0_ee383a5e", "category": "character", "updated_at": "2026-10-16T05:24:41.066290+00:00"}
+{"term": "elegant female portrait", "term_zh": "优雅female人像", "id": "character_p0_976661ec", "category": "character", "updated_at": "2026-10-16T05:24:26.425092+00:00"}
+{"term": "retro style female", "term_zh": "复古风格female", "id": "character_p0_3f3ab64c", "category": "character", "updated_at": "2026-10-16T05:24:26.425106+00:00"}
+{"term": "couple photo", "term_zh": "情侣照片", "id": "character_p0_8819b3c7", "category": "character", "updated_at": "2026-10-16T05:24:26.425110+00:00"}
+{"term": "cute hand-drawn food typography", "term_zh": "食物手绘字体可爱", "id": "character_p0_e2ec942c", "category": "character", "updated_at": "2026-10-16T05:24:41.067291+00:00"}
+{"term": "warm cozy female portrait", "term_zh": "温馨女性", "id": "character_p0_a354c9ee", "category": "character", "updated_at": "2026-10-16T05:24:41.067540+00:00"}
+{"term": "film photography female", "term_zh": "胶片摄影female", "id": "character_p0_022a3fc1", "category": "character", "updated_at": "2026-10-16T05:24:26.619849+00:00"}
+{"term": "cinematic male portrait", "term_zh": "电影感male人像", "id": "character_p0_d40a6855", "category": "character", "updated_at": "2026-10-16T05:24:26.619864+00:00"}
+{"term": "ID photo", "term_zh": "证件照", "id": "character_p0_37b3673d", "category": "character", "updated_at": "2026-10-16T05:24:41.068288+00:00"}
+{"term": "hand-drawn annotations", "term_zh": "手绘标注", "id": "character_p0_0b831ca1", "category": "character", "updated_at": "2026-10-16T05:24:41.068549+00:00"}
+{"term": "glamorous woman", "term_zh": "大凶美女", "id": "character_p0_b9a8f7e3", "category": "character", "updated_at": "2026-10-16T05:24:41.068816+00:00"}
+{"term": "premium women's magazine style", "term_zh": "高端女性杂志", "id": "character_p0_3f9fbff2", "category": "character", "updated_at": "2026-10-16T05:24:41.069068+00:00"}
+{"term": "cinematic vehicle photography", "term_zh": "电影感vehicle摄影", "id": "character_p0_1488fc5a", "category": "character", "updated_at": "2026-10-16T05:24:26.913386+00:00"}
+{"term": "live stream frame", "term_zh": "live溪流画框", "id": "character_p0_7ecedcf3", "category": "character", "updated_at": "2026-10-16T05:24:26.913411+00:00"}
+{"term": "alluring pose (typo correction)", "term_zh": "不漏诱惑", "id": "character_p0_c8c7ffcc", "category": "character", "updated_at": "2026-10-16T05:24:41.069821+00:00"}
+{"term": "crouching looking at camera", "term_zh": "看着镜头", "id": "character_p0_c2aeaf1d", "category": "character", "updated_at": "2026-10-16T05:24:27.018951+00:00"}
+{"term": "minimalist product photography", "term_zh": "极简主义product摄影", "id": "character_p0_5b6e0272", "category": "character", "updated_at": "2026-10-16T05:24:27.018972+00:00"}
+{"term": "women's brand identity", "term_zh": "女性品牌", "id": "character_p0_a8df0a63", "category": "character", "updated_at": "2026-10-16T05:24:41.070970+00:00"}
+{"term": "anime glamorous woman", "term_zh": "二次元大凶美女", "id": "character_p0_b7448109", "category": "character", "updated_at": "2026-10-16T05:24:41.071221+00:00"}
+{"term": "cinematic children portrait", "term_zh": "电影感children人像", "id": "character_p0_9d73dd4d", "category": "character", "updated_at": "2026-10-16T05:24:27.186389+00:00"}
+{"term": "cyberpunk, female", "term_zh": "赛博朋克女性", "id": "character_p0_54a66016", "category": "character", "updated_at": "2026-10-16T05:24:41.071748+00:00"}
+{"term": "funny", "term_zh": "搞怪", "id": "character_p0_8704daa9", "category": "character", "updated_at": "2026-10-16T05:24:41.072013+00:00"}
+{"term": "Gundam model art", "term_zh": "gundam模特艺术", "id": "character_p0_82afe228", "category": "character", "updated_at": "2026-10-16T05:24:27.283898+00:00"}
+{"term": "Genshin Impact style", "term_zh": "原神风格", "id": "character_p0_d0c07fd4", "category": "character", "updated_at": "2026-10-16T05:24:27.283913+00:00"}
+{"term": "realistic anime style", "term_zh": "写实动漫风格", "id": "character_character_anime_illustration_p0_0f5cb3b4", "category": "character", "updated_at": "2026-10-16T05:24:27.283920+00:00"}
+{"term": "teal and orange cinematic grade", "term_zh": "青橙电影调色", "id": "color_look_warm_teal", "category": "color-look", "updated_at": "2026-10-16T05:24:41.265755+00:00"}
+{"term": "bleach bypass film stock", "term_zh": "漂白剂冲洗胶片", "id": "color_look_bleach_bypass", "category": "color-look", "updated_at": "2026-10-16T05:24:41.266012+00:00"}
+{"term": "cross-processed slide film look", "term_zh": "胶片感", "id": "color_look_cross_process", "category": "color-look", "updated_at": "2026-10-16T05:24:27.481853+00:00"}
+{"term": "Italian giallo lurid color palette", "term_zh": "意大利恐怖电影浓烈色彩", "id": "color_look_italian_giallo", "category": "color-look", "updated_at": "2026-10-16T05:24:41.266524+00:00"}
+{"term": "Japanese watery desaturated grade", "term_zh": "日本湿漉漉褪色调色", "id": "color_look_japenese_watery", "category": "color-look", "updated_at": "2026-10-16T05:24:41.266804+00:00"}
+{"term": "Kodak Portra 400 film emulation", "term_zh": "柯达 Portra 400", "id": "color_look_kodak_portra", "category": "color-look", "updated_at": "2026-10-16T05:24:27.704732+00:00"}
+{"term": "VeriFilm Technicolor process", "term_zh": "VeriFilm特艺彩色工艺", "id": "color_look_verifact_color", "category": "color-look", "updated_at": "2026-10-16T05:24:41.267718+00:00"}
+{"term": "muted pastel desaturated tones", "term_zh": "柔和粉彩褪色色调", "id": "color_look_muted_pastel", "category": "color-look", "updated_at": "2026-10-16T05:24:41.268112+00:00"}
+{"term": "film noir monochrome with accent color", "term_zh": "黑色电影单色点缀色", "id": "color_look_noir_monochrome", "category": "color-look", "updated_at": "2026-10-16T05:24:41.268468+00:00"}
+{"term": "harsh high-contrast monochrome", "term_zh": "高对比单色", "id": "color_look_harsh_high_contrast", "category": "color-look", "updated_at": "2026-10-16T05:24:28.028374+00:00"}
+{"term": "Adobe RGB", "term_zh": "Adobe RGB", "id": "color_look_palette_rgb", "category": "color-look", "updated_at": "2026-10-16T05:24:28.076761+00:00"}
+{"term": "Agfacolor", "term_zh": "阿克发彩色", "id": "color_look_palette_agfacolor", "category": "color-look", "updated_at": "2026-10-16T05:24:28.122751+00:00"}
+{"term": "Analogous Colors", "term_zh": "类似色", "id": "color_look_palette_colors", "category": "color-look", "updated_at": "2026-10-16T05:24:28.189788+00:00"}
+{"term": "Autochrome", "term_zh": "天然彩色照片", "id": "color_look_palette_autochrome", "category": "color-look", "updated_at": "2026-10-16T05:24:28.241957+00:00"}
+{"term": "Black and White", "term_zh": "黑白", "id": "color_look_palette_white", "category": "color-look", "updated_at": "2026-10-16T05:24:28.241963+00:00"}
+{"term": "CGA", "term_zh": "CGA", "id": "color_look_palette_cga", "category": "color-look", "updated_at": "2026-10-16T05:24:28.241966+00:00"}
+{"term": "CMYK", "term_zh": "CMYK", "id": "color_look_palette_cmyk", "category": "color-look", "updated_at": "2026-10-16T05:24:28.241968+00:00"}
+{"term": "Chloropsia", "term_zh": "绿视症", "id": "color_look_palette_chloropsia", "category": "color-look", "updated_at": "2026-10-16T05:24:28.292707+00:00"}
+{"term": "Chroma", "term_zh": "色度", "id": "color_look_palette_chroma", "category": "color-look", "updated_at": "2026-10-16T05:24:28.330013+00:00"}
+{"term": "Chromatopsia", "term_zh": "色觉障碍", "id": "color_look_palette_chromatopsia", "category": "color-look", "updated_at": "2026-10-16T05:24:28.388122+00:00"}
+{"term": "Cinecolor", "term_zh": "CineColor 彩片", "id": "color_look_palette_cinecolor", "category": "color-look", "updated_at": "2026-10-16T05:24:28.435351+00:00"}
+{"term": "Color", "term_zh": "颜色", "id": "color_look_palette_color", "category": "color-look", "updated_at": "2026-10-16T05:24:28.469146+00:00"}
+{"term": "Color Blend", "term_zh": "颜色混合", "id": "color_look_palette_blend", "category": "color-look", "updated_at": "2026-10-16T05:24:28.522740+00:00"}
+{"term": "Color Model", "term_zh": "颜色模型", "id": "color_look_palette_model", "category": "color-look", "updated_at": "2026-10-16T05:24:28.576062+00:00"}
+{"term": "Color Palette", "term_zh": "调色板", "id": "color_look_palette_palette", "category": "color-look", "updated_at": "2026-10-16T05:24:28.636928+00:00"}
+{"term": "Color Wheel", "term_zh": "色轮", "id": "color_look_palette_wheel", "category": "color-look", "updated_at": "2026-10-16T05:24:28.690560+00:00"}
+{"term": "Colorful", "term_zh": "色彩丰富", "id": "color_look_palette_colorful", "category": "color-look", "updated_at": "2026-10-16T05:24:28.690566+00:00"}
+{"term": "Colorized", "term_zh": "彩色化", "id": "color_look_palette_colorized", "category": "color-look", "updated_at": "2026-10-16T05:24:28.738499+00:00"}
+{"term": "Coloroid", "term_zh": "Coloroid 色卡", "id": "color_look_palette_coloroid", "category": "color-look", "updated_at": "2026-10-16T05:24:28.791135+00:00"}
+{"term": "Contrast", "term_zh": "对比度", "id": "color_look_palette_contrast", "category": "color-look", "updated_at": "2026-10-16T05:24:28.848980+00:00"}
+{"term": "Cyanopsia", "term_zh": "青视症", "id": "color_look_palette_cyanopsia", "category": "color-look", "updated_at": "2026-10-16T05:24:28.898143+00:00"}
+{"term": "DCI P3", "term_zh": "DCI-P3 颜色", "id": "color_look_palette_p3", "category": "color-look", "updated_at": "2026-10-16T05:24:28.934579+00:00"}
+{"term": "Dark", "term_zh": "黑暗", "id": "color_look_palette_dark", "category": "color-look", "updated_at": "2026-10-16T05:24:28.934591+00:00"}
+{"term": "Dark Mode", "term_zh": "暗色模式", "id": "color_look_palette_mode", "category": "color-look", "updated_at": "2026-10-16T05:24:28.982995+00:00"}
+{"term": "Darkened", "term_zh": "变暗", "id": "color_look_palette_darkened", "category": "color-look", "updated_at": "2026-10-16T05:24:29.027823+00:00"}
+{"term": "Dichromatism", "term_zh": "双色型色觉", "id": "color_look_palette_dichromatism", "category": "color-look", "updated_at": "2026-10-16T05:24:29.084873+00:00"}
+{"term": "Dyschromatopsia", "term_zh": "色弱", "id": "color_look_palette_dyschromatopsia", "category": "color-look", "updated_at": "2026-10-16T05:24:29.148755+00:00"}
+{"term": "EGA", "term_zh": "EGA 颜色", "id": "color_look_palette_ega", "category": "color-look", "updated_at": "2026-10-16T05:24:29.176097+00:00"}
+{"term": "EnChroma", "term_zh": "EnChroma 色觉", "id": "color_look_palette_enchroma", "category": "color-look", "updated_at": "2026-10-16T05:24:29.219759+00:00"}
+{"term": "Erythropsia", "term_zh": "红视症", "id": "color_look_palette_erythropsia", "category": "color-look", "updated_at": "2026-10-16T05:24:29.272053+00:00"}
+{"term": "Faded", "term_zh": "褪色", "id": "color_look_palette_faded", "category": "color-look", "updated_at": "2026-10-16T05:24:29.306503+00:00"}
+{"term": "Gradient", "term_zh": "渐变", "id": "color_look_palette_gradient", "category": "color-look", "updated_at": "2026-10-16T05:24:29.306516+00:00"}
+{"term": "HCL", "term_zh": "HCL 色彩空间", "id": "color_look_palette_hcl", "category": "color-look", "updated_at": "2026-10-16T05:24:29.332270+00:00"}
+{"term": "HSL", "term_zh": "HSL 色彩空间", "id": "color_look_palette_hsl", "category": "color-look", "updated_at": "2026-10-16T05:24:29.359395+00:00"}
+{"term": "HSV", "term_zh": "HSV 色彩空间", "id": "color_look_palette_hsv", "category": "color-look", "updated_at": "2026-10-16T05:24:29.384956+00:00"}
+{"term": "High Saturation", "term_zh": "高饱和", "id": "color_look_palette_saturation", "category": "color-look", "updated_at": "2026-10-16T05:24:29.452278+00:00"}
+{"term": "Hue", "term_zh": "色相", "id": "color_look_palette_hue", "category": "color-look", "updated_at": "2026-10-16T05:24:29.479221+00:00"}
+{"term": "Hyperchromatopsia", "term_zh": "色觉过度", "id": "color_look_palette_hyperchromatopsia", "category": "color-look", "updated_at": "2026-10-16T05:24:29.547044+00:00"}
+{"term": "Kinemacolor", "term_zh": "早期彩色电影", "id": "color_look_palette_kinemacolor", "category": "color-look", "updated_at": "2026-10-16T05:24:29.547057+00:00"}
+{"term": "Kodachrome", "term_zh": "柯达克罗姆", "id": "color_look_palette_kodachrome", "category": "color-look", "updated_at": "2026-10-16T05:24:29.597725+00:00"}
+{"term": "Light", "term_zh": "光", "id": "color_look_palette_light", "category": "color-look", "updated_at": "2026-10-16T05:24:29.597735+00:00"}
+{"term": "Light Blue Background", "term_zh": "光蓝色background", "id": "color_look_palette_background", "category": "color-look", "updated_at": "2026-10-16T05:24:29.597752+00:00"}
+{"term": "Light Blue Foreground", "term_zh": "光蓝色foreground", "id": "color_look_palette_foreground", "category": "color-look", "updated_at": "2026-10-16T05:24:29.597755+00:00"}
+{"term": "Monochromatic", "term_zh": "单色调", "id": "color_look_palette_monochromatic", "category": "color-look", "updated_at": "2026-10-16T05:24:29.597757+00:00"}
+{"term": "Monochrome", "term_zh": "单色", "id": "color_look_palette_monochrome", "category": "color-look", "updated_at": "2026-10-16T05:24:29.597766+00:00"}
+{"term": "Multicolored", "term_zh": "多彩", "id": "color_look_palette_multicolored", "category": "color-look", "updated_at": "2026-10-16T05:24:29.653455+00:00"}
+{"term": "Neon", "term_zh": "霓虹色", "id": "color_look_palette_neon", "category": "color-look", "updated_at": "2026-10-16T05:24:29.653469+00:00"}
+{"term": "Neutral", "term_zh": "中性", "id": "color_look_palette_neutral", "category": "color-look", "updated_at": "2026-10-16T05:24:29.695097+00:00"}
+{"term": "Pantone", "term_zh": "Pantone", "id": "color_look_palette_pantone", "category": "color-look", "updated_at": "2026-10-16T05:24:29.738547+00:00"}
+{"term": "Pigment", "term_zh": "颜料", "id": "color_look_palette_pigment", "category": "color-look", "updated_at": "2026-10-16T05:24:29.780277+00:00"}
+{"term": "Pure", "term_zh": "纯", "id": "color_look_palette_pure", "category": "color-look", "updated_at": "2026-10-16T05:24:29.810156+00:00"}
+{"term": "Purity", "term_zh": "纯度", "id": "color_look_palette_purity", "category": "color-look", "updated_at": "2026-10-16T05:24:29.847724+00:00"}
+{"term": "Rainbow", "term_zh": "彩虹", "id": "color_look_palette_rainbow", "category": "color-look", "updated_at": "2026-10-16T05:24:29.847737+00:00"}
+{"term": "Saturated", "term_zh": "饱和", "id": "color_look_palette_saturated", "category": "color-look", "updated_at": "2026-10-16T05:24:29.847740+00:00"}
+{"term": "Spectrum", "term_zh": "光谱", "id": "color_look_palette_spectrum", "category": "color-look", "updated_at": "2026-10-16T05:24:29.892071+00:00"}
+{"term": "Technicolor", "term_zh": "特艺彩色", "id": "color_look_palette_technicolor", "category": "color-look", "updated_at": "2026-10-16T05:24:29.892089+00:00"}
+{"term": "Tetrachromacy", "term_zh": "四色型色觉", "id": "color_look_palette_tetrachromacy", "category": "color-look", "updated_at": "2026-10-16T05:24:29.948456+00:00"}
+{"term": "Tone", "term_zh": "石头", "id": "color_look_palette_tone", "category": "color-look", "updated_at": "2026-10-16T05:24:29.980423+00:00"}
+{"term": "Tones of Black", "term_zh": "黑色调", "id": "color_look_palette_black", "category": "color-look", "updated_at": "2026-10-16T05:24:30.040161+00:00"}
+{"term": "VGA", "term_zh": "VGA 颜色", "id": "color_look_palette_vga", "category": "color-look", "updated_at": "2026-10-16T05:24:30.065051+00:00"}
+{"term": "Value", "term_zh": "明度", "id": "color_look_palette_value", "category": "color-look", "updated_at": "2026-10-16T05:24:30.100208+00:00"}
+{"term": "Variegated", "term_zh": "杂色", "id": "color_look_palette_variegated", "category": "color-look", "updated_at": "2026-10-16T05:24:30.153116+00:00"}
+{"term": "Vibrance", "term_zh": "鲜艳度", "id": "color_look_palette_vibrance", "category": "color-look", "updated_at": "2026-10-16T05:24:30.199097+00:00"}
+{"term": "Vivid", "term_zh": "鲜艳", "id": "color_look_palette_vivid", "category": "color-look", "updated_at": "2026-10-16T05:24:30.230825+00:00"}
+{"term": "YCbCr", "term_zh": "YCbCr 色彩空间", "id": "color_look_palette_ycbcr", "category": "color-look", "updated_at": "2026-10-16T05:24:30.261161+00:00"}
+{"term": "YPbPr", "term_zh": "YPbPr 色彩空间", "id": "color_look_palette_ypbpr", "category": "color-look", "updated_at": "2026-10-16T05:24:30.290102+00:00"}
+{"term": "sRGB", "term_zh": "sRGB", "id": "color_look_palette_srgb", "category": "color-look", "updated_at": "2026-10-16T05:24:30.319562+00:00"}
+{"term": "scRGB", "term_zh": "scRGB", "id": "color_look_palette_scrgb", "category": "color-look", "updated_at": "2026-10-16T05:24:30.352062+00:00"}
+{"term": "neon-noir futuristic cityscape", "term_zh": "neon-noir未来城市景观", "id": "era_decade_futuristic_neon", "category": "era", "updated_at": "2026-10-16T05:24:32.567276+00:00"}
+{"term": "1920s Art Deco glamour", "term_zh": "艺术装饰艺术glamour", "id": "era_decade_vintage_1920s", "category": "era", "updated_at": "2026-10-16T05:24:32.567280+00:00"}
+{"term": "1970s retro funk aesthetic", "term_zh": "复古放克aesthetic", "id": "era_decade_vintage_1970s", "category": "era", "updated_at": "2026-10-16T05:24:32.567285+00:00"}
+{"term": "1980s synthwave aesthetic", "term_zh": "1980年代合成波美学", "id": "era_decade_vintage_1980s_synth", "category": "era", "updated_at": "2026-10-16T05:24:41.385586+00:00"}
+{"term": "1990s Y2K digital nostalgia", "term_zh": "数字怀旧", "id": "era_decade_vintage_1990s", "category": "era", "updated_at": "2026-10-16T05:24:32.651492+00:00"}
+{"term": "biopunk organic technology", "term_zh": "生物朋克有机technology", "id": "era_speculative_biopunk", "category": "era", "updated_at": "2026-10-16T05:24:32.651512+00:00"}
+{"term": "arsenic age brass mechanism", "term_zh": " arsenic 时代黄铜机械", "id": "era_speculative_arsenic_age", "category": "era", "updated_at": "2026-10-16T05:24:41.386376+00:00"}
+{"term": "solarpunk lush green technology", "term_zh": "太阳朋克脸红绿色technology", "id": "era_speculative_solarpunk", "category": "era", "updated_at": "2026-10-16T05:24:32.748424+00:00"}
+{"term": "cottagecore pastoral whimsy", "term_zh": "乡村田园田园奇幻", "id": "era_speculative_cottagecore", "category": "era", "updated_at": "2026-10-16T05:24:41.386884+00:00"}
+{"term": "goblincore muddy enchanted", "term_zh": "妖精核心泥泞enchanted", "id": "era_speculative_goblincore", "category": "era", "updated_at": "2026-10-16T05:24:32.847054+00:00"}
+{"term": "dark academia gothic library", "term_zh": "黑暗学院哥特图书馆", "id": "era_speculative_dark_academia", "category": "era", "updated_at": "2026-10-16T05:24:32.847072+00:00"}
+{"term": "Byzantine mosaic gold leaf", "term_zh": "拜占庭马赛克金色叶", "id": "era_pre_modern_byzantine", "category": "era", "updated_at": "2026-10-16T05:24:32.847078+00:00"}
+{"term": "holding a wine glass elegantly", "term_zh": "优雅持酒杯", "id": "held_prop_glass_wine", "category": "held-prop", "updated_at": "2026-10-16T05:24:41.406624+00:00"}
+{"term": "candle flickering warm glow", "term_zh": "蜡烛闪烁温暖发光", "id": "held_prop_candle_warm", "category": "held-prop", "updated_at": "2026-10-16T05:24:32.951920+00:00"}
+{"term": "open leather-bound vintage book", "term_zh": "翻开的皮质古籍", "id": "held_prop_book_open", "category": "held-prop", "updated_at": "2026-10-16T05:24:41.407176+00:00"}
+{"term": "single blooming rose in hand", "term_zh": "手中单朵绽放玫瑰", "id": "held_prop_flower_single", "category": "held-prop", "updated_at": "2026-10-16T05:24:41.407457+00:00"}
+{"term": "shouting through a brass megaphone", "term_zh": "通过黄铜扩音器喊话", "id": "held_prop_megaphone", "category": "held-prop", "updated_at": "2026-10-16T05:24:41.407736+00:00"}
+{"term": "traditional tea ceremony pouring", "term_zh": "传统茶道注水", "id": "held_prop_tea_ceremony", "category": "held-prop", "updated_at": "2026-10-16T05:24:41.408011+00:00"}
+{"term": "radial speed lines burst", "term_zh": "速度线", "id": "panel_speed_lines_radial", "category": "panel", "updated_at": "2026-10-16T05:24:33.371051+00:00"}
+{"term": "screentone gradient halo", "term_zh": "网点渐变光环", "id": "panel_screentone_halo", "category": "panel", "updated_at": "2026-10-16T05:24:33.371059+00:00"}
+{"term": "manga-style panel gutter", "term_zh": "漫画风格分镜留白", "id": "panel_koma_manga", "category": "panel", "updated_at": "2026-10-16T05:24:41.529570+00:00"}
+{"term": "comic emotion exclamation burst", "term_zh": "漫画情绪感叹爆发", "id": "panel_emotion_exclamation", "category": "panel", "updated_at": "2026-10-16T05:24:41.529840+00:00"}
+{"term": "detailed shadow-net cross-hatching", "term_zh": "精细阴影交叉线稿", "id": "panel_shadownet_detailed", "category": "panel", "updated_at": "2026-10-16T05:24:41.530110+00:00"}
+{"term": "shot as a glamour portrait with soft diffused beauty lightin", "term_zh": "魅惑人像柔光美容光", "id": "photographer_genre_shot_as_a_glamour_portrait_with_soft_dif", "category": "photographer", "updated_at": "2026-10-16T05:24:41.553205+00:00"}
+{"term": "studio portrait single key light", "term_zh": "工作室人像single钥匙光", "id": "photographer_portrait_studio", "category": "photographer", "updated_at": "2026-10-16T05:24:33.853883+00:00"}
+{"term": "street photography long silhouette", "term_zh": "街道摄影long剪影", "id": "photographer_street_silhouette", "category": "photographer", "updated_at": "2026-10-16T05:24:33.853895+00:00"}
+{"term": "Unreal Engine 5 Lumen", "term_zh": "UE5 Lumen", "id": "render_quality_unreal_engine_5", "category": "quality", "updated_at": "2026-10-16T05:24:33.854247+00:00"}
+{"term": "Autodesk Arnold renderer", "term_zh": "Arnold 渲染", "id": "render_quality_maya_render", "category": "quality", "updated_at": "2026-10-16T05:24:33.854755+00:00"}
+{"term": "Cinema 4D Octane render", "term_zh": "电影院Octane渲染", "id": "render_quality_cinema4d_octane", "category": "quality", "updated_at": "2026-10-16T05:24:33.854760+00:00"}
+{"term": "Blender Cycles path-traced", "term_zh": "Blender Cycles路径追踪", "id": "render_quality_blender_cycles", "category": "quality", "updated_at": "2026-10-16T05:24:41.599788+00:00"}
+{"term": "V-Ray photorealistic", "term_zh": "V-Ray照片级真实", "id": "render_quality_vray", "category": "quality", "updated_at": "2026-10-16T05:24:41.600053+00:00"}
+{"term": "mental ray global illumination", "term_zh": "全局光照", "id": "render_quality_ian_brain", "category": "quality", "updated_at": "2026-10-16T05:24:34.024102+00:00"}
+{"term": "8K UHD resolution", "term_zh": "4K UHD 分辨率", "id": "render_quality_8k_uhd", "category": "quality", "updated_at": "2026-10-16T05:24:34.093342+00:00"}
+{"term": "4K HDR tone-mapped", "term_zh": "4K HDR色调映射", "id": "render_quality_4k_hdr", "category": "quality", "updated_at": "2026-10-16T05:24:41.600903+00:00"}
+{"term": "ray-traced global illumination", "term_zh": "ray-traced全球光照", "id": "render_quality_ray_tracing", "category": "quality", "updated_at": "2026-10-16T05:24:34.164475+00:00"}
+{"term": "ambient occlusion shadows", "term_zh": "ambient遮挡阴影", "id": "render_quality_ambient_occlusion", "category": "quality", "updated_at": "2026-10-16T05:24:34.164488+00:00"}
+{"term": "subsurface scattering skin wax", "term_zh": "次表面散射", "id": "render_quality_subsurface_scattering", "category": "quality", "updated_at": "2026-10-16T05:24:34.165075+00:00"}
+{"term": "casual snapshot", "term_zh": "随手拍", "id": "scene_scene_objects_p0_f9a0bafe", "category": "scene", "updated_at": "2026-10-16T05:24:41.897722+00:00"}
+{"term": "extreme long shot", "term_zh": "极远景", "id": "shot_language_shot_size_extreme_long_shot", "category": "shot-language", "updated_at": "2026-10-16T05:24:34.543454+00:00"}
+{"term": "long shot", "term_zh": "远景", "id": "shot_language_shot_size_long_shot", "category": "shot-language", "updated_at": "2026-10-16T05:24:34.543468+00:00"}
+{"term": "medium long shot", "term_zh": "中远景", "id": "shot_language_shot_size_medium_long_shot", "category": "shot-language", "updated_at": "2026-10-16T05:24:34.543470+00:00"}
+{"term": "two shot", "term_zh": "双人镜头", "id": "shot_language_shot_size_two_shot", "category": "shot-language", "updated_at": "2026-10-16T05:24:34.586855+00:00"}
+{"term": "static camera", "term_zh": "固定镜头", "id": "shot_language_camera_move_fixed", "category": "shot-language", "updated_at": "2026-10-16T05:24:41.901794+00:00"}
+{"term": "slow push in", "term_zh": "缓慢推近", "id": "shot_language_camera_move_push_in", "category": "shot-language", "updated_at": "2026-10-16T05:24:41.902048+00:00"}
+{"term": "slow pull out", "term_zh": "缓慢拉远", "id": "shot_language_camera_move_pull_out", "category": "shot-language", "updated_at": "2026-10-16T05:24:41.902303+00:00"}
+{"term": "pan left", "term_zh": "左摇", "id": "shot_language_camera_move_pan_left", "category": "shot-language", "updated_at": "2026-10-16T05:24:41.902570+00:00"}
+{"term": "pan right", "term_zh": "右摇", "id": "shot_language_camera_move_pan_right", "category": "shot-language", "updated_at": "2026-10-16T05:24:41.902826+00:00"}
+{"term": "crane up", "term_zh": "上摇", "id": "shot_language_camera_move_crane_up", "category": "shot-language", "updated_at": "2026-10-16T05:24:41.903335+00:00"}
+{"term": "tilt down", "term_zh": "俯仰披下", "id": "shot_language_camera_move_tilt_down", "category": "shot-language", "updated_at": "2026-10-16T05:24:34.922054+00:00"}
+{"term": "zoom in", "term_zh": "推进", "id": "shot_language_camera_move_zoom_in", "category": "shot-language", "updated_at": "2026-10-16T05:24:34.922066+00:00"}
+{"term": "zoom out", "term_zh": "拉远", "id": "shot_language_camera_move_zoom_out", "category": "shot-language", "updated_at": "2026-10-16T05:24:34.922069+00:00"}
+{"term": "arc shot", "term_zh": "环绕镜头", "id": "shot_language_camera_move_arc", "category": "shot-language", "updated_at": "2026-10-16T05:24:41.904379+00:00"}
+{"term": "dolly zoom", "term_zh": "推车Zoom", "id": "shot_language_camera_move_dolly_zoom", "category": "shot-language", "updated_at": "2026-10-16T05:24:34.968660+00:00"}
+{"term": "14mm lens", "term_zh": "85mm 镜头", "id": "shot_language_lens_14mm", "category": "shot-language", "updated_at": "2026-10-16T05:24:35.013165+00:00"}
+{"term": "24mm lens", "term_zh": "24mm 镜头", "id": "shot_language_lens_24mm", "category": "shot-language", "updated_at": "2026-10-16T05:24:41.905187+00:00"}
+{"term": "35mm lens", "term_zh": "85mm 镜头", "id": "shot_language_lens_35mm", "category": "shot-language", "updated_at": "2026-10-16T05:24:35.058421+00:00"}
+{"term": "50mm lens", "term_zh": "50mm 镜头", "id": "shot_language_lens_50mm", "category": "shot-language", "updated_at": "2026-10-16T05:24:35.058433+00:00"}
+{"term": "85mm lens", "term_zh": "85mm 镜头", "id": "shot_language_lens_85mm", "category": "shot-language", "updated_at": "2026-10-16T05:24:35.058435+00:00"}
+{"term": "135mm lens", "term_zh": "135mm 镜头", "id": "shot_language_lens_135mm", "category": "shot-language", "updated_at": "2026-10-16T05:24:35.058437+00:00"}
+{"term": "200mm lens", "term_zh": "200mm 镜头", "id": "shot_language_lens_200mm", "category": "shot-language", "updated_at": "2026-10-16T05:24:35.058439+00:00"}
+{"term": "Desaturated", "term_zh": "去饱和", "id": "style_color_look_palette_desaturated", "category": "color-look", "updated_at": "2026-10-16T05:24:36.349921+00:00"}
+{"term": "Sepia", "term_zh": "棕褐色", "id": "style_color_look_palette_sepia", "category": "color-look", "updated_at": "2026-10-16T05:24:37.169513+00:00"}
+{"term": "Vibrant", "term_zh": "鲜艳", "id": "style_color_look_palette_vibrant", "category": "color-look", "updated_at": "2026-10-16T05:24:37.561705+00:00"}
+{"term": "Decor%20(2)", "term_zh": "装饰 (2)", "id": "style_design_", "category": "style", "updated_at": "2026-10-16T05:24:42.078124+00:00"}
+{"term": "cyberpunk aesthetic", "term_zh": "赛博", "id": "style_style_design_p0_b3378f64", "category": "style", "updated_at": "2026-10-16T05:24:42.268867+00:00"}
+{"term": "handwritten typography", "term_zh": "手写体", "id": "styles_style_design_p0_f80fd1ac", "category": "styles", "updated_at": "2026-10-16T05:24:42.355527+00:00"}
+{"term": "reverse motion blur", "term_zh": "reverse运动模糊", "id": "temporal_speed_reverse_motion", "category": "temporal", "updated_at": "2026-10-16T05:24:38.555138+00:00"}
+{"term": "motion blur trailing", "term_zh": "运动模糊trailing", "id": "temporal_motion_blur_trailing", "category": "temporal", "updated_at": "2026-10-16T05:24:38.555145+00:00"}

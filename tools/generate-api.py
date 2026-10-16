@@ -243,7 +243,7 @@ from pathlib import Path
 from datetime import datetime, timezone
 
 REPO = Path(__file__).parent.parent
-API_DIR = REPO / "docs" / "api"
+API_DIR = REPO / "api"
 API_DIR.mkdir(parents=True, exist_ok=True)
 
 
@@ -362,15 +362,21 @@ def generate_stats():
 
 
 def generate_categories():
-    """分类列表 + 中文名"""
+    """分类列表 + 中文名 — 从实际文件目录扫描，不依赖 _meta.json 的 categories 字段。"""
     meta = json.load(open(REPO / "keywords" / "_meta.json", encoding="utf-8"))
-    categories = meta.get("categories", [])
     categories_zh = meta.get("categories_zh", {})
     subcategories_zh = meta.get("subcategories_zh", {})
 
+    # 从实际文件目录扫描所有分类（排除 _meta, _pending_review 等）
+    categories_dir = REPO / "keywords" / "categories"
+    all_categories = sorted([
+        f.stem for f in categories_dir.glob("*.json")
+        if not f.stem.startswith("_")
+    ])
+
     result = {
         "version": meta.get("version"),
-        "total": len(categories),
+        "total": len(all_categories),
         "subcategories_zh": subcategories_zh,
         "categories": [
             {
@@ -379,7 +385,7 @@ def generate_categories():
                 "count": 0,
                 "subcategories": []
             }
-            for cat in categories
+            for cat in all_categories
         ]
     }
 
@@ -408,7 +414,7 @@ def generate_categories():
     with open(API_DIR / "categories.json", "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 
-    print(f"✅ categories.json: {len(categories)} categories")
+    print(f"✅ categories.json: {len(all_categories)} categories")
 
 
 def generate_workflows():

@@ -3,7 +3,7 @@
     "id": "shot_language_shot_size_extreme_long_shot",
     "term": "extreme long shot",
     "category": "shot-language",
-    "subcategory": "shot-size",
+    "subcategory": "shot_size",
     "labels": [
       "shot",
       "size",
@@ -25,13 +25,22 @@
     "weight": 0.74,
     "source": "legacy-migration",
     "score_v2": 0.74,
-    "term_zh": "大远景"
+    "term_zh": "极远景",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.593446+00:00",
+    "aliases": [
+      "extreme long shot",
+      "extreme"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "shot_language_shot_size_long_shot",
     "term": "long shot",
     "category": "shot-language",
-    "subcategory": "shot-size",
+    "subcategory": "shot_size",
     "labels": [
       "shot",
       "size",
@@ -51,13 +60,22 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "远景"
+    "term_zh": "远景",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.593446+00:00",
+    "aliases": [
+      "long shot",
+      "long"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "shot_language_shot_size_medium_long_shot",
     "term": "medium long shot",
     "category": "shot-language",
-    "subcategory": "shot-size",
+    "subcategory": "shot_size",
     "labels": [
       "shot",
       "size",
@@ -77,13 +95,22 @@
     "weight": 0.74,
     "source": "legacy-migration",
     "score_v2": 0.74,
-    "term_zh": "中远景"
+    "term_zh": "中远景",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.593446+00:00",
+    "aliases": [
+      "medium long shot",
+      "medium"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "shot_language_shot_size_medium_shot",
     "term": "medium shot",
     "category": "shot-language",
-    "subcategory": "shot-size",
+    "subcategory": "shot_size",
     "labels": [
       "shot",
       "size",
@@ -108,13 +135,22 @@
     "term_zh": "中景",
     "aliases_zh": [
       "中景镜头"
-    ]
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "high",
+    "aliases": [
+      "mid shot",
+      "waist-up shot",
+      "torso shot"
+    ],
+    "_enriched_at": "2026-10-16T05:23:54.593446+00:00"
   },
   {
     "id": "shot_language_shot_size_medium_close_up",
     "term": "medium close-up",
     "category": "shot-language",
-    "subcategory": "shot-size",
+    "subcategory": "shot_size",
     "labels": [
       "shot",
       "size",
@@ -136,20 +172,24 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "中近景",
+    "term_zh": "中特写",
     "aliases": [
       "close up shot",
       "closeup"
     ],
     "aliases_zh": [
       "中特写"
-    ]
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.593446+00:00"
   },
   {
     "id": "shot_language_shot_size_close_up",
     "term": "close-up",
     "category": "shot-language",
-    "subcategory": "shot-size",
+    "subcategory": "shot_size",
     "labels": [
       "shot",
       "size",
@@ -171,20 +211,24 @@
     "weight": 0.58,
     "source": "legacy-migration",
     "score_v2": 0.58,
-    "term_zh": "近景",
+    "term_zh": "特写",
     "aliases": [
       "close up shot",
       "closeup"
     ],
     "aliases_zh": [
       "特写"
-    ]
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.593446+00:00"
   },
   {
     "id": "shot_language_shot_size_extreme_close_up",
     "term": "extreme close-up",
     "category": "shot-language",
-    "subcategory": "shot-size",
+    "subcategory": "shot_size",
     "labels": [
       "shot",
       "size",
@@ -207,20 +251,24 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "特写",
+    "term_zh": "极特写",
     "aliases": [
       "close up shot",
       "closeup"
     ],
     "aliases_zh": [
       "极特写"
-    ]
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.593446+00:00"
   },
   {
     "id": "shot_language_shot_size_close_up_shot",
     "term": "close-up shot",
     "category": "shot-language",
-    "subcategory": "shot-size",
+    "subcategory": "shot_size",
     "labels": [
       "shot",
       "size",
@@ -250,13 +298,17 @@
     "aliases_zh": [
       "特写镜头",
       "近景"
-    ]
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.593446+00:00"
   },
   {
     "id": "shot_language_shot_size_macro_shot",
     "term": "macro shot",
     "category": "shot-language",
-    "subcategory": "shot-size",
+    "subcategory": "shot_size",
     "labels": [
       "shot",
       "size",
@@ -278,16 +330,24 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "微距镜头",
+    "term_zh": "微距拍摄",
     "aliases_zh": [
       "微距拍摄"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.593446+00:00",
+    "aliases": [
+      "macro shot",
+      "macro"
     ]
   },
   {
     "id": "shot_language_shot_size_establishing_shot",
     "term": "establishing shot",
     "category": "shot-language",
-    "subcategory": "shot-size",
+    "subcategory": "shot_size",
     "labels": [
       "shot",
       "size",
@@ -309,16 +369,24 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "定场镜头",
+    "term_zh": "建立镜头",
     "aliases_zh": [
       "全景开场镜头"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.593446+00:00",
+    "aliases": [
+      "establishing shot",
+      "establishing"
     ]
   },
   {
     "id": "shot_language_shot_size_full_shot",
     "term": "full shot",
     "category": "shot-language",
-    "subcategory": "shot-size",
+    "subcategory": "shot_size",
     "labels": [
       "shot",
       "size",
@@ -340,16 +408,24 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "全身镜头",
+    "term_zh": "全景",
     "aliases_zh": [
       "全景"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.593446+00:00",
+    "aliases": [
+      "full shot",
+      "full"
     ]
   },
   {
     "id": "shot_language_shot_size_cowboy_shot",
     "term": "cowboy shot",
     "category": "shot-language",
-    "subcategory": "shot-size",
+    "subcategory": "shot_size",
     "labels": [
       "shot",
       "size",
@@ -371,16 +447,24 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "牛仔镜头",
+    "term_zh": "七分身镜头",
     "aliases_zh": [
       "七分身镜头"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.593446+00:00",
+    "aliases": [
+      "cowboy shot",
+      "cowboy"
     ]
   },
   {
     "id": "shot_language_shot_size_two_shot",
     "term": "two shot",
     "category": "shot-language",
-    "subcategory": "shot-size",
+    "subcategory": "shot_size",
     "labels": [
       "shot",
       "size",
@@ -400,13 +484,21 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "双人镜头"
+    "term_zh": "双人镜头",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.464895+00:00",
+    "aliases": [
+      "two shot",
+      "two"
+    ]
   },
   {
     "id": "shot_language_shot_size_over_the_shoulder",
     "term": "over the shoulder shot",
     "category": "shot-language",
-    "subcategory": "shot-size",
+    "subcategory": "shot_size",
     "labels": [
       "shot",
       "size",
@@ -428,13 +520,21 @@
     "weight": 0.78,
     "source": "legacy-migration",
     "score_v2": 0.78,
-    "term_zh": "过肩镜头"
+    "term_zh": "过肩镜头",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.464895+00:00",
+    "aliases": [
+      "over the shoulder",
+      "over"
+    ]
   },
   {
     "id": "shot_language_shot_size_point_of_view",
     "term": "point of view shot",
     "category": "shot-language",
-    "subcategory": "shot-size",
+    "subcategory": "shot_size",
     "labels": [
       "shot",
       "size",
@@ -456,16 +556,24 @@
     "weight": 0.78,
     "source": "legacy-migration",
     "score_v2": 0.78,
-    "term_zh": "主观镜头",
+    "term_zh": "视角",
     "aliases_zh": [
       "视角"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.593446+00:00",
+    "aliases": [
+      "point view shot",
+      "point"
     ]
   },
   {
     "id": "shot_language_camera_move_fixed",
     "term": "static camera",
     "category": "shot-language",
-    "subcategory": "camera-move",
+    "subcategory": "camera_move",
     "labels": [
       "camera",
       "move",
@@ -486,13 +594,22 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "固定镜头"
+    "term_zh": "固定镜头",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.593446+00:00",
+    "aliases": [
+      "static camera",
+      "static"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "shot_language_camera_move_push_in",
     "term": "slow push in",
     "category": "shot-language",
-    "subcategory": "camera-move",
+    "subcategory": "camera_move",
     "labels": [
       "camera",
       "move",
@@ -513,13 +630,22 @@
     "weight": 0.74,
     "source": "legacy-migration",
     "score_v2": 0.74,
-    "term_zh": "缓慢推近"
+    "term_zh": "缓慢推近",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.593446+00:00",
+    "aliases": [
+      "slow push",
+      "slow"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "shot_language_camera_move_pull_out",
     "term": "slow pull out",
     "category": "shot-language",
-    "subcategory": "camera-move",
+    "subcategory": "camera_move",
     "labels": [
       "camera",
       "move",
@@ -539,13 +665,22 @@
     "weight": 0.74,
     "source": "legacy-migration",
     "score_v2": 0.74,
-    "term_zh": "缓慢拉远"
+    "term_zh": "缓慢拉远",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.593446+00:00",
+    "aliases": [
+      "slow pull out",
+      "slow"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "shot_language_camera_move_pan_left",
     "term": "pan left",
     "category": "shot-language",
-    "subcategory": "camera-move",
+    "subcategory": "camera_move",
     "labels": [
       "camera",
       "move",
@@ -565,13 +700,22 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "左摇"
+    "term_zh": "左摇",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.593446+00:00",
+    "aliases": [
+      "pan left",
+      "pan"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "shot_language_camera_move_pan_right",
     "term": "pan right",
     "category": "shot-language",
-    "subcategory": "camera-move",
+    "subcategory": "camera_move",
     "labels": [
       "camera",
       "move",
@@ -591,13 +735,22 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "右摇"
+    "term_zh": "右摇",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.593446+00:00",
+    "aliases": [
+      "pan right",
+      "pan"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "shot_language_camera_move_tracking_shot",
     "term": "tracking shot",
     "category": "shot-language",
-    "subcategory": "camera-move",
+    "subcategory": "camera_move",
     "labels": [
       "camera",
       "move",
@@ -620,16 +773,22 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "跟拍",
-    "aliases_zh": [
-      "跟踪镜头"
+    "term_zh": "跟踪镜头",
+    "aliases_zh": [],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.593446+00:00",
+    "aliases": [
+      "tracking shot",
+      "tracking"
     ]
   },
   {
     "id": "shot_language_camera_move_crane_up",
     "term": "crane up",
     "category": "shot-language",
-    "subcategory": "camera-move",
+    "subcategory": "camera_move",
     "labels": [
       "camera",
       "move",
@@ -649,13 +808,20 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "上摇"
+    "term_zh": "上摇",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.464895+00:00",
+    "aliases": [
+      "crane"
+    ]
   },
   {
     "id": "shot_language_camera_move_tilt_down",
     "term": "tilt down",
     "category": "shot-language",
-    "subcategory": "camera-move",
+    "subcategory": "camera_move",
     "labels": [
       "camera",
       "move",
@@ -675,13 +841,21 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "下摇"
+    "term_zh": "俯仰披下",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.464895+00:00",
+    "aliases": [
+      "tilt down",
+      "tilt"
+    ]
   },
   {
     "id": "shot_language_camera_move_zoom_in",
     "term": "zoom in",
     "category": "shot-language",
-    "subcategory": "camera-move",
+    "subcategory": "camera_move",
     "labels": [
       "camera",
       "move",
@@ -701,13 +875,20 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "变焦推近"
+    "term_zh": "推进",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.464895+00:00",
+    "aliases": [
+      "zoom"
+    ]
   },
   {
     "id": "shot_language_camera_move_zoom_out",
     "term": "zoom out",
     "category": "shot-language",
-    "subcategory": "camera-move",
+    "subcategory": "camera_move",
     "labels": [
       "camera",
       "move",
@@ -727,13 +908,21 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "变焦拉远"
+    "term_zh": "拉远",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.464895+00:00",
+    "aliases": [
+      "zoom out",
+      "zoom"
+    ]
   },
   {
     "id": "shot_language_camera_move_arc",
     "term": "arc shot",
     "category": "shot-language",
-    "subcategory": "camera-move",
+    "subcategory": "camera_move",
     "labels": [
       "camera",
       "move",
@@ -754,13 +943,21 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "环绕镜头"
+    "term_zh": "环绕镜头",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.464895+00:00",
+    "aliases": [
+      "arc shot",
+      "arc"
+    ]
   },
   {
     "id": "shot_language_camera_move_dolly_zoom",
     "term": "dolly zoom",
     "category": "shot-language",
-    "subcategory": "camera-move",
+    "subcategory": "camera_move",
     "labels": [
       "camera",
       "move",
@@ -783,13 +980,17 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "推拉变焦",
+    "term_zh": "推车Zoom",
     "aliases_zh": [
       "推车Zoom"
     ],
     "aliases": [
       "vertigo dolly zoom effect"
-    ]
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.593446+00:00"
   },
   {
     "id": "shot_language_lens_14mm",
@@ -815,7 +1016,15 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "14mm 镜头"
+    "term_zh": "85mm 镜头",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.464895+00:00",
+    "aliases": [
+      "14mm lens",
+      "14mm"
+    ]
   },
   {
     "id": "shot_language_lens_24mm",
@@ -840,7 +1049,15 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "24mm 镜头"
+    "term_zh": "24mm 镜头",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.464895+00:00",
+    "aliases": [
+      "24mm lens",
+      "24mm"
+    ]
   },
   {
     "id": "shot_language_lens_35mm",
@@ -867,9 +1084,17 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "35mm 镜头",
+    "term_zh": "85mm 镜头",
     "aliases_zh": [
       "85mm 镜头"
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.593446+00:00",
+    "aliases": [
+      "35mm lens",
+      "35mm"
     ]
   },
   {
@@ -897,7 +1122,16 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "50mm 镜头"
+    "term_zh": "50mm 镜头",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.593446+00:00",
+    "aliases": [
+      "50mm lens",
+      "50mm"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "shot_language_lens_85mm",
@@ -924,7 +1158,16 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "85mm 镜头"
+    "term_zh": "85mm 镜头",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.593446+00:00",
+    "aliases": [
+      "85mm lens",
+      "85mm"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "shot_language_lens_135mm",
@@ -949,7 +1192,15 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "135mm 镜头"
+    "term_zh": "135mm 镜头",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.464895+00:00",
+    "aliases": [
+      "135mm lens",
+      "135mm"
+    ]
   },
   {
     "id": "shot_language_lens_200mm",
@@ -976,7 +1227,15 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "200mm 镜头"
+    "term_zh": "200mm 镜头",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.464895+00:00",
+    "aliases": [
+      "200mm lens",
+      "200mm"
+    ]
   },
   {
     "id": "shot_language_lens_fisheye",
@@ -1003,7 +1262,15 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "鱼眼镜头"
+    "term_zh": "鱼眼镜头",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.464895+00:00",
+    "aliases": [
+      "fisheye lens",
+      "fisheye"
+    ]
   },
   {
     "id": "shot_language_lens_tilt_shift",
@@ -1031,14 +1298,18 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "移轴镜头",
+    "term_zh": "移轴晶状体",
     "aliases_zh": [
       "移轴晶状体"
     ],
     "aliases": [
       "miniature effect",
       "selective focus"
-    ]
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.593446+00:00"
   },
   {
     "id": "shot_language_lens_macro",
@@ -1065,7 +1336,15 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "微距镜头"
+    "term_zh": "微距镜头",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.464895+00:00",
+    "aliases": [
+      "macro lens",
+      "macro"
+    ]
   },
   {
     "id": "shot_language_lens_anamorphic",
@@ -1094,12 +1373,16 @@
     "weight": 0.66,
     "source": "legacy-migration",
     "score_v2": 0.66,
-    "term_zh": "变形宽银幕镜头",
+    "term_zh": "变形宽银幕晶状体",
     "aliases_zh": [
       "变形宽银幕晶状体"
     ],
     "aliases": [
       "cinematic anamorphic lensing"
-    ]
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.464895+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.593446+00:00"
   }
 ]

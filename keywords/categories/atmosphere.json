@@ -35,7 +35,12 @@
     ],
     "weight": 0.64,
     "score_v2": 0.64,
-    "term_zh": "氛围"
+    "term_zh": "氛围",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459270+00:00",
+    "aliases": [
+      "atmosphere"
+    ]
   },
   {
     "id": "mj_mj_v5_nature_aurora",
@@ -75,7 +80,12 @@
     "relation_role": "canonical",
     "weight": 0.64,
     "score_v2": 0.64,
-    "term_zh": "极光"
+    "term_zh": "极光",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459270+00:00",
+    "aliases": [
+      "aurora"
+    ]
   },
   {
     "id": "mj_mj_v5_nature_aurora_australis",
@@ -113,7 +123,13 @@
     ],
     "weight": 0.72,
     "score_v2": 0.72,
-    "term_zh": "南极光"
+    "term_zh": "南极光",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459270+00:00",
+    "aliases": [
+      "aurora australis",
+      "aurora"
+    ]
   },
   {
     "id": "mj_mj_v5_nature_aurora_borealis",
@@ -153,7 +169,13 @@
     "relation_role": "canonical",
     "weight": 0.72,
     "score_v2": 0.72,
-    "term_zh": "北极光"
+    "term_zh": "北极光",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459270+00:00",
+    "aliases": [
+      "aurora borealis",
+      "aurora"
+    ]
   },
   {
     "id": "mj_mj_v5_nature_aurorae",
@@ -193,7 +215,12 @@
     "relation_role": "canonical",
     "weight": 0.64,
     "score_v2": 0.64,
-    "term_zh": "极光"
+    "term_zh": "极光",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459270+00:00",
+    "aliases": [
+      "aurorae"
+    ]
   },
   {
     "id": "mj_mj_v5_nature_auroral_light",
@@ -231,6 +258,12 @@
     ],
     "weight": 0.72,
     "score_v2": 0.72,
-    "term_zh": "极光"
+    "term_zh": "极光",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.459270+00:00",
+    "aliases": [
+      "auroral light",
+      "auroral"
+    ]
   }
 ]

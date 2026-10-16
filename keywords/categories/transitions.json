@@ -29,7 +29,15 @@
     ],
     "weight": 0.72,
     "score_v2": 0.72,
-    "term_zh": "硬切"
+    "term_zh": "硬切",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "hard cut",
+      "hard"
+    ]
   },
   {
     "id": "transitions_standard_cross_dissolve",
@@ -60,7 +68,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "平滑交叉溶解过渡"
+    "term_zh": "平滑交叉溶解过渡",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "smooth cross-dissolve transition",
+      "smooth"
+    ]
   },
   {
     "id": "transitions_standard_fade_to_black",
@@ -98,7 +114,11 @@
     ],
     "aliases_zh": [
       "黑色调"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00"
   },
   {
     "id": "transitions_standard_fade_to_white",
@@ -137,7 +157,11 @@
     "aliases_zh": [
       "纯白色",
       "象牙白"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00"
   },
   {
     "id": "transitions_standard_snap_to_black",
@@ -175,7 +199,11 @@
     ],
     "aliases_zh": [
       "黑色调"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00"
   },
   {
     "id": "transitions_standard_match_cut",
@@ -206,7 +234,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "匹配剪辑：首尾构图对应"
+    "term_zh": "匹配剪辑：首尾构图对应",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "match cut: the",
+      "match"
+    ]
   },
   {
     "id": "transitions_standard_smash_cut",
@@ -237,7 +273,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "硬切：两个迥异场景的猛烈过渡"
+    "term_zh": "硬切：两个迥异场景的猛烈过渡",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "smash cut: abrupt",
+      "smash"
+    ]
   },
   {
     "id": "transitions_standard_iris",
@@ -268,7 +312,15 @@
     ],
     "weight": 0.72,
     "score_v2": 0.72,
-    "term_zh": "可变光圈擦除"
+    "term_zh": "可变光圈擦除",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "iris wipe",
+      "iris"
+    ]
   },
   {
     "id": "transitions_standard_wipe",
@@ -300,7 +352,15 @@
     ],
     "weight": 0.72,
     "score_v2": 0.72,
-    "term_zh": "线性擦除"
+    "term_zh": "线性擦除",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "linear wipe",
+      "linear"
+    ]
   },
   {
     "id": "transitions_standard_roll_transition",
@@ -331,7 +391,15 @@
     ],
     "weight": 0.8,
     "score_v2": 0.8,
-    "term_zh": "镜头翻转过渡"
+    "term_zh": "镜头翻转过渡",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "camera roll transition",
+      "camera"
+    ]
   },
   {
     "id": "transitions_standard_seamless_match",
@@ -363,7 +431,15 @@
     ],
     "weight": 0.72,
     "score_v2": 0.72,
-    "term_zh": "隐形切割"
+    "term_zh": "隐形切割",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "invisible cut",
+      "invisible"
+    ]
   },
   {
     "id": "transitions_standard_whip_pan",
@@ -395,7 +471,15 @@
     ],
     "weight": 0.72,
     "score_v2": 0.72,
-    "term_zh": "抡抡镜头"
+    "term_zh": "抡抡镜头",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "whip pan",
+      "whip"
+    ]
   },
   {
     "id": "transitions_standard_jump_cut",
@@ -427,7 +511,15 @@
     ],
     "weight": 0.72,
     "score_v2": 0.72,
-    "term_zh": "跳切"
+    "term_zh": "跳切",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "jump cut",
+      "jump"
+    ]
   },
   {
     "id": "transitions_time_fast_forward_day_night",
@@ -462,6 +554,14 @@
     "aliases_zh": [
       "纯白色",
       "象牙白"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "aliases": [
+      "day-to-night time-lapse",
+      "day-to-night"
     ]
   },
   {
@@ -497,6 +597,14 @@
     "aliases_zh": [
       "纯白色",
       "象牙白"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "aliases": [
+      "night-to-day time-lapse",
+      "night-to-day"
     ]
   },
   {
@@ -528,7 +636,15 @@
     ],
     "weight": 0.72,
     "score_v2": 0.72,
-    "term_zh": "季节轮转延时"
+    "term_zh": "季节轮转延时",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "seasonal time-lapse",
+      "seasonal"
+    ]
   },
   {
     "id": "transitions_time_aging",
@@ -560,7 +676,15 @@
     ],
     "weight": 0.72,
     "score_v2": 0.72,
-    "term_zh": "加速老化"
+    "term_zh": "加速老化",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "accelerated aging",
+      "accelerated"
+    ]
   },
   {
     "id": "transitions_time_rewind",
@@ -592,7 +716,15 @@
     ],
     "weight": 0.72,
     "score_v2": 0.72,
-    "term_zh": "倒带倒放"
+    "term_zh": "倒带倒放",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "reverse-motion rewind",
+      "reverse-motion"
+    ]
   },
   {
     "id": "transitions_time_freeze_frame_jump",
@@ -624,7 +756,15 @@
     ],
     "weight": 0.8,
     "score_v2": 0.8,
-    "term_zh": "定格跳跃"
+    "term_zh": "定格跳跃",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "freeze-frame time jump",
+      "freeze-frame"
+    ]
   },
   {
     "id": "transitions_time_weather_shift",
@@ -655,7 +795,15 @@
     ],
     "weight": 0.72,
     "score_v2": 0.72,
-    "term_zh": "皮革延时摄影"
+    "term_zh": "皮革延时摄影",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "weather time-lapse",
+      "weather"
+    ]
   },
   {
     "id": "transitions_time_flashback",
@@ -686,7 +834,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "短暂回忆过渡：画面温暖调"
+    "term_zh": "短暂回忆过渡：画面温暖调",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "brief flashback transition:",
+      "brief"
+    ]
   },
   {
     "id": "transitions_element_dissolve_to_mist",
@@ -717,7 +873,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "主体失去实体化为柔软漩涡"
+    "term_zh": "主体失去实体化为柔软漩涡",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "the first subject",
+      "the"
+    ]
   },
   {
     "id": "transitions_element_water_splash",
@@ -748,7 +912,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "主体化为水成海底洪"
+    "term_zh": "主体化为水成海底洪",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "the first subject",
+      "the"
+    ]
   },
   {
     "id": "transitions_element_sand_scatter",
@@ -779,7 +951,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "主体崩裂为细沙随风飘散"
+    "term_zh": "主体崩裂为细沙随风飘散",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "the subject crumbles",
+      "the"
+    ]
   },
   {
     "id": "transitions_element_fire_burnup",
@@ -810,7 +990,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "燃烧成灰烬再重组"
+    "term_zh": "燃烧成灰烬再重组",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "burn embers and",
+      "burn"
+    ]
   },
   {
     "id": "transitions_element_smoke_puff",
@@ -841,7 +1029,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "主体在软烟中消散"
+    "term_zh": "主体在软烟中消散",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "the subject vanishes",
+      "the"
+    ]
   },
   {
     "id": "transitions_element_magic_sparkles",
@@ -880,7 +1076,11 @@
     "aliases_zh": [
       "spark effects",
       "火花效果"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00"
   },
   {
     "id": "transitions_element_lightning_flash",
@@ -911,7 +1111,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "明亮锯齿状闪电穿过画面"
+    "term_zh": "明亮锯齿状闪电穿过画面",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "brilliant jagged bolt",
+      "brilliant"
+    ]
   },
   {
     "id": "transitions_element_ink_splash",
@@ -949,7 +1157,11 @@
     ],
     "aliases_zh": [
       "黑色调"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00"
   },
   {
     "id": "transitions_element_sand_storm",
@@ -983,6 +1195,14 @@
     "term_zh": "不透明墙过渡",
     "aliases_zh": [
       "半透明质感"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "aliases": [
+      "wall opaque",
+      "wall"
     ]
   },
   {
@@ -1017,7 +1237,11 @@
     "term_zh": "鲜艳彩色颜料弧线飞过画面",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00"
   },
   {
     "id": "transitions_element_aurora_sweep",
@@ -1052,7 +1276,11 @@
     "aliases": [
       "emerald green",
       "forest green"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00"
   },
   {
     "id": "transitions_element_sakura_petals",
@@ -1083,7 +1311,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "樱花瓣风暴过渡"
+    "term_zh": "樱花瓣风暴过渡",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "cherry blossom petal",
+      "cherry"
+    ]
   },
   {
     "id": "transitions_element_garden_bloom",
@@ -1118,7 +1354,11 @@
     "aliases": [
       "glow effect",
       "soft bloom"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00"
   },
   {
     "id": "transitions_element_powder_burst",
@@ -1152,7 +1392,11 @@
     "term_zh": "鲜艳彩粉从画面中心爆炸",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00"
   },
   {
     "id": "transitions_morph_liquid_morph",
@@ -1183,7 +1427,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "平滑液态变形过渡"
+    "term_zh": "平滑液态变形过渡",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "smooth liquid morph:",
+      "smooth"
+    ]
   },
   {
     "id": "transitions_morph_pixelate_reform",
@@ -1214,7 +1466,15 @@
     ],
     "weight": 0.8,
     "score_v2": 0.8,
-    "term_zh": "像素化与重组"
+    "term_zh": "像素化与重组",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "pixelate and reform",
+      "pixelate"
+    ]
   },
   {
     "id": "transitions_morph_shatter_glass",
@@ -1245,7 +1505,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "玻璃化破碎与重组"
+    "term_zh": "玻璃化破碎与重组",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "shatter like glass",
+      "shatter"
+    ]
   },
   {
     "id": "transitions_morph_origami_fold",
@@ -1280,7 +1548,11 @@
     "aliases": [
       "folded paper art",
       "paper folding"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00"
   },
   {
     "id": "transitions_morph_vortex_swirl",
@@ -1311,7 +1583,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "仅主体扭曲变形"
+    "term_zh": "仅主体扭曲变形",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "only the first",
+      "only"
+    ]
   },
   {
     "id": "transitions_morph_dream_ripple",
@@ -1342,7 +1622,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "圆形涟漪从中心向外扩散"
+    "term_zh": "圆形涟漪从中心向外扩散",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "circular ripple radiates",
+      "circular"
+    ]
   },
   {
     "id": "transitions_morph_wireframe_morph",
@@ -1381,7 +1669,11 @@
     "aliases_zh": [
       "luminous",
       "发光效果"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00"
   },
   {
     "id": "transitions_morph_polygon_shatter",
@@ -1415,6 +1707,14 @@
     "term_zh": "主体裂为大块不透明扁平碎片",
     "aliases_zh": [
       "半透明质感"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "aliases": [
+      "the first subject",
+      "the"
     ]
   },
   {
@@ -1446,7 +1746,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "融化为一滩再重组"
+    "term_zh": "融化为一滩再重组",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "melt into puddle",
+      "melt"
+    ]
   },
   {
     "id": "transitions_portal_zoom_into_eye",
@@ -1477,7 +1785,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "镜头推入主体眼部微距"
+    "term_zh": "镜头推入主体眼部微距",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "the camera pushes",
+      "the"
+    ]
   },
   {
     "id": "transitions_portal_zoom_into_mirror",
@@ -1508,7 +1824,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "镜头推向场景中的镜子"
+    "term_zh": "镜头推向场景中的镜子",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "the camera pushes",
+      "the"
+    ]
   },
   {
     "id": "transitions_portal_zoom_into_screen",
@@ -1539,7 +1863,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "镜头推向场景中的屏幕"
+    "term_zh": "镜头推向场景中的屏幕",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "the camera pushes",
+      "the"
+    ]
   },
   {
     "id": "transitions_portal_zoom_into_book",
@@ -1570,7 +1902,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "镜头下推至翻开书页"
+    "term_zh": "镜头下推至翻开书页",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "the camera pushes",
+      "the"
+    ]
   },
   {
     "id": "transitions_portal_walk_through_door",
@@ -1601,7 +1941,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "镜头跟随主体穿越门洞"
+    "term_zh": "镜头跟随主体穿越门洞",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "the camera follows",
+      "the"
+    ]
   },
   {
     "id": "transitions_portal_fall_into_hole",
@@ -1632,7 +1980,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "地面在镜头下裂开坠落"
+    "term_zh": "地面在镜头下裂开坠落",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "the floor ground",
+      "the"
+    ]
   },
   {
     "id": "transitions_portal_pull_out_reveal",
@@ -1664,7 +2020,15 @@
     ],
     "weight": 0.72,
     "score_v2": 0.72,
-    "term_zh": "拉远揭示"
+    "term_zh": "拉远揭示",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "pull-back reveal",
+      "pull-back"
+    ]
   },
   {
     "id": "transitions_portal_zoom_into_mouth",
@@ -1695,7 +2059,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "镜头直推入主体口中"
+    "term_zh": "镜头直推入主体口中",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "the camera pushes",
+      "the"
+    ]
   },
   {
     "id": "transitions_portal_push_through_glass",
@@ -1726,7 +2098,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "镜头推向场景中的玻璃"
+    "term_zh": "镜头推向场景中的玻璃",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "the camera pushes",
+      "the"
+    ]
   },
   {
     "id": "transitions_portal_soul_jump",
@@ -1757,7 +2137,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "灵魂离体进入另一身体"
+    "term_zh": "灵魂离体进入另一身体",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "soul leaves body",
+      "soul"
+    ]
   },
   {
     "id": "transitions_portal_mask_transition",
@@ -1789,7 +2177,15 @@
     ],
     "weight": 0.72,
     "score_v2": 0.72,
-    "term_zh": "面具过渡"
+    "term_zh": "面具过渡",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "mask transition",
+      "mask"
+    ]
   },
   {
     "id": "transitions_portal_zoom_through",
@@ -1821,7 +2217,15 @@
     ],
     "weight": 0.72,
     "score_v2": 0.72,
-    "term_zh": "推进过渡"
+    "term_zh": "推进过渡",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "zoom-through transition",
+      "zoom-through"
+    ]
   },
   {
     "id": "transitions_physics_explosion_blast",
@@ -1856,7 +2260,11 @@
     "aliases": [
       "detonation",
       "fireball explosion"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00"
   },
   {
     "id": "transitions_physics_shockwave",
@@ -1891,6 +2299,14 @@
     "aliases_zh": [
       "纯白色",
       "象牙白"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "aliases": [
+      "flash the exact",
+      "flash"
     ]
   },
   {
@@ -1922,7 +2338,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "拳头或物体快速挥向镜头撞击"
+    "term_zh": "拳头或物体快速挥向镜头撞击",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "fist object swings",
+      "fist"
+    ]
   },
   {
     "id": "transitions_physics_debris_shower",
@@ -1953,7 +2377,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "落叶碎屑喷雾"
+    "term_zh": "落叶碎屑喷雾",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "shower debris leaves",
+      "shower"
+    ]
   },
   {
     "id": "transitions_physics_gravity_flip",
@@ -1985,7 +2417,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "重力反转镜头翻转 180 度"
+    "term_zh": "重力反转镜头翻转 180 度",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "gravity inverts and",
+      "gravity"
+    ]
   },
   {
     "id": "transitions_physics_building_explosion",
@@ -2020,6 +2460,14 @@
     "aliases_zh": [
       "fire effects",
       "火焰"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "aliases": [
+      "the largest structure",
+      "the"
     ]
   },
   {
@@ -2059,7 +2507,11 @@
     "aliases_zh": [
       "fire effects",
       "火焰"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00"
   },
   {
     "id": "transitions_physics_jump_match",
@@ -2090,7 +2542,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "跳跃匹配剪辑"
+    "term_zh": "跳跃匹配剪辑",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "match cut jump",
+      "match"
+    ]
   },
   {
     "id": "transitions_physics_hand_swipe",
@@ -2121,7 +2581,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "手近距掠过镜头"
+    "term_zh": "手近距掠过镜头",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "hand sweeps across",
+      "hand"
+    ]
   },
   {
     "id": "transitions_physics_action_relay",
@@ -2152,7 +2620,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "动作匹配剪辑"
+    "term_zh": "动作匹配剪辑",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "match cut action",
+      "match"
+    ]
   },
   {
     "id": "transitions_light_white_flash",
@@ -2187,7 +2663,11 @@
     "aliases": [
       "glow effect",
       "soft bloom"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00"
   },
   {
     "id": "transitions_light_lens_flare_swipe",
@@ -2223,7 +2703,11 @@
     "aliases": [
       "lens flare effect",
       "sun flare"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00"
   },
   {
     "id": "transitions_light_light_streak",
@@ -2254,7 +2738,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "明亮光带划过画面留下拖尾"
+    "term_zh": "明亮光带划过画面留下拖尾",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "bright streak light",
+      "bright"
+    ]
   },
   {
     "id": "transitions_light_color_invert",
@@ -2285,7 +2777,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "画面颜色反转一瞬"
+    "term_zh": "画面颜色反转一瞬",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "colors invert across",
+      "colors"
+    ]
   },
   {
     "id": "transitions_light_sun_glare",
@@ -2316,7 +2816,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "强烈暖色眩光从画面一角涌入镜头"
+    "term_zh": "强烈暖色眩光从画面一角涌入镜头",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "intense warm glare",
+      "intense"
+    ]
   },
   {
     "id": "transitions_light_lens_crack",
@@ -2347,7 +2855,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "镜头出现发丝裂纹斜向延伸"
+    "term_zh": "镜头出现发丝裂纹斜向延伸",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "hairline crack snaps",
+      "hairline"
+    ]
   },
   {
     "id": "transitions_light_dirty_lens_wipe",
@@ -2378,7 +2894,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "镜头突然被灰尘划出痕迹"
+    "term_zh": "镜头突然被灰尘划出痕迹",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "the camera lens",
+      "the"
+    ]
   },
   {
     "id": "transitions_light_eye_light_burst",
@@ -2417,7 +2941,11 @@
     "aliases_zh": [
       "纯白色",
       "象牙白"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00"
   },
   {
     "id": "transitions_glitch_digital_glitch",
@@ -2450,7 +2978,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "短暂数字故障 — RGB 分离"
+    "term_zh": "短暂数字故障 — RGB 分离",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "brief digital glitch",
+      "brief"
+    ]
   },
   {
     "id": "transitions_glitch_vhs_rewind",
@@ -2482,7 +3018,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "VHS 跟踪失真与磁带倒带扫描画面"
+    "term_zh": "VHS 跟踪失真与磁带倒带扫描画面",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "vhs-style tracking distortion",
+      "vhs-style"
+    ]
   },
   {
     "id": "transitions_glitch_datamosh",
@@ -2513,7 +3057,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "Datamosh 转场"
+    "term_zh": "Datamosh 转场",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "datamosh transition: the",
+      "datamosh"
+    ]
   },
   {
     "id": "transitions_glitch_channel_flip",
@@ -2548,6 +3100,14 @@
     "aliases_zh": [
       "snowy weather",
       "下雪天"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "aliases": [
+      "channel flip with",
+      "channel"
     ]
   },
   {
@@ -2579,7 +3139,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "全息感水平干涉条闪烁"
+    "term_zh": "全息感水平干涉条闪烁",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "hologram-style flicker with",
+      "hologram-style"
+    ]
   },
   {
     "id": "transitions_glitch_display_wipe",
@@ -2610,7 +3178,15 @@
     ],
     "weight": 0.84,
     "score_v2": 0.84,
-    "term_zh": "压缩为屏后向外展开"
+    "term_zh": "压缩为屏后向外展开",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.467187+00:00",
+    "aliases": [
+      "compress into screen",
+      "compress"
+    ]
   },
   {
     "id": "transitions_glitch_double_exposure",
@@ -2647,13 +3223,17 @@
     ],
     "aliases_zh": [
       "半透明质感"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.467187+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00"
   },
   {
     "id": "transitions_p0_219f6e23",
     "term": "dissolve",
     "category": "transitions",
-    "subcategory": "cross-dissolve",
+    "subcategory": "cross_dissolve",
     "weight": 0.64,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -2667,7 +3247,16 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.64,
-    "term_zh": null
+    "term_zh": "dissolve",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "labels": [],
+    "lifecycle": "approved",
+    "aliases": [
+      "dissolve"
+    ]
   },
   {
     "id": "transitions_p0_3e2bd65d",
@@ -2687,7 +3276,16 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.72,
-    "term_zh": null
+    "term_zh": "擦除转场 转场",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "wipe transition",
+      "wipe"
+    ]
   },
   {
     "id": "transitions_p0_84b433ac",
@@ -2707,13 +3305,22 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.72,
-    "term_zh": null
+    "term_zh": "转场",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "seamless transition",
+      "seamless"
+    ]
   },
   {
     "id": "transitions_p0_b5a98037",
     "term": "flash transition",
     "category": "transitions",
-    "subcategory": "flash-cut",
+    "subcategory": "flash_cut",
     "weight": 0.72,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -2727,13 +3334,23 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.72,
-    "term_zh": null
+    "term_zh": "转场",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "labels": [],
+    "lifecycle": "approved",
+    "aliases": [
+      "flash transition",
+      "flash"
+    ]
   },
   {
     "id": "transitions_p0_45b9e921",
     "term": "match cut",
     "category": "transitions",
-    "subcategory": "jump-cut",
+    "subcategory": "jump_cut",
     "weight": 0.72,
     "score": 0.5,
     "source": "joost/ai-camera-shots",
@@ -2747,13 +3364,23 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.72,
-    "term_zh": null
+    "term_zh": "剪辑",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "labels": [],
+    "lifecycle": "approved",
+    "aliases": [
+      "match cut",
+      "match"
+    ]
   },
   {
     "id": "transitions_p0_a01b9f6b",
     "term": "light leak",
     "category": "transitions",
-    "subcategory": "light-leak",
+    "subcategory": "light_leak",
     "weight": 0.72,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -2767,13 +3394,23 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.72,
-    "term_zh": null
+    "term_zh": "light leak",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "labels": [],
+    "lifecycle": "approved",
+    "aliases": [
+      "light leak",
+      "light"
+    ]
   },
   {
     "id": "transitions_p0_925e768a",
     "term": "fade in",
     "category": "transitions",
-    "subcategory": "fade-in",
+    "subcategory": "fade_in",
     "weight": 0.72,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -2787,13 +3424,22 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.72,
-    "term_zh": null
+    "term_zh": "fade in",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "labels": [],
+    "lifecycle": "approved",
+    "aliases": [
+      "fade"
+    ]
   },
   {
     "id": "transitions_p0_b3bde8ae",
     "term": "smash cut",
     "category": "transitions",
-    "subcategory": "jump-cut",
+    "subcategory": "jump_cut",
     "weight": 0.72,
     "score": 0.5,
     "source": "joost/ai-camera-shots",
@@ -2807,7 +3453,17 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.72,
-    "term_zh": null
+    "term_zh": "剪辑",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "labels": [],
+    "lifecycle": "approved",
+    "aliases": [
+      "smash cut",
+      "smash"
+    ]
   },
   {
     "id": "transitions_p0_58f608fa",
@@ -2827,13 +3483,22 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.72,
-    "term_zh": null
+    "term_zh": "pull-out reveal",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "pull-out reveal",
+      "pull-out"
+    ]
   },
   {
     "id": "transitions_p0_4fa63384",
     "term": "push-in",
     "category": "transitions",
-    "subcategory": "push-in",
+    "subcategory": "push_in",
     "weight": 0.64,
     "score": 0.5,
     "source": "joost/ai-camera-shots",
@@ -2847,13 +3512,22 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.64,
-    "term_zh": null
+    "term_zh": "push-in",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "labels": [],
+    "lifecycle": "approved",
+    "aliases": [
+      "push-in"
+    ]
   },
   {
     "id": "transitions_p0_56a319d0",
     "term": "crash zoom",
     "category": "transitions",
-    "subcategory": "zoom-in",
+    "subcategory": "zoom_in",
     "weight": 0.72,
     "score": 0.5,
     "source": "joost/ai-camera-shots",
@@ -2867,7 +3541,17 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.72,
-    "term_zh": null
+    "term_zh": "crash zoom",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "labels": [],
+    "lifecycle": "approved",
+    "aliases": [
+      "crash zoom",
+      "crash"
+    ]
   },
   {
     "id": "transitions_p0_7b210f2b",
@@ -2887,11 +3571,16 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.84,
-    "term_zh": null,
+    "term_zh": "push through a portal",
     "aliases": [
       "dimensional portal",
       "rift"
-    ]
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "lifecycle": "approved"
   },
   {
     "id": "transitions_p0_af9ff9d2",
@@ -2911,7 +3600,16 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.72,
-    "term_zh": null
+    "term_zh": "擦除转场",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "object wipe",
+      "object"
+    ]
   },
   {
     "id": "transitions_p0_96c309a5",
@@ -2931,13 +3629,22 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.72,
-    "term_zh": null
+    "term_zh": "擦除转场",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "body wipe",
+      "body"
+    ]
   },
   {
     "id": "transitions_p0_97e452cf",
     "term": "lens block",
     "category": "transitions",
-    "subcategory": "fade-out",
+    "subcategory": "fade_out",
     "weight": 0.72,
     "score": 0.5,
     "source": "joost/ai-camera-shots",
@@ -2951,13 +3658,23 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.72,
-    "term_zh": null
+    "term_zh": "lens block",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "labels": [],
+    "lifecycle": "approved",
+    "aliases": [
+      "lens block",
+      "lens"
+    ]
   },
   {
     "id": "transitions_p0_e9db65ff",
     "term": "dip to dark",
     "category": "transitions",
-    "subcategory": "fade-out",
+    "subcategory": "fade_out",
     "weight": 0.8,
     "score": 0.5,
     "source": "joost/ai-camera-shots",
@@ -2971,7 +3688,17 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.8,
-    "term_zh": null
+    "term_zh": "dip to dark",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "labels": [],
+    "lifecycle": "approved",
+    "aliases": [
+      "dip dark",
+      "dip"
+    ]
   },
   {
     "id": "transitions_p0_7ee9c4f8",
@@ -2991,11 +3718,16 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.64,
-    "term_zh": null,
+    "term_zh": "portal",
     "aliases": [
       "dimensional portal",
       "rift"
-    ]
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "lifecycle": "approved"
   },
   {
     "id": "transitions_p0_d8b66cc8",
@@ -3015,7 +3747,16 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.72,
-    "term_zh": null
+    "term_zh": "擦除转场",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "screen wipe",
+      "screen"
+    ]
   },
   {
     "id": "transitions_p0_d2f0eeaa",
@@ -3035,7 +3776,16 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.72,
-    "term_zh": null
+    "term_zh": "arc continuation",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "arc continuation",
+      "arc"
+    ]
   },
   {
     "id": "transitions_p0_dc7821f3",
@@ -3055,13 +3805,22 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.72,
-    "term_zh": null
+    "term_zh": "roll continuation",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "roll continuation",
+      "roll"
+    ]
   },
   {
     "id": "transitions_p0_c31ed914",
     "term": "filled-frame entry",
     "category": "transitions",
-    "subcategory": "fade-out",
+    "subcategory": "fade_out",
     "weight": 0.72,
     "score": 0.5,
     "source": "joost/ai-camera-shots",
@@ -3075,13 +3834,23 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.72,
-    "term_zh": null
+    "term_zh": "filled-frame entry",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "labels": [],
+    "lifecycle": "approved",
+    "aliases": [
+      "filled-frame entry",
+      "filled-frame"
+    ]
   },
   {
     "id": "transitions_p0_3443038f",
     "term": "cut on action",
     "category": "transitions",
-    "subcategory": "hard-cut",
+    "subcategory": "hard_cut",
     "weight": 0.8,
     "score": 0.5,
     "source": "joost/ai-camera-shots",
@@ -3095,13 +3864,23 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.8,
-    "term_zh": null
+    "term_zh": "剪辑",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "labels": [],
+    "lifecycle": "approved",
+    "aliases": [
+      "cut action",
+      "cut"
+    ]
   },
   {
     "id": "transitions_p0_82dee89f",
     "term": "exit and enter frame",
     "category": "transitions",
-    "subcategory": "hard-cut",
+    "subcategory": "hard_cut",
     "weight": 0.84,
     "score": 0.5,
     "source": "joost/ai-camera-shots",
@@ -3115,7 +3894,17 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.84,
-    "term_zh": null
+    "term_zh": "exit and enter frame",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "labels": [],
+    "lifecycle": "approved",
+    "aliases": [
+      "exit and enter",
+      "exit"
+    ]
   },
   {
     "id": "transitions_p0_830251e4",
@@ -3135,7 +3924,16 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.72,
-    "term_zh": null
+    "term_zh": "擦除转场",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "graphic wipe",
+      "graphic"
+    ]
   },
   {
     "id": "transitions_p0_729935bb",
@@ -3155,7 +3953,15 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.72,
-    "term_zh": null
+    "term_zh": "剪辑",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "cut"
+    ]
   },
   {
     "id": "transitions_p0_235bd658",
@@ -3175,13 +3981,21 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.72,
-    "term_zh": null
+    "term_zh": "剪辑",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "cut"
+    ]
   },
   {
     "id": "transitions_p0_ce2527a9",
     "term": "sound bridge",
     "category": "transitions",
-    "subcategory": "audio-bridge",
+    "subcategory": "audio_bridge",
     "weight": 0.72,
     "score": 0.5,
     "source": "joost/ai-camera-shots",
@@ -3195,11 +4009,17 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.72,
-    "term_zh": null,
+    "term_zh": "sound bridge",
     "aliases": [
       "arch bridge",
       "suspension bridge"
-    ]
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "labels": [],
+    "lifecycle": "approved"
   },
   {
     "id": "transitions_p0_83270b89",
@@ -3219,7 +4039,16 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.72,
-    "term_zh": null
+    "term_zh": "隐藏切割",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "hidden cut",
+      "hidden"
+    ]
   },
   {
     "id": "transitions_p0_1e872e74",
@@ -3239,11 +4068,16 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.72,
-    "term_zh": null,
+    "term_zh": "generated bridge",
     "aliases": [
       "arch bridge",
       "suspension bridge"
-    ]
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "lifecycle": "approved"
   },
   {
     "id": "transitions_p0_b414a919",
@@ -3263,7 +4097,16 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.84,
-    "term_zh": null
+    "term_zh": "first and last frame",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "first and last",
+      "first"
+    ]
   },
   {
     "id": "transitions_p0_b0a22e70",
@@ -3283,13 +4126,22 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.72,
-    "term_zh": null
+    "term_zh": "last-frame handoff",
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "lifecycle": "approved",
+    "aliases": [
+      "last-frame handoff",
+      "last-frame"
+    ]
   },
   {
     "id": "transitions_p0_6e7831c7",
     "term": "match on the smallest shared shape",
     "category": "transitions",
-    "subcategory": "jump-cut",
+    "subcategory": "jump_cut",
     "weight": 0.84,
     "score": 0.5,
     "source": "joost/ai-camera-shots",
@@ -3303,9 +4155,15 @@
     "is_negative": false,
     "needs_review": false,
     "score_v2": 0.84,
-    "term_zh": null,
+    "term_zh": "match on the smallest shared shape",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "created_at": "2026-09-28T00:00:00+00:00",
+    "updated_at": "2026-10-16T04:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
+    "labels": [],
+    "lifecycle": "approved"
   }
 ]

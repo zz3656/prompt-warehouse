@@ -1,0 +1,42 @@
+{
+  "name": "quality 工作流",
+  "description": "quality 分类的常用关键词集合 (189 条)",
+  "category": "quality",
+  "keywords": [
+    "masterpiece",
+    "best quality",
+    "high quality",
+    "high resolution",
+    "detailed",
+    "highly detailed",
+    "sharp focus",
+    "crisp",
+    "clear",
+    "clean"
+  ],
+  "total_count": 189,
+  "id": "workflow.quality",
+  "name_zh": "质量",
+  "steps": [
+    {
+      "order": 1,
+      "template_id": "action.motion"
+    },
+    {
+      "order": 2,
+      "template_id": "atmosphere.weather"
+    },
+    {
+      "order": 3,
+      "template_id": "camera.movement"
+    },
+    {
+      "order": 4,
+      "template_id": "camera.shot_type"
+    },
+    {
+      "order": 5,
+      "template_id": "character.multiple_views"
+    }
+  ]
+}

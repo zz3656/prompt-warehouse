@@ -1,0 +1,42 @@
+{
+  "name": "clothing 工作流",
+  "description": "clothing 分类的常用关键词集合 (703 条)",
+  "category": "clothing",
+  "keywords": [
+    "angel wings",
+    "animal ears",
+    "ankle boots",
+    "backpack",
+    "bag",
+    "belt",
+    "beret",
+    "body paint",
+    "boots",
+    "bow"
+  ],
+  "total_count": 703,
+  "id": "workflow.clothing",
+  "name_zh": "服装",
+  "steps": [
+    {
+      "order": 1,
+      "template_id": "action.motion"
+    },
+    {
+      "order": 2,
+      "template_id": "atmosphere.weather"
+    },
+    {
+      "order": 3,
+      "template_id": "camera.movement"
+    },
+    {
+      "order": 4,
+      "template_id": "camera.shot_type"
+    },
+    {
+      "order": 5,
+      "template_id": "character.multiple_views"
+    }
+  ]
+}

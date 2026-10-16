@@ -1,0 +1,42 @@
+{
+  "name": "scene 工作流",
+  "description": "scene 分类的常用关键词集合 (1008 条)",
+  "category": "scene",
+  "keywords": [
+    "Accordion",
+    "Acorn",
+    "Acropora Secale",
+    "Afternoon",
+    "Agar",
+    "Airplane",
+    "Alfredo",
+    "Aloe",
+    "Amanita Muscaria",
+    "American Propaganda"
+  ],
+  "total_count": 1008,
+  "id": "workflow.scene",
+  "name_zh": "场景",
+  "steps": [
+    {
+      "order": 1,
+      "template_id": "action.motion"
+    },
+    {
+      "order": 2,
+      "template_id": "atmosphere.weather"
+    },
+    {
+      "order": 3,
+      "template_id": "camera.movement"
+    },
+    {
+      "order": 4,
+      "template_id": "camera.shot_type"
+    },
+    {
+      "order": 5,
+      "template_id": "character.multiple_views"
+    }
+  ]
+}

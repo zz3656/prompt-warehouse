@@ -1,0 +1,42 @@
+{
+  "name": "transitions 工作流",
+  "description": "transitions 分类的常用关键词集合 (113 条)",
+  "category": "transitions",
+  "keywords": [
+    "hard cut",
+    "smooth cross-dissolve transition where the first shot gradua",
+    "fade to black: the first shot gradually darkens to full blac",
+    "fade to white: the first shot brightens until the frame is p",
+    "snap to black",
+    "match cut: the final composition of the first shot matches t",
+    "smash cut: an abrupt jarring transition between two visually",
+    "iris wipe",
+    "linear wipe",
+    "camera roll transition"
+  ],
+  "total_count": 113,
+  "id": "workflow.transitions",
+  "name_zh": "转场",
+  "steps": [
+    {
+      "order": 1,
+      "template_id": "action.motion"
+    },
+    {
+      "order": 2,
+      "template_id": "atmosphere.weather"
+    },
+    {
+      "order": 3,
+      "template_id": "camera.movement"
+    },
+    {
+      "order": 4,
+      "template_id": "camera.shot_type"
+    },
+    {
+      "order": 5,
+      "template_id": "character.multiple_views"
+    }
+  ]
+}

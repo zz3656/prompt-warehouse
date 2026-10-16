@@ -29,7 +29,15 @@
     ],
     "weight": 0.815,
     "score_v2": 0.815,
-    "term_zh": "暖色调色"
+    "term_zh": "暖色调色",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "warm color grade",
+      "warm"
+    ]
   },
   {
     "id": "color_look_palette_cool",
@@ -61,7 +69,15 @@
     ],
     "weight": 0.815,
     "score_v2": 0.815,
-    "term_zh": "冷色调色"
+    "term_zh": "冷色调色",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "cool color grade",
+      "cool"
+    ]
   },
   {
     "id": "color_look_palette_teal_orange",
@@ -97,7 +113,11 @@
     "aliases": [
       "burnt orange",
       "sunset orange"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
   },
   {
     "id": "color_look_palette_split_toning",
@@ -129,7 +149,15 @@
     ],
     "weight": 0.815,
     "score_v2": 0.815,
-    "term_zh": "分调色"
+    "term_zh": "分调色",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "split-toning color grade",
+      "split-toning"
+    ]
   },
   {
     "id": "color_look_palette_selective_color",
@@ -160,7 +188,15 @@
     ],
     "weight": 0.815,
     "score_v2": 0.815,
-    "term_zh": "选择性调色"
+    "term_zh": "选择性调色",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "selective color treatment",
+      "selective"
+    ]
   },
   {
     "id": "color_look_palette_faded_matte",
@@ -191,7 +227,15 @@
     ],
     "weight": 0.815,
     "score_v2": 0.815,
-    "term_zh": "褪色雾面调色"
+    "term_zh": "褪色雾面调色",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "faded matte grade",
+      "faded"
+    ]
   },
   {
     "id": "color_look_palette_log_flat",
@@ -224,7 +268,15 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "平调未调色 log 素材"
+    "term_zh": "平调未调色 log 素材",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "flat ungraded log",
+      "flat"
+    ]
   },
   {
     "id": "color_look_palette_desaturated",
@@ -255,7 +307,15 @@
     ],
     "weight": 0.815,
     "score_v2": 0.815,
-    "term_zh": "去饱和调色"
+    "term_zh": "去饱和调色",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "desaturated color grade",
+      "desaturated"
+    ]
   },
   {
     "id": "color_look_palette_monochrome_bw",
@@ -296,7 +356,11 @@
     "aliases": [
       "dark black",
       "ebony black"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
   },
   {
     "id": "color_look_palette_sepia",
@@ -328,7 +392,15 @@
     ],
     "weight": 0.735,
     "score_v2": 0.735,
-    "term_zh": "深褐色调"
+    "term_zh": "深褐色调",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "sepia tone",
+      "sepia"
+    ]
   },
   {
     "id": "color_look_palette_pastel",
@@ -359,7 +431,15 @@
     ],
     "weight": 0.815,
     "score_v2": 0.815,
-    "term_zh": "粉彩调色板"
+    "term_zh": "粉彩调色板",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "pastel color palette",
+      "pastel"
+    ]
   },
   {
     "id": "color_look_palette_high_contrast",
@@ -390,7 +470,15 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "高对比度色彩分级"
+    "term_zh": "高对比度色彩分级",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "high contrast color",
+      "high"
+    ]
   },
   {
     "id": "color_look_palette_vibrant",
@@ -421,13 +509,21 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "鲜艳饱和调色板"
+    "term_zh": "鲜艳饱和调色板",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "vibrant saturated color",
+      "vibrant"
+    ]
   },
   {
     "id": "color_look_film_emulation_kodak_portra",
     "term": "Kodak Portra film stock emulation",
     "category": "color-look",
-    "subcategory": "film-emulation",
+    "subcategory": "film_emulation",
     "labels": [
       "kodak-portra",
       "nodaro-prompts"
@@ -453,13 +549,21 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "柯达 Portra"
+    "term_zh": "柯达 Portra",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "kodak portra film",
+      "kodak"
+    ]
   },
   {
     "id": "color_look_film_emulation_kodak_ektar",
     "term": "Kodak Ektar film stock emulation",
     "category": "color-look",
-    "subcategory": "film-emulation",
+    "subcategory": "film_emulation",
     "labels": [
       "kodak-ektar",
       "nodaro-prompts"
@@ -485,13 +589,21 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "柯达 Portra"
+    "term_zh": "柯达 Portra",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "kodak ektar film",
+      "kodak"
+    ]
   },
   {
     "id": "color_look_film_emulation_kodak_vision3",
     "term": "Kodak Vision3 motion picture film emulation",
     "category": "color-look",
-    "subcategory": "film-emulation",
+    "subcategory": "film_emulation",
     "labels": [
       "kodak-vision3",
       "nodaro-prompts"
@@ -517,13 +629,21 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "柯达 Vision3"
+    "term_zh": "柯达 Vision3",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "kodak vision3 motion",
+      "kodak"
+    ]
   },
   {
     "id": "color_look_film_emulation_fuji_pro_400h",
     "term": "Fuji Pro 400H film stock emulation",
     "category": "color-look",
-    "subcategory": "film-emulation",
+    "subcategory": "film_emulation",
     "labels": [
       "fuji-pro-400h",
       "nodaro-prompts"
@@ -551,13 +671,21 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "富士 Pro 400H 胶片模拟"
+    "term_zh": "富士 Pro 400H 胶片模拟",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "fuji pro 400h",
+      "fuji"
+    ]
   },
   {
     "id": "color_look_film_emulation_cinestill_800t",
     "term": "Cinestill 800T film stock emulation",
     "category": "color-look",
-    "subcategory": "film-emulation",
+    "subcategory": "film_emulation",
     "labels": [
       "cinestill-800t",
       "nodaro-prompts"
@@ -583,13 +711,21 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "Cinestill 800T 胶片模拟"
+    "term_zh": "Cinestill 800T 胶片模拟",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "cinestill 800t film",
+      "cinestill"
+    ]
   },
   {
     "id": "color_look_film_emulation_bleach_bypass",
     "term": "bleach bypass processing",
     "category": "color-look",
-    "subcategory": "film-emulation",
+    "subcategory": "film_emulation",
     "labels": [
       "bleach-bypass",
       "nodaro-prompts"
@@ -618,13 +754,21 @@
     "aliases_zh": [
       "纯白色",
       "象牙白"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00",
+    "aliases": [
+      "bleach bypass processing",
+      "bleach"
     ]
   },
   {
     "id": "color_look_film_emulation_technicolor",
     "term": "three-strip technicolor",
     "category": "color-look",
-    "subcategory": "film-emulation",
+    "subcategory": "film_emulation",
     "labels": [
       "technicolor",
       "nodaro-prompts"
@@ -649,13 +793,21 @@
     ],
     "weight": 0.735,
     "score_v2": 0.735,
-    "term_zh": "三色分离特艺彩色"
+    "term_zh": "三色分离特艺彩色",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "three-strip technicolor",
+      "three-strip"
+    ]
   },
   {
     "id": "color_look_film_emulation_two_strip_technicolor",
     "term": "two-strip Technicolor emulation",
     "category": "color-look",
-    "subcategory": "film-emulation",
+    "subcategory": "film_emulation",
     "labels": [
       "two-strip-technicolor",
       "nodaro-prompts"
@@ -680,13 +832,21 @@
     ],
     "weight": 0.815,
     "score_v2": 0.815,
-    "term_zh": "两色分离特艺彩色模拟"
+    "term_zh": "两色分离特艺彩色模拟",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "two-strip technicolor emulation",
+      "two-strip"
+    ]
   },
   {
     "id": "color_look_film_emulation_eastman_color",
     "term": "Eastman Color film stock emulation",
     "category": "color-look",
-    "subcategory": "film-emulation",
+    "subcategory": "film_emulation",
     "labels": [
       "eastman-color",
       "nodaro-prompts"
@@ -711,13 +871,21 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "伊士曼彩色胶片模拟"
+    "term_zh": "伊士曼彩色胶片模拟",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "eastman color film",
+      "eastman"
+    ]
   },
   {
     "id": "color_look_film_emulation_hand_tinted",
     "term": "hand-tinted black-and-white photograph",
     "category": "color-look",
-    "subcategory": "film-emulation",
+    "subcategory": "film_emulation",
     "labels": [
       "hand-tinted",
       "nodaro-prompts"
@@ -750,13 +918,17 @@
     "aliases": [
       "dark black",
       "ebony black"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
   },
   {
     "id": "color_look_film_emulation_agfa_orwo",
     "term": "orwo film stock",
     "category": "color-look",
-    "subcategory": "film-emulation",
+    "subcategory": "film_emulation",
     "labels": [
       "agfa-orwo",
       "nodaro-prompts"
@@ -783,13 +955,21 @@
     ],
     "weight": 0.815,
     "score_v2": 0.815,
-    "term_zh": "ORWO 胶片"
+    "term_zh": "ORWO 胶片",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "orwo film stock",
+      "orwo"
+    ]
   },
   {
     "id": "color_look_film_emulation_day_for_night",
     "term": "day-for-night grade",
     "category": "color-look",
-    "subcategory": "film-emulation",
+    "subcategory": "film_emulation",
     "labels": [
       "day-for-night",
       "nodaro-prompts"
@@ -818,13 +998,21 @@
     "aliases_zh": [
       "纯白色",
       "象牙白"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00",
+    "aliases": [
+      "day-for-night grade",
+      "day-for-night"
     ]
   },
   {
     "id": "color_look_film_emulation_cross_processed",
     "term": "cross-processed film look",
     "category": "color-look",
-    "subcategory": "film-emulation",
+    "subcategory": "film_emulation",
     "labels": [
       "cross-processed",
       "nodaro-prompts"
@@ -849,13 +1037,21 @@
     ],
     "weight": 0.815,
     "score_v2": 0.815,
-    "term_zh": "交叉处理冲印效果"
+    "term_zh": "交叉处理冲印效果",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "cross-processed film look",
+      "cross-processed"
+    ]
   },
   {
     "id": "color_look_film_emulation_kodachrome_64",
     "term": "graded with a Kodachrome 64 film palette",
     "category": "color-look",
-    "subcategory": "film-emulation",
+    "subcategory": "film_emulation",
     "labels": [
       "kodachrome-64",
       "nodaro-prompts"
@@ -882,13 +1078,21 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "柯达柯达克罗姆 64 调色"
+    "term_zh": "柯达柯达克罗姆 64 调色",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "graded with kodachrome",
+      "graded"
+    ]
   },
   {
     "id": "color_look_film_emulation_ektachrome_100",
     "term": "Ektachrome 100 slide film emulation",
     "category": "color-look",
-    "subcategory": "film-emulation",
+    "subcategory": "film_emulation",
     "labels": [
       "ektachrome-100",
       "nodaro-prompts"
@@ -915,13 +1119,21 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "柯达 Ektachrome 100 幻灯片模拟"
+    "term_zh": "柯达 Ektachrome 100 幻灯片模拟",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "ektachrome 100 slide",
+      "ektachrome"
+    ]
   },
   {
     "id": "color_look_film_emulation_kodak_tri_x_400",
     "term": "kodak tri-x 400 black-and-white film",
     "category": "color-look",
-    "subcategory": "film-emulation",
+    "subcategory": "film_emulation",
     "labels": [
       "kodak-tri-x-400",
       "nodaro-prompts"
@@ -957,13 +1169,17 @@
     "aliases": [
       "dark black",
       "ebony black"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
   },
   {
     "id": "color_look_film_emulation_aerochrome",
     "term": "aerochrome color infrared film",
     "category": "color-look",
-    "subcategory": "film-emulation",
+    "subcategory": "film_emulation",
     "labels": [
       "aerochrome",
       "nodaro-prompts"
@@ -995,13 +1211,17 @@
     "aliases_zh": [
       "深红色",
       "绯红色"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
   },
   {
     "id": "color_look_film_emulation_fuji_instax",
     "term": "fuji instax instant film",
     "category": "color-look",
-    "subcategory": "film-emulation",
+    "subcategory": "film_emulation",
     "labels": [
       "fuji-instax",
       "nodaro-prompts"
@@ -1026,13 +1246,21 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "富士拍立得"
+    "term_zh": "富士拍立得",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "fuji instax instant",
+      "fuji"
+    ]
   },
   {
     "id": "color_look_film_emulation_cinestill_50d",
     "term": "Cinestill 50D daylight-balanced cinema film emulation",
     "category": "color-look",
-    "subcategory": "film-emulation",
+    "subcategory": "film_emulation",
     "labels": [
       "cinestill-50d",
       "nodaro-prompts"
@@ -1058,13 +1286,21 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "Cinestill 50D 日光平衡电影胶片模拟"
+    "term_zh": "Cinestill 50D 日光平衡电影胶片模拟",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "cinestill 50d daylight-balanced",
+      "cinestill"
+    ]
   },
   {
     "id": "color_look_film_emulation_expired_film",
     "term": "expired light-struck film",
     "category": "color-look",
-    "subcategory": "film-emulation",
+    "subcategory": "film_emulation",
     "labels": [
       "expired-film",
       "nodaro-prompts"
@@ -1092,13 +1328,17 @@
     "term_zh": "过期漏光胶片",
     "aliases": [
       "crimson red"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
   },
   {
     "id": "color_look_social_preset_instagram_warm",
     "term": "warm instagram filter",
     "category": "color-look",
-    "subcategory": "social-preset",
+    "subcategory": "social_preset",
     "labels": [
       "instagram-warm",
       "nodaro-prompts"
@@ -1124,13 +1364,21 @@
     ],
     "weight": 0.815,
     "score_v2": 0.815,
-    "term_zh": "Instagram 暖调滤镜"
+    "term_zh": "Instagram 暖调滤镜",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "warm instagram filter",
+      "warm"
+    ]
   },
   {
     "id": "color_look_social_preset_tiktok_saturated",
     "term": "saturated tiktok look",
     "category": "color-look",
-    "subcategory": "social-preset",
+    "subcategory": "social_preset",
     "labels": [
       "tiktok-saturated",
       "nodaro-prompts"
@@ -1155,13 +1403,21 @@
     ],
     "weight": 0.815,
     "score_v2": 0.815,
-    "term_zh": "TikTok 高饱和效果"
+    "term_zh": "TikTok 高饱和效果",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "saturated tiktok look",
+      "saturated"
+    ]
   },
   {
     "id": "color_look_social_preset_youtube_vlog_flat",
     "term": "flat youtube vlog grade",
     "category": "color-look",
-    "subcategory": "social-preset",
+    "subcategory": "social_preset",
     "labels": [
       "youtube-vlog-flat",
       "nodaro-prompts"
@@ -1188,13 +1444,21 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "YouTube Vlog 平调"
+    "term_zh": "YouTube Vlog 平调",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "flat youtube vlog",
+      "flat"
+    ]
   },
   {
     "id": "color_look_social_preset_iphone_hdr",
     "term": "iPhone computational HDR look with extended highlight range",
     "category": "color-look",
-    "subcategory": "social-preset",
+    "subcategory": "social_preset",
     "labels": [
       "iphone-hdr",
       "nodaro-prompts"
@@ -1221,13 +1485,21 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "iPhone 计算 HDR 高光范围效果"
+    "term_zh": "iPhone 计算 HDR 高光范围效果",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "iphone computational hdr",
+      "iphone"
+    ]
   },
   {
     "id": "color_look_social_preset_y2k_saturated",
     "term": "saturated y2k digital color",
     "category": "color-look",
-    "subcategory": "social-preset",
+    "subcategory": "social_preset",
     "labels": [
       "y2k-saturated",
       "nodaro-prompts"
@@ -1253,13 +1525,21 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "Y2K 高饱和数字色"
+    "term_zh": "Y2K 高饱和数字色",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "saturated y2k digital",
+      "saturated"
+    ]
   },
   {
     "id": "color_look_social_preset_mtv_90s_vhs",
     "term": "90s mtv vhs look",
     "category": "color-look",
-    "subcategory": "social-preset",
+    "subcategory": "social_preset",
     "labels": [
       "mtv-90s-vhs",
       "nodaro-prompts"
@@ -1287,13 +1567,21 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "90年代 MTV VHS 效果"
+    "term_zh": "90年代 MTV VHS 效果",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "90s mtv vhs",
+      "90s"
+    ]
   },
   {
     "id": "color_look_social_preset_polaroid_faded",
     "term": "faded polaroid look",
     "category": "color-look",
-    "subcategory": "social-preset",
+    "subcategory": "social_preset",
     "labels": [
       "polaroid-faded",
       "nodaro-prompts"
@@ -1318,13 +1606,21 @@
     ],
     "weight": 0.815,
     "score_v2": 0.815,
-    "term_zh": "褪色宝丽来效果"
+    "term_zh": "褪色宝丽来效果",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "faded polaroid look",
+      "faded"
+    ]
   },
   {
     "id": "color_look_social_preset_lifestyle_warm_magazine",
     "term": "warm lifestyle magazine grade",
     "category": "color-look",
-    "subcategory": "social-preset",
+    "subcategory": "social_preset",
     "labels": [
       "lifestyle-warm-magazine",
       "nodaro-prompts"
@@ -1349,13 +1645,21 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "暖色生活方式杂志调"
+    "term_zh": "暖色生活方式杂志调",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "warm lifestyle magazine",
+      "warm"
+    ]
   },
   {
     "id": "color_look_post_process_soft_dark_vignette_gently_darkening_the",
     "term": "soft dark vignette gently darkening the corners of the frame",
     "category": "color-look",
-    "subcategory": "post-process",
+    "subcategory": "post_process",
     "labels": [
       "vignette-soft",
       "nodaro-prompts"
@@ -1385,13 +1689,16 @@
     "aliases": [
       "darkened edges",
       "edge darkening"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
   },
   {
     "id": "color_look_post_process_heavy_black_vignette_circumscribing_the",
     "term": "heavy black vignette circumscribing the subject in a dramati",
     "category": "color-look",
-    "subcategory": "post-process",
+    "subcategory": "post_process",
     "labels": [
       "vignette-heavy",
       "nodaro-prompts"
@@ -1421,13 +1728,16 @@
     "aliases": [
       "darkened edges",
       "edge darkening"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
   },
   {
     "id": "color_look_post_process_dodge_and_burn",
     "term": "dodge and burn",
     "category": "color-look",
-    "subcategory": "post-process",
+    "subcategory": "post_process",
     "labels": [
       "dodge-and-burn",
       "nodaro-prompts"
@@ -1456,13 +1766,16 @@
     "term_zh": "闪避与加深",
     "aliases": [
       "photographic dodge and burn technique"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
   },
   {
     "id": "color_look_post_process_fine_film_grain_overlay_across_the_entir",
     "term": "fine film grain overlay across the entire image",
     "category": "color-look",
-    "subcategory": "post-process",
+    "subcategory": "post_process",
     "labels": [
       "film-grain-fine",
       "nodaro-prompts"
@@ -1492,13 +1805,16 @@
     "aliases": [
       "raindrops",
       "rainy weather"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
   },
   {
     "id": "color_look_post_process_heavy_coarse_grain_like_push_processed_h",
     "term": "heavy coarse grain like push-processed high-ISO film",
     "category": "color-look",
-    "subcategory": "post-process",
+    "subcategory": "post_process",
     "labels": [
       "film-grain-heavy",
       "nodaro-prompts"
@@ -1530,13 +1846,16 @@
     "aliases": [
       "raindrops",
       "rainy weather"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
   },
   {
     "id": "color_look_post_process_warm_halation_glow",
     "term": "warm halation glow",
     "category": "color-look",
-    "subcategory": "post-process",
+    "subcategory": "post_process",
     "labels": [
       "halation-glow",
       "nodaro-prompts"
@@ -1566,13 +1885,16 @@
     "aliases": [
       "color bleeding",
       "light bleed"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
   },
   {
     "id": "color_look_post_process_highlight_bloom",
     "term": "highlight bloom",
     "category": "color-look",
-    "subcategory": "post-process",
+    "subcategory": "post_process",
     "labels": [
       "bloom-glow",
       "nodaro-prompts"
@@ -1603,13 +1925,16 @@
     "aliases": [
       "glow effect",
       "soft bloom"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
   },
   {
     "id": "color_look_post_process_visible_chromatic_aberration_with_red_an",
     "term": "visible chromatic aberration with red and cyan fringing on c",
     "category": "color-look",
-    "subcategory": "post-process",
+    "subcategory": "post_process",
     "labels": [
       "chromatic-aberration",
       "nodaro-prompts"
@@ -1640,13 +1965,16 @@
     "aliases": [
       "color fringing",
       "lens distortion"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
   },
   {
     "id": "color_look_post_process_warm_orange_light_leak_streaking_across",
     "term": "warm orange light leak streaking across one edge of the fram",
     "category": "color-look",
-    "subcategory": "post-process",
+    "subcategory": "post_process",
     "labels": [
       "light-leak",
       "nodaro-prompts"
@@ -1676,13 +2004,16 @@
     "aliases": [
       "burnt orange",
       "sunset orange"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
   },
   {
     "id": "color_look_post_process_film_burn_flare_in_the_corner_with_a_vin",
     "term": "film burn flare in the corner with a vintage Super-8 aesthet",
     "category": "color-look",
-    "subcategory": "post-process",
+    "subcategory": "post_process",
     "labels": [
       "film-burn",
       "nodaro-prompts"
@@ -1709,13 +2040,20 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "角落胶片灼伤超 8 复古效果"
+    "term_zh": "角落胶片灼伤超 8 复古效果",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "film burn flare",
+      "film"
+    ]
   },
   {
     "id": "color_look_post_process_scratched_dusty_film_emulsion",
     "term": "scratched, dusty film emulsion",
     "category": "color-look",
-    "subcategory": "post-process",
+    "subcategory": "post_process",
     "labels": [
       "scratched-emulsion",
       "nodaro-prompts"
@@ -1741,13 +2079,20 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "划痕灰尘胶片乳剂"
+    "term_zh": "划痕灰尘胶片乳剂",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "scratched, dusty film",
+      "scratched,"
+    ]
   },
   {
     "id": "color_look_post_process_subtle_color_fringing",
     "term": "subtle color fringing",
     "category": "color-look",
-    "subcategory": "post-process",
+    "subcategory": "post_process",
     "labels": [
       "color-fringe",
       "nodaro-prompts"
@@ -1773,13 +2118,20 @@
     ],
     "weight": 0.815,
     "score_v2": 0.815,
-    "term_zh": "微妙色散边缘"
+    "term_zh": "微妙色散边缘",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "subtle color fringing",
+      "subtle"
+    ]
   },
   {
     "id": "color_look_post_process_soft_focus_diffusion_filter_slightly_haz",
     "term": "soft-focus diffusion filter — slightly hazy dreamy bloom on ",
     "category": "color-look",
-    "subcategory": "post-process",
+    "subcategory": "post_process",
     "labels": [
       "soft-focus-diffusion",
       "nodaro-prompts"
@@ -1810,13 +2162,16 @@
     "aliases": [
       "glow effect",
       "soft bloom"
-    ]
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
   },
   {
     "id": "color_look_post_process_aggressive_contrast_boost",
     "term": "aggressive contrast boost",
     "category": "color-look",
-    "subcategory": "post-process",
+    "subcategory": "post_process",
     "labels": [
       "contrast-boost",
       "nodaro-prompts"
@@ -1842,13 +2197,20 @@
     ],
     "weight": 0.815,
     "score_v2": 0.815,
-    "term_zh": "强力对比增强"
+    "term_zh": "强力对比增强",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "aggressive contrast boost",
+      "aggressive"
+    ]
   },
   {
     "id": "color_look_post_process_aggressive_edge_sharpening_pass_with_cri",
     "term": "aggressive edge-sharpening pass with crisp micro-detail emph",
     "category": "color-look",
-    "subcategory": "post-process",
+    "subcategory": "post_process",
     "labels": [
       "sharpening",
       "nodaro-prompts"
@@ -1878,13 +2240,20 @@
     "aliases_zh": [
       "精细细节",
       "高度细节"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00",
+    "aliases": [
+      "aggressive edge-sharpening pass",
+      "aggressive"
     ]
   },
   {
     "id": "color_look_post_process_mid_tone_clarity_enhancement_with_increa",
     "term": "mid-tone clarity enhancement with increased local contrast",
     "category": "color-look",
-    "subcategory": "post-process",
+    "subcategory": "post_process",
     "labels": [
       "clarity-boost",
       "nodaro-prompts"
@@ -1910,13 +2279,20 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "中调清晰度增强与局部对比"
+    "term_zh": "中调清晰度增强与局部对比",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "mid-tone clarity enhancement",
+      "mid-tone"
+    ]
   },
   {
     "id": "color_look_post_process_atmospheric_dehaze",
     "term": "atmospheric dehaze",
     "category": "color-look",
-    "subcategory": "post-process",
+    "subcategory": "post_process",
     "labels": [
       "dehaze",
       "nodaro-prompts"
@@ -1943,13 +2319,20 @@
     ],
     "weight": 0.735,
     "score_v2": 0.735,
-    "term_zh": "大气除雾"
+    "term_zh": "大气除雾",
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "atmospheric dehaze",
+      "atmospheric"
+    ]
   },
   {
     "id": "color_look_post_process_three_way_lift_gamma_gain_grade",
     "term": "three-way lift gamma gain grade",
     "category": "color-look",
-    "subcategory": "post-process",
+    "subcategory": "post_process",
     "labels": [
       "lift-gamma-gain",
       "nodaro-prompts"
@@ -1982,6 +2365,13 @@
     "aliases_zh": [
       "深红色",
       "绯红色"
+    ],
+    "created_at": "2026-09-29T00:00:00+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00",
+    "aliases": [
+      "three-way lift gamma",
+      "three-way"
     ]
   },
   {
@@ -2019,12 +2409,15 @@
     "aliases": [
       "film-like",
       "movie-style"
-    ]
+    ],
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
   },
   {
     "id": "color_look_bleach_bypass",
     "term": "bleach bypass film stock",
-    "subcategory": "film-emulation",
+    "subcategory": "film_emulation",
     "labels": [
       "bleach-bypass",
       "desaturated",
@@ -2055,12 +2448,19 @@
     "aliases_zh": [
       "纯白色",
       "象牙白"
+    ],
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00",
+    "aliases": [
+      "bleach bypass film",
+      "bleach"
     ]
   },
   {
     "id": "color_look_cross_process",
     "term": "cross-processed slide film look",
-    "subcategory": "film-emulation",
+    "subcategory": "film_emulation",
     "labels": [
       "cross-process",
       "slide-film",
@@ -2089,7 +2489,14 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "交叉处理幻灯片胶片效果"
+    "term_zh": "胶片感",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "cross-processed slide film",
+      "cross-processed"
+    ]
   },
   {
     "id": "color_look_italian_giallo",
@@ -2123,7 +2530,14 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "意大利恐怖电影浓烈色彩"
+    "term_zh": "意大利恐怖电影浓烈色彩",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "italian giallo lurid",
+      "italian"
+    ]
   },
   {
     "id": "color_look_japenese_watery",
@@ -2157,17 +2571,24 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "日本湿漉漉褪色调色"
+    "term_zh": "日本湿漉漉褪色调色",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "japanese watery desaturated",
+      "japanese"
+    ]
   },
   {
     "id": "color_look_kodak_portra",
     "term": "Kodak Portra 400 film emulation",
-    "subcategory": "film-emulation",
+    "subcategory": "film_emulation",
     "labels": [
       "kodak",
       "portra",
       "400",
-      "film-emulation",
+      "film_emulation",
       "film",
       "portrait"
     ],
@@ -2190,12 +2611,20 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "柯达Portra 400胶片模拟"
+    "term_zh": "柯达 Portra 400",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "high",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00",
+    "aliases": [
+      "kodak portra 400",
+      "kodak"
+    ],
+    "aliases_zh": []
   },
   {
     "id": "color_look_verifact_color",
     "term": "VeriFilm Technicolor process",
-    "subcategory": "film-emulation",
+    "subcategory": "film_emulation",
     "labels": [
       "verifilm",
       "technicolor",
@@ -2222,7 +2651,14 @@
     ],
     "weight": 0.815,
     "score_v2": 0.815,
-    "term_zh": "VeriFilm特艺彩色工艺"
+    "term_zh": "VeriFilm特艺彩色工艺",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "verifilm technicolor process",
+      "verifilm"
+    ]
   },
   {
     "id": "color_look_muted_pastel",
@@ -2256,7 +2692,14 @@
     ],
     "weight": 0.855,
     "score_v2": 0.855,
-    "term_zh": "柔和粉彩褪色色调"
+    "term_zh": "柔和粉彩褪色色调",
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "muted pastel desaturated",
+      "muted"
+    ]
   },
   {
     "id": "color_look_noir_monochrome",
@@ -2294,12 +2737,15 @@
     "aliases": [
       "B&W",
       "black and white"
-    ]
+    ],
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
   },
   {
     "id": "color_look_harsh_high_contrast",
     "term": "harsh high-contrast monochrome",
-    "subcategory": "post-process",
+    "subcategory": "post_process",
     "labels": [
       "harsh",
       "high-contrast",
@@ -2327,10 +2773,3942 @@
     ],
     "weight": 0.815,
     "score_v2": 0.815,
-    "term_zh": "强烈高对比单色",
+    "term_zh": "高对比单色",
     "aliases": [
       "B&W",
       "black and white"
+    ],
+    "updated_at": "2026-10-16T02:35:35.461564+00:00",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
+  },
+  {
+    "id": "color_look_palette_rgb",
+    "term": "Adobe RGB",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "adobe",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.998821+00:00",
+    "updated_at": "2026-09-28T15:15:09.998822+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "RGB",
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.555,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.555,
+    "term_zh": "Adobe RGB",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "adobe rgb",
+      "adobe"
     ]
+  },
+  {
+    "id": "color_look_palette_agfacolor",
+    "term": "Agfacolor",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "agfacolor",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.998828+00:00",
+    "updated_at": "2026-09-28T15:15:09.998829+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "阿克发彩色",
+    "priority": "low",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "agfacolor"
+    ]
+  },
+  {
+    "id": "color_look_palette_colors",
+    "term": "Analogous Colors",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "analogous",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.998836+00:00",
+    "updated_at": "2026-09-28T15:15:09.998837+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "类似色",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.555,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.555,
+    "term_zh": "类似色",
+    "priority": "low",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "analogous colors",
+      "analogous"
+    ]
+  },
+  {
+    "id": "color_look_palette_autochrome",
+    "term": "Autochrome",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "autochrome",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.998844+00:00",
+    "updated_at": "2026-09-28T15:15:09.998845+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "天然彩色照片",
+    "priority": "low",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "autochrome"
+    ]
+  },
+  {
+    "id": "color_look_palette_white",
+    "term": "Black and White",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "black",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.998852+00:00",
+    "updated_at": "2026-09-28T15:15:09.998853+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "black and white",
+    "relation_role": "variant",
+    "weight": 0.635,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.635,
+    "term_zh": "黑白",
+    "aliases": [
+      "dark black",
+      "ebony black"
+    ],
+    "aliases_zh": [
+      "黑色调"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
+  },
+  {
+    "id": "color_look_palette_cga",
+    "term": "CGA",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "cga",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.998867+00:00",
+    "updated_at": "2026-09-28T15:15:09.998868+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "CGA",
+      "mj",
+      "色彩",
+      "颜色",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "CGA",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "cga"
+    ]
+  },
+  {
+    "id": "color_look_palette_cmyk",
+    "term": "CMYK",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "cmyk",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.998874+00:00",
+    "updated_at": "2026-09-28T15:15:09.998875+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "CMYK",
+      "mj",
+      "色彩",
+      "颜色",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "CMYK",
+    "priority": "low",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "cmyk"
+    ]
+  },
+  {
+    "id": "color_look_palette_chloropsia",
+    "term": "Chloropsia",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "chloropsia",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.998883+00:00",
+    "updated_at": "2026-09-28T15:15:09.998884+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "绿视症",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "绿视症",
+    "priority": "low",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "chloropsia"
+    ]
+  },
+  {
+    "id": "color_look_palette_chroma",
+    "term": "Chroma",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "chroma",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.998890+00:00",
+    "updated_at": "2026-09-28T15:15:09.998891+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色度",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "色度",
+    "priority": "low",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "chroma"
+    ]
+  },
+  {
+    "id": "color_look_palette_chromatopsia",
+    "term": "Chromatopsia",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "chromatopsia",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.998897+00:00",
+    "updated_at": "2026-09-28T15:15:09.998898+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "色觉障碍",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "色觉障碍",
+    "priority": "low",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "chromatopsia"
+    ]
+  },
+  {
+    "id": "color_look_palette_cinecolor",
+    "term": "Cinecolor",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "cinecolor",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.998904+00:00",
+    "updated_at": "2026-09-28T15:15:09.998905+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "彩片",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "CineColor 彩片",
+    "priority": "low",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "cinecolor"
+    ]
+  },
+  {
+    "id": "color_look_palette_color",
+    "term": "Color",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "color",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.998911+00:00",
+    "updated_at": "2026-09-28T15:15:09.998912+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "颜色",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "颜色",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "color"
+    ]
+  },
+  {
+    "id": "color_look_palette_blend",
+    "term": "Color Blend",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "color",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.998920+00:00",
+    "updated_at": "2026-09-28T15:15:09.998921+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "颜色混合",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.555,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.555,
+    "term_zh": "颜色混合",
+    "priority": "low",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "color blend",
+      "color"
+    ]
+  },
+  {
+    "id": "color_look_palette_model",
+    "term": "Color Model",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "color",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.998928+00:00",
+    "updated_at": "2026-09-28T15:15:09.998929+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "颜色模型",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.555,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.555,
+    "term_zh": "颜色模型",
+    "priority": "low",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "color model",
+      "color"
+    ]
+  },
+  {
+    "id": "color_look_palette_palette",
+    "term": "Color Palette",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "color",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.998936+00:00",
+    "updated_at": "2026-09-28T15:15:09.998937+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "调色板",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.555,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.555,
+    "term_zh": "调色板",
+    "priority": "low",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "color palette",
+      "color"
+    ]
+  },
+  {
+    "id": "color_look_palette_wheel",
+    "term": "Color Wheel",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "color",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.998943+00:00",
+    "updated_at": "2026-09-28T15:15:09.998944+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "色轮",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.555,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.555,
+    "term_zh": "色轮",
+    "priority": "low",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "color wheel",
+      "color"
+    ]
+  },
+  {
+    "id": "color_look_palette_colorful",
+    "term": "Colorful",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colorful",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.998950+00:00",
+    "updated_at": "2026-09-28T15:15:09.998951+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "色彩丰富",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "colorful",
+    "relation_role": "variant",
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "色彩丰富",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "colorful"
+    ]
+  },
+  {
+    "id": "color_look_palette_colorized",
+    "term": "Colorized",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colorized",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.998957+00:00",
+    "updated_at": "2026-09-28T15:15:09.998958+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "彩色化",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "彩色化",
+    "priority": "low",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "colorized"
+    ]
+  },
+  {
+    "id": "color_look_palette_coloroid",
+    "term": "Coloroid",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "coloroid",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.998964+00:00",
+    "updated_at": "2026-09-28T15:15:09.998965+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色卡",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "Coloroid 色卡",
+    "priority": "low",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "coloroid"
+    ]
+  },
+  {
+    "id": "color_look_palette_contrast",
+    "term": "Contrast",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "contrast",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.998980+00:00",
+    "updated_at": "2026-09-28T15:15:09.998981+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "对比度",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "对比度",
+    "priority": "low",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "contrast"
+    ]
+  },
+  {
+    "id": "color_look_palette_cyanopsia",
+    "term": "Cyanopsia",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "cyanopsia",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.998996+00:00",
+    "updated_at": "2026-09-28T15:15:09.998997+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "青视症",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "青视症",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "cyanopsia"
+    ]
+  },
+  {
+    "id": "color_look_palette_p3",
+    "term": "DCI P3",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "dci",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999003+00:00",
+    "updated_at": "2026-09-28T15:15:09.999004+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "颜色",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.555,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.555,
+    "term_zh": "DCI-P3 颜色",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "dci"
+    ]
+  },
+  {
+    "id": "color_look_palette_dark",
+    "term": "Dark",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "dark",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999009+00:00",
+    "updated_at": "2026-09-28T15:15:09.999010+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "黑暗",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "dark"
+    ]
+  },
+  {
+    "id": "color_look_palette_mode",
+    "term": "Dark Mode",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "dark",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999024+00:00",
+    "updated_at": "2026-09-28T15:15:09.999025+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "暗色模式",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.555,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.555,
+    "term_zh": "暗色模式",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "dark mode",
+      "dark"
+    ]
+  },
+  {
+    "id": "color_look_palette_darkened",
+    "term": "Darkened",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "darkened",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999031+00:00",
+    "updated_at": "2026-09-28T15:15:09.999032+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "变暗",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "变暗",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "darkened"
+    ]
+  },
+  {
+    "id": "color_look_palette_dichromatism",
+    "term": "Dichromatism",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "dichromatism",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999046+00:00",
+    "updated_at": "2026-09-28T15:15:09.999047+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "双色型色觉",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "dichromatism"
+    ]
+  },
+  {
+    "id": "color_look_palette_dyschromatopsia",
+    "term": "Dyschromatopsia",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "dyschromatopsia",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999078+00:00",
+    "updated_at": "2026-09-28T15:15:09.999079+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色弱",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "色弱",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "dyschromatopsia"
+    ]
+  },
+  {
+    "id": "color_look_palette_ega",
+    "term": "EGA",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "ega",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999085+00:00",
+    "updated_at": "2026-09-28T15:15:09.999086+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "EGA",
+      "mj",
+      "色彩",
+      "颜色",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "EGA 颜色",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "ega"
+    ]
+  },
+  {
+    "id": "color_look_palette_enchroma",
+    "term": "EnChroma",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "enchroma",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999103+00:00",
+    "updated_at": "2026-09-28T15:15:09.999104+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "色觉",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "EnChroma 色觉",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "enchroma"
+    ]
+  },
+  {
+    "id": "color_look_palette_erythropsia",
+    "term": "Erythropsia",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "erythropsia",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999111+00:00",
+    "updated_at": "2026-09-28T15:15:09.999112+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "红视症",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "红视症",
+    "aliases_zh": [
+      "深红色",
+      "绯红色"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00",
+    "aliases": [
+      "erythropsia"
+    ]
+  },
+  {
+    "id": "color_look_palette_faded",
+    "term": "Faded",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "faded",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999126+00:00",
+    "updated_at": "2026-09-28T15:15:09.999127+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "褪色",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "褪色",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "faded"
+    ]
+  },
+  {
+    "id": "color_look_palette_gradient",
+    "term": "Gradient",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "gradient",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999156+00:00",
+    "updated_at": "2026-09-28T15:15:09.999157+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "渐变",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "渐变",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "gradient"
+    ]
+  },
+  {
+    "id": "color_look_palette_hcl",
+    "term": "HCL",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "hcl",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999163+00:00",
+    "updated_at": "2026-09-28T15:15:09.999164+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "HCL",
+      "mj",
+      "色彩",
+      "色彩空间",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "HCL 色彩空间",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "hcl"
+    ]
+  },
+  {
+    "id": "color_look_palette_hdr",
+    "term": "HDR",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "hdr",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999170+00:00",
+    "updated_at": "2026-09-28T15:15:09.999171+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "HDR",
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "hdr",
+    "relation_role": "variant",
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "HDR",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "hdr"
+    ]
+  },
+  {
+    "id": "color_look_palette_hsl",
+    "term": "HSL",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "hsl",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999176+00:00",
+    "updated_at": "2026-09-28T15:15:09.999177+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "HSL",
+      "mj",
+      "色彩",
+      "色彩空间",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "HSL 色彩空间",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "hsl"
+    ]
+  },
+  {
+    "id": "color_look_palette_hsv",
+    "term": "HSV",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "hsv",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999183+00:00",
+    "updated_at": "2026-09-28T15:15:09.999184+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "HSV",
+      "mj",
+      "色彩",
+      "色彩空间",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "HSV 色彩空间",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "hsv"
+    ]
+  },
+  {
+    "id": "color_look_palette_saturation",
+    "term": "High Saturation",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "high",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999215+00:00",
+    "updated_at": "2026-09-28T15:15:09.999216+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格",
+      "高饱和"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.555,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.555,
+    "term_zh": "高饱和",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "high saturation",
+      "high"
+    ]
+  },
+  {
+    "id": "color_look_palette_hue",
+    "term": "Hue",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "hue",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999222+00:00",
+    "updated_at": "2026-09-28T15:15:09.999222+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "色相",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "色相",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "hue"
+    ]
+  },
+  {
+    "id": "color_look_palette_hyperchromatopsia",
+    "term": "Hyperchromatopsia",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "hyperchromatopsia",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999229+00:00",
+    "updated_at": "2026-09-28T15:15:09.999230+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "色觉过度",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "色觉过度",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "hyperchromatopsia"
+    ]
+  },
+  {
+    "id": "color_look_palette_kinemacolor",
+    "term": "Kinemacolor",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "kinemacolor",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999254+00:00",
+    "updated_at": "2026-09-28T15:15:09.999255+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "早期彩色电影",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "kinemacolor"
+    ]
+  },
+  {
+    "id": "color_look_palette_kodachrome",
+    "term": "Kodachrome",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "kodachrome",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999261+00:00",
+    "updated_at": "2026-09-28T15:15:09.999262+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "柯达克罗姆",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "kodachrome"
+    ]
+  },
+  {
+    "id": "color_look_palette_light",
+    "term": "Light",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "light",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999268+00:00",
+    "updated_at": "2026-09-28T15:15:09.999269+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "光",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "light"
+    ]
+  },
+  {
+    "id": "color_look_palette_background",
+    "term": "Light Blue Background",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "light",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999276+00:00",
+    "updated_at": "2026-09-28T15:15:09.999277+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.635,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.635,
+    "term_zh": "光蓝色background",
+    "aliases": [
+      "deep blue",
+      "navy blue"
+    ],
+    "aliases_zh": [
+      "海军蓝",
+      "深蓝色"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
+  },
+  {
+    "id": "color_look_palette_foreground",
+    "term": "Light Blue Foreground",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "light",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999285+00:00",
+    "updated_at": "2026-09-28T15:15:09.999286+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.635,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.635,
+    "term_zh": "光蓝色foreground",
+    "aliases": [
+      "deep blue",
+      "navy blue"
+    ],
+    "aliases_zh": [
+      "海军蓝",
+      "深蓝色"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
+  },
+  {
+    "id": "color_look_palette_monochromatic",
+    "term": "Monochromatic",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "monochromatic",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999328+00:00",
+    "updated_at": "2026-09-28T15:15:09.999329+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "单色",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "单色调",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "monochromatic"
+    ]
+  },
+  {
+    "id": "color_look_palette_monochrome",
+    "term": "Monochrome",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "monochrome",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999335+00:00",
+    "updated_at": "2026-09-28T15:15:09.999336+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "单色",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "monochrome",
+    "relation_role": "variant",
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "单色",
+    "aliases": [
+      "B&W",
+      "black and white"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
+  },
+  {
+    "id": "color_look_palette_multicolored",
+    "term": "Multicolored",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "multicolored",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999343+00:00",
+    "updated_at": "2026-09-28T15:15:09.999344+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "多彩",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "多彩",
+    "aliases": [
+      "crimson red"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
+  },
+  {
+    "id": "color_look_palette_neon",
+    "term": "Neon",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "neon",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999349+00:00",
+    "updated_at": "2026-09-28T15:15:09.999350+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "霓虹",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "霓虹色",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "neon"
+    ]
+  },
+  {
+    "id": "color_look_palette_neutral",
+    "term": "Neutral",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "neutral",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999356+00:00",
+    "updated_at": "2026-09-28T15:15:09.999357+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "中性",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "中性",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "color_look_palette_pantone",
+    "term": "Pantone",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "pantone",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999378+00:00",
+    "updated_at": "2026-09-28T15:15:09.999379+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "Pantone",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "pantone"
+    ]
+  },
+  {
+    "id": "color_look_palette_pigment",
+    "term": "Pigment",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "pigment",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999385+00:00",
+    "updated_at": "2026-09-28T15:15:09.999386+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "颜料",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "颜料",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "pigment"
+    ]
+  },
+  {
+    "id": "color_look_palette_pure",
+    "term": "Pure",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "pure",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999408+00:00",
+    "updated_at": "2026-09-28T15:15:09.999409+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "纯",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "pure"
+    ]
+  },
+  {
+    "id": "color_look_palette_purity",
+    "term": "Purity",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "purity",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999415+00:00",
+    "updated_at": "2026-09-28T15:15:09.999416+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "纯度",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "纯度",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "purity"
+    ]
+  },
+  {
+    "id": "color_look_palette_rainbow",
+    "term": "Rainbow",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "rainbow",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999456+00:00",
+    "updated_at": "2026-09-28T15:15:09.999457+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "彩虹",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "relation_group": "rainbow",
+    "relation_role": "variant",
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "彩虹",
+    "aliases": [
+      "raindrops",
+      "rainy weather"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
+  },
+  {
+    "id": "color_look_palette_saturated",
+    "term": "Saturated",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "saturated",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999463+00:00",
+    "updated_at": "2026-09-28T15:15:09.999464+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格",
+      "饱和"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "饱和",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "saturated"
+    ]
+  },
+  {
+    "id": "color_look_palette_spectrum",
+    "term": "Spectrum",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "spectrum",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999501+00:00",
+    "updated_at": "2026-09-28T15:15:09.999502+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "光谱",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "光谱",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "spectrum"
+    ]
+  },
+  {
+    "id": "color_look_palette_technicolor",
+    "term": "Technicolor",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "technicolor",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999525+00:00",
+    "updated_at": "2026-09-28T15:15:09.999526+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "特艺彩色",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "特艺彩色",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "technicolor"
+    ]
+  },
+  {
+    "id": "color_look_palette_tetrachromacy",
+    "term": "Tetrachromacy",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "tetrachromacy",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999533+00:00",
+    "updated_at": "2026-09-28T15:15:09.999534+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "四色型色觉",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "tetrachromacy"
+    ]
+  },
+  {
+    "id": "color_look_palette_tone",
+    "term": "Tone",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "tone",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999561+00:00",
+    "updated_at": "2026-09-28T15:15:09.999562+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "色调",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "石头",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "tone"
+    ]
+  },
+  {
+    "id": "color_look_palette_black",
+    "term": "Tones of Black",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "tones",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999570+00:00",
+    "updated_at": "2026-09-28T15:15:09.999571+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格",
+      "黑色调"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.635,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.635,
+    "term_zh": "黑色调",
+    "aliases": [
+      "dark black",
+      "ebony black"
+    ],
+    "aliases_zh": [
+      "黑色调"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
+  },
+  {
+    "id": "color_look_palette_vga",
+    "term": "VGA",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "vga",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999602+00:00",
+    "updated_at": "2026-09-28T15:15:09.999603+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "VGA",
+      "mj",
+      "色彩",
+      "颜色",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "VGA 颜色",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "vga"
+    ]
+  },
+  {
+    "id": "color_look_palette_value",
+    "term": "Value",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "value",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999609+00:00",
+    "updated_at": "2026-09-28T15:15:09.999610+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "明度",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "明度",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "value"
+    ]
+  },
+  {
+    "id": "color_look_palette_variegated",
+    "term": "Variegated",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "variegated",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999616+00:00",
+    "updated_at": "2026-09-28T15:15:09.999617+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "杂色",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "杂色",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "variegated"
+    ]
+  },
+  {
+    "id": "color_look_palette_vibrance",
+    "term": "Vibrance",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "vibrance",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999623+00:00",
+    "updated_at": "2026-09-28T15:15:09.999624+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格",
+      "鲜艳度"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "鲜艳度",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "vibrance"
+    ]
+  },
+  {
+    "id": "color_look_palette_vivid",
+    "term": "Vivid",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "vivid",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999645+00:00",
+    "updated_at": "2026-09-28T15:15:09.999646+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格",
+      "鲜艳"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "鲜艳",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "vivid"
+    ]
+  },
+  {
+    "id": "color_look_palette_ycbcr",
+    "term": "YCbCr",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "ycbcr",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999660+00:00",
+    "updated_at": "2026-09-28T15:15:09.999661+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "色彩空间",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "YCbCr 色彩空间",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "ycbcr"
+    ]
+  },
+  {
+    "id": "color_look_palette_ypbpr",
+    "term": "YPbPr",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "ypbpr",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999666+00:00",
+    "updated_at": "2026-09-28T15:15:09.999667+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "色彩空间",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "YPbPr 色彩空间",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "ypbpr"
+    ]
+  },
+  {
+    "id": "color_look_palette_srgb",
+    "term": "sRGB",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "srgb",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999673+00:00",
+    "updated_at": "2026-09-28T15:15:09.999674+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "sRGB",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "sRGB",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "srgb"
+    ]
+  },
+  {
+    "id": "color_look_palette_scrgb",
+    "term": "scRGB",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "scrgb",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999680+00:00",
+    "updated_at": "2026-09-28T15:15:09.999681+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "scRGB",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "scrgb"
+    ]
+  },
+  {
+    "id": "color_look_palette_aqua",
+    "term": "Colors/Blue/Aqua/Aqua",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colors/blue/aqua/aqua",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999727+00:00",
+    "updated_at": "2026-09-28T15:15:09.999728+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "颜色/蓝/水蓝",
+    "aliases": [
+      "deep blue",
+      "navy blue"
+    ],
+    "aliases_zh": [
+      "海军蓝",
+      "深蓝色"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
+  },
+  {
+    "id": "color_look_palette_azure",
+    "term": "Colors/Blue/Azure/Azure",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colors/blue/azure/azure",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999736+00:00",
+    "updated_at": "2026-09-28T15:15:09.999737+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "颜色/蓝/天青",
+    "aliases": [
+      "deep blue",
+      "navy blue"
+    ],
+    "aliases_zh": [
+      "海军蓝",
+      "深蓝色"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
+  },
+  {
+    "id": "color_look_palette_blue",
+    "term": "Colors/Blue/Blue",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colors/blue/blue",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999744+00:00",
+    "updated_at": "2026-09-28T15:15:09.999745+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "颜色/蓝/蓝",
+    "aliases": [
+      "deep blue",
+      "navy blue"
+    ],
+    "aliases_zh": [
+      "海军蓝",
+      "深蓝色"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
+  },
+  {
+    "id": "color_look_palette_cyan",
+    "term": "Colors/Blue/Cyan/Cyan",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colors/blue/cyan/cyan",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999752+00:00",
+    "updated_at": "2026-09-28T15:15:09.999753+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "颜色/蓝/青",
+    "aliases": [
+      "deep blue",
+      "navy blue"
+    ],
+    "aliases_zh": [
+      "海军蓝",
+      "深蓝色"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
+  },
+  {
+    "id": "color_look_palette_indigo",
+    "term": "Colors/Blue/Indigo/Indigo",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colors/blue/indigo/indigo",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999801+00:00",
+    "updated_at": "2026-09-28T15:15:09.999802+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "颜色/蓝/靛蓝",
+    "aliases": [
+      "deep blue",
+      "navy blue"
+    ],
+    "aliases_zh": [
+      "海军蓝",
+      "深蓝色"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
+  },
+  {
+    "id": "color_look_palette_beige",
+    "term": "Colors/Brown/Beige/Beige",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colors/brown/beige/beige",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999827+00:00",
+    "updated_at": "2026-09-28T15:15:09.999828+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "颜色/棕/米色",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "colors/brown/beige/beige"
+    ]
+  },
+  {
+    "id": "color_look_palette_brown",
+    "term": "Colors/Brown/Brown",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colors/brown/brown",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999835+00:00",
+    "updated_at": "2026-09-28T15:15:09.999836+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "colors棕色棕色",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "colors/brown/brown"
+    ]
+  },
+  {
+    "id": "color_look_palette_tan",
+    "term": "Colors/Brown/Tan/Tan",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colors/brown/tan/tan",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999860+00:00",
+    "updated_at": "2026-09-28T15:15:09.999861+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "颜色/棕/黄褐",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "colors/brown/tan/tan"
+    ]
+  },
+  {
+    "id": "color_look_palette_gray",
+    "term": "Colors/Gray/Dark Gray",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colors/gray/dark",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999877+00:00",
+    "updated_at": "2026-09-28T15:15:09.999878+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.555,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.555,
+    "term_zh": "颜色/灰/深灰",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "colors/gray/dark gray",
+      "colors/gray/dark"
+    ]
+  },
+  {
+    "id": "color_look_palette_chartreuse",
+    "term": "Colors/Green/Chartreuse",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colors/green/chartreuse",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999902+00:00",
+    "updated_at": "2026-09-28T15:15:09.999903+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "颜色/绿/黄绿",
+    "aliases": [
+      "emerald green",
+      "forest green"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
+  },
+  {
+    "id": "color_look_palette_green",
+    "term": "Colors/Green/Dark Green",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colors/green/dark",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999910+00:00",
+    "updated_at": "2026-09-28T15:15:09.999911+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.555,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.555,
+    "term_zh": "颜色/绿/深绿",
+    "aliases": [
+      "emerald green",
+      "forest green"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
+  },
+  {
+    "id": "color_look_palette_lime",
+    "term": "Colors/Green/Lime/Dark Lime",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colors/green/lime/dark",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999936+00:00",
+    "updated_at": "2026-09-28T15:15:09.999937+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.555,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.555,
+    "term_zh": "颜色/绿/深青柠",
+    "aliases": [
+      "emerald green",
+      "forest green"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
+  },
+  {
+    "id": "color_look_palette_magenta",
+    "term": "Colors/Magenta/Dark Magenta",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colors/magenta/dark",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:09.999995+00:00",
+    "updated_at": "2026-09-28T15:15:09.999996+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.555,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.555,
+    "term_zh": "颜色/品红/深品红",
+    "aliases_zh": [
+      "深红色",
+      "绯红色"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00",
+    "aliases": [
+      "colors/magenta/dark magenta",
+      "colors/magenta/dark"
+    ]
+  },
+  {
+    "id": "color_look_palette_orange",
+    "term": "Colors/Orange/Dark Orange",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colors/orange/dark",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:10.000030+00:00",
+    "updated_at": "2026-09-28T15:15:10.000031+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.555,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.555,
+    "term_zh": "颜色/橙/深橙",
+    "aliases": [
+      "burnt orange",
+      "sunset orange"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
+  },
+  {
+    "id": "color_look_palette_blush",
+    "term": "Colors/Pink/Blush/Blush",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colors/pink/blush/blush",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:10.000066+00:00",
+    "updated_at": "2026-09-28T15:15:10.000067+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "colors粉色脸红脸红",
+    "aliases": [
+      "pastel pink",
+      "rose pink"
+    ],
+    "aliases_zh": [
+      "深红色",
+      "绯红色"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
+  },
+  {
+    "id": "color_look_palette_pink",
+    "term": "Colors/Pink/Dark Pink",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colors/pink/dark",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:10.000075+00:00",
+    "updated_at": "2026-09-28T15:15:10.000075+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.555,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.555,
+    "term_zh": "颜色/粉/深粉",
+    "aliases": [
+      "pastel pink",
+      "rose pink"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
+  },
+  {
+    "id": "color_look_palette_fuchsia",
+    "term": "Colors/Pink/Fuchsia/Fuchsia",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colors/pink/fuchsia/fuchsia",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:10.000084+00:00",
+    "updated_at": "2026-09-28T15:15:10.000086+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "颜色/粉/品红/品红",
+    "aliases": [
+      "pastel pink",
+      "rose pink"
+    ],
+    "aliases_zh": [
+      "深红色",
+      "绯红色"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
+  },
+  {
+    "id": "color_look_palette_purple",
+    "term": "Colors/Purple/Dark Purple",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colors/purple/dark",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:10.000118+00:00",
+    "updated_at": "2026-09-28T15:15:10.000119+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.555,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.555,
+    "term_zh": "颜色/紫/深紫",
+    "aliases": [
+      "royal purple",
+      "violet hue"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
+  },
+  {
+    "id": "color_look_palette_red",
+    "term": "Colors/Red/Dark Red",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colors/red/dark",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:10.000153+00:00",
+    "updated_at": "2026-09-28T15:15:10.000154+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.555,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.555,
+    "term_zh": "颜色/红/深红",
+    "aliases": [
+      "crimson red"
+    ],
+    "aliases_zh": [
+      "深红色",
+      "绯红色"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
+  },
+  {
+    "id": "color_look_palette_maroon",
+    "term": "Colors/Red/Maroon/Dark Maroon",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colors/red/maroon/dark",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:10.000171+00:00",
+    "updated_at": "2026-09-28T15:15:10.000172+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.555,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.555,
+    "term_zh": "颜色/红/栗/深栗红",
+    "aliases": [
+      "crimson red"
+    ],
+    "aliases_zh": [
+      "深红色",
+      "绯红色"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
+  },
+  {
+    "id": "color_look_palette_scarlet",
+    "term": "Colors/Red/Scarlet",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colors/red/scarlet",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:10.000213+00:00",
+    "updated_at": "2026-09-28T15:15:10.000214+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "颜色/红/猩红",
+    "aliases": [
+      "luxury vehicle",
+      "sports car"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
+  },
+  {
+    "id": "color_look_palette_teal",
+    "term": "Colors/Teal/Teal",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colors/teal/teal",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:10.000230+00:00",
+    "updated_at": "2026-09-28T15:15:10.000231+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "颜色/蓝绿/蓝绿",
+    "aliases_zh": [
+      "海军蓝",
+      "深蓝色"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00",
+    "aliases": [
+      "colors/teal/teal"
+    ]
+  },
+  {
+    "id": "color_look_palette_turquoise",
+    "term": "Colors/Teal/Turquoise/Turquoise",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colors/teal/turquoise/turquoise",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:10.000239+00:00",
+    "updated_at": "2026-09-28T15:15:10.000240+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "颜色/蓝绿/绿松石",
+    "aliases_zh": [
+      "海军蓝",
+      "深蓝色"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00",
+    "aliases": [
+      "colors/teal/turquoise/turquoise"
+    ]
+  },
+  {
+    "id": "color_look_palette_violet",
+    "term": "Colors/Violet/Violet",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colors/violet/violet",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:10.000248+00:00",
+    "updated_at": "2026-09-28T15:15:10.000249+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.475,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.475,
+    "term_zh": "颜色/紫罗兰/紫罗兰",
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T02:35:35.461564+00:00",
+    "aliases": [
+      "colors/violet/violet"
+    ]
+  },
+  {
+    "id": "color_look_palette_yellow",
+    "term": "Colors/Yellow/Dark Yellow",
+    "category": "color-look",
+    "subcategory": "color_look.palette",
+    "labels": [
+      "color-look_palette",
+      "colors/yellow/dark",
+      "midjourney-v5",
+      "migrated",
+      "mj-source",
+      "styles"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "created_at": "2026-09-28T15:15:10.000274+00:00",
+    "updated_at": "2026-09-28T15:15:10.000275+00:00",
+    "source": "willwulfken/MidJourney-Styles-and-Keywords-Reference (12.3k stars)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Midjourney V5 Alpha keyword. Source: Pages_MJ_V5_Just_The_Style_Colors_and_Palettes",
+    "labels_zh": [
+      "mj",
+      "色彩",
+      "风格"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.555,
+    "subcategory_group": "midjourney_v5",
+    "score_v2": 0.555,
+    "term_zh": "颜色/黄/深黄",
+    "aliases": [
+      "amber yellow",
+      "golden yellow"
+    ],
+    "priority": "medium",
+    "_enriched_at": "2026-10-16T05:23:54.591276+00:00"
   }
 ]

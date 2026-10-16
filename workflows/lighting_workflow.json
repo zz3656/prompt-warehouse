@@ -1,0 +1,42 @@
+{
+  "name": "lighting 工作流",
+  "description": "lighting 分类的常用关键词集合 (385 条)",
+  "category": "lighting",
+  "keywords": [
+    "Backlight",
+    "Cinematic Lighting",
+    "Direct Sunlight",
+    "Frontlight",
+    "Godrays",
+    "Moody Lighting",
+    "Rim Lighting",
+    "Rim Lights",
+    "Spotlight",
+    "Sunlight"
+  ],
+  "total_count": 385,
+  "id": "workflow.lighting",
+  "name_zh": "灯光",
+  "steps": [
+    {
+      "order": 1,
+      "template_id": "action.motion"
+    },
+    {
+      "order": 2,
+      "template_id": "atmosphere.weather"
+    },
+    {
+      "order": 3,
+      "template_id": "camera.movement"
+    },
+    {
+      "order": 4,
+      "template_id": "camera.shot_type"
+    },
+    {
+      "order": 5,
+      "template_id": "character.multiple_views"
+    }
+  ]
+}

@@ -4,8 +4,15 @@
   "name_zh": "视频分镜流程",
   "description": "Generate a video storyboard with camera movements and timing.",
   "description_zh": "生成视频分镜：镜头 + 动作 + 时长",
-  "use_case": ["video", "storyboard"],
-  "api_targets": ["Minimax H3", "Kling", "Runway"],
+  "use_case": [
+    "video",
+    "storyboard"
+  ],
+  "api_targets": [
+    "Minimax H3",
+    "Kling",
+    "Runway"
+  ],
   "output_format": "structured",
   "steps": [
     {

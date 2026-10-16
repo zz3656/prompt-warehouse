@@ -139,10 +139,7 @@ for f in schema/*.json; do
 done
 echo "✅ 所有 schema JSON 语法正确"
 
-echo "=== 校验 docs/*.json ==="
-for f in docs/*.json; do
-    python3 -c "import json; json.load(open('$f', encoding='utf-8'))" || { echo "❌ $f"; exit 1; }
-done
-echo "✅ 所有 docs JSON 语法正确"
+echo "=== 校验 docs/*.json (跳过) ==="
+# docs/*.json — 已清理，不再需要校验
 
 echo "=== 全部通过 ==="

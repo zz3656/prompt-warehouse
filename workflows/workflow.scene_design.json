@@ -4,8 +4,15 @@
   "name_zh": "场景设计流程",
   "description": "Create a complete scene/environment asset.",
   "description_zh": "生成完整的场景图：环境 + 大气 + 灯光 + 色彩",
-  "use_case": ["scene", "environment"],
-  "api_targets": ["SDXL", "Midjourney", "Flux"],
+  "use_case": [
+    "scene",
+    "environment"
+  ],
+  "api_targets": [
+    "SDXL",
+    "Midjourney",
+    "Flux"
+  ],
   "output_format": "comma_separated",
   "steps": [
     {

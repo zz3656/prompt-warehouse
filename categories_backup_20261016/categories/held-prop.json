@@ -1,0 +1,1929 @@
+[
+  {
+    "id": "held_prop_device_smartphone",
+    "term": "holding a smartphone",
+    "category": "held-prop",
+    "subcategory": "device",
+    "labels": [
+      "smartphone",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Modern phone in hand. Prompt hint: holding a modern smartphone in one hand, screen lightly catching the ambient light, fingers wrapped naturally around the device",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "设备"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.605,
+    "score_v2": 0.605,
+    "term_zh": "手持智能手机"
+  },
+  {
+    "id": "held_prop_device_smartphone_raised",
+    "term": "holding a smartphone raised at arm's length",
+    "category": "held-prop",
+    "subcategory": "device",
+    "labels": [
+      "smartphone-raised",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Phone raised mid-photo. Prompt hint: holding a smartphone raised at arm's length toward the camera as if mid-photo, both the phone and the gesture clearly visible",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "设备"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持手机举至一臂之远"
+  },
+  {
+    "id": "held_prop_device_polaroid_camera",
+    "term": "cradling a vintage polaroid instant camera",
+    "category": "held-prop",
+    "subcategory": "device",
+    "labels": [
+      "polaroid-camera",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Vintage instant camera. Prompt hint: cradling a vintage Polaroid instant camera in both hands at chest height, the boxy white body and rainbow stripe clearly visible",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "设备"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "怀抱复古宝丽来拍立得相机"
+  },
+  {
+    "id": "held_prop_device_vintage_camera",
+    "term": "holding a vintage 35mm film camera",
+    "category": "held-prop",
+    "subcategory": "device",
+    "labels": [
+      "vintage-camera",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Old film camera with strap. Prompt hint: holding a vintage 35mm film camera lifted toward the face with a leather strap looped around the neck, fingers poised over the shutter",
+    "labels_zh": [
+      "35mm",
+      "nodaro",
+      "手持复古",
+      "手持道具",
+      "胶卷相机",
+      "设备"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持复古 35mm 胶卷相机"
+  },
+  {
+    "id": "held_prop_device_dslr_camera",
+    "term": "holding a dslr camera to the eye",
+    "category": "held-prop",
+    "subcategory": "device",
+    "labels": [
+      "dslr-camera",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Modern DSLR / mirrorless camera. Prompt hint: holding a modern DSLR camera up to the eye with both hands wrapped around the body and lens, mid-composition",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "设备"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持单反对着眼镜看"
+  },
+  {
+    "id": "held_prop_device_video_camera",
+    "term": "shouldering a video camera",
+    "category": "held-prop",
+    "subcategory": "device",
+    "labels": [
+      "video-camera",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Shoulder-mounted video camera. Prompt hint: shouldering a professional video camera with one hand on the side grip and the other steadying the body, eye to the viewfinder",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "设备"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "肩扛摄像机"
+  },
+  {
+    "id": "held_prop_device_microphone",
+    "term": "gripping a handheld microphone",
+    "category": "held-prop",
+    "subcategory": "device",
+    "labels": [
+      "microphone",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Handheld vocal microphone. Prompt hint: gripping a handheld microphone close to the lips with one hand, the cable looping down from the bottom",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "设备"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持无线话筒"
+  },
+  {
+    "id": "held_prop_device_megaphone",
+    "term": "holding a raised megaphone",
+    "category": "held-prop",
+    "subcategory": "device",
+    "labels": [
+      "megaphone",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Bullhorn / megaphone. Prompt hint: holding a bullhorn megaphone raised toward the mouth with the trigger pressed, the wide cone aimed forward",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "设备"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持高举扩音器"
+  },
+  {
+    "id": "held_prop_device_smartwatch",
+    "term": "raising a wrist to check a smartwatch",
+    "category": "held-prop",
+    "subcategory": "device",
+    "labels": [
+      "smartwatch",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Wrist raised to check watch. Prompt hint: raising one wrist into frame with a sleek smartwatch face glowing on it, the other hand lightly steadying the band",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "设备"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "抬手看智能手表"
+  },
+  {
+    "id": "held_prop_drink_coffee_cup",
+    "term": "cradling a ceramic coffee cup",
+    "category": "held-prop",
+    "subcategory": "drink",
+    "labels": [
+      "coffee-cup",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Ceramic coffee cup. Prompt hint: cradling a warm ceramic coffee cup in both hands at chest height, soft steam rising from the rim",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "饮品"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "怀抱陶瓷咖啡杯"
+  },
+  {
+    "id": "held_prop_drink_takeaway_coffee",
+    "term": "holding a paper takeaway coffee cup",
+    "category": "held-prop",
+    "subcategory": "drink",
+    "labels": [
+      "takeaway-coffee",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Paper takeaway coffee cup. Prompt hint: holding a paper takeaway coffee cup with a sleeve and lid in one hand, steam drifting from the small opening",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "饮品"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持纸杯外带咖啡"
+  },
+  {
+    "id": "held_prop_drink_wine_glass",
+    "term": "holding a stemmed glass of red wine",
+    "category": "held-prop",
+    "subcategory": "drink",
+    "labels": [
+      "wine-glass",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Stemmed glass of red wine. Prompt hint: holding a stemmed wine glass by the bowl, deep red wine catching the warm ambient light",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "饮品"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持高脚杯红酒",
+    "aliases": [
+      "crimson red"
+    ],
+    "aliases_zh": [
+      "深红色",
+      "绯红色"
+    ]
+  },
+  {
+    "id": "held_prop_drink_champagne_flute",
+    "term": "holding a champagne flute by the stem",
+    "category": "held-prop",
+    "subcategory": "drink",
+    "labels": [
+      "champagne-flute",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Tall champagne flute. Prompt hint: holding a tall champagne flute by the stem, bubbles rising in the pale gold liquid",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "饮品"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持香槟笛形杯"
+  },
+  {
+    "id": "held_prop_drink_martini_glass",
+    "term": "holding a classic martini glass",
+    "category": "held-prop",
+    "subcategory": "drink",
+    "labels": [
+      "martini-glass",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Classic martini glass. Prompt hint: holding a classic conical martini glass by the stem at chest height, a single olive on a pick resting in the clear liquor",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "饮品"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持经典马丁尼杯"
+  },
+  {
+    "id": "held_prop_drink_cocktail_glass",
+    "term": "holding a rocks glass with an amber cocktail",
+    "category": "held-prop",
+    "subcategory": "drink",
+    "labels": [
+      "cocktail-glass",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Short glass with cocktail. Prompt hint: holding a short rocks glass with an amber cocktail and a single ice sphere, two fingers pressed against the chilled side",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "饮品"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持威士忌矮杯琥珀色鸡尾酒"
+  },
+  {
+    "id": "held_prop_drink_beer_bottle",
+    "term": "holding a brown glass beer bottle",
+    "category": "held-prop",
+    "subcategory": "drink",
+    "labels": [
+      "beer-bottle",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Brown bottle of beer. Prompt hint: holding a brown glass beer bottle loosely by the neck, condensation beading on the surface",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "饮品"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持棕色玻璃啤酒瓶"
+  },
+  {
+    "id": "held_prop_drink_water_bottle",
+    "term": "holding a reusable water bottle",
+    "category": "held-prop",
+    "subcategory": "drink",
+    "labels": [
+      "water-bottle",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Reusable water bottle. Prompt hint: holding a tall reusable water bottle in one hand at hip height, condensation beading on its sides",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "饮品"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持可重复使用水瓶"
+  },
+  {
+    "id": "held_prop_smoking_cigarette",
+    "term": "holding a lit cigarette",
+    "category": "held-prop",
+    "subcategory": "smoking",
+    "labels": [
+      "cigarette",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Lit cigarette between fingers. Prompt hint: holding a lit cigarette pinched between two fingers raised near the face, a thin curl of smoke drifting upward",
+    "labels_zh": [
+      "nodaro",
+      "吸烟",
+      "手持道具"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持点燃香烟"
+  },
+  {
+    "id": "held_prop_smoking_cigar",
+    "term": "holding a lit cigar",
+    "category": "held-prop",
+    "subcategory": "smoking",
+    "labels": [
+      "cigar",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Thick lit cigar. Prompt hint: holding a thick lit cigar between two fingers, a slow wisp of smoke rising and an ember glowing at the tip",
+    "labels_zh": [
+      "nodaro",
+      "吸烟",
+      "手持道具"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持点燃雪茄",
+    "aliases_zh": [
+      "snowy weather",
+      "下雪天"
+    ]
+  },
+  {
+    "id": "held_prop_smoking_vape_pen",
+    "term": "holding a slim vape pen",
+    "category": "held-prop",
+    "subcategory": "smoking",
+    "labels": [
+      "vape-pen",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Slim vape pen. Prompt hint: holding a slim vape pen between two fingers, a soft puff of vapor curling out from a half-parted mouth",
+    "labels_zh": [
+      "nodaro",
+      "吸烟",
+      "手持道具"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持细长电子烟"
+  },
+  {
+    "id": "held_prop_smoking_joint",
+    "term": "holding a hand-rolled joint",
+    "category": "held-prop",
+    "subcategory": "smoking",
+    "labels": [
+      "joint",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hand-rolled joint. Prompt hint: holding a hand-rolled joint pinched between thumb and forefinger, a thin trail of smoke rising into the frame",
+    "labels_zh": [
+      "nodaro",
+      "吸烟",
+      "手持道具"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持手卷大麻烟"
+  },
+  {
+    "id": "held_prop_smoking_lighter",
+    "term": "holding a lit chrome lighter",
+    "category": "held-prop",
+    "subcategory": "smoking",
+    "labels": [
+      "lighter",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Chrome lighter with thumb on flame. Prompt hint: holding a polished chrome lighter cupped in one hand with the thumb pressed on the wheel, a small warm flame catching across the fingers",
+    "labels_zh": [
+      "nodaro",
+      "吸烟",
+      "手持道具"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持点燃铬制打火机",
+    "aliases_zh": [
+      "fire effects",
+      "火焰"
+    ]
+  },
+  {
+    "id": "held_prop_reading_writing_book",
+    "term": "holding an open hardback book",
+    "category": "held-prop",
+    "subcategory": "reading-writing",
+    "labels": [
+      "book",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Open hardback book. Prompt hint: holding an open hardback book in both hands at chest height, eyes drifting down toward the page",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "读写"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持打开精装书"
+  },
+  {
+    "id": "held_prop_reading_writing_magazine",
+    "term": "holding a folded glossy magazine",
+    "category": "held-prop",
+    "subcategory": "reading-writing",
+    "labels": [
+      "magazine",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Glossy folded magazine. Prompt hint: holding a glossy magazine folded back on itself in one hand, the cover partly visible from the side",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "读写"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持折叠光面杂志"
+  },
+  {
+    "id": "held_prop_reading_writing_newspaper",
+    "term": "holding a folded broadsheet newspaper",
+    "category": "held-prop",
+    "subcategory": "reading-writing",
+    "labels": [
+      "newspaper",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Folded broadsheet newspaper. Prompt hint: holding a folded broadsheet newspaper open between both hands at chest height, masthead lightly visible",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "读写"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持折叠大报新闻纸"
+  },
+  {
+    "id": "held_prop_reading_writing_notebook",
+    "term": "holding an open lined notebook",
+    "category": "held-prop",
+    "subcategory": "reading-writing",
+    "labels": [
+      "notebook",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Open lined notebook. Prompt hint: holding an open lined notebook in one hand at chest height with a pen poised above the page in the other",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "读写"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持打开横线笔记本"
+  },
+  {
+    "id": "held_prop_reading_writing_pen",
+    "term": "holding a pen poised mid-write",
+    "category": "held-prop",
+    "subcategory": "reading-writing",
+    "labels": [
+      "pen",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Pen poised mid-write. Prompt hint: holding a slender pen between thumb and fingers, the tip poised over an unseen surface as if mid-thought",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "读写"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持笔跃于中写"
+  },
+  {
+    "id": "held_prop_reading_writing_marker",
+    "term": "holding a thick permanent marker",
+    "category": "held-prop",
+    "subcategory": "reading-writing",
+    "labels": [
+      "marker",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Thick marker mid-stroke. Prompt hint: holding a thick permanent marker in one hand, cap clenched in the teeth and the tip poised mid-stroke",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "读写"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持粗永久记号笔"
+  },
+  {
+    "id": "held_prop_reading_writing_paintbrush",
+    "term": "holding a loaded paintbrush",
+    "category": "held-prop",
+    "subcategory": "reading-writing",
+    "labels": [
+      "paintbrush",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Loaded paintbrush. Prompt hint: holding a loaded paintbrush between thumb and fingers, bristles glistening with wet color and the wrist softly turned",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "读写"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持蘸颜料画笔"
+  },
+  {
+    "id": "held_prop_reading_writing_chalk",
+    "term": "holding a stick of white chalk",
+    "category": "held-prop",
+    "subcategory": "reading-writing",
+    "labels": [
+      "chalk",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: White stick of chalk. Prompt hint: holding a short stick of white chalk between thumb and forefinger, faint chalk dust drifting from the tip as if mid-stroke",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "读写"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持白色粉笔",
+    "aliases": [
+      "ivory white",
+      "pure white"
+    ],
+    "aliases_zh": [
+      "纯白色",
+      "象牙白"
+    ]
+  },
+  {
+    "id": "held_prop_bag_accessory_handbag",
+    "term": "carrying a structured designer handbag",
+    "category": "held-prop",
+    "subcategory": "bag-accessory",
+    "labels": [
+      "handbag",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Designer handbag. Prompt hint: carrying a structured designer handbag by the top handles in one hand at hip height, the bag positioned cleanly in frame",
+    "labels_zh": [
+      "nodaro",
+      "手持道具"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "携带结构化设计师手提包",
+    "aliases": [
+      "luxury vehicle",
+      "sports car"
+    ]
+  },
+  {
+    "id": "held_prop_bag_accessory_tote_bag",
+    "term": "carrying a canvas tote bag over one shoulder",
+    "category": "held-prop",
+    "subcategory": "bag-accessory",
+    "labels": [
+      "tote-bag",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Soft canvas tote. Prompt hint: carrying a soft canvas tote bag slung over one shoulder, fabric folding naturally against the side",
+    "labels_zh": [
+      "nodaro",
+      "手持道具"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "肩携帆布手提袋",
+    "aliases": [
+      "luxury vehicle",
+      "sports car"
+    ]
+  },
+  {
+    "id": "held_prop_bag_accessory_briefcase",
+    "term": "carrying a hard-shell briefcase",
+    "category": "held-prop",
+    "subcategory": "bag-accessory",
+    "labels": [
+      "briefcase",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Hard-shell briefcase. Prompt hint: carrying a hard-shell briefcase by the top handle in one hand at hip height, the case angled to read clearly in frame",
+    "labels_zh": [
+      "nodaro",
+      "手持道具"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "携带硬壳公文包",
+    "aliases": [
+      "luxury vehicle",
+      "sports car"
+    ]
+  },
+  {
+    "id": "held_prop_bag_accessory_umbrella",
+    "term": "holding an open black umbrella overhead",
+    "category": "held-prop",
+    "subcategory": "bag-accessory",
+    "labels": [
+      "umbrella",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Open black umbrella. Prompt hint: holding an open black umbrella overhead with one hand, the canopy haloing the head and shadow falling across the face",
+    "labels_zh": [
+      "nodaro",
+      "手持道具"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "头顶打开黑色雨伞",
+    "aliases_zh": [
+      "rain weather",
+      "雨天"
+    ],
+    "aliases": [
+      "dark black",
+      "ebony black"
+    ]
+  },
+  {
+    "id": "held_prop_bag_accessory_fan_folding",
+    "term": "holding an open hand-painted folding fan",
+    "category": "held-prop",
+    "subcategory": "bag-accessory",
+    "labels": [
+      "fan-folding",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Open hand-painted fan. Prompt hint: holding an open hand-painted folding fan raised near the face, fingers fanned along the spine",
+    "labels_zh": [
+      "nodaro",
+      "手持道具"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持手绘折叠扇"
+  },
+  {
+    "id": "held_prop_bag_accessory_parasol",
+    "term": "holding an open decorative parasol",
+    "category": "held-prop",
+    "subcategory": "bag-accessory",
+    "labels": [
+      "parasol",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Decorative Victorian / Asian parasol. Prompt hint: holding a decorative parasol open above one shoulder, the lace or hand-painted canopy shielding the face from sun and casting a delicate dappled shadow",
+    "labels_zh": [
+      "nodaro",
+      "手持道具"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持装饰阳伞"
+  },
+  {
+    "id": "held_prop_bag_accessory_locket",
+    "term": "holding an open vintage locket",
+    "category": "held-prop",
+    "subcategory": "bag-accessory",
+    "labels": [
+      "locket",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Open vintage locket pendant. Prompt hint: holding an open vintage locket pendant between thumb and forefinger close to the chest, the tiny portrait inside angled gently toward the face",
+    "labels_zh": [
+      "nodaro",
+      "手持道具"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持打开复古吊坠盒"
+  },
+  {
+    "id": "held_prop_floral_nature_bouquet",
+    "term": "cradling a bouquet of fresh flowers",
+    "category": "held-prop",
+    "subcategory": "floral-nature",
+    "labels": [
+      "bouquet",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Mixed bouquet of flowers. Prompt hint: cradling a mixed bouquet of fresh flowers in both arms against the chest, blooms framing the face from below",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "花草自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "怀抱鲜花花束"
+  },
+  {
+    "id": "held_prop_floral_nature_single_rose",
+    "term": "holding a long-stem red rose",
+    "category": "held-prop",
+    "subcategory": "floral-nature",
+    "labels": [
+      "single-rose",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Single long-stem rose. Prompt hint: holding a single long-stem red rose loosely between two fingers, the bloom raised softly toward the face",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "花草自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持长茎红玫瑰",
+    "aliases": [
+      "crimson red"
+    ],
+    "aliases_zh": [
+      "深红色",
+      "绯红色"
+    ]
+  },
+  {
+    "id": "held_prop_floral_nature_sunflower",
+    "term": "holding a tall sunflower by the stem",
+    "category": "held-prop",
+    "subcategory": "floral-nature",
+    "labels": [
+      "sunflower",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Single tall sunflower. Prompt hint: holding a tall sunflower upright by the stem in one hand, the wide yellow bloom raised slightly above the shoulder",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "花草自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持高大向日葵"
+  },
+  {
+    "id": "held_prop_floral_nature_leaf",
+    "term": "holding a large green leaf",
+    "category": "held-prop",
+    "subcategory": "floral-nature",
+    "labels": [
+      "leaf",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Single large leaf. Prompt hint: holding a single large green leaf by its stem in one hand, the broad surface positioned to one side of the face",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "花草自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持大绿叶",
+    "aliases": [
+      "emerald green",
+      "forest green"
+    ]
+  },
+  {
+    "id": "held_prop_floral_nature_fruit_apple",
+    "term": "holding a fresh apple in one palm",
+    "category": "held-prop",
+    "subcategory": "floral-nature",
+    "labels": [
+      "fruit-apple",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Single fresh apple. Prompt hint: holding a single fresh apple cradled in one open palm at chest height, the glossy skin catching the light",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "花草自然"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "一手握新鲜苹果"
+  },
+  {
+    "id": "held_prop_instrument_guitar",
+    "term": "holding a guitar slung across the body",
+    "category": "held-prop",
+    "subcategory": "instrument",
+    "labels": [
+      "guitar",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Guitar slung across body. Prompt hint: holding a guitar slung across the body with one hand on the neck and the other resting over the strings near the soundhole",
+    "labels_zh": [
+      "nodaro",
+      "乐器",
+      "手持道具"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "身斜背吉他"
+  },
+  {
+    "id": "held_prop_instrument_violin",
+    "term": "holding a violin under the chin",
+    "category": "held-prop",
+    "subcategory": "instrument",
+    "labels": [
+      "violin",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Violin under chin. Prompt hint: holding a violin tucked under the chin with one hand fingering the neck and the other drawing a bow across the strings",
+    "labels_zh": [
+      "nodaro",
+      "乐器",
+      "手持道具"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持小提琴架于颈下"
+  },
+  {
+    "id": "held_prop_instrument_saxophone",
+    "term": "holding a saxophone raised to the lips",
+    "category": "held-prop",
+    "subcategory": "instrument",
+    "labels": [
+      "saxophone",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Saxophone raised to lips. Prompt hint: holding a saxophone raised to the lips with both hands wrapped around the keys, a strap supporting the weight at the neck",
+    "labels_zh": [
+      "nodaro",
+      "乐器",
+      "手持道具"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持萨克斯管至唇边"
+  },
+  {
+    "id": "held_prop_instrument_drumsticks",
+    "term": "holding a pair of wooden drumsticks",
+    "category": "held-prop",
+    "subcategory": "instrument",
+    "labels": [
+      "drumsticks",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Pair of drumsticks crossed. Prompt hint: holding a pair of drumsticks crossed in front of the chest, fingers wrapped firmly around their grips",
+    "labels_zh": [
+      "nodaro",
+      "乐器",
+      "手持道具"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持一对木质鼓槌"
+  },
+  {
+    "id": "held_prop_instrument_sheet_music",
+    "term": "holding folded sheet music",
+    "category": "held-prop",
+    "subcategory": "instrument",
+    "labels": [
+      "sheet-music",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Folded sheet music. Prompt hint: holding a folded sheet of musical notation open between both hands at chest height, eyes lightly scanning the staves",
+    "labels_zh": [
+      "nodaro",
+      "乐器",
+      "手持道具"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持折叠乐谱"
+  },
+  {
+    "id": "held_prop_companion_small_dog",
+    "term": "cradling a small dog in both arms",
+    "category": "held-prop",
+    "subcategory": "companion",
+    "labels": [
+      "small-dog",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Small dog held in arms. Prompt hint: cradling a small dog in both arms against the chest, the pet's head resting comfortably under the subject's chin",
+    "labels_zh": [
+      "nodaro",
+      "伙伴",
+      "手持道具"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "双臂怀抱小狗"
+  },
+  {
+    "id": "held_prop_companion_cat",
+    "term": "cradling a cat",
+    "category": "held-prop",
+    "subcategory": "companion",
+    "labels": [
+      "cat",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Cat draped over arm. Prompt hint: cradling a cat draped across one arm at chest height, the other hand resting gently along its back",
+    "labels_zh": [
+      "nodaro",
+      "伙伴",
+      "怀抱小猫",
+      "手持道具"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.605,
+    "score_v2": 0.605,
+    "term_zh": "怀抱小猫"
+  },
+  {
+    "id": "held_prop_companion_plush_toy",
+    "term": "hugging a soft plush toy",
+    "category": "held-prop",
+    "subcategory": "companion",
+    "labels": [
+      "plush-toy",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Soft plush toy hugged. Prompt hint: hugging a soft plush toy against the chest with both arms wrapped around it, head leaning lightly against its top",
+    "labels_zh": [
+      "nodaro",
+      "伙伴",
+      "手持道具"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "怀抱柔软毛绒玩具"
+  },
+  {
+    "id": "held_prop_occupational_katana",
+    "term": "holding a katana across the body",
+    "category": "held-prop",
+    "subcategory": "occupational",
+    "labels": [
+      "katana",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Single-edged Japanese sword. Prompt hint: holding a katana with one hand on the wrapped grip and the other resting on the long polished edge, blade angled diagonally across the body",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "职业"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "身横持武士刀"
+  },
+  {
+    "id": "held_prop_occupational_pointer_stick",
+    "term": "holding a telescoping pointer stick",
+    "category": "held-prop",
+    "subcategory": "occupational",
+    "labels": [
+      "pointer-stick",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Telescoping pointer stick. Prompt hint: holding a slender telescoping pointer stick in one hand, the tip raised toward an unseen surface as if mid-explanation",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "职业"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持伸缩指示棒"
+  },
+  {
+    "id": "held_prop_occupational_gavel",
+    "term": "gripping a wooden gavel mid-strike",
+    "category": "held-prop",
+    "subcategory": "occupational",
+    "labels": [
+      "gavel",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Wooden judicial gavel. Prompt hint: gripping a polished wooden gavel mid-strike with one hand, the head poised above an unseen sound block",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "职业"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手握木质法槌即将落下"
+  },
+  {
+    "id": "held_prop_occupational_wine_bottle",
+    "term": "holding a wine bottle by the neck",
+    "category": "held-prop",
+    "subcategory": "occupational",
+    "labels": [
+      "wine-bottle",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Full bottle with foil seal. Prompt hint: holding a tall wine bottle by the neck with one hand, the labeled body and red foil seal angled clearly toward the camera",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "职业"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持红酒瓶颈部",
+    "aliases_zh": [
+      "深红色",
+      "绯红色"
+    ]
+  },
+  {
+    "id": "held_prop_occupational_lantern",
+    "term": "carrying a vintage handheld lantern",
+    "category": "held-prop",
+    "subcategory": "occupational",
+    "labels": [
+      "lantern",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Vintage handheld lantern with amber glow. Prompt hint: carrying a vintage handheld lantern by its top ring at hip height, warm amber glow casting a soft circular pool of light across the face and surroundings",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "职业"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "携带复古手提灯",
+    "aliases": [
+      "luxury vehicle",
+      "sports car"
+    ]
+  },
+  {
+    "id": "held_prop_occupational_flashlight",
+    "term": "holding a flashlight raised forward",
+    "category": "held-prop",
+    "subcategory": "occupational",
+    "labels": [
+      "flashlight",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Modern flashlight cutting a beam. Prompt hint: holding a modern flashlight raised forward in one hand, a sharp white beam cutting through the darkness ahead and side-lighting the face",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "职业"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持手电筒前举"
+  },
+  {
+    "id": "held_prop_occupational_compass",
+    "term": "holding an open brass nautical compass",
+    "category": "held-prop",
+    "subcategory": "occupational",
+    "labels": [
+      "compass",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Vintage handheld nautical compass. Prompt hint: holding a vintage brass nautical compass open in one cupped palm at chest height, the needle clearly visible as the eyes drift down to read the bearing",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "职业"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持打开黄铜航海罗盘"
+  },
+  {
+    "id": "held_prop_occupational_bow_and_arrow",
+    "term": "drawing an archery bow with a nocked arrow",
+    "category": "held-prop",
+    "subcategory": "occupational",
+    "labels": [
+      "bow-and-arrow",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Drawn archery bow with arrow nocked. Prompt hint: holding an archery bow drawn at full tension with one hand on the grip and the other pulling the string back to the cheek, an arrow nocked and aimed forward",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "拉弓搭箭",
+      "职业"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "拉弓搭箭"
+  },
+  {
+    "id": "held_prop_occupational_shield",
+    "term": "holding a raised medieval shield",
+    "category": "held-prop",
+    "subcategory": "occupational",
+    "labels": [
+      "shield",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Handheld medieval shield. Prompt hint: holding a medieval shield raised across the body with one arm strapped through the back, the front face angled forward in a defensive stance",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "职业"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持高举中世纪盾牌"
+  },
+  {
+    "id": "held_prop_occupational_work_gloves",
+    "term": "holding a pair of leather work gloves",
+    "category": "held-prop",
+    "subcategory": "occupational",
+    "labels": [
+      "work-gloves",
+      "nodaro-prompts"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "@nodaro/prompts (v1.27.0)",
+    "usage_count": 0,
+    "success_rate": null,
+    "notes": "Description: Worn leather work gloves held in hand. Prompt hint: holding a worn pair of tan leather work gloves in both hands at waist height, the thick weathered leather clearly visible",
+    "labels_zh": [
+      "nodaro",
+      "手持道具",
+      "职业"
+    ],
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手持一对皮革工作手套"
+  },
+  {
+    "id": "held_prop_glass_wine",
+    "term": "holding a wine glass elegantly",
+    "subcategory": "drink",
+    "labels": [
+      "wine-glass",
+      "holding",
+      "elegant",
+      "prop",
+      "product",
+      "lifestyle"
+    ],
+    "labels_zh": [
+      "优雅",
+      "手持道具",
+      "酒杯"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T22:03:34.340936+00:00",
+    "category": "held-prop",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "优雅持酒杯"
+  },
+  {
+    "id": "held_prop_candle_warm",
+    "term": "candle flickering warm glow",
+    "subcategory": "floral-nature",
+    "labels": [
+      "candle",
+      "flickering",
+      "warm-glow",
+      "ambient",
+      "product"
+    ],
+    "labels_zh": [
+      "手持道具",
+      "摇曳",
+      "暖光",
+      "蜡烛"
+    ],
+    "score": 0.85,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T22:03:34.340936+00:00",
+    "category": "held-prop",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "烛光摇曳暖光"
+  },
+  {
+    "id": "held_prop_book_open",
+    "term": "open leather-bound vintage book",
+    "subcategory": "reading-writing",
+    "labels": [
+      "open",
+      "leather-bound",
+      "vintage",
+      "book",
+      "literature"
+    ],
+    "labels_zh": [
+      "书",
+      "古籍",
+      "手持道具",
+      "翻开的"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T22:03:34.340936+00:00",
+    "category": "held-prop",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "翻开的皮质古籍"
+  },
+  {
+    "id": "held_prop_flower_single",
+    "term": "single blooming rose in hand",
+    "subcategory": "floral-nature",
+    "labels": [
+      "single",
+      "blooming",
+      "rose",
+      "hand-held",
+      "romantic",
+      "product"
+    ],
+    "labels_zh": [
+      "单朵",
+      "手中",
+      "手持道具",
+      "玫瑰"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T22:03:34.340936+00:00",
+    "category": "held-prop",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "手中单朵绽放玫瑰",
+    "aliases": [
+      "glow effect",
+      "soft bloom"
+    ]
+  },
+  {
+    "id": "held_prop_megaphone",
+    "term": "shouting through a brass megaphone",
+    "subcategory": "device",
+    "labels": [
+      "megaphone",
+      "brass",
+      "shouting",
+      "projection",
+      "retro",
+      "public"
+    ],
+    "labels_zh": [
+      "喊话",
+      "手持道具",
+      "扩音器",
+      "黄铜"
+    ],
+    "score": 0.7,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T22:03:34.340936+00:00",
+    "category": "held-prop",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "通过黄铜扩音器喊话"
+  },
+  {
+    "id": "held_prop_tea_ceremony",
+    "term": "traditional tea ceremony pouring",
+    "subcategory": "drink",
+    "labels": [
+      "tea-ceremony",
+      "pouring",
+      "traditional",
+      "ceremony",
+      "cultural",
+      "product"
+    ],
+    "labels_zh": [
+      "传统",
+      "手持道具",
+      "注水",
+      "茶道"
+    ],
+    "score": 0.8,
+    "lifecycle": "approved",
+    "source": "web-research-2026 (Midjourney/Flux/Runway/Sora best practices)",
+    "created_at": "2026-10-05T22:03:34.340936+00:00",
+    "category": "held-prop",
+    "compatibility": [
+      "sdxl",
+      "midjourney"
+    ],
+    "weight": 0.645,
+    "score_v2": 0.645,
+    "term_zh": "传统茶道注水"
+  }
+]
