@@ -1,6 +1,6 @@
 # Prompt Warehouse Standard Specification
 
-> **pws v1.0.0** — Prompt Warehouse Standard
+> **pws v1.0.12** — Prompt Warehouse Standard
 >
 > A unified, language-agnostic standard for organizing, versioning, and sharing
 > AI generation prompts across projects. Designed for comic/manga prompt generation
@@ -720,3 +720,24 @@ python3 tools/pws-canonical.py --limit 20
 | `pws-canonical.py` | Canonical deduplication (for combiners) |
 | `pws-bundles.py` | Bundle management (list / show / resolve / info / validate) |
 | `generate-api.py` | Generate /api/stats.json and other API files |
+
+| Category | File | Keywords | Subcats |
+|----------|------|---------:|--------:|
+| style | keywords/categories/style.json | 1442 | 18 |
+| scene | keywords/categories/scene.json | 947 | 16 |
+| composition | keywords/categories/composition.json | 738 | 56 |
+| clothing | keywords/categories/clothing.json | 658 | 17 |
+| character | keywords/categories/character.json | 487 | 24 |
+| lighting | keywords/categories/lighting.json | 285 | 10 |
+| quality | keywords/categories/quality.json | 243 | 15 |
+| panel | keywords/categories/panel.json | 114 | 8 |
+| transitions | keywords/categories/transitions.json | 113 | 14 |
+| photographer | keywords/categories/photographer.json | 89 | 6 |
+| action-fx | keywords/categories/action-fx.json | 75 | 7 |
+| material | keywords/categories/material.json | 67 | 7 |
+| held-prop | keywords/categories/held-prop.json | 66 | 9 |
+| character-fx | keywords/categories/character-fx.json | 60 | 5 |
+| animation | keywords/categories/animation.json | 56 | 4 |
+| shot-language | keywords/categories/shot-language.json | 38 | 3 |
+| temporal | keywords/categories/temporal.json | 37 | 6 |
+| era | keywords/categories/era.json | 33 | 3 |

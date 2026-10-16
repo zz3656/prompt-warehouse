@@ -45,7 +45,7 @@ The Prompt Warehouse Standard (PWS) is a JSON-based specification for managing A
 | Feature | Description |
 |---------|-------------|
 | **Structured Keywords** | Every keyword is a rich object with metadata — score, priority, lifecycle, usage stats |
-|| **Category Taxonomy** | 22 top-level categories with nested subcategories (quality, character, clothing, styles, etc.) |
+|| **Category Taxonomy** | 18 top-level categories with nested subcategories (quality, character, clothing, styles, etc.) |
 | **Template Engine** | Mustache-like syntax with conditionals (`{{#if}}`), iteration (`{{#each}}`), and helpers |
 | **Multi-Language** | Keywords and templates support EN / ZH / JA labels |
 
@@ -154,28 +154,26 @@ Every keyword is a structured JSON object with rich metadata:
 
 ### Category Taxonomy
 
-| Category | Slug | Description |
-|----------|------|-------------|
-| Quality | `quality` | AI output quality boosters |
-| Composition | `composition` | Camera framing, angles, lens effects |
-| Lighting | `lighting` | Lighting types and atmosphere |
-| Character | `character` | Character physical attributes |
-| Clothing | `clothing` | Clothing and accessories |
-| Styles | `styles` | Art and rendering styles |
-| Negative | `negative` | Negative prompt keywords |
-| Scene | `scene` | Scene and environment |
-| Panel | `panel` | Panel-specific effects |
-| Action FX | `action-fx` | Action and special effects (disasters, fire, combat, magic) |
-| Atmosphere | `atmosphere` | Fog, rain, particles, divine light |
-| Character FX | `character-fx` | Werewolves, vampires, cyborgs etc. |
-| Color Look | `color-look` | Warm, cool, film emulation etc. |
-| Era | `era` | Medieval, Victorian, cyberpunk etc. |
-| Held Prop | `held-prop` | Weapons and props |
-| Material | `material` | Fabric, metal, stone, wood etc. |
-| Photographer | `photographer` | Ansel Adams, Annie Leibovitz etc. |
-| Shot Language | `shot-language` | Shot size, angles, camera movement, coverage |
-| Temporal | `temporal` | Slow-mo, fast-forward, time freeze etc. |
-| Transitions | `transitions` | Dissolve, zoom, slide etc. |
+| Category | Slug | Keywords | Subcats | Description |
+|----------|------|---------:|--------:|-------------|
+| Style | `style` | 1,442 | 18 | Art and rendering styles |
+| Scene | `scene` | 947 | 16 | Scene and environment |
+| Composition | `composition` | 738 | 56 | Camera framing, angles, lens effects (merged from camera) |
+| Clothing | `clothing` | 658 | 17 | Clothing and accessories |
+| Character | `character` | 487 | 24 | Character physical attributes |
+| Lighting | `lighting` | 285 | 10 | Lighting types and atmosphere |
+| Quality | `quality` | 243 | 15 | AI output quality boosters |
+| Panel | `panel` | 114 | 8 | Panel-specific effects |
+| Transitions | `transitions` | 113 | 14 | Dissolve, zoom, slide etc. |
+| Photographer | `photographer` | 89 | 6 | Ansel Adams, Annie Leibovitz etc. |
+| Action FX | `action-fx` | 75 | 7 | Action and special effects (disasters, fire, combat, magic) |
+| Material | `material` | 67 | 7 | Fabric, metal, stone, wood etc. |
+| Held Prop | `held-prop` | 66 | 9 | Weapons and props |
+| Character FX | `character-fx` | 60 | 5 | Werewolves, vampires, cyborgs etc. |
+| Animation | `animation` | 56 | 4 | Frame rate, lip sync, motion blur |
+| Shot Language | `shot-language` | 38 | 3 | Shot size, angles, camera movement, coverage |
+| Temporal | `temporal` | 37 | 6 | Slow-mo, fast-forward, time freeze etc. |
+| Era | `era` | 33 | 3 | Medieval, Victorian, cyberpunk etc. |
 
 ### Subcategory Highlights
 

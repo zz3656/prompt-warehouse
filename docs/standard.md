@@ -1,6 +1,6 @@
 # 提示词仓库标准规范
 
-> **pws v1.0.0** — 提示词仓库标准
+> **pws v1.0.12** — 提示词仓库标准
 >
 > 一个统一的、与语言无关的标准，用于跨项目组织、版本控制和共享 AI 生成提示词。为漫画/手绘提示词生成而设计，适用于任何 AI 创意工具（图像、视频、文本、音乐）。
 >
@@ -857,14 +857,37 @@ python3 tools/pws-canonical.py --limit 20
 
 取值：sdxl / midjourney / flux / kling / runway / minimax_h3
 
-- 当前无空值，6037 条全部显式绑定模型。若未来出现空值，按通用处理。
+- 当前无空值，5548 条全部显式绑定模型。若未来出现空值，按通用处理。
 - ["sdxl"] = 仅限 sdxl，其他模型排除
 - ["kling","runway"] = 视频专用，图像模型排除
 
-注意：sdxl=6025、total=6037，差 12 条是视频专用词（kling/runway/minimax_h3 各 12 条），属预期。
+注意：sdxl=5548、total=5548，全部条目均绑定模型。
 
 下游过滤（Python）：
 
     def supports(kw, model):
         compat = kw.get("compatibility") or []
         return not compat or model in compat
+
+## 分类列表
+
+| 分类 | 文件 | 关键词数 | 子分类数 |
+|------|------|---------:|--------:|
+| STYLE | keywords/categories/style.json | 1442 | 18 |
+| SCENE | keywords/categories/scene.json | 947 | 16 |
+| COMPOSITION | keywords/categories/composition.json | 738 | 56 |
+| CLOTHING | keywords/categories/clothing.json | 658 | 17 |
+| CHARACTER | keywords/categories/character.json | 487 | 24 |
+| LIGHTING | keywords/categories/lighting.json | 285 | 10 |
+| QUALITY | keywords/categories/quality.json | 243 | 15 |
+| PANEL | keywords/categories/panel.json | 114 | 8 |
+| TRANSITIONS | keywords/categories/transitions.json | 113 | 14 |
+| PHOTOGRAPHER | keywords/categories/photographer.json | 89 | 6 |
+| ACTION-FX | keywords/categories/action-fx.json | 75 | 7 |
+| MATERIAL | keywords/categories/material.json | 67 | 7 |
+| HELD-PROP | keywords/categories/held-prop.json | 66 | 9 |
+| CHARACTER-FX | keywords/categories/character-fx.json | 60 | 5 |
+| ANIMATION | keywords/categories/animation.json | 56 | 4 |
+| SHOT-LANGUAGE | keywords/categories/shot-language.json | 38 | 3 |
+| TEMPORAL | keywords/categories/temporal.json | 37 | 6 |
+| ERA | keywords/categories/era.json | 33 | 3 |
