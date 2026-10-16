@@ -8026,7 +8026,7 @@
     "id": "camera__001152c8",
     "term": "vintage newspaper layout",
     "category": "composition",
-    "subcategory": "复古报纸",
+    "subcategory": "camera_misc",
     "weight": 0.815,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -8053,13 +8053,14 @@
     "aliases": [
       "vintage newspaper layout",
       "vintage"
-    ]
+    ],
+    "original_subcategory": "复古报纸"
   },
   {
     "id": "camera__168f7f04",
     "term": "fashion product photography",
     "category": "composition",
-    "subcategory": "时尚产品",
+    "subcategory": "camera_misc",
     "weight": 0.815,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -8086,13 +8087,14 @@
     "aliases": [
       "fashion product photography",
       "fashion"
-    ]
+    ],
+    "original_subcategory": "时尚产品"
   },
   {
     "id": "camera__46ef9a71",
     "term": "paper cutting art design",
     "category": "composition",
-    "subcategory": "手工剪纸",
+    "subcategory": "camera_misc",
     "weight": 0.855,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -8119,13 +8121,14 @@
     "aliases": [
       "paper cutting art",
       "paper"
-    ]
+    ],
+    "original_subcategory": "手工剪纸"
   },
   {
     "id": "camera__5bd1ce8c",
     "term": "card grid layout design",
     "category": "composition",
-    "subcategory": "卡牌栅格",
+    "subcategory": "camera_misc",
     "weight": 0.855,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -8152,13 +8155,14 @@
     "updated_at": "2026-10-16T04:00:00+00:00",
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.589829+00:00",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "original_subcategory": "卡牌栅格"
   },
   {
     "id": "camera__a63de720",
     "term": "calligraphy and painting art",
     "category": "composition",
-    "subcategory": "书画作品",
+    "subcategory": "camera_misc",
     "weight": 0.855,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -8185,13 +8189,14 @@
     "updated_at": "2026-10-16T04:00:00+00:00",
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.589829+00:00",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "original_subcategory": "书画作品"
   },
   {
     "id": "camera__a734cbb7",
     "term": "car exploded view art",
     "category": "composition",
-    "subcategory": "汽车拆解",
+    "subcategory": "camera_misc",
     "weight": 0.855,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -8218,13 +8223,14 @@
     "updated_at": "2026-10-16T04:00:00+00:00",
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.589829+00:00",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "original_subcategory": "汽车拆解"
   },
   {
     "id": "camera__b294be4a",
     "term": "refrigerator magnet design",
     "category": "composition",
-    "subcategory": "冰箱贴",
+    "subcategory": "camera_misc",
     "weight": 0.815,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -8251,13 +8257,14 @@
     "aliases": [
       "refrigerator magnet design",
       "refrigerator"
-    ]
+    ],
+    "original_subcategory": "冰箱贴"
   },
   {
     "id": "camera_handheld_509e1a7d",
     "term": "handheld",
     "category": "composition",
-    "subcategory": "handheld",
+    "subcategory": "camera_misc",
     "weight": 0.655,
     "score": 0.5,
     "source": "joost/ai-camera-shots",
@@ -8279,7 +8286,8 @@
     "lifecycle": "approved",
     "aliases": [
       "handheld"
-    ]
+    ],
+    "original_subcategory": "handheld"
   },
   {
     "id": "camera_panning_e7a44fcb",
@@ -8343,7 +8351,7 @@
     "id": "camera_dynamic_9ce16a64",
     "term": "dynamic camera",
     "category": "composition",
-    "subcategory": "dynamic",
+    "subcategory": "camera_misc",
     "weight": 0.735,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -8366,7 +8374,8 @@
     "aliases": [
       "dynamic camera",
       "dynamic"
-    ]
+    ],
+    "original_subcategory": "dynamic"
   },
   {
     "id": "camera_pull_out_8096fcd0",
@@ -8430,7 +8439,7 @@
     "id": "camera_tilting_af59e94f",
     "term": "tilt up",
     "category": "composition",
-    "subcategory": "tilting",
+    "subcategory": "camera_misc",
     "weight": 0.735,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -8452,7 +8461,8 @@
     "lifecycle": "approved",
     "aliases": [
       "tilt"
-    ]
+    ],
+    "original_subcategory": "tilting"
   },
   {
     "id": "camera_aerial_6d4f3f3d",
@@ -8516,7 +8526,7 @@
     "id": "camera_portrait_53dad2ee",
     "term": "85mm",
     "category": "composition",
-    "subcategory": "portrait",
+    "subcategory": "camera_misc",
     "weight": 0.655,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -8538,13 +8548,14 @@
     "lifecycle": "approved",
     "aliases": [
       "85mm"
-    ]
+    ],
+    "original_subcategory": "portrait"
   },
   {
     "id": "camera_stabilized_ef5746e2",
     "term": "fluid motion",
     "category": "composition",
-    "subcategory": "stabilized",
+    "subcategory": "camera_misc",
     "weight": 0.735,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -8567,7 +8578,8 @@
     "aliases": [
       "fluid motion",
       "fluid"
-    ]
+    ],
+    "original_subcategory": "stabilized"
   },
   {
     "id": "camera_anamorphic_de4ab376",
@@ -8807,7 +8819,7 @@
     "id": "camera_macro_8ad9e61e",
     "term": "100mm",
     "category": "composition",
-    "subcategory": "macro",
+    "subcategory": "camera_misc",
     "weight": 0.655,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -8829,7 +8841,8 @@
     "lifecycle": "approved",
     "aliases": [
       "100mm"
-    ]
+    ],
+    "original_subcategory": "macro"
   },
   {
     "id": "camera_orbiting_00b1fa0d",
@@ -9270,7 +9283,7 @@
     "id": "camera_pov_3e509759",
     "term": "POV",
     "category": "composition",
-    "subcategory": "pov",
+    "subcategory": "camera_misc",
     "weight": 0.655,
     "score": 0.5,
     "source": "joost/ai-camera-shots",
@@ -9292,7 +9305,8 @@
     "lifecycle": "approved",
     "aliases": [
       "pov"
-    ]
+    ],
+    "original_subcategory": "pov"
   },
   {
     "id": "camera_shot_size_6193cb51",
@@ -9893,7 +9907,7 @@
     "id": "camera_fpv_dde08b61",
     "term": "FPV",
     "category": "composition",
-    "subcategory": "fpv",
+    "subcategory": "camera_misc",
     "weight": 0.655,
     "score": 0.5,
     "source": "joost/ai-camera-shots",
@@ -9915,7 +9929,8 @@
     "lifecycle": "approved",
     "aliases": [
       "fpv"
-    ]
+    ],
+    "original_subcategory": "fpv"
   },
   {
     "id": "camera_zoom_in_56a319d0",

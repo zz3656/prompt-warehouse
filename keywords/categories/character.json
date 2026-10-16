@@ -18526,7 +18526,7 @@
     "id": "character_p0_4e1df728",
     "term": "illustration, cute",
     "category": "character",
-    "subcategory": "角色插画温暖可爱",
+    "subcategory": "character_misc",
     "weight": 0.585,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -18550,7 +18550,8 @@
     "aliases": [
       "illustration, cute",
       "illustration,"
-    ]
+    ],
+    "original_subcategory": "角色插画温暖可爱"
   },
   {
     "id": "character_p0_ea3a8995",
@@ -18646,7 +18647,7 @@
     "id": "character_p0_cee081a0",
     "term": "illustration, graffiti",
     "category": "character",
-    "subcategory": "角色插画涂鸦",
+    "subcategory": "character_misc",
     "weight": 0.585,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -18670,13 +18671,14 @@
     "aliases": [
       "illustration, graffiti",
       "illustration,"
-    ]
+    ],
+    "original_subcategory": "角色插画涂鸦"
   },
   {
     "id": "character_p0_af01c6b0",
     "term": "anime, hand-drawn",
     "category": "character",
-    "subcategory": "角色动漫手绘",
+    "subcategory": "character_misc",
     "weight": 0.585,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -18700,13 +18702,14 @@
     "aliases": [
       "anime, hand-drawn",
       "anime,"
-    ]
+    ],
+    "original_subcategory": "角色动漫手绘"
   },
   {
     "id": "character_p0_9ecf57f5",
     "term": "minimalist, cute",
     "category": "character",
-    "subcategory": "人像写实极简可爱",
+    "subcategory": "character_misc",
     "weight": 0.585,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -18734,7 +18737,8 @@
     "aliases": [
       "minimalist, cute",
       "minimalist,"
-    ]
+    ],
+    "original_subcategory": "人像写实极简可爱"
   },
   {
     "id": "character_p0_273b9ae5",
@@ -18799,7 +18803,7 @@
     "id": "character_p0_02829fb0",
     "term": "cute",
     "category": "character",
-    "subcategory": "女孩写实街头可爱",
+    "subcategory": "character_misc",
     "weight": 0.505,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -18826,7 +18830,8 @@
     "lifecycle": "approved",
     "aliases": [
       "cute"
-    ]
+    ],
+    "original_subcategory": "女孩写实街头可爱"
   },
   {
     "id": "character_p0_49a426a2",
@@ -18922,7 +18927,7 @@
     "id": "character_p0_576f4117",
     "term": "hand-drawn",
     "category": "character",
-    "subcategory": "手绘风格照片标注",
+    "subcategory": "character_misc",
     "weight": 0.505,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -18945,13 +18950,14 @@
     "lifecycle": "approved",
     "aliases": [
       "hand-drawn"
-    ]
+    ],
+    "original_subcategory": "手绘风格照片标注"
   },
   {
     "id": "character_p0_07cf4f8f",
     "term": "male",
     "category": "character",
-    "subcategory": "男性",
+    "subcategory": "character_misc",
     "weight": 0.505,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -18974,13 +18980,14 @@
     "lifecycle": "approved",
     "aliases": [
       "male"
-    ]
+    ],
+    "original_subcategory": "男性"
   },
   {
     "id": "character_p0_53268c7b",
     "term": "female, anime, illustration",
     "category": "character",
-    "subcategory": "女性动漫插画室内",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19004,13 +19011,14 @@
     "aliases": [
       "female, anime, illustration",
       "female,"
-    ]
+    ],
+    "original_subcategory": "女性动漫插画室内"
   },
   {
     "id": "character_p0_47e3fef9",
     "term": "female, anime",
     "category": "character",
-    "subcategory": "女性动漫产品",
+    "subcategory": "character_misc",
     "weight": 0.585,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19034,13 +19042,14 @@
     "aliases": [
       "female, anime",
       "female,"
-    ]
+    ],
+    "original_subcategory": "女性动漫产品"
   },
   {
     "id": "character_p0_354e55d2",
     "term": "female, cute",
     "category": "character",
-    "subcategory": "女性写实可爱",
+    "subcategory": "character_misc",
     "weight": 0.585,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19068,7 +19077,8 @@
     "aliases": [
       "female, cute",
       "female,"
-    ]
+    ],
+    "original_subcategory": "女性写实可爱"
   },
   {
     "id": "character_p0_8c2745e0",
@@ -19104,7 +19114,7 @@
     "id": "character_p0_d77b2bbe",
     "term": "minimalist, illustration",
     "category": "character",
-    "subcategory": "极简女生插画",
+    "subcategory": "character_misc",
     "weight": 0.585,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19128,7 +19138,8 @@
     "aliases": [
       "minimalist, illustration",
       "minimalist,"
-    ]
+    ],
+    "original_subcategory": "极简女生插画"
   },
   {
     "id": "character_p0_36d16311",
@@ -19164,7 +19175,7 @@
     "id": "character_p0_5840fd59",
     "term": "group photo",
     "category": "character",
-    "subcategory": "多人合照",
+    "subcategory": "character_misc",
     "weight": 0.585,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19188,13 +19199,14 @@
     "aliases": [
       "group photo",
       "group"
-    ]
+    ],
+    "original_subcategory": "多人合照"
   },
   {
     "id": "character_p0_e6d0b5c2",
     "term": "premium men's magazine style",
     "category": "character",
-    "subcategory": "高端男性杂志",
+    "subcategory": "character_misc",
     "weight": 0.705,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19218,13 +19230,14 @@
     "aliases": [
       "premium men's magazine",
       "premium"
-    ]
+    ],
+    "original_subcategory": "高端男性杂志"
   },
   {
     "id": "character_p0_0619253c",
     "term": "ancient Chinese style",
     "category": "character",
-    "subcategory": "古风女生",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19248,13 +19261,14 @@
     "aliases": [
       "ancient chinese style",
       "ancient"
-    ]
+    ],
+    "original_subcategory": "古风女生"
   },
   {
     "id": "character_p0_e0395eee",
     "term": "neon female",
     "category": "character",
-    "subcategory": "霓虹女性",
+    "subcategory": "character_misc",
     "weight": 0.585,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19278,13 +19292,14 @@
     "aliases": [
       "neon female",
       "neon"
-    ]
+    ],
+    "original_subcategory": "霓虹女性"
   },
   {
     "id": "character_p0_394881af",
     "term": "night scene female",
     "category": "character",
-    "subcategory": "夜景女性",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19308,13 +19323,14 @@
     "aliases": [
       "night scene female",
       "night"
-    ]
+    ],
+    "original_subcategory": "夜景女性"
   },
   {
     "id": "character_p0_adc69da1",
     "term": "graffiti art design",
     "category": "character",
-    "subcategory": "涂鸦画",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19338,13 +19354,14 @@
     "aliases": [
       "graffiti art design",
       "graffiti"
-    ]
+    ],
+    "original_subcategory": "涂鸦画"
   },
   {
     "id": "character_p0_46619acd",
     "term": "graffiti shadow art",
     "category": "character",
-    "subcategory": "涂鸦影子",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19368,13 +19385,14 @@
     "aliases": [
       "graffiti shadow art",
       "graffiti"
-    ]
+    ],
+    "original_subcategory": "涂鸦影子"
   },
   {
     "id": "character_p0_74ae7542",
     "term": "hand-drawn food illustration",
     "category": "character",
-    "subcategory": "食物手绘",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19398,7 +19416,8 @@
     "aliases": [
       "hand-drawn food illustration",
       "hand-drawn"
-    ]
+    ],
+    "original_subcategory": "食物手绘"
   },
   {
     "id": "character_p0_b40d6f8b",
@@ -19434,7 +19453,7 @@
     "id": "character_p0_04dd9875",
     "term": "cinematic flower photography",
     "category": "character",
-    "subcategory": "电影感花",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19462,13 +19481,14 @@
     "updated_at": "2026-10-16T04:00:00+00:00",
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "original_subcategory": "电影感花"
   },
   {
     "id": "character_p0_e30e83f3",
     "term": "minimalist male portrait",
     "category": "character",
-    "subcategory": "极简男性",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19492,13 +19512,14 @@
     "updated_at": "2026-10-16T04:00:00+00:00",
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "original_subcategory": "极简男性"
   },
   {
     "id": "character_p0_745e234b",
     "term": "cinematic female portrait",
     "category": "character",
-    "subcategory": "电影感女性",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19526,13 +19547,14 @@
     "updated_at": "2026-10-16T04:00:00+00:00",
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "original_subcategory": "电影感女性"
   },
   {
     "id": "character_p0_bc20b567",
     "term": "minimalist female portrait",
     "category": "character",
-    "subcategory": "女性极简",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19556,13 +19578,14 @@
     "updated_at": "2026-10-16T04:00:00+00:00",
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "original_subcategory": "女性极简"
   },
   {
     "id": "character_p0_5a556263",
     "term": "street photography female",
     "category": "character",
-    "subcategory": "街拍女性",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19586,13 +19609,14 @@
     "updated_at": "2026-10-16T04:00:00+00:00",
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "original_subcategory": "街拍女性"
   },
   {
     "id": "character_p0_48af374a",
     "term": "fine art photography",
     "category": "character",
-    "subcategory": "摄影作品",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19616,13 +19640,14 @@
     "aliases": [
       "fine art photography",
       "fine"
-    ]
+    ],
+    "original_subcategory": "摄影作品"
   },
   {
     "id": "character_p0_e29b1e5a",
     "term": "seductive gaze",
     "category": "character",
-    "subcategory": "媚眼诱惑",
+    "subcategory": "character_misc",
     "weight": 0.585,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19646,13 +19671,14 @@
     "aliases": [
       "seductive gaze",
       "seductive"
-    ]
+    ],
+    "original_subcategory": "媚眼诱惑"
   },
   {
     "id": "character_p0_c0074bb3",
     "term": "fashion photography",
     "category": "character",
-    "subcategory": "时尚摄影",
+    "subcategory": "character_misc",
     "weight": 0.585,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19676,13 +19702,14 @@
     "aliases": [
       "fashion photography",
       "fashion"
-    ]
+    ],
+    "original_subcategory": "时尚摄影"
   },
   {
     "id": "character_p0_c62efe51",
     "term": "studio portrait female",
     "category": "character",
-    "subcategory": "棚拍女性",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19706,13 +19733,14 @@
     "updated_at": "2026-10-16T04:00:00+00:00",
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "original_subcategory": "棚拍女性"
   },
   {
     "id": "character_p0_b50979f5",
     "term": "movie poster design",
     "category": "character",
-    "subcategory": "电影封面",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19736,13 +19764,14 @@
     "aliases": [
       "movie poster design",
       "movie"
-    ]
+    ],
+    "original_subcategory": "电影封面"
   },
   {
     "id": "character_p0_ee383a5e",
     "term": "high-end female aesthetic",
     "category": "character",
-    "subcategory": "高级感女性",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19766,13 +19795,14 @@
     "aliases": [
       "high-end female aesthetic",
       "high-end"
-    ]
+    ],
+    "original_subcategory": "高级感女性"
   },
   {
     "id": "character_p0_976661ec",
     "term": "elegant female portrait",
     "category": "character",
-    "subcategory": "女性优雅",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19796,13 +19826,14 @@
     "updated_at": "2026-10-16T04:00:00+00:00",
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "original_subcategory": "女性优雅"
   },
   {
     "id": "character_p0_3f3ab64c",
     "term": "retro style female",
     "category": "character",
-    "subcategory": "复古女性",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19826,13 +19857,14 @@
     "aliases": [
       "retro style female",
       "retro"
-    ]
+    ],
+    "original_subcategory": "复古女性"
   },
   {
     "id": "character_p0_8819b3c7",
     "term": "couple photo",
     "category": "character",
-    "subcategory": "情侣合照",
+    "subcategory": "character_misc",
     "weight": 0.585,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19856,13 +19888,14 @@
     "aliases": [
       "couple photo",
       "couple"
-    ]
+    ],
+    "original_subcategory": "情侣合照"
   },
   {
     "id": "character_p0_e2ec942c",
     "term": "cute hand-drawn food typography",
     "category": "character",
-    "subcategory": "食物手绘字体可爱",
+    "subcategory": "character_misc",
     "weight": 0.705,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19886,13 +19919,14 @@
     "aliases": [
       "cute hand-drawn food",
       "cute"
-    ]
+    ],
+    "original_subcategory": "食物手绘字体可爱"
   },
   {
     "id": "character_p0_a354c9ee",
     "term": "warm cozy female portrait",
     "category": "character",
-    "subcategory": "温馨女性",
+    "subcategory": "character_misc",
     "weight": 0.705,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19916,13 +19950,14 @@
     "updated_at": "2026-10-16T04:00:00+00:00",
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "original_subcategory": "温馨女性"
   },
   {
     "id": "character_p0_022a3fc1",
     "term": "film photography female",
     "category": "character",
-    "subcategory": "女性胶片",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19946,13 +19981,14 @@
     "aliases": [
       "film photography female",
       "film"
-    ]
+    ],
+    "original_subcategory": "女性胶片"
   },
   {
     "id": "character_p0_d40a6855",
     "term": "cinematic male portrait",
     "category": "character",
-    "subcategory": "电影感男性",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -19980,13 +20016,14 @@
     "updated_at": "2026-10-16T04:00:00+00:00",
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "original_subcategory": "电影感男性"
   },
   {
     "id": "character_p0_37b3673d",
     "term": "ID photo",
     "category": "character",
-    "subcategory": "证件照",
+    "subcategory": "character_misc",
     "weight": 0.585,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -20009,13 +20046,14 @@
     "lifecycle": "approved",
     "aliases": [
       "photo"
-    ]
+    ],
+    "original_subcategory": "证件照"
   },
   {
     "id": "character_p0_0b831ca1",
     "term": "hand-drawn annotations",
     "category": "character",
-    "subcategory": "手绘标注",
+    "subcategory": "character_misc",
     "weight": 0.585,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -20039,13 +20077,14 @@
     "aliases": [
       "hand-drawn annotations",
       "hand-drawn"
-    ]
+    ],
+    "original_subcategory": "手绘标注"
   },
   {
     "id": "character_p0_b9a8f7e3",
     "term": "glamorous woman",
     "category": "character",
-    "subcategory": "大凶美女",
+    "subcategory": "character_misc",
     "weight": 0.585,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -20069,13 +20108,14 @@
     "aliases": [
       "glamorous woman",
       "glamorous"
-    ]
+    ],
+    "original_subcategory": "大凶美女"
   },
   {
     "id": "character_p0_3f9fbff2",
     "term": "premium women's magazine style",
     "category": "character",
-    "subcategory": "高端女性杂志",
+    "subcategory": "character_misc",
     "weight": 0.705,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -20099,13 +20139,14 @@
     "aliases": [
       "premium women's magazine",
       "premium"
-    ]
+    ],
+    "original_subcategory": "高端女性杂志"
   },
   {
     "id": "character_p0_1488fc5a",
     "term": "cinematic vehicle photography",
     "category": "character",
-    "subcategory": "电影感汽车",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -20133,13 +20174,14 @@
     "updated_at": "2026-10-16T04:00:00+00:00",
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "original_subcategory": "电影感汽车"
   },
   {
     "id": "character_p0_7ecedcf3",
     "term": "live stream frame",
     "category": "character",
-    "subcategory": "直播画面",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -20163,13 +20205,14 @@
     "aliases": [
       "live stream frame",
       "live"
-    ]
+    ],
+    "original_subcategory": "直播画面"
   },
   {
     "id": "character_p0_c8c7ffcc",
     "term": "alluring pose (typo correction)",
     "category": "character",
-    "subcategory": "不漏诱惑",
+    "subcategory": "character_misc",
     "weight": 0.705,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -20193,13 +20236,14 @@
     "aliases": [
       "alluring pose (typo",
       "alluring"
-    ]
+    ],
+    "original_subcategory": "不漏诱惑"
   },
   {
     "id": "character_p0_c2aeaf1d",
     "term": "crouching looking at camera",
     "category": "character",
-    "subcategory": "蹲在地上直视镜头",
+    "subcategory": "character_misc",
     "weight": 0.705,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -20223,13 +20267,14 @@
     "aliases": [
       "crouching looking camera",
       "crouching"
-    ]
+    ],
+    "original_subcategory": "蹲在地上直视镜头"
   },
   {
     "id": "character_p0_5b6e0272",
     "term": "minimalist product photography",
     "category": "character",
-    "subcategory": "女性极简产品",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -20253,13 +20298,14 @@
     "aliases": [
       "minimalist product photography",
       "minimalist"
-    ]
+    ],
+    "original_subcategory": "女性极简产品"
   },
   {
     "id": "character_p0_a8df0a63",
     "term": "women's brand identity",
     "category": "character",
-    "subcategory": "女性品牌",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -20283,13 +20329,14 @@
     "aliases": [
       "women's brand identity",
       "women's"
-    ]
+    ],
+    "original_subcategory": "女性品牌"
   },
   {
     "id": "character_p0_b7448109",
     "term": "anime glamorous woman",
     "category": "character",
-    "subcategory": "二次元大凶美女",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -20313,13 +20360,14 @@
     "aliases": [
       "anime glamorous woman",
       "anime"
-    ]
+    ],
+    "original_subcategory": "二次元大凶美女"
   },
   {
     "id": "character_p0_9d73dd4d",
     "term": "cinematic children portrait",
     "category": "character",
-    "subcategory": "电影感儿童",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -20347,7 +20395,8 @@
     "updated_at": "2026-10-16T04:00:00+00:00",
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.590260+00:00",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "original_subcategory": "电影感儿童"
   },
   {
     "id": "character_p0_54a66016",
@@ -20387,7 +20436,7 @@
     "id": "character_p0_8704daa9",
     "term": "funny",
     "category": "character",
-    "subcategory": "搞怪",
+    "subcategory": "character_misc",
     "weight": 0.505,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -20410,13 +20459,14 @@
     "lifecycle": "approved",
     "aliases": [
       "funny"
-    ]
+    ],
+    "original_subcategory": "搞怪"
   },
   {
     "id": "character_p0_82afe228",
     "term": "Gundam model art",
     "category": "character",
-    "subcategory": "高达",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -20440,13 +20490,14 @@
     "aliases": [
       "gundam model art",
       "gundam"
-    ]
+    ],
+    "original_subcategory": "高达"
   },
   {
     "id": "character_p0_d0c07fd4",
     "term": "Genshin Impact style",
     "category": "character",
-    "subcategory": "原神",
+    "subcategory": "character_misc",
     "weight": 0.665,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -20470,7 +20521,8 @@
     "aliases": [
       "genshin impact style",
       "genshin"
-    ]
+    ],
+    "original_subcategory": "原神"
   },
   {
     "id": "character_character_anime_illustration_p0_0f5cb3b4",

@@ -8938,7 +8938,7 @@
     "id": "composition_p0_828fb623",
     "term": "vintage newspaper layout",
     "category": "composition",
-    "subcategory": "复古报纸",
+    "subcategory": "composition_misc",
     "weight": 0.815,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -8965,13 +8965,14 @@
     "aliases": [
       "vintage newspaper layout",
       "vintage"
-    ]
+    ],
+    "original_subcategory": "复古报纸"
   },
   {
     "id": "composition_p0_e4d4498a",
     "term": "fashion product photography",
     "category": "composition",
-    "subcategory": "时尚产品",
+    "subcategory": "composition_misc",
     "weight": 0.815,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -8998,13 +8999,14 @@
     "aliases": [
       "fashion product photography",
       "fashion"
-    ]
+    ],
+    "original_subcategory": "时尚产品"
   },
   {
     "id": "composition_p0_fab585c2",
     "term": "paper cutting art design",
     "category": "composition",
-    "subcategory": "手工剪纸",
+    "subcategory": "composition_misc",
     "weight": 0.855,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -9031,13 +9033,14 @@
     "aliases": [
       "paper cutting art",
       "paper"
-    ]
+    ],
+    "original_subcategory": "手工剪纸"
   },
   {
     "id": "composition_p0_2e4b3fed",
     "term": "card grid layout design",
     "category": "composition",
-    "subcategory": "卡牌栅格",
+    "subcategory": "composition_misc",
     "weight": 0.855,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -9064,13 +9067,14 @@
     "updated_at": "2026-10-16T04:00:00+00:00",
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.591425+00:00",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "original_subcategory": "卡牌栅格"
   },
   {
     "id": "composition_p0_87a42026",
     "term": "calligraphy and painting art",
     "category": "composition",
-    "subcategory": "书画作品",
+    "subcategory": "composition_misc",
     "weight": 0.855,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -9097,13 +9101,14 @@
     "updated_at": "2026-10-16T04:00:00+00:00",
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.591425+00:00",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "original_subcategory": "书画作品"
   },
   {
     "id": "composition_p0_126c110e",
     "term": "car exploded view art",
     "category": "composition",
-    "subcategory": "汽车拆解",
+    "subcategory": "composition_misc",
     "weight": 0.855,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -9130,13 +9135,14 @@
     "updated_at": "2026-10-16T04:00:00+00:00",
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.591425+00:00",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "original_subcategory": "汽车拆解"
   },
   {
     "id": "composition_p0_b8f96454",
     "term": "refrigerator magnet design",
     "category": "composition",
-    "subcategory": "冰箱贴",
+    "subcategory": "composition_misc",
     "weight": 0.815,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -9163,13 +9169,14 @@
     "aliases": [
       "refrigerator magnet design",
       "refrigerator"
-    ]
+    ],
+    "original_subcategory": "冰箱贴"
   },
   {
     "id": "composition_p0_509e1a7d",
     "term": "handheld",
     "category": "composition",
-    "subcategory": "handheld",
+    "subcategory": "composition_misc",
     "weight": 0.655,
     "score": 0.5,
     "source": "joost/ai-camera-shots",
@@ -9191,7 +9198,8 @@
     "lifecycle": "approved",
     "aliases": [
       "handheld"
-    ]
+    ],
+    "original_subcategory": "handheld"
   },
   {
     "id": "composition_p0_e7a44fcb",
@@ -9255,7 +9263,7 @@
     "id": "composition_p0_9ce16a64",
     "term": "dynamic camera",
     "category": "composition",
-    "subcategory": "dynamic",
+    "subcategory": "composition_misc",
     "weight": 0.735,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -9278,7 +9286,8 @@
     "aliases": [
       "dynamic camera",
       "dynamic"
-    ]
+    ],
+    "original_subcategory": "dynamic"
   },
   {
     "id": "composition_p0_8096fcd0",
@@ -9342,7 +9351,7 @@
     "id": "composition_p0_af59e94f",
     "term": "tilt up",
     "category": "composition",
-    "subcategory": "tilting",
+    "subcategory": "composition_misc",
     "weight": 0.735,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -9364,7 +9373,8 @@
     "lifecycle": "approved",
     "aliases": [
       "tilt"
-    ]
+    ],
+    "original_subcategory": "tilting"
   },
   {
     "id": "composition_p0_6d4f3f3d",
@@ -9428,7 +9438,7 @@
     "id": "composition_p0_53dad2ee",
     "term": "85mm",
     "category": "composition",
-    "subcategory": "portrait",
+    "subcategory": "composition_misc",
     "weight": 0.655,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -9450,13 +9460,14 @@
     "lifecycle": "approved",
     "aliases": [
       "85mm"
-    ]
+    ],
+    "original_subcategory": "portrait"
   },
   {
     "id": "composition_p0_ef5746e2",
     "term": "fluid motion",
     "category": "composition",
-    "subcategory": "stabilized",
+    "subcategory": "composition_misc",
     "weight": 0.735,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -9479,7 +9490,8 @@
     "aliases": [
       "fluid motion",
       "fluid"
-    ]
+    ],
+    "original_subcategory": "stabilized"
   },
   {
     "id": "composition_p0_de4ab376",
@@ -9719,7 +9731,7 @@
     "id": "composition_p0_8ad9e61e",
     "term": "100mm",
     "category": "composition",
-    "subcategory": "macro",
+    "subcategory": "composition_misc",
     "weight": 0.655,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -9741,7 +9753,8 @@
     "lifecycle": "approved",
     "aliases": [
       "100mm"
-    ]
+    ],
+    "original_subcategory": "macro"
   },
   {
     "id": "composition_p0_00b1fa0d",
@@ -10182,7 +10195,7 @@
     "id": "composition_p0_3e509759",
     "term": "POV",
     "category": "composition",
-    "subcategory": "pov",
+    "subcategory": "composition_misc",
     "weight": 0.655,
     "score": 0.5,
     "source": "joost/ai-camera-shots",
@@ -10204,7 +10217,8 @@
     "lifecycle": "approved",
     "aliases": [
       "pov"
-    ]
+    ],
+    "original_subcategory": "pov"
   },
   {
     "id": "composition_p0_6193cb51",
@@ -10805,7 +10819,7 @@
     "id": "composition_p0_dde08b61",
     "term": "FPV",
     "category": "composition",
-    "subcategory": "fpv",
+    "subcategory": "composition_misc",
     "weight": 0.655,
     "score": 0.5,
     "source": "joost/ai-camera-shots",
@@ -10827,7 +10841,8 @@
     "lifecycle": "approved",
     "aliases": [
       "fpv"
-    ]
+    ],
+    "original_subcategory": "fpv"
   },
   {
     "id": "composition_p0_56a319d0",

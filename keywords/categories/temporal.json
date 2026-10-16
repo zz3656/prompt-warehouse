@@ -1201,7 +1201,7 @@
     "id": "temporal_p0_18f83e1a",
     "term": "timelapse",
     "category": "temporal",
-    "subcategory": "time_lapse",
+    "subcategory": "temporal_misc",
     "weight": 0.625,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -1224,13 +1224,14 @@
     "lifecycle": "approved",
     "aliases": [
       "timelapse"
-    ]
+    ],
+    "original_subcategory": "time_lapse"
   },
   {
     "id": "temporal_p0_1996e2bd",
     "term": "continuous shot",
     "category": "temporal",
-    "subcategory": "long_take",
+    "subcategory": "temporal_misc",
     "weight": 0.705,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -1254,7 +1255,8 @@
     "aliases": [
       "continuous shot",
       "continuous"
-    ]
+    ],
+    "original_subcategory": "long_take"
   },
   {
     "id": "temporal_p0_1168fc47",
@@ -1289,7 +1291,7 @@
     "id": "temporal_p0_197948f4",
     "term": "frame interpolation",
     "category": "temporal",
-    "subcategory": "interpolation",
+    "subcategory": "temporal_misc",
     "weight": 0.705,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -1311,13 +1313,14 @@
     "updated_at": "2026-10-16T04:00:00+00:00",
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.594942+00:00",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "original_subcategory": "interpolation"
   },
   {
     "id": "temporal_p0_e2fe3e36",
     "term": "frame-by-frame",
     "category": "temporal",
-    "subcategory": "stop_motion",
+    "subcategory": "temporal_misc",
     "weight": 0.625,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -1340,7 +1343,8 @@
     "lifecycle": "approved",
     "aliases": [
       "frame-by-frame"
-    ]
+    ],
+    "original_subcategory": "stop_motion"
   },
   {
     "id": "temporal_p0_9a096f74",

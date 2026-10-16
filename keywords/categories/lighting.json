@@ -5230,7 +5230,7 @@
     "id": "lighting_p0_d085133d",
     "term": "natural light",
     "category": "lighting",
-    "subcategory": "time_of_day",
+    "subcategory": "lighting_misc",
     "weight": 0.75,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -5257,7 +5257,8 @@
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.591855+00:00",
     "labels": [],
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "original_subcategory": "time_of_day"
   },
   {
     "id": "lighting_p0_a5faa7d8",

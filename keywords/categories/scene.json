@@ -12369,7 +12369,7 @@
     "id": "scene_p0_eeec1154",
     "term": "industrial warehouse",
     "category": "scene",
-    "subcategory": "commercial",
+    "subcategory": "scene_misc",
     "weight": 0.705,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -12391,13 +12391,14 @@
     "updated_at": "2026-10-16T04:00:00+00:00",
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.592524+00:00",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "original_subcategory": "commercial"
   },
   {
     "id": "scene_p0_ddef66c6",
     "term": "suburban street",
     "category": "scene",
-    "subcategory": "suburban",
+    "subcategory": "scene_misc",
     "weight": 0.705,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -12427,7 +12428,8 @@
     "aliases_zh": [
       "街景",
       "街道"
-    ]
+    ],
+    "original_subcategory": "suburban"
   },
   {
     "id": "scene_p0_06de5444",
@@ -12462,7 +12464,7 @@
     "id": "scene_p0_92c2c52e",
     "term": "abandoned building",
     "category": "scene",
-    "subcategory": "architecture",
+    "subcategory": "scene_misc",
     "weight": 0.705,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -12484,7 +12486,8 @@
     "updated_at": "2026-10-16T04:00:00+00:00",
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.592524+00:00",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "original_subcategory": "architecture"
   },
   {
     "id": "scene_p0_fac7d350",

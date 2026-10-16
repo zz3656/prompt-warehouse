@@ -341,7 +341,16 @@
     "大凶美女": "大凶美女",
     "女性优雅": "优雅女性人像",
     "女性写实可爱": "女性写实可爱",
-    "食物手绘字体可爱": "食物手绘字体"
+    "食物手绘字体可爱": "食物手绘字体",
+    "camera_misc": "其他相机设置",
+    "character_misc": "其他角色设定",
+    "composition_misc": "其他构图技巧",
+    "lighting_misc": "其他灯光效果",
+    "scene_misc": "其他场景类型",
+    "style_misc": "其他风格变体",
+    "styles_misc": "其他风格变体",
+    "temporal_misc": "其他时间效果",
+    "transitions_misc": "其他转场效果"
   },
   "categories": [
     {
@@ -466,6 +475,11 @@
           "count": 16
         },
         {
+          "slug": "camera_misc",
+          "name_zh": "其他相机设置",
+          "count": 15
+        },
+        {
           "slug": "camera_angle",
           "name_zh": "拍摄角度",
           "count": 13
@@ -569,81 +583,6 @@
           "slug": "zoom_in",
           "name_zh": "推近镜头",
           "count": 2
-        },
-        {
-          "slug": "复古报纸",
-          "name_zh": "复古报纸排版",
-          "count": 1
-        },
-        {
-          "slug": "时尚产品",
-          "name_zh": "时尚摄影",
-          "count": 1
-        },
-        {
-          "slug": "手工剪纸",
-          "name_zh": "手工剪纸",
-          "count": 1
-        },
-        {
-          "slug": "卡牌栅格",
-          "name_zh": "卡牌网格",
-          "count": 1
-        },
-        {
-          "slug": "书画作品",
-          "name_zh": "书画艺术",
-          "count": 1
-        },
-        {
-          "slug": "汽车拆解",
-          "name_zh": "爆炸视图",
-          "count": 1
-        },
-        {
-          "slug": "冰箱贴",
-          "name_zh": "冰箱贴设计",
-          "count": 1
-        },
-        {
-          "slug": "handheld",
-          "name_zh": "手持拍摄",
-          "count": 1
-        },
-        {
-          "slug": "dynamic",
-          "name_zh": "动态光效",
-          "count": 1
-        },
-        {
-          "slug": "tilting",
-          "name_zh": "俯仰镜头",
-          "count": 1
-        },
-        {
-          "slug": "portrait",
-          "name_zh": "人像镜头",
-          "count": 1
-        },
-        {
-          "slug": "stabilized",
-          "name_zh": "稳定器",
-          "count": 1
-        },
-        {
-          "slug": "macro",
-          "name_zh": "微距镜头",
-          "count": 1
-        },
-        {
-          "slug": "pov",
-          "name_zh": "第一视角",
-          "count": 1
-        },
-        {
-          "slug": "fpv",
-          "name_zh": "无人机视角",
-          "count": 1
         }
       ]
     },
@@ -671,6 +610,11 @@
           "slug": "expression",
           "name_zh": "面部表情",
           "count": 55
+        },
+        {
+          "slug": "character_misc",
+          "name_zh": "其他角色设定",
+          "count": 52
         },
         {
           "slug": "eyes",
@@ -771,266 +715,6 @@
           "slug": "character_minimalist_female",
           "name_zh": "极简女性",
           "count": 2
-        },
-        {
-          "slug": "角色插画温暖可爱",
-          "name_zh": "温暖可爱插画",
-          "count": 1
-        },
-        {
-          "slug": "角色插画涂鸦",
-          "name_zh": "涂鸦插画",
-          "count": 1
-        },
-        {
-          "slug": "角色动漫手绘",
-          "name_zh": "动漫手绘",
-          "count": 1
-        },
-        {
-          "slug": "人像写实极简可爱",
-          "name_zh": "极简可爱人像",
-          "count": 1
-        },
-        {
-          "slug": "女孩写实街头可爱",
-          "name_zh": "街头可爱少女",
-          "count": 1
-        },
-        {
-          "slug": "手绘风格照片标注",
-          "name_zh": "手绘标注",
-          "count": 1
-        },
-        {
-          "slug": "男性",
-          "name_zh": "男性角色",
-          "count": 1
-        },
-        {
-          "slug": "女性动漫插画室内",
-          "name_zh": "室内动漫女性",
-          "count": 1
-        },
-        {
-          "slug": "女性动漫产品",
-          "name_zh": "动漫产品女性",
-          "count": 1
-        },
-        {
-          "slug": "女性写实可爱",
-          "name_zh": "女性写实可爱",
-          "count": 1
-        },
-        {
-          "slug": "极简女生插画",
-          "name_zh": "极简女性插画",
-          "count": 1
-        },
-        {
-          "slug": "多人合照",
-          "name_zh": "群体照片",
-          "count": 1
-        },
-        {
-          "slug": "高端男性杂志",
-          "name_zh": "时尚杂志男性",
-          "count": 1
-        },
-        {
-          "slug": "古风女生",
-          "name_zh": "古代中国风格",
-          "count": 1
-        },
-        {
-          "slug": "霓虹女性",
-          "name_zh": "霓虹风格",
-          "count": 1
-        },
-        {
-          "slug": "夜景女性",
-          "name_zh": "夜晚场景女性",
-          "count": 1
-        },
-        {
-          "slug": "涂鸦画",
-          "name_zh": "涂鸦艺术",
-          "count": 1
-        },
-        {
-          "slug": "涂鸦影子",
-          "name_zh": "涂鸦阴影",
-          "count": 1
-        },
-        {
-          "slug": "食物手绘",
-          "name_zh": "食物插画",
-          "count": 1
-        },
-        {
-          "slug": "电影感花",
-          "name_zh": "花卉摄影",
-          "count": 1
-        },
-        {
-          "slug": "极简男性",
-          "name_zh": "极简男性",
-          "count": 1
-        },
-        {
-          "slug": "电影感女性",
-          "name_zh": "电影感女性",
-          "count": 1
-        },
-        {
-          "slug": "女性极简",
-          "name_zh": "极简女性",
-          "count": 1
-        },
-        {
-          "slug": "街拍女性",
-          "name_zh": "街头摄影",
-          "count": 1
-        },
-        {
-          "slug": "摄影作品",
-          "name_zh": "摄影作品",
-          "count": 1
-        },
-        {
-          "slug": "媚眼诱惑",
-          "name_zh": "魅惑眼神",
-          "count": 1
-        },
-        {
-          "slug": "时尚摄影",
-          "name_zh": "时尚大片",
-          "count": 1
-        },
-        {
-          "slug": "棚拍女性",
-          "name_zh": "工作室人像",
-          "count": 1
-        },
-        {
-          "slug": "电影封面",
-          "name_zh": "电影海报",
-          "count": 1
-        },
-        {
-          "slug": "高级感女性",
-          "name_zh": "高级感女性",
-          "count": 1
-        },
-        {
-          "slug": "女性优雅",
-          "name_zh": "优雅女性人像",
-          "count": 1
-        },
-        {
-          "slug": "复古女性",
-          "name_zh": "复古风格女性",
-          "count": 1
-        },
-        {
-          "slug": "情侣合照",
-          "name_zh": "情侣合影",
-          "count": 1
-        },
-        {
-          "slug": "食物手绘字体可爱",
-          "name_zh": "食物手绘字体",
-          "count": 1
-        },
-        {
-          "slug": "温馨女性",
-          "name_zh": "温馨女性",
-          "count": 1
-        },
-        {
-          "slug": "女性胶片",
-          "name_zh": "胶片摄影女性",
-          "count": 1
-        },
-        {
-          "slug": "电影感男性",
-          "name_zh": "电影感男性",
-          "count": 1
-        },
-        {
-          "slug": "证件照",
-          "name_zh": "证件照",
-          "count": 1
-        },
-        {
-          "slug": "手绘标注",
-          "name_zh": "手绘标注",
-          "count": 1
-        },
-        {
-          "slug": "大凶美女",
-          "name_zh": "大凶美女",
-          "count": 1
-        },
-        {
-          "slug": "高端女性杂志",
-          "name_zh": "时尚杂志女性",
-          "count": 1
-        },
-        {
-          "slug": "电影感汽车",
-          "name_zh": "电影感车辆",
-          "count": 1
-        },
-        {
-          "slug": "直播画面",
-          "name_zh": "直播画面",
-          "count": 1
-        },
-        {
-          "slug": "不漏诱惑",
-          "name_zh": "不漏诱惑",
-          "count": 1
-        },
-        {
-          "slug": "蹲在地上直视镜头",
-          "name_zh": "直视镜头",
-          "count": 1
-        },
-        {
-          "slug": "女性极简产品",
-          "name_zh": "极简产品摄影",
-          "count": 1
-        },
-        {
-          "slug": "女性品牌",
-          "name_zh": "品牌女性",
-          "count": 1
-        },
-        {
-          "slug": "二次元大凶美女",
-          "name_zh": "二次元大凶美女",
-          "count": 1
-        },
-        {
-          "slug": "电影感儿童",
-          "name_zh": "电影感儿童",
-          "count": 1
-        },
-        {
-          "slug": "搞怪",
-          "name_zh": "搞怪风格",
-          "count": 1
-        },
-        {
-          "slug": "高达",
-          "name_zh": "高达模型",
-          "count": 1
-        },
-        {
-          "slug": "原神",
-          "name_zh": "原神风格",
-          "count": 1
         }
       ]
     },
@@ -1226,6 +910,11 @@
           "count": 19
         },
         {
+          "slug": "composition_misc",
+          "name_zh": "其他构图技巧",
+          "count": 15
+        },
+        {
           "slug": "camera_coverage",
           "name_zh": "镜头覆盖",
           "count": 14
@@ -1319,81 +1008,6 @@
           "slug": "zoom_in",
           "name_zh": "推近镜头",
           "count": 2
-        },
-        {
-          "slug": "复古报纸",
-          "name_zh": "复古报纸排版",
-          "count": 1
-        },
-        {
-          "slug": "时尚产品",
-          "name_zh": "时尚摄影",
-          "count": 1
-        },
-        {
-          "slug": "手工剪纸",
-          "name_zh": "手工剪纸",
-          "count": 1
-        },
-        {
-          "slug": "卡牌栅格",
-          "name_zh": "卡牌网格",
-          "count": 1
-        },
-        {
-          "slug": "书画作品",
-          "name_zh": "书画艺术",
-          "count": 1
-        },
-        {
-          "slug": "汽车拆解",
-          "name_zh": "爆炸视图",
-          "count": 1
-        },
-        {
-          "slug": "冰箱贴",
-          "name_zh": "冰箱贴设计",
-          "count": 1
-        },
-        {
-          "slug": "handheld",
-          "name_zh": "手持拍摄",
-          "count": 1
-        },
-        {
-          "slug": "dynamic",
-          "name_zh": "动态光效",
-          "count": 1
-        },
-        {
-          "slug": "tilting",
-          "name_zh": "俯仰镜头",
-          "count": 1
-        },
-        {
-          "slug": "portrait",
-          "name_zh": "人像镜头",
-          "count": 1
-        },
-        {
-          "slug": "stabilized",
-          "name_zh": "稳定器",
-          "count": 1
-        },
-        {
-          "slug": "macro",
-          "name_zh": "微距镜头",
-          "count": 1
-        },
-        {
-          "slug": "pov",
-          "name_zh": "第一视角",
-          "count": 1
-        },
-        {
-          "slug": "fpv",
-          "name_zh": "无人机视角",
-          "count": 1
         }
       ]
     },
@@ -1522,8 +1136,8 @@
           "count": 2
         },
         {
-          "slug": "time_of_day",
-          "name_zh": "时间段",
+          "slug": "lighting_misc",
+          "name_zh": "其他灯光效果",
           "count": 1
         }
       ]
@@ -1807,6 +1421,11 @@
           "count": 7
         },
         {
+          "slug": "scene_misc",
+          "name_zh": "其他场景类型",
+          "count": 3
+        },
+        {
           "slug": "landscape",
           "name_zh": "风景",
           "count": 3
@@ -1815,21 +1434,6 @@
           "slug": "interior",
           "name_zh": "室内场景",
           "count": 2
-        },
-        {
-          "slug": "commercial",
-          "name_zh": "工业仓库",
-          "count": 1
-        },
-        {
-          "slug": "suburban",
-          "name_zh": "郊区场景",
-          "count": 1
-        },
-        {
-          "slug": "architecture",
-          "name_zh": "废弃建筑",
-          "count": 1
         }
       ]
     },
@@ -1958,6 +1562,11 @@
           "count": 3
         },
         {
+          "slug": "style_misc",
+          "name_zh": "其他风格变体",
+          "count": 3
+        },
+        {
           "slug": "style.artists",
           "name_zh": "艺术家风格",
           "count": 2
@@ -1966,21 +1575,6 @@
           "slug": "style.intangibles",
           "name_zh": "抽象元素",
           "count": 2
-        },
-        {
-          "slug": "documentary",
-          "name_zh": "纪实风格",
-          "count": 1
-        },
-        {
-          "slug": "stop_motion",
-          "name_zh": "停格动画",
-          "count": 1
-        },
-        {
-          "slug": "retro",
-          "name_zh": "复古风格",
-          "count": 1
         }
       ]
     },
@@ -2025,29 +1619,14 @@
           "count": 23
         },
         {
+          "slug": "styles_misc",
+          "name_zh": "其他风格变体",
+          "count": 4
+        },
+        {
           "slug": "style",
           "name_zh": "基础风格",
           "count": 3
-        },
-        {
-          "slug": "documentary",
-          "name_zh": "纪实风格",
-          "count": 1
-        },
-        {
-          "slug": "stop_motion",
-          "name_zh": "停格动画",
-          "count": 1
-        },
-        {
-          "slug": "retro",
-          "name_zh": "复古风格",
-          "count": 1
-        },
-        {
-          "slug": "style.design",
-          "name_zh": "设计风格",
-          "count": 1
         }
       ]
     },
@@ -2077,29 +1656,14 @@
           "count": 4
         },
         {
+          "slug": "temporal_misc",
+          "name_zh": "其他时间效果",
+          "count": 4
+        },
+        {
           "slug": "frame_rate",
           "name_zh": "帧率",
           "count": 3
-        },
-        {
-          "slug": "time_lapse",
-          "name_zh": "延时摄影",
-          "count": 1
-        },
-        {
-          "slug": "long_take",
-          "name_zh": "长镜头",
-          "count": 1
-        },
-        {
-          "slug": "interpolation",
-          "name_zh": "插值",
-          "count": 1
-        },
-        {
-          "slug": "stop_motion",
-          "name_zh": "停格动画",
-          "count": 1
         }
       ]
     },
@@ -2131,6 +1695,11 @@
         {
           "slug": "physics",
           "name_zh": "物理效果",
+          "count": 10
+        },
+        {
+          "slug": "transitions_misc",
+          "name_zh": "其他转场效果",
           "count": 10
         },
         {
@@ -2172,56 +1741,6 @@
           "slug": "hard_cut",
           "name_zh": "硬切",
           "count": 2
-        },
-        {
-          "slug": "cross_dissolve",
-          "name_zh": "交叉溶解",
-          "count": 1
-        },
-        {
-          "slug": "flash_cut",
-          "name_zh": "闪切",
-          "count": 1
-        },
-        {
-          "slug": "light_leak",
-          "name_zh": "漏光效果",
-          "count": 1
-        },
-        {
-          "slug": "fade_in",
-          "name_zh": "淡入",
-          "count": 1
-        },
-        {
-          "slug": "reveal",
-          "name_zh": "揭示转场",
-          "count": 1
-        },
-        {
-          "slug": "push_in",
-          "name_zh": "推镜头",
-          "count": 1
-        },
-        {
-          "slug": "zoom_in",
-          "name_zh": "推近镜头",
-          "count": 1
-        },
-        {
-          "slug": "j cut",
-          "name_zh": "J型剪辑",
-          "count": 1
-        },
-        {
-          "slug": "l cut",
-          "name_zh": "L型剪辑",
-          "count": 1
-        },
-        {
-          "slug": "audio_bridge",
-          "name_zh": "声音桥接",
-          "count": 1
         }
       ]
     }

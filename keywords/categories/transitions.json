@@ -3233,7 +3233,7 @@
     "id": "transitions_p0_219f6e23",
     "term": "dissolve",
     "category": "transitions",
-    "subcategory": "cross_dissolve",
+    "subcategory": "transitions_misc",
     "weight": 0.64,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -3256,7 +3256,8 @@
     "lifecycle": "approved",
     "aliases": [
       "dissolve"
-    ]
+    ],
+    "original_subcategory": "cross_dissolve"
   },
   {
     "id": "transitions_p0_3e2bd65d",
@@ -3320,7 +3321,7 @@
     "id": "transitions_p0_b5a98037",
     "term": "flash transition",
     "category": "transitions",
-    "subcategory": "flash_cut",
+    "subcategory": "transitions_misc",
     "weight": 0.72,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -3344,7 +3345,8 @@
     "aliases": [
       "flash transition",
       "flash"
-    ]
+    ],
+    "original_subcategory": "flash_cut"
   },
   {
     "id": "transitions_p0_45b9e921",
@@ -3380,7 +3382,7 @@
     "id": "transitions_p0_a01b9f6b",
     "term": "light leak",
     "category": "transitions",
-    "subcategory": "light_leak",
+    "subcategory": "transitions_misc",
     "weight": 0.72,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -3404,13 +3406,14 @@
     "aliases": [
       "light leak",
       "light"
-    ]
+    ],
+    "original_subcategory": "light_leak"
   },
   {
     "id": "transitions_p0_925e768a",
     "term": "fade in",
     "category": "transitions",
-    "subcategory": "fade_in",
+    "subcategory": "transitions_misc",
     "weight": 0.72,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -3433,7 +3436,8 @@
     "lifecycle": "approved",
     "aliases": [
       "fade"
-    ]
+    ],
+    "original_subcategory": "fade_in"
   },
   {
     "id": "transitions_p0_b3bde8ae",
@@ -3469,7 +3473,7 @@
     "id": "transitions_p0_58f608fa",
     "term": "pull-out reveal",
     "category": "transitions",
-    "subcategory": "reveal",
+    "subcategory": "transitions_misc",
     "weight": 0.72,
     "score": 0.5,
     "source": "joost/ai-camera-shots",
@@ -3492,13 +3496,14 @@
     "aliases": [
       "pull-out reveal",
       "pull-out"
-    ]
+    ],
+    "original_subcategory": "reveal"
   },
   {
     "id": "transitions_p0_4fa63384",
     "term": "push-in",
     "category": "transitions",
-    "subcategory": "push_in",
+    "subcategory": "transitions_misc",
     "weight": 0.64,
     "score": 0.5,
     "source": "joost/ai-camera-shots",
@@ -3521,13 +3526,14 @@
     "lifecycle": "approved",
     "aliases": [
       "push-in"
-    ]
+    ],
+    "original_subcategory": "push_in"
   },
   {
     "id": "transitions_p0_56a319d0",
     "term": "crash zoom",
     "category": "transitions",
-    "subcategory": "zoom_in",
+    "subcategory": "transitions_misc",
     "weight": 0.72,
     "score": 0.5,
     "source": "joost/ai-camera-shots",
@@ -3551,7 +3557,8 @@
     "aliases": [
       "crash zoom",
       "crash"
-    ]
+    ],
+    "original_subcategory": "zoom_in"
   },
   {
     "id": "transitions_p0_7b210f2b",
@@ -3939,7 +3946,7 @@
     "id": "transitions_p0_729935bb",
     "term": "J cut",
     "category": "transitions",
-    "subcategory": "j cut",
+    "subcategory": "transitions_misc",
     "weight": 0.72,
     "score": 0.5,
     "source": "joost/ai-camera-shots",
@@ -3961,13 +3968,14 @@
     "lifecycle": "approved",
     "aliases": [
       "cut"
-    ]
+    ],
+    "original_subcategory": "j cut"
   },
   {
     "id": "transitions_p0_235bd658",
     "term": "L cut",
     "category": "transitions",
-    "subcategory": "l cut",
+    "subcategory": "transitions_misc",
     "weight": 0.72,
     "score": 0.5,
     "source": "joost/ai-camera-shots",
@@ -3989,13 +3997,14 @@
     "lifecycle": "approved",
     "aliases": [
       "cut"
-    ]
+    ],
+    "original_subcategory": "l cut"
   },
   {
     "id": "transitions_p0_ce2527a9",
     "term": "sound bridge",
     "category": "transitions",
-    "subcategory": "audio_bridge",
+    "subcategory": "transitions_misc",
     "weight": 0.72,
     "score": 0.5,
     "source": "joost/ai-camera-shots",
@@ -4019,7 +4028,8 @@
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
     "labels": [],
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "original_subcategory": "audio_bridge"
   },
   {
     "id": "transitions_p0_83270b89",

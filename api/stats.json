@@ -1,7 +1,7 @@
 {
   "version": "1.0.12",
   "total_keywords": 5837,
-  "total_categories": 23,
+  "total_categories": 24,
   "total_workflows": 25,
   "by_category": {
     "style": 1230,
@@ -51,7 +51,7 @@
     ">=0.9": 310
   },
   "missing_term_zh": 0,
-  "generated_at": "2026-10-16T09:29:12.809163+00:00",
+  "generated_at": "2026-10-16T12:41:44.824265+00:00",
   "missing_template_refs": [],
   "total_bundles": 17,
   "total_templates": 16

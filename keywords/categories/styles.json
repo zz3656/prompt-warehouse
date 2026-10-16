@@ -11991,7 +11991,7 @@
     "id": "styles_p0_79fbf7be",
     "term": "documentary style",
     "category": "styles",
-    "subcategory": "documentary",
+    "subcategory": "styles_misc",
     "weight": 0.555,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -12011,13 +12011,14 @@
     "aliases": [
       "documentary style",
       "documentary"
-    ]
+    ],
+    "original_subcategory": "documentary"
   },
   {
     "id": "styles_p0_703b36ec",
     "term": "stop-motion",
     "category": "styles",
-    "subcategory": "stop_motion",
+    "subcategory": "styles_misc",
     "weight": 0.475,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -12037,7 +12038,8 @@
     "lifecycle": "approved",
     "aliases": [
       "stop-motion"
-    ]
+    ],
+    "original_subcategory": "stop_motion"
   },
   {
     "id": "styles_p0_ad7e402c",
@@ -12068,7 +12070,7 @@
     "id": "styles_p0_34bc798d",
     "term": "vintage film",
     "category": "styles",
-    "subcategory": "retro",
+    "subcategory": "styles_misc",
     "weight": 0.555,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -12088,13 +12090,14 @@
     "aliases": [
       "vintage film",
       "vintage"
-    ]
+    ],
+    "original_subcategory": "retro"
   },
   {
     "id": "styles_style_design_p0_f80fd1ac",
     "term": "handwritten typography",
     "category": "styles",
-    "subcategory": "style.design",
+    "subcategory": "styles_misc",
     "weight": 0.585,
     "score": 0.5,
     "source": "BaYue-SYJ/shuixian-prompts",
@@ -12119,6 +12122,7 @@
     "aliases": [
       "handwritten typography",
       "handwritten"
-    ]
+    ],
+    "original_subcategory": "style.design"
   }
 ]

@@ -743,7 +743,16 @@
     "大凶美女": "大凶美女",
     "女性优雅": "优雅女性人像",
     "女性写实可爱": "女性写实可爱",
-    "食物手绘字体可爱": "食物手绘字体"
+    "食物手绘字体可爱": "食物手绘字体",
+    "camera_misc": "其他相机设置",
+    "character_misc": "其他角色设定",
+    "composition_misc": "其他构图技巧",
+    "lighting_misc": "其他灯光效果",
+    "scene_misc": "其他场景类型",
+    "style_misc": "其他风格变体",
+    "styles_misc": "其他风格变体",
+    "temporal_misc": "其他时间效果",
+    "transitions_misc": "其他转场效果"
   },
   "keywords_count": 6282
 }

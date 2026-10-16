@@ -11026,7 +11026,7 @@
     "id": "style_documentary_79fbf7be",
     "term": "documentary style",
     "category": "styles",
-    "subcategory": "documentary",
+    "subcategory": "style_misc",
     "weight": 0.555,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -11046,13 +11046,14 @@
     "aliases": [
       "documentary style",
       "documentary"
-    ]
+    ],
+    "original_subcategory": "documentary"
   },
   {
     "id": "style_stop_motion_703b36ec",
     "term": "stop-motion",
     "category": "styles",
-    "subcategory": "stop_motion",
+    "subcategory": "style_misc",
     "weight": 0.475,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -11072,7 +11073,8 @@
     "lifecycle": "approved",
     "aliases": [
       "stop-motion"
-    ]
+    ],
+    "original_subcategory": "stop_motion"
   },
   {
     "id": "style_ad7e402c",
@@ -11103,7 +11105,7 @@
     "id": "style_retro_34bc798d",
     "term": "vintage film",
     "category": "styles",
-    "subcategory": "retro",
+    "subcategory": "style_misc",
     "weight": 0.555,
     "score": 0.5,
     "source": "BeatAPI/awesome-minimax-h3-prompts",
@@ -11123,7 +11125,8 @@
     "aliases": [
       "vintage film",
       "vintage"
-    ]
+    ],
+    "original_subcategory": "retro"
   },
   {
     "id": "style_mediums_illustration",
