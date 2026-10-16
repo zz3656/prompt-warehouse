@@ -1,0 +1,58 @@
+{
+  "version": "1.0.12",
+  "total_keywords": 5837,
+  "total_categories": 24,
+  "total_workflows": 25,
+  "by_category": {
+    "style": 1230,
+    "scene": 941,
+    "clothing": 602,
+    "character": 543,
+    "camera": 396,
+    "composition": 342,
+    "styles": 309,
+    "quality": 287,
+    "lighting": 270,
+    "color-look": 163,
+    "transitions": 113,
+    "photographer": 89,
+    "action-fx": 75,
+    "panel": 74,
+    "material": 67,
+    "held-prop": 66,
+    "character-fx": 60,
+    "animation": 56,
+    "storyboard": 40,
+    "shot-language": 38,
+    "temporal": 37,
+    "era": 33,
+    "atmosphere": 6,
+    "_pending_review": 0
+  },
+  "by_compatibility": {
+    "sdxl": 5802,
+    "midjourney": 5802,
+    "flux": 1801,
+    "kling": 1785,
+    "runway": 1785,
+    "minimax_h3": 1785,
+    "_universal": 23
+  },
+  "relation": {
+    "canonical": 141,
+    "variant": 182,
+    "alias_of": 53,
+    "relation_group": 139
+  },
+  "by_score_bucket": {
+    "<0.5": 0,
+    "0.5-0.7": 275,
+    "0.7-0.9": 5252,
+    ">=0.9": 310
+  },
+  "missing_term_zh": 0,
+  "generated_at": "2026-10-16T08:43:29.653669+00:00",
+  "missing_template_refs": [],
+  "total_bundles": 17,
+  "total_templates": 16
+}

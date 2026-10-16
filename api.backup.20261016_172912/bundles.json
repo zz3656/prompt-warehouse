@@ -1,0 +1,299 @@
+{
+  "version": "1.0",
+  "total": 17,
+  "bundles": [
+    {
+      "id": "character.animesque_portrait",
+      "name": "Animesque Character Portrait",
+      "name_zh": "动漫风格角色肖像",
+      "description": "A curated combination of character, clothing, styles, lighting, and quality keywords for generating high-quality anime/manga-style character portraits. Uses cel-shading techniques, expressive expressi",
+      "description_zh": "精心搭配角色、服装、风格、灯光和质量关键词，生成高质量动漫/漫画风格角色肖像。采用赛璐珞上色技术、表现性表情和戏剧性灯光，生成工作室级动漫角色艺术。",
+      "category": "character",
+      "keyword_count": 22,
+      "template_count": 2,
+      "api_targets": [
+        "SDXL",
+        "Flux",
+        "Stable Diffusion",
+        "Midjourney",
+        "Custom"
+      ],
+      "bundle_type": "keywords_only"
+    },
+    {
+      "id": "character.cosplay_portrait",
+      "name": "Cosplay Portrait",
+      "name_zh": "Cosplay肖像",
+      "description": "A curated combination of character, clothing, scene, lighting, and quality keywords for generating high-quality cosplay photography. Combines detailed costume/prop keywords with dramatic lighting, fan",
+      "description_zh": "精心搭配角色、服装、场景、灯光和质量关键词，生成高质量的Cosplay摄影。将详细的服装/道具关键词与戏剧性灯光、幻想场景和电影构图相结合，生成博物馆级Cosplay肖像。",
+      "category": "character",
+      "keyword_count": 18,
+      "template_count": 2,
+      "api_targets": [
+        "SDXL",
+        "Midjourney",
+        "Flux",
+        "Stable Diffusion",
+        "Custom"
+      ],
+      "bundle_type": "keywords_only"
+    },
+    {
+      "id": "environment.architectural_interior",
+      "name": "Architectural Interior Visualization",
+      "name_zh": "建筑室内可视化",
+      "description": "A curated combination of scene, material, quality, lighting, and composition keywords for generating photorealistic architectural interior renderings. Covers residential, commercial, and hospitality s",
+      "description_zh": "精心搭配场景、材质、质量、灯光和构图关键词，生成逼真的建筑室内渲染图。涵盖住宅、商业和酒店空间，带有真实材质、自然窗户光和专业摄影技术。",
+      "category": "environment",
+      "keyword_count": 23,
+      "template_count": 1,
+      "api_targets": [
+        "SDXL",
+        "Flux",
+        "Stable Diffusion",
+        "Custom"
+      ],
+      "bundle_type": "keywords_only"
+    },
+    {
+      "id": "environment.cityscape_exterior",
+      "name": "Cityscape & Urban Scene",
+      "name_zh": "城市景观与城市场景",
+      "description": "A curated combination of scene, composition, lighting, style, and quality keywords for generating dramatic cityscape and urban environment images. Ranges from photorealistic city photography to styliz",
+      "description_zh": "精心搭配场景、构图、灯光、风格和质量关键词，生成戏剧性城市景观和城市场景图像。从写实城市摄影到赛博朋克/霓虹美学，使用大气条件和黄金/蓝色时刻灯光。",
+      "category": "environment",
+      "keyword_count": 21,
+      "template_count": 2,
+      "api_targets": [
+        "SDXL",
+        "Midjourney",
+        "Flux",
+        "Stable Diffusion",
+        "Custom"
+      ],
+      "bundle_type": "keywords_only"
+    },
+    {
+      "id": "fashion.editorial_shoot",
+      "name": "Editorial Fashion Shoot",
+      "name_zh": "时尚编辑大片",
+      "description": "A curated combination of clothing, composition, lighting, style, and quality keywords for generating high-end editorial fashion photography. Combines runway-ready outfits with editorial composition, d",
+      "description_zh": "精心搭配服装、构图、灯光、风格和质量关键词，生成高端时尚编辑摄影。将跑道级服装与编辑构图、戏剧性灯光和专业摄影师参考相结合，生成杂志级时尚影像。",
+      "category": "fashion",
+      "keyword_count": 21,
+      "template_count": 2,
+      "api_targets": [
+        "SDXL",
+        "Midjourney",
+        "Flux",
+        "DALL-E",
+        "Stable Diffusion",
+        "Custom"
+      ],
+      "bundle_type": "keywords_only"
+    },
+    {
+      "id": "food.editorial_style",
+      "name": "Editorial Food Photography",
+      "name_zh": "美食编辑风格摄影",
+      "description": "A curated combination of quality, scene, lighting, material, and color keywords for generating high-end food photography suitable for magazines, menus, and food blogs. Combines food-styling keywords w",
+      "description_zh": "精心搭配质量、场景、灯光、材质和色彩关键词，生成适合杂志、菜单和美食博客的高档美食摄影。结合美食摆盘关键词与编辑构图和自然灯光，生成引人入胜的杂志级美食图片。",
+      "category": "food",
+      "keyword_count": 21,
+      "template_count": 2,
+      "api_targets": [
+        "SDXL",
+        "DALL-E",
+        "Flux",
+        "Midjourney",
+        "GPT Image",
+        "Custom"
+      ],
+      "bundle_type": "keywords_only"
+    },
+    {
+      "id": "photography.cinematic_portrait",
+      "name": "Cinematic Portrait",
+      "name_zh": "电影感人像",
+      "description": "A curated combination of quality, composition, lighting, character, and style keywords designed for generating emotionally compelling, film-quality portraits. Use this bundle when you need a ready-mad",
+      "description_zh": "精心搭配的质量、构图、灯光、角色和风格关键词组合，专为生成情感丰富的电影级人像而设计。当你需要现成的电影感人像配方时使用此包。",
+      "category": "photography",
+      "keyword_count": 34,
+      "template_count": 3,
+      "api_targets": [
+        "SDXL",
+        "Midjourney",
+        "Flux",
+        "Stable Diffusion",
+        "Custom"
+      ],
+      "bundle_type": "with_template"
+    },
+    {
+      "id": "portrait.cinematic",
+      "name": "Cinematic Portrait",
+      "name_zh": "电影感人像",
+      "description": "A curated combination of quality, composition, and lighting keywords for cinematic portrait photography.",
+      "description_zh": "精选质量、构图和灯光关键词，生成电影感人像摄影。",
+      "category": "character",
+      "keyword_count": 19,
+      "template_count": 2,
+      "api_targets": [
+        "SDXL",
+        "Midjourney",
+        "Flux"
+      ],
+      "bundle_type": "keywords_only"
+    },
+    {
+      "id": "product.ecommerce_packshot",
+      "name": "E-commerce Packshot",
+      "name_zh": "电商标准产品图",
+      "description": "A precise combination of quality, lighting, rendering, and material keywords for generating clean, white-background product photography suitable for Amazon, Shopify, or other e-commerce platforms. Req",
+      "description_zh": "精准搭配质量、灯光、渲染和材质关键词，生成适合 Amazon、Shopify 等电商平台的白色背景标准产品图。要求纯白背景、色彩准确、边缘清晰无阴影、产品正确曝光、高光和阴影处均有细节。",
+      "category": "product",
+      "keyword_count": 17,
+      "template_count": 2,
+      "api_targets": [
+        "SDXL",
+        "DALL-E",
+        "Flux",
+        "GPT Image",
+        "Custom"
+      ],
+      "bundle_type": "keywords_only"
+    },
+    {
+      "id": "product.packaging_mockup",
+      "name": "Packaging Design Mockup",
+      "name_zh": "包装设计样机",
+      "description": "A curated combination of rendering, material, quality, and scene keywords for generating photorealistic packaging mockups and product 3D visualizations. Produces realistic product containers with prop",
+      "description_zh": "精心搭配渲染、材质、质量和场景关键词，生成逼真的包装设计样机和产品3D可视化图。生成带有正确灯光、材质纹理（纸板、玻璃、塑料、箔）和表面处理（哑光、光泽、压花、烫金）的真实产品容器。",
+      "category": "product",
+      "keyword_count": 14,
+      "template_count": 2,
+      "api_targets": [
+        "SDXL",
+        "Flux",
+        "Stable Diffusion",
+        "DALL-E",
+        "Custom"
+      ],
+      "bundle_type": "keywords_only"
+    },
+    {
+      "id": "scene.cyberpunk",
+      "name": "Cyberpunk Scene",
+      "name_zh": "赛博朋克场景",
+      "description": "A curated combination of scene, lighting, and atmosphere keywords for cyberpunk cityscape generation.",
+      "description_zh": "精选场景、灯光和氛围关键词，生成赛博朋克城市景观。",
+      "category": "scene",
+      "keyword_count": 14,
+      "template_count": 2,
+      "api_targets": [
+        "SDXL",
+        "Midjourney",
+        "Flux"
+      ],
+      "bundle_type": "keywords_only"
+    },
+    {
+      "id": "scene.fantasy_landscape",
+      "name": "Fantasy Landscape",
+      "name_zh": "奇幻风景",
+      "description": "A curated combination of quality, scene, lighting, and composition keywords for generating epic fantasy landscape scenes. Use this bundle for landscapes with magical, ethereal, or otherworldly atmosph",
+      "description_zh": "精心搭配的质量、场景、灯光和构图关键词，专为生成史诗奇幻风景场景而设计。适用于带有魔法、空灵或异世界氛围的风景。",
+      "category": "scene",
+      "keyword_count": 20,
+      "template_count": 2,
+      "api_targets": [
+        "SDXL",
+        "Midjourney",
+        "Flux",
+        "Stable Diffusion",
+        "Custom"
+      ],
+      "bundle_type": "keywords_only"
+    },
+    {
+      "id": "video.action_scene",
+      "name": "Action Scene",
+      "name_zh": "动作场景",
+      "description": "A curated combination of action effects, camera movements, transitions, and temporal effects for generating dynamic action sequences in video. Use when you need fast-paced, visually spectacular action",
+      "description_zh": "精心搭配的动作特效、镜头运动、转场和时间效果组合，用于生成动态动作序列视频。需要快节奏、视觉震撼的动作内容时使用。",
+      "category": "video-generation",
+      "keyword_count": 11,
+      "template_count": 2,
+      "api_targets": [
+        "Kling",
+        "Runway",
+        "Minimax H3"
+      ],
+      "bundle_type": "with_template"
+    },
+    {
+      "id": "video.character_focus",
+      "name": "Character Focus",
+      "name_zh": "角色聚焦",
+      "description": "A curated combination of character details, lighting, shot language, and quality keywords for generating compelling character-focused video content. Emphasizes facial expressions, hair dynamics, and c",
+      "description_zh": "精心搭配的角色细节、布光、镜头语言和质量关键词组合，用于生成引人入胜的角色聚焦视频内容。强调面部表情、头发动态和电影级质量。",
+      "category": "video-generation",
+      "keyword_count": 10,
+      "template_count": 2,
+      "api_targets": [
+        "Kling",
+        "Runway",
+        "Minimax H3"
+      ],
+      "bundle_type": "with_template"
+    },
+    {
+      "id": "video.cinematic_landscape",
+      "name": "Cinematic Landscape",
+      "name_zh": "电影感风景",
+      "description": "A curated combination of scene, lighting, color grading, and composition for generating breathtaking cinematic landscape videos. Features sweeping vistas, atmospheric conditions, and rich color palett",
+      "description_zh": "精心搭配的场景、布光、色调和构图组合，用于生成震撼的电影感风景视频。包含广阔景观、大气条件和丰富的色彩基调。",
+      "category": "video-generation",
+      "keyword_count": 11,
+      "template_count": 2,
+      "api_targets": [
+        "Kling",
+        "Runway",
+        "Minimax H3"
+      ],
+      "bundle_type": "with_template"
+    },
+    {
+      "id": "video.dialogue_shot",
+      "name": "Dialogue Shot",
+      "name_zh": "对话镜头",
+      "description": "A curated combination of shot language, lighting, and composition for generating natural dialogue scenes in video. Focuses on character interaction, subtle expressions, and cinematic lighting.",
+      "description_zh": "精心搭配的镜头语言、布光和构图组合，用于生成自然的对话场景视频。聚焦角色互动、微妙表情和电影级布光。",
+      "category": "video-generation",
+      "keyword_count": 11,
+      "template_count": 2,
+      "api_targets": [
+        "Kling",
+        "Runway",
+        "Minimax H3"
+      ],
+      "bundle_type": "with_template"
+    },
+    {
+      "id": "video.transition_sequence",
+      "name": "Transition Sequence",
+      "name_zh": "转场序列",
+      "description": "A curated combination of transitions, temporal effects, and camera movements for generating visually compelling transition sequences in video. Ideal for creative storytelling with seamless scene chang",
+      "description_zh": "精心搭配的转场、时间效果和镜头运动组合，用于生成视觉引人入胜的转场序列视频。适合创意叙事和无缝场景切换。",
+      "category": "video-generation",
+      "keyword_count": 9,
+      "template_count": 2,
+      "api_targets": [
+        "Kling",
+        "Runway",
+        "Minimax H3"
+      ],
+      "bundle_type": "with_template"
+    }
+  ]
+}

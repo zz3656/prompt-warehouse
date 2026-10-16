@@ -1,0 +1,81 @@
+{
+  "id": "video.character_focus",
+  "name": "Character Focus",
+  "name_zh": "角色聚焦",
+  "description": "A curated combination of character details, lighting, shot language, and quality keywords for generating compelling character-focused video content. Emphasizes facial expressions, hair dynamics, and cinematic quality.",
+  "description_zh": "精心搭配的角色细节、布光、镜头语言和质量关键词组合，用于生成引人入胜的角色聚焦视频内容。强调面部表情、头发动态和电影级质量。",
+  "version": "1.0.0",
+  "category": "video-generation",
+  "subcategories": [
+    "character",
+    "portrait",
+    "cinematic"
+  ],
+  "api_targets": [
+    "Kling",
+    "Runway",
+    "Minimax H3"
+  ],
+  "keywords": [
+    {
+      "id": "character_expression_serene_expression",
+      "weight": 0.9,
+      "force_include": true
+    },
+    {
+      "id": "character_eyes_long_eyelashes",
+      "weight": 0.85
+    },
+    {
+      "id": "character_hair_flowing_hair",
+      "weight": 0.85
+    },
+    {
+      "id": "character_hair_wavy_hair",
+      "weight": 0.8
+    },
+    {
+      "id": "character_mood_thoughtful_contemplative_expression",
+      "weight": 0.8
+    },
+    {
+      "id": "shot_language_shot_size_close_up",
+      "weight": 0.95,
+      "force_include": true
+    },
+    {
+      "id": "shot_language_camera_move_push_in",
+      "weight": 0.85
+    },
+    {
+      "id": "lighting_dramatic_cinematic_lighting",
+      "weight": 0.9
+    },
+    {
+      "id": "lighting_natural_soft_lighting",
+      "weight": 0.8
+    },
+    {
+      "id": "composition_lens_bokeh",
+      "weight": 0.85
+    }
+  ],
+  "bundle_type": "with_template",
+  "templates": [
+    {
+      "template_id": "video.prompts",
+      "variant_id": "character_closeup"
+    },
+    {
+      "template_id": "camera.shot_type",
+      "variant_id": "camera.shot_type.closeup"
+    }
+  ],
+  "keyword_count": 10,
+  "keyword_categories": [
+    "character",
+    "composition",
+    "lighting",
+    "shot-language"
+  ]
+}

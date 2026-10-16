@@ -329,7 +329,9 @@
   },
   "categories": [
     "action-fx",
+    "animation",
     "atmosphere",
+    "camera",
     "character",
     "character-fx",
     "clothing",
@@ -339,17 +341,16 @@
     "held-prop",
     "lighting",
     "material",
-    "negative",
     "panel",
     "photographer",
     "quality",
     "scene",
     "shot-language",
+    "storyboard",
+    "style",
     "styles",
     "temporal",
-    "transitions",
-    "_pending_review",
-    "uncategorized"
+    "transitions"
   ],
   "categories_zh": {
     "quality": "质量",
