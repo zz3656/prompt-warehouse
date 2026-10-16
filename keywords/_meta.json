@@ -1,7 +1,7 @@
 {
   "version": "1.0.12",
   "schema_version": "pws-1.0",
-  "total_keywords": 5332,
+  "total_keywords": 5548,
   "total_categories": 23,
   "updated_at": "2026-10-16T09:30:00.000000+00:00",
   "updated_by": "final-fixes-aliases-workflow-names",
@@ -15,6 +15,16 @@
     "nodaro-prompts": 1149
   },
   "changelog": [
+    {
+      "version": "1.0.4",
+      "date": "2026-10-16",
+      "changes": [
+        "term_zh 翻译修复: Beard→胡须, Bard→吟游诗人, leotard→紧身衣, team→团队, Ai→AI生成, Says→画外音/旁白",
+        "labels_zh 补充: 32个转场术语的中文标签（覆盖576条跨分类条目）",
+        "总关键词: 5332 → 5548 (重新合并后)",
+        "schema 校验全部通过"
+      ]
+    },
     {
       "version": "1.0.3",
       "date": "2026-10-16",

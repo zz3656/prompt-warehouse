@@ -4517,7 +4517,7 @@
     ],
     "weight": 0.685,
     "score_v2": 0.685,
-    "term_zh": "茶",
+    "term_zh": "团队",
     "priority": "medium",
     "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
     "aliases": [
@@ -10952,7 +10952,7 @@
     "weight": 0.565,
     "subcategory_group": "midjourney_v5",
     "score_v2": 0.565,
-    "term_zh": "熊",
+    "term_zh": "吟游诗人",
     "priority": "medium",
     "_enriched_at": "2026-10-16T02:35:35.463668+00:00",
     "aliases": [
@@ -39882,7 +39882,7 @@
     "id": "mj_mj_v5_nature_atmosphere",
     "term": "Atmosphere",
     "category": "scene",
-    "subcategory": "scene.nature",
+    "subcategory": "nature",
     "labels": [
       "mj_v5_nature",
       "atmosphere",
@@ -39925,7 +39925,7 @@
     "id": "mj_mj_v5_nature_aurora",
     "term": "Aurora",
     "category": "scene",
-    "subcategory": "scene.nature",
+    "subcategory": "nature",
     "labels": [
       "mj_v5_nature",
       "aurora",
@@ -39970,7 +39970,7 @@
     "id": "mj_mj_v5_nature_aurora_australis",
     "term": "Aurora Australis",
     "category": "scene",
-    "subcategory": "scene.nature",
+    "subcategory": "nature",
     "labels": [
       "mj_v5_nature",
       "aurora",
@@ -40014,7 +40014,7 @@
     "id": "mj_mj_v5_nature_aurora_borealis",
     "term": "Aurora Borealis",
     "category": "scene",
-    "subcategory": "scene.nature",
+    "subcategory": "nature",
     "labels": [
       "mj_v5_nature",
       "aurora",
@@ -40060,7 +40060,7 @@
     "id": "mj_mj_v5_nature_aurorae",
     "term": "Aurorae",
     "category": "scene",
-    "subcategory": "scene.nature",
+    "subcategory": "nature",
     "labels": [
       "mj_v5_nature",
       "aurorae",
@@ -40105,7 +40105,7 @@
     "id": "mj_mj_v5_nature_auroral_light",
     "term": "Auroral Light",
     "category": "scene",
-    "subcategory": "scene.nature",
+    "subcategory": "nature",
     "labels": [
       "mj_v5_nature",
       "auroral",

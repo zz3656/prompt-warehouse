@@ -676,7 +676,7 @@
     {
       "slug": "composition",
       "name_zh": "构图",
-      "count": 522,
+      "count": 738,
       "subcategories": [
         {
           "slug": "cam.camera.settings",
@@ -684,8 +684,18 @@
           "count": 123
         },
         {
+          "slug": "camera_motion",
+          "name_zh": "镜头运动",
+          "count": 58
+        },
+        {
           "slug": "cam.composition.structure",
           "name_zh": "cam.composition.structure",
+          "count": 56
+        },
+        {
+          "slug": "composition.structure",
+          "name_zh": "结构构图",
           "count": 56
         },
         {
@@ -694,13 +704,28 @@
           "count": 35
         },
         {
-          "slug": "camera_motion",
-          "name_zh": "镜头运动",
-          "count": 23
-        },
-        {
           "slug": "lens",
           "name_zh": "镜头选择",
+          "count": 31
+        },
+        {
+          "slug": "camera_format",
+          "name_zh": "画幅格式",
+          "count": 31
+        },
+        {
+          "slug": "camera_framing",
+          "name_zh": "景别",
+          "count": 27
+        },
+        {
+          "slug": "camera_angle",
+          "name_zh": "拍摄角度",
+          "count": 24
+        },
+        {
+          "slug": "composition",
+          "name_zh": "居中构图",
           "count": 19
         },
         {
@@ -724,8 +749,8 @@
           "count": 16
         },
         {
-          "slug": "camera_format",
-          "name_zh": "画幅格式",
+          "slug": "cam.camera_misc",
+          "name_zh": "cam.camera_misc",
           "count": 15
         },
         {
@@ -734,9 +759,9 @@
           "count": 15
         },
         {
-          "slug": "cam.camera_misc",
-          "name_zh": "cam.camera_misc",
-          "count": 15
+          "slug": "camera_coverage",
+          "name_zh": "镜头覆盖",
+          "count": 14
         },
         {
           "slug": "cam.camera_angle",
@@ -744,23 +769,13 @@
           "count": 13
         },
         {
-          "slug": "composition",
-          "name_zh": "居中构图",
-          "count": 12
-        },
-        {
           "slug": "cam.lens",
           "name_zh": "cam.lens",
           "count": 12
         },
         {
-          "slug": "camera_angle",
-          "name_zh": "拍摄角度",
-          "count": 11
-        },
-        {
-          "slug": "camera_framing",
-          "name_zh": "景别",
+          "slug": "rules",
+          "name_zh": "构图法则",
           "count": 9
         },
         {
@@ -774,14 +789,9 @@
           "count": 8
         },
         {
-          "slug": "camera_coverage",
-          "name_zh": "镜头覆盖",
-          "count": 7
-        },
-        {
-          "slug": "camera_angles",
-          "name_zh": "视角选择",
-          "count": 7
+          "slug": "camera_vantage",
+          "name_zh": "视角位置",
+          "count": 8
         },
         {
           "slug": "cam.rules",
@@ -794,14 +804,19 @@
           "count": 7
         },
         {
+          "slug": "camera_angles",
+          "name_zh": "视角选择",
+          "count": 7
+        },
+        {
           "slug": "cam.aerial",
           "name_zh": "cam.aerial",
           "count": 6
         },
         {
-          "slug": "framing",
-          "name_zh": "特写构图",
-          "count": 4
+          "slug": "aerial",
+          "name_zh": "鸟瞰",
+          "count": 6
         },
         {
           "slug": "cam.composition.geometry",
@@ -811,6 +826,16 @@
         {
           "slug": "cam.framing",
           "name_zh": "cam.framing",
+          "count": 4
+        },
+        {
+          "slug": "framing",
+          "name_zh": "特写构图",
+          "count": 4
+        },
+        {
+          "slug": "composition.geometry",
+          "name_zh": "几何构图",
           "count": 4
         },
         {
@@ -839,14 +864,29 @@
           "count": 3
         },
         {
-          "slug": "rules",
-          "name_zh": "构图法则",
-          "count": 2
+          "slug": "push_in",
+          "name_zh": "推镜头",
+          "count": 3
         },
         {
-          "slug": "anamorphic",
-          "name_zh": "变形宽银幕",
-          "count": 2
+          "slug": "pull_out",
+          "name_zh": "拉镜头",
+          "count": 3
+        },
+        {
+          "slug": "tracking",
+          "name_zh": "跟拍",
+          "count": 3
+        },
+        {
+          "slug": "orbiting",
+          "name_zh": "环绕拍摄",
+          "count": 3
+        },
+        {
+          "slug": "crane",
+          "name_zh": "摇臂镜头",
+          "count": 3
         },
         {
           "slug": "cam.panning",
@@ -881,6 +921,41 @@
         {
           "slug": "cam.zoom_in",
           "name_zh": "cam.zoom_in",
+          "count": 2
+        },
+        {
+          "slug": "panning",
+          "name_zh": "摇镜头",
+          "count": 2
+        },
+        {
+          "slug": "prime",
+          "name_zh": "定焦镜头",
+          "count": 2
+        },
+        {
+          "slug": "anamorphic",
+          "name_zh": "变形宽银幕",
+          "count": 2
+        },
+        {
+          "slug": "wide_angle",
+          "name_zh": "广角镜头",
+          "count": 2
+        },
+        {
+          "slug": "focus_pull",
+          "name_zh": "焦点转换",
+          "count": 2
+        },
+        {
+          "slug": "vfx",
+          "name_zh": "特效镜头",
+          "count": 2
+        },
+        {
+          "slug": "zoom_in",
+          "name_zh": "推近镜头",
           "count": 2
         }
       ]
@@ -1232,7 +1307,7 @@
         {
           "slug": "scene.nature",
           "name_zh": "自然景观",
-          "count": 384
+          "count": 378
         },
         {
           "slug": "scene.objects",
@@ -1288,6 +1363,11 @@
           "slug": "fantastical",
           "name_zh": "奇幻场景",
           "count": 7
+        },
+        {
+          "slug": "nature",
+          "name_zh": "自然场景",
+          "count": 6
         },
         {
           "slug": "scene_misc",

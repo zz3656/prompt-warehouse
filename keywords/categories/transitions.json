@@ -3257,7 +3257,10 @@
     "aliases": [
       "dissolve"
     ],
-    "original_subcategory": "cross_dissolve"
+    "original_subcategory": "cross_dissolve",
+    "labels_zh": [
+      "溶解转场"
+    ]
   },
   {
     "id": "transitions_p0_3e2bd65d",
@@ -3286,6 +3289,9 @@
     "aliases": [
       "wipe transition",
       "wipe"
+    ],
+    "labels_zh": [
+      "擦除转场"
     ]
   },
   {
@@ -3315,6 +3321,9 @@
     "aliases": [
       "seamless transition",
       "seamless"
+    ],
+    "labels_zh": [
+      "无缝转场"
     ]
   },
   {
@@ -3346,7 +3355,10 @@
       "flash transition",
       "flash"
     ],
-    "original_subcategory": "flash_cut"
+    "original_subcategory": "flash_cut",
+    "labels_zh": [
+      "闪光转场"
+    ]
   },
   {
     "id": "transitions_p0_45b9e921",
@@ -3376,6 +3388,9 @@
     "aliases": [
       "match cut",
       "match"
+    ],
+    "labels_zh": [
+      "匹配剪辑"
     ]
   },
   {
@@ -3407,7 +3422,10 @@
       "light leak",
       "light"
     ],
-    "original_subcategory": "light_leak"
+    "original_subcategory": "light_leak",
+    "labels_zh": [
+      "漏光效果"
+    ]
   },
   {
     "id": "transitions_p0_925e768a",
@@ -3437,7 +3455,10 @@
     "aliases": [
       "fade"
     ],
-    "original_subcategory": "fade_in"
+    "original_subcategory": "fade_in",
+    "labels_zh": [
+      "淡入"
+    ]
   },
   {
     "id": "transitions_p0_b3bde8ae",
@@ -3467,6 +3488,9 @@
     "aliases": [
       "smash cut",
       "smash"
+    ],
+    "labels_zh": [
+      "硬切"
     ]
   },
   {
@@ -3497,7 +3521,10 @@
       "pull-out reveal",
       "pull-out"
     ],
-    "original_subcategory": "reveal"
+    "original_subcategory": "reveal",
+    "labels_zh": [
+      "拉出揭示"
+    ]
   },
   {
     "id": "transitions_p0_4fa63384",
@@ -3527,7 +3554,10 @@
     "aliases": [
       "push-in"
     ],
-    "original_subcategory": "push_in"
+    "original_subcategory": "push_in",
+    "labels_zh": [
+      "推进镜头"
+    ]
   },
   {
     "id": "transitions_p0_56a319d0",
@@ -3558,7 +3588,10 @@
       "crash zoom",
       "crash"
     ],
-    "original_subcategory": "zoom_in"
+    "original_subcategory": "zoom_in",
+    "labels_zh": [
+      "快速推进镜头"
+    ]
   },
   {
     "id": "transitions_p0_7b210f2b",
@@ -3587,7 +3620,10 @@
     "updated_at": "2026-10-16T04:00:00+00:00",
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "labels_zh": [
+      "穿过门户"
+    ]
   },
   {
     "id": "transitions_p0_af9ff9d2",
@@ -3616,6 +3652,9 @@
     "aliases": [
       "object wipe",
       "object"
+    ],
+    "labels_zh": [
+      "物体擦除转场"
     ]
   },
   {
@@ -3645,6 +3684,9 @@
     "aliases": [
       "body wipe",
       "body"
+    ],
+    "labels_zh": [
+      "身体擦除转场"
     ]
   },
   {
@@ -3675,6 +3717,9 @@
     "aliases": [
       "lens block",
       "lens"
+    ],
+    "labels_zh": [
+      "镜头遮挡转场"
     ]
   },
   {
@@ -3705,6 +3750,9 @@
     "aliases": [
       "dip dark",
       "dip"
+    ],
+    "labels_zh": [
+      "暗场过渡"
     ]
   },
   {
@@ -3734,7 +3782,10 @@
     "updated_at": "2026-10-16T04:00:00+00:00",
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "labels_zh": [
+      "门户转场"
+    ]
   },
   {
     "id": "transitions_p0_d8b66cc8",
@@ -3763,6 +3814,9 @@
     "aliases": [
       "screen wipe",
       "screen"
+    ],
+    "labels_zh": [
+      "屏幕擦除转场"
     ]
   },
   {
@@ -3792,6 +3846,9 @@
     "aliases": [
       "arc continuation",
       "arc"
+    ],
+    "labels_zh": [
+      "弧面续接"
     ]
   },
   {
@@ -3821,6 +3878,9 @@
     "aliases": [
       "roll continuation",
       "roll"
+    ],
+    "labels_zh": [
+      "卷轴续接"
     ]
   },
   {
@@ -3851,6 +3911,9 @@
     "aliases": [
       "filled-frame entry",
       "filled-frame"
+    ],
+    "labels_zh": [
+      "满屏进入"
     ]
   },
   {
@@ -3881,6 +3944,9 @@
     "aliases": [
       "cut action",
       "cut"
+    ],
+    "labels_zh": [
+      "动作剪辑"
     ]
   },
   {
@@ -3911,6 +3977,9 @@
     "aliases": [
       "exit and enter",
       "exit"
+    ],
+    "labels_zh": [
+      "退出/进入画面"
     ]
   },
   {
@@ -3940,6 +4009,9 @@
     "aliases": [
       "graphic wipe",
       "graphic"
+    ],
+    "labels_zh": [
+      "图形擦除转场"
     ]
   },
   {
@@ -3969,7 +4041,10 @@
     "aliases": [
       "cut"
     ],
-    "original_subcategory": "j cut"
+    "original_subcategory": "j cut",
+    "labels_zh": [
+      "J型剪辑"
+    ]
   },
   {
     "id": "transitions_p0_235bd658",
@@ -3998,7 +4073,10 @@
     "aliases": [
       "cut"
     ],
-    "original_subcategory": "l cut"
+    "original_subcategory": "l cut",
+    "labels_zh": [
+      "L型剪辑"
+    ]
   },
   {
     "id": "transitions_p0_ce2527a9",
@@ -4029,7 +4107,10 @@
     "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
     "labels": [],
     "lifecycle": "approved",
-    "original_subcategory": "audio_bridge"
+    "original_subcategory": "audio_bridge",
+    "labels_zh": [
+      "声音桥接"
+    ]
   },
   {
     "id": "transitions_p0_83270b89",
@@ -4058,6 +4139,9 @@
     "aliases": [
       "hidden cut",
       "hidden"
+    ],
+    "labels_zh": [
+      "隐藏剪辑"
     ]
   },
   {
@@ -4087,7 +4171,10 @@
     "updated_at": "2026-10-16T04:00:00+00:00",
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "labels_zh": [
+      "生成桥接"
+    ]
   },
   {
     "id": "transitions_p0_b414a919",
@@ -4116,6 +4203,9 @@
     "aliases": [
       "first and last",
       "first"
+    ],
+    "labels_zh": [
+      "首尾帧匹配"
     ]
   },
   {
@@ -4145,6 +4235,9 @@
     "aliases": [
       "last-frame handoff",
       "last-frame"
+    ],
+    "labels_zh": [
+      "末帧交接"
     ]
   },
   {
@@ -4174,6 +4267,9 @@
     "priority": "medium",
     "_enriched_at": "2026-10-16T05:23:54.595004+00:00",
     "labels": [],
-    "lifecycle": "approved"
+    "lifecycle": "approved",
+    "labels_zh": [
+      "最小形状匹配"
+    ]
   }
 ]
