@@ -1,7 +1,7 @@
 {
   "version": "1.0.12",
   "schema_version": "pws-1.0",
-  "total_keywords": 5658,
+  "total_keywords": 5332,
   "total_categories": 23,
   "updated_at": "2026-10-16T09:30:00.000000+00:00",
   "updated_by": "final-fixes-aliases-workflow-names",
@@ -15,6 +15,16 @@
     "nodaro-prompts": 1149
   },
   "changelog": [
+    {
+      "version": "1.0.2",
+      "date": "2026-10-16",
+      "changes": [
+        "第二轮清理：删除 composition.json 中 camera_motion/lens/camera_angle 等子分类的重复条目 (183条)",
+        "删除 character.json 中 clothing (56条) — 已合并到 clothing.json",
+        "删除 quality.json 中 atmosphere (15条) + composition (10条) + anime/animespecific (19条)",
+        "总关键词: 5658 → 5332 (消除 ~326 条重复)"
+      ]
+    },
     {
       "version": "1.0.1",
       "date": "2026-10-16",

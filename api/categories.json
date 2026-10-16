@@ -425,17 +425,12 @@
     {
       "slug": "character",
       "name_zh": "角色",
-      "count": 543,
+      "count": 487,
       "subcategories": [
         {
           "slug": "pose",
           "name_zh": "姿势动作",
           "count": 122
-        },
-        {
-          "slug": "clothing",
-          "name_zh": "服装搭配",
-          "count": 56
         },
         {
           "slug": "mood",
@@ -681,22 +676,12 @@
     {
       "slug": "composition",
       "name_zh": "构图",
-      "count": 748,
+      "count": 522,
       "subcategories": [
         {
           "slug": "cam.camera.settings",
           "name_zh": "cam.camera.settings",
           "count": 123
-        },
-        {
-          "slug": "camera_motion",
-          "name_zh": "镜头运动",
-          "count": 58
-        },
-        {
-          "slug": "composition.structure",
-          "name_zh": "结构构图",
-          "count": 56
         },
         {
           "slug": "cam.composition.structure",
@@ -709,29 +694,14 @@
           "count": 35
         },
         {
+          "slug": "camera_motion",
+          "name_zh": "镜头运动",
+          "count": 23
+        },
+        {
           "slug": "lens",
           "name_zh": "镜头选择",
-          "count": 31
-        },
-        {
-          "slug": "camera_format",
-          "name_zh": "画幅格式",
-          "count": 31
-        },
-        {
-          "slug": "composition",
-          "name_zh": "居中构图",
-          "count": 29
-        },
-        {
-          "slug": "camera_framing",
-          "name_zh": "景别",
-          "count": 27
-        },
-        {
-          "slug": "camera_angle",
-          "name_zh": "拍摄角度",
-          "count": 24
+          "count": 19
         },
         {
           "slug": "cam.camera_framing",
@@ -754,6 +724,11 @@
           "count": 16
         },
         {
+          "slug": "camera_format",
+          "name_zh": "画幅格式",
+          "count": 15
+        },
+        {
           "slug": "composition_misc",
           "name_zh": "其他构图技巧",
           "count": 15
@@ -764,14 +739,14 @@
           "count": 15
         },
         {
-          "slug": "camera_coverage",
-          "name_zh": "镜头覆盖",
-          "count": 14
-        },
-        {
           "slug": "cam.camera_angle",
           "name_zh": "cam.camera_angle",
           "count": 13
+        },
+        {
+          "slug": "composition",
+          "name_zh": "居中构图",
+          "count": 12
         },
         {
           "slug": "cam.lens",
@@ -779,14 +754,14 @@
           "count": 12
         },
         {
-          "slug": "rules",
-          "name_zh": "构图法则",
-          "count": 9
+          "slug": "camera_angle",
+          "name_zh": "拍摄角度",
+          "count": 11
         },
         {
-          "slug": "camera_vantage",
-          "name_zh": "视角位置",
-          "count": 8
+          "slug": "camera_framing",
+          "name_zh": "景别",
+          "count": 9
         },
         {
           "slug": "cam.camera_coverage",
@@ -797,6 +772,11 @@
           "slug": "cam.camera_vantage",
           "name_zh": "cam.camera_vantage",
           "count": 8
+        },
+        {
+          "slug": "camera_coverage",
+          "name_zh": "镜头覆盖",
+          "count": 7
         },
         {
           "slug": "camera_angles",
@@ -814,11 +794,6 @@
           "count": 7
         },
         {
-          "slug": "aerial",
-          "name_zh": "鸟瞰",
-          "count": 6
-        },
-        {
           "slug": "cam.aerial",
           "name_zh": "cam.aerial",
           "count": 6
@@ -826,11 +801,6 @@
         {
           "slug": "framing",
           "name_zh": "特写构图",
-          "count": 4
-        },
-        {
-          "slug": "composition.geometry",
-          "name_zh": "几何构图",
           "count": 4
         },
         {
@@ -842,31 +812,6 @@
           "slug": "cam.framing",
           "name_zh": "cam.framing",
           "count": 4
-        },
-        {
-          "slug": "push_in",
-          "name_zh": "推镜头",
-          "count": 3
-        },
-        {
-          "slug": "pull_out",
-          "name_zh": "拉镜头",
-          "count": 3
-        },
-        {
-          "slug": "tracking",
-          "name_zh": "跟拍",
-          "count": 3
-        },
-        {
-          "slug": "orbiting",
-          "name_zh": "环绕拍摄",
-          "count": 3
-        },
-        {
-          "slug": "crane",
-          "name_zh": "摇臂镜头",
-          "count": 3
         },
         {
           "slug": "cam.push_in",
@@ -894,38 +839,13 @@
           "count": 3
         },
         {
-          "slug": "panning",
-          "name_zh": "摇镜头",
-          "count": 2
-        },
-        {
-          "slug": "prime",
-          "name_zh": "定焦镜头",
+          "slug": "rules",
+          "name_zh": "构图法则",
           "count": 2
         },
         {
           "slug": "anamorphic",
           "name_zh": "变形宽银幕",
-          "count": 2
-        },
-        {
-          "slug": "wide_angle",
-          "name_zh": "广角镜头",
-          "count": 2
-        },
-        {
-          "slug": "focus_pull",
-          "name_zh": "焦点转换",
-          "count": 2
-        },
-        {
-          "slug": "vfx",
-          "name_zh": "特效镜头",
-          "count": 2
-        },
-        {
-          "slug": "zoom_in",
-          "name_zh": "推近镜头",
           "count": 2
         },
         {
@@ -1225,7 +1145,7 @@
     {
       "slug": "quality",
       "name_zh": "质量",
-      "count": 287,
+      "count": 243,
       "subcategories": [
         {
           "slug": "negative",
@@ -1248,11 +1168,6 @@
           "count": 20
         },
         {
-          "slug": "atmosphere",
-          "name_zh": "氛围灯光",
-          "count": 15
-        },
-        {
           "slug": "texture",
           "name_zh": "纹理质量",
           "count": 12
@@ -1261,21 +1176,6 @@
           "slug": "render_engines",
           "name_zh": "渲染引擎",
           "count": 11
-        },
-        {
-          "slug": "animespecific",
-          "name_zh": "动漫专用",
-          "count": 10
-        },
-        {
-          "slug": "composition",
-          "name_zh": "居中构图",
-          "count": 10
-        },
-        {
-          "slug": "anime",
-          "name_zh": "动漫风格",
-          "count": 9
         },
         {
           "slug": "render_other",

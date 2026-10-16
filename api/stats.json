@@ -1,16 +1,16 @@
 {
   "version": "1.0.12",
-  "total_keywords": 5658,
+  "total_keywords": 5332,
   "total_categories": 19,
   "total_workflows": 25,
   "by_category": {
     "style": 1442,
     "scene": 947,
-    "composition": 748,
     "clothing": 658,
-    "character": 543,
-    "quality": 287,
+    "composition": 522,
+    "character": 487,
     "lighting": 285,
+    "quality": 243,
     "panel": 114,
     "transitions": 113,
     "photographer": 89,
@@ -25,28 +25,28 @@
     "_pending_review": 0
   },
   "by_compatibility": {
-    "sdxl": 5623,
-    "midjourney": 5623,
-    "flux": 1801,
-    "kling": 1784,
-    "runway": 1784,
-    "minimax_h3": 1784,
+    "sdxl": 5297,
+    "midjourney": 5297,
+    "flux": 1617,
+    "kling": 1559,
+    "runway": 1559,
+    "minimax_h3": 1559,
     "_universal": 23
   },
   "relation": {
-    "canonical": 164,
-    "variant": 166,
-    "alias_of": 49,
+    "canonical": 134,
+    "variant": 152,
+    "alias_of": 45,
     "relation_group": 139
   },
   "by_score_bucket": {
     "<0.5": 0,
-    "0.5-0.7": 272,
-    "0.7-0.9": 5080,
-    ">=0.9": 306
+    "0.5-0.7": 230,
+    "0.7-0.9": 4802,
+    ">=0.9": 300
   },
   "missing_term_zh": 0,
-  "generated_at": "2026-10-16T14:06:54.525881+00:00",
+  "generated_at": "2026-10-16T14:25:30.494489+00:00",
   "missing_template_refs": [],
   "total_bundles": 17,
   "total_templates": 16
