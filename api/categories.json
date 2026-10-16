@@ -310,7 +310,38 @@
     "高端女性杂志": "时尚杂志女性",
     "高端男性杂志": "时尚杂志男性",
     "高级感女性": "高级感女性",
-    "高达": "高达模型"
+    "高达": "高达模型",
+    "architecture": "废弃建筑",
+    "audio_bridge": "声音桥接",
+    "commercial": "工业仓库",
+    "cross_dissolve": "交叉溶解",
+    "fade_in": "淡入",
+    "fade_out": "淡出",
+    "flash_cut": "闪切",
+    "frame_rate": "帧率",
+    "hard_cut": "硬切",
+    "interior": "室内场景",
+    "interpolation": "插值",
+    "j cut": "J型剪辑",
+    "jump_cut": "跳切",
+    "l cut": "L型剪辑",
+    "light_leak": "漏光效果",
+    "long_take": "长镜头",
+    "reveal": "揭示转场",
+    "seamless": "无缝转场",
+    "time_lapse": "延时摄影",
+    "wipe": "擦除转场",
+    "不漏诱惑": "不漏诱惑",
+    "二次元大凶美女": "二次元大凶美女",
+    "原神": "原神风格",
+    "古风女生": "古代中国风格",
+    "复古女性": "复古风格女性",
+    "多人合照": "群体照片",
+    "夜景女性": "夜晚场景女性",
+    "大凶美女": "大凶美女",
+    "女性优雅": "优雅女性人像",
+    "女性写实可爱": "女性写实可爱",
+    "食物手绘字体可爱": "食物手绘字体"
   },
   "categories": [
     {
@@ -798,7 +829,7 @@
         },
         {
           "slug": "多人合照",
-          "name_zh": "多人合照",
+          "name_zh": "群体照片",
           "count": 1
         },
         {
@@ -808,7 +839,7 @@
         },
         {
           "slug": "古风女生",
-          "name_zh": "古风女生",
+          "name_zh": "古代中国风格",
           "count": 1
         },
         {
@@ -818,7 +849,7 @@
         },
         {
           "slug": "夜景女性",
-          "name_zh": "夜景女性",
+          "name_zh": "夜晚场景女性",
           "count": 1
         },
         {
@@ -893,12 +924,12 @@
         },
         {
           "slug": "女性优雅",
-          "name_zh": "女性优雅",
+          "name_zh": "优雅女性人像",
           "count": 1
         },
         {
           "slug": "复古女性",
-          "name_zh": "复古女性",
+          "name_zh": "复古风格女性",
           "count": 1
         },
         {
@@ -908,7 +939,7 @@
         },
         {
           "slug": "食物手绘字体可爱",
-          "name_zh": "食物手绘字体可爱",
+          "name_zh": "食物手绘字体",
           "count": 1
         },
         {
@@ -998,7 +1029,7 @@
         },
         {
           "slug": "原神",
-          "name_zh": "原神",
+          "name_zh": "原神风格",
           "count": 1
         }
       ]
@@ -1782,12 +1813,12 @@
         },
         {
           "slug": "interior",
-          "name_zh": "interior",
+          "name_zh": "室内场景",
           "count": 2
         },
         {
           "slug": "commercial",
-          "name_zh": "commercial",
+          "name_zh": "工业仓库",
           "count": 1
         },
         {
@@ -1797,7 +1828,7 @@
         },
         {
           "slug": "architecture",
-          "name_zh": "architecture",
+          "name_zh": "废弃建筑",
           "count": 1
         }
       ]
@@ -2047,22 +2078,22 @@
         },
         {
           "slug": "frame_rate",
-          "name_zh": "frame_rate",
+          "name_zh": "帧率",
           "count": 3
         },
         {
           "slug": "time_lapse",
-          "name_zh": "time_lapse",
+          "name_zh": "延时摄影",
           "count": 1
         },
         {
           "slug": "long_take",
-          "name_zh": "long_take",
+          "name_zh": "长镜头",
           "count": 1
         },
         {
           "slug": "interpolation",
-          "name_zh": "interpolation",
+          "name_zh": "插值",
           "count": 1
         },
         {
@@ -2119,52 +2150,52 @@
         },
         {
           "slug": "wipe",
-          "name_zh": "wipe",
+          "name_zh": "擦除转场",
           "count": 5
         },
         {
           "slug": "seamless",
-          "name_zh": "seamless",
+          "name_zh": "无缝转场",
           "count": 5
         },
         {
           "slug": "jump_cut",
-          "name_zh": "jump_cut",
+          "name_zh": "跳切",
           "count": 3
         },
         {
           "slug": "fade_out",
-          "name_zh": "fade_out",
+          "name_zh": "淡出",
           "count": 3
         },
         {
           "slug": "hard_cut",
-          "name_zh": "hard_cut",
+          "name_zh": "硬切",
           "count": 2
         },
         {
           "slug": "cross_dissolve",
-          "name_zh": "cross_dissolve",
+          "name_zh": "交叉溶解",
           "count": 1
         },
         {
           "slug": "flash_cut",
-          "name_zh": "flash_cut",
+          "name_zh": "闪切",
           "count": 1
         },
         {
           "slug": "light_leak",
-          "name_zh": "light_leak",
+          "name_zh": "漏光效果",
           "count": 1
         },
         {
           "slug": "fade_in",
-          "name_zh": "fade_in",
+          "name_zh": "淡入",
           "count": 1
         },
         {
           "slug": "reveal",
-          "name_zh": "reveal",
+          "name_zh": "揭示转场",
           "count": 1
         },
         {
@@ -2179,17 +2210,17 @@
         },
         {
           "slug": "j cut",
-          "name_zh": "j cut",
+          "name_zh": "J型剪辑",
           "count": 1
         },
         {
           "slug": "l cut",
-          "name_zh": "l cut",
+          "name_zh": "L型剪辑",
           "count": 1
         },
         {
           "slug": "audio_bridge",
-          "name_zh": "audio_bridge",
+          "name_zh": "声音桥接",
           "count": 1
         }
       ]
