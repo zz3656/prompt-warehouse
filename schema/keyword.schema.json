@@ -57,7 +57,8 @@
         "styles",
         "temporal",
         "transitions",
-        "negative"
+        "negative",
+        "minimax_h3"
       ]
     },
     "subcategory": {

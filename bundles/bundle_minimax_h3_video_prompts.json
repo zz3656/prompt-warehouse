@@ -1,0 +1,76 @@
+{
+  "id": "minimax_h3_video_prompts",
+  "name": "MiniMax H3 Video Prompts",
+  "name_zh": "MiniMax H3 视频提示词",
+  "description": "A collection of popular video generation prompts from BeatAPI's MiniMax H3 gallery. These are detailed, cinematic video prompts optimized for the MiniMax H3 model.",
+  "description_zh": "来自 BeatAPI MiniMax H3 画廊的热门视频生成提示词合集。这些是经过优化的电影级视频提示词，专为 MiniMax H3 模型设计。",
+  "version": "1.0.0",
+  "category": "minimax_h3",
+  "subcategories": [
+    "video_prompts"
+  ],
+  "keywords": [
+    {
+      "id": "minimax_h3_human_history_seamless_time_journey",
+      "term": "人类历史的一镜到底旅程",
+      "weight": 0.9,
+      "force_include": true
+    },
+    {
+      "id": "minimax_h3_1970s_city_rain_night_female_detective",
+      "term": "1970 年代城市雨夜女侦探",
+      "weight": 0.9,
+      "force_include": true
+    },
+    {
+      "id": "minimax_h3_quiet_lake_fantasy_short",
+      "term": "湖畔的安静奇幻短片",
+      "weight": 0.85,
+      "force_include": true
+    },
+    {
+      "id": "minimax_h3_toaster_breathes_clouds",
+      "term": "烤面包机吐出云朵",
+      "weight": 0.8,
+      "force_include": true
+    },
+    {
+      "id": "minimax_h3_scissors_cut_river_from_paper",
+      "term": "剪刀在纸上剪出河流",
+      "weight": 0.8,
+      "force_include": true
+    },
+    {
+      "id": "minimax_h3_claude_douba_late_night_conversation",
+      "term": "Claude 与豆包的深夜对话",
+      "weight": 0.85,
+      "force_include": true
+    },
+    {
+      "id": "minimax_h3_rainy_platform_train_flow_light_shadow",
+      "term": "雨夜站台的列车流动光影",
+      "weight": 0.95,
+      "force_include": true
+    },
+    {
+      "id": "minimax_h3_quiet_dialogue_controlled_by_audio_reference",
+      "term": "声音参考控制的安静对白",
+      "weight": 0.9,
+      "force_include": true
+    },
+    {
+      "id": "minimax_h3_typewriter_prints_daisies",
+      "term": "打字机打出雏菊",
+      "weight": 0.8,
+      "force_include": true
+    },
+    {
+      "id": "minimax_h3_anime_romantic_comedy_on_sofa",
+      "term": "沙发上的动画爱情喜剧",
+      "weight": 0.9,
+      "force_include": true
+    }
+  ],
+  "source": "beatapi.io",
+  "created_at": "2026-10-17T00:00:00Z"
+}

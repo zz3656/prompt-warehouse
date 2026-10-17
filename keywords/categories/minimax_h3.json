@@ -1,0 +1,132 @@
+[
+  {
+    "id": "minimax_h3_human_history_seamless_time_journey",
+    "term": "人类历史的一镜到底旅程",
+    "term_zh": "人类历史的一镜到底旅程",
+    "category": "minimax_h3",
+    "subcategory": "video_prompts",
+    "positive_prompt": "Create a 30-second cinematic time-journey video as one completely seamless, continuous, unbroken shot. No cuts, no fades, no dissolves, no resets, and no montage feeling. The camera may orbit, track, dip, rise, rotate, pass behind foreground elements, and temporarily obscure the character, but the result must always feel like one uninterrupted moving shot.  The core idea is a single man traveling forward through time, beginning in the Stone Age and moving through major eras into the present and future.  The camera follows him continuously from behind, maintaining his back in view throughout. He enters each new era walking forward into the frame — no time-warp effect, just a natural continuous walk.  The environment transitions smoothly as he moves: Stone Age cave environments → Ancient Rome streets → Medieval marketplaces → Industrial Revolution factories → Mid-century modern cities → Futuristic sci-fi landscapes.  The lighting and weather change gradually as the eras shift, but the camera never breaks the continuous shot.  Style: cinematic realism, 16:9 aspect ratio, 30 seconds duration.",
+    "negative_prompt": "",
+    "source": "beatapi.io",
+    "compatibility": [
+      "minimax_h3"
+    ]
+  },
+  {
+    "id": "minimax_h3_1970s_city_rain_night_female_detective",
+    "term": "1970 年代城市雨夜女侦探",
+    "term_zh": "1970 年代城市雨夜女侦探",
+    "category": "minimax_h3",
+    "subcategory": "video_prompts",
+    "positive_prompt": "1970s. Nighttime in a gritty urban American city.\n\nA Black female police detective in authentic 1970s plainclothes stands beside an older white male police detective.\n\nShe wears a fitted brown leather jacket, rust-colored blouse, dark flared trousers and leather boots. She has a natural 1970s Afro hairstyle.\n\nThe older detective wears a rumpled tan sport coat, wide-collar dress shirt, dark tie and brown trousers.\n\nThey stand beside a large dark-green 1972 four-door American sedan parked at the curb of a rain-slicked street. Neon signs reflect in puddles on the asphalt. Streetlights cast warm pools of light through the rain.\n\nThe woman looks off into the distance, observant and alert. The older detective stands beside her, equally watchful. Both appear to be waiting for something or someone.\n\nRain falls steadily. The scene has a film noir quality with high contrast lighting and moody atmosphere.",
+    "negative_prompt": "",
+    "source": "beatapi.io",
+    "compatibility": [
+      "minimax_h3"
+    ]
+  },
+  {
+    "id": "minimax_h3_quiet_lake_fantasy_short",
+    "term": "湖畔的安静奇幻短片",
+    "term_zh": "湖畔的安静奇幻短片",
+    "category": "minimax_h3",
+    "subcategory": "video_prompts",
+    "positive_prompt": "15-second, 16:9, cinematic realistic fantasy short developed strictly from <Picture 1>. Lock the whole sequence inside the same small lake boat space only: the same yellow-blue old wooden boat, the same dark lake water, the same orange-cyan umbrella, the same reeds and purple flowers, and the same woman, dog, and book. No second location, no extra people, no black ending. Preserve the exact same adult woman: auburn-brown long hair, straw hat, deep blue floral bikini, same face, same proportions. The dog is a medium-sized brown mixed breed with floppy ears. The book has a cream-colored cover with handwritten text visible on the open pages.",
+    "negative_prompt": "",
+    "source": "beatapi.io",
+    "compatibility": [
+      "minimax_h3"
+    ]
+  },
+  {
+    "id": "minimax_h3_toaster_breathes_clouds",
+    "term": "烤面包机吐出云朵",
+    "term_zh": "烤面包机吐出云朵",
+    "category": "minimax_h3",
+    "subcategory": "video_prompts",
+    "positive_prompt": "\"two small fluffy white clouds rise slowly out of the slots\"\n\nDuration: 14s. Camera: locked, counter height.",
+    "negative_prompt": "",
+    "source": "beatapi.io",
+    "compatibility": [
+      "minimax_h3"
+    ]
+  },
+  {
+    "id": "minimax_h3_scissors_cut_river_from_paper",
+    "term": "剪刀在纸上剪出河流",
+    "term_zh": "剪刀在纸上剪出河流",
+    "category": "minimax_h3",
+    "subcategory": "video_prompts",
+    "positive_prompt": "\"the cut opens behind the blades into a narrow river\"\n\nDuration: 15s. Camera: locked, from above.",
+    "negative_prompt": "",
+    "source": "beatapi.io",
+    "compatibility": [
+      "minimax_h3"
+    ]
+  },
+  {
+    "id": "minimax_h3_claude_douba_late_night_conversation",
+    "term": "Claude 与豆包的深夜对话",
+    "term_zh": "Claude 与豆包的深夜对话",
+    "category": "minimax_h3",
+    "subcategory": "video_prompts",
+    "positive_prompt": "",
+    "negative_prompt": "",
+    "source": "beatapi.io",
+    "compatibility": [
+      "minimax_h3"
+    ]
+  },
+  {
+    "id": "minimax_h3_rainy_platform_train_flow_light_shadow",
+    "term": "雨夜站台的列车流动光影",
+    "term_zh": "雨夜站台的列车流动光影",
+    "category": "minimax_h3",
+    "subcategory": "video_prompts",
+    "positive_prompt": "r34l1sm\nsubject_definitions:\n<Subject 1> is the adult man from @Image1, preserving his facial identity, tousled short black hair, natural skin texture, white shirt, dark plaid waistcoat, and suspenders.\n<Subject 2> is the adult elf woman from @Image2, preserving her facial identity, short dark bob with bangs, pointed ears, and oversized gray hoodie. Her expression is relaxed, affectionate, and quietly happy.\n@Image3 provides the intimate piggyback pose and teal-and-amber nighttime lighting. Use it for pose and atmosphere, giving the woman a warmer, more contented expression.\n\nsummary:\n[reference generation] A fifteen-second affectionate love story in one continuous 16:9 two-person facial close-up. <Subject 1> slowly carries <Subject 2> through a quiet nighttime street. She softly asks to stay like this a little longer. He responds silently with a small smile and slower footsteps. Both faces remain simultaneously sharp. Her Japanese dialogue sounds naturally recorded within the street, with audible distance and environmental space.\n\nretention_analysis:\n<Subject 1> (appears in [Shot 1]): fully_preserved — retain his facial identity, hairstyle, and clothing.\n<Subject 2> (appears in [Shot 1]): fully_preserved — retain her facial identity, hairstyle, pointed ears, and hoodie. Her performance conveys comfort and affection.\n@Image3 ([Shot 1] pose and atmosphere): partially_preserved — retain the piggyback relationship and nighttime palette; adapt the framing into a horizontal facial close-up with greater depth of field and a quietly happy female expression.\n\ndetailed_description:\nLive-action cinematic realism, 16:9 landscape, fifteen seconds. A 35mm cinema lens, fine film grain, soft highlight halation, warm natural skin tones, and cool teal nighttime surroundings. Use moderately deep depth of field with enough soft, motivated street lighting to render both faces clearly.\n\n[Shot 1] One uninterrupted take. A tight two-person facial close-up from slightly ahead and to the couple's left. <Subject 1>'s complete face occupies the lower-left center; <Subject 2>'s complete face appears above his right shoulder in the upper-right center. Include small portions of his collar and her gray sleeves. Her pointed ear remains visible through her short hair. Maintain a comfortable camera distance and natural facial proportions.\n\nBoth faces remain simultaneously in sharp focus throughout the entire shot. Clearly resolve both characters' eyes, eyelashes, lips, and skin texture. Use sufficient depth of field to cover the distance between their faces and their gentle walking movements. The woman is as sharply focused as the man, including when she rests against his shoulder. Prioritize equal facial clarity over strong background blur. The street is gently softened, with recognizable shapes. No selective focus on the man, rack focus, or focus hunting.\n\nHe carries her slowly along the street. The camera retreats at their pace, maintaining a nearly constant distance and the same facial framing. Its movement has a small, smooth breathing sway and gentle vertical drift motivated by careful footsteps. Fixed focal length, continuous perspective, no cuts, orbit, zoom, or abrupt reframing.\n\nDuring the opening seconds, he watches the path ahead with a relaxed expression. She rests comfortably against him, her brow smooth and her lips carrying a faint, natural smile. She briefly looks toward his cheek, then lowers her gaze toward his collar. Her expression conveys affection and ease, with no sorrow, tearful eyes, trembling lips, or worried brows. Neither looks into the camera.\n\nNear the middle, <Subject 2> (S1) turns her mouth slightly toward his ear and speaks naturally in a warm, gently smiling Japanese voice: <d>[Japanese] もう少し、このままで。</d>\n\nHear her sentence from the camera's position, approximately one to two meters away. Her voice is modest in volume, slightly softened by distance, and blended with the surrounding street. Turning toward his ear makes it subtly less direct to the listener. Keep the words intelligible without making the voice unnaturally prominent. Avoid exaggerated whispering, amplified mouth sounds, and studio-isolated vocal clarity.\n\nHe remains silent. After a brief listening pause, his cheek lifts into a small smile and he slows his next steps. She notices, her smile warms slightly, and she gently rests her cheek against his shoulder. Her lips remain closed after the line. Keep both faces sharp as a warm streetlight passes softly across them.\n\nHold their comfortable closeness through the remaining seconds, with natural blinking and gentle walking motion. End while they are still moving together. No subtitles, narration, or additional dialogue.\n\noverall_soundscape:\nA continuous, spatially coherent nighttime street recording heard from the camera's perspective. Footsteps and subtle clothing rustles occupy the nearby space. A low storefront ventilation hum comes from one side. Distant traffic sits farther away; a passing car gradually approaches, moves across the stereo field, and recedes without obscuring the dialogue.\n\nThe woman's voice belongs within this same acoustic environment. Keep street ambience continuously audible beneath her sentence, without muting it or dramatically lowering it when she speaks. Include faint, short reflections from nearby shopfront glass and building surfaces while retaining an open-air sound. No long reverberation, obvious echo, or indoor acoustic character.\n\nBreathing remains subtle at the camera's distance. Preserve one consistent listening perspective for dialogue, footsteps, clothing, and environmental sounds. Use natural vocal dynamics without heavy compression or artificial vocal enhancement. Maintain uninterrupted ambience before, during, and after the sentence. The man remains silent.\n\nnon_diegetic_music:\nN/A. Let the location sound, pauses, and quiet footsteps carry the tenderness.",
+    "negative_prompt": "",
+    "source": "beatapi.io",
+    "compatibility": [
+      "minimax_h3"
+    ]
+  },
+  {
+    "id": "minimax_h3_quiet_dialogue_controlled_by_audio_reference",
+    "term": "声音参考控制的安静对白",
+    "term_zh": "声音参考控制的安静对白",
+    "category": "minimax_h3",
+    "subcategory": "video_prompts",
+    "positive_prompt": "",
+    "negative_prompt": "",
+    "source": "beatapi.io",
+    "compatibility": [
+      "minimax_h3"
+    ]
+  },
+  {
+    "id": "minimax_h3_typewriter_prints_daisies",
+    "term": "打字机打出雏菊",
+    "term_zh": "打字机打出雏菊",
+    "category": "minimax_h3",
+    "subcategory": "video_prompts",
+    "positive_prompt": "\"each key strike prints not a letter but a small real daisy\"\n\nDuration: 15s. Camera: locked, paper height.",
+    "negative_prompt": "",
+    "source": "beatapi.io",
+    "compatibility": [
+      "minimax_h3"
+    ]
+  },
+  {
+    "id": "minimax_h3_anime_romantic_comedy_on_sofa",
+    "term": "沙发上的动画爱情喜剧",
+    "term_zh": "沙发上的动画爱情喜剧",
+    "category": "minimax_h3",
+    "subcategory": "video_prompts",
+    "positive_prompt": "2D anime | romantic comedy | cel-shaded, clean line art, dark blue night palette.\nMultishot, 6 shots. Cuts only at the specified points.\n\nCHARACTERS\nHANA: wavy shoulder-length dark red hair, oversized gray cardigan with one button missing, a bandage on her index finger. 160 cm.\nYUTO: neat black hair with a small bed-head tuft at the back, navy hoodie with a pilled sleeve, glasses pushed up on his forehead. 178 cm.\n\nLOCATION\nDark living room at night. They share one sofa under a single fleece blanket. A TV off-frame in front of them is the only light source, flickering blue on their faces. A bowl of popcorn between them.\n\nSUBTITLES\nSpoken dialogue is in Japanese. English subtitles are burned into the image as on-screen text only — they are never spoken aloud. Style: white sans-serif, thin black outline, one single line, bottom center of frame, 8% from the bottom edge. Each subtitle appears with its line and disappears at the cut. Subtitle text is shown inside 【】 brackets below; the brackets themselves are not displayed.\n\nShot 1 (0–2.5s) — Medium front shot of both, FOV 47, static.\nHana sits upright, arms crossed, smug smile, chin raised. Yuto beside her grips a cushion with both hands, already tense.\nHana (spoken, Japanese): 「全然怖くないし。」\nOn-screen subtitle: 【I'm not scared at all.】\nHARD CUT\n\nShot 2 (2.5–5s) — Close-up on Yuto, FOV 29, slow push-in ending on his eyes.\nHis pupils shrink to tiny dots, a vertical column of blue shade lines drops over his upper face, sweat drop on his temple. He swallows, the cushion squeezed flat. No subtitle in this shot.\nHARD CUT\n\nShot 3 (5–8s) — Medium front shot, FOV 47, static.\nA violent white flash from the TV and a loud sting. Both jump. Clear gag faces: mouths huge and wavy, eyes white, hair standing in spikes. The popcorn bowl flips and popcorn bursts upward like confetti. Two small white ghost-shaped souls slip out of their open mouths.\nHana and Yuto (spoken, Japanese): 「ぎゃああああっ！」\nOn-screen subtitle: 【AAAAAAH!】\nHARD CUT\n\nShot 4 (8–10.5s) — Wide shot, FOV 63, static.\nThey are clutching each other tightly, trembling, their outlines drawn with shaky wobbling lines. Popcorn rains down on them. The souls drift back into their mouths. No subtitle in this shot.\nHARD CUT\n\nShot 5 (10.5–13s) — Two-shot close-up, profile, FOV 29, static.\nSilence. They slowly realize how close they are, faces a hand apart. Both blush deep red at the same time. A tiny comic sparkle pops between them. They let go and shuffle apart in short jerky movements. No subtitle in this shot.",
+    "negative_prompt": "",
+    "source": "beatapi.io",
+    "compatibility": [
+      "minimax_h3"
+    ]
+  }
+]
